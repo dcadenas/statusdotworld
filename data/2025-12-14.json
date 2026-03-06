@@ -1,0 +1,426 @@
+{
+  "date": "2025-12-14",
+  "timestamp": 1772806146186,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate; EU freezes Russian assets, casualties in Ukraine, Syria, Gaza, Sudan.",
+      "summary": "December 14, 2025, saw significant escalation across several global conflicts. Russia launched drone and missile strikes in Ukraine, causing casualties, while Ukrainian drones targeted Russian regions. In Syria, an ISIS ambush killed two US troops and a civilian, and in Gaza, an Israeli airstrike violated a fragile ceasefire, resulting in Palestinian deaths. The European Union decided to indefinitely immobilize 210 billion euros of Russian assets, a move Hungarian Prime Minister Viktor Orban termed a 'declaration of war'.",
+      "regions": [
+        {
+          "name": "Odesa, Ukraine",
+          "lat": 46.48295,
+          "lng": 30.71248,
+          "severity": "red",
+          "detail": "Russia launched drone and missile strikes, causing casualties."
+        },
+        {
+          "name": "Saratov, Russia",
+          "lat": 51.5336,
+          "lng": 46.0346,
+          "severity": "red",
+          "detail": "Ukrainian drones targeted the region."
+        },
+        {
+          "name": "Palmyra, Syria",
+          "lat": 34.5647,
+          "lng": 38.2723,
+          "severity": "red",
+          "detail": "An ISIS ambush killed two US troops and a civilian."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "An Israeli airstrike violated a ceasefire, resulting in Palestinian deaths."
+        },
+        {
+          "name": "Abyei, Sudan",
+          "lat": 10.4667,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "Conflicts escalated, contributing to casualties in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Belarus pardons prisoners amid global youth protests; St. Lucia decriminalizes same-sex acts.",
+      "summary": "On December 14, 2025, Belarusian President Alexander Lukashenko pardoned 123 political prisoners following a deal with the US to lift potash sanctions, though some were subsequently deported. Meanwhile, youth-led protests advocating for human rights reforms reportedly spread globally throughout 2025, often facing repression and violence in countries like Morocco and Nepal. A significant positive development included Saint Lucia's high court decriminalizing same-sex conduct earlier in the year.",
+      "regions": [
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "green",
+          "detail": "President Lukashenko pardoned 123 political prisoners."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Youth-led human rights protests faced repression and violence."
+        },
+        {
+          "name": "Saint Lucia",
+          "lat": 13.9094,
+          "lng": -60.9789,
+          "severity": "green",
+          "detail": "The high court decriminalized same-sex conduct earlier in 2025."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Human rights concerns persisted amid ongoing conflict."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.827,
+          "severity": "yellow",
+          "detail": "Democratic erosion continued with restrictions on civil society and media."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2025 breaks 1.5°C limit, fueling deadly heatwaves and extreme weather.",
+      "summary": "The year 2025 is virtually certain to be among the top three warmest on record, with the three-year average exceeding the 1.5 degrees Celsius warming limit set by the Paris Agreement. This human-caused warming has fueled more frequent and dangerous heatwaves, droughts, storms, and wildfires globally, with heatwaves identified as the deadliest extreme weather events of the year. Despite the urgency, global climate negotiations at COP30 in Belém, Brazil, concluded without an explicit plan to phase out fossil fuels.",
+      "regions": [
+        {
+          "name": "Belém, Brazil",
+          "lat": -1.4558,
+          "lng": -48.4902,
+          "severity": "yellow",
+          "detail": "COP30 climate negotiations concluded without a fossil fuel phase-out plan."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "red",
+          "detail": "Experienced more frequent and dangerous heatwaves, droughts, storms, and wildfires."
+        },
+        {
+          "name": "South Sudan",
+          "lat": 6.877,
+          "lng": 31.307,
+          "severity": "red",
+          "detail": "Experienced more frequent and dangerous heatwaves and extreme weather events."
+        },
+        {
+          "name": "Caribbean",
+          "lat": 15,
+          "lng": -75,
+          "severity": "red",
+          "detail": "Experienced more frequent and dangerous heatwaves, droughts, storms, and wildfires."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The 2025 three-year average exceeded the 1.5 degrees Celsius warming limit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health systems strained by aid cuts, outbreaks; vaccine progress mixed.",
+      "summary": "Global public health faced a challenging year in 2025, marked by widespread funding cuts, conflicts, and climate shocks that strained health systems worldwide. This led to surges in diseases like cholera, measles, Lassa fever, and mpox in Africa, while the US saw resurgences of vaccine-preventable diseases due to vaccine hesitancy. Despite successes in some disease eliminations and expanded HPV vaccinations, 20 million children missed essential vaccines, and significant cuts to HIV/AIDS programs jeopardized millions.",
+      "regions": [
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Experienced surges in cholera, measles, Lassa fever, and mpox."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US saw resurgences of vaccine-preventable diseases due to hesitancy."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Global public health systems were strained amid widespread funding cuts and outbreaks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth slows to 2.6%; trade tensions and AI investments shape outlook.",
+      "summary": "The global economy experienced a slowdown in 2025, with growth projected to reach 2.6%, down from 2.9% in the previous year, primarily due to financial volatility and ongoing geopolitical uncertainties. Trade policy shifts and tariffs were identified as major disruptions, although the immediate impact was less severe than initially feared, with volatility expected to persist into 2026. Investment in Artificial Intelligence (AI) and generative AI remained a top priority for business leaders, contributing to an optimistic outlook for some sectors despite broader economic fragility.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU indefinitely immobilized 210 billion euros of Russian assets."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Trade policy shifts and tariffs caused disruptions, while AI investment was a priority."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Trade policy shifts and tariffs caused disruptions, while AI investment was a priority."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy slowed to 2.6% growth due to financial volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns persist; repression in Georgia and Nepal; Belarus pardons prisoners.",
+      "summary": "Concerns about democratic norms in the United States were highlighted on December 14, 2025, with a Georgia congresswoman resigning after criticism from former President Trump and a 'Democracy 2025' initiative tracking legal challenges against the current administration. Internationally, democratic erosion was evident in Georgia and Nepal, where restrictions on civil society and media, and repression of youth protests, continued. Conversely, Belarus granted pardons to 123 political prisoners, a development with complex implications for its democratic landscape.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns about democratic norms persisted, highlighted by a congresswoman's resignation."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "yellow",
+          "detail": "123 political prisoners were pardoned, with complex implications for democracy."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.827,
+          "severity": "yellow",
+          "detail": "Democratic erosion continued with restrictions on civil society and media."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Democratic erosion continued with restrictions on civil society and media."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian funding collapses to decade low, exacerbating crises globally.",
+      "summary": "Humanitarian funding in 2025 plummeted to its lowest level in a decade, with only $20.5 billion received despite soaring global needs. This severe shortfall, largely attributed to reduced support from major donors like the United States, led to widespread suffering, including surging hunger and strained health systems. Crises in regions like Gaza, where famine was declared in August, and Ukraine, facing ongoing war-related hardship, were significantly impacted, highlighting the urgent need for global solidarity.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "A severe humanitarian crisis, including famine, was exacerbated by funding collapse."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ongoing war-related hardship was significantly impacted by the collapse in funding."
+        },
+        {
+          "name": "Abyei, Sudan",
+          "lat": 10.4667,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "Widespread suffering and a humanitarian crisis were exacerbated by funding collapse."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Reduced US support was attributed to the collapse in humanitarian funding."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "Humanitarian funding plummeted to a decade low, exacerbating global crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3_zD3A6nN5RE1WWFiRhfm5qsrmSx4ocjfXfo9_G4X9aDlm93kuAhwjbzz_F3XKtcSDMJH3Ulr_yKWtgH5g5qhw5Org0iOWPHdmbDlFPxkLar0vrXO_-zpxDsU_BKpHK3MiQkJCqE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqDChaXmnXXtkJTrrAnLtgNyi0wB0yWa7r_kEAs40fXeZqDFQZjeR8I6WqRUkxhJO7f9uXbck3Qy_nWkgOFDj2ZTKwfg-ZNVuaBTXZpQ7pMXjNmbYgjuPQJ5bduj4o8HlJzYAONITjj3N4R5wEKQGA3sMiFQwz7pzW0MGo4U="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWxvs6xhlT744_npgtVqVj9Cu2U9bcKLc4xqe6QUaC4VLc5b7fpANG5Py2xrS-vXD2hmNeErbdK70bpnKsRsHkoS1p7ZbmXneowzay5JKkJhCCDgRi5aszj2sNRoiJ38PL0ZdruIHPVFdfCyfvb-3L9EsyvMw2rTI11H9YJOp_COoboJ0i7f-aag="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRPk44w0mu20k6UxH0OXRUbE81dVpn1JnbxLVwITPL7YQnquJ2ZPD5xaWt3ArNjZUMC7vvzkAaOvO2LYqh8HhDR2wgOpw54hADlzD0RF7pKwyqJHOq3l_bu9H-S_KcF0muFR0Fdjog20Ma1JKZPm6nXv9TZReYmRjEk9FBgspyl8PILNmqRw="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtJccJa6Iib4FfyOCbOF7yNaIrHMTWspjuzgS0yzviSqRxS0xaj2ZPm_MTtiiGmy29ZSs73qDjigtzeuCVwd-HjNvkIlx1IiC8Wm7OjHhYoTivku8L_MDANz6hJHZfKbODELARvVQVpOwB2M="
+        }
+      ]
+    }
+  }
+}

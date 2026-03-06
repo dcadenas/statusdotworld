@@ -1,0 +1,417 @@
+{
+  "date": "2026-02-25",
+  "timestamp": 1772809652787,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Gaza, Ukraine, US-Iran tensions persist; border clashes erupt.",
+      "summary": "Disputes over Hamas disarmament stalled the Gaza peace plan, with Israel threatening to resume full-scale military operations. Russian forces continued offensive operations in Ukraine, with drone and artillery strikes reported in Sumy, Kharkiv, Mykolaiv, and Zaporizhzhya Oblasts causing casualties and power outages. High tensions between the US and Iran continued, although Iran's Foreign Minister expressed optimism for a diplomatic agreement amidst a significant US military buildup. Border clashes also erupted between Afghan and Pakistani forces.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The peace plan stalled over Hamas disarmament, with Israel threatening full-scale military operations."
+        },
+        {
+          "name": "Mykolaiv, Ukraine",
+          "lat": 46.975,
+          "lng": 32,
+          "severity": "red",
+          "detail": "Russian forces conducted drone and artillery strikes, causing casualties and power outages."
+        },
+        {
+          "name": "Zaporizhzhya, Ukraine",
+          "lat": 47.8517,
+          "lng": 35.1172,
+          "severity": "red",
+          "detail": "Russian forces conducted drone and artillery strikes, causing casualties and power outages."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's Foreign Minister expressed optimism for a diplomatic agreement amidst a significant US military buildup."
+        },
+        {
+          "name": "Afghanistan-Pakistan Border",
+          "lat": 34.33,
+          "lng": 70.99,
+          "severity": "yellow",
+          "detail": "Border clashes erupted between Afghan and Pakistani forces."
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Journalist safety and protest rights remain global concerns.",
+      "summary": "Concerns were highlighted regarding press freedom in conflict zones, with Israel cited for two-thirds of journalist killings in 2025. Anti-government protests continued across Iran, indicating ongoing issues with freedom of assembly. Domestically, protests occurred during the State of the Union in the US, leading to arrests and raising questions about freedom of speech and the right to protest.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Press freedom concerns were highlighted, with Israel cited for journalist killings."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Anti-government protests continued, indicating ongoing issues with freedom of assembly."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Protests during the State of the Union led to arrests, raising free speech concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Deadly floods, winter storms, polar vortex disruption hit globally.",
+      "summary": "A major polar vortex disruption moved into official risk territory, posing threats of extreme cold and widespread infrastructure disruptions. Deadly floods and landslides in Minas Gerais, Brazil, resulted in at least 47 deaths, making it the wettest February in Juiz de Fora's history. The Gaza Strip experienced severe flooding exacerbating humanitarian conditions, while Malaysia also faced massive floods. The northeastern U.S. recovered from a severe winter storm that caused deaths, power outages, and flight cancellations.",
+      "regions": [
+        {
+          "name": "Juiz de Fora, Brazil",
+          "lat": -21.76,
+          "lng": -43.37,
+          "severity": "red",
+          "detail": "Deadly floods and landslides caused 47 deaths, marking the wettest February in its history."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Severe flooding exacerbated humanitarian conditions in the region."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.71,
+          "lng": -74.01,
+          "severity": "yellow",
+          "detail": "The region recovered from a severe winter storm that caused deaths, power outages, and flight cancellations."
+        },
+        {
+          "name": "Kota Kinabalu, Malaysia",
+          "lat": 5.98,
+          "lng": 116.07,
+          "severity": "yellow",
+          "detail": "The region faced massive floods."
+        },
+        {
+          "name": "San Juan de Urabá, Colombia",
+          "lat": 8.78,
+          "lng": -76.49,
+          "severity": "yellow"
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Global disease outbreaks and vaccination policy changes raise concerns.",
+      "summary": "A deadly Nipah virus outbreak in West Bengal, India, led to at least two deaths and put other Asian nations on high alert. Mexico's Jalisco state reported a significant surge in measles cases, totaling 2,662 for February due to vaccination gaps and healthcare disruptions. Worldwide, cholera cases reached over 25,000 with 282 deaths, primarily affecting Afghanistan and DR Congo. In the US, a coalition of states sued to challenge changes to the national childhood immunization schedule, raising public health concerns.",
+      "regions": [
+        {
+          "name": "West Bengal, India",
+          "lat": 22.57,
+          "lng": 88.36,
+          "severity": "red",
+          "detail": "A deadly Nipah virus outbreak caused at least two deaths and put other Asian nations on high alert."
+        },
+        {
+          "name": "Jalisco, Mexico",
+          "lat": 20.66,
+          "lng": -103.35,
+          "severity": "red",
+          "detail": "A significant surge in measles cases, totaling 2,662, was reported due to vaccination gaps."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "yellow",
+          "detail": "The region was primarily affected by over 25,000 global cholera cases and 282 deaths."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "The region was primarily affected by over 25,000 global cholera cases and 282 deaths."
+        },
+        {
+          "name": "Minnesota, United States",
+          "lat": 44.97,
+          "lng": -93.26,
+          "severity": "yellow",
+          "detail": "A coalition of states sued to challenge changes to the national childhood immunization schedule."
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "green",
+      "headline": "Global markets gain; US economy shows strength.",
+      "summary": "U.S. stocks closed higher, with the Nasdaq, S&P 500, and Dow all in positive territory, driven by strong labor market and consumer confidence reports. Stock indexes also rose across Europe and Asia, with notable gains in Japan and South Korea. Corporate America increasingly sought tariff refunds, while German Chancellor visited Beijing to discuss trade and market distortions.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.71,
+          "lng": -74.01,
+          "severity": "green",
+          "detail": "US stocks closed higher, with the Nasdaq, S&P 500, and Dow all in positive territory."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Stock indexes rose with notable gains across Asia."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "Stock indexes rose with notable gains across Asia."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "green",
+          "detail": "European stock indexes rose across the region."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The German Chancellor visited to discuss trade and market distortions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US election interference concerns; protests challenge discourse.",
+      "summary": "Democratic state election chiefs in the U.S. were reportedly meeting to strategize responses to anticipated election interference by the Trump administration in the upcoming midterm elections. Scenarios under consideration included federal agents at polling places and disruptions to voting processes. Additionally, protests during the State of the Union address highlighted challenges to democratic discourse and freedom of expression.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Election chiefs strategized against interference; protests during the SOTU challenged democratic discourse."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31.9686,
+          "lng": -99.9018,
+          "severity": "green",
+          "detail": "Concerns about federal agent presence at polling places and voting disruptions were addressed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Somalia emergency escalates; Cuba crisis deepens; Gaza needs high.",
+      "summary": "Somalia is experiencing a rapidly escalating humanitarian emergency, marked by a 67% collapse in funding, leading to a sharp rise in severe malnutrition affecting nearly 2 million children and the closure of over 200 health facilities. Cuba's humanitarian crisis deepened due to fuel shortages and a US embargo, prompting Mexico to send aid and Canada to commit $8 million for food and nutrition. In Jordan, the WHO Director-General visited a hospital caring for children evacuated from Gaza, underscoring the critical need for sustained international support for those affected by conflict. In the US, a bill to fund disaster relief was blocked by Republicans.",
+      "regions": [
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0371,
+          "lng": 45.3438,
+          "severity": "red",
+          "detail": "A rapidly escalating humanitarian emergency due to funding collapse led to severe child malnutrition."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.133,
+          "lng": -82.383,
+          "severity": "red",
+          "detail": "The humanitarian crisis deepened due to fuel shortages and a US embargo; Mexico sent aid."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "The WHO Director-General visited a hospital caring for children evacuated from Gaza."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A bill to fund disaster relief was blocked by Republicans."
+        },
+        {
+          "name": "Antananarivo, Madagascar",
+          "lat": -18.8792,
+          "lng": 47.5079,
+          "severity": "yellow"
+        }
+      ],
+      "sources": [
+        {
+          "title": "westbridgeinsight.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbkMzHF6lWKyP0CwuIAbSDrIDEjaBG7AWXXmCziQR3N-783KUogGOL25-zE-1uz9AgdxqJ_XC_wlekQa3WY9eczLA5_cVXNHrpd4GnT0kG3K50iO-fYG6cu6gGMojUML8Fd4myah4-HmGhxr6_mUpLNDH1RHt82T-Fq6givQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiYiE3wlEJXiwCz4WVZdvYNE_L3sqwdl5_TCKRa3Xq-qyZ2BX8mpetl-wpWgCjWkBLFi7XObQgszfo9PRuGhQ31aUAwXPdTWdmygayDC6VqVKCOD2pdfOCULRwTCHunXCSacMpBBhB5RnQUFc3h8zHOpCRu9t5vnMj4i9jCoTIqohVq4Rxdk5CYt1xKKIcFuc6xZ1OcLBc7sWzeO9X7lUbm8COdGI="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ffkrrEa9VuvhcVcWXSDDARC8wQjDuVu6QwqGrmxHIPnegxXS6cFsVQXz7DotWiyL_sIuUvufWWDaiHKVgyY3v66CZjuicETEvocggF-8OETYMSeXHuw30WsHA8kEnmXnQUpTHKNhJS3GWsMbaY6gXpzzDQ0n8WzxOV7iYvGVty24WqTjI7-sW9WRu1HVZOAmDhNr3ePLt2nYDQ6UnebrLZ2bEpYiBw=="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLO0aMGn2IFR7s9S4QNPbt-j5-C6Fcz6JNjvchmNXZgdvoDBFzyYWwMoH-Bjus5jos54Oz6OGZk0HKPy7orimdGbY1JGWgkzAghPaf9jag12IJDVq8fhjWmmEh2B9JpK0yADI8XaMAPByQYhpQwKdwXyBa--wJdkClU6mPziwQdQaHWO81ZMZE2PAleou17RTQAlq50A7DeDFPt335Dv5VwbcoFSo5A=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZJGrLqQk2fyE8k54rjodMoQyRMF9uWSOIEw8O5Qr9F3aIHOycPTNulrlwvYiJ4TIpwrfikHSFxk2u_feTrNEwl8nRzR2vEmrRGBoVjCLWdsug4KYjMDw7y-edUHTk5e_YzjVMrDS-efCUA=="
+        }
+      ]
+    }
+  }
+}

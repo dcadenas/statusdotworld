@@ -1,0 +1,454 @@
+{
+  "date": "2025-12-12",
+  "timestamp": 1772806061823,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global Security Deteriorates Amid Ongoing Conflicts and Ceasefire Violations",
+      "summary": "The international security order deteriorated in 2025 with conflicts persisting in Ukraine and Gaza. While a ceasefire was in place in Gaza since October, Israel has been accused of multiple violations, resulting in over 350 Palestinian deaths since then. Additionally, Thailand and Cambodia reached a ceasefire in December after weeks of fighting, yet the ongoing Ukraine-Russia war remains one of the deadliest conflicts.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The ongoing Ukraine-Russia war, one of the deadliest conflicts, continued to impact Kyiv."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Gaza faced ongoing Israeli ceasefire violations, resulting in over 350 Palestinian deaths since October."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Thailand and Cambodia reached a ceasefire in December after weeks of fighting."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9282,
+          "severity": "yellow",
+          "detail": "Cambodia reached a ceasefire with Thailand in December, ending weeks of fighting."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5839,
+          "lng": 7.7455,
+          "severity": "yellow",
+          "detail": "The ongoing deterioration of global security was a key concern in European discussions in Strasbourg."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Widespread Human Rights Abuses and Restrictions Reported Globally",
+      "summary": "Human rights faced significant challenges with youth-led protests in Morocco and Nepal met by repression and violence. The arrest of former Philippine President Rodrigo Duterte on charges of crimes against humanity marked a step towards justice. However, civic freedoms are restricted for nearly three-quarters of humanity, and over 120 million people were forcibly displaced by the end of 2024.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Former President Rodrigo Duterte was arrested in Manila on charges of crimes against humanity."
+        },
+        {
+          "name": "Rabat, Morocco",
+          "lat": 34.0209,
+          "lng": -6.8416,
+          "severity": "yellow",
+          "detail": "Youth-led protests in Rabat were met with repression and violence by authorities."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Youth-led protests in Kathmandu faced repression and violence."
+        },
+        {
+          "name": "Florida, United States",
+          "lat": 27.6648,
+          "lng": -81.5158,
+          "severity": "yellow",
+          "detail": "Concerns about civic freedoms and rights restrictions were present in Florida."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "green",
+          "detail": "The Hague remained a vital center for international justice, relevant to human rights abuses globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2025 Among Hottest Years on Record, Extreme Weather Intensifies",
+      "summary": "2025 was one of the three hottest years on record, with the three-year temperature average exceeding the 1.5°C Paris Agreement limit for the first time. Climate change intensified deadly heatwaves, droughts, storms, and wildfires globally, leading to thousands of deaths. Wildfire emissions reached record levels in Europe and Canada, and deadly floods were 'supercharged' by climate change in South and Southeast Asia.",
+      "regions": [
+        {
+          "name": "Europe",
+          "lat": 48,
+          "lng": 14,
+          "severity": "red",
+          "detail": "Europe experienced record levels of wildfire emissions due to intensifying climate change."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "red",
+          "detail": "Canada saw record levels of wildfire emissions, intensifying due to climate change."
+        },
+        {
+          "name": "Sumatra, Indonesia",
+          "lat": -0.5897,
+          "lng": 101.3431,
+          "severity": "red",
+          "detail": "Deadly floods, 'supercharged' by climate change, caused severe disruptions across Sumatra."
+        },
+        {
+          "name": "Arab Region",
+          "lat": 25,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The Arab Region faced intensified climate events, including deadly heatwaves and droughts."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "yellow",
+          "detail": "Bonn continued to serve as a key center for global climate change assessment and discussions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Long COVID Persists as Healthcare Access and Vaccine Policies Face Strain",
+      "summary": "Long COVID remains a significant public health concern in the United States, affecting millions, with children and teenagers particularly vulnerable. Concerns grew over potential changes to vaccine policy by the Trump administration and a Senate vote against extending Affordable Care Act subsidies, which could lead to premium spikes and more uninsured Americans. Meanwhile, seasonal illnesses like flu and measles caused localized disruptions, with Iowa canceling school classes due to sickness.",
+      "regions": [
+        {
+          "name": "Iowa, United States",
+          "lat": 42.0329,
+          "lng": -93.5815,
+          "severity": "yellow",
+          "detail": "School classes in Iowa were canceled due to outbreaks of seasonal illnesses."
+        },
+        {
+          "name": "Louisiana, United States",
+          "lat": 30.9843,
+          "lng": -91.9623,
+          "severity": "yellow",
+          "detail": "Louisiana residents faced ongoing public health concerns from long COVID, reflecting national trends."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York City grappled with persistent public health challenges, including long COVID."
+        },
+        {
+          "name": "Oregon, United States",
+          "lat": 43.8041,
+          "lng": -120.5542,
+          "severity": "yellow",
+          "detail": "Oregon experienced ongoing public health issues like long COVID, especially among youth."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Policy discussions in Washington D.C. focused on vaccine policy and ACA subsidies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Economy Slowing Amid Trade Tensions and Financial Fragilities",
+      "summary": "The global economy showed signs of slowing, with OECD projecting growth to decrease from 3.2% in 2025 to 2.9% in 2026, and UNCTAD forecasting 2.6% for 2025. Escalating U.S. tariffs and protectionist practices are dampening global trade and growth, particularly impacting developing economies which face mounting pressures from high borrowing costs and climate risks. The Federal Reserve cut interest rates by 25 basis points on December 9-10, signaling adjustments to a softening labor market and inflation concerns.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve in Washington D.C. cut interest rates, amid escalating US tariffs and protectionism."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The OECD in Paris projected a global economic growth slowdown from 3.2% to 2.9%."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Beijing was impacted by escalating US tariffs and protectionist practices dampening global trade."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Brussels grappled with the implications of slowing global trade and protectionist practices."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UNCTAD in Geneva forecasted global economic growth at 2.6% for 2025, signaling a slowdown."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy Under Strain Amid Political Conflicts and Erosion of Rights",
+      "summary": "Democratic processes faced challenges, notably with the Trump administration imposing new sanctions on Venezuela and repeating threats of military strikes, while also facing setbacks in attempts to indict political opponents domestically. The US House of Representatives voted to reverse executive orders stripping federal workers of collective bargaining rights, indicating internal political divides. In a positive development, Council of Europe leaders welcomed the release of political prisoners in Belarus.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Washington D.C. saw Trump administration actions against Venezuela and internal political divides."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Caracas faced new sanctions and repeated threats of military strikes from the Trump administration."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "green",
+          "detail": "The release of political prisoners in Minsk was welcomed by Council of Europe leaders."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Brussels leaders welcomed the release of political prisoners in Belarus, supporting democratic norms."
+        },
+        {
+          "name": "Austin, Texas, United States",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "The broader democratic erosion and political conflicts affected the political landscape in Austin."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian Crises Deepen Globally Amid Record Aid Cuts and Conflicts",
+      "summary": "Global humanitarian crises intensified in 2025, marked by record aid cuts and widespread suffering. Sudan was identified as the year's most neglected crisis, with 30 million people needing assistance due to ongoing civil war, displacement of over 14 million, and mass killings in displacement camps. In Eastern DRC, escalating violence displaced over half a million and killed hundreds since December 1. Two famine declarations occurred, and 25 million fewer people received aid despite stable needs as global aid budgets underwent their steepest contraction in decades.",
+      "regions": [
+        {
+          "name": "El-Fasher, Sudan",
+          "lat": 13.6333,
+          "lng": 25.3333,
+          "severity": "red",
+          "detail": "El-Fasher, Sudan, faced a deepening humanitarian crisis with mass displacement and killings in camps."
+        },
+        {
+          "name": "Eastern Democratic Republic of Congo",
+          "lat": 0,
+          "lng": 28,
+          "severity": "red",
+          "detail": "Escalating violence in Eastern DRC displaced over 500,000 people and killed hundreds since December 1."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Gaza Strip faced intensified humanitarian crises, with aid cuts and potential famine declarations."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Kyiv endured a deepening humanitarian crisis amidst record aid cuts and ongoing conflict."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "New York served as a key hub for discussions on deepening global humanitarian crises and aid efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vu8wkHooT1eOwdB50RWa0Beyl-maRL-D_8m5xzPy7zrhFMD9SoMGqhZ2pgkvlWSb3FQkFdk6syHBmUraJTlLNL4tN0jgijSGZwlzO2uijGHFSp1d5IYWxPmECryBBSow7z88vmDbiUakOHTgfa48E0c3nF5HPyioX4R4DgsWXU7CzCIm3AEXHhhddDvH4OntGpihGOR778bVkoL_CD4ujm3pje1XU1kHCqlMIWyeMoCoXsJN02nZHS8aXw=="
+        },
+        {
+          "title": "chathamhouse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnGYieqlYeBg5K4-BojcV8cTkDVjd_uq_eobTH5zLWoLaXkUYh0Lntf5MQ5W0GqhqBkHoyob_18aRIefz62rooXzKAOM6V0t6eZNyc8q1pz7e0r7zZcO3o4EE4KI3he8L9WPsuK7c4Ikh3fofrpI3w3r_U8PF5JFFyi4k1mHlDjirin07KM_dspKnF7hOl2BxX4ObFRrlYNJuJ8e1cPR36P18iA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOEjc0le5mgzUNZlAkuQhaHlWienm8j9xhFcUp7jeGohV_B0GDhO9ZQU_KQhwja1fGxaw07y0PUL-MXCQT7L9yzRWAzTxQcoRut8t9SxtgKvdZeA7LmTsEkJ9N6Fn1XSHam5NKSjVrSgybWV92i1s2-RUSVXpyX2112Mc1q071OrGV9WdehZWyKWtGESeuyRUxWKnAiyQZrwz05dH-fwCvtw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHej0timn6MUIVe_nDWkMmtea0mSfC5YbjrDlDtQ2MZZ7uhYrRCdi3OIOQf4TzGLN01gx3h_aw2qaIIVHP4EIL0efzcg9s4B4FKjj-XAf1im3vWYBnFuit-D0-ukSWKnKb-8MAUbGVaBRH7X0krapDFhO91nXAt5IsCfj4Ql6Y="
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfE4wwicwCt-BbtCdaXf1VuZnMsivxik4UlAt_lUPWihN1Mnty_2f_KR6MnZK_tkQnm0428X2kD_3n4nStM3R08-78IZ5EAJ2AYaM4uBAk9xHiPR1CqwEYLWm1zWVEifukXzvqPBz5HRlW6Ti9"
+        }
+      ]
+    }
+  }
+}

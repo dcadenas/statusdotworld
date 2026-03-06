@@ -1,0 +1,440 @@
+{
+  "date": "2026-01-21",
+  "timestamp": 1772807959474,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Conflict escalates in Sudan; dire situation in Palestinian territories",
+      "summary": "Active conflict continued to escalate in North Darfur State, Sudan, with thousands cut off from aid, while fighting in the Kordofan region displaced nearly 3,000 people and confirmed famine conditions in Kadugli. In the occupied Palestinian territory, two Palestinians were killed by Israeli forces between January 6-19 in the West Bank, and child deaths from hypothermia were reported in Gaza, bringing the season's total to nine.",
+      "regions": [
+        {
+          "name": "North Darfur State, Sudan",
+          "lat": 14.1,
+          "lng": 25.4,
+          "severity": "red",
+          "detail": "Conflict escalated, cutting off thousands from aid."
+        },
+        {
+          "name": "Kordofan, Sudan",
+          "lat": 12,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Fighting displaced nearly 3,000 people and confirmed famine conditions in Kadugli."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Child deaths from hypothermia were reported, bringing the season's total to nine."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Two Palestinians were killed by Israeli forces between January 6-19."
+        },
+        {
+          "name": "Syria",
+          "lat": 34.8021,
+          "lng": 38.9968,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran protests face deadly crackdown; US ICE actions scrutinized",
+      "summary": "Iran faced an unprecedented deadly crackdown on protests that began in late December 2025, with mass killings and serious injuries reported, and an internet shutdown since January 8, 2026. Authorities reported 3,117 deaths, while a UN Special Rapporteur cited up to 20,000. In Minnesota, federal prosecutors issued subpoenas to Democratic officials over alleged obstruction of ICE operations, with claims of ICE agents violating civil rights of US citizens, particularly people of color.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Faced an unprecedented deadly crackdown on protests, with mass killings and an internet shutdown."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Federal prosecutors issued subpoenas to Democratic officials over alleged obstruction of ICE operations."
+        },
+        {
+          "name": "Hennepin County, USA",
+          "lat": 45,
+          "lng": -93.5,
+          "severity": "red",
+          "detail": "Federal prosecutors issued subpoenas to Democratic officials over alleged obstruction of ICE operations."
+        },
+        {
+          "name": "Slovakia",
+          "lat": 48.669,
+          "lng": 19.699,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Massive winter storm to hit US; EPA rollback sparks alarm",
+      "summary": "A massive winter storm was forecast to impact a 2,000-mile stretch of the United States from the Southern Plains to the East Coast starting January 23rd, threatening dangerous travel, power outages, and life-threatening cold for millions. The US president reversed the Environmental Protection Agency's 'Endangerment Finding,' revoking federal authority to control greenhouse gas emissions, a move expected to lead to higher emissions and more frequent extreme weather events.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "A massive winter storm was forecast, and federal authority to control greenhouse gas emissions was revoked."
+        },
+        {
+          "name": "Northern Japan",
+          "lat": 40,
+          "lng": 140,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        },
+        {
+          "name": "Greenland",
+          "lat": 72,
+          "lng": -40,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        },
+        {
+          "name": "Washington State, USA",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "green",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "US withdraws from WHO; measles outbreak and blood shortages persist",
+      "summary": "The United States officially completed its withdrawal from the World Health Organization (WHO) on January 22, 2026, marking a significant disruption to global health governance. Meanwhile, Napa County, California, health officials coordinated containment for a single measles case linked to a large outbreak in South Carolina, and the American Red Cross reported hospital demand for blood outpacing donor supply, partly due to inclement weather and flu season. Concerns were also raised about a sharp rise in livestock antibiotic use threatening life-saving medications.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "The American Red Cross reported hospital demand for blood outpacing donor supply."
+        },
+        {
+          "name": "Napa County, USA",
+          "lat": 38.2975,
+          "lng": -122.2868,
+          "severity": "yellow",
+          "detail": "Health officials coordinated containment for a single measles case."
+        },
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "yellow",
+          "detail": "Was linked to a large measles outbreak that prompted containment efforts elsewhere."
+        },
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Wall Street rebounds amidst volatility; global economy shows mixed signals",
+      "summary": "Wall Street indexes rebounded strongly on January 21, 2026, with consumer discretionary, technology, and financials leading gains, driven by resilient consumer demand and steady job growth in the US. However, global markets experienced a turbulent week marked by geopolitical uncertainty, specifically 'Greenland tariff threats' between the US and Europe, and elevated market volatility. While US jobless claims fell to a two-year low and UK/Germany showed positive growth, China's economic data highlighted persistent weakness in domestic consumption.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Wall Street indexes rebounded strongly, and jobless claims fell to a two-year low."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.6909,
+          "lng": 17.5758,
+          "severity": "yellow",
+          "detail": "Experienced global market turbulence due to 'Greenland tariff threats' with the US."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "Economic data highlighted persistent weakness in domestic consumption."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "yellow",
+          "detail": "Showed positive economic growth amidst global market volatility."
+        },
+        {
+          "name": "Germany",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "Showed positive economic growth amidst global market volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "ICE actions spark democracy concerns; Iran crackdown intensifies",
+      "summary": "Federal prosecutors issued subpoenas to five Democratic officials in Minnesota as the Justice Department investigated whether they blocked ICE from rounding up undocumented immigrants, raising concerns about federal overreach and civil rights violations. President Trump's rhetoric, including threats to invoke the Insurrection Act and claims of power restrained only by 'my own morality,' further fueled democratic erosion concerns. Concurrently, the Iranian authorities continued a severe crackdown on nationwide protests, suppressing democratic expression with mass killings and an internet shutdown.",
+      "regions": [
+        {
+          "name": "Minnesota, USA",
+          "lat": 46.7296,
+          "lng": -94.6859,
+          "severity": "red",
+          "detail": "Federal prosecutors issued subpoenas to officials regarding alleged obstruction of ICE operations."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Authorities continued a severe crackdown on nationwide protests, suppressing democratic expression."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "President Trump's rhetoric and threats to invoke the Insurrection Act fueled democratic erosion concerns."
+        },
+        {
+          "name": "North Battleford, Canada",
+          "lat": 52.757,
+          "lng": -108.2862,
+          "severity": "green",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza faces dire crisis; aid obstructed in Sudan and Palestine",
+      "summary": "The humanitarian situation in the Gaza Strip remained dire, with hypothermia-related child deaths increasing and over 18,000 patients, including 4,000 children, awaiting medical evacuation. In Sudan, thousands were cut off from aid in North Darfur due to escalating conflict, and famine conditions were confirmed in Kadugli, South Kordofan State, with critical funding gaps. Additionally, new Israeli restrictions were reported to threaten the expulsion of 37 NGOs from the occupied Palestinian territory, further obstructing vital assistance.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Humanitarian situation remained dire with increasing child deaths from hypothermia and patients awaiting evacuation."
+        },
+        {
+          "name": "North Darfur State, Sudan",
+          "lat": 14.1,
+          "lng": 25.4,
+          "severity": "red",
+          "detail": "Thousands were cut off from aid due to escalating conflict, with critical funding gaps."
+        },
+        {
+          "name": "Kordofan, Sudan",
+          "lat": 12,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Famine conditions were confirmed in Kadugli with aid obstruction and critical funding gaps."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "New Israeli restrictions were reported, threatening the expulsion of 37 NGOs."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 91.9779,
+          "severity": "yellow",
+          "detail": "No specific event reported for this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKZCo227nNwvJVUi94X_zpG3j0RudRJge97MQ9SrXLu6Z9f-AVAOwsdsvmp3HzffINLuXQDpmFO2VZ6cbYxUFbNFbJP5RsBo6Tp33a42Nn6DlInKN_eiBDd40upLmtt4bEY0QLodkVW8v2Mho156pO6CdkWn4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCPIo83h3QCLEhAF8ftj8IzQRbeMuhFyTO7TGjnp876CT7UVkZ3hRdQ2aD_ygFmB8kFMBllvAiZFAU8PvXlgf2ZPU8jnhAmL-3R4QqVulueKcHLACcgtqdoJztd0XDD4rPBYKHCIzaaQJpqcFXlj5sd4HZ7pRyQfXd_FeeCIR5EeWTEzjAII42Woh1W5SJnU="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO7N94Lie6zrZ6QxXIoa9ADYI3zVRfksNIMeb_rnY9jhHR6a2qHZFNnldmYxS--bG-CCzVc9UrvFupkLA7PyLHEu3K_6y_2dNprFAW7hivKCQlvsNipO6S2QhjcFauobSI-YqJkslGbFl1rUAygYnhvywM3gwhI7KPoDOH4VKpiYWi5B1i6tnmuzfEv0k81cjsFj6eXKpSJZ1EHSfo9Q=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8v4zp6CswOXCVNzybRORyc4k_j-qqOgC6uV8_qVUeNHx30EwMppGk6RoT_dOtiyyAShdqDH_lPYELidWHl6iVmAKd1l4FMmXkkeBh4-I1uPbgDi3Kub5Zs326gGYQ4lu3VgwUEMRpUc6Nz1Q9nHSdAvJAczpe7aaDIZGyw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhiAzZMzWeDim13PSeA5EatMjdFoPZq2l7BplEtRiYLnRcxwngQQP_zSGnAoqEch6VHAGYF5lVohPat02gbgDA0DLyLGOflmTt7LbQajv-Qp46vV6nSV4IKLzns4ydzfK_yx4jsDHyq5S2Dwdc3aaTiWg0hctTTw=="
+        }
+      ]
+    }
+  }
+}

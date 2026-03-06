@@ -1,0 +1,447 @@
+{
+  "date": "2026-01-06",
+  "timestamp": 1772807213887,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts intensify with Russia-Ukraine war, US-Venezuela strikes, and Middle East escalation.",
+      "summary": "The global situation on January 6, 2026, saw a severe escalation of armed conflicts, notably with ongoing Russian offensive operations and drone strikes in Ukraine, despite a peace summit in Paris discussing security guarantees for Kyiv. Simultaneously, the US conducted large-scale military strikes in Venezuela on January 3, capturing President Nicolas Maduro, and Israel launched bombardments in Tehran and Beirut, signaling a 'new stage' in its campaign against Iran. Geopolitical tensions also heightened with reports of a potential Russia-NATO war and instability in the Middle East.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian offensive operations and drone strikes continued, amid a Paris summit on security guarantees."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A peace summit was held in Paris to discuss security guarantees for Kyiv."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "US military strikes on January 3 led to the capture of President Nicolas Maduro."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israel launched bombardments in the city, signaling a \"new stage\" in its campaign."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel launched bombardments in the city, signaling a \"new stage\" in its campaign."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran cracks down on protests, US democratic backsliding escalates, and Gaza civilians killed.",
+      "summary": "Human rights faced severe challenges on January 6, 2026, with Iranian authorities brutally repressing nationwide protests, using lethal force that resulted in at least 27 deaths and mass detentions, as reported by Human Rights Watch. In the United States, reports from Amnesty International and Human Rights Watch highlighted a 'devastating erosion of human rights' and 'rising authoritarian practices' under President Trump's second term, including anti-immigrant policies and suppression of dissent. Meanwhile, an Israeli airstrike in Gaza tragically killed a 5-year-old girl and her uncle, adding to civilian casualties in the region.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Authorities brutally repressed nationwide protests, resulting in at least 27 deaths and mass detentions."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Reports highlighted a \"devastating erosion of human rights\" and \"rising authoritarian practices.\""
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "red",
+          "detail": "An Israeli airstrike tragically killed a 5-year-old girl and her uncle."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The US military action leading to Maduro's capture was viewed as a human rights violation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global warming exceeds 1.5°C threshold as deadly winter storm hits US.",
+      "summary": "The global climate situation on January 6, 2026, was critical, with the three-year average for 2023-2025 projected to exceed the Paris Agreement's 1.5°C warming limit for the first time, signaling an accelerating pace of climate change. A major winter storm, unofficially named 'Winter Storm Fern,' caused widespread snow, ice, power outages, and hundreds of fatalities across the central and eastern United States and Canada from January 6-8. This comes amidst a backdrop of powerful tropical cyclones in Southeast Asia in late 2025 and above-average temperatures in northern Canada and the Arctic Ocean, highlighting intensified extreme weather patterns globally.",
+      "regions": [
+        {
+          "name": "Eastern United States",
+          "lat": 40,
+          "lng": -80,
+          "severity": "red",
+          "detail": "A major winter storm caused widespread snow, ice, power outages, and hundreds of fatalities."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Powerful tropical cyclones impacted the Southeast Asia region in late 2025."
+        },
+        {
+          "name": "Iqaluit, Nunavut, Canada",
+          "lat": 63.7467,
+          "lng": -68.517,
+          "severity": "yellow",
+          "detail": "The region experienced above-average temperatures as part of intensified extreme weather."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "green",
+          "detail": "The city was affected by global warming exceeding the Paris Agreement's 1.5°C limit."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Berlin was affected by global warming exceeding the Paris Agreement's 1.5°C limit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "US rolls back childhood vaccine schedule amid global flu surge and outbreaks.",
+      "summary": "Public health faced a severe crisis on January 6, 2026, as the US Department of Health and Human Services dramatically revised the childhood immunization schedule, reducing recommended vaccines from 17 to 11 diseases without expert input, drawing widespread criticism. Concurrently, a new subclade K variant of influenza was driving a significant surge in flu cases across the US and Canada, leading to high hospitalization rates and pediatric deaths. Globally, Project HOPE warned of 'Life-Threatening Vaccination Gaps' and emerging disease threats like novel screwworm in Central America and Mexico, and West Nile virus in Austria, all straining already fragile health systems.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The HHS dramatically revised the childhood immunization schedule, reducing recommended vaccines."
+        },
+        {
+          "name": "Toronto, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "yellow",
+          "detail": "A new flu variant was driving a significant surge in cases, leading to high hospitalizations and deaths."
+        },
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "yellow",
+          "detail": "Emerging threats from novel screwworm were straining health systems in Central America."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "red",
+          "detail": "Project HOPE warned of life-threatening vaccination gaps, straining its fragile health system."
+        },
+        {
+          "name": "Vienna, Austria",
+          "lat": 48.2082,
+          "lng": 16.3738,
+          "severity": "yellow",
+          "detail": "Emerging threats from West Nile virus were straining the health system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces geopolitical shocks and regional crises.",
+      "summary": "On January 6, 2026, the global economy showed resilience with positive growth projections, driven by AI-related investment and easing inflation fears, leading to a US stock market rally. However, significant geopolitical events introduced instability, particularly the US military action in Venezuela, which influenced energy and defense stock performance and created severe fuel shortages in Cuba due to a US blockade. Overall, the outlook remained clouded by persistent trade tensions, ongoing inflation concerns in the US, and specific regional economic collapses such as in Iran.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "US military action influenced energy and defense stock performance and created instability."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3596,
+          "severity": "red",
+          "detail": "The city faced severe fuel shortages due to a US blockade."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The city faced regional economic collapse due to ongoing instability."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The nation faced ongoing inflation concerns despite a stock market rally."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Europe's economy showed resilience but faced instability from geopolitical shocks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US democracy under severe threat as authoritarian practices escalate; Venezuela's leader captured.",
+      "summary": "Democracy faced a critical day on January 6, 2026, with stark warnings about the 'democracy crisis' in the United States, five years after the Capitol attack. Reports from Public Citizen, Amnesty International, and Human Rights Watch detailed escalating authoritarian practices under President Trump's second term, including undermining the rule of law, suppressing dissent, and challenging election integrity. The US military intervention in Venezuela, leading to the capture of President Maduro, was widely viewed as a violation of international law and a reinforcement of authoritarian trends. While Brazil notably convicted a former president for a coup attempt, other regions like Tanzania saw brutal crackdowns following a 'sham election'.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Warnings detailed escalating authoritarian practices, undermining rule of law and suppressing dissent."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "US military intervention led to the capture of President Maduro, reinforcing authoritarian trends."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "A former president was notably convicted for a coup attempt."
+        },
+        {
+          "name": "Dodoma, Tanzania",
+          "lat": -6.1632,
+          "lng": 35.7398,
+          "severity": "red",
+          "detail": "Brutal crackdowns followed a \"sham election\" in the region."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The nation was implicated in global concerns regarding democratic erosion and authoritarian practices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Famines confirmed in Gaza and Sudan as global hunger crisis deepens amid aid cuts.",
+      "summary": "The global humanitarian situation on January 6, 2026, was dire, characterized by a severe and worsening hunger crisis. The World Food Programme warned that over 318 million people face acute food insecurity, with famines officially confirmed in Gaza and parts of Sudan, marking the first time this century famine has affected two countries simultaneously. Conflict-driven displacement affected over 117 million people globally, with Sudan alone seeing 11.5 million displaced and a severe health crisis. Humanitarian efforts were further hampered by significant funding shortfalls from donor governments, including the dismantling of USAID, and by continued attacks on aid workers, particularly in the occupied Palestinian territory and Sudan.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "red",
+          "detail": "Famine was officially confirmed, and aid workers faced continued attacks."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Famine was officially confirmed, and the country saw 11.5 million displaced amid a health crisis."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9999,
+          "severity": "red",
+          "detail": "The region faced severe acute food insecurity and conflict-driven displacement."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The region faced severe acute food insecurity amidst a deepening global hunger crisis."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "The region faced severe acute food insecurity amidst a deepening global hunger crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTn7xsEnwfQ0w8eg96x7CN7Wu1w7qDQQeq7k-xwLTosrzPcB28MRzmUcpFiwdaxNhBxuQEOG8cR7Tt_xG_glU3wwiIOF_c1JxSDCys0quqfOG-qRaVaufODGbgUs5kcp5YBqUyiJL93-fN5inWoeUgD67XjO1sza1wg7EUvz-zIT7VXWDfz90Twcnd4Dy_pGtYXqoVSV_XzInZbqJt8c="
+        },
+        {
+          "title": "waterjusticeinpalestine.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbp7lhXuT43j6JX7n3GOLV1svIR-LYVpFCNCab9BpnQInhFSGh7oDHlWZZHING2qh4dhmuqC5VgAFDDpDnjceyOIXGFofRXvom4UxAo_GlqeFAq84LmvyYp5m4vA8ZcS9O15sPgYrZBAqCl_ZeaG-Yc9dug6ZeAUijORxgPLJGTynWTh6Q1MbICMIIpMk9mR2UMzcExY-tc8sBIy_Uqu4i9paWhWjIYzI"
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkHX8P-sdc8v-LYN9lN9Kigm-Kyq4J2DSNPJv4nIqGskCP2k1_2Vn9kTCubjZjH97bjqRljjuOkq8s_7cRt6Utr6jvc9aM1oq8MKF773263qUBC8no5GTu95_FF-04U7HVuBtWA8GF0rDWNSfnDcIDRsHDDK4R9F88hOxLNEHEccbJDQC7IbUJsOU8C52BowzIzZRBZ3i9o-3N62SQFoByFjl9lvaFz8teA=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMRNqlzbKPNt2JDnvhb_ZazkqWCBuH9vAtjnMK8Y1YwJH0-DGuEZ0r2gpr0NesbRx6sET21dTZZgtI56PRKPk-J9js8rpwwBD__RJyTJ0Pf8hVo07GJtN9LNyPwXtYlbg5t0TZVfC"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTz7mwDHHhqpBGBxkXxpS90T8mBWSf-bfFCTEe_Gsa8fBpPZi4DAY53JcNZP_YYEJWQ06Sd1MHF7aZ542YV0ffCOxC9Jtl4-_ctOcuqcy8QKjO9eByUeFEQs8peEg5X_B0y1NCYGoxh5RB5viubvNEkJkyV4AR-Vica-emETt7glOYG8eA21FfakfBiMTyJvA5F5kVnFwF2x1UuaouA9xUleUQujTbKgHqf_teacsrTXLvnJfo2GU8Y2AB54SiYPWEg=="
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "date": "2025-12-24",
+  "timestamp": 1772806611104,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts rage: Gaza, Ukraine, Sudan see fresh escalations.",
+      "summary": "On December 24, 2025, an Israeli officer was wounded in Rafah amidst ongoing operations, with Israel accusing Hamas of ceasefire violations and signaling a tougher response. Russia launched drone and missile attacks on Ukrainian cities despite ongoing peace talks, while fighting continued in Sudan with a town recaptured by the army. Russia also condemned the US blockade on Venezuela as an act of aggression during a UN Security Council meeting.",
+      "regions": [
+        {
+          "name": "Rafah, Gaza Strip",
+          "lat": 31.2957,
+          "lng": 34.2541,
+          "severity": "red",
+          "detail": "An Israeli officer was wounded amidst ongoing operations."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The city was targeted by Russian drone and missile attacks."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5517,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "Fighting continued in the city amidst the ongoing civil war."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": 66.9036,
+          "severity": "yellow",
+          "detail": "Russia condemned the US blockade on the nation as an act of aggression."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "US restricts veteran abortion access, immigration arrests; UK hunger strike.",
+      "summary": "The US Department of Veterans Affairs announced it would no longer provide abortion assistance, even in cases of rape, incest, or threats to life and health. The Justice Department also challenged Illinois state laws restricting immigration arrests, while ICE conducted over 4,000 arrests in the Chicago area. In the UK, Palestine Action prisoners continued a hunger strike for over 50 days, with doctors warning of risks to their lives.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The VA announced it would no longer provide abortion assistance."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Prisoners continued a hunger strike for over 50 days."
+        },
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "ICE conducted over 4,000 immigration arrests in the area."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Catastrophic floods hit US Pacific Northwest, California, and parts of Africa.",
+      "summary": "December 2025 was marked by catastrophic flooding across Washington, Oregon, and British Columbia, displacing over 100,000 people due to a Category 5 atmospheric river. Southern California also experienced deadly torrential rain and mudslides on Christmas Day. Additionally, Malawi's Nkhotakota District suffered severe flooding, and Mozambique's Buzi and Pungue river basins saw water levels above alert thresholds.",
+      "regions": [
+        {
+          "name": "Washington State, USA",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "red",
+          "detail": "Catastrophic flooding displaced over 100,000 people due to an atmospheric river."
+        },
+        {
+          "name": "British Columbia, Canada",
+          "lat": 53.7267,
+          "lng": -127.6476,
+          "severity": "red",
+          "detail": "Catastrophic flooding displaced over 100,000 people due to an atmospheric river."
+        },
+        {
+          "name": "Southern California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "red",
+          "detail": "Deadly torrential rain and mudslides occurred on Christmas Day."
+        },
+        {
+          "name": "Nkhotakota, Malawi",
+          "lat": -12.9242,
+          "lng": 34.2981,
+          "severity": "red",
+          "detail": "The district suffered severe flooding."
+        },
+        {
+          "name": "Buzi, Mozambique",
+          "lat": -20.0833,
+          "lng": 34.3333,
+          "severity": "yellow",
+          "detail": "River basins saw water levels rise above alert thresholds."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles in Darfur, cholera in Zambia, and Mpox in Madagascar.",
+      "summary": "Doctors Without Borders reported a rapidly spreading measles outbreak in Sudan's Darfur region, affecting hundreds of thousands of displaced individuals. Zambia continued to grapple with a cholera outbreak, while Madagascar confirmed an Mpox outbreak in December 2025. In Gaza, a winter storm brought low temperatures and rains, posing health risks to newborns and other vulnerable groups.",
+      "regions": [
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "A rapidly spreading measles outbreak was reported, affecting hundreds of thousands."
+        },
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "The nation continued to grapple with a cholera outbreak."
+        },
+        {
+          "name": "Madagascar",
+          "lat": -18.7669,
+          "lng": 46.8691,
+          "severity": "yellow",
+          "detail": "An Mpox outbreak was confirmed in the nation."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "yellow",
+          "detail": "A winter storm brought low temperatures and rains, posing health risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US-China trade war escalates; Venezuela faces US economic pressure.",
+      "summary": "The global economy faced ongoing challenges on December 24, 2025, with the US-China trade war seeing further escalation due to new tariffs, disrupting international trade. Venezuela continued to endure significant economic and military pressure from the US, including the seizure of oil tankers and bombings of boats. These developments contributed to persistent volatility in the global economic landscape.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US-China trade war escalated with new tariffs."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The US-China trade war escalated with new tariffs."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The nation endured significant economic and military pressure from the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Supreme Court blocks federal troops; Albania sees protest arrests.",
+      "summary": "The US Supreme Court blocked President Trump's deployment of federal troops to Chicago, a move hailed as a win for American democracy. In Albania, four individuals were arrested after an opposition rally in Tirana, with the opposition accusing the governing party of election fraud and undermining democracy. Additionally, Cameroon saw a government crackdown on civil society ahead of 2025 presidential polls, and Guinea faced calls for protests against its ruling junta.",
+      "regions": [
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The US Supreme Court blocked federal troop deployment to the city."
+        },
+        {
+          "name": "Tirana, Albania",
+          "lat": 41.3275,
+          "lng": 19.8193,
+          "severity": "yellow",
+          "detail": "Four individuals were arrested after an opposition rally."
+        },
+        {
+          "name": "Yaoundé, Cameroon",
+          "lat": 3.848,
+          "lng": 11.5021,
+          "severity": "yellow",
+          "detail": "A government crackdown on civil society occurred ahead of 2025 polls."
+        },
+        {
+          "name": "Conakry, Guinea",
+          "lat": 9.5,
+          "lng": -13.7,
+          "severity": "yellow",
+          "detail": "The nation faced calls for protests against its ruling junta."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "2025 worst humanitarian year on record amid crises in Gaza, Sudan, Afghanistan.",
+      "summary": "Globally, 2025 was assessed as 'the worst humanitarian year on record,' marked by unresolved conflicts, growing climate crises, and record attacks on aid workers, with fewer people receiving life-saving aid. Gaza faced a severe winter storm, threatening vulnerable populations, while Sudan's civil war continued to fuel the world's worst humanitarian crisis. Afghanistan remained a major crisis, with 17.4 million people facing acute food insecurity due to drought and conflict.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "A severe winter storm threatened vulnerable populations."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Continued to be impacted by Sudan's civil war, fueling a major humanitarian crisis."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "17.4 million people faced acute food insecurity due to drought and conflict."
+        },
+        {
+          "name": "World",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Assessed as 'the worst humanitarian year on record' globally."
+        },
+        {
+          "name": "Malawi",
+          "lat": -13.2543,
+          "lng": 34.3015,
+          "severity": "red",
+          "detail": "The nation suffered severe flooding, contributing to humanitarian concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1H34Qxt3JlJ4rVM2Ht-nEbEvfutqxYlP-zc1IHfUUAILkIu-90gcAeo1nZu8Gy1wk-rhraGEPTw1UUBTdXpyRNnw7MYNbWoDI1g0ImKsmCA0Xd8heA0jE2upYqecrQTU_9VDe0qQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGCGq48zfuNN_zNLtxyMub9dXbuoW3FadU70dmFVxoXaVPdSL8j9DrD_5Gm1ShzWLVL0hD5uef49beYkzw55NbBRg-3bnJIDZgldm1hyOomWHkNZVhALR1IK4pUVXipYJGbwy50PQxeAiAKILGvH6og4MXzJhtd_kPOJfQoNE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDt2GqZ5ZfbhXPjx4lgFitjVfVHqZNYR3BxWZKylL3o88EFwl0uUQvhi1tMJQ2EYPGmtvuv7mGeZCoJJKbxlE9fRoxf_sltgLZW_CtmGIyh4vinKlpPz_1dbqSF9BGauoxKu0t1E="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySewWhlFCsshzc5VVmOY9OyEYLlP34m_4M6Op_Z_gXMfkZlZQkvRC-g_HOYbsT9Dj2X0Tg5oKBh3Oeeqn_9t7x0FD9Shiwe6djlKYK-b61IpUhZxFOc1TrzvGZK6mDFZg3TipR5U="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwy4_zblPXqzoj8yL9M3TaVZCOHl-Zcnkc4AsJ5WXcm7UwN6UvR0Jtiih6MTOJ-AXig92Y0RpAjIf_S-lP5R9I1hcfO1cFCvFLtzqKxYV16p72JzzPeDnljyw="
+        }
+      ]
+    }
+  }
+}

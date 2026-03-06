@@ -1,0 +1,390 @@
+{
+  "date": "2026-03-02",
+  "timestamp": 1772809871517,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East rocked by escalating US-Israel-Iran and Israel-Hezbollah conflicts",
+      "summary": "The Middle East faced severe escalation on March 2, 2026, with US and Israeli forces conducting strikes on Iranian cities and Iran retaliating against US bases and Israel, leading to reported civilian casualties in Iran and US troop fatalities in Kuwait. Concurrently, Hezbollah's rocket attacks on northern Israel prompted extensive Israeli airstrikes across Lebanon, causing significant displacement and casualties. Conflicts continued in Ukraine, Afghanistan, Sudan, and South Sudan, contributing to global instability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6,
+          "lng": 51.4,
+          "severity": "red",
+          "detail": "US and Israeli forces conducted strikes on Iranian cities, leading to reported civilian casualties."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Extensive Israeli airstrikes across Lebanon, prompted by Hezbollah, caused significant displacement and casualties."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "Iran retaliated against Israel, impacting the region amid broader conflict."
+        },
+        {
+          "name": "Novorossiysk, Russia",
+          "lat": 44.7,
+          "lng": 37.8,
+          "severity": "yellow",
+          "detail": "Global instability persisted, though no specific armed conflict event for this location was detailed."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9,
+          "lng": 36.2,
+          "severity": "yellow",
+          "detail": "Ongoing conflicts in Ukraine continued, contributing to global instability in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Civilians at grave risk amid Middle East escalation; concerns globally",
+      "summary": "On March 2, 2026, human rights organizations expressed grave concern for civilians in the escalating Middle East conflicts, citing widespread casualties, displacement, and attacks on civilian infrastructure in Iran and Lebanon. The UN Human Rights Office raised concerns over ethnic cleansing and systematic abuses in the occupied Palestinian territory. Significant human rights violations were also reported or highlighted in Tanzania, China's Xinjiang, Nicaragua, and Cameroon.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "The UN Human Rights Office raised concerns over ethnic cleansing and systematic abuses."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Human rights organizations cited widespread casualties, displacement, and attacks on civilian infrastructure."
+        },
+        {
+          "name": "Iran",
+          "lat": 35.6,
+          "lng": 51.4,
+          "severity": "red",
+          "detail": "Human rights organizations cited widespread casualties, displacement, and attacks on civilian infrastructure."
+        },
+        {
+          "name": "Tanzania",
+          "lat": -6.2,
+          "lng": 35.7,
+          "severity": "yellow",
+          "detail": "Significant human rights violations were reported or highlighted."
+        },
+        {
+          "name": "Xinjiang, China",
+          "lat": 43.8,
+          "lng": 87.6,
+          "severity": "yellow",
+          "detail": "Significant human rights violations were reported or highlighted."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "Global climate situation remains stable with no major new events",
+      "summary": "On March 2, 2026, there were no major new climate events or significant climate policy developments reported globally. The general state of climate change continues to be a long-term concern, but the day did not bring any severe crises or notable escalations. This reflects a relatively quiet day in terms of immediate, high-impact climate news.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreaks persist in US; healthcare access issues noted",
+      "summary": "Measles outbreaks remained a concern in the US on March 2, 2026, with nearly 1,000 cases diagnosed in less than two months, notably impacting South Carolina, Utah, and Florida, and a significant air travel-related transmission event in Colorado. Additionally, Idaho hospitals reported patient deaths linked to cuts in mental health services, and Florida implemented emergency rules restricting access to HIV medication. Several Pacific nations reported ongoing outbreaks of dengue, rotavirus, pertussis, and norovirus.",
+      "regions": [
+        {
+          "name": "South Carolina, USA",
+          "lat": 34,
+          "lng": -81,
+          "severity": "yellow",
+          "detail": "Measles outbreaks remained a concern, with nearly 1,000 cases diagnosed in less than two months."
+        },
+        {
+          "name": "Idaho, USA",
+          "lat": 43.6,
+          "lng": -116.2,
+          "severity": "yellow",
+          "detail": "Hospitals reported patient deaths linked to cuts in mental health services."
+        },
+        {
+          "name": "Florida, USA",
+          "lat": 30.4,
+          "lng": -84.3,
+          "severity": "yellow",
+          "detail": "Measles outbreaks remained a concern, and emergency rules restricted access to HIV medication."
+        },
+        {
+          "name": "Samoa",
+          "lat": -13.8,
+          "lng": -171.7,
+          "severity": "yellow",
+          "detail": "The nation reported ongoing outbreaks of dengue, rotavirus, pertussis, and norovirus."
+        },
+        {
+          "name": "Kiribati",
+          "lat": 1.3,
+          "lng": 173,
+          "severity": "yellow",
+          "detail": "The nation reported ongoing outbreaks of dengue, rotavirus, pertussis, and norovirus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict disrupts global markets; US healthcare cuts debated",
+      "summary": "The escalating US-Israeli war on Iran was reported to be convulsing global markets and disrupting supply chains, particularly impacting humanitarian aid flows through the Strait of Hormuz. In the US, states continued to grapple with Medicaid funding cuts, affecting disability services and potentially dental care, and Planned Parenthood considered cosmetic procedures to offset revenue gaps. Sharp price increases for basic commodities were also reported in Gaza.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 26.8,
+          "lng": 51.6,
+          "severity": "red",
+          "detail": "The escalating US-Israeli war on Iran convulsed global markets and disrupted supply chains."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "Sharp price increases for basic commodities were reported."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8,
+          "lng": -98.6,
+          "severity": "yellow",
+          "detail": "States grappled with Medicaid funding cuts; Planned Parenthood considered cosmetic procedures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns over press freedom and international norms escalate",
+      "summary": "Concerns about democratic erosion were raised on March 2, 2026, with discussions focusing on the US White House's 2025 takeover of the press pool, seen as centralizing executive control and undermining independent journalism. Globally, there was increased attention to constitutional backsliding and the erosion of institutional norms. The US and Israel's assassination of Iran's Supreme Leader was highlighted as a significant instance of the weakening international norm against assassination.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8,
+          "lng": -98.6,
+          "severity": "yellow",
+          "detail": "Discussions focused on the White House's 2025 press pool takeover, seen as centralizing executive control."
+        },
+        {
+          "name": "Iran",
+          "lat": 35.6,
+          "lng": 51.4,
+          "severity": "red",
+          "detail": "The assassination of Iran's Supreme Leader by the US and Israel weakened an international norm."
+        },
+        {
+          "name": "Latin America",
+          "lat": -14.6,
+          "lng": -60.2,
+          "severity": "yellow",
+          "detail": "Increased attention was given to constitutional backsliding and the erosion of institutional norms."
+        },
+        {
+          "name": "Europe",
+          "lat": 54.5,
+          "lng": 15.2,
+          "severity": "yellow",
+          "detail": "Increased attention was given to constitutional backsliding and the erosion of institutional norms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian aid severely disrupted amid Middle East escalation",
+      "summary": "The escalating conflict in the Middle East severely disrupted humanitarian aid on March 2, 2026. OCHA reported that humanitarian services in Gaza were affected by Israeli authorities closing all crossings and suspending movements, while the UN Secretary-General warned of a growing humanitarian fallout in the region. In Lebanon, Israeli strikes caused a massive displacement wave, leading to urgent needs for shelter and basic supplies, and increased risks of gender-based violence. Aid to Gaza and Sudan was reported to be grinding to a halt due to the Iran war.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "Humanitarian services were affected by Israeli authorities closing all crossings and suspending movements."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli strikes caused massive displacement, creating urgent needs for shelter and basic supplies."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15.6,
+          "lng": 32.5,
+          "severity": "red",
+          "detail": "Humanitarian aid was reported to be grinding to a halt due to the Iran war."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9,
+          "lng": 67.7,
+          "severity": "yellow",
+          "detail": "Humanitarian aid was reported to be grinding to a halt due to the Iran war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ux638Dh-vGWCb3EnWUL0A5CkTmqnO30VR4skxS4ZsWHl7VmYMQKcs-ftSCBfzV8fNhi6EgqxzXCGaRKZ2jc2iD6pXeh45qcR0TzdvbDiYzEYkF9cF_hCN4YgWazGCQ48QB4hFphxcjCaJj7blKF4nrIkQg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXF3NhpqqhO5B1SbOj1wNJNZiFsaPxrPCpVmsdgVBPgX2Lf8g8xfSWpTgyjhFG9eM5f7Uo9VgoqCpwuwa8mXinKzLCAt0Pdrslwfn5GvM3GEUuvyeYdVDYdiKQ017scGzSNWX8h2Io768Qbh_uTOwfxNInDsI7DGjh"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tS1mxkwT7rj6OnSsIWyu2CNtLQQ_FXXzA437TDFS_HzskiTsxmg1bLlOvWiePB4W730TB-HZpSmE3Qe0SqpBqG9kfVEKySuE2VlrmpbwqUh-Nc-B2Icwx_Uwtxcqr5zD3UAVTxD-qvQXNtdsthkQvigH52MFhF1YhNPvGRCuMPmc4Rq6FF6VNrj-6FrUAxeUdJeiaGVxM4rXylICXa7NtYM="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-DSSo1BQgnEvnjBaM1A2MHJ2xAsw6Lsu3aNSvvw1exKQkFjiokz7ajnLDp4zfn_g1WB9Ofs2IU_X7z9iaswfkgXquYqsEIgGkogufK63LuZAkVmTVWNvx6SQ2kTn8OMvgA0X0UIkJziDZ6KUwLHW2j7x73sJfiFz3wgja5geQM5E6vDhUek_vbLyErOjuMXr1A_RwPXQwk="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nifI4Evox2geeaJf4t8ZymyBh6AeEqONNyxGTKUqB5-EQyHhXAQClcyAB2bt9TlfijX8gyGzym_UikD25CQlQ3NcEy73W-SZvl6bT91PZC0ejnRW2HVu8E9q687xFfxjVz0AbbeEqq6O8eKXHCOlo4DfQpT4290XyGtdMRqrSZOAdtWXhmCdP9VgjQc="
+        }
+      ]
+    }
+  }
+}

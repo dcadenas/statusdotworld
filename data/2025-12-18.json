@@ -1,0 +1,411 @@
+{
+  "date": "2025-12-18",
+  "timestamp": 1772806317326,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate with Israel-Hezbollah strikes, Gaza ceasefire violations, and Russia criticizes US/Israel attack on Iran.",
+      "summary": "Geopolitical tensions in the Middle East significantly escalated with Israel conducting at least 14 airstrikes targeting Hezbollah military sites across Lebanon. Russia criticized a U.S. and Israeli attack on Iran, stating it was plunging the region into crisis. In the Gaza Strip, Israel's military continued to violate a U.S.-brokered ceasefire, with a mortar shell wounding at least 10 people and a one-month-old confirmed dead. UN Secretary-General António Guterres also called for maximum restraint in Yemen amidst new developments and separatist advances.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israel's military violated a ceasefire, wounding 10 and killing a one-month-old."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "red",
+          "detail": "Israel conducted at least 14 airstrikes targeting Hezbollah military sites across the country."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Russia criticized a U.S. and Israeli attack on Iran, stating it was plunging the region into crisis."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General called for maximum restraint amidst new developments and separatist advances."
+        },
+        {
+          "name": "North Darfur, Sudan",
+          "lat": 13.6062,
+          "lng": 25.3204,
+          "severity": "red",
+          "detail": "No specific armed conflict event was reported on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Severe human rights abuses reported in Sudan, Gaza aid at risk, and US introduces restrictive legislation.",
+      "summary": "The UN Human Rights Office published a report detailing harrowing accounts of targeted sexual violence and summary executions by Rapid Support Forces during an April offensive on Zamzam camp in North Darfur, Sudan. In the Occupied Palestinian Territory, UN agencies and over 200 NGOs warned that new Israeli registration policies for international aid groups were vague and politicized, threatening the collapse of humanitarian operations in Gaza. In the United States, a House bill narrowly approved would criminalize gender-affirming medical care for transgender individuals under 18.",
+      "regions": [
+        {
+          "name": "North Darfur, Sudan",
+          "lat": 13.6062,
+          "lng": 25.3204,
+          "severity": "red",
+          "detail": "A UN report detailed harrowing accounts of sexual violence and summary executions from an April offensive."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "UN agencies warned that new Israeli aid registration policies threatened humanitarian operations."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A House bill was narrowly approved that would criminalize gender-affirming medical care for minors."
+        },
+        {
+          "name": "Minneapolis, United States",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "No specific human rights event was reported on this date."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "yellow",
+          "detail": "No specific human rights event was reported on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "Study suggests hydrogen may contribute to global warming, prompting climate discussions.",
+      "summary": "A study published on December 17, 2025, warned that hydrogen, despite being touted as a climate solution, could contribute to global warming by prolonging the presence of methane in the atmosphere. No major new climate events or crises were reported on this specific date.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles, whooping cough, bird flu, and cholera outbreaks concern global health officials.",
+      "summary": "Measles outbreaks continued in the United States, with cases mounting in Utah, Arizona, and South Carolina. Whooping cough cases also soared due to declining vaccination rates among children. A dangerous strain of bird flu (H5N1) spread to dairy cows in at least 17 U.S. states, prompting increased biosecurity measures. Cholera cases were reported in various regions including the Democratic Republic of Congo and Yemen, while chikungunya virus disease saw intense transmission in Seychelles.",
+      "regions": [
+        {
+          "name": "South Carolina, United States",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "yellow",
+          "detail": "Measles outbreaks continued to mount in the state."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "A dangerous strain of bird flu (H5N1) spread to dairy cows in the state."
+        },
+        {
+          "name": "Seychelles",
+          "lat": -4.6796,
+          "lng": 55.4513,
+          "severity": "yellow",
+          "detail": "The chikungunya virus disease saw intense transmission in the region."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Cholera cases were reported in the region."
+        },
+        {
+          "name": "Massachusetts, United States",
+          "lat": 42.4072,
+          "lng": -71.3824,
+          "severity": "green",
+          "detail": "No specific public health event was reported on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "South Korean stocks crash amidst global economic shifts and US inflation reports.",
+      "summary": "South Korean stocks experienced their biggest two-day crash since 2008, with shares in Seoul diving 7% due to energy shock fears. Global markets saw a dramatic reversal as a surprisingly soft US inflation report (CPI at 2.7% y/y, core CPI at 2.6% y/y) bolstered hopes for Federal Reserve rate cuts in 2026. The Bank of England cut its official bank rate, while the European Central Bank maintained its rates. The Chinese economy showed signs of a continued slowdown in the fourth quarter of 2025.",
+      "regions": [
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "red",
+          "detail": "Stocks experienced their biggest two-day crash since 2008, diving 7%."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A soft US inflation report (CPI at 2.7%) bolstered hopes for Federal Reserve rate cuts in 2026."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "The European Central Bank maintained its interest rates."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The Bank of England cut its official bank rate."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The Chinese economy showed signs of a continued slowdown in the fourth quarter of 2025."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US legislative and executive actions spark democratic concerns; Kosovo elections loom.",
+      "summary": "The U.S. Senate overwhelmingly passed a $901 billion National Defense Authorization Act (NDAA), the largest in history, with some senators raising concerns about the lack of safeguards against authoritarian abuses. A coalition of Democratic-led states sued President Donald Trump over newly imposed across-the-board tariffs. The European Commission announced the lifting of sanctions on Kosovo following the inauguration of Serb mayors, with parliamentary elections approaching on December 28. The Council of Europe Deputy Secretary General warned of threats to democracy from Artificial Intelligence.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Senate passed a $901 billion NDAA, and Democratic-led states sued the President."
+        },
+        {
+          "name": "Pristina, Kosovo",
+          "lat": 42.6629,
+          "lng": 21.1655,
+          "severity": "yellow",
+          "detail": "Parliamentary elections were approaching on December 28 after sanctions were lifted."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "green",
+          "detail": "The Council of Europe Deputy Secretary General warned of AI threats to democracy."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission announced the lifting of sanctions on Kosovo."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "No specific democratic erosion event was reported on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens amid Israeli restrictions; Haiti faces severe hunger.",
+      "summary": "Humanitarian aid operations in the Gaza Strip were at risk of collapse, with UN agencies and over 200 NGOs warning that new Israeli registration policies for international organizations were creating impediments, including essential supplies being stuck. In Haiti, the humanitarian coordinator launched a plan seeking $880 million to support 4.2 million vulnerable people, with half the population (5.7 million) experiencing daily hunger. In Sudan, humanitarian needs remained overwhelming in the Darfur region due to ongoing insecurity. The UN Secretary-General called for the release of detained UN staff in Yemen, where 19.5 million people required assistance.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian aid operations were at risk of collapse due to new Israeli policies."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5901,
+          "lng": -72.3074,
+          "severity": "red",
+          "detail": "A plan seeking $880 million was launched to support 4.2 million vulnerable people."
+        },
+        {
+          "name": "North Darfur, Sudan",
+          "lat": 13.6062,
+          "lng": 25.3204,
+          "severity": "red",
+          "detail": "Humanitarian needs remained overwhelming due to ongoing insecurity."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General called for the release of detained UN staff; 19.5 million people needed assistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidOm2Moe35R9XILR9U2GitcPCmqEpCOIYEWiCe-acTRvDctb2B1T5tMY7IAitiNFshewQQ3OkdOZJv6-OJoL4I8NAGhNE14YtbbU2ZycdwmaG7o2XO7Ko9BRttBNXluuGWWL-CZ0WC7pq3Juk74_AqZ1PQeorxWF6g2yV-obSBuBcZOaMAk0QRT4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpkmK1X1Llwoafqjhg5wFIA9YLglEhGid8sFPPMCYGpm0fl0c2rBosWy7II2lZkREy8oHcmGuAbk32TmDFrkYYVt0o1JatqdONaCEC_9_gmvGsxe1KeS7WJAZ-N_Ah9yhXIzRwXF3SaMwTrMzfPNReHys56BVKv4Plzawb7zLG4YmNaxUtYEqonRbqM_ryhThFPHWoQy-GuBRDuioEDeoxQQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJCkryOGNFYJT5-Km7I6Eh0GFf_rM--YgkN_iRWyGixM-JKjbi3sk6k54sqxLNnoPnPOD-bvN86aDtL_pKgX58GQV8OiD2DZXdWDT-XxN_MaFl29CeTDrP0lkvtTGZrHFoK7N2mA="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXpg9eAkz6ImZrWoytMpO8OuD7NiI6ER-zi_zSW-HoWDIILk_geEse3v4rlcNC45hF-9-9CkXdiGVdIZlosQqyPfdau4IztM4476zL2ZWJ89X_x1tzO5zV8eLkELB4XzPgNc3s4mJ"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDnPDf4X0BpmfyBsVE8kHsrzBZW3082Ldz3MDDct7f9JaHOcoX8KfmK_wT-xzhLHihwMNuazdORZak9NMc-Nn4FEhrnwikeXmrOi-w0GWWGV8302t6M8LWg4fk0hBptQZtZoYU9ULr4D1GYYMaLp3eZmIe40GBU-1p3qKPdI="
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "date": "2026-01-26",
+  "timestamp": 1772808210970,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East tensions high, Cyprus talks continue, Colombia violence persists.",
+      "summary": "Geopolitical tensions remained significant, particularly concerning the Middle East, with the UNRWA reporting Israeli actions to demolish its headquarters in East Jerusalem. Diplomatic efforts for peace talks were underway in Cyprus, with UN officials meeting Turkish Cypriot and Greek Cypriot leaders to support dialogue. Violence by illegal armed groups persisted in Colombia despite ongoing peace processes, and clashes were reported in northeast Syria.",
+      "regions": [
+        {
+          "name": "Nicosia, Cyprus",
+          "lat": 35.1856,
+          "lng": 33.3823,
+          "severity": "yellow",
+          "detail": "UN officials met Turkish Cypriot and Greek Cypriot leaders to support ongoing peace dialogue."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": 74.0721,
+          "severity": "yellow",
+          "detail": "Violence by illegal armed groups persisted in the region despite ongoing peace processes."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.513,
+          "lng": 36.2917,
+          "severity": "red",
+          "detail": "Clashes were reported in northeast Syria."
+        },
+        {
+          "name": "East Jerusalem, Palestine",
+          "lat": 31.7769,
+          "lng": 35.2345,
+          "severity": "red",
+          "detail": "The UNRWA reported Israeli actions to demolish its headquarters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran crackdown worsens; Venezuela releases prisoners; US birthright citizenship challenged.",
+      "summary": "Iranian authorities continued a deadly crackdown on protests that began in late 2025, with mass killings, thousands of arrests, and an internet shutdown reported. In Venezuela, over one hundred political prisoners were released over the weekend, as confirmed by rights group Foro Penal. In the United States, civil rights groups urged the Supreme Court to strike down an executive order on birthright citizenship, arguing it would undermine fundamental constitutional protections.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Authorities continued a deadly crackdown on protests, with mass killings and thousands of arrests reported."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": 66.9036,
+          "severity": "yellow",
+          "detail": "Over one hundred political prisoners were released over the weekend."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": 77.0369,
+          "severity": "yellow",
+          "detail": "Civil rights groups urged the Supreme Court to strike down an executive order on birthright citizenship."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "No specific human rights event was reported for London, UK in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme heat, wildfires, and floods hit globally.",
+      "summary": "The start of 2026 was marked by extreme weather events globally, including a record-breaking heatwave in South Australia, where Ceduna reached 49.5°C on January 26, fueling dangerous wildfires across Australia and Chile. Severe flooding impacted Southern Africa, particularly Mozambique, while the Northern Hemisphere, including Europe and North America, experienced extreme cold waves.",
+      "regions": [
+        {
+          "name": "Ceduna, Australia",
+          "lat": -32.1333,
+          "lng": 133.6833,
+          "severity": "red",
+          "detail": "A record-breaking heatwave hit, reaching 49.5°C, fueling dangerous wildfires across Australia."
+        },
+        {
+          "name": "Biobío Region, Chile",
+          "lat": -37,
+          "lng": -72,
+          "severity": "red",
+          "detail": "Dangerous wildfires were fueled by extreme heat across Chile."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.8919,
+          "lng": 32.5732,
+          "severity": "red",
+          "detail": "Severe flooding impacted the region."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "yellow",
+          "detail": "The region experienced an extreme cold wave."
+        },
+        {
+          "name": "North America",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The region experienced an extreme cold wave."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in South Carolina; US vaccine policy challenged.",
+      "summary": "South Carolina reported a surge in measles cases, reaching 700, indicating a significant regional outbreak. Concurrently, a coalition of health organizations in the United States filed a motion to block recent federal changes to national vaccine policy, citing concerns over public health. Research also indicated a link between long-term alcohol use and increased colorectal cancer risk.",
+      "regions": [
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "yellow",
+          "detail": "The state reported a surge of 700 measles cases, indicating a significant regional outbreak."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Health organizations filed a motion to block recent federal changes to national vaccine policy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth steady but fragile; UK leads G4; US jobs concern.",
+      "summary": "The global economy was projected for steady but fragile growth in 2026, with an estimated 3% GDP expansion and persistent downside risks. The UK showed stronger business growth among G4 economies, while the US experienced weaker demand and subdued confidence, with job market concerns persisting. The Federal Reserve was expected to maintain interest rates, and the Eurozone anticipated modest Q4 GDP expansion.",
+      "regions": [
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "green",
+          "detail": "The United Kingdom showed stronger business growth among G4 economies."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The US experienced weaker demand, subdued confidence, and persistent job market concerns."
+        },
+        {
+          "name": "Eurozone",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "yellow",
+          "detail": "The Eurozone anticipated modest Q4 GDP expansion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US election concerns surface; Trump confidence dips.",
+      "summary": "Speculation and fear persisted in the United States regarding the potential for President Trump to attempt to cancel the 2026 midterm elections, though election experts asserted he lacked the legal authority. A survey revealed declining public confidence in President Trump's leadership, mental fitness, and respect for democratic values, with his approval rating at 37%.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Speculation persisted about President Trump potentially attempting to cancel 2026 midterm elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens; Syria, Somalia, Mozambique need aid.",
+      "summary": "The humanitarian situation in Gaza remained dire, with urgent calls for a massive influx of aid as new Israeli restrictions threatened to expel 37 NGOs by March 1. UN-supported convoys delivered critical assistance to Kobani, Syria, following the opening of humanitarian corridors. Additionally, a 2026 humanitarian response plan was launched for millions in Somalia, and emergency aid was activated for flood-affected areas in Mozambique.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "The humanitarian situation remained dire, with urgent calls for a massive influx of aid."
+        },
+        {
+          "name": "Kobani, Syria",
+          "lat": 36.195,
+          "lng": 38.3586,
+          "severity": "red",
+          "detail": "UN-supported convoys delivered critical assistance following the opening of humanitarian corridors."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0678,
+          "lng": 45.3172,
+          "severity": "red",
+          "detail": "A 2026 humanitarian response plan was launched for millions in need."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.8919,
+          "lng": 32.5732,
+          "severity": "red",
+          "detail": "Emergency aid was activated for flood-affected areas."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "No specific humanitarian event was reported for Kyiv, Ukraine in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGb0Edg4w0xrPBkLoBezk52qhzzo7adcBiJlviUf7p69NT1KtwabSjmZk3L7IiquRV8xOpFmj8OyfQSNIvmNJiXKmG34Eg3ewgQ2PfhE0Wwz5Hgz3ZMDBGb2mSvUqcelZzhHoRcd0nCJTutyJRBo8uhNAb6_hBnBSexdhyolMQxQpbWxT4MsheY2Gch0piOtNoxGOtHFVHGI0uXwIt3GFYCqB1f--wGK1oRHazthg="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc-fOYIDcWpSwoDjUW0ZUcAI4IkKcCddFWIHGn7pwVBWfSC-GKaTtw0WWuR31ToUsvIZemPGKRFooiwXIRw5tj-qvK7-ctxXQ9gurDgMisDZ-cwx2lfuXhIwES9IdO1U-szSjZ48IQbS7M184Z"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGyQ9gv2HakSa8yLAjqBqatc9zcNL5LdIjy09JgbBlT38AEmwuDQR6afXe0v9RqBNTDE3PT8mSQarVXQ53FGyVfft1WhXAAQyxjtAiurMwTDRwdYRA2n1VcQE-JjG_EY41AL9nqjFQKmOPCaitDXS5FEDS5oEGTqHaASAA_47Qe-zL6HskiDnifroAX-KJRtIbeFS"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuVJxu-AwL83FkHM_Xl8whfakqsbw2OoQdUl0uS304i0RKQyzAlzk7r5OlfPK9kDFls1DtTRNhLTnTSdL6FQ8-n_lwev8db9tmUKVccGGshLeCz7gRmVLG2p2qixWmAvaVeSC3P66gYcRd4v67hsno0NBprrXHNDet4BLKt-hQrv3y3g="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnrL7M-Nz-mW3g6PK6bYEgsffbRJcIckROor-CrOAKLhDkCZb-6JrZErW8ytpYUJHhaY2dMkCmLsTQcpMHJAv0fzjdr0i4fNuvNKekbH6nzRK6HigURAAWg-7e47nFI2nDrZD-Q=="
+        }
+      ]
+    }
+  }
+}

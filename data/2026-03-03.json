@@ -1,0 +1,377 @@
+{
+  "date": "2026-03-03",
+  "timestamp": 1772809914403,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with US-Israel strikes on Iran.",
+      "summary": "US-Israeli airstrikes continued in Iran, causing a reported death toll of over 780 civilians, while Iran launched retaliatory drone and missile attacks across the Gulf region, including Kuwait, UAE, Qatar, Bahrain, and Saudi Arabia. Simultaneously, the conflict between Hezbollah and Israel intensified, with ground offensives by Israel into Lebanon and widespread displacement in South Lebanon.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US-Israeli airstrikes continued, contributing to over 780 civilian deaths across Iran."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The region remained embroiled in the escalating Middle East conflict."
+        },
+        {
+          "name": "South Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli ground offensives intensified, causing widespread displacement of over 58,000 people."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6877,
+          "severity": "red",
+          "detail": "Iran launched retaliatory drone and missile attacks across the Gulf region, including Saudi Arabia."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "red",
+          "detail": "Iran launched retaliatory drone and missile attacks across the Gulf region, including Kuwait."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Civilian deaths in Iran raise grave human rights concerns.",
+      "summary": "Over 1,000 civilians, including children, were reportedly killed in US-Israeli bombings of Iran, raising grave concerns about violations of international humanitarian law and attacks on civilian infrastructure. The UN Special Rapporteur on extreme poverty and human rights criticized the global economy for exacerbating inequality and ecological collapse, thereby undermining basic human rights. There are also ongoing concerns about the fate and safety of prisoners in Iran amidst the escalating conflict.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Over 1,000 civilians were killed in bombings, raising grave human rights concerns; prisoners' safety was also a concern."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Human rights concerns persisted in the Gaza Strip amid the escalating regional conflict."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The UN Special Rapporteur's criticism of the global economy's human rights impact remained relevant."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Severe weather forecast for central and southern US; climate discussions ongoing.",
+      "summary": "A multi-day stretch of severe weather, including risks of damaging winds and large hail, was forecast to begin across the central and southern United States. While no major new climate events were reported, discussions on climate change and disaster risks continued, with the Ateneo Institute of Sustainability reporting on a recent 'Ready, Set, Resilience!' event in Manila.",
+      "regions": [
+        {
+          "name": "Central and Southern US, United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Severe weather, including damaging winds and large hail, was forecast to begin."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "Climate change and disaster risk discussions continued, featuring a recent 'Ready, Set, Resilience!' event."
+        },
+        {
+          "name": "Montreal, Canada",
+          "lat": 45.5017,
+          "lng": -73.5673,
+          "severity": "green",
+          "detail": "General discussions on climate change and disaster risks continued."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "RSV vaccine recommendations updated; GLP-1 misuse concerns raised.",
+      "summary": "Medical societies, including the American College of Physicians, updated recommendations for RSV vaccines, advising them for adults aged 75 and older and those with compromised immune systems. The Pan American Health Organization (PAHO) urged countries in the Americas to strengthen monitoring of GLP-1 medicines due to increasing reports of adverse events from misuse for obesity treatment. Toronto Public Health also paused school vaccination suspension orders to allow students to catch up on required immunizations.",
+      "regions": [
+        {
+          "name": "Region of the Americas",
+          "lat": 20,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "PAHO urged countries to strengthen monitoring of GLP-1 medicines due to adverse event reports."
+        },
+        {
+          "name": "Toronto, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "green",
+          "detail": "Public Health paused school vaccination suspension orders to allow students to catch up on immunizations."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "Medical societies updated RSV vaccine recommendations for adults aged 75+ and immunocompromised individuals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict sparks global economic disruption, oil price surge.",
+      "summary": "The escalating conflict in the Middle East, particularly involving Iran, led to significant disruptions in global trade, a surge in oil prices above $79.40 per barrel, and volatility in financial markets worldwide. The Strait of Hormuz, a critical shipping lane, saw reduced traffic and stranded ships, with fears of severe impacts on global energy supplies and potential inflation. The IMF noted observing disruptions to trade and economic activity and stated that the situation remains highly fluid.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 28.5272,
+          "lng": 45.4241,
+          "severity": "red",
+          "detail": "Escalating conflict caused significant disruptions in global trade, financial volatility, and oil price surges."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Reduced traffic and stranded ships were observed due to the escalating conflict, impacting global energy supplies."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The Middle East conflict caused significant disruptions in global trade and a surge in oil prices above $79.40."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Calls for democracy in Iran amidst conflict; US inequality concerns.",
+      "summary": "Amidst the US-Israeli strikes on Iran, legitimate demands for freedom and democracy from the Iranian people were highlighted, cautioning against weaponizing these demands to advance military agendas. A UN expert previously stated that rising inequality is transforming the US into an autocratic state. News outlets like Democracy Now! also continued their focus on global democracy and challenging abuses of power.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "yellow",
+          "detail": "Legitimate demands for freedom and democracy were highlighted amidst US-Israeli strikes and conflict."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "A UN expert's previous statement on rising inequality transforming the US into an autocratic state was highlighted."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Escalating humanitarian crises in Gaza, Lebanon, and Afghanistan.",
+      "summary": "Humanitarian aid operations in the Gaza Strip faced severe challenges due to closed crossings and suspended international staff rotations, despite some fuel and aid deliveries. In Lebanon, Israeli forced evacuation orders led to massive displacement, with over 58,000 internally displaced people registered in two days, exacerbating existing health and protection risks for women and girls. Afghanistan continued to face one of the world's largest humanitarian crises, marked by widespread malnutrition, forced returns from neighboring countries, and critically low funding for response plans.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian aid operations faced severe challenges due to closed crossings and suspended international staff rotations."
+        },
+        {
+          "name": "South Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli evacuation orders led to massive displacement, with over 58,000 IDPs registered in two days."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "The country continued to face one of the world's largest humanitarian crises, marked by widespread malnutrition."
+        },
+        {
+          "name": "Rubaya, Democratic Republic of Congo",
+          "lat": -1.7909,
+          "lng": 29.085,
+          "severity": "red",
+          "detail": "The region continued to face significant humanitarian challenges."
+        },
+        {
+          "name": "Dilling, Sudan",
+          "lat": 11.5367,
+          "lng": 29.6588,
+          "severity": "yellow",
+          "detail": "The region continued to face significant humanitarian challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legiblenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZN35JQuyFNS95HqZw_RFtb3a1mHpVrnFhWKsAaYn1Xh_dpFkB0Bh_8lGe-_2NQwVTgeqRGPPgCHS_szyrjQ4n-ExjS-mLATrLkdX3mVlRQSMJSKJWxyEiF75upBTz2Q=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOBC4Swe9HZH7B1BJVDQvTkQp6DT7TrNNj1U3qywLjgSMI3oqBrlN5391Dm8zio2EvQwPbI1yp8QSn5y44JtqXWu5ZzRMcLOsRtOe-_d4_R-xZJNRyKDgHMOOzKs0-znDhHwsvk0uXywn9U60hrhtHIMBNJ3nzxbE-gE="
+        },
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7fb3I1UreDWH9w4hqLUGydyN1YfAtvYZa_qAw0BaxFJig_U-1gAvH56PRU0WnB8FhfA_B5Y3H3fBQB0GoMy198CCkZsDBjbPdEova3gqteXf6qjNVDq39Kktt-CZXGTkQsjwXIHw5kj3_zE6QrO5mWt5OlHM95vXfH3Pp0P3NxIQPgw80IS0wg6Hu3AnWQrz17wNsHyhqd1DLOI="
+        },
+        {
+          "title": "amnestyusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIKyk8liztLkh2iv6Au8J8hzVJ0tjCICa1HexzHrfRiV2-ojfwN_hgoO798Df2moRbMoqz-JTLYQGgufEBzTRYARPMkASzJLV3A_Zqwv8Dsuq8odwVMYXCe-NvPJ8MsofllNufIV_VOsXskctRXbx38U5arQ7j0QVsG5Trb6IylFUtD3kN09eI6xgEE_3_sMyLQXfwNJ6p4mFGBudBTMNt58X96D26PsWrLccLSL62Qdar3fT1n91P9_S1salBXml9tzG61VNgoyINf2picPtBxTE3tdL8e8FlP7w05E_Bm-zH2m0SMiGE41o4c5U2FUJq"
+        },
+        {
+          "title": "time.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2QirEXgS_Y_jtBSIYN5tN3_V4miansHO5NX-LRN-_8QldhRtACUXWMEbD1-flyE1zyG_EyR35tsCdTX4e9hM4cNTALiKvhVXXvZni6m-JR-_Yq2ZLA-pJ4Soo24XXaIelhhSYiSHfiXMwrhyWEqLaS06vtcTxw=="
+        }
+      ]
+    }
+  }
+}

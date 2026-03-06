@@ -1,0 +1,384 @@
+{
+  "date": "2026-01-05",
+  "timestamp": 1772807146368,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US military operation in Venezuela; conflicts persist in Ukraine, Sudan, and Middle East",
+      "summary": "The global situation for armed conflicts was severe on January 5, 2026, marked by a significant US military operation that captured Venezuelan President Nicolás Maduro in Caracas, leading to casualties and international condemnation. Simultaneously, Ukraine experienced renewed attacks in Kyiv and other regions causing civilian deaths and power outages, while drone attacks and dire humanitarian conditions continued in Sudan. Further instability was noted in the Middle East with Israeli airstrikes in Lebanon and clashes intensifying in Syria.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "A US military operation captured President Nicolás Maduro in Caracas, leading to casualties."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Kyiv experienced renewed attacks causing civilian deaths and power outages."
+        },
+        {
+          "name": "Dilling, Sudan",
+          "lat": 12.0625,
+          "lng": 29.6583,
+          "severity": "red",
+          "detail": "Drone attacks and dire humanitarian conditions continued in Dilling, Sudan."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2013,
+          "lng": 37.1612,
+          "severity": "yellow",
+          "detail": "Clashes intensified in Syria, impacting regions like Aleppo."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "The Gaza Strip experienced continued instability as part of persistent Middle East conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Violent crackdowns in Iran, deaths in US immigration custody, and abuses in Ecuador",
+      "summary": "Human rights concerns were severe, with reports of at least 16 people killed and hundreds arrested during protests in Iran, where the Head of Judiciary ordered 'no leniency' for demonstrators. In the US, a death in ICE custody in Texas on January 5th highlighted broader concerns about detention conditions. Additionally, the Inter-American Commission on Human Rights mandated safeguards for detainees in Ecuador due to overcrowding and disease. Warnings of escalating human rights abuses in Venezuela following the US military operation also emerged.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Violent crackdowns during protests in Iran, including Tehran, led to 16 deaths and hundreds of arrests."
+        },
+        {
+          "name": "Conroe, Texas, US",
+          "lat": 30.3916,
+          "lng": -95.4578,
+          "severity": "red",
+          "detail": "A death in ICE custody in Conroe, Texas, highlighted concerns about detention conditions."
+        },
+        {
+          "name": "Guayaquil, Ecuador",
+          "lat": -2.1962,
+          "lng": -79.8862,
+          "severity": "red",
+          "detail": "Mandated safeguards for detainees were issued due to overcrowding and disease in Guayaquil."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Warnings of escalating human rights abuses emerged in Caracas following the US military operation."
+        },
+        {
+          "name": "Occupied Palestinian Territory",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "yellow",
+          "detail": "Human rights concerns remained severe in the Occupied Palestinian Territory."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "California floods persist, extreme weather a top global risk for 2026",
+      "summary": "While no new major global climate disasters were reported on January 5, 2026, an ongoing historic flood crisis in parts of California worsened, with forecasts of more thunderstorms. The World Economic Forum's 'Global Risks Report 2026,' to be published shortly, highlighted extreme weather as a top global risk, indicating significant concern for the year ahead.",
+      "regions": [
+        {
+          "name": "California, US",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "An ongoing historic flood crisis worsened in California, with forecasts for more thunderstorms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Health crises in Ecuador, Gaza, and Sudan; US vaccine policy change sparks debate",
+      "summary": "Public health faced notable challenges, including a dire situation in Ecuador's Guayas No.1 Detention Centre, where overcrowding led to the spread of infectious diseases. In Gaza, rehabilitation post-ceasefire was marginal, with insufficient aid and limited medical evacuations. Sudan continued to grapple with an acute hunger crisis and warnings of unprecedented child hunger. In the United States, a controversial decision to cut recommended childhood vaccines by health authorities drew criticism from physicians.",
+      "regions": [
+        {
+          "name": "Guayaquil, Ecuador",
+          "lat": -2.1962,
+          "lng": -79.8862,
+          "severity": "red",
+          "detail": "Overcrowding in a Guayaquil detention center led to the spread of infectious diseases."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "Rehabilitation post-ceasefire in Gaza remained marginal due to insufficient aid and limited medical evacuations."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "yellow",
+          "detail": "Sudan continued grappling with an acute hunger crisis and warnings of unprecedented child hunger."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "A controversial decision to cut recommended childhood vaccines in the US drew criticism."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy shows resilience amid geopolitical shocks and trade shifts",
+      "summary": "The global economy exhibited resilience despite ongoing geopolitical tensions, as indicated by a positive start to 2026 trading for US indexes following the Venezuela news. However, a World Bank report highlighted a forecast slowdown in global growth for 2026 due to waning trade demand. Geoeconomic confrontation was identified as the top global risk for the year. Furthermore, Iran faced widespread protests driven by soaring inflation and currency collapse.",
+      "regions": [
+        {
+          "name": "Venezuela",
+          "lat": 8,
+          "lng": -66,
+          "severity": "yellow",
+          "detail": "News originating from Venezuela influenced a positive start to 2026 global trading for US indexes."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "yellow",
+          "detail": "Iran faced widespread protests driven by soaring inflation and currency collapse."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy showed resilience, but faced a forecast slowdown and top risk of geoeconomic confrontation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US intervention in Venezuela sparks democratic concerns; Iran cracks down on protests",
+      "summary": "Democratic principles faced significant challenges globally. The US military operation to capture Venezuelan President Nicolás Maduro and President Trump's subsequent claim of being 'in charge' of Venezuela sparked international concern over sovereignty and democratic norms, with the UN calling for dialogue. In Iran, nationwide protests against repression were met with a violent government crackdown. The 'Global Risks Report 2026' warned of a 'Political Revolution in the United States' and systematic dismantling of constitutional checks and balances.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The US military operation and Trump's claims in Caracas sparked concerns over democratic norms."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Nationwide protests in Iran, including Tehran, were met with a violent government crackdown."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "A report warned of a 'Political Revolution' and dismantling of checks and balances in the United States."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Severe humanitarian crises persist in Venezuela, Sudan, and Gaza with underfunding",
+      "summary": "Humanitarian crises intensified in several regions. Venezuela's humanitarian situation remained dire, with 7.9 million people requiring urgent support and a critically underfunded response plan. In Sudan, protracted conflict led to unprecedented child hunger and mass displacement, affecting over 21 million people. Gaza continued to face an extremely fragile situation with insufficient aid and limited access to medical care, compounded by regional conflicts and Israel's suspension of NGO operations. The WHO warned that the ongoing conflict in the broader Middle East was paralyzing Dubai's global humanitarian supply hub.",
+      "regions": [
+        {
+          "name": "Venezuela",
+          "lat": 8,
+          "lng": -66,
+          "severity": "red",
+          "detail": "Venezuela's humanitarian situation remained dire, needing urgent support for 7.9 million people."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "red",
+          "detail": "Protracted conflict in Sudan led to unprecedented child hunger and mass displacement for 21 million people."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Gaza faced an extremely fragile humanitarian situation with insufficient aid and limited medical care."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2769,
+          "lng": 55.2963,
+          "severity": "yellow",
+          "detail": "WHO warned Middle East conflict was paralyzing Dubai's global humanitarian supply hub."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUpbBpKOk70ksEppGuw85cPU9mBRjnstDR6OQJ55ewd5d4JIJfLN2XCZm6wUWhLInhhZkBz-kmGRwOirlioy6MMyT0HH9sGiE0LLOy9K6zgPjA_S3ExobsxXhVRyTCrRYNQoI80wPl21M3xrpPsYfTMsew9nFI2nzBT8UxotVDnV2RHBc="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ5F1NgYP4_salIhxFjGx-UZ0mb-f8HUhPeglw7AusdSe_TkJbj9U0nx18rGJLsEB6UtD_yLcdkvp8afkaUT2YneRaHVjC4ktaMCB06gU4joxH9rM9qhEOVyZTV6g_y3mU2AK5LacHNjqtmKD8FUp111y2-ms="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgK6KlAM0WuKLuUyVJOsKyLzZeg39ohAxvXpBO2THkh-u5WovQ3VtbRFOZ0_9rhNc75kXAuvNg-O8UK5BlrwtVONSHgOZjGMoJwAhY8o5zKV_8ickgCStR3l58Vng-F0WzZpDG7N4="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzj-gElUKaFRBMJkfGQjgdU1J35hb9LRtHQ_DZ9MABHApsRiziwdffRrbRMRNOdWCVqXHJDvkJugTIMwMTathIAc2vvbCSjSGRPh2485RiaH-ZV6d6jvAy-VToAUHUjhOvjypvqn8="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Ey7Nuw1d6qBcmy4lOwmlTwo1uG_IBuw2sZ2frwYmMs6_e9UVRJeHe-obW617sFvm_IL60lv6CLsd3w3Nv3fmCowUmPXuzMQIOVb1LsDfxSgehtdjaBqxRBX4RHuG07TB8MHi5iZvuBiIS1Q4uKswP3mfGpnAWFpWQLvi"
+        }
+      ]
+    }
+  }
+}

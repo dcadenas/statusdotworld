@@ -1,0 +1,412 @@
+{
+  "date": "2026-01-12",
+  "timestamp": 1772807490518,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global tensions escalate with Iran crackdown, Ukraine fighting, and Gaza operations",
+      "summary": "Reports on January 12, 2026, indicate a severe crackdown on protests in Iran, drawing international condemnation and threats of U.S. intervention, as Iran states it is prepared for war but open to dialogue. Meanwhile, renewed fighting and devastation continue in Ukraine, including the reported use of the Oreshnik missile and attacks on energy facilities. In the Gaza Strip, the humanitarian situation remains dire with plans for intensive Israeli military operations in March, alongside ongoing killings of Palestinians.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Protests in Tehran faced a severe crackdown, drawing international condemnation and U.S. intervention threats."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Renewed fighting continued in Kyiv, with reports of Oreshnik missile use and attacks on energy facilities."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Gaza City's humanitarian situation remained dire, with ongoing killings of Palestinians reported."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5132,
+          "lng": 36.2916,
+          "severity": "yellow",
+          "detail": "No specific armed conflict events in Damascus were reported in the summary."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0371,
+          "lng": 45.3438,
+          "severity": "yellow",
+          "detail": "No specific armed conflict events in Mogadishu were reported in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran protests violently suppressed; Venezuela's crisis persists; Myanmar genocide trial begins",
+      "summary": "On January 12, 2026, a severe human rights crisis unfolds in Iran with over 500 protest deaths and thousands detained amidst an internet shutdown and violent crackdowns by authorities. In Venezuela, the human rights situation remains critical despite the ouster of Nicolás Maduro, marked by ongoing repression and arbitrary arrests. Hearings also began at the International Court of Justice concerning allegations of genocide against the Rohingya minority in Myanmar.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "A severe human rights crisis unfolded in Tehran, with over 500 protest deaths and thousands detained."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Caracas experienced ongoing repression and arbitrary arrests, maintaining a critical human rights situation."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7632,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "Hearings began at the ICJ concerning genocide allegations against the Rohingya minority from Myanmar."
+        },
+        {
+          "name": "Vienna, Austria",
+          "lat": 48.2082,
+          "lng": 16.3738,
+          "severity": "yellow",
+          "detail": "No specific human rights events in Vienna were reported in the summary."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "No specific human rights events in Kuala Lumpur were reported in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme weather divergence grips Northern Hemisphere, Southern heatwaves persist",
+      "summary": "January 12, 2026, is marked by a 'Great Eurasian Weather Divergence,' indicating a structural failure of the Northern Hemisphere's climate control system, resulting in severe cold and destructive storms across Europe, Russia, and the Caucasus. Europe experiences its coldest January since 2010, while parts of the Southern Hemisphere, including Australia and Chile, face unusually intense heat fueling devastating wildfires. Mozambique has been severely affected by flooding, impacting over 650,000 people and destroying thousands of homes.",
+      "regions": [
+        {
+          "name": "Normandy, France",
+          "lat": 49.0499,
+          "lng": -0.38,
+          "severity": "red",
+          "detail": "Normandy, as part of Europe, experienced severe cold and destructive storms, its coldest January since 2010."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Moscow faced severe cold and destructive storms as part of the Great Eurasian Weather Divergence."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "red",
+          "detail": "Canberra experienced unusually intense heat, contributing to devastating wildfires across Australia."
+        },
+        {
+          "name": "Santiago, Chile",
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "severity": "red",
+          "detail": "Santiago faced unusually intense heat, fueling devastating wildfires across parts of Chile."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.9653,
+          "lng": 32.5832,
+          "severity": "red",
+          "detail": "Maputo was severely affected by flooding, impacting over 650,000 people and destroying thousands of homes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles concern in US, global watch on emerging pathogens",
+      "summary": "Concerns over a potential measles outbreak in the United States surfaced on January 12, 2026, following two confirmed cases linked to possible exposures at Union Station in Washington D.C., BWI airport, and a medical center in Virginia. Globally, researchers are warning about two emerging animal-origin pathogens, influenza D virus and canine coronavirus, highlighting their potential to trigger future human outbreaks. A strain of influenza D from China has reportedly developed human-to-human transmission capabilities.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9006,
+          "lng": -77.0039,
+          "severity": "yellow",
+          "detail": "Washington D.C. reported two confirmed measles cases linked to exposures at Union Station."
+        },
+        {
+          "name": "Gainesville, USA",
+          "lat": 29.6516,
+          "lng": -82.3248,
+          "severity": "yellow",
+          "detail": "No specific public health events in Gainesville were reported in the summary."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "A strain of influenza D from China reportedly developed human-to-human transmission capabilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth remains tepid amid geopolitical and tariff concerns",
+      "summary": "The United Nations forecasts tepid global economic growth of 2.7% for 2026, slightly below the previous year and well below pre-pandemic averages, attributing this to higher U.S. tariffs, economic uncertainties, and geopolitical tensions. While U.S. equity markets advanced, job growth moderated, and manufacturing struggled, with services expanding. Europe's equity markets rose on signs of improving economic conditions, though persistent services inflation remains a concern.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "U.S. equity markets advanced in New York City, but job growth moderated and manufacturing struggled."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Frankfurt, as part of Europe, saw equity markets rise, though services inflation remained a concern."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Beijing was impacted by higher U.S. tariffs, contributing to tepid global economic growth forecasts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Iran intensifies repression, Nicaragua cracks down on dissent, Uganda elections amid clampdown",
+      "summary": "On January 12, 2026, Iran escalated its violent crackdown on anti-government protests, including widespread internet shutdowns, raising serious concerns about freedom of expression and assembly. In Nicaragua, the Ortega-Murillo regime has intensified political repression, reportedly detaining citizens for expressing symbolic support for the capture of Venezuela's former leader. Furthermore, Uganda's national elections commenced under an internet shutdown and security clampdown, sparking worries about democratic processes.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Tehran escalated violent crackdowns on protests, including widespread internet shutdowns, raising democratic concerns."
+        },
+        {
+          "name": "Managua, Nicaragua",
+          "lat": 12.1364,
+          "lng": -86.2514,
+          "severity": "red",
+          "detail": "Managua's regime intensified political repression, detaining citizens for symbolic support of a former leader."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Kampala's national elections began under an internet shutdown and a severe security clampdown."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza, Sudan, and Ukraine face severe and worsening humanitarian crises",
+      "summary": "The Gaza Strip's humanitarian situation remains dire due to harsh weather conditions damaging shelters, with 1.1 million people in urgent need and four infant deaths from hypothermia reported on January 12, 2026. Sudan is experiencing escalating insecurity in the Kordofan region, leading to disrupted health services, new displacement, and the closure of three major hospitals in Dilling. In Ukraine, renewed fighting has caused civilian casualties and left hundreds of thousands without electricity and heating in freezing temperatures. Haiti also continues to face humanitarian and healthcare strain due to gang violence disrupting NGO operations.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Gaza City's humanitarian situation remained dire, with 1.1 million people in urgent need and infant deaths from hypothermia."
+        },
+        {
+          "name": "Dilling, Sudan",
+          "lat": 12.0625,
+          "lng": 29.6583,
+          "severity": "red",
+          "detail": "Dilling experienced escalating insecurity in Kordofan, disrupting health services and closing three major hospitals."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Kyiv experienced renewed fighting, causing civilian casualties and leaving hundreds of thousands without utilities."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5392,
+          "lng": -72.3364,
+          "severity": "red",
+          "detail": "Port-au-Prince faced humanitarian and healthcare strain due to gang violence disrupting NGO operations."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2021,
+          "lng": 37.1355,
+          "severity": "yellow",
+          "detail": "No specific humanitarian events in Aleppo were reported in the provided summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFNyEb4PR4VUYFWWHFZl_pLj8hDAmrEW4spmZeCU6TzyP4-9Ljjq5wkuDygMDHocvh8prnmt6oM5tWa3Y9PUD7p10crpnPf1MP2UvrE7IfBy3S6Sdq_rSRM4x5sf8W1gLb6Du0q8OyjQR6g0SPpWSXz-0o9ywksdNKZ0G7_Kjv6sbb"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkGZFECKegCHcEJfbTlKLg1DQvBhJVwMluzLJ62BFDmma-T9L8N73VcuZCtOGybUwvZDiX83rIWHpOFpAFupL4hArG5a6SjcJkWxtsOlwUlKHXs26IbQAaxShd-LbxpEg7jlLIr4="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcsTF-EkA2qCYExayc4LG0N9RteYW3mbPYZ2HP-88ra10yeAZx3INfylzPZHabbnsYjLG-SJ3O8n7SlgL8R3r96GX7QcDMBobzGZ0ESgaQjUZEB7JCJCEDMIwY_pIiK2m-dEkySiWj_9QD9cqcbroHtRq9MZGmbpfsxsWpw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhS8sQKcbpYOF0adse0cs0Ava3foohY5Vfn42Dti9m8wckYyBx1Vf4roD2zOssE4lyzSaiJaHMsCAKsduVNIdpoCMpG3oE2a-TcZsFx23EnPZK6dwh5MLxoHLgprNmoMgZnAFWPEU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGREm72AUBUiQaX7jdsRiVINL-6Yu9WPusJwEuqJ6by4afop5VgFs_yfSRTs4rDrDIrbbIMIPzMFF6h5KLHK1RaAofZHHvV1CqXrSrOLKAiXmNfu-TaaXs0o__FAjMzehrd96U8h0="
+        }
+      ]
+    }
+  }
+}

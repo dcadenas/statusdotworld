@@ -1,0 +1,377 @@
+{
+  "date": "2025-12-13",
+  "timestamp": 1772806102224,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally with significant casualties and new attacks.",
+      "summary": "On December 13, 2025, an ambush in Palmyra, Syria, killed two US soldiers and an interpreter, marking the first US military casualties there since Assad's fall. Russia conducted missile and drone strikes across Ukraine, causing deaths and injuries, while Ukraine responded with drone strikes in Russia. In Gaza, an Israeli airstrike killed a senior Hamas commander, and UNICEF reported 82 children killed since an October ceasefire.",
+      "regions": [
+        {
+          "name": "Palmyra, Syria",
+          "lat": 34.55,
+          "lng": 38.27,
+          "severity": "red",
+          "detail": "An ambush killed two US soldiers and an interpreter, marking first US military casualties there."
+        },
+        {
+          "name": "Odesa, Ukraine",
+          "lat": 46.48,
+          "lng": 30.73,
+          "severity": "red",
+          "detail": "Russia conducted missile and drone strikes across Ukraine, causing deaths and injuries."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "An Israeli airstrike killed a senior Hamas commander."
+        },
+        {
+          "name": "Saratov, Russia",
+          "lat": 51.53,
+          "lng": 46.03,
+          "severity": "red",
+          "detail": "Ukraine responded with drone strikes in Russia."
+        },
+        {
+          "name": "El-Fasher, Sudan",
+          "lat": 13.62,
+          "lng": 25.35,
+          "severity": "yellow",
+          "detail": "Conflict escalated significantly amid global instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Mixed human rights developments with prisoner releases, but abuses persist.",
+      "summary": "Belarus released 123 political prisoners, including Nobel laureate Ales Bialiatski, following a US agreement to lift potash sanctions. However, the UN reported escalating displacement and violence in the occupied West Bank due to Israeli settler attacks and home demolitions, and UNICEF highlighted significant child fatalities in Gaza.",
+      "regions": [
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9,
+          "lng": 27.56,
+          "severity": "green",
+          "detail": "Belarus released 123 political prisoners, including Nobel laureate Ales Bialiatski."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 32,
+          "lng": 35.22,
+          "severity": "red",
+          "detail": "The UN reported escalating displacement and violence due to Israeli settler attacks."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "UNICEF highlighted significant child fatalities amid ongoing conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Severe winter storm hits North America; 2025 confirmed among hottest years.",
+      "summary": "A disruptive winter storm impacted North America from December 13-15, causing heavy snowfall and power outages across the Mid-Atlantic, New England, and Atlantic Canada, resulting in 6 fatalities. Meanwhile, scientific reports consistently highlighted 2025 as one of the hottest years on record, with global temperatures nearing or exceeding the critical 1.5°C warming limit.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74.01,
+          "severity": "red",
+          "detail": "A disruptive winter storm caused heavy snowfall and power outages in the Mid-Atlantic."
+        },
+        {
+          "name": "Philadelphia, USA",
+          "lat": 39.95,
+          "lng": -75.17,
+          "severity": "red",
+          "detail": "A disruptive winter storm caused heavy snowfall and power outages in the Mid-Atlantic."
+        },
+        {
+          "name": "Atlantic Canada",
+          "lat": 47,
+          "lng": -65,
+          "severity": "red",
+          "detail": "A severe winter storm caused heavy snowfall, power outages, and 6 fatalities."
+        },
+        {
+          "name": "Western Washington, USA",
+          "lat": 47.5,
+          "lng": -122.5,
+          "severity": "yellow",
+          "detail": "Catastrophic floods, linked to climate change, impacted the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Winter conditions exacerbate public health risks in Gaza and US flood zones.",
+      "summary": "Winter storms and flooding in Gaza led to heightened risks of hypothermia for infants and severe health challenges due to inadequate shelter and contaminated water. Similarly, catastrophic floods in Western Washington state, linked to climate change, posed significant public health risks from polluted floodwaters.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Winter storms and flooding led to heightened hypothermia risks for infants and health challenges."
+        },
+        {
+          "name": "Western Washington, USA",
+          "lat": 47.5,
+          "lng": -122.5,
+          "severity": "yellow",
+          "detail": "Catastrophic floods linked to climate change posed significant public health risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces persistent inflation, slower growth, and trade tensions.",
+      "summary": "Global economic growth was projected to slow in 2025, with US inflation remaining elevated at approximately 2.7% in December. Trade policy changes and economic volatility were cited as significant risks, although the EU moved to indefinitely immobilize €210 billion in Russian assets as reparations for Ukraine.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "US inflation remained elevated at approximately 2.7% in December."
+        },
+        {
+          "name": "European Union",
+          "lat": 50.1,
+          "lng": 10.38,
+          "severity": "yellow",
+          "detail": "The EU moved to indefinitely immobilize €210 billion in Russian assets."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Economic growth was projected to slow, with persistent inflation and trade tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Thailand dissolves parliament for snap elections; Belarus releases prisoners.",
+      "summary": "Thailand's King dissolved parliament for snap elections on Prime Minister Anutin Charnvirakul's request, indicating political shifts. In a positive development, Belarus released 123 political prisoners, including a Nobel laureate, following an agreement with the United States.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.75,
+          "lng": 100.51,
+          "severity": "yellow",
+          "detail": "Thailand's King dissolved parliament for snap elections upon the Prime Minister's request."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9,
+          "lng": 27.56,
+          "severity": "green",
+          "detail": "Belarus released 123 political prisoners, including a Nobel laureate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global humanitarian crisis worsens with severe underfunding and access issues.",
+      "summary": "On December 13, 2025, humanitarian aid in Gaza was severely hampered by deprioritization of commercial goods, blocked supplies, and worsening winter storms. Globally, 2025 was deemed the 'worst humanitarian year on record' due to significant aid cuts, diminishing political will, and increased attacks on aid workers, leaving millions in critical need underfunded.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid was severely hampered by blocked supplies and worsening winter storms."
+        },
+        {
+          "name": "Syria",
+          "lat": 34.8,
+          "lng": 39,
+          "severity": "red",
+          "detail": "Millions were left in critical humanitarian need due to aid cuts and access issues."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.37,
+          "lng": 31.17,
+          "severity": "red",
+          "detail": "Millions were left in critical humanitarian need due to aid cuts and access issues."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "Millions were left in critical humanitarian need due to aid cuts and access issues."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.91,
+          "lng": 95.96,
+          "severity": "red",
+          "detail": "Millions were left in critical humanitarian need due to aid cuts and access issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtb9wey9S4MUW2DW3Pw9E7YFu1ZUAFfWNAL_MG0mqCX6BVtMVc0skEvdzk9AH8DdOGYcbd39OFW9ldGtulBftjdylJYlKx1REy_T0ZhveipAHU6h5v-8ImNtVLJbzMjSSX6RPMqiBlAcfGTM="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-1TOM9CYykDcibmt8U1wNcoMXIrZSKMitMmvrOX5vCV62mBurPvjmNM_Wuesl7sfvLYoWeaVL75tPjH0XMByLCPFtd724qACnC6BrBXwA_fgEETAFOPiHPuoRUzlLsV5tSBrZgt4txQ1QLwDfi45LWKOW2z5B7Gd46oL55k="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5JElDfU5py833BbSTfHHOGmmL297xpwG9vz61MIWWIVeTB5KSCesiJZ8GmY7rSKGoQOXPrhiy65HGMippxm_-2ks20h-KHf3p0SRcue_Ly2Tp3n2YjQxkWwauKX-n1uLlSf7ce8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX1ATpVYMThNvW01q-00GOGRuAScWO-Wub9upzkextNSUthl9wK9hP9k64BlIgFPDtpH2Essn4swUn6dzcAIMcwe7nQ_BNN0uebbA149brfvv3xBthxd5_ELbVG2Vsc-niDgxeQ3jRHGF2NILPsmzlcg2VZVqxPFi9Bx4608vYutgzdGLXxybiFs="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVv645GZgsXO9-eWmEoTNVxRec15PLbsB4CazWWcEzOsoRLJ0FAWL4uYNpAhX0gTuelZmfJr1sLr-F33odd_CmcX1QIvF1NUFbhMU1o7Rygxw33ZHL-J_VU3jdgMKopYr23bmkRlLGWwpJ8huSpDpQcUV7TiOUBGEuPdMUix8PWw0FQ4l8Ng2f3q0cMagk0Av"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "date": "2026-01-14",
+  "timestamp": 1772807593952,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate; Iran, Ukraine, Venezuela, Greenland tensions",
+      "summary": "Widespread anti-government protests in Iran have resulted in thousands of deaths and detentions, with reports of a 'shoot to kill' crackdown. The war in Ukraine continues, with attacks on civilian infrastructure and civilian casualties amid severe winter conditions. Geopolitical tensions are also rising over Greenland, with Denmark and Greenland increasing military presence in the Arctic following renewed US interest. The US announced the second phase of a Gaza peace plan, focusing on disarming Hamas and rebuilding the region.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Widespread anti-government protests led to thousands of deaths and detentions amid a 'shoot to kill' crackdown."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The war continued with attacks on civilian infrastructure and casualties amid severe winter conditions."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Geopolitical tensions were rising, potentially involving military intervention discussions."
+        },
+        {
+          "name": "Nuuk, Greenland",
+          "lat": 64.1833,
+          "lng": -51.7214,
+          "severity": "yellow",
+          "detail": "Denmark and Greenland increased military presence in the Arctic due to rising geopolitical tensions."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4619,
+          "severity": "yellow",
+          "detail": "The US announced the second phase of a peace plan focusing on disarming Hamas and rebuilding the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran crackdown, US rights erosion, India hate speech intensify",
+      "summary": "A brutal crackdown on anti-government protests in Iran has led to thousands of deaths and widespread detentions, with reports of 'unlawful killings on an unprecedented scale'. In the US, human rights organizations convened to express alarm over escalating authoritarian practices, including ICE raids, arrests of Somali refugees, and assaults on free expression and reproductive rights under the current administration. India also experienced a significant rise in hate speech against minorities in 2025.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "A brutal crackdown on anti-government protests led to thousands of deaths and widespread detentions."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Human rights organizations convened to express alarm over escalating authoritarian practices."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Escalating authoritarian practices included ICE raids and arrests of Somali refugees."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India experienced a significant rise in hate speech against minorities."
+        },
+        {
+          "name": "Jefferson City, Missouri, USA",
+          "lat": 38.5767,
+          "lng": -92.1735,
+          "severity": "yellow",
+          "detail": "Human rights organizations expressed alarm over assaults on free expression and reproductive rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Earth sees near-record heat and extreme weather events",
+      "summary": "Earth's average temperature in 2025 was among the top three hottest on record, with 2026 projected to be similarly hot, indicating accelerating global warming. The start of 2026 was marked by extreme heat, cold, precipitation, and fires globally. Deadly wildfires swept through parts of Chile and Argentina, while Southern Africa experienced severe floods exacerbated by climate change.",
+      "regions": [
+        {
+          "name": "Santiago, Chile",
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "severity": "red",
+          "detail": "Deadly wildfires swept through parts of Chile at the start of the year."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "yellow",
+          "detail": "Deadly wildfires swept through parts of Argentina at the start of the year."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.9653,
+          "lng": 32.5833,
+          "severity": "red",
+          "detail": "Southern Africa experienced severe floods exacerbated by climate change."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The start of 2026 was marked by extreme heat, cold, precipitation, and fires globally."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "The start of 2026 was marked by extreme heat, cold, precipitation, and fires globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Polio outbreak concerns, US healthcare policy at crossroads",
+      "summary": "The 44th meeting of the Polio IHR Emergency Committee was convened to address persistent wild poliovirus transmission, particularly highlighting substantial efforts needed in Pakistan (Karachi, South KP) and Afghanistan (Southern Afghanistan). In the US, a deadline for Obamacare enrollment approaches, with debates over abortion funding hindering a deal to extend ACA subsidies, and the HHS appointed doctors with histories of questioning vaccine safety to a key advisory committee.",
+      "regions": [
+        {
+          "name": "Karachi, Pakistan",
+          "lat": 24.8607,
+          "lng": 67.0011,
+          "severity": "yellow",
+          "detail": "Substantial efforts were highlighted as needed to address persistent wild poliovirus transmission."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5201,
+          "lng": 69.1347,
+          "severity": "yellow",
+          "detail": "Persistent wild poliovirus transmission, especially in Southern Afghanistan, required substantial efforts."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A deadline for Obamacare enrollment approached, and HHS appointed doctors questioning vaccine safety."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A deadline for Obamacare enrollment approached amid debates over healthcare funding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geoeconomic confrontation tops global risks amid oil price hike",
+      "summary": "The World Economic Forum's annual Global Risks Report, released on January 14, identified 'geoeconomic confrontation' as the most pressing global threat in the short term, citing protectionism and government influence over supply chains. Oil prices surged due to escalating tensions in Iran, with President Trump announcing a 25% tariff on countries doing business with Iran. While the IMF projected resilient global growth for 2026, driven by technology investment and fiscal/monetary support, risks include geopolitical tensions and reevaluation of technology expectations.",
+      "regions": [
+        {
+          "name": "Davos, Switzerland",
+          "lat": 46.802,
+          "lng": 9.8437,
+          "severity": "yellow",
+          "detail": "The World Economic Forum's annual Global Risks Report identified 'geoeconomic confrontation' as the top threat."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Oil prices surged due to escalating tensions in Iran."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump announced a 25% tariff on countries doing business with Iran."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "The IMF projected resilient global growth for 2026, driven by technology investment."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The IMF projected resilient global growth for 2026 despite risks like protectionism and geopolitical tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Iran faces severe democratic suppression; US democracy questioned",
+      "summary": "Iran is experiencing extreme suppression of anti-government protests, viewed by the regime as a 'proto-revolution' and met with brutal force and widespread detentions. Simultaneously, human rights organizations warn of escalating authoritarian practices and erosion of democratic norms in the United States, including controversial Justice Department memos on military intervention in Venezuela and actions against pro-Palestine activists.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The regime suppressed anti-government protests with brutal force, viewing them as a 'proto-revolution'."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Human rights organizations warned of escalating authoritarian practices and erosion of democratic norms."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Actions against pro-Palestine activists were cited as an erosion of democratic norms."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Controversial Justice Department memos discussed military intervention, indicating rising geopolitical tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Funding cuts deepen global crises; appeals launched for Ukraine, South Sudan",
+      "summary": "The global humanitarian system faces unprecedented strain due to deep funding cuts by major donor states, including the dismantling of USAID, impacting crucial aid operations worldwide. Urgent appeals were launched for Ukraine, where millions need assistance amid ongoing conflict and severe winter, and for South Sudan, where two-thirds of the population (10 million people) requires aid. Clashes in Myanmar's Chin State also forced people to flee, with humanitarian partners delivering aid despite funding shortfalls.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Urgent appeals were launched for millions needing assistance amid ongoing conflict and severe winter."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Urgent appeals were launched as two-thirds of the population (10 million people) required aid."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7635,
+          "lng": 96.0772,
+          "severity": "red",
+          "detail": "Clashes in Chin State forced people to flee, with aid delivered despite funding shortfalls."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Deep funding cuts by major donor states strained the global humanitarian system."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The global humanitarian system faced unprecedented strain due to deep funding cuts, including USAID dismantling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvLEswE_1jRI-EiB90mdft8N1_w-Ri-yoDq6BBl4juwA-XLr2npgPbTPn7k8p25jzBmSDza3r2bANgKYBXsnsva5Ai_pSR5whX12oNYPt-i-47Oiz2_DVXY6R5GzcRpwK1wqYZZcF8SvsSr_sF4oowbWO6LlY1xVwSZkODQw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJHo2gWErcyUN80s-Ntlg_jCDij96zFUwwjZgsmjWFbjryBggBt0uElfkzFvnxcYpsxCK657Xi_pfm96Mfxa0OHcUccdZOmhq_WgpduG4kGgFVupF84bUde4chUKTk7n9bJwLKm2g="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf01MoAbQ8AzZZjOHIdlhQk0y1uR1zgOZrUl_z1xK1sKUrRGdVIfEsrPt5ebFsLN2S2La43ReAK7eStczQBgcmz3HnwL4C91EOaY85nfjfsx5E_m8V9Vj5fSKr1ku1RAEU5WGLbmZgx5xGVwuWup6_YjkcxCffqCsESiPWnwGWqb-GoyxE3MvOtw=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_z0jnvaqM3LLH0A-lOwWEUejBVzJBQbow7Kc44VimwbY4ZrOP1I39A0vMm3w8H5eoSOvRXn85FzDnI5USmJSgKoho9x1ds25FKkxF-gILigt4Egx4GQQ7DrsexzP6FDMllTnErBs="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5R8uJjK-reHrSPoO28DQQWszwMozaTIzu6-840KYvLicAwzj_jnvoqNIHCKKJBUSzoZxkntiuBn9nzoQD1KOZej-w-TMajlgUcvX_Whnzb1pwEpuLihZMIFMAT7TpSlTqAaRvAwerTDwG3mCPx1Y2mVChx0="
+        }
+      ]
+    }
+  }
+}

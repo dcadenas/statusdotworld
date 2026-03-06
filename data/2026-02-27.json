@@ -1,0 +1,454 @@
+{
+  "date": "2026-02-27",
+  "timestamp": 1772809730150,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Gaza, Ukraine, and Sudan conflicts escalate; US-Iran tensions high",
+      "summary": "On February 27, 2026, Israeli airstrikes in Gaza killed eight people amidst ongoing conflict, while an Israeli court aimed to allow aid groups to continue operations. Pakistan engaged in 'open war' with Taliban forces in Afghanistan's major cities, and Russia prepared for a spring-summer offensive in Ukraine's Donetsk Oblast. The UN Security Council sanctioned four RSF commanders for their roles in the Sudan conflict, as US-Iran tensions remained high with the US embassy in Jerusalem advising non-essential staff to leave Israel due to potential military conflict.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli airstrikes killed eight people, and a court aimed to allow aid groups to continue operations."
+        },
+        {
+          "name": "Donetsk Oblast, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "red",
+          "detail": "Russia prepared for a spring-summer offensive in the region."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Pakistan engaged in 'open war' with Taliban forces in major cities."
+        },
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.5185,
+          "lng": 25.3218,
+          "severity": "red",
+          "detail": "UN Security Council sanctioned four RSF commanders for their roles in the Sudan conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US-Iran tensions remained high regarding potential military conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Grave rights violations in South Sudan and Xinjiang; Gaza water crisis",
+      "summary": "A UN report on February 27, 2026, documented serious human rights violations in South Sudan, including civilian airstrikes and forced recruitment, implicating senior officials. The African Commission on Human and Peoples' Rights reported that South Sudan's SSPDF killed at least 25 civilians in Pankor, Ayod County, after luring them with food aid. Civil society groups urged Germany to address abuses in Tibet, East Turkistan (Xinjiang), and Hong Kong. A UN expert highlighted systematic water deprivation in Gaza, a prohibited act under international law, with 92% of infrastructure needing rebuilding.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8594,
+          "lng": 31.5713,
+          "severity": "red",
+          "detail": "A UN report documented serious human rights violations, including civilian airstrikes and forced recruitment."
+        },
+        {
+          "name": "Pankor, Ayod County, South Sudan",
+          "lat": 6.8167,
+          "lng": 31.0667,
+          "severity": "red",
+          "detail": "SSPDF killed at least 25 civilians after luring them with food aid."
+        },
+        {
+          "name": "Ürümqi, China",
+          "lat": 43.8256,
+          "lng": 87.6177,
+          "severity": "red",
+          "detail": "Civil society groups urged Germany to address human rights abuses in Xinjiang."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "A UN expert highlighted systematic water deprivation and infrastructure needs."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Civil society groups urged Germany to address human rights abuses in Hong Kong."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather in Mediterranean, Brazil, Texas; EU unprepared for climate",
+      "summary": "On February 27, 2026, western Mediterranean regions, including Portugal, Spain, and Morocco, faced deadly storms and flooding after prolonged drought. Brazil's Minas Gerais state saw its death toll from landslides and floods rise to 64, with warnings of more extreme weather. South Texas experienced unusually high temperatures of 104°F, the hottest winter temperature ever recorded in the US. An EU advisory body indicated Europe is poorly prepared for worsening climate change, and a study linked climate changes in the Southern Ocean to declining southern right whale birth rates.",
+      "regions": [
+        {
+          "name": "Minas Gerais, Brazil",
+          "lat": -18.5122,
+          "lng": -44.555,
+          "severity": "red",
+          "detail": "Death toll from landslides and floods rose to 64, with warnings of more extreme weather."
+        },
+        {
+          "name": "Leiria, Portugal",
+          "lat": 39.7436,
+          "lng": -8.8071,
+          "severity": "red",
+          "detail": "The region faced deadly storms and flooding after prolonged drought."
+        },
+        {
+          "name": "Grazalema, Spain",
+          "lat": 36.7582,
+          "lng": -5.3725,
+          "severity": "red",
+          "detail": "The region faced deadly storms and flooding after prolonged drought."
+        },
+        {
+          "name": "South Texas, USA",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "yellow",
+          "detail": "Experienced unusually high temperatures of 104°F, the hottest winter temperature ever recorded in the US."
+        },
+        {
+          "name": "Southern Ocean",
+          "lat": -60,
+          "lng": 90,
+          "severity": "yellow",
+          "detail": "A study linked climate changes to declining southern right whale birth rates."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Avian flu in California seals; Foot-and-mouth disease in South Africa",
+      "summary": "On February 27, 2026, avian influenza (H5N1) was confirmed in northern elephant seals in Año Nuevo State Park, California, marking the first such infection in the species and marine mammals in California, with 30 seals dying. South Africa launched a mass cattle vaccination program to control a rapidly spreading foot-and-mouth disease (FMD) outbreak that has affected over 297,000 cattle. The WHO also released its recommendations for the 2026-2027 northern hemisphere influenza vaccine, noting a globally prevalent A(H3N2) variant and concerns about zoonotic influenza.",
+      "regions": [
+        {
+          "name": "Año Nuevo State Park, California, USA",
+          "lat": 37.1069,
+          "lng": -122.3192,
+          "severity": "red",
+          "detail": "Avian influenza (H5N1) confirmed in northern elephant seals, with 30 dying, a first for the species."
+        },
+        {
+          "name": "KwaZulu-Natal, South Africa",
+          "lat": -29,
+          "lng": 30,
+          "severity": "red",
+          "detail": "A mass cattle vaccination program was launched to control a rapidly spreading FMD outbreak."
+        },
+        {
+          "name": "Eastern Cape, South Africa",
+          "lat": -32.2902,
+          "lng": 26.4184,
+          "severity": "red",
+          "detail": "A mass cattle vaccination program was launched to control a rapidly spreading FMD outbreak."
+        },
+        {
+          "name": "Magaliesburg, South Africa",
+          "lat": -25.9984,
+          "lng": 27.5459,
+          "severity": "red",
+          "detail": "A mass cattle vaccination program was launched to control a rapidly spreading FMD outbreak."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "WHO released recommendations for the 2026-2027 northern hemisphere influenza vaccine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global debt hits record high; Germany's inflation eases; Ghana rebounds",
+      "summary": "On February 27, 2026, global debt surged to a record $348 trillion in 2025, with global money supply increasing by $13.6 trillion year-on-year. Germany's inflation unexpectedly slowed to 2% in February, indicating a slow economic recovery. Ghana's President announced the country was rebounding from its worst economic crisis in decades, showing signs of stability with slowing inflation and a firmer currency. Middle East tensions were noted as pushing energy prices higher, and the AI boom was not expected to fully alleviate economic challenges for debt-laden economies.",
+      "regions": [
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Germany's inflation unexpectedly slowed to 2% in February, indicating slow economic recovery."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "severity": "yellow",
+          "detail": "President announced Ghana was rebounding from its worst economic crisis, showing stability."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Tensions in the region were noted as pushing energy prices higher."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Global debt surged to a record $348 trillion, with increased global money supply."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.140853,
+          "lng": 101.693207,
+          "severity": "green",
+          "detail": "The city's economy was part of a global system facing record-high debt and economic challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Trump's influence on 2026 midterms raises concerns over election integrity",
+      "summary": "On February 27, 2026, concerns were raised over former President Donald Trump's efforts to influence the upcoming US midterm elections, including reports of drafting an executive order to declare a national emergency and expand presidential powers over elections. Worries about the federal government potentially seizing voting machines to disrupt the midterms were highlighted. In Virginia, a proposed constitutional amendment aimed to shift congressional districts, potentially impacting the partisan balance, underscoring ongoing political maneuvering in the lead-up to the 2026 elections.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns were raised over efforts to influence midterm elections and potential expansion of presidential powers."
+        },
+        {
+          "name": "Fulton County, Georgia, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "Worries highlighted potential federal seizure of voting machines to disrupt midterm elections."
+        },
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "A proposed constitutional amendment aimed to shift congressional districts, impacting partisan balance."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "green",
+          "detail": "The state's elections faced concerns regarding influence and integrity in the upcoming US midterms."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "The state's elections faced concerns regarding influence and integrity in the upcoming US midterms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens; UN overhauls system amidst strained global needs",
+      "summary": "On February 27, 2026, the humanitarian situation in Gaza was described as catastrophic, with an urgent need for aid due to ongoing violence and Israeli restrictions, despite an Israeli High Court ruling allowing aid groups to continue working. MSF warned that new Israeli restrictions threatened to expel 37 NGOs by March 1, 2026, further straining the crisis. The UN unveiled a significant overhaul of its humanitarian system as part of the UN80 Initiative, aiming to streamline support and integrate global supply chains. Concurrently, mass returns to Afghanistan, with approximately 1.5 million people forcibly returned, exacerbated the country's economic crisis and overwhelmed temporary reception camps.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The humanitarian situation was catastrophic due to violence, restrictions, and urgent aid needs."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Mass returns of 1.5 million people exacerbated the economic crisis and overwhelmed reception camps."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN unveiled a significant overhaul of its humanitarian system as part of the UN80 Initiative."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN unveiled a significant overhaul of its humanitarian system as part of the UN80 Initiative."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "The region was part of broader humanitarian concerns in Palestine, amidst strained global needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGMqT7LZeFsERP3jeRAzPZxzvT1BELbAn6aItIgO4NwHRICAO2DEy-F6LmHu1RXyz93gYX9Yhvl7SOi9yXCJ36SLDexD1TZOxxC74nvNkI4uxIvJXdky-HFomsoIBEfug0UPV37cWalUrvmbInryP8DG_nsdTtPwPzdxqxM4="
+        },
+        {
+          "title": "latimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBpEWyDXXEtbTsAKZqfJP9RIBwqcfrzsOnSKEz7E3Y0ZpswkppouNMGQbv6lE_RwK5HzWGe5b6x_SBAS78m6orbL69iebBw3QD_FKoESNwdbwUsJnFrAN5dkJ0pyD9-I3CRvjNVlCUAywUkU92pvzQSkzz_Ezq9zzpcZIZpycBHE2XoQpE5npuxr8MXYw5DWvGau98Ew0GDgSW9jhabuLl2UxkOepmB8aAXin"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsDBWUoaOSQxaME6mlQVT8z3MEDh3thtazBTLWgCtz0tu-2K2wvrLbfw_8U4Z68x-_SJbB8r6rZIkgs7-XUklkAJ27nuy0iUIR1wceW4jAOtZtqtBW3OctvZ2ZoPxvAfvWWHn4kls1bbvEVw6nr8NFJn8lXBQRsWkaKL6Q6YsooY2ROwYezoBWGbRbY87e99ZLGcXAilYOCV4ZusOGtPDnoN935KN2LQ=="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4VKygbdLgxNdlGUduBAA2_5YwQrlBo1su7TFa1_Cko7IAnAkyx1t2tAiyaGjYhV09bcAvzkuOJXqZrVzAQqU368h_REiHKqEKsUE_HrdubSIIhvXvwCrNKMZm1wavJHtIllbsbHyRN3WjhaJygAFqUmT7UkQH1G1Em50dHYshgcM6DUI_Q2uIFggDYYssbb0SNJ9fKhwVzpwP5ZnKYEKIvt3Gy5OfRpeyno5OWgyF0JPm4_M"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBJK8P00RQtz39prXLgpUU_qDsxZaEGy21KpklREushDcDuxaon63X3_jIqEnFyEFAz74erYe6W3W-tG8uTnsl0EKPgkJnl7GF9KdA4-ERzE0U6qOvnejLI0dcKDHjDqePGjVPPPiK2ds5IjuMVUduhYCLSTT_AifY9Hq-PnfhCEKKkSaidpdLxdDXLMhqBbzpfc5XD7MqZVfUkkR5"
+        }
+      ]
+    }
+  }
+}

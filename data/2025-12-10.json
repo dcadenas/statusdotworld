@@ -1,0 +1,398 @@
+{
+  "date": "2025-12-10",
+  "timestamp": 1772805955074,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally with significant military actions",
+      "summary": "Fighting intensified across several fronts. Ukrainian forces attacked a Russian oil tanker, while Russia continued aerial strikes on energy infrastructure. In Sudan, a military plane crashed amidst ongoing civil war, and the Rwandan military, with M23, captured Uvira in the DRC, signaling a major escalation despite peace efforts.",
+      "regions": [
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "red",
+          "detail": "Russia continued aerial strikes on energy infrastructure, impacting the city."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Fighting intensified across several fronts within the Gaza Strip."
+        },
+        {
+          "name": "Port Sudan, Sudan",
+          "lat": 19.6158,
+          "lng": 37.2164,
+          "severity": "red",
+          "detail": "A military plane crashed in Sudan amidst the ongoing civil war."
+        },
+        {
+          "name": "Uvira, Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.1333,
+          "severity": "red",
+          "detail": "The Rwandan military, with M23, captured Uvira, signaling a major escalation."
+        },
+        {
+          "name": "Aden, Yemen",
+          "lat": 12.7753,
+          "lng": 45.021,
+          "severity": "yellow",
+          "detail": "Fighting intensified in Aden as part of the broader global escalation of conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global human rights crisis deepens with widespread violations",
+      "summary": "International Human Rights Day highlighted severe abuses. Activists raised alarms over extensive Palestinian casualties and targeted killings of healthcare workers and journalists in Gaza. The UN warned of Sudan's extreme human rights crisis, while the US sanctioned Rwanda's military for abuses in eastern Congo.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Activists raised alarms over extensive casualties and targeted killings of healthcare workers."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The UN warned of Sudan's extreme human rights crisis, affecting the capital."
+        },
+        {
+          "name": "Uvira, Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.1333,
+          "severity": "red",
+          "detail": "The US sanctioned Rwanda's military for human rights abuses in eastern Congo."
+        },
+        {
+          "name": "Quezon City, Philippines",
+          "lat": 14.65,
+          "lng": 121.05,
+          "severity": "green",
+          "detail": "Human rights concerns persisted in Quezon City amid widespread global violations."
+        },
+        {
+          "name": "Castries, Saint Lucia",
+          "lat": 14.01,
+          "lng": -60.989,
+          "severity": "green",
+          "detail": "Human rights concerns persisted in Castries amid widespread global violations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "UN Environment Assembly discusses climate amid global impacts",
+      "summary": "The UN Environment Assembly continued its session in Nairobi, addressing ongoing climate challenges. Broader reports indicated climate change is fueling global dengue cases and increasing borrowing costs for vulnerable nations. No major new climate events were reported on this specific day.",
+      "regions": [
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "The UN Environment Assembly continued its session, addressing ongoing climate challenges."
+        },
+        {
+          "name": "Latin America and Caribbean",
+          "lat": 15,
+          "lng": -70,
+          "severity": "yellow",
+          "detail": "Climate change fueled dengue cases and increased borrowing costs for vulnerable nations in the region."
+        },
+        {
+          "name": "South Asia",
+          "lat": 20,
+          "lng": 77,
+          "severity": "yellow",
+          "detail": "Climate change fueled dengue cases and increased borrowing costs for vulnerable nations in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Vaccine advancements and disease outbreaks highlight health landscape",
+      "summary": "Maldives successfully introduced new rotavirus and pneumococcal vaccines free of charge. Stanford Medicine published research on mRNA COVID-19 vaccine-induced myocarditis, noting COVID-19 itself poses a higher risk. Meanwhile, UNICEF reported high rates of severe acute malnutrition in Gaza, and Africa faced surges in cholera and measles outbreaks.",
+      "regions": [
+        {
+          "name": "Malé, Maldives",
+          "lat": 4.1755,
+          "lng": 73.5093,
+          "severity": "green",
+          "detail": "Maldives successfully introduced new rotavirus and pneumococcal vaccines free of charge."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "UNICEF reported high rates of severe acute malnutrition among children and mothers."
+        },
+        {
+          "name": "France",
+          "lat": 46.2276,
+          "lng": 2.2137,
+          "severity": "yellow",
+          "detail": "Research on mRNA COVID-19 vaccine-induced myocarditis was relevant to public health discussions."
+        },
+        {
+          "name": "African Continent",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "Africa faced surges in cholera and measles outbreaks across various regions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy shows resilience but faces geopolitical and debt risks",
+      "summary": "The OECD and UNCTAD reported slowing global growth for 2025 and 2026, citing financial volatility and geopolitical uncertainty. The US Federal Reserve cut interest rates, leading to positive market reactions. However, the Bank of Canada warned of new risks from unmonitored global debt markets, exacerbated by Mideast conflicts.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "The US Federal Reserve cut interest rates, leading to positive market reactions."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "yellow",
+          "detail": "The Bank of Canada warned of new risks from unmonitored global debt markets."
+        },
+        {
+          "name": "Middle East (general for conflict impact)",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Mideast conflicts exacerbated risks from unmonitored global debt markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy under pressure amid conflict and political interference",
+      "summary": "Venezuela's opposition leader, Maria Corina Machado, was in hiding, unable to attend her Nobel Peace Prize ceremony amidst US escalation against the Maduro government. The Kremlin rejected the legitimacy of future Ukrainian governments not under its control, while President Trump pressed Ukraine to hold elections. Globally, civic freedoms remained restricted for nearly three-quarters of humanity.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Opposition leader Maria Corina Machado was in hiding amidst political pressure."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "President Trump pressed Ukraine to hold elections amidst ongoing political interference."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "The Kremlin rejected the legitimacy of future Ukrainian governments not under its control."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Major humanitarian crises persist in Sudan, Gaza, and Afghanistan",
+      "summary": "Sudan's war fueled the world's largest displacement crisis, with aid curbed by funding shortages and millions facing hunger. In Gaza, severe malnutrition among children and mothers was reported, with aid flows deemed inadequate despite ceasefire efforts. Afghanistan continued to face a vast humanitarian crisis, driven by food insecurity and mass returns.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan's war fueled the world's largest displacement crisis, with aid curbed."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Severe malnutrition was reported among children and mothers, with aid flows inadequate."
+        },
+        {
+          "name": "Afghanistan (general)",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "Afghanistan continued to face a vast humanitarian crisis driven by food insecurity and mass returns."
+        },
+        {
+          "name": "Donetsk Oblast, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "yellow",
+          "detail": "Humanitarian challenges persisted in Donetsk Oblast amidst ongoing global crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjaLJlDv2xvfvEvThqBlp7s2b3LiL654QmEfrphXW9F6TE1C0C41XpZZnXH8_aJpyNUYA84p_flfgfop8LYw4jl_R04FEcOH07ohyZUeD9px51D1Q4AA0OVQHUDaBLlYvrXiiwIKsJ0DdA27x-go44i7SBZFzuY3UDlRQmXoOjgxFMUHOxizLSXEtN_dzv0CKmu8P3UPWKQdi_88Mw0ady9QfDuj7D"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeI4DTYo5nr6rU2v2bPLuiCuqH6CD8BYfJdcr-nSCo7LdN878hFU8d2dMXU2fqFaK0vgxEpNdFAr-eJKQub_aPOulCKLdxPf9YUDtZQIqPOPs9iC-Y7RV9eCRTKxlgRPpuhq2jN3ze-z_Zqhq3tQKcwvG4GZs_GoNwBOY4a028ZX6_OA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYAPlc-mU2hBOdqVJCsZf0ee1wYCXCNGSuMk2zB8B6v7FOk3hXQzJcgwssmVtPbhNDyp7hgCSsr5MrBCMRsiPcvUpOz5lZu3uaLrdnEw9GsO7d77XctLvqKmkxpA8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33x92J6Dc37LlHrxsetDMXHxLWGghLzcBmqrCFV8n_YeZl7yfZRbDN9fP5S2Ii4r1CxdunAPkOhJON4EL8YAjhcRQ_AYfG0SbvCb7OwpHSHZJ9WFtGILhhGilT4TRC56BuQCH3LqT0Nh004bpRWo-0yaUCtn3EMz3gb8LiRUmXa5S"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1hFMTup8m_v6kP1pN0-VrHGlkqHM0bmsXsuuODVlYisRyzGtoq62DGlQjLu9VrvfX9iUnE4cVNPYYlrHkXcHa57oYAeosYoi1D_LX3RyG1_erZNPYEz7skr5NU8RyZDzh5hOeE4orZElap93OvbjfCtSFo6qLzf6fNSoI5LP8W_Q-o1oZIlV_rHqAccQS6m7PG8NIx65ls9PrmRM_v2iA9UcdPy-"
+        }
+      ]
+    }
+  }
+}

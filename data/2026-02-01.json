@@ -1,0 +1,447 @@
+{
+  "date": "2026-02-01",
+  "timestamp": 1772808510690,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel-Iran tensions escalate; Ukraine conflict rages with heavy casualties.",
+      "summary": "Geopolitical tensions significantly escalated on February 1, 2026, with Iranian Supreme Leader Ali Khamenei warning of a regional war if the US attacks Iran, and the Iranian Foreign Minister stating Iran would target all US bases in such a scenario. Simultaneously, the war in Ukraine continued with intense fighting, including Russian drone strikes in Dnipropetrovsk and Kyiv, and reports of escalating cross-border attacks and civilian casualties. In Gaza, concerns mounted over how restricted exits and re-entries would be for Palestinians as the Rafah crossing reopened.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian drone strikes hit Kyiv amid ongoing intense conflict."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Concerns grew over restricted movement for Palestinians as the Rafah crossing reopened."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's leaders warned of regional war and threatened US bases if attacked by the US."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Tensions escalated with Iran, which threatened to target all US bases if attacked."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Tensions escalated due to Iranian threats of regional war against the US and Israel."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "UN raises 'ethnic cleansing' concerns in Palestine; severe crackdown on protests in Iran.",
+      "summary": "The UN Human Rights Office raised concerns over 'ethnic cleansing' by Israeli authorities in Gaza and the West Bank, citing intensified violence, destruction, and forcible transfers, alongside a pervasive climate of impunity for violations. In Iran, human rights organizations reported ongoing and violent crackdowns on nationwide protests that began in late 2025, involving mass arrests, torture, and internet blackouts. Furthermore, Israel planned to bar 37 international NGOs from operating in Gaza and the West Bank starting March 1, 2026, due to new registration requirements, threatening critical aid delivery.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "UN raised 'ethnic cleansing' concerns; Israel planned to bar 37 international NGOs."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35,
+          "severity": "red",
+          "detail": "UN raised 'ethnic cleansing' concerns; Israel planned to bar 37 international NGOs."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Human rights organizations reported a violent crackdown on protests with mass arrests."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "No specific human rights event for this date was reported in the summary."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "yellow",
+          "detail": "No specific human rights event for this date was reported in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Winter Storm Gianna impacts US Southeast; global CO2 rise expected to miss climate targets.",
+      "summary": "Winter Storm Gianna brought heavy snowfall, strong winds, and coastal flooding to the US Southeast on February 1, 2026, with record snowfall recorded in parts of North and South Carolina, and an extreme cold warning in North and Central Georgia. Concurrently, the UK Met Office forecasted that the rate of atmospheric carbon dioxide increase in 2026 would remain too fast to meet global climate targets. In contrast to federal rollbacks, California moved forward with corporate greenhouse gas reporting requirements.",
+      "regions": [
+        {
+          "name": "Wilmington, USA",
+          "lat": 34.2257,
+          "lng": -77.9447,
+          "severity": "red",
+          "detail": "Winter Storm Gianna brought heavy snowfall, strong winds, and coastal flooding."
+        },
+        {
+          "name": "Charleston, USA",
+          "lat": 32.7765,
+          "lng": -79.9311,
+          "severity": "red",
+          "detail": "Winter Storm Gianna brought heavy snowfall, strong winds, and coastal flooding."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.7488,
+          "lng": -84.3877,
+          "severity": "yellow",
+          "detail": "An extreme cold warning was issued due to the impact of Winter Storm Gianna."
+        },
+        {
+          "name": "St. John's, Canada",
+          "lat": 47.5615,
+          "lng": -52.7126,
+          "severity": "yellow",
+          "detail": "No specific climate event for this date was reported in the summary."
+        },
+        {
+          "name": "Mauna Loa, Hawaii, USA",
+          "lat": 19.4796,
+          "lng": -155.5922,
+          "severity": "yellow",
+          "detail": "Global CO2 rise was forecasted to remain too fast to meet climate targets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO appeals for $1B for 36 global crises; disease outbreaks reported worldwide.",
+      "summary": "The World Health Organization launched a global appeal for nearly $1 billion to address 36 health emergencies worldwide in 2026, highlighting significant funding cuts and surging health needs. Multiple disease outbreaks were reported, including dengue in Timor-Leste with 2,105 cases in February, chikungunya in Mayotte and Seychelles, yellow fever in Venezuela, and cases of mpox in Spain and Austria. In Ukraine, a mental health crisis continued to affect an estimated 10 million people, exacerbated by attacks on energy infrastructure impacting hospitals.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO, based here, launched a global appeal for $1 billion for 36 health emergencies."
+        },
+        {
+          "name": "Dili, Timor-Leste",
+          "lat": -8.5563,
+          "lng": 125.5736,
+          "severity": "yellow",
+          "detail": "A dengue outbreak was reported, with 2,105 cases in February."
+        },
+        {
+          "name": "Mayotte, France",
+          "lat": -12.8275,
+          "lng": 45.1662,
+          "severity": "yellow",
+          "detail": "A chikungunya outbreak was reported in the region."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "A mental health crisis affected 10 million people, exacerbated by attacks on infrastructure."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The WHO launched a global appeal for $1 billion to address health emergencies, likely including needs here."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions drive gold, oil prices up; global growth forecasts remain mixed.",
+      "summary": "Geopolitical tensions, particularly in the Middle East, fueled a surge in gold and oil prices during February 2026, with gold experiencing multi-decade high volatility. While global economic growth projections for 2026 varied between a slowdown to 2.7% (UNCTAD) and a slight upward revision to 3.3% (IMF), major economies showed mixed signals. Inflation remained a concern, with the Euro area expecting 1.9% in February, Germany forecasting 1.9%, and the UK seeing 3.0% in January, while the US experienced falling inflation still above target.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US inflation was falling but still above target; gold and oil prices surged due to tensions."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK saw 3.0% inflation in January; gold and oil prices surged due to geopolitical tensions."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Germany forecasted 1.9% inflation; gold and oil prices surged due to geopolitical tensions."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "green",
+          "detail": "No specific economic event for this date was reported in the summary."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Geopolitical tensions in the Middle East fueled a surge in global gold and oil prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Costa Rica holds general elections; Bangladesh faces political unease ahead of poll.",
+      "summary": "Costa Rica held general elections on February 1, 2026, with Laura Fernández Delgado winning the presidential election in the first round. Meanwhile, Bangladesh was on edge ahead of its expected February elections, with reports of politically-motivated killings raising concerns about stability and potential violence. In the United States, research highlighted the mental health impacts of democratic backsliding during Trump's second term, while an upcoming Supreme Court ruling on executive tariff powers and crucial November midterm elections also contributed to political uncertainty.",
+      "regions": [
+        {
+          "name": "San José, Costa Rica",
+          "lat": 9.9281,
+          "lng": -84.0907,
+          "severity": "green",
+          "detail": "General elections were held, with Laura Fernández Delgado winning the presidential election."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Political unease and politically-motivated killings were reported ahead of expected elections."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "No specific democratic event for this date was reported in the summary."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Research highlighted mental health impacts of democratic backsliding amidst political uncertainty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid faces restrictions; Mediterranean sees deadly migrant crisis; WHO appeals for funds.",
+      "summary": "Humanitarian aid operations in the Gaza Strip continued to face significant impediments and restrictions on February 1, 2026, despite UN coordination efforts and the reopening of the Rafah crossing. The Mediterranean recorded a 'deadliest start to a year' in over a decade, with more than 600 people dead or missing attempting to cross. The World Health Organization launched a nearly $1 billion appeal for 2026 to address 36 global emergencies, noting severe funding cuts. [cite: 3 (public health output), 11 (public health output), 14 (public health output)] In Ukraine, 10.8 million people required humanitarian assistance due to ongoing conflict and energy infrastructure damage.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian aid operations faced significant impediments and restrictions despite UN efforts."
+        },
+        {
+          "name": "Mediterranean Sea",
+          "lat": 35,
+          "lng": 18,
+          "severity": "red",
+          "detail": "The sea recorded its 'deadliest start to a year' with over 600 migrants dead or missing."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "10.8 million people required humanitarian assistance due to ongoing conflict and energy damage."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO, based here, launched a nearly $1 billion appeal for 36 global emergencies."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "No specific humanitarian event for this date was reported in the summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAzJi6ESLR-mNF3F-X4Kc0TtalxGz98_YQEN0hq4aYyWUjwjhTVU3PXtNMfNVAiw8dB5232WKN8XezXOrS2yUN5Gc9T7rISrthiUdBvGatT41L682M7rz0k0mD-eUQxRsdEqiaQ6YbOjqqp0Iy3YSCWtpmaPIWJd3kGdrsClMGTdHxPpOgW7y"
+        },
+        {
+          "title": "dailynewsegypt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkQdf6MdRrADvn_ZIo9Qo4FLehRMUE6YFQoEgFEzYQWy-INZI-25dkVoS4hvVEcoW6OdgOD0OK1u_Pl3-nJcGYKSWiKPbPCdK7gxzNsz7gzC0pU4GiXEDhXsEP4RTZ0Iibrd6ZGFasbJLPcuIEiIOr1_q16LqLm0kLuL6I-yThFiHUTt34TFQE3u77_W_00CyS8LOksqc41z6iidjCqVnoC_iAUJtAuW8p7juUCBelGVmJXogLqG5T2bNfQ=="
+        },
+        {
+          "title": "evrimagaci.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQc3k6bVLeUKtxSodp2vk5UBzijYBrB9V6cDDBiFAZTZuar3-pxYhrSk7rQxjXIppmOrxEPKudyqu7rsFwFBIHPLw4LqpWPhpGUsRpQ7UHP84Vg-LSo8tgE_-x8GKFLpn0ZbOURYG9KkpLPXdAq8zPaq0GyooCXSKk318Oy-bDzcbGe10VeqIyZHq42P79w=="
+        },
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0f6lv50ntediEXCWuhz9ifzR6D93aEGSwwQ_ytUUcfE2vQE33F7p6JEk8Dw_-ojSgoK9DCUYzpWyCxMMosXj4FuDPjnyFSfNv4wtO6fv9sU8C99Jl7-Tkm2Y1eNaKs7o2TLHyp9ZhuCLk0UA4viilI7jKJa6DW0Fl1mTwGDHd9W0b946XZilx1aYnIXwe_7mX56ZK1Wzl"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvlsbd06aXy7ww8JM2CCRmDr7gTJeA2vTKYaEMgfLN0Gfn7Qy9xEyKeVuPDOdNAZGWPR_-H8ktw6gh15hQAnegv0qMgfrN7LkYaE2VKvHTwrnQrhrGLBe3rAXcVazWFqjzobZPBWy2La2sVCy4KodWbbPru4Dg2fWJvwiphG66I0oDP8f22P3XSYhFkEy-6dquQcx14M="
+        }
+      ]
+    }
+  }
+}

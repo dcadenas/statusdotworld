@@ -1,0 +1,405 @@
+{
+  "date": "2025-12-15",
+  "timestamp": 1772806183920,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Mass shooting in Sydney; Ukraine talks and renewed fighting reported",
+      "summary": "A mass shooting at a Hanukkah celebration on Bondi Beach in Sydney, Australia, left at least 15 dead and 42 injured, with police treating it as a terror incident, prompting calls for tougher gun laws. Concurrently, peace talks between Ukraine and US envoys continued in Berlin with reported progress, even as Russia renewed offensive strikes in regions like Zaporizhzhia and Sumy. Separately, five suspects were detained in Syria following an attack on a joint US-Syrian convoy.",
+      "regions": [
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "red",
+          "detail": "A mass shooting at a Hanukkah celebration on Bondi Beach left 15 dead and 42 injured in a terror incident."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Renewed Russian offensive strikes impacted regions like Zaporizhzhia and Sumy in Ukraine."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Peace talks between Ukraine and US envoys continued with reported progress."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5132,
+          "lng": 36.2913,
+          "severity": "yellow",
+          "detail": "Five suspects were detained following an attack on a joint US-Syrian convoy."
+        },
+        {
+          "name": "New York, USA (UN Headquarters)",
+          "lat": 40.7486,
+          "lng": -73.9678,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported at the UN Headquarters today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Hong Kong democracy campaigner convicted; Belarus releases political prisoners",
+      "summary": "In Hong Kong, media tycoon Jimmy Lai was convicted on national security charges and faces life imprisonment, with concerns raised over his health, while the last major opposition party officially disbanded. Conversely, Belarus released 123 political prisoners, including Nobel Peace Prize winner Ales Bialiatski, coinciding with the lifting of US sanctions. On a broader scale, UN Human Rights Chief Volker Türk emphasized that human rights are being severely tested globally by rising inequalities, conflicts, and the climate emergency.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Media tycoon Jimmy Lai was convicted on national security charges, and the last major opposition party disbanded."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "yellow",
+          "detail": "Belarus released 123 political prisoners, including Nobel Peace Prize winner Ales Bialiatski."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US sanctions against Belarus were lifted, coinciding with prisoner releases."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UN Human Rights Chief Volker Türk emphasized global human rights challenges from inequality, conflict, and climate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "No new major climate events; discussions on global climate efforts ongoing",
+      "summary": "No major new climate events or crises were specifically reported on December 15, 2025. However, the broader context of 2025 indicated ongoing global efforts and concerns, with the Climate Summit 2025 earlier in September warning that political action continues to fall short of commitments needed to prevent irreversible climate damage. Workshops focusing on Earth system high-impact events and climate adaptation were held in Europe around this date, reflecting continuous scientific engagement with climate challenges.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "No major new climate event was specifically reported in this region."
+        },
+        {
+          "name": "Bern, Switzerland",
+          "lat": 46.948,
+          "lng": 7.4474,
+          "severity": "green",
+          "detail": "No major new climate event was reported, but climate workshops occurred in Europe around this date."
+        },
+        {
+          "name": "Belém, Brazil",
+          "lat": -1.4558,
+          "lng": -48.4902,
+          "severity": "green",
+          "detail": "No major new climate event was specifically reported in this region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "San Francisco discusses health modernization; US public health policy updates",
+      "summary": "The San Francisco Department of Public Health held a meeting on December 15, 2025, to discuss public health modernization, disease surveillance, and emergency preparedness, noting a 'failing infection' that crossed species from cattle to cats in July 2025. Meanwhile, in the US, new fitness standards for federal public health workers were announced, and a new lifestyle model to enhance wellness was unveiled. A Johns Hopkins year-in-review report highlighted 2025 as a seismic year for public health with aid cuts and diminishing public confidence, but also noted a decline in overdose deaths and homicides in some US cities.",
+      "regions": [
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "The Department of Public Health held a meeting to discuss health modernization and disease surveillance."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "New fitness standards for federal public health workers were announced, and a new wellness model unveiled."
+        },
+        {
+          "name": "Baltimore, USA",
+          "lat": 39.2904,
+          "lng": -76.6122,
+          "severity": "yellow",
+          "detail": "A Johns Hopkins report highlighting public health issues was released from this city."
+        },
+        {
+          "name": "Geneva, Switzerland (WHO Headquarters)",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "No specific public health event was reported at the WHO Headquarters on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Indian Rupee hits all-time low; global growth forecasts remain moderate",
+      "summary": "The Indian Rupee slumped to an all-time low of 90.74 against the U.S. dollar on December 15, driven by uncertainty over a trade deal with the US and persistent foreign fund outflows. Broader global economic outlooks from December 2025 projected moderate but steady growth for 2025 and 2026, though UNCTAD forecasts a slowdown below pre-pandemic averages, and McKinsey noted that changes in trade policy remain the most-cited risk to global growth. Markets anticipated significant US easing in 2026, with the Federal Reserve expected to cut interest rates.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The Indian Rupee slumped to an all-time low of 90.74 against the U.S. dollar."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve's anticipated 2026 interest rate cuts were a subject of market speculation."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "No specific economic crisis event was reported for this region on this date."
+        },
+        {
+          "name": "Geneva, Switzerland (UNCTAD)",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UNCTAD forecast a global economic slowdown below pre-pandemic averages."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns over US democratic backsliding; Hong Kong opposition disbands",
+      "summary": "In the United States, reports from early December 2025 by 'Democracy Forward' highlighted ongoing efforts to counter actions by the Trump-Vance administration perceived as trampling on constitutional rights and dismantling protections. Meanwhile, Hong Kong's democratic landscape saw a significant setback with media tycoon Jimmy Lai's conviction under national security law and the official disbandment of the last major opposition party. In India, local elections were announced in Maharashtra, and a regional leader addressed 'vote chori' concerns.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reports highlighted ongoing efforts to counter Trump-Vance administration actions perceived as undermining democracy."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Media tycoon Jimmy Lai was convicted on national security charges, and the last major opposition party disbanded."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Local elections were announced in Maharashtra, and a regional leader addressed 'vote chori' concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "US pledges $2B humanitarian aid amid calls for UN reform, aid cuts impact Africa",
+      "summary": "The US formalized a $2 billion commitment for UN humanitarian assistance programs, covering 17 crisis-affected countries, but this was framed within a 'Humanitarian Reset' demanding UN agency reforms due to overall reduced US foreign assistance. The agreement, while substantial, represents a fraction of previous US contributions, and a Johns Hopkins report noted that aid cuts throughout 2025 disrupted global health efforts in Africa against diseases like malaria and cholera. The EU also announced an €80 million aid package for Yemen.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The US formalized a $2 billion commitment for UN humanitarian assistance programs, demanding reforms."
+        },
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Aid cuts disrupted global health efforts against malaria and cholera in Africa."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "The EU announced an €80 million aid package for Yemen."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "Aid cuts disrupted global health efforts against malaria and cholera in Africa."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "No specific humanitarian aid event or action was reported in Kyiv on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGiBsDRTu-8G6H61JGus8Ogguhde3rvQTwCU5Vvk2Ygo1g9oBZscOShcyARqJCC5FjY4g6q6cKK7XEkZ84Jq_celNyn2kLBV_xj6RYTPl-Cz1zw4jN9dElf0ntwPVNUDrTNHD-Dk="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xViYNKIp4tgeE1tL3bGgRvfNU_kArzGdIMMz0whNql4cMu9hADkzidnX80ZvCNgDQyS5DtvTkhnhuU33u4f3WUJHRV9EcNZsH7vpV9n8txwBB4ibZCW3FDxVk-aLmytSAD80oIrH2Ek5lf_roZPlerr5Mgv_WDOjxo1WxoPA6HYomSe1KQzRty1rNDXItvMGgW-WTxw3s4M2zw_Mgc86NUiOGaPyBLV1jSxFGqXuXFTNF0IFMWI1mCE7AaethPKLR-SooSDXC97yvSpnfT62bZ5yzVuPXvTuq9rcbLnZ6ruSZG7PkbNTtBZq1X1uHTgdjtlkD9ZE8WKsFDLvn1wn_7y7VT_gZT2VPSroWqu-BU44QqLA3i3hnJWPGpTCxZGJPD5mqU-L"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApKDVQt_ctqgwY7cMdt4_Q-u_esUSpduw5jBsyYGGe5xPxCmwIjgkMvcZIKDNqTUlRI_FixP5alOFwgaVkxdyhTztbp_Z9zkJI05ke8q6tetdjP-4IGavXVIB44Qt5iJ0FUpZKCw="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGYXiAPyKYCMcNc5XtQOAd6Wnkrm41DrHgxhkZBWp5u2mo1SL9kHuYKHne2FT6pcHsAjf2GPEGS_bB7wpHoqkbqx2U9RckA1U9yxIErroCJvfsbwpRO_EgOL3JBimn25GoTPcN60="
+        },
+        {
+          "title": "who.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4j1PCTCtxW4TMuu2ADBgayt6KPubchB9VCWzJXIFKDEi9CWy5zj4hG47Q2Fsg5kJJMhoehu5rCLyQPfsyOjeqKq6DorzlNcXbGsYIt5nEEE25FGPTicBK-JRZfLpD2BR7lzsR2SgsBwXyo4TgEuxQqnGzp-U6vLGCmHRX_Q7AvQx1L88fb8P30dq5XzeZP5NG"
+        }
+      ]
+    }
+  }
+}

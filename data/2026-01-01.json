@@ -1,0 +1,312 @@
+{
+  "date": "2026-01-01",
+  "timestamp": 1772806960214,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Ukraine seeks peace amidst ongoing global conflicts and regional violence.",
+      "summary": "On January 1, 2026, Ukrainian President Volodymyr Zelenskyy stated that Ukraine was '10 percent' away from a peace deal with Russia, offering a glimmer of hope amidst ongoing global conflicts. Meanwhile, world leaders issued New Year messages emphasizing peace, while reports also emerged of a suicide bombing in Aleppo, Syria, and US forces striking alleged narco-trafficking vessels in international waters.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "President Zelenskyy stated Ukraine was '10 percent' away from a peace deal with Russia."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2021,
+          "lng": 37.1328,
+          "severity": "red",
+          "detail": "Reports emerged of a suicide bombing in the city."
+        },
+        {
+          "name": "International Waters",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "US forces struck alleged narco-trafficking vessels."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran faces global outcry over executions and deadly crackdown on protests.",
+      "summary": "On January 1, 2026, Iran faced international condemnation following reports of mass executions in 2025 and a deadly crackdown on nationwide protests that continued into the new year, with security forces firing on citizens in cities like Fasa. Separately, the UN Secretary-General condemned the Israeli parliament's adoption of amendments targeting UNRWA, the UN agency for Palestinian refugees.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.7219,
+          "lng": 51.3347,
+          "severity": "red",
+          "detail": "Iran faced international condemnation over mass executions and a deadly protest crackdown."
+        },
+        {
+          "name": "Fasa, Iran",
+          "lat": 28.9388,
+          "lng": 53.7088,
+          "severity": "red",
+          "detail": "Security forces fired on citizens during ongoing protests."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General condemned amendments targeting UNRWA, impacting refugees."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Global temperatures projected to remain near record highs in 2026.",
+      "summary": "While no specific major climate events were reported on January 1, 2026, forecasts from early 2026 indicate that the year is projected to be among the hottest on record, continuing a trend of escalating risks from extreme weather. Global temperatures are expected to remain near record levels, intensifying heatwaves, droughts, and other climate impacts worldwide.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Madagascar confirms mpox cases as global health faces ongoing challenges.",
+      "summary": "On January 1, 2026, Madagascar confirmed five mpox cases in the northwestern city of Mahajanga, signaling a localized public health concern. Globally, the healthcare sector is projected to continue navigating significant challenges in 2026, including rising costs, workforce shortages, and the increasing impact of climate change on health.",
+      "regions": [
+        {
+          "name": "Mahajanga, Madagascar",
+          "lat": -15.722,
+          "lng": 46.324,
+          "severity": "yellow",
+          "detail": "Five mpox cases were confirmed in the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces fragile growth amidst geopolitical and trade uncertainties.",
+      "summary": "On January 1, 2026, Chinese President Xi Jinping pledged proactive policies to boost economic growth, as the global economy entered the new year with projections of steady but fragile expansion. Analysts foresee global GDP growth around 3%, but highlight persistent downside risks from geopolitical tensions, trade policy shifts, and the impact of AI on the labor market.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "President Xi Jinping pledged proactive policies to boost economic growth."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The nation's economy navigated global growth projections and downside risks."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU's economy navigated global growth projections and downside risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global democracy faces persistent challenges and ongoing erosion trends.",
+      "summary": "On January 1, 2026, no new major democratic crises were reported; however, analyses from late 2025 and early 2026 consistently highlighted a global trend of democratic backsliding and the erosion of political freedoms. Concerns include the increasing use of AI for disinformation in elections and the undermining of institutional checks on power in various regions.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global humanitarian crisis deepens with 239 million people in urgent need.",
+      "summary": "As of January 1, 2026, the global humanitarian situation was critically severe, with over 239 million people in urgent need of assistance due to entrenched conflicts and the escalating climate crisis. Reports highlighted widespread violence, hunger, displacement, and disease, alongside significant funding shortfalls and cuts to aid, particularly impacting regions such as the Occupied Palestinian Territory, Sudan, and the Democratic Republic of the Congo.",
+      "regions": [
+        {
+          "name": "Occupied Palestinian Territory",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "It was particularly impacted by widespread violence, hunger, and displacement."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The region was particularly impacted by widespread violence, hunger, and displacement."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "It was particularly impacted by widespread violence, hunger, and displacement."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "The region faced severe humanitarian needs due to entrenched conflicts."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "The region faced severe humanitarian needs due to the escalating climate crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vovworld.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCuUn5TypSr9SXX201-YBkKraVlfBjmTj_RldpmB-1yavQZheDhDmSXKr86dpNn2OX5XqmHMs7kMk2UhsTSENrNputkDmEEfRoSGgkzfBwxG_WXzCtmZ32ASZms1WxqgJTB5qBsqueLrF5lx1DVHEFbpgPNbIiSjn3XR1O_Wg5Iaw73x3OTCg1lHAUxQI7egmy6X8J4U0KIMcJXmufwR0="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqYRkQWJYWE2BBRdX0o1KeA76TX46Tc3beN5MdjQXvhCPjXJo_EXl_ABoQl9HzgAWeahaRBOOj8Nu8y4t6Lnu06Kn03odfW0c4RuHPc5vjB0UOIZqRDsnmCIKRgBcJZlHMfF6cn7c7UCt6mC3dec9pin233GVe2L5Td760MLr"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtEbLAn1n26Y1oppx5iR_npxc9k2o4N8VrVEdW7OJXttszwAtM7UdmMoGNiEaJMlbpYvqgfQ71uVtPDMrwaAVWXmQIJMzlVvRpXlHRXu5UHzsS8NJ5t2tGEs35kslbIhR12Vw4aKkS3-wO8vROOC9Svu4csZVKHLZy5KBV8jrfuCkSG7WiO5FcRZWw_33C51XrqodNeU="
+        },
+        {
+          "title": "climatedata.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGImKzfNeR9juA8ld89NGZGQEtfkarXyt-kkQ1YQutFP5XBbY603x0qUuTWn6DtKQ4FR4LqDDiGPSWMHewAH9lOl6BL-cCi7BcrqjaW3Q23JF4qdIeNhY3FEk11xFJvytMHqf_r_EGB_BqE9C1HXLmvxtnQnhhhSD-kLVAmjSqt6ry8tjqp-M6P864q4yJk6lk="
+        },
+        {
+          "title": "unu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ixPrWNdsX8yIjPN8GOiNZA4FqL16QAFbv1mfbBt-k5SulDcCfIj5lJfaRsLUUsT7ZFRICM6H1tKugxrww2qGbOw7jJx_RxPt_6nkzYOe6wcS3CmwyJ46rrphyky373_-66kbxutQ3670spkZZjSyFOLAYb6EJdnULFb79djPUIZ6"
+        }
+      ]
+    }
+  }
+}

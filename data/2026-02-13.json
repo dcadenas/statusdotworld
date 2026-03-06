@@ -1,0 +1,405 @@
+{
+  "date": "2026-02-13",
+  "timestamp": 1772809144470,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates; Ukraine drone production boosts",
+      "summary": "The Middle East is experiencing severe conflict with ongoing Israeli strikes against Hezbollah in Beirut and other Gulf states targeted by bombs, drones, and rockets, leading to displacement from Lebanon to Syria. In Ukraine, Russian offensives continue in Kharkiv and Sumy regions, while Germany and Sweden are bolstering Ukraine's defense capabilities with drone production and Gripen jet purchases.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli forces conducted ongoing strikes against Hezbollah in Beirut."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran, as a Gulf state, was targeted by bombs, drones, and rockets in escalating conflict."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "red",
+          "detail": "Russian offensives continued in the Kharkiv region."
+        },
+        {
+          "name": "Sumy, Ukraine",
+          "lat": 50.9167,
+          "lng": 34.7833,
+          "severity": "red",
+          "detail": "Russian offensives continued in the Sumy region."
+        },
+        {
+          "name": "Türkiye",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event for Türkiye was detailed in the provided summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN human rights work threatened; Gaza aid obstructed",
+      "summary": "The UN faces a financial crisis threatening to halt human rights work globally, while humanitarian aid in Gaza continues to face significant obstacles and denied missions by Israeli authorities, despite a ceasefire agreement. In the US, concerns are rising over the use of conspiracy laws to suppress protests against immigration crackdowns, and a federal judge denied a block on federal immigration agent surges in Minneapolis.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid faced significant obstacles and denied missions from Israeli authorities."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "No specific human rights event for Havana was detailed in the provided summary."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "A federal judge denied blocking federal immigration agent surges in Minneapolis."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN in Geneva faces a financial crisis threatening to halt global human rights work."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "US repeals key climate regulation; global climate impacts intensify",
+      "summary": "The Trump administration formally rescinded the EPA's 'endangerment finding,' eliminating greenhouse gas emission standards in the US, a move criticized by environmental groups. Meanwhile, deadly wildfires in Argentina and Chile in January were attributed to climate change, and the UK experienced record rainfall and flooding. The Met Office also forecast that atmospheric CO2 increase in 2026 remains too fast to meet climate targets.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The Trump administration formally rescinded the EPA's 'endangerment finding,' eliminating emission standards."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "yellow",
+          "detail": "The United Kingdom experienced record rainfall and widespread flooding."
+        },
+        {
+          "name": "Patagonia, Argentina",
+          "lat": -40,
+          "lng": -70,
+          "severity": "red",
+          "detail": "Deadly wildfires, attributed to climate change, impacted Patagonia."
+        },
+        {
+          "name": "Andean foothills, Chile",
+          "lat": -35,
+          "lng": -71,
+          "severity": "red",
+          "detail": "Deadly wildfires, attributed to climate change, impacted the Andean foothills."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "No specific climate event for Beijing was detailed in the provided summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US vaccine committee sees withdrawals; healthcare policy debated",
+      "summary": "The US public health landscape faces notable developments as doctors withdraw from the CDC vaccine committee following RFK Jr.'s appointment of a new acting director, signaling potential shifts in vaccine policy. Concurrently, the House Energy and Commerce Subcommittee on Health examined the prescription drug supply chain, and HHS released a proposed rule for the Affordable Care Act's benefit and payment parameters for 2027.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Doctors withdrew from the CDC vaccine committee following new leadership appointments."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "No specific public health event for Geneva was detailed in the provided summary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US tariffs create uncertainty; UK business confidence falls",
+      "summary": "The global economy faces uncertainty due to new 10% global tariffs imposed by President Trump, despite 2025's resilience in global growth. In the UK, business leader confidence dropped significantly in February, with geopolitical tensions now the primary concern. The FATF also updated its 'grey list' of countries under increased monitoring for financial crimes.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump imposed new 10% global tariffs, creating economic uncertainty."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "UK business leader confidence dropped significantly in February due to geopolitical tensions."
+        },
+        {
+          "name": "Algeria",
+          "lat": 28.0339,
+          "lng": 1.6596,
+          "severity": "green",
+          "detail": "Algeria was added to the FATF's 'grey list' for increased monitoring of financial crimes."
+        },
+        {
+          "name": "Namibia",
+          "lat": -22.9576,
+          "lng": 18.4904,
+          "severity": "green",
+          "detail": "Namibia was added to the FATF's 'grey list' for increased monitoring of financial crimes."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "The Democratic Republic of the Congo was added to FATF's 'grey list' for financial crime monitoring."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Free speech concerns in US; AI used in Venezuela operation",
+      "summary": "In the United States, concerns are growing over the potential erosion of First Amendment rights due to the expanded use of conspiracy laws to suppress protests against government immigration policies. Additionally, it was reported that US special operations forces utilized AI technology during a raid to capture Nicolás Maduro in Venezuela, highlighting the evolving role of technology in international interventions.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns grew over the erosion of First Amendment rights due to expanded use of conspiracy laws."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Concerns grew over First Amendment erosion in the US due to conspiracy laws suppressing protests."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "US special operations used AI during a raid in Venezuela to capture Nicolás Maduro."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Multiple humanitarian crises deepen; aid obstructed in Gaza",
+      "summary": "Humanitarian crises are deepening globally, with nearly 1.5 million displaced in Gaza facing severe living conditions and aid access restrictions four months after a ceasefire. Madagascar is grappling with acute needs for 400,000 people after two powerful cyclones, while Afghanistan's 5.4 million returnees face mounting hardships as winter worsens. Fuel shortages and sanctions also threaten access to basic services in Cuba.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Nearly 1.5 million displaced people in Gaza faced severe living conditions and aid restrictions."
+        },
+        {
+          "name": "Tamatave, Madagascar",
+          "lat": -18.1408,
+          "lng": 49.4026,
+          "severity": "red",
+          "detail": "Madagascar, including Tamatave, faced acute humanitarian needs after two powerful cyclones."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1755,
+          "severity": "red",
+          "detail": "Afghanistan's 5.4 million returnees faced mounting hardships as winter worsened."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "Fuel shortages and sanctions threatened access to basic services in Cuba."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseW12cObBrSL8A-nwCSDGqSF7M6fSrYnLB53xUx2PCWWpQq44HsB0zl2gN0N5C35d3NzonV-VGTvESALZZzM53xCNfeFhzCj-BGxhKhWAxKHQfrq2LmaianY9KV2RR52lzQ0RrGc="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzl9C2oou4fODLSN6XlJLsIzJd_0KiU-YMIHE9QsaBvPsKzDoMs42ziAvIRfSJj0hHLVbk9rpMFTj5FPyZEW0kSItBoUct2fwo8oAHqKbrr2hx5Imn4p2PRb43fup97vOYG0CCah8pZudQ-DntI7iimNDHiU1LtmTf1TpSuaQ4wkMpYEWW08Sp-0ZtKedn"
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRESLqF9r0sy_NZWP2Y8Ry7LccYnTRIPUQ7cdbmjtiIymmOZgZpeSRs_3fJux1eAaz73Nxw5d4A1Qf95f_jgzO8lF1NfhFcJGYE4gQbrxWf9cImksRRm4ndcNjKcrMSnOm7HMtI0wLDW6lfkeAFLuR_6CuMHEIaePy50eUHRrzIgqEmeSJIq4AG95xZxqlLcMkYDZf4rPLVl0eLSlnVFTaBGJ9lg0"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd7rDQPRJmWrlO2qUj8-limBBf79Lhw-D1tnPjjq8aORrFCfzWMiShUOYxtHIxi3U25ILdtghD_C9X9TBbKM36fuujJwZbcRsHhznwUkD-dh4BCiQ9OGiBGnAVDtuMs6g3kW69l_np1cYVqacoZPV_OnELvlhBX3QLr1v6mxyhG08wxmO8gE8p5SOmvB81tXar-ROr9JvJNZjD4GJ0fn4Q5MhEthC8Zg=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H7WanUdagvtvhXRrviwGIyIGdZmtODadqeXMj7y7OMxqwDVqMZLbUYDMrX2SD5-LLZgBSMLcJzCPWvXFyE8r1vOG2a5AQ02iFz1otrO8KUGzsKSBNfTNKDH07_odXeybFdSHLUg="
+        }
+      ]
+    }
+  }
+}

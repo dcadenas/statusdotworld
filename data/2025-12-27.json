@@ -1,0 +1,398 @@
+{
+  "date": "2025-12-27",
+  "timestamp": 1772806769088,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts persist globally; Ukraine-Russia peace efforts stalled, deadly attacks in Syria, Thailand-Cambodia ceasefire.",
+      "summary": "On December 27, 2025, a massive Russian attack on Kyiv left at least two dead and dozens injured, while Ukrainian President Zelenskyy's 90% ready peace plan differed fundamentally from Russia's. A mosque bombing in Homs, Syria, killed eight and wounded 16. Thailand and Cambodia implemented a 72-hour ceasefire following three weeks of deadly border clashes, and Israeli gunfire injured a UN peacekeeper near the Lebanon border.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "A massive Russian attack left at least two dead and dozens injured."
+        },
+        {
+          "name": "Homs, Syria",
+          "lat": 34.7333,
+          "lng": 36.7222,
+          "severity": "red",
+          "detail": "A mosque bombing killed eight and wounded 16 people."
+        },
+        {
+          "name": "Cambodia-Thailand Border",
+          "lat": 14.33,
+          "lng": 103.52,
+          "severity": "red",
+          "detail": "A 72-hour ceasefire was implemented after three weeks of deadly clashes."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.36,
+          "lng": 35.56,
+          "severity": "yellow",
+          "detail": "Israeli gunfire injured a UN peacekeeper near the border."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "yellow",
+          "detail": "No specific event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Forced disappearance in Pakistan, mass displacement at Cambodia-Thailand border, and ongoing Sudan crisis highlight severe human rights concerns.",
+      "summary": "On December 27, 2025, Ganj Bakhsh was forcibly disappeared by the Pakistan Army in Awaran District, with later reports indicating his death from torture. At the Cambodia-Thailand border, over 50,000 displaced persons remained unable to return home after deadly clashes, facing destroyed housing and unexploded ordnance. The ongoing war in Sudan has led to millions displaced and over 150,000 deaths, creating an unsustainable humanitarian situation.",
+      "regions": [
+        {
+          "name": "Awaran District, Pakistan",
+          "lat": 26.4444,
+          "lng": 65.2333,
+          "severity": "red",
+          "detail": "Ganj Bakhsh was forcibly disappeared by the Pakistan Army, later reported dead from torture."
+        },
+        {
+          "name": "Cambodia-Thailand Border",
+          "lat": 14.33,
+          "lng": 103.52,
+          "severity": "red",
+          "detail": "Over 50,000 displaced persons remained unable to return home due to destroyed housing and ordnance."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "red",
+          "detail": "Millions were displaced and over 150,000 died due to ongoing war, creating an unsustainable situation."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "No specific event was detailed for this location."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "No specific event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "2025 among warmest years on record; severe winter storms across US, flooding in Southern California, and storm fatalities in Nordics underscore climate impacts.",
+      "summary": "December 27, 2025, falls within a year projected to be among the warmest on record, with climate disasters costing over $120 billion globally. Southern California experienced its wettest Christmas in years with significant flooding and landslides, attributed to intensifying 'hydroclimate whiplash'. A powerful winter storm brought heavy snow, ice, and strong winds across the Great Lakes and Midwest US, with a separate storm causing two fatalities in the Nordic region.",
+      "regions": [
+        {
+          "name": "Southern California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "The region experienced its wettest Christmas in years with significant flooding and landslides."
+        },
+        {
+          "name": "Great Lakes, USA/Canada",
+          "lat": 44,
+          "lng": -80,
+          "severity": "yellow",
+          "detail": "A powerful winter storm brought heavy snow, ice, and strong winds."
+        },
+        {
+          "name": "Nordic Region",
+          "lat": 64,
+          "lng": 18,
+          "severity": "yellow",
+          "detail": "A powerful winter storm caused two fatalities in the region."
+        },
+        {
+          "name": "Minnesota, USA",
+          "lat": 46.3924,
+          "lng": -94.6362,
+          "severity": "yellow",
+          "detail": "A powerful winter storm brought heavy snow, ice, and strong winds to the Midwest US."
+        },
+        {
+          "name": "Greenland",
+          "lat": 72,
+          "lng": -40,
+          "severity": "green",
+          "detail": "No specific event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US grapples with severe flu outbreak and record cases, highlighting global epidemic preparedness efforts.",
+      "summary": "On December 27, 2025, the United States was experiencing a severe flu outbreak, with New York state recording its highest number of positive flu cases in a single week. Nationally, flu-related illnesses reached 4.6 million, with 49,000 hospitalizations and 1,900 deaths this season. Globally, the International Day for Epidemic Preparedness underscored the ongoing efforts and EU funding for enhanced genomic surveillance and response systems.",
+      "regions": [
+        {
+          "name": "New York State, USA",
+          "lat": 42.9537,
+          "lng": -75.5268,
+          "severity": "yellow",
+          "detail": "The state recorded its highest number of positive flu cases in a single week."
+        },
+        {
+          "name": "Luxembourg",
+          "lat": 49.6117,
+          "lng": 6.1319,
+          "severity": "green",
+          "detail": "No specific event was detailed for this location."
+        },
+        {
+          "name": "Romania",
+          "lat": 44.4268,
+          "lng": 26.1025,
+          "severity": "green",
+          "detail": "No specific event was detailed for this location."
+        },
+        {
+          "name": "Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "green",
+          "detail": "No specific event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "green",
+      "headline": "Global markets stable on holiday-shortened trading, strong annual performance for US and international stocks.",
+      "summary": "On December 27, 2025, global financial markets saw quiet trading due to holiday closures in many regions. US stocks closed slightly lower for the day, though the S&P 500 had climbed nearly 18% for the year, and international stocks outperformed US equities in 2025 overall. India's equities traded range-bound, and gold and silver prices continued to climb, while global green debt issuance reached a record $947 billion for the year.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US stocks closed slightly lower, though the S&P 500 climbed nearly 18% for the year."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "India's equities traded range-bound on a holiday-shortened day."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "No specific event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Ivory Coast holds parliamentary elections with African Union observation.",
+      "summary": "On December 27, 2025, Ivory Coast successfully held parliamentary elections, with the ruling Rally of Houphouëtists for Democracy and Peace securing a significant majority of seats. An African Union Election Observation Mission (AUEOM) was deployed to ensure the integrity of the electoral process.",
+      "regions": [
+        {
+          "name": "Abidjan, Ivory Coast",
+          "lat": 5.3167,
+          "lng": -4.03,
+          "severity": "green",
+          "detail": "Ivory Coast successfully held parliamentary elections, observed by the African Union."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen at Cambodia-Thailand border, Sudan, and Gaza with mass displacement and famine.",
+      "summary": "On December 27, 2025, the Cambodia-Thailand border region faced a severe humanitarian crisis, with over 50,000 people displaced by recent deadly clashes unable to return home due to destroyed infrastructure and unexploded ordnance. Sudan continued to experience an 'unsustainable' humanitarian situation after two years of war, resulting in millions displaced and famines declared in Darfur and Kordofan. Famines were also declared in Gaza governorate due to ongoing conflict-induced food insecurity.",
+      "regions": [
+        {
+          "name": "Cambodia-Thailand Border",
+          "lat": 14.33,
+          "lng": 103.52,
+          "severity": "red",
+          "detail": "Over 50,000 people were displaced and unable to return home due to destroyed infrastructure and ordnance."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Famine was declared due to ongoing conflict-induced food insecurity."
+        },
+        {
+          "name": "Kordofan, Sudan",
+          "lat": 13.5,
+          "lng": 30,
+          "severity": "red",
+          "detail": "Famine was declared due to ongoing conflict-induced food insecurity."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Famine was declared in Gaza governorate due to ongoing conflict-induced food insecurity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS--LqwxWC95gtBp-y_rDa6tJY_vUcZd3zBHf1R-0UbQ0zao4F6ug7xb5L9q53CM2B_jz2sy53s_mOkIY8aoNrfEc6cEoTFhnd67kOsTfAK-bB8bRFrD9niTugcUnelQ9n8A0bdVPDpXokslObQkwGfdlF5Z42gE0-Y4U2F89E8lQr1A=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkv81N2FQ938NUYAVMWswBAWUzZY7lBmfHZuGnpBFQsY_W3vt4Q_BuWAZMs_tDUTkYXkdQhjEbdB33LdR-H8sIhoj3aJSyw0-CJFjIr8xbrE95aF9bV7LSmRpr_SdL5z7YjKMHymaD4U3hYQ-ZAa44tUfJ6bHOBAsb-tyexLyY5ooksLA-gcO9Qh5Tvp0GZR_8yXPA8xdYQl8RmlTYoEvnGELiUauenp_342_pOlpL7bWpAIQ0FuxDg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3JzRv_AYfvb1yH5CJoyM9TMk_8oo8bion7o_WLIZcQXFzqAnXQXmut3Z_78BQcdIO-8wsrzCrg5YHNlnaY5vap1YDxivyb2b617nzY5nmOx8MJ2b6J0bNCGflUWYNx2Z8xc2cqU="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Xv0A1EsJhbErn7EEKEm245ItROaz6Ps9pviXqNvWfudsWJzsWPq0RK8Pv1uy1WoF0pGMEx0c8YgKgsqLB2ssW7Cu5eMTMrtmLs15q9UVX4lxxF33InxY6ypTvERSXQyXNMeOsSWcuCeCIoDSF_1QW5hkuju-4254EKLxdBU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCV46Ui8ey4tZXTHN9R1b_FzWjuyJxzrTD8dQkes4uxh6najFHsjKdIk_nRZwwhESuDgOJL5yKK6kivIN1wtjD3_0-gw7mCjmULkRuckukS_m7M64wBTkIqovQ-T1NH5261UGr9CM="
+        }
+      ]
+    }
+  }
+}

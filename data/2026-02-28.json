@@ -1,0 +1,426 @@
+{
+  "date": "2026-02-28",
+  "timestamp": 1772809779783,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel launch major military strikes on Iran; Iran retaliates, escalating Middle East conflict.",
+      "summary": "On February 28, 2026, the United States and Israel launched coordinated military strikes against Iran, targeting military infrastructure, leadership, and nuclear facilities. Iran immediately retaliated with missile and drone attacks against Israel and US bases in Gulf states, marking a severe escalation of conflict in the Middle East. The UN Secretary-General condemned the military escalation, warning of a wider regional conflict with grave consequences.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US-Israeli military strikes targeted Tehran, hitting military infrastructure and leadership."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Tel Aviv faced missile and drone attacks from Iran in retaliation for US-Israeli strikes."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Manama, Bahrain, faced Iranian missile and drone attacks targeting US bases."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait City faced Iranian missile and drone attacks targeting US bases in the Gulf."
+        },
+        {
+          "name": "Abu Dhabi, United Arab Emirates",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "red",
+          "detail": "Abu Dhabi faced Iranian missile and drone attacks targeting US bases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Middle East conflict sparks human rights concerns, civilian casualties, and internet shutdowns.",
+      "summary": "The military strikes in Iran and subsequent retaliatory actions led to reports of civilian casualties, including students, and widespread internet shutdowns in Iran, limiting communication and information access. Human Rights Watch and the UN Human Rights Chief deplored the strikes and called for the protection of civilians and adherence to international humanitarian law. Anti-war protests erupted in several US cities.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Tehran experienced civilian casualties and widespread internet shutdowns following military strikes."
+        },
+        {
+          "name": "Minab, Iran",
+          "lat": 27.1472,
+          "lng": 57.0789,
+          "severity": "red",
+          "detail": "Minab experienced civilian casualties and widespread internet shutdowns following military strikes."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Human rights concerns were raised, with calls for civilian protection amid escalating conflict."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Human rights concerns were raised, with calls for civilian protection amid escalating conflict."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Anti-war protests erupted in Washington, D.C., questioning military action against Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Geopolitical conflicts highlight war's climate impact; some regions experience record heat.",
+      "summary": "The escalating conflict in the Middle East, alongside the ongoing war in Ukraine, highlighted the significant environmental impact of warfare through increased greenhouse gas emissions and other damage. Meanwhile, some regions experienced extreme weather, with South Texas and Southern California reporting record high temperatures for late February.",
+      "regions": [
+        {
+          "name": "Brownsville, Texas, United States",
+          "lat": 25.9011,
+          "lng": -97.4975,
+          "severity": "yellow",
+          "detail": "Brownsville, Texas, reported record high temperatures for late February."
+        },
+        {
+          "name": "Palm Springs, California, United States",
+          "lat": 33.7932,
+          "lng": -116.5268,
+          "severity": "yellow",
+          "detail": "Palm Springs, California, reported record high temperatures for late February."
+        },
+        {
+          "name": "Helsinki, Finland",
+          "lat": 60.1699,
+          "lng": 24.9384,
+          "severity": "yellow",
+          "detail": "No specific extreme weather event was reported for Helsinki on this date."
+        },
+        {
+          "name": "Des Moines, Iowa, United States",
+          "lat": 41.6,
+          "lng": -93.6,
+          "severity": "yellow",
+          "detail": "No specific extreme weather event was reported for Des Moines on this date."
+        },
+        {
+          "name": "Boca Raton, Florida, United States",
+          "lat": 26.3587,
+          "lng": -80.0833,
+          "severity": "yellow",
+          "detail": "No specific extreme weather event was reported for Boca Raton on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Middle East conflict strains health systems, disrupts humanitarian aid routes.",
+      "summary": "Escalating hostilities in the Middle East, particularly the conflict involving Iran, placed additional pressure on health systems and disrupted transportation routes for humanitarian medical supplies. In the Gaza Strip, Israeli authorities closed all crossings, suspending medical evacuations and raising concerns about food security and fuel for humanitarian operations, exacerbating an already critical situation.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli authorities closed all crossings, suspending medical evacuations and raising humanitarian concerns."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Health systems faced additional pressure and medical supply routes were disrupted due to conflict."
+        },
+        {
+          "name": "Middle East (General Region)",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Escalating hostilities placed additional pressure on health systems and disrupted humanitarian aid routes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict fuels oil price surge and global market uncertainty.",
+      "summary": "The US and Israeli strikes on Iran and subsequent retaliatory actions caused a significant surge in oil prices and injected acute volatility into global financial markets. Energy flows and shipping routes, particularly through the Strait of Hormuz, were disrupted, leading to increased risk premiums and concerns about inflation and slower economic growth globally.",
+      "regions": [
+        {
+          "name": "Bandar Abbas, Iran",
+          "lat": 27.195,
+          "lng": 56.2974,
+          "severity": "red",
+          "detail": "Energy flows and shipping routes through the Strait of Hormuz faced disruption."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "New York financial markets experienced acute volatility and oil price surges due to conflict."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "London financial markets experienced acute volatility and oil price surges due to conflict."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Frankfurt financial markets experienced acute volatility and oil price surges due to conflict."
+        },
+        {
+          "name": "Shanghai, China",
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "severity": "yellow",
+          "detail": "Shanghai financial markets experienced acute volatility and oil price surges due to conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US anti-war protests erupt over Iran strikes, raising debate over presidential powers.",
+      "summary": "Following the US-Israeli strikes on Iran, anti-war protests erupted across various cities in the United States, with demonstrators questioning the legality of military action without congressional approval. These mobilizations highlight ongoing concerns about democratic processes and the executive branch's use of military force.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Anti-war protests erupted, questioning the legality of US military action against Iran."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Anti-war protests erupted, questioning the legality of US military action against Iran."
+        },
+        {
+          "name": "Portland, Oregon, United States",
+          "lat": 45.5231,
+          "lng": -122.6765,
+          "severity": "yellow",
+          "detail": "Anti-war protests erupted, questioning the legality of US military action against Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East conflict severely disrupts humanitarian aid delivery and health systems.",
+      "summary": "The rapidly escalating conflict in the Middle East has severely impacted humanitarian aid operations, with direct strikes and retaliatory actions disrupting supply chains and putting immense pressure on health systems. Specifically, the closure of crossings into Gaza by Israeli authorities on this date further exacerbated the humanitarian crisis, cutting off vital medical evacuations and essential supplies.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli authorities closed crossings, severely disrupting aid delivery and medical evacuations."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Humanitarian aid delivery and health systems were severely impacted by escalating conflict."
+        },
+        {
+          "name": "Minab, Iran",
+          "lat": 27.1472,
+          "lng": 57.0789,
+          "severity": "red",
+          "detail": "Humanitarian aid operations were severely impacted, with supply chains disrupted and health systems pressured."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "No specific humanitarian event was reported for Havana on this date."
+        },
+        {
+          "name": "Middle East (General Region)",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Escalating conflict severely impacted humanitarian aid operations and health systems."
+        }
+      ],
+      "sources": [
+        {
+          "title": "marsh.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3Ut8ryNDBx0qrI6zkbUk4N4ZIIyB-P3mmoLn8Pn2W7yjrjl6pHCduKH91YEFffNm0KqALBQ017qAN--mt5rtJ46HYpGYmeZUTDvGf7B2yOM7yyUwhi6yOEhtDOqIfIm5dAuKHYkY4Q6HFV4W1xbyHAnHjfvrvtmzSzVZRov5PTfhLAggzX5ZjiJ7RoFZxA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdLR9zw_1fbw1l3Ixc3URsd0U4xTgFE9cwAKdCf8-YBsCDbeVrIsSr05uOtThDeUbeK_gu_ZlZ5V9NMRBCnimTuhr4fZh1Y2jkjtXL6eUfHswyVXgmkCnZbyH9eJ2ciOW7Ut-02m4="
+        },
+        {
+          "title": "rapidknowhow.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAYiJqCOX8-WE7GVYiq1EyiKMjUp6bYn-jTg9DtCE6ES_aaHdagGxp5A78z_2YbeZgXK55rKrnm4jixV26d2IMNW9t4d-3JJ8Q0RJ_Ll8XPM8zZNT7v8NtEwIQUzG1VSMA-m8wDXtUBNUF9XI-0sHD_YNDz03cd3Ss5z4QL0pzwqSDQ=="
+        },
+        {
+          "title": "israel-alma.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5NmUIrWORHuymRKPMY5ulzjbdBtesoBP44fntcAV6Yfl39aFHrm2uDFqwvzMuCn2sJuCOx-wRndk1vncXPTTm-OVkmQuhYJCOAFwgMN6hF2SGrpnrTrPElAyFWQMk_Jj81x_4eqq9ZVTNrAVfOJl0oLyKNIpFmlAKmtCQ-dawPfOezMnK4PuIkqU="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKAtx5Rjp0Dr9tXZ6gvG243bEOvNLfm70U4_GYgDqWq7d1eSx8MTJsJhBELRRVwNI5xyySn7bDXyVhoB7CjLv_j5oIk_4fGGy4eRvE6QHxySomegCvF3UPutkT4L--SGlcZrCDvJQRHKTbLFjBeRIlVRI756CMwaO6mVLVYpSeEBg3np_9kKFFz96bIRmRYRlzbUHtdMG7oEs2y6g="
+        }
+      ]
+    }
+  }
+}

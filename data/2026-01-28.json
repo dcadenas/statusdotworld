@@ -1,0 +1,440 @@
+{
+  "date": "2026-01-28",
+  "timestamp": 1772808313656,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Mideast tensions escalate, Ukraine conflict persists, Gaza aid constrained.",
+      "summary": "Tensions in the Middle East are escalating with a significant US naval deployment and discussions around potential US-Israel military action against Iran, although direct strikes have not yet occurred as of this date. In Ukraine, fighting continues with Russian strikes on civilian infrastructure and reports of high casualties, while peace talks failed to achieve a breakthrough. Humanitarian access remains severely constrained in Gaza despite a ceasefire, and the Democratic Republic of Congo faces immense humanitarian needs amid ongoing conflict.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "Humanitarian access remained severely constrained despite a ceasefire."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.523333,
+          "severity": "red",
+          "detail": "Fighting continued with Russian strikes on civilian infrastructure and reports of high casualties."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.325,
+          "lng": 15.255,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo faced immense humanitarian needs amid ongoing conflict."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.466667,
+          "lng": 54.366667,
+          "severity": "yellow",
+          "detail": "The region experienced escalating Mideast tensions and discussions of potential military action."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Discussions around potential US-Israel military action against Iran were underway."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human rights erode in US amid authoritarian concerns; abuses persist in Gaza.",
+      "summary": "Amnesty International has raised alarms about rising authoritarianism and human rights erosions in the United States, citing threats to civil liberties, expanded immigration detention leading to deaths, and reported killings by federal agents. In Gaza, large-scale arrests, ill-treatment, and deaths in custody continue amidst ongoing conflict and humanitarian challenges. The Democratic Republic of Congo and Sudan also face severe human rights crises driven by conflict, displacement, and limited access to essential services.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Amnesty International raised alarms about rising authoritarianism and human rights erosions."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Civil liberties faced threats amid rising authoritarianism and human rights concerns."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "Large-scale arrests, ill-treatment, and deaths in custody persisted amidst ongoing conflict."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.325,
+          "lng": 15.255,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo faced severe human rights crises driven by conflict and displacement."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Sudan experienced severe human rights crises driven by conflict, displacement, and limited services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme weather grips globe; US dismantles climate regulations.",
+      "summary": "January 2026 saw extreme weather globally, including record cold in Europe, severe winter storms in North America, and devastating heatwaves and wildfires in Australia, India, and Chile, with the World Meteorological Organization attributing these to long-term warming. In a significant development, the US administration revoked a key scientific finding classifying greenhouse gases as public health threats, undermining climate regulation. Climate hazards also contribute to the ongoing humanitarian crisis in the Democratic Republic of Congo.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "red",
+          "detail": "Devastating heatwaves and wildfires gripped the region, attributed to long-term warming."
+        },
+        {
+          "name": "Santiago, Chile",
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "severity": "red",
+          "detail": "Devastating heatwaves and wildfires gripped the region, attributed to long-term warming."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US administration revoked a key scientific finding classifying greenhouse gases as public health threats."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Europe experienced record cold temperatures as part of global extreme weather."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.325,
+          "lng": 15.255,
+          "severity": "yellow",
+          "detail": "Climate hazards contributed to the ongoing humanitarian crisis in the Democratic Republic of Congo."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in South Carolina; Gaza child deaths from hypothermia.",
+      "summary": "South Carolina is experiencing a significant measles outbreak with 789 cases reported, marking the largest in the US in decades. In Gaza, the humanitarian crisis continues to impact public health, with another child death attributed to hypothermia, bringing the total to 10. Mississippi is also addressing the ongoing opioid crisis and the allocation of settlement funds to combat its impact.",
+      "regions": [
+        {
+          "name": "Spartanburg, USA",
+          "lat": 34.9499,
+          "lng": -81.9321,
+          "severity": "red",
+          "detail": "South Carolina experienced a significant measles outbreak with 789 reported cases."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "Another child death was attributed to hypothermia, bringing the total to 10."
+        },
+        {
+          "name": "Hattiesburg, USA",
+          "lat": 31.3271,
+          "lng": -89.2907,
+          "severity": "yellow",
+          "detail": "Mississippi addressed the ongoing opioid crisis and the allocation of settlement funds."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.325,
+          "lng": 15.255,
+          "severity": "yellow",
+          "detail": "Public health challenges persisted amid the ongoing humanitarian crisis."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "No specific public health event was detailed for the city on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but fragile; trade tensions persist.",
+      "summary": "The global economy is projected for resilient but fragile growth in 2026, with the IMF forecasting 3.3% global growth despite divergent forces and elevated geopolitical uncertainty. While global inflation is expected to decline, trade tensions persist, notably with the US planning to raise tariffs on South Korean imports. Positive developments include a historic trade agreement between India and the European Union and an anticipated broadening bull market with strong equity returns projected for 2026.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US planned to raise tariffs on South Korean imports, contributing to trade tensions."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "The US planned to raise tariffs on South Korean imports, impacting trade tensions."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "A historic trade agreement between India and the European Union was achieved."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "A historic trade agreement between India and the European Union was achieved."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "An anticipated broadening bull market with strong equity returns was projected for 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns escalate; global democratic recession noted.",
+      "summary": "Democracy in the United States faces significant challenges, with Amnesty International and Human Rights Watch detailing rising authoritarian practices, erosion of anti-discrimination protections, and threats to voting rights ahead of midterm elections. Concerns are also voiced over federal agencies operating beyond legal bounds and infringing on civil liberties. Globally, a \"democratic recession\" is observed, with a majority of the world's population living under autocracy.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Amnesty International and Human Rights Watch detailed rising authoritarian practices and civil liberty threats."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "The city was part of a global 'democratic recession' where autocracy is expanding."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Anti-discrimination protections faced erosion, and voting rights were threatened ahead of elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid impeded, DR Congo faces massive funding gap, global aid disrupted.",
+      "summary": "Humanitarian aid delivery in Gaza faces severe impediments and constraints despite ongoing efforts, leading to continued suffering and child deaths from hypothermia. In the Democratic Republic of Congo, a $1.4 billion appeal was launched to address immense needs, but severe funding shortages mean only a fraction of those in need can be reached amidst conflict and displacement. The broader global humanitarian sector is experiencing structural disruption due to deep funding cuts from major donor states, further exacerbating crises worldwide.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "Humanitarian aid delivery faced severe impediments, leading to continued suffering and child deaths."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.325,
+          "lng": 15.255,
+          "severity": "red",
+          "detail": "A $1.4 billion appeal was launched for immense needs, but severe funding shortages persisted."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The region faced a severe humanitarian crisis driven by conflict, displacement, and limited services."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The global humanitarian sector experienced structural disruption due to deep funding cuts."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The global humanitarian sector experienced structural disruption due to deep funding cuts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxmIovIjQEpHZYX8a3zN0lv3uX7zNhWVjKKNDuZ44YEhx8v3grHZbT6HIwEOXkojispZoYuAJvEHbDQEZNnWlrV7C1SwQSStCES4xaMPsk1JBeIyMSCr0vYWZrSWvCE-lSk4-5l2enbpMSGyhEV6ljMhgdEJM8_j6XyWQX0="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2v_Mq39mo52jf0Ovo-OdBeZD4ogdVcVWjCTywwouGw5QbPYPI8HSYiEwxWgcn2G8DxAv-5mBxvm7bVr6lOYGUervN-ocdV15cKPypDAUnXvETSmyRb4ddfTV6_IohXoJYW2fqw1Elw=="
+        },
+        {
+          "title": "smallwarsjournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqfHgDALqjLwyJTN8drHF9vl84YooziEY39o8k2JAT_KPH3hID1AXhKgxx2_jm9ByLMoPpz0_sj2gRGYo6o97MsL1u_Bi_Yaypfq4fevFM6enP5fovCjokBMcvNW3NTVLdMK-AF_JJGSKjjgoVSq3ROCKVwjS9bT9AzU0RD8_Czb2pjqg97WDcQC-nA7h5ty-9aU_18TBNe2bojA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhzfbXdkjNsnrZ1aQXrxZQr2oNCN71Q5ez6tu50pr5gt6MnoB6h1795m7wJ31q4Mik4MNybeu2tRZMcd2MBSys4CFWuN0IWlwxKC2fDfQGVASl2wUpo6kMc54Yp4EyMFKszpK5bA="
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VTbikXBMVJdmW2h9Tnu1Z12nbKKjDu4JKaJCUN7arR12Jkw1wg0bdwJhV_X7GgtCdV1vLEdre1lK9Sm3VJEdW89FvMmbqHxEGK82tRUlKEdHvuefIaWu8eVt-NldBQIY5goTJA5WK0rNwstkLZ6bxtWwr3zvGjaJZ6f4D_cFXaH1HUXvkfFvHh5WkrdTMRhmWfzTznQpxIRdB0kUwOxEPuFa84DCIQCl8_XvLWDmzkymcQ=="
+        }
+      ]
+    }
+  }
+}

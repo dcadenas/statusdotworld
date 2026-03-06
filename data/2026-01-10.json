@@ -1,0 +1,454 @@
+{
+  "date": "2026-01-10",
+  "timestamp": 1772807412348,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple active conflicts and government repression escalate globally",
+      "summary": "Major armed conflicts continued across Ukraine, Syria, and Sudan on January 10, 2026, with significant military actions reported. Ukraine confirmed strikes on Russian sites, while Russia launched missiles and drones hitting 15 locations. In Syria, the US conducted airstrikes against ISIS, and Sudan saw drone attacks on Khartoum. Furthermore, the Iranian government carried out a brutal crackdown on nationwide anti-government protests, resulting in massacres.",
+      "regions": [
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 50,
+          "lng": 36.23,
+          "severity": "red",
+          "detail": "Major armed conflict continued, with Ukraine confirming strikes on Russian sites."
+        },
+        {
+          "name": "Volgograd Oblast, Russia",
+          "lat": 49,
+          "lng": 44,
+          "severity": "yellow",
+          "detail": "Ukrainian forces confirmed strikes on Russian sites within the region."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.55,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "The city experienced drone attacks amidst ongoing major armed conflicts."
+        },
+        {
+          "name": "Syria",
+          "lat": 34.8,
+          "lng": 38.99,
+          "severity": "red",
+          "detail": "The US conducted airstrikes against ISIS targets within the region."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.42,
+          "severity": "red",
+          "detail": "The government brutally cracked down on anti-government protests, leading to massacres."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human rights erode in US, severe repression in Iran and Sudan",
+      "summary": "Amnesty International reported rising authoritarian practices and human rights erosion in the United States, citing threats to free speech, anti-discrimination protections, and immigrant deaths in custody. In Iran, the government engaged in violent repression, including massacres of protesters on January 10, accompanied by an internet shutdown. Sudan also faced digital blackouts to mask atrocities against civilians.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Amnesty International reported rising authoritarian practices and human rights erosion across the US."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.42,
+          "severity": "red",
+          "detail": "The government brutally repressed protesters with massacres and imposed an internet shutdown."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Amnesty International reported rising authoritarian practices and human rights erosion across the US."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.55,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "The region experienced digital blackouts to mask atrocities against civilians."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "Amnesty International reported rising authoritarian practices and human rights erosion across the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "January 2026 among warmest on record, extreme weather widespread",
+      "summary": "January 2026 was the fifth-warmest on record globally, marked by contrasting temperature extremes. Record-breaking heat fueled wildfires across Patagonia, Argentina, and Australia, while Southern Africa experienced severe flooding. The Northern Hemisphere faced cold waves, with Europe recording its coldest January since 2010. Long-term trends show oceans absorbing unprecedented heat and increasing global water scarcity.",
+      "regions": [
+        {
+          "name": "Marin County, California, USA",
+          "lat": 38.156,
+          "lng": -122.75,
+          "severity": "red",
+          "detail": "The region, as part of the Northern Hemisphere, faced ongoing cold waves."
+        },
+        {
+          "name": "Patagonia, Argentina",
+          "lat": -40,
+          "lng": -70,
+          "severity": "red",
+          "detail": "Record-breaking heat fueled widespread wildfires across the region."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -25.9653,
+          "lng": 32.5833,
+          "severity": "red",
+          "detail": "The region experienced severe flooding due to extreme weather conditions."
+        },
+        {
+          "name": "Himalayas",
+          "lat": 27.9861,
+          "lng": 86.9226,
+          "severity": "yellow",
+          "detail": "The region, as part of the Northern Hemisphere, faced ongoing cold waves."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "The continent recorded its coldest January since 2010 due to severe cold waves."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Americas face dual flu/RSV surge; global outbreaks strain health systems",
+      "summary": "The Pan American Health Organization (PAHO) issued an alert on January 10, 2026, regarding the simultaneous circulation of seasonal influenza and RSV across the Americas, warning of increased hospitalizations. Globally, multiple viral outbreaks, including high levels of COVID-19, Norovirus, and a concerning rise in measles cases due to decreasing vaccination rates, are straining health systems. Concerns also persist regarding the H5N1 avian flu's potential for human-to-human transmission.",
+      "regions": [
+        {
+          "name": "The Americas",
+          "lat": 15,
+          "lng": -80,
+          "severity": "red",
+          "detail": "PAHO issued an alert regarding a dual surge of influenza and RSV, warning of increased hospitalizations."
+        },
+        {
+          "name": "New York State, USA",
+          "lat": 43,
+          "lng": -75,
+          "severity": "red",
+          "detail": "The region faced a dual surge of seasonal influenza and RSV, leading to increased hospitalizations."
+        },
+        {
+          "name": "Newark, New Jersey, USA",
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "severity": "yellow",
+          "detail": "The region faced a dual surge of seasonal influenza and RSV, leading to increased hospitalizations."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "The region faced a dual surge of seasonal influenza and RSV, leading to increased hospitalizations."
+        },
+        {
+          "name": "Central Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "The region experienced multiple viral outbreaks, including high COVID-19 and rising measles cases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mixed global economy: US stocks resilient, but inflation and geopolitical risks loom",
+      "summary": "On January 10, 2026, US stock markets showed resilience, with major indices reaching record highs, partly boosted by the capture of Venezuelan President Maduro and sustained AI investments. However, the global economic outlook remained mixed, with the World Bank warning of subpar global growth and trade fragmentation. Forecasters anticipated a potential consolidation and decline for the S&P 500 in 2026, amidst ongoing concerns about inflation, geopolitical tensions, and the lingering impact of a 43-day US federal government shutdown on Q4 2025 GDP.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "US stock markets showed resilience, with major indices reaching record highs on this date."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economic outlook remained mixed, with the World Bank warning of subpar growth."
+        },
+        {
+          "name": "Venezuela",
+          "lat": 8,
+          "lng": -66,
+          "severity": "yellow",
+          "detail": "The capture of President Maduro partly boosted US stock markets on this date."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "The global economic outlook remained mixed, with warnings of subpar growth and trade fragmentation."
+        },
+        {
+          "name": "Greenland",
+          "lat": 72,
+          "lng": -40,
+          "severity": "yellow",
+          "detail": "The global economic outlook remained mixed, with warnings of subpar growth and trade fragmentation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US democracy under threat, global trend of authoritarianism continues",
+      "summary": "Concerns about democratic erosion in the United States intensified on January 10, 2026, with reports highlighting President Trump's authoritarian practices, efforts to dismantle checks on power, and threats to free speech. Internationally, the global human rights system is under pressure from the US, China, and Russia. Brazil had recently convicted a former president for a coup attempt, while Tanzania experienced a brutal crackdown following a sham election in October 2025.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns intensified regarding democratic erosion and President Trump's authoritarian practices."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Brazil recently convicted a former president for a coup attempt."
+        },
+        {
+          "name": "Dodoma, Tanzania",
+          "lat": -6.1731,
+          "lng": 35.7382,
+          "severity": "red",
+          "detail": "The nation experienced a brutal crackdown following a sham election in October 2025."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.42,
+          "severity": "red",
+          "detail": "The government brutally repressed anti-government protests, leading to massacres."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global human rights system faced pressure from the US, China, and Russia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Deepening humanitarian crises worldwide, exacerbated by funding shortfalls",
+      "summary": "On January 10, 2026, a severe global humanitarian crisis persisted, with over 117 million people forcibly displaced and 239 million in need of assistance. Major crises deepened in Sudan, the Democratic Republic of the Congo, Ukraine, Afghanistan, and the Occupied Palestinian Territory, driven by conflict, violence, and climate disasters. Significant funding shortfalls from international donors continued to exacerbate the situation, leaving millions without critical support.",
+      "regions": [
+        {
+          "name": "Sudan",
+          "lat": 15.55,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "A major humanitarian crisis continued to deepen, impacting millions in need."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "A major humanitarian crisis continued to deepen in the Occupied Palestinian Territory."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": 0,
+          "lng": 25,
+          "severity": "red",
+          "detail": "A major humanitarian crisis continued to deepen in the nation."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49,
+          "lng": 32,
+          "severity": "red",
+          "detail": "A major humanitarian crisis continued to deepen due to ongoing conflict and violence."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "A major humanitarian crisis continued to deepen, impacting millions in need."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSmFO0sv8KIFE_YEEH5wqA3FpwYIzkH2N_vFrnYgUZ-9KKvXiHQAkarQWgMoaUxpDCwulT4bPcTXqhJ8-t6PQID-slPdHaq4aVFU4tple83bX2LWukxqe_Pe1ihy0o6rQfstTBx4UpUX1F_YxP06YVlSZekYJQVB2W13BtvYcKWlkO9n_lx0-YN2QQwfspwknxbh6HYRag83hETWRB-7TTuU--hog80AVm9KVubvK1VagF0_1Kk8K5f-S3K2nb5EMA6CxpaIZQm76GpO0Zu8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQW9goQH-6fZqI0LxCt7ZWRttli8yGgS4RswA_Iu2uGtmbd9VWl2JWXgOEuVdGaKJK7ad9NF1SPxE0uVSgMMzOuj0KPK-m2Zk5ZdwGOBJW3nwHLPZ28HiqXP0DHpyjrn3acZqb-iFzkDPK"
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kEruZL4xLBdjKD7rnQ2VgvKaJU5yqzxIz5WUIzNPfXZ2m776Z9Pa7gNbtE-BhNQrrktF-yryYvZG90H68dIbWnmSd6BnB-jdRHlBxnD2Z2DqjEkslW51IRV0Ni1V6aKyMDauJGpw6HJDDOz-aWqU8gvrptkwyrvHK_vr1fsekroY83E_hkAhfHaLTKm0cP6eSSEOFL3sI_VxQMrtmevW_RMrv4CkdqiB-O4="
+        },
+        {
+          "title": "ala.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEScROkBt4GGOhrIB2w5pqi4m9Qomf-T5KD8eTe6H8pRqSZVFLe0yiM_-vUAH_yrumCX6do85Rc-d6HawvvGuIutLipW_6vT257C0vKOrVllYHDhnYxmFtZLos8Bo1SQQ9FSum8BPplUzJnfS0rhNeBWAO7QzkX"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi89vR1R7V436dHv2-v0L17P-4s65SwVdJJc6knpyDukGpLj-c7GIFXm9cWW6eWSFdCHqG67wpU05tFWS21ObK0FxHvZ2llZwaqY79ViCcIXbgzdO5eD1jA_vJFga1A=="
+        }
+      ]
+    }
+  }
+}

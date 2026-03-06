@@ -1,0 +1,438 @@
+{
+  "date": "2026-02-07",
+  "timestamp": 1772808838728,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multi-front war, Ukraine fighting, and African conflicts escalate globally.",
+      "summary": "A multi-front war involving Israel, Iran, and the US continued to escalate, causing global air transport chaos and oil price surges. The Ukraine war saw ongoing Russian advances in Kharkiv and Zaporizhia, alongside missile and drone attacks, even as diplomatic talks were discussed. Escalating violence in South Sudan between government and opposition forces, persistent jihadist threats in northern Benin, and an alleged Ethiopian bolster of support for RSF in Sudan further intensified global armed conflicts.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The multi-front war escalated, intensifying conflict in the region."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "red",
+          "detail": "Ukraine experienced ongoing missile and drone attacks amidst the war with Russia."
+        },
+        {
+          "name": "Northern Benin",
+          "lat": 10.5,
+          "lng": 2.5,
+          "severity": "yellow",
+          "detail": "Persistent jihadist threats continued to intensify global armed conflicts in the region."
+        },
+        {
+          "name": "Upper Nile State, South Sudan",
+          "lat": 9.7,
+          "lng": 32.8,
+          "severity": "red",
+          "detail": "Escalating violence continued between government and opposition forces."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.68,
+          "severity": "red",
+          "detail": "Iran was involved in an escalating multi-front war with Israel and the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Palestine faces ethnic cleansing concerns; Iran represses digital freedom.",
+      "summary": "A UN Human Rights Office report highlighted concerns over ethnic cleansing by Israeli authorities in Gaza and the West Bank, detailing intensified attacks and denial of humanitarian assistance. Iran's regime continued to implement plans to restrict international internet access, indicating a tightening grip on digital freedoms in fear of new protests. In the US, immigrants in detention faced inhumane conditions and health issues, with concerns raised over Medicaid data sharing with immigration enforcement.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "A UN report highlighted concerns over ethnic cleansing, intensified attacks, and denial of aid."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.95,
+          "lng": 35.23,
+          "severity": "red",
+          "detail": "A UN report highlighted concerns over ethnic cleansing, intensified attacks, and denial of aid."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.68,
+          "severity": "red",
+          "detail": "The regime continued implementing plans to restrict international internet access and digital freedoms."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Immigrants in detention faced inhumane conditions and health issues, raising concerns about data sharing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global extreme weather impacts; cyclones hit Madagascar.",
+      "summary": "The start of 2026 was marked by widespread extreme weather, including severe cold waves in the Northern Hemisphere, wildfires in Australia, Chile, and Patagonia, and heavy flooding in Southern Africa, particularly Mozambique. On February 7, the IFRC allocated emergency funds for Madagascar to address the impacts of Tropical Cyclone Fytia, with another cyclone, Gezani, forecast to make landfall. US climate policy saw rollbacks, including the weakening of standards limiting mercury and air toxins from coal plants.",
+      "regions": [
+        {
+          "name": "Boeny Region, Madagascar",
+          "lat": -16.2,
+          "lng": 46.5,
+          "severity": "red",
+          "detail": "The IFRC allocated emergency funds to address impacts of Tropical Cyclone Fytia, with another cyclone forecast."
+        },
+        {
+          "name": "Monte Cristo, Colombia",
+          "lat": 9.09,
+          "lng": -74.34,
+          "severity": "red",
+          "detail": "The region was part of the Northern Hemisphere experiencing widespread severe cold waves."
+        },
+        {
+          "name": "Salta Province, Argentina",
+          "lat": -24.78,
+          "lng": -65.42,
+          "severity": "red",
+          "detail": "The region experienced widespread extreme weather events."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.97,
+          "lng": 32.58,
+          "severity": "yellow",
+          "detail": "The region experienced heavy flooding as part of widespread extreme weather in Southern Africa."
+        },
+        {
+          "name": "Arctic",
+          "lat": 80,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The region experienced severe cold waves as part of widespread extreme weather in the Northern Hemisphere."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Gaza health crisis deepens; measles outbreak in US detention.",
+      "summary": "Two million Palestinians in Gaza faced dire public health conditions, suffering from poor nutrition, inadequate sanitation, crowding, and a depleted medical system amidst ongoing conflict. A measles outbreak was reported in a US immigration detention facility in Texas, leading to quarantines. While preventative cholera vaccinations restarted globally after a three-year hiatus, the risk of water-borne diseases remained elevated in areas affected by severe flooding, such as Mozambique and cyclone-hit Madagascar.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Millions faced dire public health conditions due to poor nutrition, sanitation, crowding, and depleted medical systems."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "A measles outbreak in an immigration detention facility led to quarantines."
+        },
+        {
+          "name": "Upper Nile State, South Sudan",
+          "lat": 9.7,
+          "lng": 32.8,
+          "severity": "red",
+          "detail": "Public health conditions faced challenges amidst ongoing conflict."
+        },
+        {
+          "name": "Boeny Region, Madagascar",
+          "lat": -16.2,
+          "lng": 46.5,
+          "severity": "red",
+          "detail": "The risk of water-borne diseases remained elevated due to the impact of cyclones and flooding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war disrupts global economy; Russia, Cuba face sanctions.",
+      "summary": "The US-Israeli air war against Iran significantly disrupted the global economy, causing chaos in air transport and surging oil prices due to the effective closure of the Strait of Hormuz. Washington extended sanctions on Russia, further aggravating its economic crisis, while a US oil blockade brought Cuba to the brink of humanitarian collapse. Meanwhile, climate change continued to inflict substantial economic losses worldwide, with flooding alone causing $2 trillion in 2024.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red"
+        },
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.68,
+          "severity": "red"
+        },
+        {
+          "name": "Russia",
+          "lat": 60,
+          "lng": 90,
+          "severity": "yellow",
+          "detail": "US sanctions were extended, further aggravating the country's economic crisis."
+        },
+        {
+          "name": "Cuba",
+          "lat": 21.52,
+          "lng": -77.78,
+          "severity": "red",
+          "detail": "A US oil blockade brought the country to the brink of humanitarian collapse."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "Global air transport chaos and surging oil prices impacted the regional economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic recession persists; Iran tightens digital control.",
+      "summary": "Reports indicated a continuing global democratic recession, with a significant portion of the world's population living under autocracy and democratic institutions facing ongoing undermining by authoritarian trends. Iran’s regime intensified efforts to restrict international internet access, planning to block foreign platforms and enforce state-approved technology, reflecting concerns about suppressing protests and controlling digital freedoms. Countries such as India, Türkiye, and the Philippines were noted for democratic institutions being undermined.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.68,
+          "severity": "yellow",
+          "detail": "The regime intensified efforts to restrict international internet access and control digital freedoms."
+        },
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "yellow",
+          "detail": "Democratic institutions in the country were noted for being undermined."
+        },
+        {
+          "name": "Türkiye",
+          "lat": 38.96,
+          "lng": 35.24,
+          "severity": "yellow",
+          "detail": "Democratic institutions in the country were noted for being undermined."
+        },
+        {
+          "name": "Philippines",
+          "lat": 12.87,
+          "lng": 121.77,
+          "severity": "yellow",
+          "detail": "Democratic institutions in the country were noted for being undermined."
+        },
+        {
+          "name": "Hungary",
+          "lat": 47.16,
+          "lng": 19.5,
+          "severity": "yellow",
+          "detail": "The country was noted as part of the continuing global democratic recession."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid worker killed in South Sudan; Gaza crisis deepens.",
+      "summary": "An aid worker was killed in Baliet county, South Sudan, on February 7, amidst escalating violence that severely disrupted humanitarian operations and forced the evacuation of NGO staff. In Gaza, dire humanitarian conditions persisted for millions of Palestinians due to poor nutrition, inadequate sanitation, and depleted medical systems, exacerbated by the denial of humanitarian assistance. The IFRC allocated emergency funds for Madagascar to provide assistance to those affected by Tropical Cyclone Fytia, highlighting active global humanitarian responses to natural disasters.",
+      "regions": [
+        {
+          "name": "Baliet County, South Sudan",
+          "lat": 9.7,
+          "lng": 32.8,
+          "severity": "red",
+          "detail": "An aid worker was killed amidst escalating violence, disrupting humanitarian operations and forcing NGO evacuations."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Dire humanitarian conditions persisted due to poor nutrition, sanitation, depleted medical systems, and aid denial."
+        },
+        {
+          "name": "Boeny Region, Madagascar",
+          "lat": -16.2,
+          "lng": 46.5,
+          "severity": "red",
+          "detail": "The IFRC allocated emergency funds to provide assistance to those affected by Tropical Cyclone Fytia."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15.5,
+          "lng": 32.5,
+          "severity": "red",
+          "detail": "The region continued to face humanitarian concerns amidst ongoing conflicts."
+        },
+        {
+          "name": "Cuba",
+          "lat": 21.52,
+          "lng": -77.78,
+          "severity": "red",
+          "detail": "A US oil blockade brought the country to the brink of humanitarian collapse."
+        }
+      ],
+      "sources": [
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfiXYbvmFmgafoS_4DtZEP-3J1i61CdozLJtxMmajsSQlwiuE9rWr71CJIqTXRmenwRYyMZ1GMCvWm8i4yG6B-MMyTcdx5C05yVKTk979QN8m5NzOsEz73Wg4YVRF3b8i3eL2fRXmblICfKllZXR94Yhf6VN26OKJWnkuklKE25i64Ra0aMOTcDHlxFiLw6Rzhi4lvxCFdDCKE3kk"
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFIVoA3bmhIGRU7IfWEubbgGukHEUo7tiQworRED6m6nWFxJrhPPSi4Ra1rxoQFgykZY_paoZlimeLb7B66R3UXNyb-i94waaL52JK5ouE9T-zhYKZjYzRJ1BID7ZLhKvlRMfvmxNPHXQJATTnPg_LwnslYOG2-zSwrCAq2nj3g3dDZPktLCpLPPhihJ58Zg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGNhiq8Z7w5TmLRyKiXoZeuHoWw5ls7HNL2gwpB8AFdKe8DVK0VU2MnkvKOn0rEnKRYe9HonyUED_T-9DpBKiDP5pkvRR42iNkrHmp5xocS3ExkcloVsfnlvJM7V6qv4DwSUv4FedDttA2NTOTOl5W4WEdDWSjNju52fpvyUq3CPpMc_HZlpch1mLrrx6TotDeF4jph-NcvU4QyA4N5q7ftXI4SNaf84LYBQa0elkcwHrbV7zMKvCHBmy0SoR9p3YkVItgO7fbjIr7H_u9DgU_QasjHA=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3Be5QRHz6jfP-eTUkSwYBXjrej-GmHHXeDhwEvj7V0bgnPWpD3ooYCS3e_aQGe07gmvO0KL9CNDg62akebNKDW_bs6f38TPRHFPOJyKDkKpZOnbpyxukOSMN1CVNZS4ZfEZ3rHdIcperwlLiX-Kq_8Nz0d4AAXnQKb_3a2yokOofT5MqlpB-FF9M9guWyYAyGwQ3uY8Mxy7pa1qAsXXNSaWPqiBmVpFd1WE0cJn6cs_cF_hZWA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdVnXGS-NqtPE9bEMRaU00VDMZwitwu3c05vSY4HMDVuQlKCdU5Bmo3929hV2-kC9uw-JK5spy0F473w4gnD5PR5I4X-RLkVFx4N7tjDxkSC7Yax8I8x-_SubDU_dFJblSlENMjA5bvOtL4yoIRkZjVQJVpzSpA=="
+        }
+      ]
+    }
+  }
+}

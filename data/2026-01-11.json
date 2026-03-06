@@ -1,0 +1,398 @@
+{
+  "date": "2026-01-11",
+  "timestamp": 1772807448485,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts escalate with fighting in Ukraine, Syria, and Sudan",
+      "summary": "Russian drone and missile attacks continued in Ukraine, resulting in casualties and infrastructure damage. In Syria, the US launched strikes against ISIS, while the Syrian army escalated clashes in Aleppo with Kurdish-led forces. Sudan's conflict reached 1,000 days, leading to millions displaced and severe food insecurity.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian drone and missile attacks continued, causing casualties and infrastructure damage."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2021,
+          "lng": 37.1357,
+          "severity": "red",
+          "detail": "The Syrian army escalated clashes with Kurdish-led forces."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.532,
+          "severity": "red",
+          "detail": "The conflict reached 1,000 days, displacing millions and causing severe food insecurity."
+        },
+        {
+          "name": "Gulf of Finland",
+          "lat": 60,
+          "lng": 27,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported for the region."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported for the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran protests met with internet blackout and state violence; US policies criticized",
+      "summary": "Iranian authorities imposed an internet blackout amid nationwide anti-government protests, leading to state violence, deaths, and numerous executions, with reports of agents blocking care for wounded protesters. Amnesty International warned of rising authoritarianism and human rights violations in the United States, particularly concerning immigration policies and threats to free speech.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Authorities imposed an internet blackout amid protests, leading to state violence and deaths."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Amnesty International criticized US policies on immigration and free speech."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "green",
+          "detail": "No specific human rights event was reported for the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "January 2026 fifth warmest globally amid extreme weather events",
+      "summary": "January 2026 was recorded as the fifth warmest January globally, 1.47°C above the pre-industrial average, with unusually high ocean temperatures and melting sea ice. The Southern Hemisphere experienced extreme heat, wildfires, and floods, including deadly wildfires in Chile and Argentina.",
+      "regions": [
+        {
+          "name": "Biobío Region, Chile",
+          "lat": -37,
+          "lng": -72,
+          "severity": "red",
+          "detail": "The region experienced deadly wildfires."
+        },
+        {
+          "name": "Patagonia, Argentina",
+          "lat": -40,
+          "lng": -70,
+          "severity": "red",
+          "detail": "The region suffered extreme heat, wildfires, and floods."
+        },
+        {
+          "name": "Fort Nelson, British Columbia, Canada",
+          "lat": 58.8,
+          "lng": -122.7,
+          "severity": "yellow",
+          "detail": "No specific climate event was reported for the area."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.9653,
+          "lng": 32.5832,
+          "severity": "yellow",
+          "detail": "No specific climate event was reported for the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US public health faces upheaval; measles outbreak in South Carolina",
+      "summary": "Public health in the United States faced significant changes at the federal level, impacting vaccine systems and federal health programs. South Carolina reported a large measles outbreak with nearly 800 cases. Globally, UNAIDS adopted a new strategy for HIV/AIDS, emphasizing continued response amid service disruptions and funding gaps.",
+      "regions": [
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "yellow",
+          "detail": "A large measles outbreak was reported with nearly 800 cases."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "No specific public health event was reported for the city."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "UNAIDS adopted a new strategy for HIV/AIDS amidst service disruptions and funding gaps."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Fragile global economic growth projected amidst geopolitical and trade risks",
+      "summary": "The global economy is projected for steady but fragile growth in 2026, supported by monetary easing and AI, but clouded by geopolitical uncertainty, trade tensions, and high public debt. Iran experienced protests sparked by the collapse of its currency and 40% inflation.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy was projected for steady but fragile growth, impacted by geopolitical and trade risks."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Protests erupted due to the collapse of its currency and 40% inflation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "No specific economic crisis event was reported for the city."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "No specific economic crisis event was reported for the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic concerns rise in US, Iran; coup plotters convicted in Brazil",
+      "summary": "Amnesty International raised alarms over rising authoritarian practices and threats to democratic institutions in the United States, especially concerning upcoming midterm elections and presidential actions. In Iran, internet blackouts and crackdowns on anti-government protests highlighted severe democratic challenges. Brazil saw a former president convicted for an attempted coup, demonstrating judicial accountability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Internet blackouts and crackdowns on anti-government protests highlighted severe democratic challenges."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Amnesty International raised alarms over rising authoritarian practices and threats to democracy."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "A former president was convicted for an attempted coup, demonstrating judicial accountability."
+        },
+        {
+          "name": "Dar es Salaam, Tanzania",
+          "lat": -6.7924,
+          "lng": 39.2083,
+          "severity": "red",
+          "detail": "No specific democratic erosion event was reported for the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis worsens; Sudan war displaces millions amid aid funding cuts",
+      "summary": "The humanitarian crisis in Gaza remained severe, with harsh winter weather damaging shelters and leading to infant deaths from hypothermia. Sudan's 1,000-day conflict resulted in 9.3 million displaced and 21 million suffering severe food insecurity. Globally, the humanitarian system faced unprecedented strain due to major funding cuts from donor states, impacting the ability of UN agencies and NGOs to respond to escalating needs.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The humanitarian crisis worsened with harsh winter weather, leading to infant deaths."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.532,
+          "severity": "red",
+          "detail": "The conflict displaced 9.3 million people and caused severe food insecurity for 21 million."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Humanitarian aid efforts were impacted by major funding cuts from donor states."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UN agencies based here were affected by major humanitarian aid funding cuts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby-Z0Ox_FJ4bmbjQo0K0ufABHGVJgH5Lv9MUrYouA4q4iI0pD7vi12HIGIPQ9mlP9V1feUNk2c85yahZ2q8fE71fKmJYbCrPeQGwu494WO5a9twz8ussTUszpeIKi5waZ4tcb-kb16NftDWBZMhD7hLFlIlL69jJ5iuhSiNsoKAHzAA=="
+        },
+        {
+          "title": "longwarjournal.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pfUOQvJ7hi7bYRXkbNAIhkXp5FC4OIZUWLwCqBmVSEkL6M2JiCnvHMtaUljUAVBM8TCSYY6ZCNNG3HcUIkggOUqAriVCZ3Vv9jR9SZCVW73Z4faPPl9sw3tyxcVOpB9-yJefXTl2FDA4oP7jkpngy-yw6iJtSxtPrmV40KfljgWwNb9pG_sRPzj87Bla9pOeLiuUzYSCug=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfST51u3spwnx6DCCb-PLjBbK32H-i1hkYvpTXnF6_F3uNcqC9Sr4zXVtXRHGNK3qpyCjwiOHIdXmzj3jaIU1jIOTFHYtqqHV-zW13g3ZV_8kAKkpqCqUz0_cy1u1ycO6vTXSJ7g=="
+        },
+        {
+          "title": "egypttoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQpHQZ1QETLTe2opl7S5yOlyIxX0ClLIzyRAdzFMWAn95Dufkhk6gA14a7y0vivMl42wjA7DdnDg05b2VKN0MX-JYdAhp-2Z7dPjzW0FEYEVrfbTjqDG7jcK1pIwLyWojwgS3ce5Eo6KJia6CZ6IMqQrjPvU2klpezWAQJZ3PruTIjNlxLxXpxdOr2eAbDpiCWYfLVc3WGrClKYmrtCOiWaGO"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUe0A8MuIDTxR_mYMAblkm7lLP9XmYEqbUlb_wy2_ZfS4H8eZkwzLEpLpJniZD7w4bq0Um1TUiXmsbJDeSimOs_KrSK8e9dvYoWecBaNtRLnAAJ5srUMXiXWWnEpn6-_woelnB0oMDKqdqpimFPJVPYAz68Uly4Zmp9BdD7CbYY6zJta6fVwgN"
+        }
+      ]
+    }
+  }
+}

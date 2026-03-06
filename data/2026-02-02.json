@@ -1,0 +1,454 @@
+{
+  "date": "2026-02-02",
+  "timestamp": 1772808551375,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Escalating conflicts in Ukraine, Middle East, and Myanmar with civilian deaths.",
+      "summary": "Russian drone strikes killed over a dozen mineworkers in Dnipro, Ukraine, and hit a maternity hospital, with peace talks announced amidst escalating civilian attacks. Iran's supreme leader warned of a 'regional war' if the US attacks, as indirect talks continue despite heightened tensions. Myanmar's crisis deepened five years after the coup, marked by escalating violence and military airstrikes killing civilians.",
+      "regions": [
+        {
+          "name": "Dnipro, Ukraine",
+          "lat": 48.4647,
+          "lng": 34.9668,
+          "severity": "red",
+          "detail": "Russian drone strikes killed over a dozen mineworkers and hit a maternity hospital."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The ongoing conflict in Ukraine escalated with increased civilian attacks."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's supreme leader issued a warning of a potential 'regional war' if the US attacks."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.464,
+          "severity": "red",
+          "detail": "Indirect talks regarding heightened tensions continued amidst the escalating conflict."
+        },
+        {
+          "name": "Bhamo, Myanmar",
+          "lat": 24.265,
+          "lng": 96.347,
+          "severity": "red",
+          "detail": "Myanmar experienced escalating violence and military airstrikes killing civilians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Genocide charges, arrests, and violence mark a grim human rights day.",
+      "summary": "A French court issued a summons for complicity in genocide against a French-Israeli national for inciting violence in Gaza and orchestrating aid blockades. In Iran, authorities arrested an Oscar-nominated screenwriter for condemning the Supreme Leader and the crackdown on anti-government protests. Myanmar's military-controlled elections were criticized by the UN for failing to respect human rights and entrenching repression, with ongoing arrests for online dissent.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A French court issued a summons for complicity in genocide."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.464,
+          "severity": "red",
+          "detail": "A French-Israeli national faced summons for inciting violence and aid blockades affecting the region."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Authorities arrested an Oscar-nominated screenwriter for condemning the Supreme Leader."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8409,
+          "lng": 96.1735,
+          "severity": "red",
+          "detail": "Myanmar's military-controlled elections were criticized by the UN for entrenching repression."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "The human rights situation in the broader Palestinian territories remained grim."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather, warming tropics, and rising deforestation highlight climate risks.",
+      "summary": "A WMO review highlighted extreme heat in South Australia and devastating floods in southern Africa in January 2026. A Dutch court mandated a climate plan for Bonaire, marking a landmark in climate litigation. UC Irvine scientists found that global warming is accelerating the breakdown of nitrous oxide, impacting climate projections, while Amazon deforestation is projected to rise by 30%.",
+      "regions": [
+        {
+          "name": "South Australia, Australia",
+          "lat": -30,
+          "lng": 135,
+          "severity": "red",
+          "detail": "The region experienced extreme heat in January 2026, as highlighted by a WMO review."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -22,
+          "lng": 20,
+          "severity": "red",
+          "detail": "The region was affected by devastating floods in January 2026."
+        },
+        {
+          "name": "Bonaire, Caribbean Netherlands",
+          "lat": 12.1784,
+          "lng": 68.2385,
+          "severity": "yellow",
+          "detail": "A Dutch court mandated a climate plan, a landmark in climate litigation."
+        },
+        {
+          "name": "Colombian Andes, Colombia",
+          "lat": 4.5709,
+          "lng": 74.2973,
+          "severity": "yellow",
+          "detail": "The region faces climate risks, including rising deforestation in the nearby Amazon Basin."
+        },
+        {
+          "name": "Amazon Basin",
+          "lat": -3.4653,
+          "lng": -58.2825,
+          "severity": "yellow",
+          "detail": "Deforestation in the region is projected to rise by 30%."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreaks surge in Americas amid global health system funding cuts.",
+      "summary": "The Pan American Health Organization called for increased surveillance and vaccination due to a widening measles outbreak in the Americas, with Canada losing its elimination status and the US reporting hundreds of cases. The WHO warned that global health systems are at risk due to cuts in international aid and persistent funding gaps. However, cholera cases significantly decreased in early 2026 across eight African countries.",
+      "regions": [
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "red",
+          "detail": "The US reported hundreds of measles cases as part of a widening outbreak."
+        },
+        {
+          "name": "Mexico",
+          "lat": 23.6345,
+          "lng": -102.5528,
+          "severity": "yellow",
+          "detail": "A widening measles outbreak surged across the Americas, requiring increased surveillance."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "yellow",
+          "detail": "The country lost its measles elimination status due to a widening outbreak."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO, based here, warned of risks to global health systems due to funding cuts."
+        },
+        {
+          "name": "Angola",
+          "lat": -11.2027,
+          "lng": 17.8739,
+          "severity": "green",
+          "detail": "Cholera cases significantly decreased in early 2026, along with seven other African countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Indonesian stock market crashes as global economy shows mixed signals.",
+      "summary": "Indonesia's stock market crashed, triggering a trading halt, following a warning from MSCI about a potential downgrade to frontier market status. Meanwhile, the EU and India finalized a major trade deal removing tariffs on over 90% of traded goods. Globally, a US manufacturing report signaled renewed optimism, while central banks in the US, Eurozone, and Australia grappled with inflation and labor market trends.",
+      "regions": [
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.175,
+          "lng": 106.8283,
+          "severity": "red",
+          "detail": "The stock market crashed, triggering a trading halt after a downgrade warning."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU, headquartered here, finalized a major trade deal with India."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "A major trade deal was finalized with the EU, removing tariffs on over 90% of goods."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A manufacturing report signaled renewed optimism, while the central bank grappled with inflation."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "The central bank grappled with inflation and labor market trends in Australia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Myanmar's repression deepens; US democracy faces disinformation challenges.",
+      "summary": "Myanmar's military-controlled elections have entrenched repression and deepened the country's crisis five years after the coup, according to the UN. In the US, widespread protests against immigration crackdowns and militarization occurred, as discussions highlighted challenges to democratic institutions from disinformation and digital capitalism. Coface reported a trend of democratic decline in Africa, with notable elections and an attempted coup in Benin.",
+      "regions": [
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8409,
+          "lng": 96.1735,
+          "severity": "red",
+          "detail": "Military-controlled elections entrenched repression and deepened the country's crisis."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Widespread protests against immigration crackdowns occurred, alongside disinformation challenges to democracy."
+        },
+        {
+          "name": "Benin",
+          "lat": 9.3077,
+          "lng": 2.3158,
+          "severity": "yellow",
+          "detail": "An attempted coup occurred, contributing to a trend of democratic decline in Africa."
+        },
+        {
+          "name": "Colombia",
+          "lat": 4.5709,
+          "lng": -74.2973,
+          "severity": "yellow",
+          "detail": "Democratic institutions faced challenges from disinformation and digital capitalism."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "yellow",
+          "detail": "Democratic institutions faced challenges from disinformation and digital capitalism."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Major crises in Ukraine, Haiti, Somalia, and Sudan demand urgent aid.",
+      "summary": "The EU announced €153 million in aid for Ukraine and Moldova as millions in Ukraine face freezing temperatures without power. Haiti is grappling with a complex humanitarian emergency due to gang violence, mass displacement, and severe food insecurity. South Kordofan, Sudan, faces catastrophic famine, displacing hundreds of thousands, while drought in Somalia has displaced nearly half a million people, with aid efforts severely constrained by funding.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Millions in Ukraine faced freezing temperatures without power, prompting €153 million in aid."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "The city grappled with a complex humanitarian emergency, including gang violence and displacement."
+        },
+        {
+          "name": "Kadugli, Sudan",
+          "lat": 11.0118,
+          "lng": 29.7029,
+          "severity": "red",
+          "detail": "The region faced catastrophic famine, displacing hundreds of thousands of people."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0678,
+          "lng": 45.3172,
+          "severity": "red",
+          "detail": "Drought displaced nearly half a million people, with aid efforts severely constrained."
+        },
+        {
+          "name": "Kakuma, Kenya",
+          "lat": 3.7225,
+          "lng": 34.8587,
+          "severity": "red",
+          "detail": "The region faced humanitarian pressure from the displacement of nearly half a million people from Somalia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "legion.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4yIXA-zxS5dfxMceDOZjYcxznHCiN8emj9uPXf-Jt0IV3Ct3C_cH61Y-ovkUfr_WB-thf8CUBIA4lmwqOuAOIhi_Uaea0SRv6mIt_T5pLAoLSsxd0nO2M_8lzvx_Ual2mgCsSYu-V8IF794wiWYphObtDwEr5SONXtQc9g9kd1HPXUavzcFcWU1KL8wTzncg6PymnklbOuoq9NvD-O-8="
+        },
+        {
+          "title": "diplomatie.gouv.fr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUEzFZ9liJ5qfHZjOW-eXu6OvEsW_4ee5tpf8pljjLEHl5boKIwf76mfe4_Ti2h6YlbFE7G0srJhYi_YRzVyBMF_6amivl38N08huzHsYCQg7C0DL4O-UhSdo28GtkYCDoWoTiu3n1K0PX89o_ndBZPf1W8KYdLNsrcBh2TEK6yQZlJdqN8csBsY-_A4PZ8MR3A2jBHmEEPSJZwkNcj01551fKcJODS3f3J_Ly85ZfjRPYtM7qaY-9KE558z02_LZ57AM49Hu02PU"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96rcTp5KAOX_KSpsNSLdAogmpA5Jl4xE46aWMpTW09xo1gNb4FVXdIAulqXpDhTX-5q5Wy-dQG_M5qTQw7hFQ0Q1hCQJxzRFo_zbYqH6Y9kuWFxsJfX1jdCYlPIzA-gqiR6K1bAYDFUoFirrvSK0N-qWnEkKUTzaWDYvVEqPEsDRJCRIHNPiTmCDi3AwkHftzmb6lRE_jAZe_13fDw7iAVtbQJxLm"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vQBzowC7uZKVBHzw6jwgdDbZ-buTZLH1-A1v8PV_ozaHPbdA5Uo3accFwWebCLcQXngfRUSHQmP4dwcUOP0j9Jabf_ZWNC5hg88mKAOXUq1-iyx0vzrI1ocVP0d-VPCIsRA420ixAOKAhPWLEq1G47ToaEmwLYiv8gK9kjsyVliJqmVvIYZTykz4zOPhv3evuZrmQPWhKswZPcXB5Mk="
+        },
+        {
+          "title": "pchrgaza.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTChYDPcOtk0tgfIzZUWkYUEurf_A1zjhkyJM7ttns4hbHYy0DvKWdCV-w1jgCs58-4To8lNMADET0i66Ai662lkGgSRnImaHKjO7F-oFUX_eb-gE4SEN22D1gB2JDnEp_fefwQB8tJXOHC9OEDf54dQBTD537lHAQrsOI6eIER4vcFveDnbpKuo0Y9nPoG81yCJOI8_vQSq2to8ZpKDHkv3Ek58djSqsL9_NdaBEuPwbLiZVdnzAJ4durs_NTeIDQ01yNSkkxaJNZfhfEfVr73mmg7yo0tbk4j3PQ0n2YfxJeGw=="
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>status.world</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="site-name">status<span class="site-dot" id="site-dot">.</span>world</div>
+      <a href="map.html" class="nav-link">Map</a>
+    </header>
+    <div class="status-banner" id="status-banner">
+      <h2 id="status-banner-text"></h2>
+      <p class="status-banner-sub" id="status-banner-sub"></p>
+    </div>
+    <div class="active-incidents" id="active-incidents"></div>
+
+    <div class="section-meta" id="section-meta">
+      <span>Status over the past 90 days.</span>
+    </div>
+
+    <div class="components" id="components"></div>
+
+    <div class="detail-panel" id="detail-panel">
+      <button class="detail-close" id="detail-close">&times;</button>
+      <div class="detail-content" id="detail-content"></div>
+    </div>
+
+    <div class="past-incidents" id="past-incidents"></div>
+
+    <footer class="page-footer">
+      <a href="map.html">Map</a>
+      <span class="footer-sep">&middot;</span>
+      <a href="https://github.com/dcadenas/statusdotworld" target="_blank" rel="noopener">GitHub</a>
+      <span class="footer-sep">&middot;</span>
+      <button
+        data-npub="npub138he9w0tumwpun4rnrmywlez06259938kz3nmjymvs8px7e9d0js8lrdr2"
+        data-relays="wss://relay.damus.io,wss://relay.nostr.band,wss://relay.nos.social,wss://purplepag.es"
+      >⚡ zap me</button>
+    </footer>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/nostr-zap@latest"></script>
+</body>
+</html>

@@ -1,0 +1,419 @@
+{
+  "date": "2026-01-27",
+  "timestamp": 1772808258255,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple major conflicts persist; US deploys armada to Middle East, Ukraine war grinds on.",
+      "summary": "The Russia-Ukraine war continues with heavy casualties and infrastructure damage to Ukraine's energy system. Tensions are high in the Middle East with US military deployment towards Iran, while Israeli airstrikes persist in Gaza amidst dire humanitarian conditions. South Sudan faces escalating internal conflict with significant civilian displacement and inflammatory rhetoric against civilians.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine's energy system in Kyiv sustained heavy damage due to ongoing war activities."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli airstrikes continued in the Gaza Strip amidst dire humanitarian conditions."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7.5,
+          "lng": 31.5,
+          "severity": "red",
+          "detail": "Escalating internal conflict in Jonglei State caused significant civilian displacement and inflammatory rhetoric."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Tensions remained high in Tehran due to US military deployment towards Iran."
+        },
+        {
+          "name": "Greenland",
+          "lat": 71.7069,
+          "lng": -42.6043,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported in Greenland on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Rights crises escalate globally; crackdowns on protests, displacements, and migrant detentions.",
+      "summary": "Major human rights abuses are reported in Iran with thousands killed and arrested in anti-government protests, and reports of security forces detaining protesters at hospitals. In the occupied West Bank, forced displacement of Palestinians continues amidst settler violence and US deportations. South Sudan sees a surge in civilian killings and widespread abuses due to escalating conflict.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Thousands were killed and arrested in anti-government protests, with security forces detaining protesters at hospitals."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Forced displacement of Palestinians continued amidst settler violence and US deportations."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7.5,
+          "lng": 31.5,
+          "severity": "red",
+          "detail": "A surge in civilian killings and widespread abuses occurred due to escalating conflict."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "No specific human rights event was reported in Minneapolis, USA, on this date."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0787,
+          "lng": 4.2882,
+          "severity": "yellow",
+          "detail": "No specific human rights event was reported in The Hague, Netherlands, on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Warming impacts severe in Greenland; Ireland hit by storm Chandra.",
+      "summary": "Greenland is experiencing significant climate change impacts, with traditional dog sledding affected by the lack of snow and ice, and glaciers actively collapsing. Ireland reported its sixth consecutive mild winter, although Storm Chandra brought heavy rainfall and strong winds to Malin Head on January 27. Globally, 2025 was confirmed as the third warmest year on record, underscoring ongoing warming trends.",
+      "regions": [
+        {
+          "name": "Ilulissat, Greenland",
+          "lat": 69.2167,
+          "lng": -51.1,
+          "severity": "red",
+          "detail": "Traditional dog sledding was affected by lack of snow and ice, with glaciers actively collapsing."
+        },
+        {
+          "name": "Malin Head, Ireland",
+          "lat": 55.3714,
+          "lng": -7.3753,
+          "severity": "yellow",
+          "detail": "Storm Chandra brought heavy rainfall and strong winds to Malin Head."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US faces measles outbreak threat; COVID-19 and flu trends mixed.",
+      "summary": "The United States is at risk of losing its measles elimination status, with a significant outbreak of 789 cases reported in South Carolina on January 27. National COVID-19 metrics show declines after a winter peak, but flu cases are growing in many states, and activity among children suggests a potential rebound. The NIH reinstated a policy to halt funding for research involving human fetal tissue.",
+      "regions": [
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "red",
+          "detail": "A significant measles outbreak of 789 cases was reported."
+        },
+        {
+          "name": "Midwest, USA",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Flu cases were growing, suggesting a potential rebound in activity."
+        },
+        {
+          "name": "Northeast, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Flu cases were growing, suggesting a potential rebound in activity."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "No specific public health event was reported in New York City, USA, on this date."
+        },
+        {
+          "name": "Los Angeles, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "No specific public health event was reported in Los Angeles, USA, on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy shows fragile growth amid trade tensions and high inflation.",
+      "summary": "The global economy is predicted to achieve steady but fragile growth in 2026, with an estimated 3% GDP expansion, as noted by ACCA and IMF. Global trade tensions, particularly related to US tariff threats over Greenland, led to volatility in US and European equity markets. Inflation pressures remained elevated in the US, contributing to cautious consumer sentiment.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Global trade tensions and elevated inflation pressures led to market volatility and cautious consumer sentiment."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Global trade tensions over US tariff threats led to volatility in European equity markets."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "No specific economic crisis event was reported in Tokyo, Japan, on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic concerns rise globally: US immigration crackdowns, power grabs in China, Tanzania.",
+      "summary": "Concerns about democratic erosion are evident globally, with the US facing criticism over immigration crackdowns and demands for voter rolls in Minnesota, sparking protests. In China, reports of an investigation into a top military official suggest further power consolidation by President Xi Jinping. Tanzania experienced a brutal crackdown following protests during a 2025 \"sham election,\" while India's academic freedom is under assault.",
+      "regions": [
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Demands for voter rolls sparked protests amidst concerns over democratic erosion."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Reports of a top military official's investigation suggested further power consolidation by President Xi."
+        },
+        {
+          "name": "Dar es Salaam, Tanzania",
+          "lat": -6.7924,
+          "lng": 39.2083,
+          "severity": "red",
+          "detail": "A brutal crackdown followed 2025 \"sham election\" protests."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Academic freedom in India was reported to be under assault."
+        },
+        {
+          "name": "Brasilia, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "No specific democratic erosion event was reported in Brasilia, Brazil, on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid threatened by new restrictions; South Sudan crisis worsens amid funding cuts.",
+      "summary": "The humanitarian situation in Gaza remains catastrophic, with aid organizations like MSF facing new Israeli restrictions that initially threatened to expel 37 NGOs, though an interim injunction was granted. In South Sudan, escalating fighting in Jonglei State has displaced over 180,000 people, with a lack of humanitarian response due to funding cuts. Globally, the humanitarian sector faces \"sustained disruption\" due to deep funding cuts from major donor states, including the dismantling of USAID assistance.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "New Israeli restrictions on aid organizations threatened to expel 37 NGOs, though an injunction was granted."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "No specific humanitarian event was reported in the Occupied West Bank, Palestine, on this date."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7.5,
+          "lng": 31.5,
+          "severity": "red",
+          "detail": "Escalating fighting displaced over 180,000 people, with a critical lack of humanitarian response."
+        },
+        {
+          "name": "Central Mediterranean",
+          "lat": 35,
+          "lng": 15,
+          "severity": "red",
+          "detail": "No specific humanitarian event was reported in the Central Mediterranean on this date."
+        },
+        {
+          "name": "Ayn al-Arab (Kobani), Syria",
+          "lat": 36.18,
+          "lng": 38.35,
+          "severity": "yellow",
+          "detail": "No specific humanitarian event was reported in Ayn al-Arab (Kobani), Syria, on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXojRneXAHN63GEobAwqhoKrqcqA4R-Z49sxQZuer8J2Dw22YvBAotb89SnsSwR7X4ll1CttIvjGHsa9uoAuV7ynPvewKjWyj_X_uDiNxNgM4bRFSEVfruHRVPbH-YWCKaLw3KSQ=="
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG__Qnw3TsIKHr8IGqt60y1icGNi8Zi4PqIBoX6IMGg6WsVkxiv220VFsJAjmEGNZaww9p1o8-sFQkDrCtz-GvrRoJzgm--khpaxM6_9lZNib01_TGJmoDVJ0-27iTuaM8_jmk3WHn1yfqPeYjFaIbRDkkgbQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcWa5viE1RzNjy21nfdoHjA4GvKbtPuuMK688-zwY53B64VAK6yh1GIz2gHHzo4cT9nui-XN3a4TOUBsQSK6tmMBCoF9nHfaGGgRjh4Jjtlcoyn20FN8iAATs0_tuiO7Un3SMRUIIUu5S-v4aDgsxX-VsEzCPH2yvg8dWNw=="
+        },
+        {
+          "title": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku-A50WSq7QWDGXqypjg_S2mg2TSZgJBcYAXJRIi5NRriGaH4nxsGnPVbTH4FifTP4K7gOcWUbIkUhm2hPf2eREsCNmSXSjT6a3icLmPQcxFYQQdV9PepA7VvCP7dglt7-CokKAtuYh2rvt21NjLqEJiitYMZcnDZI07qFRVPtQ=="
+        },
+        {
+          "title": "interforinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItjpds-XpIgOozh1_B4nthiRIzWLyIj6OdfvaoTkZBVSiu5oHA_ai-WGTKEy94wuOXJZ_BMgTs0hfKZEjOE1SSecZ39gwJrc-HZXui1ccQrAKtpdB_D-2QKegmptUOA9loHT7haBo0P1Qz_yisNOoir5O4kQd4Zh4Mj7FKzjKhMSK_P2HM_XZyOEybgKNs5P908lYcOQwZGbcsffuMpc="
+        }
+      ]
+    }
+  }
+}

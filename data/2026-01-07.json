@@ -1,0 +1,440 @@
+{
+  "date": "2026-01-07",
+  "timestamp": 1772807267989,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Escalating conflicts in Ukraine, Gaza, Iran, and Venezuela",
+      "summary": "January 7, 2026, saw a continuation of intense armed conflicts and geopolitical tensions globally. In Ukraine, fighting persisted with both sides reporting advances, while international talks focused on post-ceasefire security guarantees. The situation in Gaza remained dire with a rising death toll despite a ceasefire, and aid organizations faced operational restrictions. Widespread anti-regime protests in Iran led to clashes, casualties, and an execution. Furthermore, a US military raid in Venezuela resulted in casualties and the abduction of its president, and fighting continued in Aleppo, Syria, and a deadly drone strike occurred in Sudan.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Fighting persisted in Ukraine, with both sides reporting advances and international talks on security guarantees."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Gaza remained dire with a rising death toll despite a ceasefire, and aid organizations faced operational restrictions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Widespread anti-regime protests in Iran led to clashes, casualties, and an execution."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "A US military raid in Venezuela resulted in casualties and the abduction of its president."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2012,
+          "lng": 37.1611,
+          "severity": "red",
+          "detail": "Fighting continued in Aleppo, Syria."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Protests suppressed, rights eroded globally, and aid hampered",
+      "summary": "Human rights faced severe challenges on January 7, 2026, with violent crackdowns on protests in Iran resulting in numerous casualties and arrests, and reports of internet disruptions. A UN report highlighted systematic human rights violations and discriminatory practices in the occupied West Bank, while Israel’s actions threatened to disrupt essential humanitarian aid to Gaza. Additionally, concerns were raised regarding the US's foreign actions and domestic policies impacting social programs and immigration, and a report detailed the suppression of protest rights in the UK.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Violent crackdowns on protests in Iran led to casualties, arrests, and internet disruptions."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.95,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "A UN report highlighted systematic human rights violations and discriminatory practices."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israel's actions threatened to disrupt essential humanitarian aid."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns were raised regarding US foreign actions and domestic policies impacting social programs."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "A report detailed the suppression of protest rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Major winter storm hits US, severe flooding in Africa and South America",
+      "summary": "January 7, 2026, saw a major winter storm affecting millions across the central, southern, and eastern United States, bringing heavy rains, snow, severe thunderstorms, and flash flooding. Globally, significant flooding events were also reported in Malawi, Zimbabwe, and Colombia due to persistent heavy rainfall and overflowing rivers, causing destruction and fatalities.",
+      "regions": [
+        {
+          "name": "Memphis, Tennessee, United States",
+          "lat": 35.1495,
+          "lng": -90.0489,
+          "severity": "red",
+          "detail": "A major winter storm brought heavy rains, snow, severe thunderstorms, and flash flooding to the region."
+        },
+        {
+          "name": "Nkhotakota, Malawi",
+          "lat": -12.9248,
+          "lng": 34.2982,
+          "severity": "red",
+          "detail": "Significant flooding due to heavy rainfall caused destruction and fatalities."
+        },
+        {
+          "name": "Manicaland Province, Zimbabwe",
+          "lat": -19,
+          "lng": 32.75,
+          "severity": "red",
+          "detail": "Significant flooding due to heavy rainfall caused destruction and fatalities."
+        },
+        {
+          "name": "Córdoba Department, Colombia",
+          "lat": 8.3,
+          "lng": -75.8,
+          "severity": "red",
+          "detail": "Significant flooding due to heavy rainfall caused destruction and fatalities."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A major winter storm brought heavy rains, snow, severe thunderstorms, and flash flooding to the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Bird flu pandemic warning, respiratory viruses active, and vaccine debates",
+      "summary": "On January 7, 2026, scientists issued a stark warning about the potential for bird flu to escalate into a human pandemic, noting the virus's uncontrolled spread in animal populations globally. The Pan American Health Organization alerted to the elevated co-circulation of seasonal influenza and RSV across the Americas, posing a strain on healthcare systems. In the U.S., the CDC's updated childhood vaccine guidance faced criticism for sidelining several vaccines, raising concerns about public health.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Scientists warned globally about bird flu's potential for a human pandemic and uncontrolled spread in animals."
+        },
+        {
+          "name": "Americas",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "PAHO alerted to elevated co-circulation of seasonal influenza and RSV, straining healthcare systems."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "CDC's updated childhood vaccine guidance faced criticism for sidelining several vaccines."
+        },
+        {
+          "name": "West Bengal, India",
+          "lat": 22.5726,
+          "lng": 88.3639,
+          "severity": "green",
+          "detail": "Concerns were raised globally about bird flu's potential for a human pandemic."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US economy shows mixed signals amid market shifts; Iran faces severe economic crisis",
+      "summary": "On January 7, 2026, the US economy presented a mixed picture with slightly softer jobs data signaling a gradual cooling of the labor market, while strong ISM Services PMI data pointed to resilience. Market reactions were muted, with the S&P 500 experiencing intraday records before a decline influenced by presidential announcements affecting defense contractors and homebuilders. Meanwhile, Iran was gripped by a severe economic crisis characterized by a collapsing currency and high inflation, which fueled widespread anti-government protests.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US economy showed mixed signals with cooling jobs data but resilient services, market records, and presidential announcements."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faced a severe economic crisis with a collapsing currency, high inflation, and fueled protests."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "Global economic shifts and market dynamics continued to influence financial centers."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "Global economic shifts and market dynamics continued to influence financial centers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns over US election integrity, widespread protests in Iran, and democratic erosion in other nations",
+      "summary": "On January 7, 2026, the state of democracy faced challenges, with reports in the U.S. raising concerns about tactics to undermine confidence in upcoming midterm elections and discussions about the legitimacy of political processes. In Iran, widespread anti-regime protests continued, met with violent suppression and demands for regime change, highlighting a severe crisis for democracy. Internationally, reports also detailed concerns over academic freedom in India and the aftermath of a sham election and brutal crackdown in Tanzania, alongside issues in Ecuador.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns were raised about tactics to undermine confidence in upcoming midterm elections."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Widespread anti-regime protests continued, met with violent suppression and demands for regime change."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Concerns were detailed regarding academic freedom."
+        },
+        {
+          "name": "Dodoma, Tanzania",
+          "lat": -6.1738,
+          "lng": 35.7382,
+          "severity": "red",
+          "detail": "Concerns persisted regarding a sham election and brutal crackdown."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "green",
+          "detail": "Concerns regarding democratic processes and freedoms persisted globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Critical aid blocked in Gaza; global humanitarian crises persist",
+      "summary": "On January 7, 2026, humanitarian aid efforts faced a severe crisis, particularly in the Gaza Strip, where Israel's revocation of licenses for 37 international aid groups and orders for Doctors Without Borders to cease operations threatened essential assistance to hundreds of thousands. Despite UN reports of sufficient food supplies, their delivery remained highly challenging. Globally, the ongoing conflicts in Ukraine and Sudan, alongside severe flooding in Malawi, Zimbabwe, and Colombia, continued to generate significant humanitarian needs, compounded by widespread attacks against aid workers.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israel's revocation of aid licenses and orders to cease operations threatened essential assistance."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ongoing conflict continued to generate significant humanitarian needs."
+        },
+        {
+          "name": "Nkhotakota, Malawi",
+          "lat": -12.9248,
+          "lng": 34.2982,
+          "severity": "red",
+          "detail": "Severe flooding generated significant humanitarian needs."
+        },
+        {
+          "name": "el-Obeid, Sudan",
+          "lat": 13.1833,
+          "lng": 30.2167,
+          "severity": "red",
+          "detail": "Ongoing conflict continued to generate significant humanitarian needs."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Humanitarian crises globally generated significant needs, with widespread attacks on aid workers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKCXkgqyBLkMO4LV-UAaIJFJ-MhQT30Hzeqad7C2L7bdEMJGCmv06lWFQYgduHTOZ8YPf49-9eNSx5jMfWHx9ByX80R0wtLx0txMQdGwHQJJAlULqMNGIyFAcLeQwSH5IWpXwmbonhF_RqSzy6ZFEfxo8EmUZKxSC7fMdfmMgKdtgcBq2l_z7JGKnc5lgADOJCJy6aAK5I0CR2sp6iWfs9f7rfA="
+        },
+        {
+          "title": "dailybrief.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPbltwUXCkZYl_uBfw9qQfSvpyQS75Dej7_yaicTMPXS5NWpUu7G7gsHL1fZhiL3Ra-T6kxj8gkYxFv_eayaLxHYfGfJfkZtY9vMw3jyZewPFwphTgAhoJy99a8Y9tec2"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2x-kkwk8kkwAy9qlhhyA3YwpIuSht2I46sigCi-dY54ICngJjxCwCzvrlZlWX3KvfdhRUEcKmQVGzOXbZIqGxZSujeIlnIrpD6_mYUg5DyMX_7o6Yiy6bZ0d3dSEL1I_F4KzWhk="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI9Vz-pcvssKRyAw-Y8lx2Aer3mkWtDEoiy3xSbu22kupQyDYrkB-0SwOv8UP4vOVZYLyJzW6Qf9dmBf1QENLE3XMr-agtoQNy6ZU8Yf_vlka_BOBUd6N9jithkozrieqsNOoZOSX_7yFli-R5jlXrOcwqE2CqqMh-Wmtn"
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOWstBVaPZx2YkMOLTVkuf6O1M2pEzNf0sphOE4Re-w5LEg3wroNKsfgdVEhDlaoN5JYfKsv7wFWAcg3tITzWMNSSyXedh5XuWEL7plZpkwW8LNK1-gvdag=="
+        }
+      ]
+    }
+  }
+}

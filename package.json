@@ -1,0 +1,13 @@
+{
+  "name": "statusdotworld",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assess": "node scripts/assess.mjs",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  }
+}

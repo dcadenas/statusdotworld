@@ -1,0 +1,426 @@
+{
+  "date": "2026-02-03",
+  "timestamp": 1772808611279,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Russia escalates attacks on Ukraine; Middle East tensions remain high.",
+      "summary": "Russia launched extensive drone and missile attacks on Ukraine's power grid, ending a temporary ceasefire. Concurrently, diplomatic efforts continued for a potential nuclear deal with Iran, even as underlying tensions and preparations for conflict persisted between the U.S. and Israel regarding Iran and Gaza. In the Democratic Republic of Congo, a UN peacekeeping mission was deploying to monitor a ceasefire, while in Sudan, government forces recaptured Kadugli, opening a crucial supply route amidst ongoing conflict.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia launched extensive drone and missile attacks on Ukraine's power grid."
+        },
+        {
+          "name": "Gaza, occupied Palestinian territory",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Tensions and preparations for conflict persisted between the U.S. and Israel regarding Gaza."
+        },
+        {
+          "name": "Kadugli, Sudan",
+          "lat": 11.0167,
+          "lng": 29.7167,
+          "severity": "red",
+          "detail": "Sudanese government forces recaptured Kadugli, opening a crucial supply route."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "A UN peacekeeping mission deployed to monitor a ceasefire."
+        },
+        {
+          "name": "Hasakah, Syria",
+          "lat": 36.4,
+          "lng": 40.7333,
+          "severity": "yellow",
+          "detail": "Middle East tensions remained high in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Rights violations persist in conflict zones; US immigration sites and West Bank see concerns.",
+      "summary": "Significant human rights concerns were reported in Gaza, where Israeli forces reportedly destroyed a water station in Rafah and banned Doctors Without Borders after they refused to provide a staff list. In the occupied West Bank, settler attacks and threats to residents were recorded. Domestically in the US, a measles outbreak was declared a public health emergency at a crowded ICE site in Texas, alongside reports of mothers separated from their babies by ICE. Human Rights Watch also highlighted the continued presence of abuses in the Democratic Republic of Congo.",
+      "regions": [
+        {
+          "name": "Gaza, occupied Palestinian territory",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli forces destroyed a water station in Rafah and banned Doctors Without Borders."
+        },
+        {
+          "name": "San Antonio, Texas, USA",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "yellow",
+          "detail": "A measles outbreak emergency was declared at an ICE site; mothers were separated from babies."
+        },
+        {
+          "name": "Nablus, West Bank, occupied Palestinian territory",
+          "lat": 32.22,
+          "lng": 35.25,
+          "severity": "red",
+          "detail": "Settler attacks and threats to residents were recorded in the occupied West Bank."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Human Rights Watch highlighted the continued presence of human rights abuses."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Japan hit by heavy snowfall; US experiences mixed winter conditions.",
+      "summary": "Japan experienced intense snowfall that damaged buildings in Nagaoka, Niigata Prefecture. Meanwhile, parts of the US saw contrasting weather, with a return of welcome snowfall to the Pacific Northwest and Rockies, but also a mini-blast of cold in South Florida and brutal cold in Ohio and Pennsylvania, while the Western US into the Plains experienced warmer conditions. The World Health Organization's global appeal on this date also reiterated that escalating climate change impacts are driving increased demand for health emergency support worldwide.",
+      "regions": [
+        {
+          "name": "Nagaoka, Niigata Prefecture, Japan",
+          "lat": 37.4333,
+          "lng": 138.85,
+          "severity": "yellow",
+          "detail": "Intense snowfall damaged buildings in Nagaoka, Niigata Prefecture."
+        },
+        {
+          "name": "Ohio, USA",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "yellow",
+          "detail": "Ohio experienced brutal cold conditions."
+        },
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.5908,
+          "lng": -77.2098,
+          "severity": "yellow",
+          "detail": "Pennsylvania experienced brutal cold conditions."
+        },
+        {
+          "name": "Pacific Northwest, USA",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "green",
+          "detail": "The Pacific Northwest saw a welcome return of snowfall."
+        },
+        {
+          "name": "South Florida, USA",
+          "lat": 26.6894,
+          "lng": -81.0877,
+          "severity": "yellow",
+          "detail": "South Florida experienced a mini-blast of cold weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "WHO launches $1 billion global health emergency appeal; measles outbreaks surge in Americas.",
+      "summary": "The World Health Organization launched a nearly $1 billion global appeal to fund responses for 36 emergencies, highlighting critical health needs for a quarter of a billion people amid shrinking access to care. The Americas Region faced a significant measles surge, with over 1,000 cases reported across multiple countries in early 2026, including a public health emergency declared in San Antonio, Texas, due to an outbreak at an ICE site. Additionally, several Pacific island nations, including the Cook Islands and New Caledonia, continued to report dengue activity.",
+      "regions": [
+        {
+          "name": "Global (WHO)",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The WHO launched a nearly $1 billion global appeal for 36 health emergencies."
+        },
+        {
+          "name": "Americas Region (PAHO/WHO)",
+          "lat": 8,
+          "lng": -78,
+          "severity": "red",
+          "detail": "The Americas Region faced a significant measles surge of over 1,000 cases."
+        },
+        {
+          "name": "San Antonio, Texas, USA",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "red",
+          "detail": "A public health emergency was declared due to a measles outbreak at an ICE site."
+        },
+        {
+          "name": "Cook Islands",
+          "lat": -21.2333,
+          "lng": -159.7667,
+          "severity": "yellow",
+          "detail": "The Cook Islands continued to report dengue activity."
+        },
+        {
+          "name": "New Caledonia",
+          "lat": -20.9043,
+          "lng": 165.618,
+          "severity": "yellow",
+          "detail": "New Caledonia continued to report dengue activity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global stock markets dip as tech fears and PayPal plunge; US government shutdown ongoing.",
+      "summary": "Major US stock indexes, including the S&P 500, Dow Jones, and Nasdaq Composite, all fell on February 3, with tech stocks experiencing significant weakness amid 'AI fears' and over-concentration concerns. PayPal shares plunged 18-19% to a 12-month low after missing Q4 2025 earnings expectations and providing cautious 2026 guidance, further reflecting market anxieties. European stock markets also saw declines across the board, while investors globally continued to monitor developments related to a partial US government shutdown.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Major US stock indexes, including the S&P 500, Dow Jones, and Nasdaq, all fell."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "European stock markets, including London, experienced widespread declines."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European stock markets, including Frankfurt, experienced widespread declines."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "PayPal shares plunged 18-19% to a 12-month low after missing Q4 2025 earnings."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Investors monitored developments related to an ongoing partial US government shutdown."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US judiciary blocks Trump administration actions on immigration and transparency.",
+      "summary": "In the United States, federal judges intervened to block two significant actions by the Trump administration: one preventing the termination of Temporary Protected Status (TPS) for over 350,000 Haitian immigrants, and another halting efforts to restrict lawmakers' unannounced visits to ICE detention facilities. These rulings underscore ongoing checks and balances against executive power. Broader concerns about democratic institutions were also implicitly raised in human rights reports discussing the exploitation of public mistrust by authoritarian leaders.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Federal judges blocked two Trump administration actions on immigration and transparency."
+        },
+        {
+          "name": "Haiti",
+          "lat": 18.9712,
+          "lng": -72.2852,
+          "severity": "yellow",
+          "detail": "A federal judge blocked the termination of TPS for over 350,000 Haitian immigrants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "WHO seeks $1 billion for 36 global emergencies; aid access hampered in Gaza and Sudan.",
+      "summary": "The World Health Organization launched a $1 billion appeal to address 36 ongoing humanitarian emergencies globally, aiming to provide essential healthcare for millions impacted by conflicts, displacement, and disasters, explicitly naming Afghanistan, Gaza, Sudan, Ukraine, and the Democratic Republic of the Congo among priority areas. In Gaza, access to aid remained severely constrained despite the partial reopening of the Rafah crossing for people, with UN agencies urging for a 'real' humanitarian corridor amidst reports of Israeli actions hindering aid operations and destroying vital infrastructure. Sudan continued to be described as the 'worst humanitarian crisis in the world,' with IFRC noting the 100-day mark since escalations in El Fasher.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The WHO launched a $1 billion appeal for 36 global humanitarian emergencies."
+        },
+        {
+          "name": "Gaza, occupied Palestinian territory",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Aid access was severely constrained, with Israeli actions hindering operations and infrastructure."
+        },
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.6167,
+          "lng": 25.35,
+          "severity": "red",
+          "detail": "IFRC noted the 100-day mark since escalations in El Fasher amidst Sudan's crisis."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine was named a priority area for WHO's $1 billion humanitarian appeal."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2665,
+          "severity": "red",
+          "detail": "The Democratic Republic of the Congo was named a priority area for WHO's humanitarian appeal."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjzBSLdBYxHQCkrWv6rN1Ufir2nFenwlI5VKhkaNTsa4nD05SUPlxVgrxAVHtr44Ebjfq7dkeydqYMa1o10FdZfDwzhQWHxeJV5Xl3BzceCPCL-aYJbMRwnitWJfkgLDu7wOYNNvAjZQEWTJznz5eO5-d_TQdbXdRu--bAOQ=="
+        },
+        {
+          "title": "fdd.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJT-ArEUN9P-Oxr6QLHq9QXJoclbGUhV8WTqyt4Q7z6T7-pTq5xD-1AS6GfOZymRME5PV2TV5s1EFS0SAB1w0eEr4JgHdIUpMoMj33dAbKyKxKbeFaIsaPBO3CeuAbfhuVbxHV1o4ju2vsJT4aiuI="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvriw_Wq5hpXB3p7hMLa2xyFsHYRPmSCnM_igISKEMFJWNn6A2kwn9HmW3YnvNJ4SxlY321RmAsAP54vpcNbwn9mGUysfdAj33XKk6eLjgbmQBPEPiQvc2WKvBekFxe-M-y_fcQ5k="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvcQiU4EyUbDtrUz0EQAZJfwYPm9gJIYyHqP63pdiik0D3iNhoNOsV9r1DXNHwHoZbLtPJExUO1e2NLY71NevxZ9uRRWZDyYwYRrrGn6mC41WQ5qT8YiGqFue5vlzuxFPzI4tKdTSzcbABpXuFvE6XNhay2V4eDtc5i3DfO-Qw6Q2XXU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEghPX76dvYkPFdlYrD_fcg8zY-akK3MOI48K1RYoA7_yN6Pe8wWrqs8S9J4G487TtI6HwuE-Bctr23ZjYy2QeG-eme7XiUP2TUygJzYaVqryQxZ1eRZ7Y-Jqo1NgKqPm0PIZtB4Ic="
+        }
+      ]
+    }
+  }
+}

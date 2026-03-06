@@ -1,0 +1,454 @@
+{
+  "date": "2025-12-29",
+  "timestamp": 1772806847075,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts intensify across Ukraine, West Asia, and other regions",
+      "summary": "December 29, 2025, saw significant armed conflict escalations, with the Russian invasion of Ukraine remaining the deadliest conflict of the year, marked by increased battles and a reported Ukrainian drone attack on Russian territory. In West Asia, Israel continued extensive military actions, while a critical US-brokered Gaza ceasefire risked collapse and an Iran-Israel conflict simmered with potential for escalation. Other regions, including Myanmar, Sudan, and the Thailand-Cambodia border, also experienced severe conflicts causing widespread displacement and casualties.",
+      "regions": [
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.85,
+          "lng": 35.11,
+          "severity": "red",
+          "detail": "Increased battles and military actions escalated the conflict in the region."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israel continued extensive military actions, while a critical ceasefire risked collapse."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.41,
+          "severity": "red",
+          "detail": "An Iran-Israel conflict simmered with potential for escalation."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.91,
+          "lng": 95.95,
+          "severity": "red",
+          "detail": "Severe conflicts caused widespread displacement and casualties."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.86,
+          "lng": 30.21,
+          "severity": "red",
+          "detail": "Severe conflicts caused widespread displacement and casualties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Violent crackdowns in Iran, ongoing abuses in Myanmar, and Gaza",
+      "summary": "Human rights faced severe challenges on December 29, 2025, with ongoing violent crackdowns on protests in Iran, where thousands faced death and arrest following demonstrations sparked by economic hardships. Myanmar's military regime held controversial elections, widely criticized as illegitimate and excluding many citizens, further eroding democratic rights. In Gaza, concerns mounted over the detention and alleged inhumane treatment of health workers by Israeli forces. Reports also highlighted internal repression in Russia and Belarus, targeting civil society, opposition, and independent media.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.68,
+          "severity": "red",
+          "detail": "Violent crackdowns on protests led to thousands of arrests and deaths."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.91,
+          "lng": 95.95,
+          "severity": "red",
+          "detail": "Military regime held controversial elections, eroding democratic rights."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Concerns mounted over the detention and alleged inhumane treatment of health workers."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.52,
+          "lng": 105.31,
+          "severity": "yellow",
+          "detail": "Internal repression targeted civil society, opposition, and independent media."
+        },
+        {
+          "name": "Belarus",
+          "lat": 53.7,
+          "lng": 27.95,
+          "severity": "yellow",
+          "detail": "Internal repression targeted civil society, opposition, and independent media."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2025 crosses critical climate warming threshold amidst extreme weather",
+      "summary": "December 29, 2025, reflects a grim climate reality, with 2025 being one of the hottest years on record and the three-year temperature average breaching the 1.5°C Paris Agreement limit for the first time. Extreme weather events were rampant, including prolonged droughts causing wildfires in Greece and Turkey, and torrential rains leading to deadly floods in Mexico and India. Super Typhoon Fung-wong displaced over a million people in the Philippines, underscoring the severe and widespread impact of climate change globally.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "2025 was one of the hottest years, breaching the 1.5°C warming limit."
+        },
+        {
+          "name": "Greece",
+          "lat": 39.07,
+          "lng": 21.82,
+          "severity": "red",
+          "detail": "Prolonged droughts caused widespread wildfires."
+        },
+        {
+          "name": "Mexico",
+          "lat": 23.63,
+          "lng": -102.55,
+          "severity": "red",
+          "detail": "Torrential rains led to deadly floods."
+        },
+        {
+          "name": "Philippines",
+          "lat": 12.87,
+          "lng": 121.77,
+          "severity": "red",
+          "detail": "Super Typhoon Fung-wong displaced over a million people."
+        },
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "red",
+          "detail": "Torrential rains led to deadly floods."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US faces 'quad-demic' and vaccine-preventable disease resurgence",
+      "summary": "Public health concerns on December 29, 2025, included a 'quad-demic' of COVID, RSV, norovirus, and influenza strains, with significant increases in flu hospitalizations in US states like Massachusetts, Louisiana, and New York. The US also reported a resurgence of vaccine-preventable diseases like measles and whooping cough, with Oregon breaking a decades-old record for whooping cough cases. Globally, 2025 was marked by both significant health breakthroughs and considerable strain on health systems due to funding cuts and ongoing conflicts.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Faced a 'quad-demic' and a resurgence of vaccine-preventable diseases."
+        },
+        {
+          "name": "Massachusetts, USA",
+          "lat": 42.4,
+          "lng": -71.38,
+          "severity": "yellow",
+          "detail": "Saw significant increases in flu hospitalizations."
+        },
+        {
+          "name": "Louisiana, USA",
+          "lat": 30.98,
+          "lng": -91.96,
+          "severity": "yellow",
+          "detail": "Saw significant increases in flu hospitalizations."
+        },
+        {
+          "name": "Oregon, USA",
+          "lat": 43.8,
+          "lng": -120.55,
+          "severity": "yellow",
+          "detail": "Broke a decades-old record for whooping cough cases."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Health systems faced strain from funding cuts and ongoing conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but fragile amid trade tensions",
+      "summary": "On December 29, 2025, global markets showed cautious optimism towards the end of the year, driven by expectations of future interest rate cuts, yet underlying fragilities persisted. The OECD projected a slowdown in global growth for 2025 and 2026, with higher tariffs expected to increase prices and curb consumption. Developing economies, in particular, faced mounting pressures from high borrowing costs, financial volatility, and climate risks, with climate vulnerability adding billions in annual interest expenses.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Markets showed cautious optimism but faced underlying fragilities and projected growth slowdown."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Markets showed cautious optimism despite underlying fragilities in the global economy."
+        },
+        {
+          "name": "China",
+          "lat": 35.86,
+          "lng": 104.19,
+          "severity": "yellow",
+          "detail": "Markets showed cautious optimism despite underlying fragilities in the global economy."
+        },
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "green",
+          "detail": "Faced mounting pressures from high borrowing costs, financial volatility, and climate risks."
+        },
+        {
+          "name": "Euro Area",
+          "lat": 48.87,
+          "lng": 2.3,
+          "severity": "yellow",
+          "detail": "Markets showed cautious optimism despite underlying fragilities in the global economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Controversial elections in Myanmar, CAR amidst global concerns",
+      "summary": "Democratic principles faced significant challenges on December 29, 2025. Myanmar's military junta held elections with limited voter participation and exclusions, deemed illegitimate by international observers. The Central African Republic also conducted elections where the incumbent president was expected to win a third term following a controversial referendum. In the United States, decisions by the Department of Education to discontinue grants for community schools and reject appeals raised concerns about federal funding impacting democratic principles and First Amendment rights.",
+      "regions": [
+        {
+          "name": "Myanmar",
+          "lat": 21.91,
+          "lng": 95.95,
+          "severity": "red",
+          "detail": "Military junta held illegitimate elections with limited voter participation."
+        },
+        {
+          "name": "Central African Republic",
+          "lat": 6.61,
+          "lng": 20.93,
+          "severity": "red",
+          "detail": "Held elections where incumbent president expected third term after controversial referendum."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Dept. of Education decisions on grants raised concerns about democratic principles and First Amendment rights."
+        },
+        {
+          "name": "Belarus",
+          "lat": 53.7,
+          "lng": 27.95,
+          "severity": "yellow",
+          "detail": "Internal repression targeted civil society, opposition, and independent media."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.52,
+          "lng": 105.31,
+          "severity": "yellow",
+          "detail": "Internal repression targeted civil society, opposition, and independent media."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "US slashes UN aid amid soaring global humanitarian needs",
+      "summary": "The global humanitarian situation on December 29, 2025, was critical, as the US pledged a significantly reduced $2 billion for UN humanitarian aid in 2026, down from previous years, and warned agencies to 'adapt, shrink or die'. This drastic cut by a major donor came despite the UN estimating 240 million people globally in need of emergency aid and only a fraction of its 2025 appeal being funded. Specific regions like Gaza, Yemen, and Afghanistan were notably excluded from the new US funding mechanism, exacerbating existing crises. An illicit Hamas financing probe also revealed funds diverted from Palestinian humanitarian aid.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The UN estimated 240 million people needed aid, as the US drastically cut funding."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Excluded from new US funding, exacerbating crises; funds diverted from aid."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.55,
+          "lng": 47.5,
+          "severity": "red",
+          "detail": "Excluded from new US funding mechanism, exacerbating existing crises."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.93,
+          "lng": 67.71,
+          "severity": "red",
+          "detail": "Excluded from new US funding mechanism, exacerbating existing crises."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.86,
+          "lng": 30.21,
+          "severity": "red",
+          "detail": "Severe conflicts caused widespread displacement and casualties, leading to critical needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5swHZOTDHaqpeGFggXaLPkQL39n26-M_vaYw_N7lW-33KvDP5KmT_tjckdacj8e6cCwRiegud18oYmfdA4h8Zvy8Jcolpzv0wQdCDk0zc_GL3FrCRw8JPsF19B04s4VmA_8yGfIonFuwtr2oxMgKcmZh9s7EZGw3tKKjOeH8rCMmDfnS5G7mDRC71erKoWHHxh6bhvglZYZ-_oNLadI5ioE4Lg-D0vuIHYFFSrmJL-3cqJKt2k-l5R1PvEw=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAa6QVgatdgWlK4FWjEkdksFZCVW3ty-_uPtz_r8dPMiSskiFujzM2XOi3jzPetyWIS7IhFLrKtql9m9V-53wYEEqYKLIAerbt6bcJ_-QuiUIxgbJbgkb1hP4ho36cM0bb2du-ikUpVyFI23s0-FLv6fIldu75YME5fTJcZl_ceTyYk9Vctk0iwQUSmRSVLarq"
+        },
+        {
+          "title": "mid.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF58cLeiooeEgUW_j2g3_1H8HQVYYmpeIrsrYlH98Dkyaz-sF_G5UY-jo1j7iLXaTItefaWZuLQLsLzxFi_PS__EXT6fH7QWAjvujD5Pmd4oWKFYi66_szM7nedTbqB9rocWNr2ginyRZc="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwvoZ53EJrq8YRoBc4enYgkP5bBrPskwM0ttwD_6PDEWFzdjwi1akfOS5Fq-_4zBvD0nX0gK0mqBwaLc7Al0RhU5e-G4OLH1A9_8Nlr5C5DYpLTau22LQYcc6fb9fQfNOZqIE0dSY="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsh9JDEkOUs8G5yH8qRTH9Qx0YQNz0wo-oaGu0KIIg9M6IdRIJsTibb12bhZGqPNAYH-sxyu7VJeplUZ8u2_3OCSUeRrTliqOxrJtOW7vJnjNDM9hVK6dEOqTDyXqpw2BGYnevukzWpvDkftf0t1ah-1SikTmy9ARTlvdJOUT7gHSzPBaFzbxOJnc="
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "date": "2026-01-31",
+  "timestamp": 1772808464576,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Conflicts escalate in Ukraine, Balochistan; tensions high in Middle East",
+      "summary": "Russian forces continued offensive operations and conducted drone strikes in Ukraine overnight on January 30-31, while claiming control of three settlements. In Balochistan, Pakistan, coordinated militant attacks and retaliatory military operations resulted in significant casualties on January 31. Tensions remained high in the Middle East, with discussions of potential US-Iran military confrontation and new Israeli airstrikes in southern Lebanon.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian forces conducted offensive operations and drone strikes in Ukraine overnight on January 30-31."
+        },
+        {
+          "name": "Quetta, Pakistan",
+          "lat": 30.2039,
+          "lng": 67.0197,
+          "severity": "red",
+          "detail": "Coordinated militant attacks and retaliatory military operations resulted in significant casualties in Balochistan."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Tensions remained high in the Middle East following new Israeli airstrikes in southern Lebanon."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Discussions of potential US-Iran military confrontation contributed to high regional tensions."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "No specific armed conflict events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN warns of global human rights erosion; US immigration concerns grow",
+      "summary": "The UN Secretary-General stated that human rights are under \"full-scale attack\" globally, citing blatant violations in Palestine, Sudan, Gaza, and Ukraine. Amnesty International reported increasing authoritarian practices in the United States, including deaths in ICE custody, highlighting an erosion of human rights. Protests regarding federal agents' use of force at an ICE facility in Portland, USA, on January 31 also drew judicial scrutiny.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN Secretary-General cited blatant human rights violations in Gaza."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5517,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "The UN Secretary-General cited blatant human rights violations in Sudan."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Amnesty International reported increasing authoritarian practices and human rights erosion in the United States."
+        },
+        {
+          "name": "Portland, United States",
+          "lat": 45.5051,
+          "lng": -122.675,
+          "severity": "yellow",
+          "detail": "Protests concerning federal agents' use of force at an ICE facility drew judicial scrutiny."
+        },
+        {
+          "name": "Bratislava, Slovakia",
+          "lat": 48.1486,
+          "lng": 17.1077,
+          "severity": "yellow",
+          "detail": "No specific human rights events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather globally; US exits Paris Agreement again",
+      "summary": "January 2026 saw extreme weather events worldwide, including heatwaves and wildfires in Australia and Chile, and a severe winter storm in the US and Canada. Heavy rains and flooding impacted southern Africa, Europe, and North Africa, with scientists linking these to climate change. The United States formally exited the Paris Agreement for the second time and revoked a key finding for regulating greenhouse gas emissions.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Australia experienced heatwaves and wildfires as part of extreme weather events."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US formally exited the Paris Agreement and revoked a key finding for regulating greenhouse gas emissions."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.8919,
+          "lng": 32.6074,
+          "severity": "yellow",
+          "detail": "Southern Africa, including Mozambique, was impacted by heavy rains and flooding."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Europe, including Spain, was impacted by heavy rains and flooding."
+        },
+        {
+          "name": "Santiago, Chile",
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "severity": "yellow",
+          "detail": "Chile experienced heatwaves and wildfires as part of extreme weather events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US measles outbreaks threaten elimination status; Spain reports swine flu",
+      "summary": "The United States is likely to lose its measles-free status due to ongoing outbreaks with a surge in January 2026, signaling concerns about broader vaccination rates. A human case of swine influenza A(H1N1)v was detected in Catalonia, Spain, linked to a hospital visit on January 30. Additionally, mpox cases, including the Clade Ib strain, were reported in the UK and Austria, often with travel links.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States faced ongoing measles outbreaks, threatening its measles-free status."
+        },
+        {
+          "name": "Barcelona, Spain",
+          "lat": 41.3851,
+          "lng": 2.1734,
+          "severity": "yellow",
+          "detail": "A human case of swine influenza A(H1N1)v was detected in Catalonia on January 30."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Mpox cases, including the Clade Ib strain, were reported in the United Kingdom."
+        },
+        {
+          "name": "Vienna, Austria",
+          "lat": 48.2082,
+          "lng": 16.3738,
+          "severity": "yellow",
+          "detail": "Mpox cases, including the Clade Ib strain, were reported in Austria."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "No specific public health events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Fragile global growth in 2026 amid trade tensions, high debt",
+      "summary": "Global economic growth in 2026 is projected to be steady but fragile, ranging from 2.7-3.3%, with risks from geopolitical uncertainty and trade tensions. Developing economies continue to face challenges, with many having lower per capita incomes than in 2019. While AI-related investment offers some tailwinds, potential reevaluation of its productivity could trigger financial market corrections.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "No specific economic crisis events were reported for this location on January 31."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "No specific economic crisis events were reported for this location on January 31."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "No specific economic crisis events were reported for this location on January 31."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "No specific economic crisis events were reported for this location on January 31."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "No specific economic crisis events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy declines globally; AI, authoritarianism pose new threats",
+      "summary": "Reports indicated an ongoing global \"democratic recession,\" with 72% of the world's population living under autocracy and concerns over AI's potential to undermine democratic legitimacy. Amnesty International warned of increasing authoritarian practices and an erosion of the rule of law in the United States. In a positive development, Brazil successfully convicted a former president for a coup attempt.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Amnesty International warned of increasing authoritarian practices and erosion of the rule of law in the United States."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "green",
+          "detail": "Brazil successfully convicted a former president for a coup attempt."
+        },
+        {
+          "name": "Dodoma, Tanzania",
+          "lat": -6.163,
+          "lng": 35.7516,
+          "severity": "red",
+          "detail": "No specific democratic erosion events were reported for this location on January 31."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "No specific democratic erosion events were reported for this location on January 31."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "No specific democratic erosion events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis severe; Afghanistan faces widespread need",
+      "summary": "The humanitarian crisis in Gaza remained severe throughout January 2026, with 1.3 million displaced people facing acute shelter needs and aid delivery hampered by restrictions and damaged infrastructure. Deadly winter conditions in Gaza led to children dying from hypothermia, prompting renewed UN calls to lift Israeli restrictions. UNICEF reported that Afghanistan faces a critical humanitarian situation in 2026, with 21.9 million people, including 11.6 million children, requiring assistance and widespread malnutrition projected.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Gaza faced a severe humanitarian crisis with children dying from hypothermia and hampered aid delivery."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5553,
+          "lng": 69.2075,
+          "severity": "red",
+          "detail": "Afghanistan faced a critical humanitarian situation with widespread malnutrition and 21.9 million requiring assistance."
+        },
+        {
+          "name": "Yaoundé, Cameroon",
+          "lat": 3.848,
+          "lng": 11.5021,
+          "severity": "yellow",
+          "detail": "No specific humanitarian events were reported for this location on January 31."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5517,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "No specific humanitarian events were reported for this location on January 31."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "No specific humanitarian events were reported for this location on January 31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzqSEWuEzZ8nCZEsdfvWUHnVe8cCeytxUiqjLpopamPIgYCN5wDfgEb_Ok5ITRg4YmNnqepFmDc8n-tLhISp9unZzvUlMaRFLzHtxBiv9M0OoD3yLQw4ms4LN6W4kJ6Id56ZJxCbiDRbzHA_ErDKJN2lWp-ujJOUjtOmABtcvc_9QlauuOvbsdjbIoh5CPgR28iUXiByYAjK6hMaMY7SGl9iNCH0L_"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3I-WglT6e8HOLfztUGBOVCfVP-8M4T9UAthImXiQH8drtF95baTr9u5gCz-fya3f5dZbfJ5o1ulcquOmFNBeNe90OgwTKJbTP6ZbCsvShnEHRGLfX_PkJgr3QaeseP9tfjztw7WKcbLvNIXfQjdUkLq2jyHCNqdOHH_1QIPc="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAoMzD244G-fY65n8ncHD1OUdgkfTboCkBiUcq7iMWd9o_mHKr_8pYbohpnpxhC1nCGK9wS19pjgM156tWup7SBe60SODy_-cI-m9-pXoVWzF6fNAfeebDQMS6E7jqaRGvNFKvBkBsgOev3mNLpKKCkQ=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2TJiRc6J1PyXwNUYTGfu8-C23Fi5Da4spt-H3O0ctI5sVAO4l15mZ1PwxwB2bXyIswmTLUWlO0uMQ3hIqH-GF25pQnkHJBBXc6VbWYTJfn84mn8YH04tODVTGgF2DHcJPxkk30bNr5yaUOBdyZaIn30BdPHOPLALye5cTYjOJzsUubnQjhGWMWzdrRzHC1V11bwODTFtPE4P-uMTR87IKMr7xJg=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkR6qdAIZ1dchhE40BwYGO_nR97B3z8kVHVEro9WSIZnb2mAqf8k8HST_6m0l5CEJDTSzq6-oQCl62CWUUB0HFF8WCzNQeB49jDCQoGfLfZ0l7PtZC9XtseryHiCyRns="
+        }
+      ]
+    }
+  }
+}

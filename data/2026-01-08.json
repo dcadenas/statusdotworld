@@ -1,0 +1,433 @@
+{
+  "date": "2026-01-08",
+  "timestamp": 1772807309284,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Mass killings as protests escalate in Iran; global tensions rise.",
+      "summary": "Nationwide anti-government protests in Iran escalated on January 8, 2026, with security forces carrying out mass killings of protesters and bystanders, leading to thousands of deaths and an internet shutdown to conceal the atrocities. Geopolitical tensions also continued with ongoing conflicts in Sudan, Gaza, and Syria, and accusations of Saudi-UAE conflict in Yemen.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Security forces carried out mass killings of protesters amidst escalating anti-government demonstrations."
+        },
+        {
+          "name": "Mashhad, Iran",
+          "lat": 36.3156,
+          "lng": 59.567,
+          "severity": "red",
+          "detail": "Security forces carried out mass killings of protesters amidst escalating anti-government demonstrations."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "Ongoing conflicts and geopolitical tensions continued in the region."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2167,
+          "lng": 37.1667,
+          "severity": "yellow",
+          "detail": "Ongoing conflicts and geopolitical tensions continued in the region."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5517,
+          "lng": 32.5324,
+          "severity": "yellow",
+          "detail": "Ongoing conflicts and geopolitical tensions continued in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran protests lead to mass killings; UN report cites apartheid in West Bank.",
+      "summary": "Iranian security forces engaged in mass killings of protesters on January 8, 2026, amidst escalating nationwide demonstrations, with numerous reports of gunshot wounds and an internet blackout. A UN Human Rights report published on this date concluded that Israel is violating international law regarding racial segregation and apartheid in the occupied West Bank.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Security forces engaged in mass killings of protesters amidst escalating nationwide demonstrations."
+        },
+        {
+          "name": "Mashhad, Iran",
+          "lat": 36.3156,
+          "lng": 59.567,
+          "severity": "red",
+          "detail": "Security forces engaged in mass killings of protesters amidst escalating nationwide demonstrations."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "yellow",
+          "detail": "A UN Human Rights report concluded Israel is violating international law regarding apartheid."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "General human rights concerns within the broader United States persisted."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global temperature records persist; widespread floods and droughts affect Africa, US.",
+      "summary": "Copernicus data released near this date indicated 2025 was the third warmest year on record, with 2023-2025 being the first three-year period to exceed 1.5°C above pre-industrial levels. Rare January flash flooding and strong winds affected the Chicago metro area, breaking rainfall records. Widespread flooding persisted across Southern Africa and western Colombia, while drought conditions worsened in parts of Eastern Africa and Angola.",
+      "regions": [
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "red",
+          "detail": "Rare January flash flooding and strong winds affected the metro area, breaking rainfall records."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -20,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Widespread flooding persisted across the region, exacerbating conditions."
+        },
+        {
+          "name": "Eastern Africa",
+          "lat": 0,
+          "lng": 40,
+          "severity": "red",
+          "detail": "Drought conditions worsened in parts of the region, impacting communities."
+        },
+        {
+          "name": "Western Colombia",
+          "lat": 4,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "Widespread flooding persisted across the region, exacerbating conditions."
+        },
+        {
+          "name": "Purcell, Oklahoma, USA",
+          "lat": 34.9912,
+          "lng": -97.3603,
+          "severity": "yellow",
+          "detail": "The broader US region experienced various climate-related weather trends."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Infectious disease experts monitor multiple viruses; US sees mixed health trends.",
+      "summary": "Infectious disease experts highlighted Influenza A (H5N1 avian influenza), Mpox (with increasing clade I cases), and Oropouche virus as key threats to watch in 2026. While the Chicago area reported a 40% drop in fatal drug overdoses for 2025, concerns were raised about health system fragmentation, vaccination gaps, and rising mental health needs globally.",
+      "regions": [
+        {
+          "name": "Central Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Increasing cases of Mpox (clade I) were identified as a key public health threat."
+        },
+        {
+          "name": "The Americas",
+          "lat": 20,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Oropouche virus was highlighted as a key public health threat to monitor in 2026."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "green",
+          "detail": "The area reported a 40% drop in fatal drug overdoses for 2025."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Concerns were raised about health system fragmentation, vaccination gaps, and mental health needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economic growth subdued at 2.7%; trade tensions and fiscal strains persist.",
+      "summary": "The UN's 'World Economic Situation and Prospects 2026' report, released January 8, projected global economic output to grow by a subdued 2.7% in 2026, below pre-pandemic levels. The report cited ongoing trade tensions, fiscal strains, and uneven regional growth, with risks stemming from high debt in Africa and the uneven distribution of AI-related economic gains.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN's 'World Economic Situation and Prospects 2026' report was released from its headquarters."
+        },
+        {
+          "name": "European Union",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The UN report projected subdued economic growth and cited ongoing trade tensions."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "The UN report projected subdued economic growth and cited ongoing trade tensions."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "The UN report projected subdued economic growth and cited ongoing trade tensions."
+        },
+        {
+          "name": "Africa",
+          "lat": -8.7832,
+          "lng": 34.5085,
+          "severity": "yellow",
+          "detail": "The UN report highlighted risks from high debt and uneven AI-related economic gains."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Uganda faces pre-election unrest; US democracy concerns persist.",
+      "summary": "Uganda was bracing for presidential and parliamentary elections on January 15, 2026, with warnings of potential demonstrations, violence, and communication disruptions. In the United States, concerns about democratic erosion persisted, with Amnesty International highlighting threats to free speech and voting rights, and the Senate considering action regarding presidential military powers in Venezuela.",
+      "regions": [
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "The city braced for potential demonstrations and violence before upcoming elections."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Senate considered action regarding presidential military powers in Venezuela."
+        },
+        {
+          "name": "Arkansas, USA",
+          "lat": 34.7465,
+          "lng": -92.2896,
+          "severity": "green",
+          "detail": "Concerns about threats to free speech and voting rights persisted in the broader US."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The US Senate considered action regarding presidential military powers affecting the country."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen amid widespread flooding, droughts, and conflicts.",
+      "summary": "Widespread humanitarian needs were exacerbated by persistent flooding in numerous African countries, including Zambia, Malawi, and Mozambique, and by severe drought in Eastern Africa, particularly Somalia and Kenya. The escalation of conflict and mass killings in Iran also created an acute humanitarian crisis, with associated arbitrary detentions and health system fragmentation in conflict-affected regions.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The escalation of conflict and mass killings created an acute humanitarian crisis."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -20,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Persistent widespread flooding exacerbated humanitarian needs across the region."
+        },
+        {
+          "name": "Somalia",
+          "lat": 2,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Severe drought conditions exacerbated humanitarian needs in the region."
+        },
+        {
+          "name": "Eastern Kenya",
+          "lat": -0.0236,
+          "lng": 37.9062,
+          "severity": "red",
+          "detail": "Severe drought conditions exacerbated humanitarian needs in the region."
+        },
+        {
+          "name": "South Sudan",
+          "lat": 7.5,
+          "lng": 30.5,
+          "severity": "yellow",
+          "detail": "The region likely faced deepening humanitarian needs due to widespread African crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQeLq0HDVsiTZ1jg0c81EPwJOO-Y_D2GRcFw695yE4KHvngcKWyb3CoKVJUu5XKjrfJ8zfQxa9bIVeMIdzrIVgQDPyF236l-ElordR-M_aTCibJRnubm2lrZBgnTXD9ZxWjBhm2TKeeUH86cguLrzS9BZmY9W92laSuMG9z8N43sKcyZTOH7is9susg=="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlgd8uA1x48a2LgXpIs9IbFzZcy-h9H9Ka9_xMSjXdv4Lah-A0dURS8ce8M9BpUe4Jp5jabw5vrjmXSO9U8gISw9VrR2CwlBtf46fQQFep219NTzlFEWQUigfdlyL5uJi8C1n4az4nrCFCbwBjZDa6EeIWAwFVF6r9PE="
+        },
+        {
+          "title": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvJSawn4eA6HqSil_UVZG8EwEs42F9rlbUnfJchlaq4OglM2lPz9j9Owb6oSyghz-fz9WnWM56UV_geFCOlMFT_HNnmZQVNI77J0JoBm4l-3ukAGD9pDEW81Rz6PpWqk_hguuSAg_Ip9WDr72DBwQbKtTHKDAH8WzgMQYwgaZo67AlgDO8QAbH8zH62SYOenJX1SXU3887D9-H-Wu67uLqnBqjgw="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEFO6jDAV5DYkCW_etcQWO9054jyj7dJXtko3LHWeFFfsm9CrOx0RicrZIWi9w7cTC284cQ-ln7LbL4TeFN7XxEKev5Llt4LHYn2POJcwTGMhZVOj1Em4Ug-d7Wyj-co5cW4tbLfamycPK4MSWxLg79BA_xXKHK-etCIT-ao1jbpogllu892RBABEd4tXyDiDpUKfqqFs"
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZLqgLQ5X_bubeBwZ2az4Ecl3dPO8UBFM77EqHW0MpdEL48nK-f8Hr-TOhFN1SGNPVAY9V8WrM5WTKJLw0f4eVDnoT8nnWLKDq13heiaAK_wqqqujCnhUclJEbn0cHPIoWqmxp6vCA-MEYsggUNSE3mKYHGhTxCfku7bpCbD7cKKhVlJCSrxd_L0o5udEr1WGsz8D"
+        }
+      ]
+    }
+  }
+}

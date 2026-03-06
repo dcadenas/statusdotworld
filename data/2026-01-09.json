@@ -1,0 +1,454 @@
+{
+  "date": "2026-01-09",
+  "timestamp": 1772807357904,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts escalate with missile strikes, interventions, and protests",
+      "summary": "The Russia-Ukraine war saw escalation with Russia using nuclear-capable missiles against Ukrainian infrastructure. Israeli drone strikes violated a ceasefire in Gaza, where aid access remained restricted. US military action, including the abduction of President Maduro, severely impacted Venezuela's political stability, while anti-government protests continued in Iran amidst an internet blackout.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia used nuclear-capable missiles against Ukrainian infrastructure."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "Israeli drone strikes violated a ceasefire; aid access remained restricted."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "US military action, including President Maduro's abduction, severely impacted political stability."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Anti-government protests continued amidst an internet blackout."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2021,
+          "lng": 37.1356,
+          "severity": "yellow",
+          "detail": "No specific event reported for Aleppo."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran internet blackout amid protests; aid access limited in Gaza",
+      "summary": "Iran experienced a nationwide internet blackout amidst ongoing anti-government protests, raising serious concerns about freedom of expression and the safety of demonstrators. Aid groups faced severe restrictions on entering Gaza, exacerbating the humanitarian situation for civilians. In Sudan, millions faced humanitarian crisis, with sexual violence reportedly being used as a weapon of war and children at risk.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Tehran experienced an internet blackout amidst anti-government protests."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "Aid groups faced severe restrictions on entering Gaza, exacerbating the humanitarian situation."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan faced a humanitarian crisis with widespread sexual violence and children at risk."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "No specific human rights event reported for Caracas."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "No specific human rights event reported for Washington D.C."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "US withdraws from climate treaty; extreme weather impacts regions",
+      "summary": "The US announced its intention to withdraw from the UN Framework Convention on Climate Change, a significant blow to global climate efforts. Meanwhile, Australia faced an extreme heatwave and bushfires, while the US Midwest experienced rare January flash flooding and strong winds. Southern states in the US also braced for severe weather including heavy rain and potential tornadoes.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US announced its intention to withdraw from the UN Framework Convention on Climate Change."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "severity": "red",
+          "detail": "Australia faced an extreme heatwave and bushfires."
+        },
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The US Midwest, including Chicago, experienced rare January flash flooding and strong winds."
+        },
+        {
+          "name": "Baton Rouge, USA",
+          "lat": 30.4515,
+          "lng": -91.1871,
+          "severity": "yellow",
+          "detail": "Southern US states, including Baton Rouge, braced for severe weather and potential tornadoes."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "No specific climate event reported for Geneva."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US revises vaccine schedule, high COVID/flu; health crises persist",
+      "summary": "US federal health officials announced a reduced childhood immunization schedule, sparking criticism from public health experts. Concurrently, the US experienced high COVID-19 and influenza viral activity, with respiratory illnesses overwhelming hospitals in some regions. Health systems in Sudan and Ukraine remained severely impacted by conflict, with attacks on healthcare facilities reported.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US federal health officials announced a reduced childhood immunization schedule."
+        },
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The US experienced high COVID-19 and influenza activity, overwhelming hospitals."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan's health system was severely impacted by conflict, with attacks on facilities reported."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine's health system was severely impacted by conflict and attacks on healthcare facilities."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "No specific public health event reported for Geneva."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth subdued amid trade tensions; commodity prices rise",
+      "summary": "The global economy is projected for steady but subdued growth in 2026, with persistent trade tensions and geopolitical uncertainty posing risks. US economic indicators showed mixed signals, including slowing job growth but a slight decrease in unemployment, while European growth forecasts were dampened by tariffs. Commodity markets saw gold and crude oil prices rise due to geopolitical developments in Iran and Venezuela.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US economic indicators showed mixed signals: slowing job growth but decreased unemployment."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "European growth forecasts were dampened by tariffs."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "No specific economic crisis event reported for Beijing."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Commodity prices, including gold and crude oil, rose due to geopolitical developments in Iran."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Commodity prices, including gold and crude oil, rose due to geopolitical developments in Venezuela."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Venezuela intervention, Iran protests, US exits global bodies spark concerns",
+      "summary": "US military action and the abduction of Venezuelan President Maduro raised significant concerns about international law and national sovereignty. Ongoing anti-government protests in Iran were met with an internet blackout and threats of harsh measures. The US administration's decision to withdraw from numerous international organizations, including the UNFCCC, further highlighted a trend of disengagement from global multilateralism.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "US military action and President Maduro's abduction raised concerns about sovereignty."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Anti-government protests were met with an internet blackout and threats of harsh measures."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US administration's decision to withdraw from international organizations sparked concerns."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "No specific democratic erosion event reported for Geneva."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "No specific democratic erosion event reported for London."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan worst crisis, Ukraine and Gaza needs deepen amid restrictions",
+      "summary": "Sudan remained the world's largest humanitarian crisis, with nearly two-thirds of its population requiring urgent assistance and reports of widespread sexual violence. Humanitarian needs deepened in Ukraine due to ongoing conflict and winter conditions, while aid access to Gaza remained severely restricted. Other critical crises persisted in the Democratic Republic of Congo, Yemen, Afghanistan, and South Sudan.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan remained the world's largest humanitarian crisis, with two-thirds of its population needing aid."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Humanitarian needs deepened due to ongoing conflict and winter conditions."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "Aid access to Gaza remained severely restricted, deepening humanitarian needs."
+        },
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo (DRC) continued to face a critical humanitarian crisis."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen continued to face a critical humanitarian crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE40JBjmhOweow9KsGSIhu9GG3how84JjnOp_R0HJxyJ8UY6Hn1jvNVXiFpowo4p0wzuCylsiifcm4seE6-R1oAwOeQ2prg2rAU3QW7pLXhUs-QkNiJuyirVa1D30u8Wf9U2CkqrxBpbfYq8__Sf_Hpbb-5Ajst0f54_Y"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJPk_VzqVARDN-_7kv6ABWR7_vdiDUXdwVAhXLSCsjnzn7HKG_SzutMu-OsdiQTjUEqM5sXFqJAgLP5rby45y-Ggu7pjKUMTXlodSnz1viDaUANpnjEn9ZweLui4anCIPqtrzbVbqrL4Wqw4NBOj4MTmTURqmh6eERulqq9w=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPV7A90esAf3QDkL6eNrwu_LkPlh0gKGMDzdMKRhhI8qFSgU20S2y_iRIbJviszngUy5a4xLsIAiNTQBOBd5eR7lqOt2ehjTH3eLnvV3ttW5U41Z_sXzy4mqKCQi8-drqKS0BHqKI="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOlxyaDJEiGsIBwWo0BR6ScUG-lws-PM-eP91HzNDXI0sdTS4fp-P-Q4ZiYD0PifbXYZ6UcQRaN51MU9rUP-w1ClH2gWgUzaqYGm_c_R-72io4iQDk6jHXnD5dGYExp_LUlgXjbG52jsqJEhwRUWdq-rmTwY="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpC3TIfdCpdWH0YCzj3eYYofILA5hiMrLp1ToZIS2PO45LaLeCr5WLNuuhjys47gKHaBQtDFpvNERmC4ty2ChVml0SBmezjffBv93Dhl8sNa-5dNAIV-uwhEai1sNdFEjZ39nSlU="
+        }
+      ]
+    }
+  }
+}

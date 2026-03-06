@@ -1,0 +1,454 @@
+{
+  "date": "2026-02-04",
+  "timestamp": 1772808683075,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Escalating conflicts in Ukraine, Sudan, and South Sudan with aid worker attacks.",
+      "summary": "Civilian casualties and damage to energy infrastructure were reported in Ukraine due to overnight attacks. In Sudan and South Sudan, renewed violence is causing widespread displacement, acute shortages of aid, and direct threats to humanitarian operations, including looting and attacks on aid workers. An MSF health worker was injured in Gaza and a humanitarian aid volunteer facility was attacked in Russia.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Civilian casualties and energy infrastructure damage were reported due to overnight attacks."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Renewed violence caused widespread displacement, aid shortages, and threats to humanitarian operations."
+        },
+        {
+          "name": "Jonglei, South Sudan",
+          "lat": 7.9866,
+          "lng": 31.0667,
+          "severity": "red",
+          "detail": "Renewed violence led to widespread displacement, acute aid shortages, and threats to humanitarian operations."
+        },
+        {
+          "name": "Khan Yunis, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "An MSF health worker was injured amidst ongoing conflict."
+        },
+        {
+          "name": "Saint Petersburg, Russia",
+          "lat": 59.9343,
+          "lng": 30.3351,
+          "severity": "yellow",
+          "detail": "A humanitarian aid volunteer facility was attacked."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "HRW warns global human rights in \"peril,\" citing abuses in US, Israel, Russia.",
+      "summary": "Human Rights Watch's World Report 2026, released on February 4, 2026, warned that the global system of human rights is in \"peril,\" with 72% of the world's population living under \"autocracy\". The report highlighted inhumane conditions for immigrants and asylum seekers in US Immigration and Customs Enforcement custody, accusations of genocide by Israel in Gaza, and the suppression of dissent in Russia. Additionally, concerns were raised about EU institutions undermining democratic space and restrictions on freedom of expression in Thailand.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "HRW's report highlighted inhumane conditions for immigrants in US ICE custody."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "HRW's report cited accusations of genocide by Israel in this region."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "HRW's report criticized the suppression of dissent in this region."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "HRW's report raised concerns that EU institutions are undermining democratic space."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "HRW's report noted restrictions on freedom of expression in this region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "CO2 rise too fast for 1.5°C target; US policy rollbacks threaten climate goals.",
+      "summary": "A Met Office forecast indicated that the rate of atmospheric carbon dioxide increase in 2026 will remain too fast to meet global 1.5°C climate targets, reaching a new high. The Trump administration's weakened standards for mercury from coal-fired power plants and other environmental rollbacks are expected to worsen public health outcomes. Discussions on managing climate risk for businesses also continued.",
+      "regions": [
+        {
+          "name": "Mauna Loa, Hawaii, United States",
+          "lat": 19.475,
+          "lng": -155.592,
+          "severity": "yellow",
+          "detail": "Atmospheric CO2 increase here remains too fast for 1.5°C targets, reaching a new high."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Trump administration's weakened mercury standards are expected to worsen public health outcomes."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Discussions on managing climate risk for businesses continued."
+        },
+        {
+          "name": "Boulder, Colorado, United States",
+          "lat": 40.015,
+          "lng": -105.2705,
+          "severity": "yellow",
+          "detail": "Discussions on managing climate risk for businesses continued."
+        },
+        {
+          "name": "Quezon City, Philippines",
+          "lat": 14.65,
+          "lng": 121.05,
+          "severity": "green",
+          "detail": "Discussions on managing climate risk for businesses continued."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in Florida; infant deaths from listeria and new infectious threat.",
+      "summary": "A measles outbreak linked to a Florida university was reported, with cases rising in the US. An infant died from listeria in New Mexico, allegedly from unpasteurized milk, and two infants developed severe neurological symptoms from an emerging infectious disease, Paenibacillus dendritiformis. Meanwhile, Congress advanced the FY 2026 HHS Appropriations Bill, and World Cancer Day highlighted policy advocacy for health.",
+      "regions": [
+        {
+          "name": "Florida, United States",
+          "lat": 27.9944,
+          "lng": -81.7603,
+          "severity": "yellow",
+          "detail": "A measles outbreak linked to a university was reported."
+        },
+        {
+          "name": "New Mexico, United States",
+          "lat": 34.5199,
+          "lng": -105.8701,
+          "severity": "yellow",
+          "detail": "An infant died from listeria, allegedly from unpasteurized milk."
+        },
+        {
+          "name": "Atlanta, United States",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "US public health officials continued monitoring emerging infectious diseases."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "World Cancer Day highlighted policy advocacy for health."
+        },
+        {
+          "name": "Kansas, United States",
+          "lat": 38.9012,
+          "lng": -99.4332,
+          "severity": "green",
+          "detail": "Rising measles cases in the US were a public health concern for residents."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth subdued amid trade tensions, high inflation, and tech bubble fears.",
+      "summary": "The European Central Bank noted spiked geopolitical and trade policy uncertainty, with global trade decelerating and expected to decline in 2026 due to tariffs. A UN report predicted subdued global economic growth for 2026, below pre-pandemic levels, with persistent high prices eroding purchasing power. Consumer confidence saw a slight increase, but inflation expectations remained elevated, and a potential tech bubble bursting was identified as a top risk for the year.",
+      "regions": [
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "The European Central Bank noted spiked geopolitical and trade policy uncertainty."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A potential tech bubble bursting was identified as a top economic risk for the year."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Global trade deceleration due to tariffs affected the economic outlook."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Persistent high prices eroded purchasing power, and inflation expectations remained elevated."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Persistent high prices eroded purchasing power, and inflation expectations remained elevated."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "HRW warns of global autocracy rise; US election integrity concerns escalate.",
+      "summary": "Human Rights Watch's World Report 2026 cautioned that the global human rights system is under threat, with a large percentage of the world's population living under \"autocracy,\" and the EU failing to uphold democratic space. In the US, former President Trump reiterated calls to nationalize voting, and House Republicans proposed new election integrity legislation amidst ongoing debates. Thailand also faced concerns over restrictions on freedom of expression impacting upcoming elections.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Former President Trump called to nationalize voting; House Republicans proposed election legislation."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "HRW reported that the EU is failing to uphold democratic space."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Concerns were raised over restrictions on freedom of expression impacting upcoming elections."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "HRW's report on global autocracy and human rights peril was noted."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "HRW's report warned the global human rights system is in peril from rising autocracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Severe crises in Sudan, South Sudan, Gaza; aid operations face attacks and bans.",
+      "summary": "Humanitarian organizations reported severe crises in Sudan and South Sudan, with massive displacement, acute shortages of food and health services, widespread malnutrition, and cholera outbreaks. Aid operations faced significant threats, including looting of convoys and attacks on personnel and facilities. In the Gaza Strip, an MSF health worker was injured and Israel announced it would halt operations of several humanitarian organizations, a move expected to severely impact the civilian population. The impact of US foreign aid cuts also raised concerns about millions of potential deaths by 2030.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Severe crises caused massive displacement, food and health shortages, and cholera outbreaks."
+        },
+        {
+          "name": "Jonglei, South Sudan",
+          "lat": 7.9866,
+          "lng": 31.0667,
+          "severity": "red",
+          "detail": "Severe crises caused massive displacement, food and health shortages, and cholera outbreaks."
+        },
+        {
+          "name": "Khan Yunis, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "An MSF health worker was injured and Israel announced halting operations of humanitarian groups."
+        },
+        {
+          "name": "Saint Petersburg, Russia",
+          "lat": 59.9343,
+          "lng": 30.3351,
+          "severity": "yellow",
+          "detail": "A humanitarian aid volunteer facility was attacked."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns were raised about US foreign aid cuts potentially causing millions of deaths."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCy6OnbolhRXPP1QYet9qmi4ZD5miNf40h_AYABpiCj58WsfUC7sApcI_MjVjIo0SFtJ0LZFsgcgIVLsNnyKEHjFPA-Ibr_y8t9bFKW8PXsuqa-JpN0ZoYdHANYKzfoNLN56eQA=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF02SG8w1NDNiXGTg6i56YVxN3R53iGVk4-ImbkuEUYkksgcFQhWUNzDdpSWsGAIEdirxvdb9jgDGKZaSYcH3p0EHYe0EBo9eAjsXLUqMBsW6vxBOLb_AehmOz6cRL4Scrx_VQxe3VH-sNI21jGe1uPZKMe6DeZGHpa9kgGIcjAk9rPAE-b8AptR_tf1cdVIcnG"
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAItpKF2lteRVY4C5jkC-hzSn2IBbbAvsz_oThYsWUYegoW0hl_yhRzTs7eeuDZQAehtFyRO9pC2K1Y5euGkLBOjsRJGrfa1wrAkP5PNUde4X5KYVhT_27pTQjMPv8Zo5sLlC5Mk="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroAs0wn7YLipkaL6X64tBNMRo_WLSEMrplm8g0nMtZMFaj1EdOFqsyXlqX8tOOq0q0b7Gq8CuYsFl0ZfkcvNpPHvSHC2AyTtkvIylQ4ZoXAl_o2F99k2SO7F3LJnHbW5ZY7E2t2HJ2iqEckeq9YT2OerZAAmvtDsed-XxoRfYPCPxHv7SIb107tcvtjB6NyZl9iMbL33TGhKrt5awqRZZ_aJqm657gQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r4QsTHiZcEOh3r0QiGXBsuDdmKyGJUoJWkL0RB9G-qzgRpfCTse88aMCKKB-Pe__zaCJ7vkHz9xqtGL3laQ5VtZuwXrx-GjFfGF7_5BAtd6dnM23gn_uQibO-leNsJUeMIxuwxE5wFe1rEGG-56e0_Ysa5Swjam24BNxWE2MjR9RKrLJHVSYupKOevJkZXk="
+        }
+      ]
+    }
+  }
+}

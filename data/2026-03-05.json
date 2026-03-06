@@ -1,0 +1,454 @@
+{
+  "date": "2026-03-05",
+  "timestamp": 1772810042104,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with widespread strikes and civilian casualties",
+      "summary": "March 5, 2026, saw a severe escalation of conflict across the Middle East, involving the US, Israel, and Iran, impacting at least 16 countries with military strikes and counter-strikes. Over 1,000 deaths were reported in Iran and Lebanon, with tens of thousands displaced, and civilian casualties increasing amidst attacks on vital infrastructure. Iran launched missiles at Israel and Azerbaijan reported drone strikes from Iran, while the Pope called for de-escalation.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Widespread conflict escalated, with over 1,000 deaths and attacks on vital infrastructure."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Conflict escalated, causing widespread strikes, civilian casualties, and tens of thousands displaced."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Missiles were launched towards Israel from Iran."
+        },
+        {
+          "name": "Nakhchivan Autonomous Republic, Azerbaijan",
+          "lat": 39.2,
+          "lng": 45.4,
+          "severity": "red",
+          "detail": "Reported drone strikes originating from Iran."
+        },
+        {
+          "name": "United Arab Emirates",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "red",
+          "detail": "Was among the 16 countries impacted by the escalating Middle East conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Middle East and Gaza face severe human rights crises with escalating civilian deaths",
+      "summary": "March 5, 2026, was marked by widespread human rights crises, particularly in the Middle East, where the conflict between the US, Israel, and Iran led to over 1,230 reported deaths in Iran and significant displacement and civilian casualties in Lebanon. In Gaza, the death toll from the ongoing Israeli aggression surged to over 72,000 civilians, predominantly women and children. Additionally, Afghanistan experienced civilian casualties from clashes, and concerns were raised in El Salvador regarding the criminalization of human rights defenders.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Death toll from Israeli aggression surged to over 72,000 civilians, mostly women and children."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Over 1,230 reported deaths resulted from the ongoing conflict and human rights crises."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Experienced significant displacement and civilian casualties from the escalating conflict."
+        },
+        {
+          "name": "Paktika province, Afghanistan",
+          "lat": 32.5,
+          "lng": 68.6667,
+          "severity": "yellow",
+          "detail": "Civilian casualties resulted from ongoing clashes."
+        },
+        {
+          "name": "El Salvador",
+          "lat": 13.6929,
+          "lng": -89.2182,
+          "severity": "yellow",
+          "detail": "Concerns were raised regarding the criminalization of human rights defenders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global extreme weather escalates: heatwaves, floods, and severe storms hit multiple continents",
+      "summary": "March 5, 2026, saw a severe escalation of climate-related events globally, with record heatwaves impacting Southern Africa, Oceania (Marshall Islands), and South Asia. Meanwhile, the United States faced an \"Enhanced Risk\" of severe thunderstorms and tornadoes in the Central Plains alongside abnormal warmth, and Europe experienced record rainfall and floods in Ireland and France. Climate change is driving earlier Arctic phytoplankton blooms and is linked to the intensifying heat and severe weather.",
+      "regions": [
+        {
+          "name": "Central United States (Texas, Oklahoma, Kansas)",
+          "lat": 36.0847,
+          "lng": -97.4764,
+          "severity": "red",
+          "detail": "Faced an \"Enhanced Risk\" of severe thunderstorms and tornadoes alongside abnormal warmth."
+        },
+        {
+          "name": "Southern Africa (Mozambique, Malawi, Zambia, Botswana)",
+          "lat": -18,
+          "lng": 26,
+          "severity": "red",
+          "detail": "Impacted by record heatwaves."
+        },
+        {
+          "name": "Greenland (Ilulissat)",
+          "lat": 69.2167,
+          "lng": -51.1,
+          "severity": "yellow",
+          "detail": "Arctic phytoplankton blooms were occurring earlier due to climate change."
+        },
+        {
+          "name": "France",
+          "lat": 46.2276,
+          "lng": 2.2137,
+          "severity": "yellow",
+          "detail": "Experienced record rainfall and floods."
+        },
+        {
+          "name": "Vietnam",
+          "lat": 16,
+          "lng": 107,
+          "severity": "yellow",
+          "detail": "Was affected by global extreme weather escalation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Middle East conflict cripples health systems, measles resurges globally",
+      "summary": "Public health on March 5, 2026, was severely impacted by the escalating Middle East conflict, with the WHO reporting nearly 1,000 deaths in Iran and 50 in Lebanon, along with widespread attacks on healthcare facilities and jeopardized humanitarian supply chains from Dubai. Concurrently, measles outbreaks surged globally, with the US reporting over 1,100 cases by late February and England over 950 in 2025, prompting concerns about declining vaccination rates and public health infrastructure. Efforts to strengthen global health security and pandemic preparedness continued in Africa and Canada amidst these crises.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Nearly 1,000 deaths reported, with health systems severely impacted by conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "50 deaths reported, with health systems severely impacted and humanitarian chains jeopardized."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Health systems were severely impacted by the escalating Middle East conflict."
+        },
+        {
+          "name": "Broomfield, United States",
+          "lat": 39.92,
+          "lng": -105.0872,
+          "severity": "yellow",
+          "detail": "The US reported over 1,100 measles cases by late February."
+        },
+        {
+          "name": "Enfield, United Kingdom",
+          "lat": 51.65,
+          "lng": 0.08,
+          "severity": "yellow",
+          "detail": "Experienced surging measles outbreaks, following over 950 cases reported in 2025 across England."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict sparks global economic turmoil, drives oil to 2024 highs",
+      "summary": "The global economy faced severe turmoil on March 5, 2026, as the escalating Middle East conflict caused Brent crude oil prices to surge 18% to $85.41/barrel, nearing 2024 highs, and disrupted the critical Strait of Hormuz. This spike fueled fears of renewed inflation, leading to significant drops in major stock markets across the U.S. and Europe, with airlines and travel sectors particularly hit. Central banks in the U.S. and Europe grappled with the inflationary implications and potential slowdown in global growth, while China set a lower growth target amidst internal challenges and rising geopolitical risks.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Was disrupted, causing Brent crude oil prices to surge 18%."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Major stock markets experienced significant drops due to global economic turmoil."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "Major stock markets experienced significant drops due to global economic turmoil."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Set a lower growth target amidst internal challenges and rising geopolitical risks."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Major stock markets experienced significant drops due to global economic turmoil."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Global democratic erosion intensifies amid power politics and internal challenges",
+      "summary": "On March 5, 2026, global democracy faced severe challenges, with experts noting a \"profound erosion\" of the international rules-based order driven by great power competition and the weakening of international law. In the United States, concerns grew over incremental \"democratic erosion,\" including the narrowing of civic space and the normalization of exceptional executive power. While Nepal held general elections following recent protests, countries like Iraq struggled to maintain political stability amid regional conflict and internal governance issues, and the scramble for critical minerals fueled geopolitical competition and human rights abuses in conflict-affected states.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns grew over incremental democratic erosion and normalization of exceptional executive power."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "red",
+          "detail": "Struggled to maintain political stability amid regional conflict and internal governance issues."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Held general elections following recent protests."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Critical minerals fueled human rights abuses in this conflict-affected state."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Was impacted by the profound erosion of the international rules-based order."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East conflict paralyzes global aid, exacerbating crises in Gaza and Lebanon",
+      "summary": "March 5, 2026, presented a dire global humanitarian situation, with the WHO's largest supply hub in Dubai paralyzed by the Middle East conflict, freezing vital medical aid to 75 countries, including critical supplies for Gaza. In Gaza, 132,000 children faced malnutrition risks, and Lebanon saw 91,000 displaced by escalating hostilities and evacuation orders, severely straining aid efforts. Additionally, clashes between Afghanistan and Pakistan caused 56 civilian deaths and over 16,000 families displaced, while the US ceased significant health aid to Zimbabwe, jeopardizing critical health programs.",
+      "regions": [
+        {
+          "name": "Dubai, United Arab Emirates",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "red",
+          "detail": "WHO's largest supply hub was paralyzed, freezing vital medical aid to 75 countries."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "132,000 children faced malnutrition risks, and critical medical supplies were frozen."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "91,000 people were displaced by escalating hostilities and evacuation orders."
+        },
+        {
+          "name": "Paktika province, Afghanistan",
+          "lat": 32.5,
+          "lng": 68.6667,
+          "severity": "red",
+          "detail": "Clashes caused 56 civilian deaths and displaced over 16,000 families."
+        },
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.0534,
+          "severity": "yellow",
+          "detail": "US ceased significant health aid, jeopardizing critical health programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH68zbQEs38nkwniVw7tiZ-CX-KHFhdIcERftroXh8LN3uath-rKvTboC6c4wQ7P0Y4eRwh_2dPeFjaMjDRqb8JxSiqkmCW4UIoqsnHahpqCCn2Rqnsj1JNiTFHoQKSV1rZVFBoCFDBm-e4XzyQxMWyeIffR1b4qeIn7vSEYozFIzrir3VM3G22h1d9yvemxOWRCqttR3PK1EYzaapuE1lcB3V70EtMm1t1auKnB49fK5YyggwWtTHwNRLz1ZP2qHgobp459ecj2C9M99qDD6XQ0dxAB9-oF_JQ8S62FakaiEFPMXrRJZLQ5xUMIAqX"
+        },
+        {
+          "title": "ifrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8p8fAVNmn-H6UcGUW-GwDSnlhfuiAMqGOwOEwMCbL9ddB0GP69E7sw7CNzFeCuLqpy4rllSt1VV312w69fLEmnBgdNECfJRh45xLyXFiqqe1N8LoXFNXS8-1gg4WZLYTkTMpqDp8DN0Re6txPbNR8g1seAss0-Xi5-hn4BGaFHQrJYT16orMowh07oI_KT29J8fHe3wwwYnvlpW-"
+        },
+        {
+          "title": "amsterdamnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPlMhqkS5NCdhGRCwoNw9PixUpcIKILCWvG0TlDVlqNtaxSGSTA2pwpXKLdn1WFUpewwtNg1fB0TfyroHQ8D3GUmqZqpnuBFZyY91ijCfRuWnXMDnNu34YyxAesBfdGgYpu54y_kV2MBVsEY7XKtFgwsYR_k5k1t2p-GWeVnZa_4ujxwKQ2ra30VDthLbqmgjdCpAg_bSiwYVLMjr_nmFRkf6Pw=="
+        },
+        {
+          "title": "spsrasd.info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakeNiIye4qnIDfqtrzkhF5T5n2SongMz5yHayHRvxAQ9Imb6pHtJUBGJjWhX11s7xKLvzeXCQqFw6_GzGOtPXhuQS1XfrOeQgIjTFMkVtYDanvmJWqFbNgXOQL_T-kLvnN1Z82cSt5Df_mIw="
+        },
+        {
+          "title": "doctorswithoutborders.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMMCjWs7Q_GbNWARH0fLR9GpUkC-JlmZvbggxQ3e4O-00iPljl_KAm821_XC3UAG6owwcqUfLOKg_0nKtA17XFo7r2Gn5s-KLy78gVtNwzHdoCVmrUo-hNy04STW1XRtyXyNZOgMfNnkNB5lBR9xiKet1C-XV9fH2XiqVWYPgTCtSXXgrik1ryxJCQa-o9ffXbDE="
+        }
+      ]
+    }
+  }
+}

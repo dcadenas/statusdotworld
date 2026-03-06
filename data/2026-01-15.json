@@ -1,0 +1,447 @@
+{
+  "date": "2026-01-15",
+  "timestamp": 1772807652860,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate as US warns Iran; conflicts persist globally",
+      "summary": "Tensions surged in the Middle East with the US warning Iran amidst ongoing mass protests and a deadly government crackdown. US sanctions were imposed on Iranian officials, and a US military buildup in the region raised concerns of potential strikes, to which Iran threatened retaliation. Elsewhere, Russia gained ground in Ukraine, and civil war continued in Sudan, marking a highly unstable global peace environment.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Tensions escalated as US warned Iran amidst mass protests, a deadly crackdown, and sanctions on officials."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "yellow",
+          "detail": "Middle East tensions escalated following US warnings to Iran, contributing to broader regional instability."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Russian forces gained further ground in Ukraine, impacting Kyiv and the surrounding areas."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Ongoing global conflicts created an unstable peace environment that affected various regions, including Caracas."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The ongoing civil war continued, causing massive displacement and persistent instability in Khartoum."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran crackdown, US policies raise global human rights alarm",
+      "summary": "Iran faced severe criticism for a deadly crackdown on mass protests, an internet shutdown, and reports of thousands killed and arrested. In the United States, an Amnesty International report highlighted rising authoritarianism, threats to freedoms, and concerns over immigration enforcement and voting rights.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "A deadly government crackdown on mass protests persisted, with internet shutdowns and numerous arrests."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "An Amnesty International report highlighted rising authoritarianism and threats to freedoms within the US."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "An Amnesty International report highlighted rising authoritarianism, threats to freedoms, and voting rights concerns."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "A global human rights alarm was raised, drawing international attention from organizations in Geneva."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Global human rights concerns intensified, contributing to a worldwide alarm regarding various nations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Global warming continues, regional extreme weather events persist",
+      "summary": "The planet is on track to exceed 1.5°C of warming this decade, with 2025 being one of the hottest years on record. Severe flooding impacted Southern Africa due to intensified rainfall, while wildfires blazed in Argentinian Patagonia.",
+      "regions": [
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.9653,
+          "lng": 32.5833,
+          "severity": "red",
+          "detail": "Severe flooding impacted Maputo and the Southern Africa region due to intensified rainfall."
+        },
+        {
+          "name": "Bariloche, Argentina",
+          "lat": -41.1335,
+          "lng": -71.3103,
+          "severity": "red",
+          "detail": "Wildfires blazed across Argentinian Patagonia, directly impacting the Bariloche region."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "green",
+          "detail": "Extreme weather events persisted globally, contributing to rising climate concerns in various regions."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "green",
+          "detail": "Global warming continued, with extreme weather events persisting worldwide, impacting regions."
+        },
+        {
+          "name": "Himalayas, Nepal",
+          "lat": 27.9881,
+          "lng": 86.925,
+          "severity": "yellow",
+          "detail": "Global warming continued, contributing to ongoing climate concerns in sensitive regions like the Himalayas."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US healthcare policy shifts, global health funding concerns amid progress",
+      "summary": "The US government introduced a new healthcare plan focused on drug prices and transparency, while also revising childhood immunization schedules. Globally, disrupted health financing in Kenya impacted HIV and mental health care, though Brazil achieved a milestone by eliminating mother-to-child HIV transmission.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US government introduced a new healthcare plan and revised childhood immunization schedules."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Disrupted health financing in Nairobi severely impacted local HIV and mental health care services."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "green",
+          "detail": "Brazil achieved a major public health milestone by eliminating mother-to-child HIV transmission."
+        },
+        {
+          "name": "Yaoundé, Cameroon",
+          "lat": 3.848,
+          "lng": 11.5021,
+          "severity": "yellow",
+          "detail": "Global health funding faced concerns, impacting various regions worldwide, including Cameroon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces trade, debt, and inflation challenges",
+      "summary": "The global economy is projected for moderate growth in 2026, but faces headwinds from surging protectionism, high public debt, and persistent inflation, particularly affecting developing economies. The US economy is expected to see solid growth, supported by AI investment and fiscal stimulus, while Europe's growth outlook is weaker.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy was projected for solid growth, supported by AI investment and fiscal stimulus."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Europe's economic growth outlook remained weaker, impacting the region centered around Brussels."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "Developing economies like India faced headwinds from protectionism, high public debt, and persistent inflation."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The global economy faced headwinds from trade, debt, and inflation, affecting major economic hubs like Beijing."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The US economy, including its financial hub in New York, was projected for solid growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Democracy under pressure globally amid protests, authoritarianism",
+      "summary": "Iran's government continued its violent crackdown on widespread protests, accompanied by internet shutdowns and accusations of censorship. In the US, concerns intensified over rising authoritarian practices, threats to free speech, and potential voter suppression ahead of midterm elections.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The government continued a violent crackdown on protests, with internet shutdowns and censorship accusations."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns intensified in Washington D.C. over rising authoritarian practices and threats to free speech."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Concerns over rising authoritarian practices and threats to free speech intensified across the US."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Democracy globally remained under pressure, with concerns over authoritarianism impacting various regions."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Democracy globally remained under pressure amid widespread concerns over authoritarianism and conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Multiple crises exacerbate global humanitarian needs, aid shortfalls",
+      "summary": "Humanitarian crises deepened in several regions, with civil war causing massive displacement in Sudan and conflict impacting civilians in eastern Democratic Republic of Congo. Aid organizations faced severe funding shortfalls in West Africa following US aid cuts, further straining responses to complex emergencies.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Humanitarian crises deepened, exacerbating needs and impacting civilians in the Gaza City region."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Civil war in Khartoum continued, causing massive displacement and deepening humanitarian needs."
+        },
+        {
+          "name": "Goma, Democratic Republic of Congo",
+          "lat": -1.6784,
+          "lng": 29.2286,
+          "severity": "red",
+          "detail": "Conflict in eastern DRC impacted civilians, leading to deepened humanitarian crises around Goma."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Aid organizations in West Africa, including Abuja, faced severe funding shortfalls after US aid cuts."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Humanitarian crises deepened due to ongoing conflicts and government crackdowns on protests in Tehran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJ8h6fF_9HdoGfrec9IlUW7EGT8Wy4JIKE0Xsp8sGIgR8xjmPCLkiYaOWMX9ItGuRC0nmu2yjT8emkrWTWesSwOSU9_NWAJcUE54PrIMWOjM5Pnq7-Jl016rVrYGjFwEhfXmVilMNa7-OZFCYCxFlR2hoQYhf-aeodYHtqQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgJ-9xcjHD9sU17WMsDcFdtI5YNa03VfdqtLmDZWn4CTlAMjKzO_aWsRYbVUtAlVvSFVcB57i-zIwdoH6C7YtCU0aAAO_uph9-eFhBsHfvKfxYHQcbUMI1bdl2s99zuekTV9JQDA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6Gwh9-jeqnyKOtzWPK_SDuuz01aRUZYWzzm6p6fSNK-5EM3ccP4ftbOXpcsTIDTci_StzfAzziUMpY8A3v-nBeuMhS7ZCLSBZyjng4EbFyLUFV9GQrLP_sbcEw92roOrxl8luZQ="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISKd5KH6g0CxtOBSR-bdQc7DZe3W17VkWbjlK16iVIvqx0VRqUx4WqobV9_7rfMZIbOwzykaKMQq_fBRN0V_DpF2ZBwbYHvW6pkYQ6_fBmvtbbHv_JkUG7YH9k-1oAxHSi4AHiQwWeCkQ-J5hhRm58XUR7Yv398AJ5dgkQUA="
+        },
+        {
+          "title": "jewishdallas.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzI2AkaDw8DZa6KS7vhADt54qOrF4VbOqtKSEk6EDD8aFjDUqqJUJWvQJiJdkdgJfwp09xyJ8YTAA9pz9AMIy-NRNF67ajPxBm_iDUPgAmbyvAm0o9UEy0_nh09Nrfavat0upYSTGzH_b3Xib8xFkmAn3CGvSNSgfmoiQ="
+        }
+      ]
+    }
+  }
+}

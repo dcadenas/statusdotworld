@@ -1,0 +1,384 @@
+{
+  "date": "2025-12-16",
+  "timestamp": 1772806225454,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate; Gaza ceasefire fragile, Ukraine battles intensify",
+      "summary": "The global peace situation deteriorated with ongoing conflicts. European leaders proposed a multinational force for Ukraine, but heavy clashes persisted in areas like Huliaipole and Constantinfka. The Gaza ceasefire remained fragile with continued attacks, and the ICC upheld war crimes arrest warrants for Israeli leaders.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "A fragile ceasefire persisted amid continued attacks in the Gaza Strip."
+        },
+        {
+          "name": "Huliaipole, Ukraine",
+          "lat": 47.65,
+          "lng": 36.26,
+          "severity": "red",
+          "detail": "Heavy clashes persisted in Huliaipole as battles intensified."
+        },
+        {
+          "name": "Constantinfka, Ukraine",
+          "lat": 47.93,
+          "lng": 37.78,
+          "severity": "red",
+          "detail": "Heavy clashes persisted in Constantinfka as battles intensified."
+        },
+        {
+          "name": "Tuqu', West Bank, Palestine",
+          "lat": 31.63,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "An Israeli military raid in Tuqu' resulted in the death of a Palestinian teenager."
+        },
+        {
+          "name": "Uvira, Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.13,
+          "severity": "yellow",
+          "detail": "Clashes near Uvira in South Kivu suspended aid activities, displacing thousands."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Human rights concerns rise in Hong Kong, Palestine, and Afghanistan",
+      "summary": "A pro-democracy media figure in Hong Kong was found guilty under a Beijing-imposed national security law. In the occupied West Bank, an Israeli military raid resulted in the death of a Palestinian teenager and settler violence intensified. Afghanistan continued to see an accelerating erosion of fundamental rights, particularly for women and girls, with bans on education and restrictions on media freedom.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.31,
+          "lng": 114.17,
+          "severity": "red",
+          "detail": "A pro-democracy media figure in Hong Kong was found guilty under a national security law."
+        },
+        {
+          "name": "Tuqu', West Bank, Palestine",
+          "lat": 31.63,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "An Israeli military raid in Tuqu' resulted in the death of a Palestinian teenager."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "Fundamental rights eroded in Kabul with bans on education and restricted media freedom."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Severe weather and record temperatures worsen global climate crisis",
+      "summary": "December 2025 was recorded as the fifth-warmest December globally, with Arctic sea-ice extent the lowest on record. Severe winter storms caused widespread flooding and destruction in the Gaza Strip, leading to fatalities and displacing thousands. Catastrophic floods also impacted Western Washington in the U.S., attributed to climate change.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Severe winter storms caused widespread flooding, destruction, fatalities, and displacement in Gaza."
+        },
+        {
+          "name": "Western Washington, United States",
+          "lat": 47.3,
+          "lng": -122,
+          "severity": "red",
+          "detail": "Catastrophic floods, attributed to climate change, impacted Western Washington."
+        },
+        {
+          "name": "Arctic Region",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Arctic sea-ice extent was recorded as the lowest on record."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "COVID and flu rise in US; health crises deepen in conflict zones",
+      "summary": "The United States experienced a clear increase in COVID-19 spread and rising flu cases across most regions. Public health crises deepened in conflict areas like Gaza, where severe winter storms exacerbated health risks and led to shortages of clean water and medical care. In Afghanistan, the health system was buckling with hundreds of facilities closed, cutting off millions from care.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.82,
+          "lng": -98.58,
+          "severity": "yellow",
+          "detail": "The United States saw a clear increase in COVID-19 spread and rising flu cases."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Severe winter storms exacerbated health risks and caused shortages of water and medical care in Gaza."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "The health system in Kabul buckled, closing hundreds of facilities and cutting millions from care."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.28,
+          "lng": 36.82,
+          "severity": "green",
+          "detail": "No specific public health event was detailed for Nairobi in the assessment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy slows; US Fed cuts rates amid market volatility",
+      "summary": "Global economic growth was projected to slow to 2.6% in 2025, pressured by financial volatility and geopolitical uncertainty. The US Federal Reserve cut rates by 25 basis points for the third time this year due to a softening jobs market, causing initial market gains followed by pullbacks. Foreign direct investment in developing economies continued to decline, while the Chinese market experienced a significant sell-off.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.82,
+          "lng": -98.58,
+          "severity": "yellow",
+          "detail": "The US Federal Reserve cut rates by 25 basis points due to a softening jobs market."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.31,
+          "lng": 114.17,
+          "severity": "yellow",
+          "detail": "Hong Kong experienced a significant sell-off in the broader Chinese market."
+        },
+        {
+          "name": "Developing Economies (Global)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Foreign direct investment in developing economies continued to decline."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic backsliding and institutional challenges noted globally",
+      "summary": "In Hong Kong, a prominent pro-democracy media figure was found guilty under the national security law, highlighting shrinking civil liberties. Ongoing reports warned of rapid democratic backsliding in the United States, citing concerns over executive power expansion and due process violations. Latin American democracies faced institutional credibility crises and persistent challenges to electoral integrity.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.31,
+          "lng": 114.17,
+          "severity": "red",
+          "detail": "A pro-democracy media figure in Hong Kong was found guilty under the national security law."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "Reports warned of democratic backsliding in the US, citing executive power concerns."
+        },
+        {
+          "name": "Latin America (General)",
+          "lat": -14.6,
+          "lng": -57.6,
+          "severity": "yellow",
+          "detail": "Latin American democracies faced institutional credibility crises and challenges to electoral integrity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Severe crises in Gaza, DR Congo, Afghanistan amid funding cuts",
+      "summary": "Humanitarian conditions deteriorated significantly in Gaza due to severe weather, floods, and restricted aid access, with aid cargo often deprioritized. In the Democratic Republic of Congo, clashes in South Kivu suspended aid activities, displacing over 100,000 people. Afghanistan faced surging humanitarian needs and massive funding cuts, leaving millions food insecure and without essential health services.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian conditions in Gaza deteriorated due to severe weather, floods, and restricted aid access."
+        },
+        {
+          "name": "South Kivu, Democratic Republic of Congo",
+          "lat": -3,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "Clashes in South Kivu suspended aid activities and displaced over 100,000 people."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "Kabul faced surging humanitarian needs and funding cuts, leaving millions food insecure."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15.6,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "No specific humanitarian event was detailed for Sudan in the assessment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuo1NwKNpfxiK6e5WooYCT6s_KUbU-7nnVtCdzq8nSPjv-ZEGzEuGdWBxu9r_QmJL2Jy1-debgZNRbklXFbry7LnhfHMjWabmWIXFYRKEiYnnLjZXp2edQy4aBB2VauYttg27SS8In-T_mq0cWla4Y0BdAudwCENetcCqlK12TNgSuvKl6hatD8a8L2PfGkarFVsb7BkfGs4dgC7IccE44og=="
+        },
+        {
+          "title": "wng.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2xO6uYBe4l9mHOd8PYJzUyMZ-QzTHqrxCUmKxhr5Yk8MZD17HnOkJ6HHv2uFCs2wGnuBJcX-4belWBsw0bPUr_-p5pOVzksjCUPG_kuwDxDiIQlr83Q1XsmMluDT8SIDnxiiSyOXfRm8vU-QHxfhOVE7FoX1WKNbjN9y06RHH5NzKWLU="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDZtn-LFBDyciUL10kNSFmmH4unPY5KQms5MShJIyvt8v3nqTAcXteil10FfqgsTkX2lCPPB5U_vV7EwMXQlrekR0OYyU9z1w9fLMWeOAiMPjTOn6dOoC3nKKKrkHSmTR7VcrDT4aSf16vHqo2nXapIjOzuP1oW22VMd6ik_R4SiDYYxyApJnkP9xeEbxSK6ThHa1YzKRS8Q-xiNuy_rV6XTI-Bftj37uLUbBal948aIRBcKI2NwJSQ_vneScw5GYsjU="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGDRhOVktnbXx-VU5P4NcKynyl7edrYjB0-qnmmaBYhpssl1UzZTY6vMcINWSndDEbBcCY4Fd_6tqU_DQjN98QV-e2jmYnbZOi165lzg3gVcSR_fgh7frUP1sgyimwqCH9H54sXI="
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgVM4VI-D8KhxWepVveiTHGlgdZGNptRe18e2WbztTGK3hTMqIQ_3eIV73C_ZVpmCsPUMQpQTn1sJHNHOD-uZl68_eww8msSx4cGudCYCRFhR2NPfmXeKi-DAtg_na1Ek9G72f8-jKOR5FHNnF3A4ofSd89nrT5h4g6WcjUU="
+        }
+      ]
+    }
+  }
+}

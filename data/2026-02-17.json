@@ -1,0 +1,384 @@
+{
+  "date": "2026-02-17",
+  "timestamp": 1772809292551,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East war escalates; Sudan, Ukraine, Nigeria see intensified conflicts.",
+      "summary": "On February 17, 2026, the Middle East faced a multi-front war following US-Israeli strikes on Iran and subsequent Iranian retaliation against Israel and countries hosting US military facilities. Sudan experienced deadly airstrikes, while Russia conducted large-scale attacks on Ukraine, causing casualties and infrastructure damage. Additionally, communal conflicts in Nigeria resulted in 34 deaths and village destruction by militants.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US-Israeli strikes hit Iran, leading to Iranian retaliation against Israel and US facilities."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Iran retaliated against Israel following US-Israeli strikes on Iran and its allies."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The city experienced deadly airstrikes amid intensified conflicts."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Russia launched large-scale attacks, causing casualties and infrastructure damage."
+        },
+        {
+          "name": "Kebbi State, Nigeria",
+          "lat": 11.53,
+          "lng": 4,
+          "severity": "red",
+          "detail": "Communal conflicts resulted in 34 deaths and village destruction by militants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Conflict gravely impacts maternal health; Gaza aid and evacuations remain limited.",
+      "summary": "The World Health Organization reported on February 17, 2026, that conflict and instability contribute to nearly two-thirds of global maternal deaths, increasing a woman's risk fivefold. In Gaza, medical evacuations continued in limited numbers, with only 260 patients transferred out of 18,500 needing external treatment. Doctors Without Borders (MSF) also announced that restrictions have prevented them from delivering humanitarian aid to the Gaza Strip since early 2026.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "Limited medical evacuations continued, and humanitarian aid delivery faced severe restrictions."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Conflict and instability were reported to cause nearly two-thirds of global maternal deaths."
+        },
+        {
+          "name": "Jonglei, South Sudan",
+          "lat": 7.79,
+          "lng": 31.25,
+          "severity": "red",
+          "detail": "Escalating violence and conflict conditions severely impacted human rights and maternal health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Fatal avalanche in California; climate conferences address global sustainability.",
+      "summary": "On February 17, 2026, a deadly avalanche on the Donner Pass northwest of Lake Tahoe, California, killed eight backcountry skiers. Concurrently, the GreenBiz 26 conference in Phoenix, Arizona, gathered corporate sustainability leaders to discuss advancing circular systems and climate strategy. Preparations were also underway for the 2026 UN Climate Change Conference (COP31) to be hosted in Antalya, Turkey.",
+      "regions": [
+        {
+          "name": "Donner Pass, California, United States",
+          "lat": 39.34,
+          "lng": -120.32,
+          "severity": "red",
+          "detail": "A deadly avalanche killed eight backcountry skiers."
+        },
+        {
+          "name": "Phoenix, Arizona, United States",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "green",
+          "detail": "The GreenBiz 26 conference discussed advancing circular systems and climate strategy."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "green",
+          "detail": "Preparations were underway to host the 2026 UN Climate Change Conference (COP31)."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO warns of pregnancy risks in conflict; US health agencies face public trust issues.",
+      "summary": "On February 17, 2026, the WHO issued a report highlighting that almost two-thirds of global maternal deaths occur in countries affected by conflict or fragility, making pregnancy significantly more dangerous. In the US, the Department of Health and Human Services underwent a personnel shakeup, while public confidence in the leaders of federal health agencies was found to be lower than in their career scientists. Congressional discussions also focused on healthcare affordability and fraud.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The WHO reported conflict causes almost two-thirds of maternal deaths worldwide."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The HHS underwent a personnel shakeup; public confidence in federal health leaders was low."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US jobs grow strongly, but global economy faces tariff and geopolitical risks.",
+      "summary": "On February 17, 2026, the US economy reported a robust addition of 130,000 jobs in January and a decrease in the unemployment rate to 4.3%. However, the global economic outlook was shadowed by uncertainties arising from new US tariffs and broader geopolitical tensions. Iran's temporary closure of the Strait of Hormuz during military exercises also underscored potential risks to crucial international shipping routes.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy added 130,000 jobs in January, and unemployment dropped to 4.3%."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "yellow",
+          "detail": "Iran temporarily closed the strait during military exercises, risking international shipping routes."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "The city's economy faced global uncertainties due to new US tariffs and geopolitical tensions."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The city's economy faced global uncertainties due to new US tariffs and geopolitical tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US primaries kick off; UK addresses election security; Kyrgyzstan power shift raises concerns.",
+      "summary": "On February 17, 2026, early voting commenced for the 2026 Texas primaries, marking the start of the US midterm election cycle, with high-profile endorsements being made. In the UK, the Welsh Government discussed election security and foreign interference during an Inter-Ministerial Standing Committee meeting. Meanwhile, in Kyrgyzstan, a presidential consolidation of power raised serious questions about the nation's political stability and future democratic balance.",
+      "regions": [
+        {
+          "name": "Dallas, Texas, United States",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "green",
+          "detail": "Early voting for the 2026 Texas primaries commenced, marking the start of the US midterm cycle."
+        },
+        {
+          "name": "Cardiff, Wales, United Kingdom",
+          "lat": 51.4816,
+          "lng": -3.1791,
+          "severity": "green",
+          "detail": "The Welsh Government discussed election security and foreign interference during a committee meeting."
+        },
+        {
+          "name": "Bishkek, Kyrgyzstan",
+          "lat": 42.8746,
+          "lng": 74.5698,
+          "severity": "yellow",
+          "detail": "A presidential consolidation of power raised concerns about the nation's democratic balance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid delivery restricted; South Sudan humanitarian crisis escalates amid violence.",
+      "summary": "On February 17, 2026, Doctors Without Borders (MSF) reported that it had been unable to deliver humanitarian aid to the Gaza Strip since the beginning of the year due to imposed restrictions. In South Sudan, escalating violence and fighting between the SSPDF and SPLM-IO since late December 2025 severely disrupted humanitarian operations, leading to aid worker killings, looting of supplies, and widespread displacement. Additionally, an ambulance and humanitarian bread delivery vehicle were damaged by drone strikes in Ukraine.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "MSF reported inability to deliver humanitarian aid since early 2026 due to imposed restrictions."
+        },
+        {
+          "name": "Jonglei, South Sudan",
+          "lat": 7.79,
+          "lng": 31.25,
+          "severity": "red",
+          "detail": "Escalating violence severely disrupted humanitarian operations, leading to aid worker killings and displacement."
+        },
+        {
+          "name": "Kharkiv Oblast, Ukraine",
+          "lat": 49.75,
+          "lng": 36.5,
+          "severity": "yellow",
+          "detail": "An ambulance and humanitarian bread delivery vehicle were damaged by drone strikes."
+        },
+        {
+          "name": "Upper Nile, South Sudan",
+          "lat": 9.5,
+          "lng": 32.5,
+          "severity": "red",
+          "detail": "Escalating violence severely disrupted humanitarian operations, leading to aid worker killings and displacement."
+        },
+        {
+          "name": "Saint Petersburg, Russia",
+          "lat": 59.9343,
+          "lng": 30.3351,
+          "severity": "yellow",
+          "detail": "The city's country was involved in ongoing conflicts with humanitarian consequences in Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNoRbZlVyAXFbN16PQ7PQ-4Txf9YLV-CNohrqsbdVleMTPWmzY0woHJIFvmHrhtgAPAFr74f9qT7vMmyQmYMRHUsgKFIGmuwHP2iBjMZA78Bw1qdpUFyNNkijtk2uraH1En9mj0k9c8dHAOwVvYkD5UNhQpHTAzaDIFBqDeQ=="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqtbVF2igm105ygr1jn2TJ1VSvfA5MlArg4ROsKMJo61tpzcdDSINlySVg4PEa5VdeguE3qa3TOZQBMXU9j2cgvXYR023HZ8q4jKc9L2N0eAkebKiQj5ijjwAACnqc8yOpaI9tSdSwrVjTzvQGjQdQmaHwS2Hi5F5QilWfrEgKuNpsnPFQJJtwnuBFWpGxSmkej0-hI0p_WDtVG1EHDcuzdunZ5CNHRaRVdC1b2bjV8E2iadw0n4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9L2j35ktLqMeYJAzfkcRRy1VDLfbOK4tv7Kh467r5PVA5apEIuw14rhDxp8Ge4Yj-l-yCCxcPPTffaQyBAhmJ2LnsTm1bvnQl0laC1rJ9LvqLeCIl88EILpJEz0wzlubPetLVjeZ4ykUWtt8kAcrgc5aTutHar-jWRtDIxffltAeO-Cftd14="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyDJ-doiGtZtLnw7KxPPv-z3-G0hKrPB1mX6s9YrkfiIQNkDqu8QIKgt3iX1s3PfGCqrw6bun6N2BdbUjY8t-T5WB5qE3GKPZHhARwghSFDPkZtWcGIh9IF1BjTeM-Lpor9Clq67RdrannrNx4RWIP_GIvmK1vWwTfZWqasik="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqB-1tChAmUrGYZvH_2zxOBN1Gb6MtJlYkXkBE4msRznXEk4hlhHi54okpWkj9Ef74fkQ4oLvB-GGyvn0XbIRR26munELVkoBLumsyulk0IDiPNXPwdnlr9ur364hl53yPv8ByFDo="
+        }
+      ]
+    }
+  }
+}

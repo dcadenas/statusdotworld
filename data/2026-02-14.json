@@ -1,0 +1,426 @@
+{
+  "date": "2026-02-14",
+  "timestamp": 1772809191379,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran tensions escalate; Ukraine war persists with diplomacy and drones.",
+      "summary": "Geopolitical tensions are heightened with reports of a U.S. military buildup in the Middle East and readiness for potential strikes against Iran, escalating risks of conflict. Meanwhile, peace talks for the Ukraine war continue in Geneva, reflecting a 'diplomacy under fire' model, even as fighting persists and new drone technologies are developed and deployed. UN Secretary-General Guterres addressed the AU Summit, highlighting the ongoing conflict model.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "US military buildup and readiness for potential strikes against Iran escalated conflict risks."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Fighting persisted and new drone technologies were developed and deployed in the ongoing war."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Peace talks for the Ukraine war continued, reflecting a 'diplomacy under fire' model."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faced escalating risks of conflict due to a US military buildup and potential strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Bangladesh elections face human rights concerns; Kosovo trials stir protests.",
+      "summary": "In Bangladesh, preliminary statements on parliamentary elections by the EU EOM highlighted concerns over limited political space for women and sporadic localized political violence harming the democratic process. Separately, Kosovo war crimes trials continued to spark mass mobilization, demonstrating ongoing tensions related to transitional justice and national narratives. The UN Secretary-General also broadly noted human rights abuses in critical mineral supply chains.",
+      "regions": [
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Concerns were highlighted over limited political space for women and localized violence in parliamentary elections."
+        },
+        {
+          "name": "Pristina, Kosovo",
+          "lat": 42.6629,
+          "lng": 21.1655,
+          "severity": "yellow",
+          "detail": "War crimes trials continued to spark mass mobilization and related tensions."
+        },
+        {
+          "name": "Gaza Strip, Palestinian Territories",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "red",
+          "detail": "Human rights concerns persisted in the region amidst ongoing conflict and humanitarian challenges."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "green",
+          "detail": "UN Secretary-General Guterres, at the AU Summit, broadly noted human rights abuses in mineral supply chains."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "US faces severe weather; Trump administration repeals key climate rule.",
+      "summary": "The United States is experiencing significant extreme weather, with heavy rainfall, severe thunderstorms, and potential tornadoes across the South, and heavy snow in the Sierra Nevada. A major development in climate policy saw the Trump administration repeal a landmark EPA endangerment finding, removing the basis for federal greenhouse gas regulations. Reports also highlight that economic models are underpricing climate risks.",
+      "regions": [
+        {
+          "name": "Texas, United States",
+          "lat": 31,
+          "lng": -100,
+          "severity": "red",
+          "detail": "The state experienced significant extreme weather, including heavy rainfall, severe thunderstorms, and potential tornadoes."
+        },
+        {
+          "name": "California, United States",
+          "lat": 37,
+          "lng": -120,
+          "severity": "red",
+          "detail": "The Sierra Nevada region experienced heavy snow as part of significant extreme weather."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration repealed an EPA endangerment finding, removing the basis for federal greenhouse gas regulations."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Reports indicated economic models were underpricing climate risks, a significant concern for global financial hubs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Mpox recombinant strain and avian flu reported; TB cases rise in Malaysia.",
+      "summary": "The World Health Organization reported on February 14th two cases of a recombinant mpox virus strain in the United Kingdom and India, indicating an evolving viral landscape. Concurrently, a new human case of avian influenza A(H5N1) was confirmed in Kampot province, Cambodia. In Malaysia, confirmed tuberculosis cases surpassed 3,100, drawing renewed attention to regional infectious disease trends, though experts note it's part of a broader regional phenomenon.",
+      "regions": [
+        {
+          "name": "Kampot, Cambodia",
+          "lat": 10.6125,
+          "lng": 104.1802,
+          "severity": "yellow",
+          "detail": "A new human case of avian influenza A(H5N1) was confirmed."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Confirmed tuberculosis cases surpassed 3,100, highlighting regional infectious disease trends."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Two cases of a recombinant mpox virus strain were reported by the WHO."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Two cases of a recombinant mpox virus strain were reported by the WHO."
+        },
+        {
+          "name": "Atlanta, United States",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "Public health organizations globally monitored evolving viral landscapes, relevant to disease surveillance centers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth steady but faces tariff and geopolitical uncertainties.",
+      "summary": "The global economy is projected for steady growth in 2026, according to the IMF and ACCA, but faces considerable uncertainties from evolving trade policies and escalating geopolitical tensions. The U.S. Supreme Court struck down broad tariffs, though the administration quickly implemented new ones, creating ongoing business uncertainty. Oil prices also jumped on geopolitical fears, adding to market volatility.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. Supreme Court struck down broad tariffs, though the administration quickly implemented new ones."
+        },
+        {
+          "name": "Middle East",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "Oil prices jumped due to escalating geopolitical fears stemming from the region."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy faced considerable uncertainties from evolving trade policies and geopolitical tensions."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Evolving trade policies created considerable uncertainty, impacting global economic projections and market volatility."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Evolving trade policies and global economic uncertainties were key concerns for the EU's economic center."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US debates voter ID laws; Bangladesh elections spark democracy concerns.",
+      "summary": "In the United States, the House passed the SAVE America Act, aiming to impose stricter proof-of-citizenship requirements for voting, which critics argue could disenfranchise millions and centralize federal power over elections. Concurrently, the EU EOM presented preliminary findings on Bangladesh's parliamentary elections, noting a credible process but also concerns regarding limited political space for women and incidents of political violence. UN Secretary-General Guterres called for reforms of global institutions, including the absence of permanent African seats on the Security Council.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The House passed the SAVE America Act, aiming to impose stricter proof-of-citizenship requirements for voting."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "The EU EOM presented preliminary findings on parliamentary elections, noting concerns over political space and violence."
+        },
+        {
+          "name": "Harrisburg, Pennsylvania, United States",
+          "lat": 40.2732,
+          "lng": -76.8837,
+          "severity": "yellow",
+          "detail": "Debates over stricter voter ID laws and federal power over elections were key concerns across the U.S."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "UN Secretary-General Guterres called for global institution reforms at the AU Summit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "WHO seeks $1 billion for 36 global emergencies amidst declining aid.",
+      "summary": "The World Health Organization's 2026 global appeal, launched earlier in February, highlighted an ongoing need for nearly $1 billion to address 36 health emergencies across the globe. This appeal, a response to protracted conflicts, climate impacts, and disease outbreaks, underscores significant humanitarian needs in various priority regions, including the occupied Palestinian territory and Ukraine. Discussions at the African Union Summit on February 14 also emphasized declining international health financing amidst these crises.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The WHO appealed for nearly $1 billion to address 36 global health emergencies."
+        },
+        {
+          "name": "Gaza Strip, Palestinian Territories",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "red",
+          "detail": "The region was highlighted as having significant ongoing humanitarian needs in WHO's global appeal."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The region was highlighted as having significant ongoing humanitarian needs in WHO's global appeal."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "Discussions at the African Union Summit emphasized declining international health financing amidst global crises."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "Significant humanitarian needs persisted in the region, falling under WHO's global appeal for health emergencies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mackinderforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDp1KVuCmupmmHuPpLzEn3zHpAdXf_N2YbGXCC_kFCnawQx-znYg08heYkb17Yg4Thk_LYcKl9G6u1uk4F4uIjxPLVoJprnz-sd0T5xaOGmVx7kqFUr15_652m2VuiPUd8idD33EAiJ4GpSRse_2OD3jcflBkqZZO6oUiSS2eTWx4Y5JO1zIj8AeoWGEcaLKtdtFp89nNslpQqmtzW4RvLEfB"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKspP4T5H8vCB0QBJIMSByc5GZ8gOUZG66pfpZI2gjF15HCliHxPX_PB19ioJjSOfxXketZiNdY_SrP5d33eyq7MbZtlkIrTVPvN2Lu5al2_8pOZyhVifBRfHpGEQeqIjyTOeUVOu6lbigyc9GGQ97xCLgVsg="
+        },
+        {
+          "title": "defense-update.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CgI1kYLCs6wSgLSduHcLHd8F5-ICEgGkKFdU1TPs6sLT21ggwHt82Opx5sJkObPXkGpIzK1jABZmV-P5aGQCK81IZrUenBPHdC4TwEwl3_HEhNV9rm3EJMrrsC_PP9u7wFTYQdT9LN21AiwMNvny3VnoosuiS0l_D2w="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBxp5FXO7t6XGkqMwbNNxmcufQOXzcjPcGgCsbLT9falqrhEyc3AVloewx56Wrd9pWk_eN7P5rk4w7ktic3-IIOWyIefhREFZhEZPvJZAjGWPrIaztuLtrxgJPJAAHnCMYKWRBwffXs6rRTsOMQ594v8JJl0NL37b8Mkaxbyr3MXtpPjGjaqO"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVXPlcqFUkIwwOgRwN2kDAFqesqn8uaSZxgrwCFAxJ_L-ReuJdKKZrycPoqPprTsk6m4fcFi3cQ8mlFlxwAvXJUJqxoVFwddptLulc_8GAjor40yg_6okQsoPQfbTps4p0RNmSIGo="
+        }
+      ]
+    }
+  }
+}

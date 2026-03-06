@@ -1,0 +1,450 @@
+{
+  "date": "2025-12-31",
+  "timestamp": 1772806909336,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts escalate, with major wars ongoing across multiple regions.",
+      "summary": "2025 has seen a record number of conflicts since World War II, causing increased global instability. The Russia-Ukraine war entered its fourth year with intensified ground attacks, while the Israel-Hamas war in Gaza saw renewed bloody clashes after a ceasefire collapsed. Other significant conflicts raged in Sudan, Democratic Republic of Congo, and Myanmar.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red"
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49,
+          "lng": 32,
+          "severity": "red",
+          "detail": "The Russia-Ukraine war entered its fourth year with intensified ground attacks."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.55,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "A significant conflict raged in Sudan, impacting the capital region."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": 0,
+          "lng": 25,
+          "severity": "red",
+          "detail": "A significant conflict continued to rage across the nation."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 20,
+          "lng": 96,
+          "severity": "red",
+          "detail": "A significant conflict continued to rage across the nation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human rights under severe attack globally amidst funding cuts and conflicts.",
+      "summary": "2025 has been a difficult year for human rights, marked by funding cuts, increased repression, and ongoing abuses in conflict zones. The UN Human Rights Chief noted that human rights are \"underfunded, undermined, and under attack,\" while profits for the arms industry soar and humanitarian aid plummets. Allegations of abuse of migrant workers were widespread globally.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red"
+        },
+        {
+          "name": "Iran",
+          "lat": 32,
+          "lng": 53,
+          "severity": "red",
+          "detail": "The region experienced increased repression and human rights abuses."
+        },
+        {
+          "name": "Saudi Arabia",
+          "lat": 23.88,
+          "lng": 45.07,
+          "severity": "yellow",
+          "detail": "Widespread allegations of migrant worker abuse were reported globally."
+        },
+        {
+          "name": "Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "yellow",
+          "detail": "Widespread allegations of migrant worker abuse were reported globally."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Human rights were under severe attack, with concerns about repression."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate shocks and extreme weather continued to affect millions globally in 2025.",
+      "summary": "East Asia and the Pacific remained the world's most disaster-prone region in 2025, experiencing climate shocks, disease outbreaks, and conflict affecting tens of millions. Floods, typhoons, earthquakes, and drought drove large-scale displacement, with children facing the highest climate risk globally. The health impacts of climate change also remained a top public health challenge.",
+      "regions": [
+        {
+          "name": "East Asia and Pacific",
+          "lat": 0,
+          "lng": 120,
+          "severity": "yellow",
+          "detail": "Remained the world's most disaster-prone region, facing climate shocks and disease."
+        },
+        {
+          "name": "Viet Nam",
+          "lat": 16,
+          "lng": 108,
+          "severity": "yellow",
+          "detail": "Experienced climate shocks, disease outbreaks, and large-scale displacement."
+        },
+        {
+          "name": "Minas Gerais, Brazil",
+          "lat": -19,
+          "lng": -44,
+          "severity": "green",
+          "detail": "The region was affected by various climate shocks and extreme weather events."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "green",
+          "detail": "The region was affected by various climate shocks and extreme weather events."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.28,
+          "lng": 36.82,
+          "severity": "green",
+          "detail": "The region was affected by various climate shocks and extreme weather events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health sees mixed progress, challenged by funding cuts and outbreaks.",
+      "summary": "2025 brought both breakthroughs and strains in global health. While several countries achieved milestones in eliminating infectious diseases and expanding vaccine access, significant funding cuts, conflict, and climate shocks strained health systems worldwide. This led to disruptions in essential services, particularly in countries like Gaza, Sudan, and Ukraine, and a surge in diseases such as cholera, measles, and mpox in Africa.",
+      "regions": [
+        {
+          "name": "Maldives",
+          "lat": 3.2,
+          "lng": 73.22,
+          "severity": "green",
+          "detail": "Achieved milestones in eliminating infectious diseases or expanding vaccine access."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.24,
+          "lng": -51.92,
+          "severity": "green",
+          "detail": "Achieved milestones in eliminating infectious diseases or expanding vaccine access."
+        },
+        {
+          "name": "Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Experienced a surge in diseases like cholera, measles, and mpox."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red"
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Health systems worldwide faced strains due to funding cuts and global challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economic growth slows amidst geopolitical tensions and rising protectionism.",
+      "summary": "Global economic growth is expected to ease to 2.6% in 2025, down from 2.8% in 2024, largely due to ongoing geopolitical tensions and rising protectionist policies. The US and China are experiencing slower growth, while the eurozone also faces subdued growth, with Germany in modest recovery after a recession. Executives are closing 2025 with more confidence, but trade policy changes and supply chain disruptions remain concerns.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Experienced slower economic growth amidst global geopolitical tensions."
+        },
+        {
+          "name": "China",
+          "lat": 35.86,
+          "lng": 104.19,
+          "severity": "yellow",
+          "detail": "Experienced slower economic growth amidst global geopolitical tensions."
+        },
+        {
+          "name": "Eurozone",
+          "lat": 50.11,
+          "lng": 8.68,
+          "severity": "yellow",
+          "detail": "Faced subdued economic growth, with Germany in modest recovery."
+        },
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "green",
+          "detail": "Economic growth eased amidst a global slowdown and geopolitical tensions."
+        },
+        {
+          "name": "Mexico",
+          "lat": 23.63,
+          "lng": -102.55,
+          "severity": "yellow",
+          "detail": "Economic growth eased amidst a global slowdown and geopolitical tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic backsliding and press freedom under attack globally.",
+      "summary": "2025 saw a pattern of democratic backsliding, restrictive civic space, and electoral violence in various countries. Press freedom was particularly challenged, with a significant increase in threats to media freedom and 148 journalists held in detention across Europe. Efforts to undermine voting rights and eliminate checks and balances also remained concerns.",
+      "regions": [
+        {
+          "name": "Myanmar",
+          "lat": 20,
+          "lng": 96,
+          "severity": "red",
+          "detail": "Experienced democratic backsliding, restrictive civic space, and electoral violence."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.52,
+          "lng": 105.31,
+          "severity": "red",
+          "detail": "Experienced democratic backsliding, restrictive civic space, and electoral violence."
+        },
+        {
+          "name": "Türkiye",
+          "lat": 38.96,
+          "lng": 35.24,
+          "severity": "yellow",
+          "detail": "Experienced democratic backsliding, restrictive civic space, and electoral violence."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "Faced efforts to undermine voting rights and eliminate checks and balances."
+        },
+        {
+          "name": "Europe",
+          "lat": 48,
+          "lng": 15,
+          "severity": "yellow",
+          "detail": "Press freedom was challenged, with 148 journalists held in detention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen globally amid escalating needs and funding shortfalls.",
+      "summary": "Humanitarian needs significantly increased in 2025 due to ongoing conflicts, climate shocks, and large-scale displacement, particularly in Gaza, Sudan, Myanmar, and Afghanistan. Despite a US commitment of $2 billion in humanitarian assistance to 17 crisis-affected countries, funding shortfalls remained a critical issue, leading to service disruptions and increased risks for vulnerable populations.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red"
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.94,
+          "lng": 67.71,
+          "severity": "red",
+          "detail": "Humanitarian needs significantly increased due to conflict and climate shocks."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15.55,
+          "lng": 32.53,
+          "severity": "red",
+          "detail": "Humanitarian needs significantly increased due to conflict and climate shocks."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 20,
+          "lng": 96,
+          "severity": "red",
+          "detail": "Humanitarian needs significantly increased due to conflict and climate shocks."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": 0,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Humanitarian needs significantly increased due to ongoing conflict and displacement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM82fowVtigx23i9VJ-qzdBeCRa2mdCcstB3BSNfdEiAQt546K7zLdurEup2d5vmMoZE0RhK6183a6HYCcRiTWlByEEU9NPIIUf_LoxAmlyIOoWPH4uOJJmu9I7QmcU15iPA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVGleSkg2nTZwdEyztcZ448ukplR81YYPAsjk0RVXk3WoxeA0nXT--1xTCfTJ3TkSHWdBpnxmpKXr97VnZmLa0v1moCcKuv6dATqNI0v5N7_dSh3bd-nIoSi4ppRug"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVT9AFQZPip5nmmruRNLtLvyqX8UaIDZrWa3EajCHNxObuf63j8deaZ2dUIz2MVNsgNlW6woKW383iBz2kjZ4WNu1TVKmP41KEdePMRqSEPRk1o0W8Ma9e66p8Q1U8YvpqCy0xLqkIPrKkHoJ5nMsiypEBu2gZtAza8bgOiA="
+        },
+        {
+          "title": "hartinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7suD1sQzihxasFxQ5JVKaQsFE6uWq5UowZw2Gw-8MJclLPc8ZhHex9bbs85sJmsy8I5Vx26XKQYLzCuakx9TLdISOnOljCo8KbC8VNVFYFAYbKd-z8DJhRAYwTlHReZMOeu1NkoHKBSrLGSn0_u7sPg=="
+        },
+        {
+          "title": "finalcall.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGktfw-HHLvW-3RXOyAf32iUatq3SorNYVBe8ad32JRHqczuo0OIJbdR7-tQWTWiYzepVaQUEp8pC26o1unyAk_mvES461pCkyN8ue4a-TgITjDM2pWZZLBK6u0sd2MFbxrlx28woH4BSwXDIcMmLZrdNgdnXQSuFFcqCA3hHmtvA2B7dqOn5THkHTQZwD9LYPFNo_3G0CVOTNw9OgXicSVMNfoqdLY7MtnViEMBvXwP0="
+        }
+      ]
+    }
+  }
+}

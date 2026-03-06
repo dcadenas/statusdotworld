@@ -1,0 +1,356 @@
+{
+  "date": "2026-01-03",
+  "timestamp": 1772807068300,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US military strike in Venezuela, ongoing conflicts in Sudan and Ukraine",
+      "summary": "The global situation for armed conflicts saw a major escalation with a US military strike in Caracas, Venezuela, leading to the capture of President Nicolás Maduro and reported casualties. Simultaneously, the civil war in Sudan continued with deadly drone and airstrikes by both RSF and SAF forces, causing civilian deaths and infrastructure damage. Fighting also persisted in Ukraine, with Ukrainian forces reporting advances in the Kupyansk direction and Russian forces attempting to push in other areas.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "A US military strike in Caracas led to the capture of President Maduro and reported casualties."
+        },
+        {
+          "name": "El-Obeid, Sudan",
+          "lat": 13.1787,
+          "lng": 30.2223,
+          "severity": "red",
+          "detail": "El-Obeid was affected by ongoing civil war with deadly drone and airstrikes causing civilian deaths."
+        },
+        {
+          "name": "Kupyansk, Ukraine",
+          "lat": 49.4975,
+          "lng": 37.6042,
+          "severity": "yellow",
+          "detail": "Ukrainian forces reported advances in the Kupyansk direction amidst ongoing fighting."
+        },
+        {
+          "name": "Al Zorg, Sudan",
+          "lat": 12.5,
+          "lng": 23.5,
+          "severity": "red",
+          "detail": "Al Zorg was affected by ongoing civil war with deadly drone and airstrikes causing civilian deaths."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran cracks down on protests, Venezuela faces rights concerns",
+      "summary": "Iran's Supreme Leader Ali Khamenei publicly denounced nationwide protesters as 'rioters' and called for a harsh crackdown on January 3, following days of unrest that included lethal force, mass arrests, and internet shutdowns. In Venezuela, the US military operation to capture President Maduro raised immediate concerns from Human Rights Watch regarding a potential new human rights disaster. Haiti continued to experience a severe human rights crisis driven by widespread gang violence, high homicide rates, and abuses.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Supreme Leader Khamenei denounced protesters as 'rioters' and called for a harsh crackdown."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The US military operation sparked immediate Human Rights Watch concerns about a potential disaster."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.59,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "Port-au-Prince experienced a severe human rights crisis due to widespread gang violence and high homicide rates."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Severe weather exacerbates humanitarian crises in Gaza and Haiti",
+      "summary": "On January 3, severe weather conditions were reported to be significantly worsening the already dire humanitarian situation in the Gaza Strip. Similarly, Haiti continued to suffer from the impacts of extreme weather events, including past hurricanes, floods, and droughts, which contributed to the country's ongoing humanitarian crisis.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "Severe weather conditions significantly worsened the dire humanitarian situation in the Gaza Strip."
+        },
+        {
+          "name": "Les Cayes, Haiti",
+          "lat": 18.1963,
+          "lng": -73.7479,
+          "severity": "yellow",
+          "detail": "Les Cayes continued to suffer from extreme weather impacts, contributing to the humanitarian crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Healthcare systems collapse and critical services impacted in Sudan, Venezuela",
+      "summary": "Sudan's healthcare system was largely non-functional with over 70% of facilities in conflict zones affected, contributing to widespread cholera outbreaks and over 20 million people needing health assistance. In Venezuela, US airstrikes reportedly damaged warehouses crucial for the dialysis and nephrology program in La Guaira, jeopardizing care for over 9,000 kidney patients. The dire humanitarian situation in Gaza also indicated a severe health crisis due to lack of medical supplies.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Khartoum's healthcare system was largely non-functional, contributing to cholera outbreaks."
+        },
+        {
+          "name": "La Guaira, Venezuela",
+          "lat": 10.6019,
+          "lng": -66.9248,
+          "severity": "red",
+          "detail": "US airstrikes damaged warehouses crucial for the dialysis program, jeopardizing care for over 9,000 patients."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Gaza faced a severe health crisis due to the dire humanitarian situation and lack of medical supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Markets react to Venezuela intervention, global volatility noted",
+      "summary": "Global financial markets reacted to the US military strike in Venezuela on January 3, causing a surge in 'safe' assets like gold, which rose over 2%, and a climb in European defense stocks. US oil company shares also jumped, and while the FTSE 100 hit a new high on January 2nd, overall geopolitical tensions were noted as causing volatility. Venezuela's economy continued to face challenges exacerbated by the political instability.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "London financial markets experienced volatility due to global geopolitical tensions on January 3."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Venezuela's economy faced exacerbated challenges due to political instability from the intervention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US intervention in Venezuela, Iran crackdown on dissent, Myanmar sham elections",
+      "summary": "The US military intervention in Venezuela on January 3, resulting in the capture of President Maduro, represented a direct foreign action impacting the country's leadership. In Iran, the Supreme Leader's call for a harsh crackdown on protesters and labeling them 'rioters' signified a severe suppression of democratic expression. Myanmar's ongoing 'sham elections' in early 2026, described as designed to entrench military rule and bar opposition, underscored a deepening erosion of democracy.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "US military intervention led to President Maduro's capture, impacting the country's leadership."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Supreme Leader Khamenei called for a harsh crackdown on protesters, suppressing democratic expression."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8409,
+          "lng": 96.1735,
+          "severity": "red",
+          "detail": "Myanmar's ongoing 'sham elections' in early 2026 deepened the erosion of democracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza, Sudan, Haiti, and Venezuela face escalating humanitarian crises",
+      "summary": "Jordan issued an urgent call for international action to address the catastrophic humanitarian situation in the Gaza Strip, exacerbated by severe weather and aid restrictions. Sudan continued to grapple with the world's largest displacement and hunger crisis, with millions facing acute food insecurity and a collapsed healthcare system. Haiti's humanitarian conditions remained dire due to gang violence, widespread displacement, and food insecurity, compounded by the US announcement of ending Temporary Protected Status for Haitians. Venezuela also faced an ongoing humanitarian crisis with 7.9 million people in need, with recent US airstrikes impacting critical health infrastructure.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Jordan issued an urgent call for action to address the catastrophic humanitarian situation in the Gaza Strip."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Khartoum grappled with ongoing displacement, hunger, and a collapsed healthcare system."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.59,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "Humanitarian conditions remained dire due to gang violence, displacement, and food insecurity."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Caracas faced an ongoing humanitarian crisis, exacerbated by US airstrikes impacting health infrastructure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxoihrIm0pvyWSMkPtoCA6ztdG45L0ea579PupaFVA--uRyP6PBCJzicYnFVzq3ipX1un8sTaYQrodzvJ5_1Vj3bozQCHSMS0vUK8R8s_q3JkW-nl5Whgwk2HeUQl-eyE5X21ezppUihCmvV7l-ETEDQxx7nGF3uauhMIYbIXHLOEcrmw5"
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ql1aVR1kVMLYYRcXzSkCQlbmZSPX1YZx6Egvk_5U8_jk4L6GgQmFge7g5ektMyCNnWrSVKfZX5_V4Lcu67afwTCAnhzX9HeO-4qttez3-olN4xGW3axj12E3oPN--qnfydwAvgj6xHTQMtf0jDxu1iDmBk-sbyfyAZBDMrF4CcKh6mtn"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVLzE25HPXi480k_kkIo2oKci7RVaZxnRmO0ruYTkRh5yvIKtu8AewpaVqu7pUkZpCbcP275_YeHkIBpR5ttgPl9_POrwYGSoFld-HGwvtAmM4FzW569YnC4j4_uwvjgNTO61olagXYAWqrFlbH_BRXy-IferK0jA1wCZh0hEvwsr"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZG77mRflVpJ2lQRH93ESxmwlyzzfP9zjbY2UE2yF7NckJRUc1TDIMjiFmgGt3pzt5C03546oSt_UmvReEUUY3RxSGA4wB4uZ_MjVisg6-RtHjBL2AxdsoIB2PCwqTPIsr80S0NvY7u5tEjziBn9eov8Zv5WU3HnsLloErE-A3hMqCfXcF6fd35tx2AX1FSHfM1qvzKE5-XkZGnt4tCGSO4clz15c="
+        },
+        {
+          "title": "amnesty.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ25w26ijdPPaRHDZo5rgCPKKe2zwibG59zjPh8zYw-0ag5vT2x8TmV4dFTfATNx97B5CHd_y7v4VpXIDNWhDYrQQn5pi7YNoroJE3-o4gfGxsih7Cdsh07WHZ4Itp-JbTg8xjS-kj4cbqFDKBUMs1dqW5_p_u7NfQyyI11YAwNiucCVSyKt_SvQhURPskDylsEIOOBQ=="
+        }
+      ]
+    }
+  }
+}

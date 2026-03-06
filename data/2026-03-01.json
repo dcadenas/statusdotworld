@@ -1,0 +1,405 @@
+{
+  "date": "2026-03-01",
+  "timestamp": 1772809824954,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with widespread strikes and casualties.",
+      "summary": "The conflict in the Middle East intensified dramatically on March 1, 2026, with the confirmed death of Iran's Supreme Leader, Ali Khamenei, in US-Israeli airstrikes. This led to significant retaliatory strikes by Iran on Gulf states housing US bases, Israel, and even Cyprus, causing numerous casualties and raising fears of a broader regional war.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Supreme Leader, Ali Khamenei, was confirmed dead in US-Israeli airstrikes."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel was hit by significant retaliatory strikes from Iran, causing numerous casualties."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Bahrain was hit by significant retaliatory strikes from Iran on US bases, causing casualties."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "red",
+          "detail": "The UAE was hit by significant retaliatory strikes from Iran on US bases, causing casualties."
+        },
+        {
+          "name": "Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "red",
+          "detail": "Kuwait was hit by significant retaliatory strikes from Iran on US bases, causing casualties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "UN warns of human rights crisis amid escalating global conflicts.",
+      "summary": "On March 1, 2026, the UN Human Rights Chief, Volker Türk, warned of a dire global human rights situation, citing escalating conflicts, increased attacks on civilians, and threats to women's and girls' rights. Specifically, the war in Iran has led to civilian deaths, including children, and the displacement of thousands, with UNRWA also reporting unstable conditions and aid restrictions in the Gaza Strip.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The war led to civilian deaths, including children, and the displacement of thousands."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "UNRWA reported unstable conditions and aid restrictions, worsening human rights."
+        },
+        {
+          "name": "Karachi, Pakistan",
+          "lat": 24.8607,
+          "lng": 67.0011,
+          "severity": "red",
+          "detail": "The region was included in the UN Human Rights Chief's warning of a dire global crisis."
+        },
+        {
+          "name": "Austin, Texas, United States",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "red",
+          "detail": "The region was included in the UN Human Rights Chief's warning of a dire global crisis."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "The region was included in the UN Human Rights Chief's warning of a dire global crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change concerns persist with early 2026 extreme weather.",
+      "summary": "Climate change remained a significant concern on March 1, 2026, with reports highlighting extreme weather events in early 2026, including heatwaves and intense precipitation. Scientists were also closely monitoring a rare early-season stratospheric warming event in March, which could significantly alter weather patterns across the Northern Hemisphere.",
+      "regions": [
+        {
+          "name": "Hamilton, Canada",
+          "lat": 43.2557,
+          "lng": -79.8711,
+          "severity": "yellow",
+          "detail": "The region experienced extreme weather events, including heatwaves and intense precipitation."
+        },
+        {
+          "name": "Northern Hemisphere",
+          "lat": 45,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Scientists monitored an early-season stratospheric warming event that could alter weather patterns."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.2744,
+          "lng": 133.7751,
+          "severity": "yellow",
+          "detail": "The region experienced extreme weather events, including heatwaves and intense precipitation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Food alert in US, disease cases in Europe, conflict health impacts in Middle East.",
+      "summary": "On March 1, 2026, the USDA's FSIS issued a public health alert for misbranded beef jerky products in the US due to undeclared allergens. Separately, the European Centre for Disease Prevention and Control reported a confirmed human case of swine influenza A(H1N1)v in Catalonia, Spain, and mpox cases were detected in Austria. The WHO also expressed deep concern over the escalating Middle East conflict's severe impact on regional health systems and lives, including attacks on healthcare facilities.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "A public health alert was issued for misbranded beef jerky due to undeclared allergens."
+        },
+        {
+          "name": "Catalonia, Spain",
+          "lat": 41.3879,
+          "lng": 2.1699,
+          "severity": "yellow",
+          "detail": "A confirmed human case of swine influenza A(H1N1)v was reported by the ECDC."
+        },
+        {
+          "name": "Austria",
+          "lat": 47.5162,
+          "lng": 14.5501,
+          "severity": "yellow",
+          "detail": "Mpox cases were detected in the country."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The WHO expressed deep concern over the conflict's severe impact on regional health systems."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war triggers major global energy market shock.",
+      "summary": "The global economy faced a severe shock on March 1, 2026, as the escalating conflict in the Middle East, particularly the effective closure of the Strait of Hormuz by Iran, caused oil prices to surge. This disruption to vital shipping routes and energy infrastructure raised significant concerns about global inflation, supply chain stability, and broader economic uncertainty.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Its effective closure by Iran caused oil prices to surge and disrupted vital shipping routes."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "red",
+          "detail": "The escalating Middle East conflict caused oil prices to surge, raising economic uncertainty."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "The global energy market shock from the Middle East conflict caused economic uncertainty."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The global energy market shock from the Middle East conflict caused economic uncertainty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Senator criticizes Trump's Iran war as threat to democracy.",
+      "summary": "On March 1, 2026, US Senator Chris Murphy voiced strong concerns that President Trump's military actions in Iran were undermining American democracy by proceeding without congressional approval. Separately, in South Africa, the Democratic Alliance demanded an urgent explanation from the government regarding alleged military training engagements with Russia, raising questions about accountability and foreign policy alignment.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Senator Chris Murphy criticized Trump's military actions in Iran as undermining American democracy."
+        },
+        {
+          "name": "South Africa",
+          "lat": -30.5595,
+          "lng": 22.9375,
+          "severity": "yellow",
+          "detail": "The Democratic Alliance demanded an explanation regarding alleged military training with Russia."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "The country was the target of US military actions criticized for undermining American democracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East conflict severely hampers humanitarian aid efforts.",
+      "summary": "Humanitarian aid efforts faced severe challenges on March 1, 2026, primarily due to the escalating conflict in the Middle East. In the Gaza Strip, restrictive new rules threatened to force 37 NGOs to leave, drastically reducing already insufficient aid. The World Health Organization also expressed deep concern over supply chain disruptions for essential medical supplies and the impact on health systems across the conflict-affected region.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Restrictive new rules threatened to force 37 NGOs to leave, drastically reducing aid."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "The escalating conflict severely hampered humanitarian aid efforts and medical supply chains."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "The escalating conflict severely hampered humanitarian aid efforts and medical supply chains."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "The escalating conflict caused supply chain disruptions for essential medical supplies in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtg0ihk_7wf5thuqi2ZWAnup5UUyekIYSeQv5ftw-nV8EaHfdK4zQDMSFBlLamlS1nrwm8lbX4SB0FQfC74o_mVfXOnonOhrbhRI7Iu1dySdP6JB93xYg6pRDrKvxjxj_HWx8bXns="
+        },
+        {
+          "title": "atlanticcouncil.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qL5Vwh5mJ9s_WN2cIio9ZIJ0zQbiAWAc0zfoNpQCykDJEuCcbrFcY3d47qk2scBwOSlGIkRVXhu0BQLrqvEAS6Yx-3gsyBSjNTeBIGeDAyddlVtTDBPKLoL56hb2-ZJGs4_EiDrI-LpFP2KfSw1LgCWr6ZOtlsm7SB0IMuHdd3ybcL55RldisBdyQwmi8zbjgH3r0ZrhX8aTH9pujBDtr9N3_d3-1SwhDSrYEw=="
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_-96jlRwRCSCFtGkOvsY836QAf2p692_6DI9dl11U1aAecO78i_RQZ1DQ7ZTHMwHzVdWSdbOiA95CI2dh0o-QICUetZHA8wZDYANjKC71tG-Ac4HF1sXk_4Er85QjElNzg3Ow41YVLJPmZsiRndukwy6epGMqnMoEcm62VaaFPWcQwZD2afmMoV3QhkJXv3VYYg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQx6WdxFMoxFX2zh4DUTOQB0vR9TcRFhZS0kfa0yFU4LkCfLDYqiALvwiXideqrDXQs4q06HvQDTYrqkZGJbeHIinTh0l1yk0XNVg-Z59Nkddd-ktHngQqg0Dj8riXrJdqk48H2u-MsR6dDA=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWkxq-c3i-pZEVkWdctJUn0kgbHSwPvUSD396U-DloVxFD2FGE6lurJNQUJ4GAauEBsSEMOt04YVnzgRzD0stt53Ij7iommN3I4VPDhzOuwB_gLCw2F8Wr0ENVpjeeOekKWk1cZ2rKOFA0lGpQcy4InG0WfqILY5f_9fwB0y2rdmxtk0J_JGNBa_dO8JahFGl7zuFR0xqc6PAC2r3"
+        }
+      ]
+    }
+  }
+}

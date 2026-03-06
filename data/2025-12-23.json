@@ -1,0 +1,447 @@
+{
+  "date": "2025-12-23",
+  "timestamp": 1772806561106,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally with significant civilian impact",
+      "summary": "Around the world, active conflicts saw major escalations and humanitarian crises on December 23, 2025. Israeli forces continued attacks in Gaza, leading to over 400 Palestinian deaths since an October ceasefire and exacerbating aid restrictions. Intense overnight strikes in Ukraine caused civilian casualties and damaged critical energy infrastructure, with a Russian general also killed in Moscow. In eastern Democratic Republic of Congo, thousands fled renewed clashes, and the conflict in Sudan neared its 1,000-day mark with ongoing severe humanitarian needs.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli forces continued attacks, leading to over 400 Palestinian deaths and worsening aid restrictions."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Intense overnight strikes caused civilian casualties and damaged critical energy infrastructure in the city."
+        },
+        {
+          "name": "Uvira, Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.1333,
+          "severity": "red",
+          "detail": "Thousands of people fled renewed clashes in the eastern part of the country."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The conflict neared its 1,000-day mark with ongoing severe humanitarian needs."
+        },
+        {
+          "name": "Sidon, Lebanon",
+          "lat": 33.56,
+          "lng": 35.371,
+          "severity": "yellow",
+          "detail": "The region was impacted by global conflict escalations, leading to significant civilian concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Widespread human rights abuses intensify amid global conflicts and political shifts",
+      "summary": "Human rights were severely challenged on December 23, 2025, particularly in conflict zones. In Gaza, ongoing Israeli military operations and aid restrictions led to Palestinian deaths and dire living conditions, with reports of torture and starvation of children in Israeli jails. Across the Democratic Republic of Congo and Sudan, civilians bore the brunt of ongoing conflicts, facing serious violations. Globally, the UN High Commissioner for Human Rights noted a difficult year, with funding cuts undermining human rights efforts while anti-rights movements gained ground.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Ongoing Israeli operations and aid restrictions led to deaths, dire conditions, and reports of child torture."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.1333,
+          "severity": "red",
+          "detail": "Civilians bore the brunt of ongoing conflicts, facing serious human rights violations."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Civilians bore the brunt of ongoing conflicts, facing serious human rights violations."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Human rights were severely challenged due to ongoing conflict in the region."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Global human rights faced challenges due to political shifts and funding cuts originating from the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2025 marked as one of hottest years with escalating extreme weather impacts",
+      "summary": "On December 23, 2025, climate scientists confirmed that 2025 was 'virtually certain' to be one of the second or third warmest years on record, even with La Niña conditions. Human-driven greenhouse gas emissions intensified heatwaves, droughts, storms, and wildfires globally, leading to a 'new era of climate extremes'. Devastating floods affected regions like Pakistan and Indonesia, while wildfires scorched parts of the Iberian Peninsula and intensified in the Western US. Meanwhile, the Trump administration's withdrawal from the Paris Agreement and halting of offshore wind projects in the US raised concerns about global climate action.",
+      "regions": [
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "red",
+          "detail": "The region was affected by devastating floods."
+        },
+        {
+          "name": "Indonesia",
+          "lat": -0.7893,
+          "lng": 113.9213,
+          "severity": "red",
+          "detail": "The region was affected by devastating floods."
+        },
+        {
+          "name": "Iberian Peninsula",
+          "lat": 40,
+          "lng": -4,
+          "severity": "yellow",
+          "detail": "Parts of the region were scorched by wildfires."
+        },
+        {
+          "name": "Virginia, United States",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "US policy shifts included halting offshore wind projects, raising global climate action concerns."
+        },
+        {
+          "name": "Arctic Region",
+          "lat": 70,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The region experienced a 'new era of climate extremes' as 2025 was one of the warmest years."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Mixed health progress in 2025 amid funding cuts, conflicts, and outbreaks",
+      "summary": "Global public health on December 23, 2025, presented a mixed picture, with notable gains in disease control and vaccination alongside significant challenges. Over 86 million girls were vaccinated against HPV, bringing cervical cancer elimination closer, and countries like Maldives and Brazil made strides in eliminating mother-to-child HIV transmission. However, 20 million children missed essential vaccines due to conflict and misinformation, and cholera outbreaks affected over half a million people across 32 countries. US aid cuts, including to PEPFAR and USAID, severely impacted HIV/TB programs and health systems in Africa, compounding a 'brutal year for global health'.",
+      "regions": [
+        {
+          "name": "Africa (general)",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "US aid cuts severely impacted HIV/TB programs and health systems, compounding a brutal year."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "Public health faced mixed progress, including challenges from outbreaks and missed vaccinations."
+        },
+        {
+          "name": "Maldives",
+          "lat": 3.2028,
+          "lng": 73.2207,
+          "severity": "green",
+          "detail": "The country made strides in eliminating mother-to-child HIV transmission."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "green",
+          "detail": "The country made strides in eliminating mother-to-child HIV transmission."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global public health presented a mixed picture with gains in disease control but also significant challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy shows resilience but faces fragility, trade tensions, and aid cuts",
+      "summary": "On December 23, 2025, the global economy was reported as entering a period of relative stability, yet underlying fragilities persisted with global growth projected to slow in 2025. The US saw strong Q3 GDP growth but weakening consumer confidence. Developing economies faced significant pressure from high borrowing costs, financial volatility, and climate risks, limiting their ability to invest and sustain growth. Ongoing trade tensions and policy uncertainty loomed for 2026, while the US dollar's dominance continued to expose developing countries to US financial cycles.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy saw strong Q3 GDP growth but faced weakening consumer confidence."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The region faced ongoing trade tensions and policy uncertainty for 2026."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "yellow",
+          "detail": "The region faced ongoing trade tensions and policy uncertainty for 2026."
+        },
+        {
+          "name": "Global South",
+          "lat": -15,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Developing economies faced pressure from high borrowing costs, volatility, and climate risks, limiting growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic norms challenged by unilateral actions and suppressed freedoms",
+      "summary": "Democracy faced notable challenges on December 23, 2025, as unilateral actions by major powers and suppression of freedoms were reported. The Trump administration's appointment of a special envoy to claim Greenland, and the subsequent recall of numerous US ambassadors, sparked international diplomatic tensions and concerns over sovereignty. In Iraq, the assassination of a prominent feminist leader highlighted threats to activists. Israel's Knesset extended a law allowing the closure of foreign media channels, impacting press freedom. These events contributed to a global perception that while representative democracy is an ideal, its current functioning is widely criticized.",
+      "regions": [
+        {
+          "name": "Greenland",
+          "lat": 71.7069,
+          "lng": -42.6043,
+          "severity": "yellow",
+          "detail": "The US appointed a special envoy to claim Greenland, sparking sovereignty concerns and diplomatic tensions."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration's actions, including envoy appointments and ambassador recalls, sparked diplomatic tensions."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "red",
+          "detail": "The assassination of a prominent feminist leader highlighted threats to activists in the country."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel's Knesset extended a law allowing foreign media channel closures, impacting press freedom."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.9139,
+          "lng": 95.956,
+          "severity": "yellow",
+          "detail": "Democratic norms were challenged, contributing to global criticism of democracy's functioning."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "2025 declared 'worst humanitarian year on record' amid severe funding gaps",
+      "summary": "On December 23, 2025, the global humanitarian situation was dire, with 2025 declared the 'worst humanitarian year on record' due to unresolved conflicts, climate crises, and unprecedented aid cuts. The UN faced a 72% funding gap, resulting in 25 million fewer people receiving aid despite stable needs. In Gaza, Israeli restrictions on aid exacerbated suffering from cold and rain, while in Ukraine, humanitarian convoys delivered aid to communities cut off by hostilities. Major US aid cuts, including the dismantling of USAID, caused clinics to close and severely impacted essential health programs across Africa.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli restrictions on aid exacerbated suffering from cold and rain in the region."
+        },
+        {
+          "name": "Kherson, Ukraine",
+          "lat": 46.6354,
+          "lng": 32.6181,
+          "severity": "red",
+          "detail": "Humanitarian convoys delivered aid to communities cut off by hostilities."
+        },
+        {
+          "name": "Syria",
+          "lat": 34.8021,
+          "lng": 38.9968,
+          "severity": "red",
+          "detail": "The region faced a dire humanitarian situation, exacerbated by unresolved conflict and aid cuts."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -3.4,
+          "lng": 29.1333,
+          "severity": "red",
+          "detail": "The region faced a dire humanitarian situation, exacerbated by unresolved conflict and aid cuts."
+        },
+        {
+          "name": "Africa (general)",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "Major US aid cuts caused clinics to close and severely impacted essential health programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEehti9z_Ad-JW0vYwJ1c4AgihuBvVhErlFlX1EaHmHN4XPIKDstsEBJtsul5aymSas0mEYanpkEKcDaAd2nhvIMs8XBr1nBO8176L8DkWko-zwWTDourq6USNScJqHWmGXtT_xwsNDzoV3CXmYvrFBKpYC6A0="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4WsRs58zanxSA8BG4EEOxfzMSJY2ltm103CMSu4xzXJP7vRL3hD5nEGImfeDOypJtkVVmkIAB1ylaA5Lb_cEBM8k3jVbGhnhqD4rEX9xvCOQGD6Ia1kHUsdkwiPawsM51Veqv8k="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUpiowLDjxfzZ_NcqFD3GIsV5a7lvXihKoIbfhe3QtmPXKHgsYAgjW8up6nEfSwl7UB8skOlLvpbmO0tJ6jFTV4Ivf2_Z3O27NkwxyAdzGObV8OJd68FdeNNLKG690MLRMaIT-1Lyyms6rZZ9hVhVbNuhnWZ9qB39QL1-fnaE="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCkkuiE7JqAp6eg3NpGidZ9WLcohBNFGWKDwSWXEyITxxKnOKyHdvQlF48Wf0A13WggmVZL6tQVHdEWK2HxTQBZmWrIGrMGIbkyOkEK_vvqdT16mGwYEbOERGAIoK1s08_BZt1ro="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjmfUdUp73tRslsdRy2pfpP5PPOunrYy-zHyog0nqcxT9XmWXZNmzXYILcD_TdMqEkmG07ekl1tuiUfAgZeR6w59cLoXIJlCBpHtyhDMcOXXVradE1rDx6Fp2gN9ASSqo9NULXDz6qzwLTOTXx4xtOuqdo2w-9J-VtiFVgtfI3ho0oXA6qg=="
+        }
+      ]
+    }
+  }
+}

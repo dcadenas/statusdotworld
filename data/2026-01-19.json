@@ -1,0 +1,397 @@
+{
+  "date": "2026-01-19",
+  "timestamp": 1772807849677,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Gaza ceasefire fragile with casualties; prisoner killings in Syria.",
+      "summary": "On January 19, 2026, UN humanitarians expressed concern over the fragile Gaza ceasefire, reporting 14 Palestinian casualties in the preceding 48 hours due to ongoing hostilities. Separately, a report documented the extrajudicial killing of 21 prisoners by Syrian Democratic Forces in the Ain al-Arab/Kobani region between January 19-22, following prison protests and escapes.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "UN humanitarians expressed concern over the fragile ceasefire and reported 14 casualties in 48 hours."
+        },
+        {
+          "name": "Ain al-Arab/Kobani, Syria",
+          "lat": 36.1952,
+          "lng": 38.3582,
+          "severity": "red"
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran faces severe human rights crisis; journalist jailed in Russia.",
+      "summary": "A severe human rights crisis unfolded in Iran, with reports on January 19, 2026, indicating a teenager was sexually assaulted in custody and earlier reports of over 36,500 people killed and tens of thousands arrested during protests, with accusations of extrajudicial executions. In Russia, journalist Svetlana Anokhina was sentenced to five years in absentia for 'false news' about the armed forces. Additionally, the Inter-American Court of Human Rights found Honduras responsible for the unlawful arrest and death of a trans woman, Leonela Zelaya.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Reports indicated a teenager was sexually assaulted in custody, highlighting a severe human rights crisis."
+        },
+        {
+          "name": "Makhachkala, Russia",
+          "lat": 42.9833,
+          "lng": 47.5,
+          "severity": "yellow",
+          "detail": "Journalist Svetlana Anokhina was sentenced to five years for 'false news' in Russia, impacting press freedom."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "yellow",
+          "detail": "The Inter-American Court found Honduras responsible for unlawful arrest and death of a trans woman."
+        },
+        {
+          "name": "Guatemala",
+          "lat": 15.7835,
+          "lng": -90.2308,
+          "severity": "yellow",
+          "detail": "Guatemala is a member state impacted by the Inter-American Court's human rights ruling on Honduras."
+        },
+        {
+          "name": "Minneapolis, United States",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Protests in the United States supported Iranian anti-government activists, highlighting human rights demands."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "January sees extreme weather globally; US offshore wind projects resume.",
+      "summary": "January 2026 was globally the fifth warmest January on record, with the Northern Hemisphere experiencing severe cold waves while other regions faced extreme heat and erratic rainfall. On January 19, 2026, a third of five offshore wind projects previously halted by the Trump administration were cleared to resume in the United States. Additionally, a new study reported that plastic-coated fertilizers are a significant source of ocean microplastics, tracing them from farms to beaches.",
+      "regions": [
+        {
+          "name": "North America",
+          "lat": 40,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "The Northern Hemisphere, including North America, experienced severe cold waves this January."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Europe, part of the Northern Hemisphere, experienced severe cold waves during the globally warm January."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "A third of five offshore wind projects, previously halted, were cleared to resume development."
+        },
+        {
+          "name": "Global Oceans",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A new study reported plastic-coated fertilizers are a significant source of ocean microplastics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Gaza immunization campaign underway; Chile eliminates leprosy.",
+      "summary": "On January 19, 2026, a second round of a routine immunization catch-up campaign for children under three was underway in Gaza, led by the WHO, UNICEF, and UNRWA. In Europe, new guidelines under the pharmaceutical strategy became applicable on January 15, aiming to ensure access to affordable medicines and strengthen the industry. Chile also achieved verification for eliminating leprosy, making it the first country in the Americas to do so.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "yellow",
+          "detail": "A second round of a routine immunization catch-up campaign for children under three was underway."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "green",
+          "detail": "New pharmaceutical strategy guidelines became applicable, aiming to ensure access to affordable medicines."
+        },
+        {
+          "name": "Chile",
+          "lat": -35.6751,
+          "lng": -71.5429,
+          "severity": "green",
+          "detail": "Chile achieved verification for eliminating leprosy, becoming the first country in the Americas."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth steady; new US tariffs threaten European economy.",
+      "summary": "On January 19, 2026, the IMF projected global growth at 3.3% for 2026, citing resilient growth drivers despite divergent forces. However, global markets reacted to new tariff threats from the US against eight European countries, with proposed 10% tariffs starting in February 2026, escalating to 25% if no agreement is reached on Greenland. This trade tension caused stock markets to fall, while oil prices saw modest gains due to elevated geopolitical risks.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The US threatened new 10% tariffs against eight European countries over Greenland negotiations."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Eight European countries faced new 10% tariff threats from the US, causing global markets to fall."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "green",
+          "detail": "China's stock markets fell due to global trade tensions arising from new US tariff threats."
+        },
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "green",
+          "detail": "Japan's stock markets fell due to global trade tensions arising from new US tariff threats."
+        },
+        {
+          "name": "Malaysia",
+          "lat": 4.2105,
+          "lng": 109.9721,
+          "severity": "green",
+          "detail": "Malaysia's stock markets fell due to global trade tensions arising from new US tariff threats."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Press freedom concerns in Russia; protests for democracy in Iran.",
+      "summary": "On January 19, 2026, concerns for democratic principles were evident as a Russian court sentenced journalist Svetlana Anokhina to five years in prison for allegedly spreading 'false news' about the armed forces, impacting press freedom. Meanwhile, thousands marched in the United States to support Iranian anti-government protesters, highlighting ongoing demands for democratic reforms and human rights in Iran.",
+      "regions": [
+        {
+          "name": "Russia",
+          "lat": 61.524,
+          "lng": 105.3188,
+          "severity": "yellow",
+          "detail": "A court sentenced journalist Svetlana Anokhina to five years for spreading 'false news'."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "yellow",
+          "detail": "Anti-government protesters continued demanding democratic reforms and human rights in the country."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "Thousands marched to support Iranian anti-government protesters, highlighting demands for democratic reforms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Israel bans aid groups in Gaza amidst funding cuts and rising needs.",
+      "summary": "On January 19, 2026, concerns mounted as Israel announced it would halt the operations of over two dozen humanitarian organizations, including Doctors Without Borders, in the Gaza Strip starting in 2026, citing non-compliance with new registration rules. Aid groups warned of a catastrophic impact on a population already in desperate need, amidst UN concerns about the Gaza ceasefire holding and aid distribution challenges. This comes as the European Commission announced a €1.9 billion humanitarian aid budget for 2026, acknowledging 239 million people globally require assistance and that major donors are cutting funding.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4665,
+          "severity": "red",
+          "detail": "Israel announced it would halt operations of over two dozen humanitarian organizations starting in 2026."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission announced a €1.9 billion humanitarian aid budget for 2026."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.9139,
+          "lng": 95.9562,
+          "severity": "yellow",
+          "detail": "The European Commission noted Myanmar as a region globally requiring humanitarian assistance."
+        },
+        {
+          "name": "Bangladesh",
+          "lat": 23.685,
+          "lng": 90.3563,
+          "severity": "yellow",
+          "detail": "The European Commission noted Bangladesh as a region globally requiring humanitarian assistance."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "yellow",
+          "detail": "The European Commission noted Afghanistan as a region globally requiring humanitarian assistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbp-HuU5QOErkwHKhPQbdGqva9YLaxZ8VFsUDN7gGSeSxX2ftWDc-mDl2tAiyOXEBP-g6F7DSHr4BoeBxpC_8ydOFpW1WokF--a-PTsZTtznZ_u0YmGxI3XdteZwvP9nKFmp70d4h_q4pzUFNq5ufMzc1SNptAqoJqXgKsN1EO010SJlMdIreH_TRoIR1NjqM_murxzIWs2gnq1EcJtTrPJ8sVg-m-o-At4kLWEM8="
+        },
+        {
+          "title": "snhr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aLZMdbT3pq0h4rKMslfnYVvOKCTXjgh_nmJOVoaVLG5ABoeVxghe_y3pAx2eJls3DLZoUqZNYni0TrBsAjNzCSriREg56XtzJ38ajVwCzMw3AZjVX2F2fhTfH1S4nmbGX4lnSdpfUrrFUbOERocUzTkdhc94yOkun6Dm-pKqawxd6hG6_JzVTszktCkH6MlvcEupca4urdJXS-ofwdv7KhBVyZynROSHIAQNd86HS8RW5bCEoJWnqE_v2uQjAGWjyNiZtRz4P5qwvh9lc6AOjifwA8cAWQRCYrqTI_daTNL8AOd0Xw=="
+        },
+        {
+          "title": "humanrightsresearch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFv0grsV1I82eemEe798JZeSyJZYTRQPvkdSrA5S673FqvMP5diejGKOcpb4zEtRcg4hJsWkNOJs5lta6kS2v2O6_GF92Yj2Ad7gUHFvdCdD-b1WLwKdsevJT7UBjXHYmmN3V3OAvpTiZxaHFiTqjUdEgVpdXGkfw8JipzDLKHisNBRCpi"
+        },
+        {
+          "title": "peacehumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6gJEmkzNF60U6tPRpBZg0Wx6hDBJFmlwI8yqQ3Lw7MePmoi5cWEvW6IPGiUdzsA9Vmn71A4KH5RJxE6jx-zuuQnqtoNRvOkCl6_JGqRjGmpzhzZDfJRreETMyMIsoGNb9RK38oDvXC6ZuexZZpBQLw9NDWM4inp9NhzLYcilgj7GkvIEO"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q4Y3TgftNpJjzOUSphpgYyVLQMl29GIZLUOmwS-1PB4XUd9pTNMP76f8pREhhkzf_Mp0yUN41T_Z7Ep5BpvNswq9wikk9dPOUOMxyWIi690DYE8LOWPbNIOk5eyaimVUQtY="
+        }
+      ]
+    }
+  }
+}

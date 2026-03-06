@@ -1,0 +1,405 @@
+{
+  "date": "2025-12-09",
+  "timestamp": 1772805911774,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple global conflicts intensify with drone attacks, border clashes, and stalled peace talks",
+      "summary": "The war in Ukraine saw continued Russian drone attacks causing casualties, while peace talks in London faced skepticism over a US-backed plan. Renewed armed clashes erupted between Cambodia and Thailand, leading to civilian deaths and ongoing military operations. In Gaza, the Israeli military indicated intentions to establish a new border despite a ceasefire, and Israel also struck Hezbollah targets in Lebanon.",
+      "regions": [
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "red",
+          "detail": "Continued Russian drone attacks in Ukraine caused casualties on this date."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4302,
+          "severity": "red",
+          "detail": "Israeli military indicated intentions to establish a new border despite a ceasefire."
+        },
+        {
+          "name": "Cambodia-Thailand Border",
+          "lat": 14.3,
+          "lng": 103.5,
+          "severity": "red",
+          "detail": "Renewed armed clashes erupted, leading to civilian deaths and ongoing military operations."
+        },
+        {
+          "name": "Heglig, Sudan",
+          "lat": 10.9833,
+          "lng": 29.35,
+          "severity": "red",
+          "detail": "No specific armed conflict event was reported for this location."
+        },
+        {
+          "name": "Sange, DR Congo",
+          "lat": -2.3653,
+          "lng": 29.0228,
+          "severity": "yellow",
+          "detail": "No specific armed conflict event was reported for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Severe violations in Gaza, Sudan, Afghanistan; democratic rights eroded",
+      "summary": "A Reporters Without Borders report on December 9 found Israel killed more journalists in 2025 than any other country for the third year running, with 29 Palestinian journalists among 67 killed worldwide. MSF warned of catastrophic conditions and aid restrictions in Gaza. In Sudan, 173 health workers were killed and 83 arrested between April 2023 and December 9, 2025, amidst pervasive sexual violence and widespread malnutrition. The UN also warned of a severe humanitarian crisis in Afghanistan, worsened by restrictive policies against women and girls.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4302,
+          "severity": "red",
+          "detail": "29 Palestinian journalists were among 67 killed worldwide, and MSF warned of catastrophic conditions."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "173 health workers were killed and 83 arrested, amidst sexual violence and widespread malnutrition."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "A severe humanitarian crisis worsened due to restrictive policies against women and girls."
+        },
+        {
+          "name": "Slovakia",
+          "lat": 48.669,
+          "lng": 19.699,
+          "severity": "yellow",
+          "detail": "Parliament approved dismantling whistleblower protection, eroding democratic rights."
+        },
+        {
+          "name": "Tanzania",
+          "lat": -6.369,
+          "lng": 34.8888,
+          "severity": "yellow",
+          "detail": "Security was tightened, and protests over a disputed election were outlawed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change impacts globally: storm in Ireland, US cold warnings, Japan tsunami threat",
+      "summary": "Storm Bram brought strong gales and record-high December temperatures to Dublin, Ireland, on December 9. In the United States, meteorologists warned of a potentially chilly and volatile December due to polar vortex disturbances, with a major cold outbreak possible in the Northeast. An earthquake in Aomori Prefecture, Japan, triggered a tsunami warning for its coastal areas and parts of Iwate and Hokkaido.",
+      "regions": [
+        {
+          "name": "Phoenix Park, Co Dublin, Ireland",
+          "lat": 53.3541,
+          "lng": -6.3268,
+          "severity": "yellow",
+          "detail": "Storm Bram brought strong gales and record-high December temperatures to Dublin."
+        },
+        {
+          "name": "Northeast, United States",
+          "lat": 42,
+          "lng": -73,
+          "severity": "yellow",
+          "detail": "Meteorologists warned of a major cold outbreak possible due to polar vortex disturbances."
+        },
+        {
+          "name": "Aomori Prefecture, Japan",
+          "lat": 40.8242,
+          "lng": 140.74,
+          "severity": "red",
+          "detail": "An earthquake triggered a tsunami warning for its coastal areas."
+        },
+        {
+          "name": "Iwate Prefecture, Japan",
+          "lat": 39.7036,
+          "lng": 141.1527,
+          "severity": "yellow",
+          "detail": "A tsunami warning was triggered following an earthquake in Aomori."
+        },
+        {
+          "name": "Hokkaido Prefecture, Japan",
+          "lat": 43.2201,
+          "lng": 142.8637,
+          "severity": "yellow",
+          "detail": "A tsunami warning was triggered following an earthquake in Aomori."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US public health confidence declines; Sudan crisis; Indonesia workforce plan",
+      "summary": "In the US, confidence in key public health agencies like the CDC, FDA, and NIH significantly declined in December 2025. The CDC's vaccine advisory committee notably changed its universal hepatitis B vaccine recommendation for newborns. Meanwhile, Sudan faced a severe public health crisis with ongoing attacks on healthcare, numerous health worker casualties, and simultaneous disease outbreaks. Indonesia's Ministry of Health launched an initiative to address health workforce shortages and distribution.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Confidence in public health agencies declined; the CDC changed its hepatitis B vaccine recommendation."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "A severe public health crisis continued with attacks on healthcare and disease outbreaks."
+        },
+        {
+          "name": "Indonesia",
+          "lat": -0.7893,
+          "lng": 113.9213,
+          "severity": "green",
+          "detail": "The Ministry of Health launched an initiative to address health workforce shortages."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy volatile amid geopolitical tensions, central bank shifts",
+      "summary": "The global financial landscape on December 9, 2025, was marked by persistent challenges, geopolitical fragmentation, escalating trade tensions, and central bank policy adjustments, fostering a 'risk-off' sentiment. Investors awaited the US Federal Reserve's anticipated interest rate decision and observed the Bank of Japan's shift from ultra-loose monetary policy. The IMF approved a $1.2 billion release to Pakistan to aid its economic recovery.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Investors awaited the US Federal Reserve's anticipated interest rate decision."
+        },
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "yellow",
+          "detail": "The Bank of Japan shifted from its ultra-loose monetary policy."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "The IMF approved a $1.2 billion release to aid its economic recovery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Whistleblower protections dismantled, election protests outlawed",
+      "summary": "Slovakia's parliament approved a plan to dismantle the whistleblower protection office, raising concerns about democratic accountability. In Tanzania, security was tightened, and protests over a disputed election were outlawed. The US Supreme Court signaled its readiness to potentially expand the President's power to fire independent government officials.",
+      "regions": [
+        {
+          "name": "Slovakia",
+          "lat": 48.669,
+          "lng": 19.699,
+          "severity": "yellow",
+          "detail": "Parliament approved dismantling the whistleblower protection office, raising accountability concerns."
+        },
+        {
+          "name": "Tanzania",
+          "lat": -6.369,
+          "lng": 34.8888,
+          "severity": "yellow",
+          "detail": "Security was tightened, and protests over a disputed election were outlawed."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The Supreme Court signaled readiness to expand presidential power over independent officials."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Catastrophic crises in Gaza, Afghanistan, and Sudan; aid cuts impact Kenya",
+      "summary": "Gaza faced catastrophic conditions with urgent calls for massive humanitarian aid amidst Israeli restrictions threatening to expel 37 NGOs. The UN warned of a severe humanitarian crisis in Afghanistan, with 17.4 million people facing hunger and essential services stretched due to massive funding cuts and a large influx of returnees. Sudan continued to experience widespread hunger, malnutrition, and ongoing attacks on healthcare. Drastic aid cuts also impacted refugees in Kenya.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4302,
+          "severity": "red",
+          "detail": "Gaza faced catastrophic conditions with urgent calls for aid amidst Israeli restrictions."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "A severe humanitarian crisis escalated due to funding cuts, hunger, and a large influx of returnees."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "Widespread hunger, malnutrition, and attacks on healthcare continued."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.286389,
+          "lng": 36.817223,
+          "severity": "yellow",
+          "detail": "Drastic aid cuts severely impacted refugees in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEcf5pk2gPvUC6EMbF7x-i6x8IcuJrZKYwho9DBZmnMcCCdyTiToBNpy37rHxrmhb_QyPTNHPjac1aIP1gv-JXDLS9u8HDpeYrEy9xKomO7yvqeblqXQeKdcBFshBO26QEaq5GU3Mx_GjIGIOfFM4fllyBiS_Rc-wwlSw0sBmqwI8VWaeGF7NDSP3ecL8Kt1rPWwKI_wIOeNA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF7bIt_mR-59YWlCBSHq2nFjfEfqdZHUiaApf1nggMs7JDB0GJtH5-mAwqB2J7KICdHs-ZFccX1_gwWg7pvBIN1qbJL7FNZf_3MH-p7Jzqv7AX8EeIf-F4v1UIXCFYYDe6xc8O3hg="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFth8AJHDghGWLJA6Mm8kwXD1U4sxEY3Ea4CqEqemmZorZl2AKj3HOZDN244w6Fex-dXrOK138j6otMATaArYs_Iyit7zUbkMR4SjE9ipxtvySR2xUHHdmKUc2NWhcn0xVvYferLfo="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHCv41J466O7Nji_EcobjYCy6nON6x6KJcVMtGIwnPYUO9ybaIJZxnDZ5T8b8JfwMeEA5kS5kjKnJ3sPANCqGC2mqOTIX121jsTq6PvnyX6xnHbOQ9d7xkmTU8Zv1GP4OEJqscrA5k-5UNis2VkGeadg=="
+        },
+        {
+          "title": "nhandan.vn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7ptzNrJTcfxIR45Uhx1MebNaAJeOtic2ebqw-DnjaNgh7djUZFQCIqjxK9fWgM8yG5w-rC7hYZpYzDZtDJF3a1REV9EIUqX_feBNx42IxwnONGxOy-1gf7sNglvzgG-L86inx6PiIW5p76zKTV1mNQ27CEges-h7NoPzLgBcJ"
+        }
+      ]
+    }
+  }
+}

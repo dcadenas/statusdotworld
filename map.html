@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>status.world / map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0c;
+      --surface: #141418;
+      --surface-2: #1c1c22;
+      --border: #2a2a32;
+      --text: #e8e6e0;
+      --text-dim: #7a7872;
+      --green: #76ad2a;
+      --yellow: #e5a530;
+      --red: #d94040;
+      --font: "Figtree", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      --mono: "JetBrains Mono", monospace;
+    }
+
+    *, *::before, *::after {
+      margin: 0; padding: 0; box-sizing: border-box;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 14px;
+      -webkit-font-smoothing: antialiased;
+      overflow: hidden;
+      height: 100vh;
+      height: 100dvh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #map {
+      flex: 1;
+      min-height: 0;
+    }
+
+    /* Top bar */
+    .top-bar {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 16px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .top-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .site-name {
+      font-family: var(--mono);
+      font-size: 15px;
+      font-weight: 400;
+      color: var(--text);
+      letter-spacing: -0.02em;
+      text-decoration: none;
+    }
+
+    .site-name .dot { color: var(--green); font-weight: 500; }
+    .site-name .slash { color: var(--text-dim); margin: 0 1px; }
+    .site-name .page-label { color: var(--text-dim); }
+
+    .legend {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11px;
+      color: var(--text-dim);
+    }
+
+    .legend-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+    }
+
+    .legend-dot.green { background: var(--green); }
+    .legend-dot.yellow { background: var(--yellow); }
+    .legend-dot.red { background: var(--red); }
+
+    /* Controls panel */
+    .controls {
+      flex-shrink: 0;
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .control-label {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-dim);
+    }
+
+    .date-range-display {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text);
+      white-space: nowrap;
+    }
+
+    /* Custom dual-thumb range slider */
+    .slider-group {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .slider-header {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      margin-bottom: 4px;
+    }
+
+    .range-slider {
+      position: relative;
+      height: 28px;
+      width: 100%;
+      touch-action: none;
+      user-select: none;
+      -webkit-user-select: none;
+      /* Inset so thumbs don't overflow container edges */
+      padding: 0 14px;
+    }
+
+    .range-track-wrapper {
+      position: relative;
+      height: 100%;
+    }
+
+    .range-track {
+      position: absolute;
+      top: 12px;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+    }
+
+    .range-fill {
+      position: absolute;
+      top: -5px;
+      height: 13px;
+      background: var(--surface-2);
+      border: 1px solid var(--text-dim);
+      border-radius: 6px;
+      transition: border-color 0.15s, background 0.15s;
+      cursor: grab;
+      z-index: 1;
+      /* Grip dots pattern */
+      background-image: radial-gradient(circle, var(--text-dim) 1px, transparent 1px);
+      background-size: 6px 6px;
+      background-position: center;
+    }
+
+    .range-fill:hover {
+      border-color: var(--text);
+      background-color: var(--surface-2);
+      background-image: radial-gradient(circle, var(--text) 1px, transparent 1px);
+    }
+
+    .range-fill:active {
+      cursor: grabbing;
+      border-color: var(--text);
+      background-image: radial-gradient(circle, var(--text) 1px, transparent 1px);
+    }
+
+    .range-thumb {
+      position: absolute;
+      top: -1px;
+      width: 24px;
+      height: 24px;
+      margin-left: -12px;
+      border-radius: 50%;
+      background: var(--text);
+      cursor: grab;
+      touch-action: none;
+      z-index: 2;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+    }
+
+    .range-thumb:active {
+      cursor: grabbing;
+      transform: scale(1.12);
+      background: #fff;
+    }
+
+    /* Expand touch target beyond visible circle */
+    .range-thumb::after {
+      content: '';
+      position: absolute;
+      inset: -12px;
+    }
+
+    /* Category filters — inline */
+    .cat-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .category-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 3px;
+    }
+
+    .cat-btn {
+      font-family: var(--font);
+      font-size: 11px;
+      font-weight: 500;
+      padding: 3px 8px;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-dim);
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+      line-height: 1.3;
+    }
+
+    .cat-btn.active {
+      background: var(--surface-2);
+      color: var(--text);
+      border-color: var(--text-dim);
+    }
+
+    .cat-btn:hover {
+      border-color: var(--text-dim);
+      color: var(--text);
+    }
+
+    /* Loading */
+    .loading-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--mono);
+      font-size: 14px;
+      color: var(--text-dim);
+      transition: opacity 0.4s;
+    }
+
+    .loading-overlay.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    /* Mobile */
+    @media (max-width: 720px) {
+      .top-bar {
+        padding: 8px 12px;
+      }
+
+      .legend {
+        gap: 6px;
+      }
+
+      .legend-item {
+        font-size: 10px;
+      }
+
+      .controls {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+        padding: 8px 12px 10px;
+      }
+
+      .cat-btn {
+        font-size: 10px;
+        padding: 3px 7px;
+      }
+    }
+
+    /* Very small screens */
+    @media (max-width: 380px) {
+      .legend-item span {
+        display: none;
+      }
+    }
+
+    /* MapLibre overrides for dark theme */
+    .maplibregl-ctrl-attrib {
+      background: rgba(10,10,12,0.7) !important;
+      color: var(--text-dim) !important;
+      font-size: 10px !important;
+    }
+
+    .maplibregl-ctrl-attrib a {
+      color: var(--text-dim) !important;
+    }
+
+    .maplibregl-popup-content {
+      background: var(--surface) !important;
+      color: var(--text) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 8px !important;
+      padding: 10px 14px !important;
+      font-family: var(--font) !important;
+      font-size: 12px !important;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4) !important;
+    }
+
+    .maplibregl-popup-tip {
+      border-top-color: var(--surface) !important;
+    }
+
+    .maplibregl-popup-close-button {
+      color: var(--text-dim) !important;
+      font-size: 16px !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="loading-overlay" id="loading">loading&hellip;</div>
+
+  <div class="top-bar">
+    <div class="top-left">
+      <a href="index.html" class="site-name">
+        status<span class="dot">.</span>world<span class="slash">/</span><span class="page-label">map</span>
+      </a>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot green"></div><span>Stable</span></div>
+      <div class="legend-item"><div class="legend-dot yellow"></div><span>Concern</span></div>
+      <div class="legend-item"><div class="legend-dot red"></div><span>Crisis</span></div>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+  <div class="controls">
+    <div class="slider-group">
+      <div class="slider-header">
+        <span class="control-label">Date Range</span>
+        <span class="date-range-display" id="date-label"></span>
+      </div>
+      <div class="range-slider" id="range-slider">
+        <div class="range-track-wrapper">
+          <div class="range-track">
+            <div class="range-fill" id="range-fill"></div>
+          </div>
+          <div class="range-thumb" id="thumb-lo"></div>
+          <div class="range-thumb" id="thumb-hi"></div>
+        </div>
+      </div>
+    </div>
+    <div class="cat-group">
+      <span class="control-label">Categories</span>
+      <div class="category-filters" id="cat-filters"></div>
+    </div>
+  </div>
+
+  <script>
+    const CATEGORIES = [
+      { id: "armed-conflicts", label: "Peace" },
+      { id: "human-rights", label: "Rights" },
+      { id: "climate-events", label: "Climate" },
+      { id: "public-health", label: "Health" },
+      { id: "economic-crises", label: "Economy" },
+      { id: "democratic-erosion", label: "Democracy" },
+      { id: "humanitarian", label: "Aid" },
+    ];
+
+    const SEVERITY_WEIGHT = { red: 3, yellow: 2, green: 1 };
+    const SEVERITY_COLOR = {
+      red: "#d94040",
+      yellow: "#e5a530",
+      green: "#76ad2a",
+    };
+
+    let allDates = [];
+    let allPoints = [];
+    let activeCats = new Set(CATEGORIES.map((c) => c.id));
+    let map;
+
+    // Build category filter buttons
+    const catContainer = document.getElementById("cat-filters");
+    CATEGORIES.forEach((cat) => {
+      const btn = document.createElement("button");
+      btn.className = "cat-btn active";
+      btn.textContent = cat.label;
+      btn.dataset.id = cat.id;
+      btn.addEventListener("click", () => {
+        btn.classList.toggle("active");
+        if (activeCats.has(cat.id)) activeCats.delete(cat.id);
+        else activeCats.add(cat.id);
+        updateMap();
+      });
+      catContainer.appendChild(btn);
+    });
+
+    const dateLabel = document.getElementById("date-label");
+    let rangeStart = 0;
+    let rangeEnd = 0;
+
+    // Custom dual-thumb slider
+    const slider = document.getElementById("range-slider");
+    const trackWrapper = slider.querySelector(".range-track-wrapper");
+    const thumbLo = document.getElementById("thumb-lo");
+    const thumbHi = document.getElementById("thumb-hi");
+    const rangeFill = document.getElementById("range-fill");
+    let dragging = null;
+    let dragStartIdx = 0;
+    let dragStartLo = 0;
+    let dragStartHi = 0;
+
+    function sliderPosFromIndex(idx) {
+      const max = Math.max(allDates.length - 1, 1);
+      return (idx / max) * 100;
+    }
+
+    function indexFromClientX(clientX) {
+      const rect = trackWrapper.getBoundingClientRect();
+      const pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+      return Math.round(pct * (allDates.length - 1));
+    }
+
+    function updateSliderUI() {
+      const lo = sliderPosFromIndex(rangeStart);
+      const hi = sliderPosFromIndex(rangeEnd);
+      thumbLo.style.left = lo + "%";
+      thumbHi.style.left = hi + "%";
+      rangeFill.style.left = lo + "%";
+      rangeFill.style.width = (hi - lo) + "%";
+    }
+
+    function onPointerDown(e, which) {
+      e.preventDefault();
+      e.stopPropagation();
+      dragging = which;
+      if (which === "range") {
+        dragStartIdx = indexFromClientX(e.clientX);
+        dragStartLo = rangeStart;
+        dragStartHi = rangeEnd;
+      }
+      document.addEventListener("pointermove", onPointerMove);
+      document.addEventListener("pointerup", onPointerUp);
+      document.addEventListener("pointercancel", onPointerUp);
+    }
+
+    function onPointerMove(e) {
+      if (!dragging) return;
+      const idx = indexFromClientX(e.clientX);
+      const MIN_SPAN = 7;
+      if (dragging === "lo") {
+        rangeStart = Math.min(idx, rangeEnd - MIN_SPAN);
+      } else if (dragging === "hi") {
+        rangeEnd = Math.max(idx, rangeStart + MIN_SPAN);
+      } else if (dragging === "range") {
+        const delta = idx - dragStartIdx;
+        const span = dragStartHi - dragStartLo;
+        const maxIdx = allDates.length - 1;
+        let newLo = dragStartLo + delta;
+        let newHi = dragStartHi + delta;
+        if (newLo < 0) { newLo = 0; newHi = span; }
+        if (newHi > maxIdx) { newHi = maxIdx; newLo = maxIdx - span; }
+        rangeStart = newLo;
+        rangeEnd = newHi;
+      }
+      updateSliderUI();
+      updateMap();
+    }
+
+    function onPointerUp() {
+      dragging = null;
+      document.removeEventListener("pointermove", onPointerMove);
+      document.removeEventListener("pointerup", onPointerUp);
+      document.removeEventListener("pointercancel", onPointerUp);
+    }
+
+    thumbLo.addEventListener("pointerdown", (e) => onPointerDown(e, "lo"));
+    thumbHi.addEventListener("pointerdown", (e) => onPointerDown(e, "hi"));
+    rangeFill.addEventListener("pointerdown", (e) => onPointerDown(e, "range"));
+
+    // Tap on track to jump nearest thumb
+    trackWrapper.addEventListener("pointerdown", (e) => {
+      if (e.target === thumbLo || e.target === thumbHi || e.target === rangeFill) return;
+      const idx = indexFromClientX(e.clientX);
+      const distLo = Math.abs(idx - rangeStart);
+      const distHi = Math.abs(idx - rangeEnd);
+      if (distLo <= distHi) {
+        rangeStart = Math.min(idx, rangeEnd);
+        dragging = "lo";
+      } else {
+        rangeEnd = Math.max(idx, rangeStart);
+        dragging = "hi";
+      }
+      updateSliderUI();
+      updateMap();
+      document.addEventListener("pointermove", onPointerMove);
+      document.addEventListener("pointerup", onPointerUp);
+      document.addEventListener("pointercancel", onPointerUp);
+    });
+
+    function formatDate(d) {
+      const m = d.slice(5, 7);
+      const day = d.slice(8, 10);
+      const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+      return `${months[parseInt(m)-1]} ${parseInt(day)}`;
+    }
+
+    // Pre-build feature objects once; reuse on filter
+    let allFeatures = [];
+    function buildFeatures() {
+      allFeatures = allPoints.map(pt => ({
+        type: "Feature",
+        geometry: { type: "Point", coordinates: [pt.lng, pt.lat] },
+        properties: {
+          severity: pt.severity,
+          weight: SEVERITY_WEIGHT[pt.severity] || 1,
+          name: pt.name,
+          category: pt.categoryLabel,
+          date: pt.date,
+          color: SEVERITY_COLOR[pt.severity] || SEVERITY_COLOR.green,
+        },
+        _dateIdx: pt.dateIdx,
+        _catId: pt.category,
+      }));
+    }
+
+    function getFilteredGeoJSON() {
+      const si = rangeStart;
+      const ei = rangeEnd;
+      dateLabel.textContent = `${formatDate(allDates[si])} \u2013 ${formatDate(allDates[ei])}`;
+
+      const features = [];
+      for (const f of allFeatures) {
+        if (f._dateIdx < si || f._dateIdx > ei) continue;
+        if (!activeCats.has(f._catId)) continue;
+        features.push(f);
+      }
+      return { type: "FeatureCollection", features };
+    }
+
+    let lastSi = -1, lastEi = -1, lastCatKey = "";
+    let updateRAF = 0;
+    function updateMap() {
+      if (!map || !map.getSource("events")) return;
+      const catKey = [...activeCats].join(",");
+      if (rangeStart === lastSi && rangeEnd === lastEi && catKey === lastCatKey) return;
+      lastSi = rangeStart; lastEi = rangeEnd; lastCatKey = catKey;
+      cancelAnimationFrame(updateRAF);
+      updateRAF = requestAnimationFrame(() => {
+        map.getSource("events").setData(getFilteredGeoJSON());
+      });
+    }
+
+    async function init() {
+      const resp = await fetch("data/recent.json");
+      const data = await resp.json();
+
+      allDates = Object.keys(data).sort();
+      if (allDates.length === 0) {
+        document.getElementById("loading").textContent = "No data available.";
+        return;
+      }
+
+      // Extract all geo points
+      allDates.forEach((date, idx) => {
+        const day = data[date];
+        const cats = day.categories || day;
+        for (const [catId, catData] of Object.entries(cats)) {
+          if (!catData.regions) continue;
+          const catMeta = CATEGORIES.find((c) => c.id === catId);
+          for (const r of catData.regions) {
+            if (typeof r.lat !== "number" || typeof r.lng !== "number") continue;
+            allPoints.push({
+              lat: r.lat,
+              lng: r.lng,
+              severity: r.severity || catData.severity,
+              name: r.name,
+              category: catId,
+              categoryLabel: catMeta ? catMeta.label : catId,
+              detail: r.detail || "",
+              date,
+              dateIdx: idx,
+            });
+          }
+        }
+      });
+
+      // Pre-build reusable feature objects
+      buildFeatures();
+
+      // Initialize slider range
+      rangeEnd = allDates.length - 1;
+      updateSliderUI();
+
+      map = new maplibregl.Map({
+        container: "map",
+        style: {
+          version: 8,
+          sources: {
+            carto: {
+              type: "raster",
+              tiles: ["https://a.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}@2x.png"],
+              tileSize: 256,
+              attribution: '&copy; <a href="https://carto.com">CARTO</a> &copy; <a href="https://openstreetmap.org">OSM</a>',
+            },
+            "carto-labels": {
+              type: "raster",
+              tiles: ["https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}@2x.png"],
+              tileSize: 256,
+            },
+          },
+          layers: [
+            { id: "background", type: "background", paint: { "background-color": "#0a0a0c" } },
+            { id: "carto-base", type: "raster", source: "carto", paint: { "raster-opacity": 0.85, "raster-brightness-max": 0.5 } },
+            { id: "carto-labels", type: "raster", source: "carto-labels", paint: { "raster-opacity": 0.5 } },
+          ],
+        },
+        center: [10, 15],
+        zoom: 1.05,
+        minZoom: 0,
+        maxZoom: 12,
+        renderWorldCopies: false,
+        attributionControl: true,
+      });
+
+      map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
+
+      map.on("load", () => {
+        const geojson = getFilteredGeoJSON();
+
+        map.addSource("events", { type: "geojson", data: geojson });
+
+        // Heatmap layer
+        map.addLayer({
+          id: "events-heat",
+          type: "heatmap",
+          source: "events",
+          maxzoom: 9,
+          paint: {
+            "heatmap-weight": ["get", "weight"],
+            "heatmap-intensity": ["interpolate", ["linear"], ["zoom"], 0, 0.6, 6, 2, 9, 3],
+            "heatmap-radius": ["interpolate", ["linear"], ["zoom"], 0, 8, 4, 20, 9, 30],
+            "heatmap-opacity": ["interpolate", ["linear"], ["zoom"], 7, 1, 9, 0],
+            "heatmap-color": [
+              "interpolate", ["linear"], ["heatmap-density"],
+              0,    "rgba(0,0,0,0)",
+              0.15, "rgba(118,173,42,0.4)",
+              0.35, "rgba(229,165,48,0.6)",
+              0.55, "rgba(224,122,58,0.8)",
+              0.8,  "rgba(217,64,64,0.9)",
+              1,    "rgba(217,64,64,1)",
+            ],
+          },
+        });
+
+        // Circle layer at high zoom
+        map.addLayer({
+          id: "events-circles",
+          type: "circle",
+          source: "events",
+          minzoom: 5,
+          paint: {
+            "circle-radius": ["interpolate", ["linear"], ["zoom"], 5, 3, 10, 8],
+            "circle-color": ["get", "color"],
+            "circle-opacity": ["interpolate", ["linear"], ["zoom"], 5, 0, 7, 0.85],
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "rgba(255,255,255,0.15)",
+            "circle-stroke-opacity": ["interpolate", ["linear"], ["zoom"], 5, 0, 7, 1],
+          },
+        });
+
+        // Invisible hit-target layer at all zoom
+        map.addLayer({
+          id: "events-hit",
+          type: "circle",
+          source: "events",
+          paint: {
+            "circle-radius": ["interpolate", ["linear"], ["zoom"], 0, 8, 5, 12, 10, 8],
+            "circle-color": "transparent",
+            "circle-opacity": 0,
+          },
+        });
+
+        // Popup on click — aggregate nearby events
+        map.on("click", "events-hit", (e) => {
+          if (!e.features || e.features.length === 0) return;
+          const clicked = e.features[0];
+          const coords = clicked.geometry.coordinates.slice();
+
+          const si = rangeStart;
+          const ei = rangeEnd;
+          const threshold = 4;
+          const nearby = allPoints.filter(pt => {
+            if (pt.dateIdx < si || pt.dateIdx > ei) return false;
+            if (!activeCats.has(pt.category)) return false;
+            const d = (pt.lng - coords[0]) ** 2 + (pt.lat - coords[1]) ** 2;
+            return d < threshold;
+          });
+
+          if (nearby.length === 0) return;
+
+          const byCat = {};
+          for (const pt of nearby) {
+            if (!byCat[pt.category]) byCat[pt.category] = { label: pt.categoryLabel, severity: pt.severity, details: new Set() };
+            const entry = byCat[pt.category];
+            if (pt.detail) entry.details.add(pt.detail);
+            if (SEVERITY_WEIGHT[pt.severity] > SEVERITY_WEIGHT[entry.severity]) entry.severity = pt.severity;
+          }
+
+          const locCounts = {};
+          nearby.forEach(pt => { locCounts[pt.name] = (locCounts[pt.name] || 0) + 1; });
+          const topLoc = Object.entries(locCounts).sort((a, b) => b[1] - a[1])[0][0];
+
+          const lines = Object.values(byCat).map(cat => {
+            const dot = `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${SEVERITY_COLOR[cat.severity]};margin-right:5px;flex-shrink:0;margin-top:4px;"></span>`;
+            const detail = [...cat.details][0];
+            if (!detail) return "";
+            return `<div style="display:flex;gap:0;margin-bottom:6px;">${dot}<div><strong style="font-size:11px;">${cat.label}</strong><br><span style="color:#c8c6c0;font-size:11px;line-height:1.35;">${detail}</span></div></div>`;
+          }).filter(Boolean).join("");
+
+          const allDatesSet = new Set();
+          nearby.forEach(pt => allDatesSet.add(pt.date));
+          const dateCount = allDatesSet.size;
+          const dateRange = dateCount === 1
+            ? [...allDatesSet][0]
+            : `${dateCount} days`;
+
+          new maplibregl.Popup({ offset: 10, closeButton: true, maxWidth: "320px" })
+            .setLngLat(coords)
+            .setHTML(`
+              <div style="font-weight:600;font-size:13px;margin-bottom:2px;">${topLoc}</div>
+              <div style="font-size:10px;color:#7a7872;margin-bottom:8px;">${dateRange} &middot; ${nearby.length} events</div>
+              ${lines}
+            `)
+            .addTo(map);
+        });
+
+        map.on("mouseenter", "events-hit", () => {
+          map.getCanvas().style.cursor = "pointer";
+        });
+        map.on("mouseleave", "events-hit", () => {
+          map.getCanvas().style.cursor = "";
+        });
+
+        document.getElementById("loading").classList.add("hidden");
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>

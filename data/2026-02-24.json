@@ -1,0 +1,412 @@
+{
+  "date": "2026-02-24",
+  "timestamp": 1772809591606,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine war enters fifth year amidst global calls for peace.",
+      "summary": "The fourth anniversary of Russia's full-scale invasion of Ukraine was marked by high-level debates at the UN, with renewed calls for a comprehensive, just, and lasting peace. The conflict continues to cause immense suffering and humanitarian strain, with fighting reported in various regions. Additionally, South Sudan is experiencing intensified conflict in Jonglei State, and Iran is preparing for potential military action with the US.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Fighting reported as Ukraine war enters fifth year, amidst global calls for peace."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7,
+          "lng": 31,
+          "severity": "red",
+          "detail": "Intensified conflict was reported, exacerbating humanitarian strain."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran was preparing for potential military action with the US."
+        },
+        {
+          "name": "Bandar Abbas, Iran",
+          "lat": 27.18,
+          "lng": 56.26,
+          "severity": "yellow",
+          "detail": "Iran was preparing for potential military action with the US."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia's full-scale invasion of Ukraine entered its fifth year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Iran detains thousands; Brazil trials for killed defenders begin.",
+      "summary": "Iran's authorities have reportedly intensified a brutal campaign of mass arbitrary detentions, torture, and enforced disappearances following January 2026 massacres of protesters. In Brazil, trials have begun for the killings of prominent human rights defenders Marielle Franco and Mãe Bernadete, with Amnesty International pressing for full accountability. Additionally, in Gaza, UNRWA reported ongoing civilian casualties, with a significant increase in ectoparasitic skin infections and waterborne diseases due to deteriorating conditions.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Authorities intensified mass arbitrary detentions, torture, and enforced disappearances."
+        },
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "lat": -22.9068,
+          "lng": -43.1729,
+          "severity": "yellow",
+          "detail": "Trials began for the killing of human rights defender Marielle Franco."
+        },
+        {
+          "name": "Bahia, Brazil",
+          "lat": -12.5,
+          "lng": -41.7,
+          "severity": "yellow",
+          "detail": "Trials began for the killing of human rights defender Mãe Bernadete."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "UNRWA reported ongoing civilian casualties and increased skin infections."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.95,
+          "lng": 35.23,
+          "severity": "red",
+          "detail": "No specific human rights event was detailed for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "No major new climate events reported on February 24.",
+      "summary": "No major climate events or significant new developments were specifically reported on February 24, 2026. Discussions continued regarding the broader challenges of climate change and upcoming global conferences scheduled for later in the year. The impact of a warming planet on storms was a topic of discussion.",
+      "regions": [
+        {
+          "name": "Copenhagen, Denmark",
+          "lat": 55.6761,
+          "lng": 12.5683,
+          "severity": "green",
+          "detail": "No major new climate events were specifically reported for this location."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "No major new climate events were specifically reported for this location."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "green",
+          "detail": "No major new climate events were specifically reported for this location."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Regional outbreaks and funding cuts raise health concerns.",
+      "summary": "Several public health concerns were reported globally, including ongoing outbreaks of leptospirosis in Fiji, pertussis in Micronesia and Vanuatu, and a prolonged dengue outbreak in Samoa. In the US, COVID-19 infections were reportedly growing or likely growing in six states. Challenges persisted in addressing HIV/AIDS, tuberculosis, and malaria, particularly in Africa, alongside concerns about decreased EU funding for global health initiatives.",
+      "regions": [
+        {
+          "name": "Suva, Fiji",
+          "lat": -18.1248,
+          "lng": 178.4358,
+          "severity": "yellow",
+          "detail": "An ongoing outbreak of leptospirosis was reported."
+        },
+        {
+          "name": "Pohnpei, Federated States of Micronesia",
+          "lat": 6.9208,
+          "lng": 158.151,
+          "severity": "yellow",
+          "detail": "An ongoing outbreak of pertussis was reported."
+        },
+        {
+          "name": "Upolu, Samoa",
+          "lat": -13.9,
+          "lng": -171.72,
+          "severity": "yellow",
+          "detail": "A prolonged dengue outbreak was reported."
+        },
+        {
+          "name": "Duk County, South Sudan",
+          "lat": 7.59,
+          "lng": 31.79,
+          "severity": "red",
+          "detail": "Challenges persisted in addressing HIV/AIDS, tuberculosis, and malaria."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "Disease outbreaks were increasing due to dire living conditions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "New US global tariffs enacted; geopolitical tensions weigh on markets.",
+      "summary": "New 10% global tariffs imposed by Donald Trump took effect, leading to uncertainty in international trade and logistics, though initial market reaction was somewhat muted compared to previous tariff shocks. Geopolitical tensions, particularly involving the US and Iran, contributed to market volatility and drove gold prices to multi-year highs. A survey of banks highlighted the re-emergence of credit risk and financial crime as top concerns, with geopolitical developments strongly influencing strategic agendas in Europe and the Middle East.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "New 10% global tariffs imposed by Donald Trump took effect."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Geopolitical developments influenced strategic agendas."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Geopolitical tensions with the US contributed to market volatility."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Geopolitical developments influenced strategic agendas."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New global tariffs took effect, creating market uncertainty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democrats respond to State of the Union amidst divisions.",
+      "summary": "On February 24, 2026, US Democrats presented varied reactions to President Donald Trump's State of the Union address, with some members opting to attend alternative \"People's State of the Union\" events. This highlighted ongoing political divisions within the country. While no major democratic crises or widespread democratic erosion events were reported globally on this specific date, the use of AI in potentially undermining democratic processes was a broader concern.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Democrats reacted to President Trump's State of the Union address."
+        },
+        {
+          "name": "Portland, USA",
+          "lat": 45.5051,
+          "lng": -122.675,
+          "severity": "green",
+          "detail": "Some Democrats attended alternative \"People's State of the Union\" events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis deepens; aid efforts in South Sudan face challenges.",
+      "summary": "The humanitarian crisis in the Gaza Strip continued to be severe, with UNRWA reporting significant civilian casualties, widespread displacement, and critical shortages of essential goods. Aid access remained hampered by blockades, and disease outbreaks were sharply increasing due to dire living conditions. In South Sudan, a UN official concluded a mission advocating for peace and access, as intensified conflict and a cholera outbreak exacerbated an already acute humanitarian situation in Jonglei State, with UNICEF delivering emergency supplies.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "Humanitarian crisis deepened with civilian casualties and critical shortages."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7,
+          "lng": 31,
+          "severity": "red",
+          "detail": "Intensified conflict and a cholera outbreak exacerbated the humanitarian crisis."
+        },
+        {
+          "name": "Ayod County, South Sudan",
+          "lat": 7.1,
+          "lng": 31.84,
+          "severity": "red",
+          "detail": "UNICEF delivered emergency supplies amidst an acute humanitarian situation."
+        },
+        {
+          "name": "Duk County, South Sudan",
+          "lat": 7.59,
+          "lng": 31.79,
+          "severity": "red",
+          "detail": "Humanitarian aid efforts faced challenges amidst conflict and disease outbreaks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVKtpREnVbOnTZ_ZFfYmhhYpdgAXxxBl15xAbx4Wh86OYwvtnearEeIcarp-UQT67GiwZYzWJdhNz0Fnp8JeXbxM3Qy0kg81lxnGHRqcpl63P1T1NuiBSoxvH6zxZYDDBBkkUBs5CU"
+        },
+        {
+          "title": "www.gov.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYO0OyFP88AN9ajp_7p8K82LmvDJt9ZkCjOC5wjffzatu-P6sB48rjswm7MlkEVgYh-szgyecUtExcfQ7SF5ZBl-FfoNmFFP2DTIN8lX7knB3XMvaO4tJnM8WeSZWIYuwqAAoDntNtsPl3rsgAzLIKKoeWEGaZEeAzC4nOIYLZEo2XwoP00LLlY_plX2-MrqLL79HlbpKR7klsAGNVBM_QMoO_jBh02lu7BwSfKA=="
+        },
+        {
+          "title": "passblue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1GrODHftS1UP18ZLYpWztDi7mPCx5psyIdF7ff7b_AYLjRVZ-v_sjHN_GAVK5w5Cxhr3AjOAJCthSu6xmtzGG6EPnviBbYnqcLAqONTo4KsJxjO9GtZ1kIPnU_ki_JLJ71T68BslHxFRX5-Xy-M_RpZ4oYU_BhmhVTSsyRK1U5o-_UjQX59KNeaHmMVyjfZB6-Dco5ebW17NP8SE6w=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJyekJg36_MnA42sPTUq9uW5qnpWxdbLBfgevwmyBQwHJS3pGdXHfbn-tzPozxVboAIjkQRqfkNmMrDUaGYwvWxBTwgKXSJm0OSTYzYcGXPXg5LoPPm0gVZRLo_8f6h-1WJ8ZRTxOTxGJcw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8hrdnwoCdGR4oIFBMBDO2TGwmvwxZhxau5zh5GLLnW4MsjCkfJGSbyu5pOYpIK5pxzTzM6o8Tbpvb_1EChxBqzTuVTeGWqUiEUOXqZ8cRQnJF-KA9HnsK987Bhn4GCrX7ARjSXBcv_6RDMed6EqpUDZErDyQDqpO22JszXW_xM4AabSb-uvHL-H4="
+        }
+      ]
+    }
+  }
+}
