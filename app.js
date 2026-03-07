@@ -1,5 +1,5 @@
 (() => {
-  const DAYS = 90;
+  const DAYS = window.innerWidth < 768 ? 30 : 90;
   const BAR_HEIGHT = 34;
   const BAR_WIDTH = 3;
   const BAR_GAP = 2;
@@ -315,6 +315,9 @@
   }
 
   function render() {
+    const daysLabel = document.getElementById("days-label");
+    if (daysLabel) daysLabel.textContent = `Status over the past ${DAYS} days.`;
+
     const dates = getDateRange(DAYS);
     const today = dates[dates.length - 1];
     const todayAssessment = assessments.get(today);
