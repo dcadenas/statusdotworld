@@ -457,7 +457,7 @@
 
       const footer = document.createElement("div");
       footer.className = "bar-footer";
-      footer.innerHTML = `<span>90 days ago</span><div class="spacer"></div><span>${uptime} % stability</span><div class="spacer"></div><span>Today</span>`;
+      footer.innerHTML = `<span>${DAYS} days ago</span><div class="spacer"></div><span>${uptime} % stability</span><div class="spacer"></div><span>Today</span>`;
 
       row.appendChild(header);
       row.appendChild(svg);
