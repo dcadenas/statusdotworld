@@ -278,7 +278,7 @@
 
   // Build past incidents section
   function buildIncidents(dates) {
-    const recentDates = dates.slice(-7).reverse();
+    const recentDates = dates.slice(-2, -1);
     let html = `<div class="incidents-heading">Past Incidents</div>`;
 
     for (const dateStr of recentDates) {
