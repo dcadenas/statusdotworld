@@ -390,6 +390,7 @@
               <span class="severity-dot ${i.severity}"></span>
               <span class="active-incident-name">${i.label}</span>
               <span class="active-incident-status">${statusWord[i.severity]}</span>
+              <span class="active-incident-chevron">&#x203A;</span>
             </div>
             <div class="active-incident-detail"></div>
           </div>`

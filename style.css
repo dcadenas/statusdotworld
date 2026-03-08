@@ -165,6 +165,18 @@ body {
   margin-left: auto;
 }
 
+.active-incident-chevron {
+  font-size: 18px;
+  color: var(--text-light);
+  transition: transform 0.15s;
+  line-height: 1;
+}
+
+.active-incident-detail.open ~ .active-incident-chevron,
+.active-incident:has(.active-incident-detail.open) .active-incident-chevron {
+  transform: rotate(90deg);
+}
+
 .active-incident .severity-dot {
   display: inline-block;
   width: 7px;
