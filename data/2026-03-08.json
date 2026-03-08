@@ -1,0 +1,475 @@
+{
+  "date": "2026-03-08",
+  "timestamp": 1772950219102,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict intensifies with widespread strikes and casualties.",
+      "summary": "The conflict in the Middle East has dramatically escalated, with Israel launching new waves of strikes across Iran, targeting military assets and fuel storage complexes in Tehran. Lebanon is also heavily impacted, with Israeli airstrikes in Beirut and southern regions causing numerous deaths and prompting humanitarian disaster warnings. Iran has retaliated with missile and drone attacks towards Israel and Gulf states like Saudi Arabia, Bahrain, and Kuwait.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israel conducted targeted airstrikes on multiple Iranian military assets, including fuel storage complexes, in the capital city."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "An Israeli airstrike on a hotel in central Beirut killed at least four people and injured 10 others, with the health ministry warning of a humanitarian disaster."
+        },
+        {
+          "name": "Israel",
+          "lat": 31.0461,
+          "lng": 34.8516,
+          "severity": "red",
+          "detail": "Faced retaliatory missile and drone attacks from Iran, and continued its military campaign in the region, striking Hezbollah in Lebanon."
+        },
+        {
+          "name": "Saudi Arabia",
+          "lat": 23.8859,
+          "lng": 45.0792,
+          "severity": "yellow",
+          "detail": "Interpreted and destroyed 15 Iranian drones that had entered its airspace, some near Riyadh and others elsewhere."
+        },
+        {
+          "name": "Bahrain",
+          "lat": 25.9304,
+          "lng": 50.6377,
+          "severity": "yellow",
+          "detail": "Targeted by Iranian missile and drone attacks, with sirens sounding in the country."
+        },
+        {
+          "name": "Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "yellow",
+          "detail": "Faced Iranian missile and drone attacks, and cut crude oil production amid renewed tensions."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "A missile reportedly landed at the US Embassy compound in the heavily fortified Green Zone, with no casualties reported."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Russian strikes killed 12 across Ukraine as part of ongoing hostilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Air pollution linked to widespread human rights violations globally.",
+      "summary": "A UN special rapporteur warned that air pollution contributes to widespread human rights violations, disproportionately harming vulnerable populations and undermining the rights to life and health globally. On International Women's Day, discussions highlighted the inadequate funding for women affected by climate change and the rising number of immigrant women in US detention facing potential abuses.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A UN special rapporteur highlighted that air pollution is contributing to widespread human rights violations worldwide."
+        },
+        {
+          "name": "Kyrgyzstan",
+          "lat": 41.2044,
+          "lng": 74.7661,
+          "severity": "yellow",
+          "detail": "Women with disabilities face alarming rates of harassment, abuse, and economic discrimination despite legal reforms."
+        },
+        {
+          "name": "United States",
+          "lat": 39.7837,
+          "lng": -100.4458,
+          "severity": "yellow",
+          "detail": "The rising number of immigrant women in US detention, including pregnant teenagers, faces human rights concerns like lack of safe abortion care."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "On International Women's Day, concerns were raised about inadequate funding to support women disproportionately affected by climate change and the systematic gutting of rural employment schemes impacting female autonomy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Global warming accelerating significantly; US hit by severe storms.",
+      "summary": "A study by the Potsdam Institute for Climate Impact Research found a 'statistically significant' acceleration of global warming since 2015, with the past decade's warming rate being higher than any previous decade since 1880. Meanwhile, severe weather continues to impact the central and southern US, with tornadoes causing deaths and injuries in Michigan and Oklahoma, and warnings issued for potential widespread power outages and travel chaos due to heavy snow in other regions.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A study published by the Potsdam Institute for Climate Impact Research in Paris revealed a significant acceleration of global warming since 2015."
+        },
+        {
+          "name": "Michigan, United States",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "red",
+          "detail": "Severe weather, including a large and powerful tornado in Three Rivers, caused multiple deaths and injuries."
+        },
+        {
+          "name": "Oklahoma, United States",
+          "lat": 35.0077,
+          "lng": -97.0929,
+          "severity": "red",
+          "detail": "Tornadoes, including an EF2 tornado near Fairview, caused deaths and significant damage."
+        },
+        {
+          "name": "Juneau, Alaska, United States",
+          "lat": 58.3019,
+          "lng": -134.4197,
+          "severity": "yellow",
+          "detail": "Authors discussed climate change impacts, with the Mendenhall Glacier continuing to retreat significantly annually."
+        },
+        {
+          "name": "South Carolina, United States",
+          "lat": 33.8361,
+          "lng": -81.1637,
+          "severity": "yellow",
+          "detail": "Designated Severe Weather and Flood Safety Week to promote awareness and preparedness for severe storms, tornadoes, and flash flooding."
+        },
+        {
+          "name": "Indiana, United States",
+          "lat": 40.2672,
+          "lng": -86.1349,
+          "severity": "yellow",
+          "detail": "Marked Severe Weather Preparedness Week, including a statewide tornado drill."
+        },
+        {
+          "name": "Shangla, Pakistan",
+          "lat": 34.9126,
+          "lng": 72.8631,
+          "severity": "yellow",
+          "detail": "Residents complained about the continuous dumping of waste into the Indus River, causing severe environmental pollution."
+        },
+        {
+          "name": "Hung Yen, Vietnam",
+          "lat": 20.7099,
+          "lng": 106.0592,
+          "severity": "green",
+          "detail": "A $153 million waste-to-energy plant project broke ground, utilizing advanced incineration technology to treat waste and produce clean energy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Air pollution poses global public health threat; flu cases rise.",
+      "summary": "A UN report highlighted that air pollution is responsible for millions of premature deaths annually and is a significant global public health concern, disproportionately affecting vulnerable populations. Additionally, the flu has taken the lead over COVID-19 in outbreaks this season, with cases climbing and hospitalizations rising nationwide, exacerbated by a mutated H3N2 strain making the current vaccine less effective.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Air pollution is contributing to millions of premature deaths annually and poses a major threat to public health and human dignity."
+        },
+        {
+          "name": "United States",
+          "lat": 39.7837,
+          "lng": -100.4458,
+          "severity": "yellow",
+          "detail": "Flu cases are climbing faster than COVID-19 outbreaks, with hospitalizations rising due to a mutated H3N2 strain."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "green",
+          "detail": "The newspaper mentioned 'Polio, again', indicating ongoing but not necessarily escalated concerns about polio."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict sparks global economic turmoil and financial crisis fears.",
+      "summary": "The escalating military confrontation involving the US, Israel, and Iran is causing severe shocks to the global economy, driving up oil prices (surpassing $90 a barrel) and threatening shipping through critical chokepoints like the Strait of Hormuz. Warnings from financial heavyweights about a looming financial crisis in 2026, fueled by post-pandemic debt growth and an AI bubble, are intensifying, with market volatility and adjustments already observed.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The Middle East conflict is causing significant disruptions to oil supply, trade routes, and overall financial market stability, with warnings of a looming global financial crisis."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5658,
+          "lng": 56.5499,
+          "severity": "red",
+          "detail": "A critical maritime chokepoint through which nearly one-fifth of global crude oil supply passes daily, now threatened by intensifying geopolitical tensions."
+        },
+        {
+          "name": "United States",
+          "lat": 39.7837,
+          "lng": -100.4458,
+          "severity": "yellow",
+          "detail": "US stock exchange experiences volatility and adjustments due to financial crisis warnings and geopolitical risks, with a pullback in tech stocks."
+        },
+        {
+          "name": "Asia",
+          "lat": 34.0479,
+          "lng": 100.6197,
+          "severity": "yellow",
+          "detail": "Asian economies face higher inflation due to rising energy prices and disruptions from the Middle East conflict."
+        },
+        {
+          "name": "South Korea",
+          "lat": 35.9078,
+          "lng": 127.7669,
+          "severity": "yellow",
+          "detail": "The daily volatility of the won against the dollar reached its highest level since the COVID-19 pandemic, attributed to high energy import dependence and Middle East tensions."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "yellow",
+          "detail": "Facing a double-edged reality where higher oil prices could boost export revenues but also worsen domestic inflation and strain household incomes."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "The Planning Commission cautioned about possible economic impacts, including increased energy costs, strain on remittance inflows, and potential interruptions to exports."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy faces daily assaults; women's rights erosion threatens global democracy.",
+      "summary": "Former President Barack Obama warned of daily assaults on democratic institutions in the US, alongside setbacks to the rule of law and an offense to common decency. Globally, the treatment of women is seen as weakening democracy, with authoritarian regimes intentionally restricting women's rights and opportunities, impacting the structures that keep governments fair.",
+      "regions": [
+        {
+          "name": "Chicago, United States",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "Former President Barack Obama spoke at a memorial service, warning that the US faces daily assaults on its democratic institutions."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The health of democracy globally is closely tied to the treatment of women, with limits on rights and opportunities weakening governmental structures."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "The introduction of new labor codes in 2026 is seen as posing an existential threat to women's rights and economic independence, undermining democratic principles."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Intensifying Iran and Lebanon conflicts create severe humanitarian crises.",
+      "summary": "The escalating conflict in Iran has led to a critical humanitarian crisis, with over 1,300 people killed and around 100,000 displaced, straining relief efforts and prompting urgent calls for assistance. Similarly, in Lebanon, Israeli airstrikes have resulted in at least 294 deaths over the past week, with the Prime Minister warning of a looming humanitarian disaster as large-scale displacement is also reported.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Over 1,300 people have been killed and approximately 100,000 displaced as the conflict intensifies, reaching a critical humanitarian stage."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Targeted by Israeli airstrikes on military assets and fuel storage complexes, contributing to the humanitarian toll."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "An Israeli airstrike on a hotel killed four people and wounded ten, amidst a week of strikes that have killed at least 294 people in Lebanon, leading to warnings of a looming humanitarian disaster."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.35,
+          "lng": 35.45,
+          "severity": "red",
+          "detail": "Faced renewed Israeli assaults, with 12 people killed overnight in three separate strikes."
+        },
+        {
+          "name": "Iraq",
+          "lat": 33.2232,
+          "lng": 43.6793,
+          "severity": "yellow",
+          "detail": "Kurdish Iranian groups in northern Iraq reported their camps were targeted by drones, indicating a spillover of the conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE41NOGCu0olDdk7xeSlX-IgBKK_5_krk4yrD0cwz8lSo82gAW08CN12FCy3dW1xMxZVaebYIl2ltJdUqPlZd308GLJA5T7d6uoFJD3aLCLOVmqQLtF6ZKQcR54hfJtN2KsBKHZRZ2hgzzJ3Z1sVc5qkh_oR3aLd37QrwLY9h6OlsKOuStIoHt2Je2pooFhEQ5oAXpRXO2VCuXdqHbZgVnDtnlm"
+        },
+        {
+          "title": "ddnews.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXu8bTf_vOsT0j1Opj2b8U2BZxyiDoBuzv2dZfSy1jf69MrySGtpd5SVP40Och0kwL6GNdqgbTXUdZ51nWeniZ5tnl0CzbrkTSwViWsvDITYC4ObKBF5OYEFhXiJDTGFEqTU7Mcdr5nwPJN6R_O1e0iR3zlsz03WICJ3umoTwwP3Wix91LUA0HbyCiQ5daC1VRfk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBS52RBHqVAM68d8mNMR8-6y1EaopWL-FIDko2oNQbTZGTuZZS_bqZ5rGo0NkkYyh6_OJsPPtGr7hSzm_xdNlSHkP8vnMPh4irPGVrDH2f61QtEhYA3HYabH_QV42PUZ-v89Wr1sXR-iADs85M1v_KUDJlbVLWFI202a01t3qZJx1tKTonldUAvqw="
+        },
+        {
+          "title": "newtelegraphng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJgyK-I9iqujbus-JoOYOGgLpjR8T9tplgqo1XeifWQAu-nT4h2hRSzeG7oJ_kHae72BRfJNLuWEa9Bj6NpnnWf9Pi3TIJcOeT3BkOcxH_eNDr47jAKN4S8t1FVd8BaAehidyb1wzVV96cB9HVTVlEeeV0t9XxegJ08YUOAEpmoBUSXJjEqGJ6-X8UGcRZXJhRdMyPpFStalqcbaAklQvkmtl9u0="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRRgEs51OkakuM2Q50hGo2VJepYBMYC-IJ0fbdjJ5yUIOYd5VW5xG4gX26phX3C58sZNovvxKU6O-iGMNkCNzx2QTlLHgGlVxJOMiYD_Kom6Vxa6CIMVtYjvPUb0CY8Hbzw8RUeLZoiN87DzxcoIGnsp4bc8UYXglzXlM="
+        }
+      ]
+    }
+  }
+}
