@@ -64,7 +64,7 @@
   }
 
   // Tooltip
-  function showTooltip(e, dateStr, catId, expanded) {
+  function showTooltip(e, dateStr, catId) {
     const assessment = assessments.get(dateStr);
     const catData = assessment?.categories?.[catId];
     if (!catData) {
@@ -72,7 +72,7 @@
         <div class="tooltip-date">${formatDate(dateStr)}</div>
         <div class="tooltip-text" style="color:var(--text-light)">No data</div>
       `;
-    } else if (expanded) {
+    } else {
       const sourcesHtml = catData.sources?.length
         ? `<div class="tooltip-sources">${catData.sources.map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.title || s.url}</a>`).join("")}</div>`
         : "";
@@ -83,17 +83,8 @@
         <div class="tooltip-summary">${catData.summary}</div>
         ${sourcesHtml}
       `;
-    } else {
-      tooltipEl.innerHTML = `
-        <div class="tooltip-date">${formatDate(dateStr)}</div>
-        <div>
-          <span class="tooltip-dot ${catData.severity}"></span>
-          <span class="tooltip-text">${catData.headline}</span>
-        </div>
-      `;
     }
-    tooltipEl.classList.toggle("expanded", !!expanded);
-    tooltipEl.classList.add("visible");
+    tooltipEl.classList.add("visible", "expanded");
     positionTooltip(e);
   }
 
@@ -145,6 +136,10 @@
     connectorLine.classList.remove("visible");
     activeBarSvg = null;
   }
+
+  tooltipEl.addEventListener("mouseleave", () => {
+    hideTooltip();
+  });
 
   // Detail rendering helper
   function buildDetailHTML(dateStr, catId) {
@@ -225,8 +220,7 @@
 
       rect.addEventListener("mouseenter", (e) => { activeBarSvg = svg; showTooltip(e, dateStr, catId); });
       rect.addEventListener("mousemove", positionTooltip);
-      rect.addEventListener("mouseleave", hideTooltip);
-      rect.addEventListener("click", (e) => { activeBarSvg = svg; showTooltip(e, dateStr, catId, true); });
+      rect.addEventListener("mouseleave", (e) => { if (!tooltipEl.matches(":hover")) hideTooltip(); });
 
       svg.appendChild(rect);
     }
@@ -281,12 +275,8 @@
       if (!touchActive) return;
       touchActive = false;
       isTouch = false;
-      activeBarSvg = null;
       cursorLine.setAttribute("visibility", "hidden");
       connectorLine.classList.remove("visible");
-      const touch = e.changedTouches[0];
-      const idx = dateFromTouch(touch);
-      showTooltip(touch, dates[idx], catId, true);
     });
 
     return svg;
