@@ -128,7 +128,7 @@ console.log(`Written: ${outPath}`);
 // Regenerate index.json and recent.json
 const { readdirSync } = await import("fs");
 const allDates = readdirSync(dataDir)
-  .filter((f) => f.endsWith(".json") && f !== "index.json" && f !== "recent.json")
+  .filter((f) => f.endsWith(".json") && f !== "index.json" && f !== "recent.json" && f !== "recent-slim.json")
   .map((f) => f.replace(".json", ""))
   .sort();
 
@@ -147,3 +147,15 @@ for (const d of recentDates) {
 }
 writeFileSync(join(dataDir, "recent.json"), JSON.stringify(recent));
 console.log(`Updated: data/recent.json (${Object.keys(recent).length} days)`);
+
+// Generate slim version with just severity per category (for fast initial render)
+const slim = {};
+for (const [date, assessment] of Object.entries(recent)) {
+  const cats = {};
+  for (const [catId, catData] of Object.entries(assessment.categories)) {
+    cats[catId] = { severity: catData.severity, headline: catData.headline };
+  }
+  slim[date] = { categories: cats };
+}
+writeFileSync(join(dataDir, "recent-slim.json"), JSON.stringify(slim));
+console.log(`Updated: data/recent-slim.json`);

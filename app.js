@@ -17,6 +17,7 @@
 
   let categories = [];
   let assessments = new Map();
+  const fullDayCache = new Map();
 
   // Vertical connector line from bar to tooltip (touch only)
   const connectorLine = document.createElement("div");
@@ -63,10 +64,11 @@
     return worst;
   }
 
-  // Tooltip
+  // Tooltip — shows slim data immediately, upgrades with full data
   function showTooltip(e, dateStr, catId) {
-    const assessment = assessments.get(dateStr);
-    const catData = assessment?.categories?.[catId];
+    const slim = assessments.get(dateStr);
+    const full = fullDayCache.get(dateStr);
+    const catData = (full || slim)?.categories?.[catId];
     if (!catData) {
       tooltipEl.innerHTML = `
         <div class="tooltip-date">${formatDate(dateStr)}</div>
@@ -80,12 +82,21 @@
         <div class="tooltip-date">${formatDate(dateStr)}</div>
         <div class="tooltip-severity ${catData.severity}">${catData.severity}</div>
         <div class="tooltip-headline">${catData.headline}</div>
-        <div class="tooltip-summary">${catData.summary}</div>
+        ${catData.summary ? `<div class="tooltip-summary">${catData.summary}</div>` : ""}
         ${sourcesHtml}
       `;
     }
     tooltipEl.classList.add("visible", "expanded");
     positionTooltip(e);
+
+    // Lazy-load full data if not cached yet
+    if (!full) {
+      getFullDay(dateStr).then(() => {
+        if (tooltipEl.classList.contains("visible")) {
+          showTooltip(e, dateStr, catId);
+        }
+      });
+    }
   }
 
   let isTouch = false;
@@ -141,9 +152,21 @@
     hideTooltip();
   });
 
+  async function getFullDay(dateStr) {
+    if (fullDayCache.has(dateStr)) return fullDayCache.get(dateStr);
+    try {
+      const res = await fetch(`data/${dateStr}.json`);
+      if (!res.ok) return null;
+      const data = await res.json();
+      fullDayCache.set(dateStr, data);
+      return data;
+    } catch { return null; }
+  }
+
   // Detail rendering helper
   function buildDetailHTML(dateStr, catId) {
-    const assessment = assessments.get(dateStr);
+    const full = fullDayCache.get(dateStr);
+    const assessment = full || assessments.get(dateStr);
     const catData = assessment?.categories?.[catId];
     const catMeta = categories.find((c) => c.id === catId);
     if (!catData || !catMeta) return null;
@@ -282,13 +305,14 @@
     return svg;
   }
 
-  // Build past incidents section
-  function buildIncidents(dates) {
+  // Build past incidents section (lazy-loads full data for summaries)
+  async function buildIncidents(dates) {
     const recentDates = dates.slice(-2, -1);
     let html = `<div class="incidents-heading">Past Incidents</div>`;
 
     for (const dateStr of recentDates) {
-      const assessment = assessments.get(dateStr);
+      const full = await getFullDay(dateStr);
+      const assessment = full || assessments.get(dateStr);
       html += `<div class="incident-day">`;
       html += `<div class="incident-date">${formatDateLong(dateStr)}</div>`;
 
@@ -304,7 +328,7 @@
                 <span class="severity-dot ${catData.severity}"></span>
                 ${catMeta?.label || catId} - ${catData.headline}
               </div>
-              <div class="incident-body">${catData.summary}</div>
+              ${catData.summary ? `<div class="incident-body">${catData.summary}</div>` : ""}
             </div>`;
           }
         } else {
@@ -396,10 +420,10 @@
           </div>`
         ).join("");
 
-        // Click to expand inline detail
+        // Click to expand inline detail (lazy-loads full data)
         activeEl.querySelectorAll(".active-incident").forEach(el => {
           el.style.cursor = "pointer";
-          el.addEventListener("click", (e) => {
+          el.addEventListener("click", async (e) => {
             e.stopPropagation();
             const catId = el.dataset.catId;
             const detailEl = el.querySelector(".active-incident-detail");
@@ -408,11 +432,11 @@
               detailEl.innerHTML = "";
               return;
             }
-            // Close any other open inline details
             activeEl.querySelectorAll(".active-incident-detail.open").forEach(d => {
               d.classList.remove("open");
               d.innerHTML = "";
             });
+            await getFullDay(today);
             const html = buildDetailHTML(today, catId);
             if (html) {
               detailEl.innerHTML = html;
@@ -482,7 +506,7 @@
     try {
       const [catRes, recentRes] = await Promise.all([
         fetch("categories.json"),
-        fetch("data/recent.json"),
+        fetch("data/recent-slim.json"),
       ]);
 
       categories = await catRes.json();
