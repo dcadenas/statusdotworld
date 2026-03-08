@@ -64,13 +64,24 @@
   }
 
   // Tooltip
-  function showTooltip(e, dateStr, catId) {
+  function showTooltip(e, dateStr, catId, expanded) {
     const assessment = assessments.get(dateStr);
     const catData = assessment?.categories?.[catId];
     if (!catData) {
       tooltipEl.innerHTML = `
         <div class="tooltip-date">${formatDate(dateStr)}</div>
         <div class="tooltip-text" style="color:var(--text-light)">No data</div>
+      `;
+    } else if (expanded) {
+      const sourcesHtml = catData.sources?.length
+        ? `<div class="tooltip-sources">${catData.sources.map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.title || s.url}</a>`).join("")}</div>`
+        : "";
+      tooltipEl.innerHTML = `
+        <div class="tooltip-date">${formatDate(dateStr)}</div>
+        <div class="tooltip-severity ${catData.severity}">${catData.severity}</div>
+        <div class="tooltip-headline">${catData.headline}</div>
+        <div class="tooltip-summary">${catData.summary}</div>
+        ${sourcesHtml}
       `;
     } else {
       tooltipEl.innerHTML = `
@@ -81,6 +92,7 @@
         </div>
       `;
     }
+    tooltipEl.classList.toggle("expanded", !!expanded);
     tooltipEl.classList.add("visible");
     positionTooltip(e);
   }
@@ -129,7 +141,7 @@
   }
 
   function hideTooltip() {
-    tooltipEl.classList.remove("visible");
+    tooltipEl.classList.remove("visible", "expanded");
     connectorLine.classList.remove("visible");
     activeBarSvg = null;
   }
@@ -173,12 +185,17 @@
 
   detailClose.addEventListener("click", closeDetail);
 
-  // Close detail panel on outside click
+  // Close detail panel or expanded tooltip on outside click
   document.addEventListener("click", (e) => {
     if (detailPanel.classList.contains("open") &&
         !detailPanel.contains(e.target) &&
         !e.target.closest(".bar-chart")) {
       closeDetail();
+    }
+    if (tooltipEl.classList.contains("expanded") &&
+        !tooltipEl.contains(e.target) &&
+        !e.target.closest(".bar-chart")) {
+      hideTooltip();
     }
   });
 
@@ -209,7 +226,7 @@
       rect.addEventListener("mouseenter", (e) => { activeBarSvg = svg; showTooltip(e, dateStr, catId); });
       rect.addEventListener("mousemove", positionTooltip);
       rect.addEventListener("mouseleave", hideTooltip);
-      rect.addEventListener("click", () => showDetail(dateStr, catId));
+      rect.addEventListener("click", (e) => { activeBarSvg = svg; showTooltip(e, dateStr, catId, true); });
 
       svg.appendChild(rect);
     }
@@ -269,8 +286,7 @@
       connectorLine.classList.remove("visible");
       const touch = e.changedTouches[0];
       const idx = dateFromTouch(touch);
-      hideTooltip();
-      showDetail(dates[idx], catId);
+      showTooltip(touch, dates[idx], catId, true);
     });
 
     return svg;
