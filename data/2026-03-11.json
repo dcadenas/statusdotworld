@@ -1,0 +1,461 @@
+{
+  "date": "2026-03-11",
+  "timestamp": 1773209583080,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel War on Iran Intensifies, Regional Conflict Widens",
+      "summary": "The US-Israel war on Iran has intensified significantly on March 11, 2026, with reports of heavy airstrikes on Iran, Israeli strikes in central Beirut, and Iranian missile attacks on Israel and US bases in Kuwait and Saudi Arabia. This marks the second week of a severe regional crisis, leading to military spending increases and fears of a wider war across the Middle East.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faced intense airstrikes from the US and Israel, with military and nuclear sites targeted in recent days."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes hit central Beirut, exacerbating an already tense situation with Hezbollah, while Lebanon sees mass displacement due to escalating hostilities."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel detected and intercepted multiple missile salvos launched from Iran, activating air defenses."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "A major US diplomatic facility in Iraq was hit by a drone strike, suspected to be in retaliation by pro-Tehran militias."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "yellow",
+          "detail": "Iran's Revolutionary Guards claimed responsibility for firing at least two missiles at a United States base in Kuwait."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia intercepted several ballistic missiles launched from Iran targeting an air base and its eastern region."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US military destroyed 16 Iranian mine-laying vessels near the Strait of Hormuz amidst fears of Iran blocking global oil shipments."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Sudan Atrocities Persist, Iran Targets Protesters, Egypt Represses Dissent",
+      "summary": "Human rights concerns are elevated on March 11, 2026, with persistent atrocities reported in Sudan by the Rapid Support Forces, which a new coalition aims to prevent. In Iran, police warned anti-government protesters they would be treated as 'enemies.' Meanwhile, Egypt continues to tightly control political parties, civil society, and media, with ongoing arrests and surveillance of activists.",
+      "regions": [
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.6185,
+          "lng": 25.3524,
+          "severity": "red",
+          "detail": "The Rapid Support Forces' capture of El Fasher has led to findings by the UN that their attacks bore the hallmark of genocidal violence."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's national police chief warned that anti-government protesters would be treated as 'enemies,' indicating severe repression."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "Egypt maintains a highly centralized political system, with authorities continuing to target, arrest, and detain political opponents, activists, and commentators."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Reports indicate a surge in enforced disappearances in Kinshasa."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Severe Freezing Rain Predicted for Eastern Canada; Global Sea Level Underestimated",
+      "summary": "A severe and prolonged freezing rain event is predicted for parts of Ontario, Quebec, and Atlantic Canada for March 11, 2026, posing risks of difficult travel and power outages. Globally, a new study reveals that climate change's rising seas may threaten tens of millions more people than previously thought due to underestimated coastal water heights, especially in the Global South, the Pacific, and Southeast Asia.",
+      "regions": [
+        {
+          "name": "Quebec City, Quebec, Canada",
+          "lat": 46.8139,
+          "lng": -71.208,
+          "severity": "yellow",
+          "detail": "A severe and widespread freezing rain event is predicted for areas of Quebec on March 11, 2026, which may be extensive and prolonged."
+        },
+        {
+          "name": "Toronto, Ontario, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "yellow",
+          "detail": "Areas of Ontario are bracing for a severe freezing rain event on March 11, 2026, which could lead to difficult travel and power outages."
+        },
+        {
+          "name": "Halifax, Nova Scotia, Canada",
+          "lat": 44.6488,
+          "lng": -63.5752,
+          "severity": "yellow",
+          "detail": "Atlantic Canada is expected to experience a severe freezing rain event on March 11, 2026."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "The Global South, including Southeast Asia, faces higher risks from rising sea levels due to previously underestimated coastal water heights."
+        },
+        {
+          "name": "Malé, Maldives",
+          "lat": 4.1755,
+          "lng": 73.5093,
+          "severity": "yellow",
+          "detail": "Small island nations like the Maldives are particularly vulnerable to the newly identified underestimated baseline of rising sea levels."
+        },
+        {
+          "name": "Lima, Peru",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "severity": "yellow",
+          "detail": "Peru's Ica Valley is experiencing depleted groundwater levels due to large-scale irrigation for export agriculture, linking consumption to water stress and inequality."
+        },
+        {
+          "name": "Kitwe, Zambia",
+          "lat": -12.8251,
+          "lng": 28.2147,
+          "severity": "yellow",
+          "detail": "An acid spill from a Chinese-owned copper mine contaminated the Kafue River, forcing a shutdown of the water supply to Kitwe."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Lebanon Humanitarian Crisis Deepens Amid Escalating Hostilities",
+      "summary": "On March 11, 2026, the humanitarian situation in Lebanon is rapidly deteriorating due to escalating hostilities, with over one million people affected by displacement and rising casualties. The Ministry of Public Health reports 449 killed and 1,294 injured since the escalation began, highlighting significant health and protection needs. In Sudan, the healthcare system is in total collapse, with hospitals postponing routine procedures.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Hostilities are directly impacting large areas of Beirut's southern suburbs, contributing to a rapidly deteriorating humanitarian and health situation."
+        },
+        {
+          "name": "Nabatieh, Lebanon",
+          "lat": 33.5683,
+          "lng": 35.4983,
+          "severity": "red",
+          "detail": "Nabatieh Governorate has the highest reported casualty toll from the ongoing escalation in Lebanon."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The healthcare system in Sudan is in total collapse, with hospitals postponing routine procedures and struggling to maintain emergency services."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "An estimated 60,000 Palestinians have been killed in Gaza, with killings still being recorded despite a ceasefire in October 2025."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East War Roils Global Economy, Oil Prices Swing, Inflation Worries Rise",
+      "summary": "The US-Israel war on Iran has profoundly impacted the global economy on March 11, 2026, causing oil prices to surge and then swing, with the Strait of Hormuz effectively halted for oil and LNG shipments. This has led to concerns about sustained inflation and potential stagflation, influencing stock markets in India and the US, and prompting G7 discussions on energy prices.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Commercial traffic through the Strait of Hormuz has been effectively halted by the conflict, disrupting 20% of global oil and LNG shipments and causing volatility in energy markets."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US stocks pared early gains, with investors weighing diminishing expectations of a quick end to the war against renewed military threats and economic stagflation concerns."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Indian equity benchmarks opened flat as Middle East tensions and the US-Iran war added uncertainty to global markets, though some sectors showed resilience."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "red",
+          "detail": "Iranian attacks on petroleum-producing Gulf Arab countries contribute to global oil market volatility and supply concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Investors are awaiting US economic indicators, including the CPI report, to gauge the Federal Reserve's policy outlook amidst inflation concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Egyptian Government Suppresses Dissent; US Undermines Global Human Rights System",
+      "summary": "On March 11, 2026, Egypt's political system remains highly centralized under President Abdel Fattah Al-Sisi, with authorities continuing to target and detain political opponents, activists, and commentators. The press and social media are closely monitored, and freedom of protest is limited. Internationally, the US, under President Donald Trump, is seen as undermining the global human rights system, which could have broader implications for democratic norms.",
+      "regions": [
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "The Egyptian government continues to exercise broad executive authority, tightly controlling political parties, civil society organizations, and media companies, and suppressing dissent."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US government, under President Donald Trump, is perceived as undermining the global human rights system, threatening the rules-based international order."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "While facing its own democratic challenges, democratic institutions in India continue to operate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Lebanon Humanitarian Crisis Escalates, Affecting Over One Million People",
+      "summary": "The humanitarian situation in Lebanon is rapidly deteriorating on March 11, 2026, with over one million people affected by escalating hostilities, ongoing displacement, and rising casualties. The EU has mobilized emergency humanitarian aid to Lebanon, consisting of food, medical kits, and shelter materials, with hundreds of thousands displaced. The UN warns that global humanitarian need is deepening as funding falls amidst intensifying and prolonged conflicts worldwide.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Hostilities continue to directly impact large areas of Beirut's southern suburbs, leading to significant displacement and humanitarian needs."
+        },
+        {
+          "name": "Nabatieh, Lebanon",
+          "lat": 33.5683,
+          "lng": 35.4983,
+          "severity": "red",
+          "detail": "Nabatieh Governorate reports the highest casualty toll, highlighting the severe humanitarian impact of escalating conflict."
+        },
+        {
+          "name": "Dadaab, Kenya",
+          "lat": 0.5833,
+          "lng": 40,
+          "severity": "yellow",
+          "detail": "Refugee camps like Dadaab continue to face ongoing humanitarian needs amidst global funding shortfalls for aid."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5392,
+          "lng": -72.3364,
+          "severity": "yellow",
+          "detail": "Haiti continues to face humanitarian challenges, with reports of drone strikes putting residents at risk."
+        },
+        {
+          "name": "Cabo Delgado, Mozambique",
+          "lat": -12.449,
+          "lng": 40.522,
+          "severity": "yellow",
+          "detail": "Mozambique requires significant humanitarian assistance for conflict-affected districts, with a substantial resource gap compounded by flood needs."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "The Occupied Palestinian Territory is a major focus for humanitarian aid, with over $4 billion allocated amidst ongoing conflict and casualties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEKt3xs5X1Tl-I6gTxQejp7j5Wp30oGCKp_uz5XSSqYsTOegFg2yrhTirWc-_Lew9d-U3tKuHLp-n5JUoxt9qD4q-0oPFRmKsoUKDvYSs1UTYGFoHKV9y-UQ4-xODzV281kK6WlDpdIfsFLpJN9LCZPcJWyqN6xjSB5I67UaQmzNVBiYc3cTdYVbhYInJYOQYcPF7WVxcYSjz7PuFwsklwAT1F9WN9FL9kUO6meurm4_0ftDMtiahZttqCq65SuYQWos5-50AO38="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd636q1klshSzhCqaJ7pCAnTLsc2QhOgumhzBakv6e4df-g8psDtCPRe2-TDd8orv5ymneT3Tg7P_XrgC--85T8DxiucRknw6kPdKHyuSoFmL-w-HUSJzfNCLYEuGujc_90LiYRqgeIvCMwYYqgd0xFAM2O3TTZVHjMJTk4QzC7orzIwG-jNUIKWCkkpBA5ejkQaTLXJaDc6tbX-p2ervkZxX6lQUUrXOFvDzTZ_GcJrUA3ZWoyoyI"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NMH-y80-xnLwhpw4aXQqfda08sYioZyZRNUbzTxpKgKc4_AvFGuMeyejisWv1mnlXmgHaWFDcJC3PV1AOjBVF0gjjqCW1cLM40GzK6LKCec6S5DSCfUSM3YwctUntnqLWwLKqJO_W3Cz98m_q8Bx5OcbeUv2SPpdz3PqyxAC8tW5NWH072w28HhaHAANh1p9huGhB6cvCHP_0G1K"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQD7sDeYzS5vGQAjnmoIepj9ZuYSCc6Sd8GpYWvTT1iiPZQi3zSGgVnPkRL7LjBrcJS4XeIUiC9YT8QJ6CpByGm7rHeDBGP2qhM2mTEN3rE-UKznCw4HgrosQvgRnlTKqHLRg34HDyGhkrdMqC7x0Vt82q6F53k0q6hhdrWz9msq6rkzRHhb0LA6UKEe2nM0T2NnsWRrmWRIYi6-Fy4DVS4ko"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsvzvcbE0PFXY3qXAIBe5UUTnAi0qMBF0j_Wcb8Hto4tzd4WX9fb4kPMEuxT8yfRB4eq8NjbCi0coHDMchvZxNF656mu83R_UvcOaxYauJSYZtgIBBbeESYgyCdjd7a4-yR2Yr-q5pRKO-R7b95GXaExqNDXBofUpxCXkEnp5cf-T8asvQOn9H5U5QQrDGWOrAbOmM9Cl9mVGgItareVSWW9F3G0YUMUnr_WED"
+        }
+      ]
+    }
+  }
+}
