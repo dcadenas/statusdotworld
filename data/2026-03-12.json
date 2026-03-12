@@ -1,0 +1,524 @@
+{
+  "date": "2026-03-12",
+  "timestamp": 1773296067140,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel-Iran war escalates with regional strikes, Strait of Hormuz closed.",
+      "summary": "An ongoing conflict involving the US, Israel, and Iran has significantly escalated, with reports of Israeli airstrikes in Beirut, Lebanon, and against Popular Mobilization Forces in western Iraq. Iran has launched missiles towards Israel and attacked oil tankers in Iraqi waters and fuel tanks in Bahrain, leading to a closure of the Strait of Hormuz and major disruption of global oil supplies. Up to 150 US troops have been injured in the conflict.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "An Israeli airstrike on Ramlet al-Bayda beach killed at least seven people and injured 21 others."
+        },
+        {
+          "name": "Western Iraq",
+          "lat": 33.39,
+          "lng": 43.95,
+          "severity": "red",
+          "detail": "An airstrike targeting Popular Mobilization Forces killed 20 people."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The critical shipping corridor remains effectively closed due to Iranian actions, disrupting global oil flow."
+        },
+        {
+          "name": "Israel",
+          "lat": 31,
+          "lng": 35,
+          "severity": "red",
+          "detail": "Iranian missiles were reportedly heading towards Israel, activating air defenses."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.38,
+          "severity": "red",
+          "detail": "Israel announced 'wide-scale' strikes on Tehran."
+        },
+        {
+          "name": "Muharraq Governorate, Bahrain",
+          "lat": 26.24,
+          "lng": 50.62,
+          "severity": "red",
+          "detail": "Fuel tanks were targeted in an Iranian attack."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "Up to 150 US military personnel have been wounded since the onset of the ongoing conflict with Iran."
+        },
+        {
+          "name": "Gaza Strip, occupied Palestinian territory",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The security situation remains unstable with multiple airstrikes, shelling, and gunfire reported."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Cyber censorship and AI surveillance concerns grow on World Day Against Cyber Censorship.",
+      "summary": "On World Day Against Cyber Censorship, concerns are highlighted regarding online surveillance, internet shutdowns, and state-imposed content restrictions, which governments often claim are for security. Russia has notably escalated its internet censorship, blocking a popular social media platform and circumvention tools. Additionally, debates surrounding AI-powered surveillance are intensifying, with a tech company reportedly resisting Pentagon demands to use its AI for surveillance purposes.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.75,
+          "lng": 37.61,
+          "severity": "red",
+          "detail": "Russian authorities have escalated internet censorship, blocking a popular social media platform and circumvention tools."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "India highlighted the role of digital tools in promoting human rights at the Human Rights Council."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "green",
+          "detail": "An AI Impact Summit endorsed the idea of sharing the power of AI universally, including participation from the Global South."
+        },
+        {
+          "name": "Berkeley, United States",
+          "lat": 37.87,
+          "lng": -122.27,
+          "severity": "green",
+          "detail": "The Electronic Frontier Foundation (EFF) is celebrating the launch of a new book on privacy."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "A conflict is escalating between a tech company and the Pentagon over the use of AI for surveillance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme heat, wildfires, and agri-food system threats highlight climate urgency.",
+      "summary": "A new study indicates that extreme heat has doubled the number of dangerously hot days globally over the past 75 years, making parts of Asia, Africa, Australia, and North America increasingly unlivable for senior citizens. Wildfire smoke is significantly impacting summer air quality in the United States and Canada. In Europe, climate advisors are calling for urgent action to secure food production as the agri-food system faces growing threats from climate change.",
+      "regions": [
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.68,
+          "lng": 139.75,
+          "severity": "yellow",
+          "detail": "Extreme heat in August 2025 indicated ongoing trends making areas unlivable."
+        },
+        {
+          "name": "United States",
+          "lat": 39.82,
+          "lng": -98.57,
+          "severity": "yellow",
+          "detail": "Wildfire smoke is increasingly impacting summer air quality, particularly in the eastern part."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.13,
+          "lng": -106.34,
+          "severity": "yellow",
+          "detail": "Wildfire smoke is playing a growing role in shaping summer air quality across the country."
+        },
+        {
+          "name": "European Union",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Climate advisors are calling for urgent action to secure the agri-food system threatened by climate change."
+        },
+        {
+          "name": "Lambir Hills National Park, Malaysia",
+          "lat": 4.2,
+          "lng": 113.97,
+          "severity": "green",
+          "detail": "Researchers from the University of Tokyo and NEC calculated carbon accumulation rates in the forest."
+        },
+        {
+          "name": "Okmulgee, Oklahoma, United States",
+          "lat": 35.62,
+          "lng": -96,
+          "severity": "green",
+          "detail": "The Muscogee Nation's Green Team is discussing the environmental impacts of data centers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles resurgence continues across the United States in early 2026.",
+      "summary": "The United States is experiencing a sharp acceleration in measles transmission in early 2026, with over 1,300 confirmed cases reported across 31 jurisdictions by early March. South Carolina is the most affected state, reporting nearly 1,000 cases, with other states like Utah and Florida also experiencing large outbreaks. Researchers warn that declining vaccination rates are threatening the nation's measles elimination status.",
+      "regions": [
+        {
+          "name": "South Carolina, United States",
+          "lat": 33.83,
+          "lng": -81.16,
+          "severity": "red",
+          "detail": "The state is experiencing the most consequential measles outbreak, with nearly 1,000 confirmed cases in early 2026."
+        },
+        {
+          "name": "Utah, United States",
+          "lat": 40.76,
+          "lng": -111.89,
+          "severity": "yellow",
+          "detail": "Utah has reported 405 measles cases in the ongoing outbreak."
+        },
+        {
+          "name": "Florida, United States",
+          "lat": 27.66,
+          "lng": -81.51,
+          "severity": "yellow",
+          "detail": "The state is experiencing a large measles outbreak with 109 cases."
+        },
+        {
+          "name": "Broomfield, Colorado, United States",
+          "lat": 39.92,
+          "lng": -105.07,
+          "severity": "yellow",
+          "detail": "Four new cases were added to a measles outbreak linked to two local schools, bringing the total to seven."
+        },
+        {
+          "name": "Chicago, Illinois, United States",
+          "lat": 41.87,
+          "lng": -87.62,
+          "severity": "green",
+          "detail": "Pediatric infectious disease specialists are discussing the implications of the measles resurgence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict pushes oil prices to $100, impacting global markets and trade.",
+      "summary": "Global economic growth is anticipated to remain steady at 2.6% in 2026, but this outlook is heavily contingent on the duration of the oil price shock caused by the escalating US-Israel-Iran war and the closure of the Strait of Hormuz. Brent crude has broken above $100 a barrel, causing significant market volatility and raising inflation concerns worldwide. The US has also launched sweeping trade investigations into numerous major economies, including China and the EU, threatening new tariffs.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The closure of the Strait of Hormuz is causing a significant spike in oil prices and disrupting global trade."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US administration has launched sweeping trade investigations into numerous major economies, setting the stage for new tariffs."
+        },
+        {
+          "name": "China",
+          "lat": 35.86,
+          "lng": 104.19,
+          "severity": "yellow",
+          "detail": "China's economy is projected to decelerate and is among the economies subject to a US trade probe."
+        },
+        {
+          "name": "European Union",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "The Eurozone is projected to grow, but the EU is also subject to a US trade probe over alleged excess manufacturing capacity."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.07,
+          "lng": 72.87,
+          "severity": "red",
+          "detail": "The Nifty50 and BSE Sensex crashed in opening trade due to the continuing US-Iran war and rising oil prices."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "The U.S. stock market remained calm despite rising oil prices, following a wild stretch caused by the war with Iran."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "lat": -37.81,
+          "lng": 144.96,
+          "severity": "yellow",
+          "detail": "Investment experts discussed five themes defining turbulent markets in 2026, including rising inflation and geopolitical shocks."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "yellow",
+          "detail": "Fitch Ratings' Global Economic Outlook forecasts steady growth for 2026, contingent on a short-lived oil price shock."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "French municipal elections test far-right strength, US primaries underway.",
+      "summary": "France is preparing for municipal elections on March 15 and 22, which are seen as a critical test of the far-right National Rally's strength and the viability of alliances formed to counter it, ahead of the 2027 presidential election. Meanwhile, several US states, including Florida and North Carolina, have ongoing election activities such as voter registration deadlines and vote-by-mail requests for their 2026 primary elections and special elections.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.85,
+          "lng": 2.35,
+          "severity": "yellow",
+          "detail": "Municipal elections will provide an indication of the country's political temperature ahead of the 2027 presidential election."
+        },
+        {
+          "name": "Toulon, France",
+          "lat": 43.12,
+          "lng": 5.92,
+          "severity": "yellow",
+          "detail": "The far-right National Rally is targeting this southern city in the upcoming municipal votes."
+        },
+        {
+          "name": "Hillsborough County, Florida, United States",
+          "lat": 27.99,
+          "lng": -82.44,
+          "severity": "green",
+          "detail": "Today is the deadline to request a Vote By Mail ballot for the 2026 State Senate District 14 Special Election."
+        },
+        {
+          "name": "Palm Beach County, Florida, United States",
+          "lat": 26.68,
+          "lng": -80.05,
+          "severity": "green",
+          "detail": "Today is the deadline to request a Vote-by-Mail ballot for the 2026 North Palm Beach Special Election and State Representative, District 87 Special General Election."
+        },
+        {
+          "name": "North Carolina, United States",
+          "lat": 35.78,
+          "lng": -78.63,
+          "severity": "green",
+          "detail": "The state is past its March 3 primary election, with a potential second primary set for May 12, 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East war gravely imperils global aid, disrupting supply chains to crisis zones.",
+      "summary": "The ongoing conflict in the Middle East, particularly the US-Israel-Iran war, is severely straining humanitarian operations worldwide, disrupting supply chains and slowing the delivery of life-saving assistance to numerous crisis zones. Aid supplies to Gaza, Sudan, and sub-Saharan Africa are significantly affected due to the effective closure of the Strait of Hormuz, increased energy costs, and existing budget cuts for UN agencies. The UN humanitarian chief has warned of 'grave peril' and the escalating cost of the war, exacerbating dire needs globally, including in conflict-ridden Somalia and Sudan.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "red",
+          "detail": "The UN aid chief warned that the Middle East conflict is gravely imperiling humanitarian operations worldwide."
+        },
+        {
+          "name": "Gaza Strip, occupied Palestinian territory",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Aid supplies are affected by the conflict, with high protection risks due to inadequate shelter and limited essential services."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Sudan faces a dire humanitarian crisis, exacerbated by the Middle East conflict's impact on aid supplies."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.2,
+          "lng": 45.31,
+          "severity": "red",
+          "detail": "Somalia is facing a major drought and dire humanitarian crisis, with aid supplies constrained."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The effective closure of the strait is blocking or constraining humanitarian relief efforts to various regions."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.51,
+          "lng": 36.29,
+          "severity": "yellow",
+          "detail": "Efforts are ongoing to support food-insecure families through voucher systems amidst devastation."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.93,
+          "lng": 67.71,
+          "severity": "red",
+          "detail": "Earthquakes and severe drought are major drivers of urgent humanitarian needs for 22.5 million people."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.32,
+          "lng": 15.31,
+          "severity": "red",
+          "detail": "The country is experiencing widespread and intensifying cholera outbreaks, driven by conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-NvWVL4W6MqlkvKh7pQlm1eNJ1neEHmS4Babl42Hsq6gQaDxlIyhq1z3yDE09wPsqJyDFl4FkiSIAq7823_vwZZs0yXRZpAlG7mkTYad67BtR-WhfSQgoR_p9dv6Y2cwHLq2NSCiTOsGho57LAaWces7EktcOjIKdyv25skCbEN_406Z-uG1l9ZGcbaMC70pld66U70i7KsVUP6ZabLIXaFa5U3_oxCuHWnZwLofnQTW1zNURTM="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXWxVV1XCd3J9zsP9TAcFW1FSk6lSxWy2-NuApTVOacnd2pP2d4XitH9_aNJKz12uwa78GUDititcShghpmRBYzdP1dC8ABQ0Q9OX3pkB1nVaakdoQ8chjp8rGcQhXix1-D9qOaatZIeZ9vnLbaDCj0UqpHLbleDLLRWJaGdrXN9H35aaRIjJMDh2qOg46-jq3kWqOCODE7B_s65mcw2-Z8floZwiCaetXGzg8Ns9HX6IDMzZqNQ="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3Uq6wLzTKtvJGGL0tCLzMDofIgY6y1IsfUKseihik54CzTwkuafMpHKFIzmgqgqZDxdoBbBXx8xWX2GbytX_Ro8cfGjp_S8i0Ys9E549VGdsUXpIRNzahZwcTVZzb5xvG_nEBiZVKNRRvoOdS3Yq4-Ax1_7pEL2ORx69o-1GSh_67k5bWpbaAX9E20cOWBdl7_Kmat8BYaFEFhlpiTWnpKnWtP2oWiG_oW4IBMMCA=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAR6dheHvJ0apeGYtzmGYPM54buFWiEpji6rxHEpm8ip-CMP6MD1AmrVQXh_kpBOXBin1fSjaG_xjdBZhviqjMnmkGj9cf8KRfXfrHPEzNn2Lb8BSHu94EARbDZNLYUoF1bQrgFuF8fezYRWw-13Po-Sk3YN_kq2vFPA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyk6QIo8lWXp7g1dlhOZiBuNb9ft2ix8a6AfNid0RwIqzv1JHWvCqv0gKPCIlw4aqTQ-R4qe7fJa_pwsY4TBw7p30ZyyOGu9PbyYiWTLKA0tp-2n_zwBGIBeD9Wg1viCek9CJ9Bk0eA9znyDxABo1mYkA6ukgsXCtU15em3IKDrE4QJRlb8Tby2XNMMF0k9pz_FWD4PhAvQb0_fkl1ykmRpLOuhixG7YkCQHyJ4TkxW2CjFznYC4dxxTjI4PBaxOxdEx-MTxxAYDlKzwuB56ObLpTk3C3ckc6N0eIWJcCPVE48ujIBtPwSljTp55HaMmOyyM3ajki-3M9-uf9XNmQ5bF9Dyc0Zz0sDOTspS-9ewwUBnwAZIDtTZmG"
+        }
+      ]
+    }
+  }
+}
