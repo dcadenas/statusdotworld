@@ -1,0 +1,440 @@
+{
+  "date": "2026-03-14",
+  "timestamp": 1773468699391,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts intensify, straining peace efforts.",
+      "summary": "The world continues to experience sustained high levels of war-related violence, with armed forces engaged in numerous conflicts globally, reaching the highest number of state-based conflicts since World War II. International humanitarian law and peacebuilding efforts are under severe strain amidst spreading and complex conflicts.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Limited ceasefires remain highly fragile amid ongoing conflict and severe humanitarian consequences."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The conflict with Russia continues, with geopolitical tensions undermining broader peace efforts."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The country remains mired in conflict, leading to widespread displacement and humanitarian suffering."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "The Great Lakes region continues to be plagued by violence and protracted crises."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Risk of renewed conflict with Israel grows, threatening to overwhelm fragile public services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Global human rights under strain, digital privacy concerns rise.",
+      "summary": "Political freedoms, civil liberties, and institutional checks on power are under increasing strain in many parts of the world, with a persistent tension between democratic governance and authoritarian consolidation. Significant budget and staffing cuts are impacting human rights organizations and efforts globally. The rapid scaling of AI also introduces significant risks around bias, privacy, accountability, and inequitable use.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns remain about the erosion of the rule of law and the undermining of democratic institutions, impacting international credibility."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Grave human rights issues continue to be addressed by international bodies amidst concerns of authoritarian trends."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1309,
+          "severity": "red",
+          "detail": "Ongoing grave human rights violations, including violence and displacement, are a major concern."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The country faces ongoing human rights issues and concerns about the erosion of the international legal order."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council's 61st session addresses a range of global human rights issues amidst profound stress on the international system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate change accelerates, demanding increased adaptation efforts.",
+      "summary": "Earth's temperatures continue to rise at an accelerating pace, with record-breaking hot years signaling a steeper climb in the planet's long-term warming trend. The 1.5°C global warming limit is likely to be overshot, leading to intensified heatwaves, extreme rainfall, droughts, and sea-level rise. Global economic losses from natural disasters are exceeding historical averages, underscoring the urgent need for climate adaptation and resilience investments.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Overall global temperatures continue to rise, shattering records and accelerating the impacts of climate change."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "Anticipated host of COP31, where implementation of climate commitments and adaptation finance will be key topics."
+        },
+        {
+          "name": "Baku, Azerbaijan",
+          "lat": 40.4093,
+          "lng": 49.8671,
+          "severity": "green",
+          "detail": "Host of the World Urban Forum, a major opportunity for global city stakeholders to discuss sustainable urban changes."
+        },
+        {
+          "name": "Yerevan, Armenia",
+          "lat": 40.1792,
+          "lng": 44.4991,
+          "severity": "green",
+          "detail": "Expected to host the 17th COP of the UN Convention on Biodiversity, assessing progress on 2030 targets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Health systems strained by conflict, funding cuts, and disease resurgence.",
+      "summary": "Global public health faces significant challenges in 2026, marked by rising conflict leading to health system fragmentation and increased disease outbreaks. Persistent vaccination gaps, a surge in mental health needs, and a global maternal health regression are noted concerns. Furthermore, the threat of antimicrobial resistance (AMR) is at a dangerous tipping point, fueled by global insecurity, and significant global health funding cuts are impacting service delivery.",
+      "regions": [
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "yellow",
+          "detail": "Faces high burdens of HIV/AIDS, tuberculosis, and malaria, exacerbated by conflict and climate change, with concerns over antimicrobial resistance."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Health Assembly is positioned to advance ethical standards for data access and responsible AI deployment in health."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "The African Union summit discussed priorities for the continent, including health challenges and democratic backsliding."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. global health policy has shifted from multilateral aid to bilateral engagements, impacting funding and coordination."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces headwinds and downside risks.",
+      "summary": "Global economic growth is projected to remain resilient in 2026 at similar rates to 2025, but the outlook is clouded by trade tensions, fiscal strains, and persistent uncertainty. While global headline inflation is expected to decline, the cost-of-living squeeze persists for many. Risks are primarily skewed to the downside, with geopolitical risks and a potential reevaluation of productivity growth expectations about AI leading to financial market corrections.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The economy is projected to expand, supported by fiscal policy and AI-related investment, but faces potential impacts from higher trade barriers."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Growth remains weak in Europe, with concerns over trade tensions and geopolitical uncertainty."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "Growth is revised upward for 2025 with strong momentum, projected to moderate slightly in 2026."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's growth is expected to moderate, facing structural headwinds like demographic drag and deflationary pressure."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "yellow",
+          "detail": "Latin America contends with fiscal fragility and inflation stickiness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy faces persistent challenges amidst global backsliding.",
+      "summary": "The global political landscape in 2026 is characterized by persistent tension between democratic governance and authoritarian consolidation, with political freedoms and civil liberties under increasing strain worldwide. Electoral cycles are intensifying polarization, and incumbent authorities may employ strategies like tighter media control and increased surveillance. Many political systems are experiencing a steady erosion of safeguards against concentrated power, with a notable decline in global freedom for the 19th straight year.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Categorized as a 'flawed democracy', with concerns about the politicization of institutions and challenges to a free press."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Pivotal elections are due amidst concerns of democratic backsliding and challenges to effective governance."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Challenges in administering elections and establishing parliamentary-appointed officials raise concerns about democratic stability."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Union is implementing a 'Democracy Shield' to protect free speech and democratic institutions across its member states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crisis deepens globally amid shrinking support.",
+      "summary": "Over 239 million people in 50 countries are in urgent need of humanitarian support in 2026, with tens of millions facing deepening hunger, displacement, and violence. Conflict remains the main driver of these needs, and funding cuts in 2025 have stripped away lifelines, even as crises intensify. The global humanitarian community is aiming to assist 135 million people, but resources are severely strained.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Suffering from severe humanitarian consequences due to conflict, with temporary relief measures being fragile."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Ongoing conflict and violence are leading to immense human suffering and displacement."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The war continues to cause widespread humanitarian suffering and displacement."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Faces growing conflict risk and economic collapse, exacerbating food insecurity for 1.2 million people."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9999,
+          "severity": "red",
+          "detail": "Continuing violence and blockades are critically limiting humanitarian aid access for millions, with food insecurity worsening."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5201,
+          "lng": 69.1346,
+          "severity": "red",
+          "detail": "Remains one of the countries facing protracted crises and significant humanitarian needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VJBhIYIFvkojB3LLAq39D1JFyCi6pKEDarGBn_APUEJPT6kaQOSQgNvWa40NPWul_Nc8sHSh5ZQmGzaqo9u00_CXBKDlmR1N8hHnWQYusmIVhQ536jVypgYaOqYDydWmvIB1NTVC55jpxCYQ1iDS7LUpvw=="
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUFzkEFJyN2erFFbNUIqmbUtN3BbEYPWpICzvETfcbygvb0oyxxRh8ORVf4XNxz-_kHbTq04QGf7sa6GPD-lzHYLeIXKF65ixqLSnDv6rwNCAYdG9M3tPIr-3tKzozHrzBizxTT8KohhvI0rOgDlUt4u9BSpIcDaPIvlUoXO7WMakKD9FZJ7Q0PoVz"
+        },
+        {
+          "title": "justsecurity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMisN6rad9P6FB-nup4PqpdyzibgaxEzLPVn7TTdUdWwSNSdbVqUPdiGylnmEkHfWHuzUpq8h_RPk-FlXSrwukI6XU1WA5SttRXrKUnYAwt9-Tgpn6H0gMEUPwBBJ-7I0l4OdbXrmrTXF5mbL5TEQZBaATisln_HMHCR_eetP0Og=="
+        },
+        {
+          "title": "ncregister.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqcRsI8EvAqxPJrASRQk0n1RDj7by-kRI6Ke1rJ8_WUHBm_0hwJVOwf7fpw0nT-LAYACIpS6t6-tuBEOWJqRMxkYUOwQaZ0t34OLkvfbvJvaADdUjf4_q4TuxCekMe26TtGMvwVB9tMXp9lmE6Ff_S0yFJ0XsohjwxLebTWl7osstSUm3ZhkS9w3DKNE="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvCY2eNkC2FQs62YjXyP6mzlhuK5scH4eU4CSPTP7wPXtCPQj0KEiuevymUN0x8nPaOQ8HM4L9lEx9cLHPwixMpzgdRgpFaFDN0KQfuQWq_uDwVItxh-Bdg23LQ6rys8X19_FjU3p-3emFXM2Wehr4vQdVZCUhruHm8qnUgNfHQuzQaafBbgjpr7_auO3pkMIe0u4xAGnZPA=="
+        }
+      ]
+    }
+  }
+}
