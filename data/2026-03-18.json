@@ -1,0 +1,475 @@
+{
+  "date": "2026-03-18",
+  "timestamp": 1773814811519,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel war on Iran escalates; Iran vows revenge, Strait of Hormuz blocked.",
+      "summary": "The US-Israel war on Iran escalated with the assassination of Iran's security chief and a Basij commander by Israel, prompting Iranian threats of retaliation. Iran has effectively closed the Strait of Hormuz, causing oil prices to surge and disrupting global shipping, with the IMO convening to address stranded vessels. Ongoing cross-border fighting between Afghanistan and Pakistan, and intensified conflict in Sudan, also contribute to global instability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran vowed revenge after Israeli airstrikes killed its security chief Ali Larijani and Basij militia commander Gholamreza Soleimani."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli airstrikes hit central Beirut, and evacuation orders were issued for Tyre, with over 900 killed and a million displaced in Lebanon."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Two people were killed by missiles near Tel Aviv amidst the ongoing conflict."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Iran has effectively closed the Strait, disrupting international shipping and causing oil prices to surge."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1761,
+          "severity": "yellow",
+          "detail": "Afghanistan reported 400 killed and 265 injured in a Pakistani airstrike on a drug rehabilitation hospital, which Pakistan denied."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.15,
+          "lng": 30.22,
+          "severity": "yellow",
+          "detail": "Intensified fighting and drone attacks in Kordofan and Blue Nile States impacted a medical facility."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is involved in strikes against Iranian missile sites near the Strait of Hormuz."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Explosions and fires were reported at the US embassy following Iranian drone strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "UN reports mass displacement in West Bank; US democracy in decline.",
+      "summary": "A UN report details accelerated unlawful settlement expansion by Israel and forced displacement of over 36,000 Palestinians in the West Bank amidst increasing settler violence. In the United States, concerns are rising over proposals like the \"SAVE Act\" potentially creating new barriers for voters, contributing to a reported \"unprecedented democratic backslide.\" Lebanon is also experiencing significant human rights issues with over a million displaced due to conflict.",
+      "regions": [
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9686,
+          "lng": 35.2278,
+          "severity": "red",
+          "detail": "Over 36,000 Palestinians have been forcibly displaced due to Israeli settlement expansion and settler violence."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Human Rights Watch highlights the US's weakening of multilateral institutions and inhumane conditions for immigrants."
+        },
+        {
+          "name": "Hartford, USA (Connecticut)",
+          "lat": 41.7637,
+          "lng": -72.6851,
+          "severity": "yellow",
+          "detail": "An opinion piece criticizes the SAVE Act as a threat to voting rights."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli attacks on residential buildings and civilian infrastructure in Lebanon may amount to war crimes, with over a million people displaced."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Seabird populations threatened in NZ; Rwanda launches restoration project.",
+      "summary": "Seabird populations in New Zealand's Hauraki Gulf are struggling due to climate-driven changes affecting food sources, with calls for stronger marine protections. Conversely, Rwanda launched a major ecosystem restoration project to bolster climate resilience and improve livelihoods in degraded landscapes. Stanford research linked extreme weather to dengue outbreaks in Peru, highlighting climate's health impacts.",
+      "regions": [
+        {
+          "name": "Hauraki Gulf, New Zealand",
+          "lat": -36.5,
+          "lng": 175,
+          "severity": "yellow",
+          "detail": "Seabird populations are experiencing low chick survival rates due to climate-driven food shortages."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "green",
+          "detail": "Rwanda launched a major ecosystem restoration project to strengthen climate resilience and improve livelihoods."
+        },
+        {
+          "name": "Piura, Peru",
+          "lat": -5.1956,
+          "lng": -80.6328,
+          "severity": "yellow",
+          "detail": "Extreme precipitation and warm temperatures were linked to 60% of dengue cases in 2023."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The Earthshot Prize, based in London, announced a partnership with Amazon to scale climate solutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US public health faces strain; climate spurs dengue outbreaks in Peru.",
+      "summary": "Public health systems across the United States are under significant strain due to funding shortages, workforce issues, and misinformation. New research highlighted low cancer screening rates in emergency departments, and new fraud prevention rules are being considered. Meanwhile, climate change has been linked to increased dengue outbreaks in Peru.",
+      "regions": [
+        {
+          "name": "Indianapolis, USA (Indiana)",
+          "lat": 39.7684,
+          "lng": -86.158,
+          "severity": "yellow",
+          "detail": "Research found low cancer screening rates in emergency departments."
+        },
+        {
+          "name": "St. Louis, USA (Missouri)",
+          "lat": 38.627,
+          "lng": -90.1994,
+          "severity": "yellow",
+          "detail": "Leaders of public health associations are convening to discuss the future of public health systems facing mounting strain."
+        },
+        {
+          "name": "Piura, Peru",
+          "lat": -5.1956,
+          "lng": -80.6328,
+          "severity": "yellow",
+          "detail": "Extreme weather conditions linked to increased dengue fever outbreaks."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Congress is holding hearings on lowering healthcare costs and preventing fraud in public health programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict sparks global economic turmoil as oil prices soar.",
+      "summary": "The US-Israel war on Iran and Iran's effective closure of the Strait of Hormuz have caused dramatic surges in oil prices, threatening to exacerbate inflation globally and prompting central banks like Australia's RBA to raise interest rates. Analysts warn of long-term economic shocks impacting supply chains and trade routes. Markets are highly sensitive to geopolitical developments, with gold prices remaining steady amidst the uncertainty.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Closure of the strait by Iran has caused oil prices to surge and disrupted global shipping."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "The RBA increased interest rates, and the ASX 200 is weaker due to global risks."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Global markets are bracing for economic shocks, with gold prices steady amid uncertainty."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "The Chief Executive is working to ensure stable fuel supply amidst Middle East tensions."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Iranian drone strikes at the US embassy are part of the escalating conflict impacting global oil supplies."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "yellow",
+          "detail": "Kuwait's air defenses responded to a rocket and drone attack, indicating regional economic instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy in rapid decline, facing \"unprecedented backslide.\"",
+      "summary": "A new report indicates that democracy in the United States is deteriorating at an \"unprecedented speed,\" with a significant drop in its global rank. Proposals like the \"SAVE Act\" are raising concerns about creating new barriers to voting. This trend is part of a broader global democratic backsliding, though some nations like Brazil and Poland are showing democratization.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Democracy in the US is reported to be in a rapid decline, with concerns about voting rights and undermining checks and balances."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute, based here, published a report on global democratic backsliding."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "Brazil is noted as one of the nations currently democratizing."
+        },
+        {
+          "name": "Warsaw, Poland",
+          "lat": 52.2297,
+          "lng": 21.0122,
+          "severity": "green",
+          "detail": "Poland is also highlighted for continuing its democratization process."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East conflicts exacerbate hunger, South Sudan sees mass displacement.",
+      "summary": "UN humanitarians warn that the Middle East conflict could push tens of millions into acute food insecurity, exacerbated by the Strait of Hormuz blockade impacting fertilizer supplies. Lebanon faces a severe crisis with over a million displaced due to Israeli attacks, prompting significant aid pledges from the UK and China. Concurrently, nearly 100,000 people have fled South Sudan to Ethiopia due to intensifying violence, leading to alarming malnutrition rates among children. The humanitarian situation in Gaza and Sudan also remains dire due to conflict and aid blockades.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Over a million people have been displaced due to Israeli strikes, with the UK and China pledging aid."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Escalating violence and closure of crossings have created a dire humanitarian crisis, including fuel shortages impacting essential services."
+        },
+        {
+          "name": "Akobo, South Sudan",
+          "lat": 7.788,
+          "lng": 33.003,
+          "severity": "red",
+          "detail": "Nearly 100,000 people have fled from South Sudan into Ethiopia due to intensifying violence, with high malnutrition rates."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "China announced emergency humanitarian assistance to Iran due to \"grave humanitarian catastrophes\" from US and Israeli strikes."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9454,
+          "lng": 35.9284,
+          "severity": "yellow",
+          "detail": "China is providing emergency humanitarian assistance to Jordan."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "China is providing emergency humanitarian assistance to Iraq."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.15,
+          "lng": 30.22,
+          "severity": "red",
+          "detail": "Intensified fighting and drone attacks have worsened the humanitarian situation, impacting medical facilities."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The UK is providing an additional US$13.3 million in humanitarian support to Lebanon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYJqgQkMka3I6gh0nM2fsVJjFn59ZNocNoaHFEYzQIQelemKMQp0wgFOp8ckZMz7lESt9uOorHmaXgYVzTcyu8VydK_TZC395j6rINPgfwvx-3CqUfrGc_BE-SiOKtgP2Lr1U-mvqAyk1t9E-AYuFZxO47sLNs0Zc00H9KmbitY6gf1WASgEZe7IRJgXsEcXnwb7qdzQN8nFFVg0cmWp_tdq675AsGlmxB9f1YfC8O5c8PKktBMpKSX2KzJJ6TuWJ3gbUkw=="
+        },
+        {
+          "title": "fool.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-DwiurhhIajTLdFEBxYmWI8tMiWuDHmS5W0UtZisqKsOGhREa8eUqPhSB7Yh5uM08UnGtJf3ybd4F9bSsbiwSTQYxycvYKePJeV0MURD7O0ngv4QP-xnnO8JawzkLheoDtuRL67p-1VstlHwRoDo1vCisJIDoYiRbY-WxFfzdMDQJ0H3uO74uIkwxcFdZsiZt97y0qh6AM8Z"
+        },
+        {
+          "title": "rthk.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaM_g1dzd2Zs_FEqpsX-l4dEMOMLQHnhlIWhNmJ6PEUaL_Rke79Bz7xIjWU0nSidlDRPwgnq2FBiBMEUsVSj9BBGZcNCis5XmcIqXB-FrxDrwJStAdQi9UPObssIZBE-FLZ2_uo33AvA9gcGdJTFVElDNaSI-xChTos4lE2DA5nIfu_YlKHyvYsmd6RMqRKqz9F1iph-ZuQRXAgRpm8SZFBIgF7RXe65AnAI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFsVP8y07aEWcGd1abIMh9mUyCF0uFBHApf4p7KvosZxCeMmLp5D_fxNLf80FOHiWXfw4QpNabvx6e6cIv_k3KK5o9_yd06vnvV5Gyg3t88aXVHOWiyB5oQfzzecRRfK4UPwZiag371wmrRa1X--oBj3r455MjrE_EUaBgw-QG33-lNZNs_TiR2snTlmHtDg="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkS6h87NeIEX86sv3XB1xPOjaWBrKjcJbcyojKoJSEn32ReXDxcJSlbdl_4vR_vuGGc9KfPfBqiDmA9b5a1Qicdv9kXtq_Rt8rApGMQtSnTj8BTWgnCpcmk-Zt0FpSbX8bNv62Ovn4pkh0Spzad5NzWRt0s5AoGxJcw=="
+        }
+      ]
+    }
+  }
+}
