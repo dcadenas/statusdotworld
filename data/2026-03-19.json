@@ -1,0 +1,559 @@
+{
+  "date": "2026-03-19",
+  "timestamp": 1773901079440,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with Israel-Iran strikes, global ripples felt.",
+      "summary": "The ongoing US-Israel war with Iran intensified significantly on March 19, 2026, with Israeli strikes on Iran's South Pars gas field and Iran retaliating with missile attacks on Qatar and UAE energy facilities. This conflict has led to global economic concerns and increased geopolitical instability in the region and beyond, with unidentified drones spotted over a US Army base.",
+      "regions": [
+        {
+          "name": "South Pars, Iran",
+          "lat": 27.05,
+          "lng": 52.61,
+          "severity": "red",
+          "detail": "Israeli airstrike hit gas storage tanks at Iran's South Pars gas field."
+        },
+        {
+          "name": "Ras Laffan Industrial City, Qatar",
+          "lat": 25.92,
+          "lng": 51.56,
+          "severity": "red",
+          "detail": "Iran launched ballistic missile attacks on Qatar's main gas hub, causing extensive damage and fires."
+        },
+        {
+          "name": "Habshan, UAE",
+          "lat": 23.75,
+          "lng": 53.68,
+          "severity": "red",
+          "detail": "Iran launched missile attacks on the Habshan gas facility."
+        },
+        {
+          "name": "Bab field, UAE",
+          "lat": 24.3,
+          "lng": 50.7,
+          "severity": "red",
+          "detail": "Iran launched missile attacks on the Bab field operations."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israel launched intense airstrikes in Beirut."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "Unidentified drones were spotted over a Washington Army base amid escalating Middle East conflict."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.22,
+          "lng": 50.58,
+          "severity": "red",
+          "detail": "Iranian forces launched drone and missile attacks on Bahrain, leading to arrests of protestors."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping through the Strait of Hormuz has largely halted due to the war, impacting global oil and gas supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global decline in basic freedoms, increased surveillance and hate speech.",
+      "summary": "A Freedom House report for 2026 released on March 19, 2026, indicated a global decline in basic freedoms, particularly media freedom, personal expression, and due process, over the last two decades. Additionally, a UN-backed panel stated that racist hate speech by US leaders has led to human rights violations, and Tanzania saw a severe crackdown on post-election protests with hundreds potentially killed.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "A UN-backed panel criticized racist hate speech by US leaders, including Donald Trump, leading to human rights violations."
+        },
+        {
+          "name": "Dar es Salaam, Tanzania",
+          "lat": -6.79,
+          "lng": 39.2,
+          "severity": "red",
+          "detail": "Tanzanian security forces killed and injured non-protesters during a post-election crackdown, with hundreds potentially killed nationwide."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.22,
+          "lng": 50.58,
+          "severity": "red",
+          "detail": "Bahraini authorities arrested dozens for peaceful expression amid the US-Israel-Iran conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change fuels global extreme weather: heatwaves, blizzards, floods.",
+      "summary": "A Climate Central analysis released on March 19, 2026, revealed that climate change intensely influenced temperatures for over one in six people worldwide between December 2025 and February 2026, with Africa particularly affected by risky heat. Concurrently, wildfires in tropical peatlands have reached a 2000-year high, driven by human land use. Extreme weather also hit the US with heatwaves, blizzards, and floods, and Australia is bracing for Tropical Cyclone Narelle.",
+      "regions": [
+        {
+          "name": "Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "81% of people experiencing dangerous heat linked to climate change were in Africa."
+        },
+        {
+          "name": "Southeast Asia",
+          "lat": 0,
+          "lng": 100,
+          "severity": "yellow",
+          "detail": "Wildfires in tropical peatlands, critical carbon stores, have surged to a 2000-year high, especially in Southeast Asia."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.77,
+          "lng": -119.41,
+          "severity": "yellow",
+          "detail": "The state experienced a surprising heatwave."
+        },
+        {
+          "name": "Upper Midwest, USA",
+          "lat": 45,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "Parts of the Midwest, including Wisconsin and Michigan, were hit by blizzards and several feet of snow."
+        },
+        {
+          "name": "Maui, Hawaii, USA",
+          "lat": 20.79,
+          "lng": -156.33,
+          "severity": "yellow",
+          "detail": "Unrelenting rains triggered landslides and flooding."
+        },
+        {
+          "name": "Alice Springs, Australia",
+          "lat": -23.7,
+          "lng": 133.87,
+          "severity": "yellow",
+          "detail": "Heavy rains in February and March 2026 transformed the desert landscape, with flooding watches and warnings extended inland."
+        },
+        {
+          "name": "Cape York Peninsula, Australia",
+          "lat": -11.75,
+          "lng": 142.5,
+          "severity": "red",
+          "detail": "Communities are bracing for Tropical Cyclone Narelle, expected to intensify to a category five."
+        },
+        {
+          "name": "KwaZulu-Natal, South Africa",
+          "lat": -29.69,
+          "lng": 30.98,
+          "severity": "yellow",
+          "detail": "The region is experiencing changing water patterns with heavier rainfall increasing flood risk and higher temperatures causing droughts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Disease outbreaks persist globally: meningitis, Legionnaires', measles.",
+      "summary": "An outbreak of invasive meningococcal disease was reported in Kent, England, affecting 20 cases and causing two deaths, with a linked case in France. Meanwhile, Australia is investigating a Legionnaires' disease outbreak in Craigieburn, Victoria, with six confirmed cases. In the US, measles has been continuously circulating for over a year, with 1,300 infections already confirmed in 2026.",
+      "regions": [
+        {
+          "name": "Kent, England, UK",
+          "lat": 51.27,
+          "lng": 0.52,
+          "severity": "red",
+          "detail": "An outbreak of invasive meningococcal disease has been reported, with 20 cases and two deaths."
+        },
+        {
+          "name": "Paris region, France",
+          "lat": 48.85,
+          "lng": 2.35,
+          "severity": "yellow",
+          "detail": "One case of invasive meningococcal disease was reported in a French exchange student returning from the University of Kent."
+        },
+        {
+          "name": "Craigieburn, Victoria, Australia",
+          "lat": -37.6,
+          "lng": 144.92,
+          "severity": "yellow",
+          "detail": "An outbreak of Legionnaires' disease involving six cases is under investigation."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Part of the continuous circulation of measles in the US since January 2025."
+        },
+        {
+          "name": "Utah/Arizona border, USA",
+          "lat": 37,
+          "lng": -112,
+          "severity": "yellow",
+          "detail": "An ongoing measles outbreak began in August 2025."
+        },
+        {
+          "name": "South Carolina, USA",
+          "lat": 33.83,
+          "lng": -81,
+          "severity": "yellow",
+          "detail": "An measles outbreak began in September, drastically increased in January 2026, and continues."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.77,
+          "lng": -119.41,
+          "severity": "yellow",
+          "detail": "The state is involved in a new E. coli outbreak linked to raw milk cheddar cheese."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.35,
+          "lng": 103.82,
+          "severity": "green",
+          "detail": "The city is hosting the 5th International Public Health Conference to discuss future public health challenges and solutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war triggers global economic instability and rising inflation.",
+      "summary": "The escalating US-Israel war with Iran, now in its third week, has severely impacted the global economy. The closure of the Strait of Hormuz has caused oil prices to surge above $110 a barrel, exacerbating inflation pressures and causing Asian stock markets to slide. Australia's central bank warned of global financial stability risks, and the US eased Venezuela oil sanctions to boost supply.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Closure due to the war has largely halted shipping, causing oil price surges and global economic concerns."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.86,
+          "lng": 151.2,
+          "severity": "yellow",
+          "detail": "Australia's central bank warned of global financial stability risks due to the escalating Middle East conflict and rising inflation."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.68,
+          "lng": 139.69,
+          "severity": "yellow",
+          "detail": "Nikkei 225 fell by 2.5% as oil prices spiked and the Bank of Japan held rates steady."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.56,
+          "lng": 126.97,
+          "severity": "yellow",
+          "detail": "Kospi lost 1.3% as oil prices spiked and Wall Street slumped."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "Wall Street stocks slumped, with the S&P 500 falling 1.4%, and inflation pressures accelerating."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.35,
+          "lng": 103.82,
+          "severity": "yellow",
+          "detail": "President Tharman Shanmugaratnam warned of a 'longer storm of global political instability' and major economic downturn risks due to the Middle East war."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.48,
+          "lng": -66.9,
+          "severity": "yellow",
+          "detail": "The US eased oil sanctions on Venezuela's state-owned oil company to boost global oil supplies amidst the Iran war."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.28,
+          "lng": 51.53,
+          "severity": "red",
+          "detail": "Iranian missile attacks on Ras Laffan Industrial City caused extensive damage to LNG facilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US 'no longer a liberal democracy' amid global democratic backsliding.",
+      "summary": "Reports released on March 18-19, 2026, from the V-Dem Institute indicated that the United States is no longer classified as a 'liberal democracy' and is undergoing rapid 'autocratization' under the Trump administration, reaching its lowest democratic performance since 1965. Globally, nearly a quarter of the world's nations are experiencing democratic backsliding, with media and journalists increasingly targeted.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "red",
+          "detail": "The US has lost its status as a liberal democracy, with a rapid concentration of power in the presidency."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.49,
+          "lng": 19.04,
+          "severity": "yellow",
+          "detail": "Mentioned as a country that experienced democratic decline, with its leader Viktor Orban facing a serious electoral challenge."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.93,
+          "lng": 32.85,
+          "severity": "yellow",
+          "detail": "Mentioned as a country that experienced democratic decline."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.78,
+          "lng": 20.45,
+          "severity": "yellow",
+          "detail": "Mentioned as a country that experienced democratic decline."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9,
+          "lng": 12.49,
+          "severity": "yellow",
+          "detail": "Identified as one of the G-7 powers experiencing democratic backsliding."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5,
+          "lng": -0.12,
+          "severity": "yellow",
+          "detail": "Identified as one of the G-7 powers experiencing democratic backsliding, with upcoming local elections."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.75,
+          "lng": 100.5,
+          "severity": "yellow",
+          "detail": "Thailand's Parliament convened to vote for a new prime minister after an election showed a conservative shift."
+        },
+        {
+          "name": "Copenhagen, Denmark",
+          "lat": 55.67,
+          "lng": 12.56,
+          "severity": "yellow",
+          "detail": "Upcoming parliamentary vote, with the Greenland election results indicating residents' desire for independence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Middle East conflict deepens humanitarian crises; global terrorism shifts.",
+      "summary": "The ongoing Middle East conflict, specifically the US-Israel war with Iran, is expected to exacerbate humanitarian needs due to economic fallout and displacement. The Global Terrorism Index 2026, released on March 19, 2026, warned that future terrorism trends will be shaped by emerging conflicts and declining economic conditions, though global terrorism deaths fell to a decade low in 2025, Western fatalities surged. Humanitarian organizations are also facing challenges due to funding cuts and ongoing repression in authoritarian countries.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The ongoing conflict between the US, Israel, and Iran is causing significant humanitarian concerns and displacement."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": 5,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Six of the ten countries most impacted by terrorism are in sub-Saharan Africa, with Nigeria and DRC seeing significant increases in deaths."
+        },
+        {
+          "name": "Iraq",
+          "lat": 33.22,
+          "lng": 43.67,
+          "severity": "yellow",
+          "detail": "The Iraqi government faces challenges in balancing alliances and avoiding being drawn further into the Iran conflict."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.22,
+          "lng": 50.58,
+          "severity": "red",
+          "detail": "Arbitrary arrests are occurring amid the conflict, potentially hindering humanitarian efforts and free expression."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.38,
+          "severity": "red",
+          "detail": "The country is being targeted by strikes, and the government is executing individuals on politically charged charges, contributing to internal instability and humanitarian concerns."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The regional conflict has coincided with increased concern about antisemitism and heightened political polarization."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "US policy decisions, including potential troop deployments and political rhetoric, impact humanitarian situations abroad."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8asyvWtv6iRkFC7vq6aK7JYmSuffU0D0xYhu3YePbnpAv0CpbGpsrApC3mi_DZA32JtGW5rZQ1a1S6z4B8Y6ZlDLtczJW4jEdyVORN35dWdOMOrj9YUkIG-1JB0U7ZdtrjhNDSctUOLWzwHWeJlg4EAN_jdFR8jDAH0TmmndGvg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnV8w-t-vPEkG6Wx4kYwkO5e1Q5UgEnIoCwd65vtIXCTXHS8MN5X0_94TOFMamxQtWYqFgs_VJvSwYKbUQFRgvqO2k7LXMNuIy2NjQ9hlBl6C24f3zt6amj_jRI4r2OvzgBloNPuGoOz6S--YRJ-6C1nc940IQ31MSR_OkA6pHgo8o2DSDPOc5lelJt0mZpjPdzUIjS9vKpJcR2Lm6ocYr4fy2bSsEosd8-TB-mJbqcLeZgLFH9GbJZlWODr-cuko="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDTv_SDctia2vaBQ5AhGQzNNmtQtY5CTnEKL08f1JhuJE59-uHHCQbUaQdz_CSzdpOm2xlEfcdCp0opSOfSXiTq2hK2U9y3RBb8t5Ld4fSvzfbnjgy_O28sKNOzWxUC03RvR-2XgI2PRP176Uf8kGKTJtANsyH6JleLkv7A4SppWBiI6l83n2E38ZoNB9Ev2JrMCVIGkp6wGqPetnbaigFylCsvifXQKWARg-DPV9IlVEikMoe8XT2_he8hte"
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1OynmZ31nl9NwIUzing69UWK0ToZn30ouhnSDtMdriT6Z3DnnTXf0K_zso6kt4qB8rM6TwU78zEpiReuFRBFT2OjYer3oWYwCdKe587MufZ1DY2RGYLVAygSxMEtt9WyPbHHZE_-iSDT-egpO90WLyoSdqiUXXj71RmpGnsOlSZJO5ILpSz_FF4FhWP-LKnfYxw77pJl5zGNiftg7vhnfyqxs4dCKFzAp_Y8qUU948u1GNtYqA3qLsu2LJYPLt1nuQ=="
+        },
+        {
+          "title": "newsandsentinel.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQoSdBzc7kDX038QbnMplvE176QjZJroFEtd1ixMzFpAbAOX9z2jKZiKvWTMoOe712q5Qw0QmQwHfuDdcNr4_bzn11M6tIMuEsXDDcLJvSkMJnvVpV4taIM7dg-rnyy4aFHz2HtEVflbLpLCHf_e_BEzz7wB-Dl430qMqUmu7BBxui_IQiukvyhKOpBju_9dM-B722trfcK33ycMnwueQuyfebRKJWTgi9GQun2cVO6rQ9oaGOG2IDgf6uvRrKlBWmJvHa5u6doCi0Vk="
+        }
+      ]
+    }
+  }
+}
