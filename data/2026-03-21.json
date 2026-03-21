@@ -1,0 +1,503 @@
+{
+  "date": "2026-03-21",
+  "timestamp": 1774073372567,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with Israeli strikes in Iran and Lebanon.",
+      "summary": "The Middle East conflict saw significant escalation today with Israeli forces striking targets in Tehran, Iran, and carrying out operations against Hezbollah in southern Lebanon. Iran responded by firing ballistic missiles towards the Diego Garcia military base, though they were intercepted or failed. Saudi Arabia and Bahrain also reported intercepting numerous drones and missiles, indicating a wider regional impact of the conflict.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israeli military confirmed fresh strikes on targets in Iran's capital."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli forces continued 'precise operations' against Hezbollah-linked positions, killing several terrorists."
+        },
+        {
+          "name": "Diego Garcia, British Indian Ocean Territory",
+          "lat": -7.3167,
+          "lng": 72.4167,
+          "severity": "red",
+          "detail": "Iran fired two ballistic missiles at the military base, but they failed or were intercepted."
+        },
+        {
+          "name": "Saudi Arabia",
+          "lat": 23.8859,
+          "lng": 45.0792,
+          "severity": "red",
+          "detail": "Saudi Arabia intercepted 22 drones in the eastern part of the country."
+        },
+        {
+          "name": "Bahrain",
+          "lat": 26.0667,
+          "lng": 50.5577,
+          "severity": "red",
+          "detail": "Bahrain has intercepted 143 missiles and 242 Iranian drones since the conflict escalated."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.5333,
+          "severity": "red",
+          "detail": "International efforts are intensifying to safeguard maritime traffic in this crucial waterway due to the conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian President Zelenskyy seeks to restart peace talks with Russia, with discussions expected this weekend in the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Human rights concerns rise in Iran, Palestine, and Nepal; South Africa celebrates Human Rights Day.",
+      "summary": "Concerns over human rights abuses intensified in Iran with the execution of three young men and fears of a wave of executions. In Palestine, Human Rights Watch urged Hungary to arrest Israeli Prime Minister Netanyahu over ICC arrest warrants for alleged war crimes. Nepal's National Human Rights Commission implicated former officials in a crackdown on a protest. Meanwhile, South Africa commemorated Human Rights Day, reflecting on its democratic trajectory.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Three young men were hanged, raising fears of a wave of executions to quash public dissent amidst attacks from the U.S. and Israel."
+        },
+        {
+          "name": "Qom, Iran",
+          "lat": 34.6417,
+          "lng": 50.8789,
+          "severity": "red",
+          "detail": "A 19-year-old wrestler and two other men were executed in Qom on charges of 'waging war against God'."
+        },
+        {
+          "name": "Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "yellow",
+          "detail": "Human Rights Watch urged Hungary to arrest Israeli Prime Minister Benjamin Netanyahu if he visits, citing an ICC arrest warrant."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "The National Human Rights Commission implicated former prime minister and other officials for their role in a protest crackdown."
+        },
+        {
+          "name": "Kimberley, South Africa",
+          "lat": -28.7333,
+          "lng": 24.7667,
+          "severity": "green",
+          "detail": "President Cyril Ramaphosa led the national commemoration of Human Rights Day, marking the country's progressive democratic trajectory."
+        },
+        {
+          "name": "Cameroon",
+          "lat": 5.9667,
+          "lng": 12.5667,
+          "severity": "yellow",
+          "detail": "Amnesty International highlighted ongoing efforts for the restitution of cultural artifacts, notably the Ngonnso statue, from Germany to Cameroon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record-breaking early heat wave grips Western US, linked to climate change.",
+      "summary": "A record-breaking and unprecedented early heat wave has struck the Western United States, with temperatures reaching up to 44.4°C (112°F) in some desert areas. Experts from the World Weather Attribution network state that this event would be 'virtually impossible' without human-induced climate change. This severe heat is toppling March temperature records across several states and is a one-in-500-years type event.",
+      "regions": [
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "red",
+          "detail": "The National Weather Service issued extreme heat warnings for Los Angeles and coastal southern California."
+        },
+        {
+          "name": "California-Arizona state border, USA",
+          "lat": 33,
+          "lng": -114.6,
+          "severity": "red",
+          "detail": "Four spots in the desert area near the border registered 44.4°C (112°F), a US national record for March."
+        },
+        {
+          "name": "Death Valley, California, USA",
+          "lat": 36.4607,
+          "lng": -117.1198,
+          "severity": "red",
+          "detail": "Death Valley scorched in 40°C on Thursday as part of the extreme heat wave."
+        },
+        {
+          "name": "San Francisco, California, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "San Francisco tied its historic March record at 29°C, highlighting the unusual warmth."
+        },
+        {
+          "name": "Las Vegas, Nevada, USA",
+          "lat": 36.1699,
+          "lng": -115.1398,
+          "severity": "red",
+          "detail": "Extreme heat warnings were issued for Las Vegas, indicating dangerous temperatures."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "ChangeNOW, a major global event for climate solutions and eco-innovation, is concluding today in Paris."
+        },
+        {
+          "name": "Lucknow, India",
+          "lat": 26.8467,
+          "lng": 80.9462,
+          "severity": "green",
+          "detail": "The city is preparing to host the WhiteSwan Art Festival focused on world peace and sustainability from March 22-25."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "No new major global public health crises reported today.",
+      "summary": "Today, 2026-03-21, no new major global public health crises or outbreaks were reported. Public health organizations continue to monitor ongoing health concerns and promote general wellness initiatives worldwide, with no significant new developments or emergencies emerging. The UN World Food Programme has warned that the Middle East crisis could impact humanitarian work in several countries already suffering chronic vulnerability.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization (WHO) headquarters continues its global health monitoring efforts, reporting no new major emergencies."
+        },
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "The Centers for Disease Control and Prevention (CDC) continues its work on disease prevention and health promotion."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Public Health England maintains vigilance over national health concerns and international disease monitoring."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war impacts global economy, driving up energy prices and trade uncertainty.",
+      "summary": "The ongoing US-Israel-Iran war is having significant repercussions on the global economy, causing oil and gas prices to soar and disrupting trade routes. The US Treasury temporarily lifted sanctions on Iranian oil to help stem a supply crisis. Spain announced a multi-billion euro package to offset the economic impact, including energy tax reductions. WTO economists warn of a slowdown in global trade in 2026 if energy prices remain elevated due to the conflict.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.5333,
+          "severity": "red",
+          "detail": "The waterway, crucial for global energy flows, has become a focal point, with international efforts intensifying to safeguard maritime traffic."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's energy infrastructure has been targeted, and the country is central to the ongoing conflict impacting global oil markets."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spanish Prime Minister Pedro Sanchez announced a 5 billion euro package to offset the economic impact of the Middle East conflict and protect consumers."
+        },
+        {
+          "name": "Kuwait",
+          "lat": 29.3117,
+          "lng": 47.6596,
+          "severity": "red",
+          "detail": "Drone attacks hit Kuwait's Mina Al-Ahmadi oil refinery, causing fires and shutting down several units."
+        },
+        {
+          "name": "Qatar",
+          "lat": 25.3548,
+          "lng": 51.1839,
+          "severity": "red",
+          "detail": "An Iranian attack on Qatar's Ras Laffan natural gas complex caused extensive damage, with potential $20 billion annual revenue loss."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The Pentagon is seeking $200 billion in war funding as the national debt reaches $39 trillion, and the US temporarily lifted sanctions on Iranian oil."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "Indian refiners are looking to resume buying Iranian oil after the US waived sanctions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns persist over democratic erosion in US and other Western democracies.",
+      "summary": "A March 2026 poll indicates a 10% drop in voter confidence in American elections since October 2024, with different reasons cited by Democrats, Republicans, and Independents. Research suggests the US democracy is deteriorating at an unprecedented speed, with a rapid concentration of powers in the presidency during the second Trump term. Broader trends of democratic backsliding are also noted in other traditionally stable democracies like Italy and the UK.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Voter confidence in fair elections has dropped, and research points to an unprecedented rate of democratic deterioration."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The second Trump term is characterized by a rapid concentration of powers in the presidency, contributing to democratic erosion."
+        },
+        {
+          "name": "Italy",
+          "lat": 41.8719,
+          "lng": 12.5674,
+          "severity": "yellow",
+          "detail": "Italy is identified as one of the Western democracies experiencing democratic backsliding."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "yellow",
+          "detail": "The United Kingdom is among the ten new autocratizing countries identified in the 2026 Democracy Report."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepal's National Human Rights Commission has implicated former officials for a crackdown during the 'Gen Z uprising'."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian aid blocked in Gaza amid conflict; global needs deepen with funding cuts.",
+      "summary": "Israeli authorities are blocking humanitarian aid shipments, including crucial medical supplies, from entering the Gaza Strip and West Bank, exacerbating a dire situation for communities. Globally, humanitarian needs continue to deepen in 2026, with an estimated 239 million people in urgent need, while international funding for aid is declining. The ongoing Middle East conflict further complicates relief efforts across the region.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.333,
+          "severity": "red",
+          "detail": "Israeli authorities are blocking humanitarian aid to Gaza and the West Bank, compounding the dire situation for communities."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "Humanitarian aid shipments, including medical supplies, are being blocked by Israeli authorities."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.85,
+          "lng": 35.85,
+          "severity": "red",
+          "detail": "The UN World Food Programme is scaling up emergency operations to support vulnerable families displaced by fighting in southern Lebanon."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.709953,
+          "severity": "yellow",
+          "detail": "Growing concern for vulnerable people returning to Afghanistan amidst ongoing hostilities and the wider regional conflict."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.552727,
+          "lng": 48.516388,
+          "severity": "yellow",
+          "detail": "The Yemeni Civil War continues to leave a vast majority of the population in need of assistance, with humanitarian needs increasing."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "yellow",
+          "detail": "The Sudanese Civil War is entering its fourth year, leading to a doubling of humanitarian needs and confirmed famine in the country."
+        },
+        {
+          "name": "Cuba",
+          "lat": 21.5218,
+          "lng": -77.7812,
+          "severity": "green",
+          "detail": "A solidarity caravan arrived with 20 tons of humanitarian aid as the island grapples with an energy crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56_BtdNB9ruxO99pnB_IRRl9ztqgqNa6PIj52MsfkbefADYulz05ymGn5N5Y3rEYx1SUnVpNNwRFVmcJBWB_brEHr7p-ey4cg8mGW-3lDzsdIrRPibZCsygh6npFRfQM-KEZyWzTwm_Fmmn05hvp12NSZhhZQADn-oDS7Saqbr_7zHYF4ufoAqvhyJSNcGJaKYOlZVZ7L8OxCZ486bsW9C65ZIoZkcuPVbfk8kIqSYa_gBzTziOUXiq38Q49jp86oxGqHI9faDpa1uauQCRobvlZWcNV9jHNRbG1mi1-3rqYjVQsQ"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7S_OPRfQ062LSVixSc7kn1orYt5qFk-LrYCd64w30r-zCnoGthMymK9CVVQef91MvmWdeujK2ZnxZ-ji_0H3rdslNBdBIl4Ifj3uWuvCBXBA8rBXq-rg0x-TomY9MkKlKGNOicsEJKG6KU0_63Wd1qrhRe3UW5OdG-4NcjjeWdmqotPh8xxwojG1F3o0cNzC0LJeGyW1t_01WeGCDcgFzOPD7bXPD0A7cL2A91eqDTVhWIuNZH0-In5Qnltnnx4EVwueptOrOJQxgqigWVr7YygE="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3zv-8ks1HA5JaqVSy8rK5kEK0ngD-ewW3iqzYc3MTTp5qiSWduaxKksJwmPu4H9HPVX6bp6jenzRk--wisnEfSn2pH9Id0i65CGkYMocmf4_q0jyM-kiak94c8N4lZGRE2LAPRj17niHJ3gNn-4-gzjBTYnpCGok9RQl"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTUEnUsI5RF_wq-AtMC6KHRvukXnpdHQybBcMZFCXLyWBbsABiz6EC5w9eDQw8gHeQ3rouUwYK1Ty1Q7nYfA4je6o_byIMpLHe-gwakwNN4jniqux5p7UkHQO4tKRaDTQXWXmmoJRic0x_MqPhh81s3DSASUh4Fksiw4-S1grZjhBQql0afV-YiciCrrnbDBEg5v_c5SoN2UjKUQc_J4uEEvRvqDd203R0b7xUp0pWQLr9r3OmYUYUI45WPwgwTsrnyIC9uDwWbi3x_MZ60O4iKg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6xfeCuLpDMDeCMrYT7Ne52b-TqMA0xDgYj6dwUJ7zGKCuiCnMP8kC4fJ5KoMgFEg1FxfwC3iQixcqeddj3aHaugK5qiBHwTMH7pRZdYVR3Torw5uVSQ-rglE-Oj79-LaX_Chb3janulWhAYAgXW8mvgdYIrWCu5YsyjEQjhhMQgg6AJtoorfSDUgGOoYGmdVWBXNhXj5WhdbplkslVnC8Z9LgUbX3mKgRK_fgRrNZSAQUUdNMAqv6bfFDyC3lrKlmpjL6sdn4uA6ZvHFXcoAK8w=="
+        }
+      ]
+    }
+  }
+}
