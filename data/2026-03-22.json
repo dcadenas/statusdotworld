@@ -1,0 +1,426 @@
+{
+  "date": "2026-03-22",
+  "timestamp": 1774160050713,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "West Asia conflict escalates; Ukraine war continues with casualties",
+      "summary": "The West Asia conflict, involving the US, Israel, and Iran, significantly escalated with President Trump issuing a 48-hour ultimatum to Iran over the Strait of Hormuz, threatening strikes on energy infrastructure. An Iranian missile attack injured 47 in Dimona, Israel, while Iran's death toll in the conflict surpassed 1,500. Simultaneously, the ongoing Russia-Ukraine war saw Russian attacks kill civilians in southeastern Ukraine and cause power outages, as peace talks continued without Russian representatives.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faced a US ultimatum to reopen the Strait of Hormuz, with threats of strikes on its energy infrastructure and a reported death toll over 1,500 in the ongoing conflict."
+        },
+        {
+          "name": "Dimona, Israel",
+          "lat": 31.0694,
+          "lng": 35.0211,
+          "severity": "red",
+          "detail": "An Iranian missile strike injured 47 people at Israel's nuclear hub in Dimona."
+        },
+        {
+          "name": "Washington D.C., US",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump issued an ultimatum to Iran and Congress questioned the war's cost and exit plan."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Parts of the Chernihiv region, near Kyiv, experienced power cuts following a drone strike on an energy facility, and Ukrainian negotiators met with US counterparts for peace talks."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8388,
+          "lng": 35.1395,
+          "severity": "red",
+          "detail": "A morning attack killed two people and injured six, including two children, in Zaporizhzhia."
+        },
+        {
+          "name": "Belgorod, Russia",
+          "lat": 50.6038,
+          "lng": 36.5707,
+          "severity": "red",
+          "detail": "Ukrainian forces shelled a public building, killing four people in Russia's border region of Belgorod."
+        },
+        {
+          "name": "El Daein, Sudan",
+          "lat": 10.8167,
+          "lng": 27.8167,
+          "severity": "red",
+          "detail": "A strike on El Daein Teaching Hospital killed at least 64 people, including 13 children, and rendered it non-functional."
+        },
+        {
+          "name": "Yinmabin, Myanmar",
+          "lat": 22.2592,
+          "lng": 95.0354,
+          "severity": "red",
+          "detail": "Over 80 junta soldiers died and no fewer than 60 were injured in prolonged fighting with revolutionary forces."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Myanmar faces rights concerns; South Africa marks Human Rights Day amidst inequality",
+      "summary": "The UN Human Rights Council proposed a new Special Rapporteur for Myanmar, where ongoing conflict has led to casualties and concerns for human rights. In South Africa, President Ramaphosa called for closing the gap between constitutional rights and daily reality on Human Rights Day, highlighting persistent poverty, unemployment, and inequality. Additionally, a lawsuit was filed against Harvard University by the Justice Department, alleging failure to address antisemitism.",
+      "regions": [
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7635,
+          "lng": 96.0785,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council proposed a Special Rapporteur for Myanmar amidst ongoing human rights concerns and conflict."
+        },
+        {
+          "name": "Kimberley, South Africa",
+          "lat": -28.7335,
+          "lng": 24.7644,
+          "severity": "green",
+          "detail": "President Cyril Ramaphosa spoke on Human Rights Day, emphasizing the need to bridge the gap between constitutional rights and everyday realities."
+        },
+        {
+          "name": "Cambridge, US",
+          "lat": 42.3751,
+          "lng": -71.1056,
+          "severity": "yellow",
+          "detail": "Harvard University faced a lawsuit from the Justice Department over alleged failures to address antisemitism on campus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record heatwave in US; El Niño's return anticipated in 2026",
+      "summary": "A record-breaking heatwave moved eastward across the United States, shattering monthly temperature records in dozens of cities from California to Colorado, with temperatures reaching up to 44.4°C (112°F). Scientists warn that the El Niño climate phenomenon is set to return in 2026, expected to bring erratic global weather shifts and unusual heat. The Trump administration is also facing a lawsuit for allegedly dismantling a climate research center as retribution.",
+      "regions": [
+        {
+          "name": "Phoenix, US",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "red",
+          "detail": "The daily low temperature reached a balmy 70°F (21.1°C), the earliest in the year such a level had been reached."
+        },
+        {
+          "name": "Kansas City, US",
+          "lat": 39.0997,
+          "lng": -94.5786,
+          "severity": "red",
+          "detail": "Recorded a new March record high of 92°F (33.3°C) as the heatwave moved eastward."
+        },
+        {
+          "name": "Denver, US",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "red",
+          "detail": "One of the cities recording an all-time daily high of 86°F (30°C) during the heatwave."
+        },
+        {
+          "name": "Boulder, US",
+          "lat": 40.015,
+          "lng": -105.2705,
+          "severity": "yellow",
+          "detail": "A lawsuit alleges the Trump administration targeted a key climate research lab in Boulder as retribution."
+        },
+        {
+          "name": "Global Ocean",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The El Niño climate phenomenon is expected to return in 2026, bringing erratic global weather shifts and unusual heat."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak contained in El Paso; Sudan hospital strike kills 64",
+      "summary": "Health officials in El Paso, US, announced that a recent measles outbreak at a migrant detention facility has been contained, though community risk remains with six local cases confirmed. Meanwhile, a devastating strike on El Daein Teaching Hospital in East Darfur, Sudan, killed at least 64 people, including 13 children, and left the facility non-functional, critically interrupting essential medical services.",
+      "regions": [
+        {
+          "name": "El Paso, US",
+          "lat": 31.7619,
+          "lng": -106.485,
+          "severity": "yellow",
+          "detail": "A measles outbreak at the Camp East Montana migrant detention facility was contained, but local cases persist, prompting calls for vaccination."
+        },
+        {
+          "name": "El Daein, Sudan",
+          "lat": 10.8167,
+          "lng": 27.8167,
+          "severity": "red",
+          "detail": "A strike on El Daein Teaching Hospital killed 64 people, injured 89, and rendered the hospital non-functional, severely impacting healthcare."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "West Asia conflict ripples globally, threatening economic decline and inflation",
+      "summary": "The ongoing West Asia conflict, particularly the US-Israel attacks on Iran, has triggered a 'shockwave' through the global economy, leading to a significant new source of risk. Business surveys from the US to the Eurozone anticipate a synchronized weakening across both manufacturing and services, while energy prices have spiked due to disruptions in shipping and production, pushing crude oil over $100 per barrel. This situation is fueling inflation and could lead to millions of job losses and unprecedented levels of inflation.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The West Asia conflict is causing a 'shockwave' across the global economy, threatening a synchronized weakening in manufacturing and services."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Choking of the Strait of Hormuz by Iran has led to a spike in global fuel prices and disrupted global supply chains."
+        },
+        {
+          "name": "Qatar",
+          "lat": 25.3548,
+          "lng": 51.1839,
+          "severity": "red",
+          "detail": "The Iran war has halted Qatar's helium output, threatening global tech supply chains."
+        },
+        {
+          "name": "Europe",
+          "lat": 54.526,
+          "lng": 15.2551,
+          "severity": "yellow",
+          "detail": "Euro-zone peers adopted a tightening bias on interest rates amidst the energy price spike."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "IMF noted China's policymakers are taking steps to address challenges and rebalance the economy, while also benefiting from selective access to the Strait of Hormuz."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "yellow",
+          "detail": "Nepal is experiencing the effects of escalating global wars, with people queuing for LPG and expected cost rises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Czech Republic protests against government; US administration sues Harvard",
+      "summary": "Tens of thousands of protesters rallied in Prague, Czech Republic, against Prime Minister Andrej Babiš's new government, expressing concerns that it threatens democracy and leans towards an autocratic path. Critics highlighted a proposed bill, inspired by a Russian law, that could restrict non-governmental organizations and personal freedom. In the US, the Justice Department filed a lawsuit against Harvard University, alleging its leadership failed to address antisemitism on campus.",
+      "regions": [
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "Tens of thousands protested against the government, fearing democratic erosion and a proposed law restricting NGOs."
+        },
+        {
+          "name": "Cambridge, US",
+          "lat": 42.3751,
+          "lng": -71.1056,
+          "severity": "yellow",
+          "detail": "Harvard University was sued by the Justice Department for allegedly failing to address antisemitism on campus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Sudan hospital attack exacerbates crisis; Aid convoy reaches Cuba",
+      "summary": "A strike on El Daein Teaching Hospital in East Darfur, Sudan, killed at least 64 people, including children, critically interrupting medical services and worsening the humanitarian crisis in the war-torn country. Meanwhile, a solidarity caravan transported 20 tons of humanitarian aid to Cuba, grappling with a severe energy crisis. The US State Department is also establishing 12 regional disaster response hubs to consolidate emergency humanitarian aid efforts globally.",
+      "regions": [
+        {
+          "name": "El Daein, Sudan",
+          "lat": 10.8167,
+          "lng": 27.8167,
+          "severity": "red",
+          "detail": "A hospital strike resulted in 64 deaths and 89 injuries, severely impacting humanitarian conditions in the region where over 33 million need aid."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3585,
+          "severity": "yellow",
+          "detail": "A solidarity convoy arrived with 20 tons of humanitarian aid to assist the island amid its severe energy crisis."
+        },
+        {
+          "name": "Washington D.C., US",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US State Department announced the establishment of 12 regional disaster response hubs to coordinate emergency humanitarian aid globally."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Kyiv is designated as a location for a new US regional humanitarian response hub amidst ongoing conflict."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "Addis Ababa is designated as a location for a new US regional humanitarian response hub."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6GuXxz-FhJNMs4oVZiwj7eh5K30APZqQgimMBvABpvWiNJJt_5jLdAgnKD8fc8HSlCITGxlPs3sNO3sO58Qm5CgkNVUFqNlRMbs4AjMXG3pixhgRfZDoUJC6_Zfj-i2yYrASJ6pXe0TXl57EvW2TPDheosF8i_ZUbPQFFohmCG2KYyw7E0IkUABM9foQ8LhFLaSeZPgEiLbMIsiMGeLK3iFYUv8oQWuZ65-1DhWfQv9BYpgZZUZsEC9NZd-kjQ=="
+        },
+        {
+          "title": "philstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXu1AIR7CFn-ErLtQUBOpfE_MoZa2asx5UF73RXeLbg-yUIMJd8hvvTRv99OQZNySMJy7BnSkVd536kRs2ST1T_wkceLmI79DfGDvShb3mptLx-wdzZRYE4Jha-0edm5qoLbFL1LNAq_qRTRTsoV7iAGYUdyqVrnnCOzBbCe45TlPlBwwD3GNUY2kkMWQOisOtz2Q8r3aAGpcDhlm"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoNvV6ClqN06i13ENVVJfiDeJfC0U45j20_wDxmlf96VpsZjEw_CLFq-Y5pJn3IbhxyQ9UiJuDM0uzZabQv-jXOf47Q0g50GhRANIrFzMH8iCg6yLNA-0c-B0b6lKlX6v8j50JZacc9HeIdiUb376BUGmpDTZ6Oxlvj4FANpZ26D7d79L7UxEOjaN8THU2PC4tHi3ByhmxJUXVQGpZX6oreACieUfvLTjjYKMSHZmHsLsm1i7WrJ0gK6jUMsnGBD4GEmQE1GGfldXCa59jQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSgoNGElzbv0DlLcxW1qKJOl83mFGoS3CP4AQVrGaMDP920qTT9a1Z_VfYDpoxnJF6TgQMteiXAcjWyV70o2GBnTGiV5bcsx5XVjiSHHS8HIdivC76rbfVaYJNwtlBPZf2-szxo25l7FKzLGgJMmlR4Oaz7EDVXcaVHaP-D5IPDovh"
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9gg55w5J98EHvFEcUPMLswpqidV32jkfGeAi3TQVhEbIbaiW4DHigcCbMN9Mk7fj6XCFTxX_RLUKKi0AGGovV0tr1zPOZhAKXYJsc1_4dk-vRITlXM5g1-cq90yFKeJy58RM15qnhc0GhH22L8CPqWnogwyr6YwboTXQb1twdUPZY7oaDgIn3VqPqdJf7sD0ipOTfQyJVlxMg0AOozidWp-hofjl3v4sbzY9PkVa2MFepXY="
+        }
+      ]
+    }
+  }
+}
