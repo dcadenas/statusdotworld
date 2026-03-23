@@ -1,0 +1,524 @@
+{
+  "date": "2026-03-23",
+  "timestamp": 1774246890450,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East war escalates; Sudan hospital hit.",
+      "summary": "An ongoing Middle East war involving the US, Israel, and Iran has escalated, with threats of attacks on energy infrastructure and reports of explosions in Tehran and an air strike in Urmia, Iran. Pope Leo XIV issued a plea for peace amid mounting human costs and increased fighting in Lebanon. In Sudan, a hospital strike killed 64 people, including children and medical staff, rendering the facility non-functional.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Explosions were reported in several parts of the capital due to Israeli strikes."
+        },
+        {
+          "name": "Urmia, Iran",
+          "lat": 37.5501,
+          "lng": 45.0766,
+          "severity": "red",
+          "detail": "An air strike flattened residential buildings, with rescue teams searching for trapped people."
+        },
+        {
+          "name": "Ed Daein, Sudan",
+          "lat": 11.45,
+          "lng": 26.3833,
+          "severity": "red",
+          "detail": "A strike on Ed Daein Teaching Hospital killed 64 people, including children and medical staff, and rendered the facility non-functional."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The strait remains blocked by Iran, causing a major threat to the global economy and oil prices."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "IEA chief Fatih Birol spoke at the National Press Club about the global economic threat from the Middle East war and energy crisis."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Fighting has increased, pulling the entire region deeper into violent conflict, with a rapidly deteriorating humanitarian situation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump has issued threats to Iran regarding the Strait of Hormuz and is involved in the ongoing war."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is involved in the Middle East war, with reported strikes on Iranian infrastructure and concerns over retaliatory strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Erosion of democratic freedoms globally; AI surveillance concerns.",
+      "summary": "Democratic freedoms globally have continued to decline for the 20th consecutive year, with media freedom, personal expression, and due process being most affected. In the US, democratic backsliding is occurring at an unprecedented speed, with concentration of power in the presidency. Concerns about AI-powered surveillance and digital privacy are growing, with calls for national legislation and a moratorium on risky AI systems.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reports indicate accelerating democratic erosion under the current administration, with the White House also proposing national AI privacy legislation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The OHCHR continues to focus on human rights in the digital age, including concerns over AI impacts on privacy."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute, based here, released its 2026 democracy report highlighting global democratic backsliding."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK is identified as one of the established democracies experiencing democratic backsliding."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italy is also listed among the established democracies undergoing democratic backsliding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Earth's climate in emergency; record warming and ice melt.",
+      "summary": "The World Meteorological Organization (WMO) announced on March 23, 2026, that Earth's climate is more out of balance than ever recorded, with all key climate indicators \"flashing red.\" The period of 2015-2025 has been confirmed as the hottest 11 years on record, and 2025 was the second or third hottest year. This is accompanied by record-low Arctic sea ice, the third-lowest Antarctic sea ice, and unabated glacier melt.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The World Meteorological Organization (WMO) released its 'State of the Global Climate report 2025' from Geneva, declaring Earth's climate in a state of emergency."
+        },
+        {
+          "name": "Arctic Region",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Annual sea ice extent was at or near a record low in 2025."
+        },
+        {
+          "name": "Antarctic Region",
+          "lat": -90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Sea ice extent was the third lowest on record in 2025."
+        },
+        {
+          "name": "Valencia, Spain",
+          "lat": 39.4699,
+          "lng": -0.3763,
+          "severity": "green",
+          "detail": "The second edition of the EFI Mediterranean Network Forum for forest researchers and policymakers is scheduled to begin today."
+        },
+        {
+          "name": "Campo Grande, Brazil",
+          "lat": -20.4428,
+          "lng": -54.6468,
+          "severity": "green",
+          "detail": "The 15th meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (CMS COP15) is scheduled to begin today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global maternal health focus; TB efforts continue; Cayman Islands disease update.",
+      "summary": "On World Tuberculosis (TB) Day 2026, the WHO called for accelerated action to transform TB care and scale up innovation, emphasizing that ending TB is achievable with stronger primary health care and rapid diagnostic tools. Kenya is hosting the International Maternal, Newborn and Child Health Conference (IMNHC 2026) in Nairobi from March 23-26 to accelerate action on reducing preventable maternal and newborn deaths. Separately, the Cayman Islands expanded its list of notifiable infectious diseases, including Zika and chikungunya, to strengthen early detection and intervention.",
+      "regions": [
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya is hosting the International Maternal, Newborn and Child Health Conference (IMNHC 2026) to address preventable maternal and newborn deaths."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The WHO Western Pacific Region, headquartered here, is emphasizing accelerated action to end TB on World Tuberculosis Day."
+        },
+        {
+          "name": "George Town, Cayman Islands",
+          "lat": 19.2974,
+          "lng": -81.3686,
+          "severity": "green",
+          "detail": "The Ministry of Health expanded the list of notifiable infectious diseases to 67 to enhance public health surveillance."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "Research is ongoing in South Africa regarding new, cheaper TB diagnostic tests like tongue swabs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war poses \"major threat\" to global economy.",
+      "summary": "The International Energy Agency (IEA) chief Fatih Birol stated that the global economy is under a \"major threat\" due to the energy crisis stemming from the Middle East war, comparing it to two oil crises and a gas crash combined. The ongoing blockage of the Strait of Hormuz by Iran, through which around 20% of the world's oil and gas transit, has sent oil prices soaring above $100 a barrel and led to significant plunges in Asian stock markets. There are also concerns about attacks on energy assets in Gulf States, including Qatar's Ras Laffan gas hub.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The ongoing blockage of this critical waterway is severely impacting global oil and gas shipments and driving up prices."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "IEA chief Fatih Birol addressed the National Press Club, highlighting the \"major threat\" to the global economy."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "red",
+          "detail": "The Nikkei 225 plunged by 4% due to the escalating Middle East crisis."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "red",
+          "detail": "The KOSPI plunged by 4.5% in early trading due to Middle East tensions."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "The Hang Seng Index tumbled by 3.5% amid the economic fallout."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "red",
+          "detail": "Energy assets, including the Ras Laffan gas hub, have reportedly sustained serious long-term damage due to strikes."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "British PM Keir Starmer called an emergency meeting on the UK economy due to risks from the Middle East war."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "Cuba is experiencing an island-wide blackout and severe economic hardship exacerbated by a US fuel blockade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic backsliding accelerates globally, hits Western nations.",
+      "summary": "Democratic freedoms have declined globally for the 20th consecutive year in 2025, according to the Freedom in the World 2026 report, with 54 countries experiencing deterioration. The V-Dem Institute's 2026 democracy report highlights that democratic backsliding is accelerating, affecting nearly a quarter of the world's nations, including Western democracies like the US, Italy, and the UK. The US specifically has seen an \"unprecedented\" decline in democracy, marked by a rapid concentration of power in the presidency.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Reports indicate unprecedented democratic erosion and concentration of power in the presidency."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute, based here, released its 2026 democracy report detailing global democratic backsliding."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK is identified as one of the established democracies experiencing democratic backsliding."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italy is also listed among the established democracies undergoing democratic backsliding."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Hungary is mentioned as a country where leaders have undermined checks and balances."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "yellow",
+          "detail": "Turkey is mentioned as a country where leaders have undermined checks and balances."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Indian Prime Minister Narendra Modi is cited in comparison to leaders who have undermined checks and balances."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East crises escalate, Lebanon and Sudan face dire needs.",
+      "summary": "Humanitarian crises are escalating rapidly, particularly in the Middle East, with concerns of a \"moment of grave peril.\" In Lebanon, the humanitarian situation is deteriorating rapidly with mass displacement of over one million people, mounting civilian casualties, and growing constraints on aid access following renewed conflict. Sudan is in a devastating emergency with 33.7 million people needing assistance and nearly 12 million displaced, and children dying from hunger. Cuba is also facing a severe humanitarian crisis due to an island-wide blackout caused by a US fuel blockade, impacting essential services.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The humanitarian situation is rapidly deteriorating with over a million people displaced and mounting casualties."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Sudan faces a devastating emergency with millions displaced and high food insecurity, exacerbated by conflict."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "An island-wide blackout and severe economic hardship due to a US fuel blockade are causing immense suffering."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Over 1,000 deaths and damage to over 100 civilian sites have been reported in Iran due to conflict."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Mass displacement of 90% of the population and high danger for aid workers persist."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The conflict in Ukraine continues to be a prolonged humanitarian emergency requiring significant assistance."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "Yemen remains one of the largest humanitarian crises with nearly 80% of the population needing urgent support and collapsing funding."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5104,
+          "lng": 36.2784,
+          "severity": "yellow",
+          "detail": "Fifteen years after conflict broke out, 16.5 million people need aid and nearly 11 million are displaced."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfsKs14DgekR9tPbv-TrbXnrwRqlmxi5-sSULD_hL7gs_8FgKGZPCB67In9jIMTSB2reGSwfCpo7dfcrCEZ_s6GOMp4uLPECQv526bAY5Q8rM5XRk_yRrHyNQxUurkKjRNNGiRArjtHOEhDKIMnOZYqCD-g3oOv-Coa1WJ-eQY8T1g3A0MxxSLSzslG2CW-vaTj5mwEGVoOTHoFlRYLKjWRDof_RE1ARKssAj-MTyh_Q_Py6HY"
+        },
+        {
+          "title": "channelnewsasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLX5qmEnjHTFBkWSKO5I80pevDIM9kqh-44JwYAcRBgAKfQxtOHS8eQ9HiEmRIkk0oTanlfEfycUQRGQh63ZkoKosbBqCAtstJspk-6GbtooWdKK4nI7SPp3ufLjV4DdnfwzJdmyXmxOQL2UKriV8eqAG0XT2md31gRir0P_zFmYu5Gmdv5qtg7n6_5uG6_XwomXwmLvg5EsD"
+        },
+        {
+          "title": "ewn.co.za",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnI8EO2MXxZRHAPYdd5wQoqDcuwvZLBI8FmjcXd6MyAlJQi61ggMZ_vVPE8etAi8nku3qjaC5_4HPC06LjW3GfG_pIWkLZJ2RTTJ6ePMhDAZW4aGfjhknL3SvILKBBbPmmBJe04wbk8RP7DJop0LcW3eISxSKy2f6m-RTbOn5RYg0f7BQF50Ytd1ORIIiMjYdHAbmN0hAEaabZKE9RABU8obi7sg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW90Go4ztcxdOcPyzDpSV33082EoqxqJ8A_wqZIEP57mhAwTSq5eNN40lTAXh0DFqt0UEAGLn1ROW1aS9bjyk8cgcslBsAyzd9QFP17xD4WEjwl5MgwHwvLrnO2y2Q_mqfsN-D-T_gC4a5g7VHQrOUsGdghpa1HMH8kVG60pCfr5GXOznZb6pajnvLfp_lgxY_8ko0upiMORSkYvVIOUlJxx0Njd21cyVv3PrBPYp5Rfh_0exHLomhU4tP_XQzuP0V-a-9oL6j9yqZZwSGYIbnkSVFRuIhwleYIHOAifJe4NU="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDUcMBTwsaSTmkpgp5tmQlG_SGJGMV_i3XWr2q2ECG695y3bTuxysU8zcI3VU4Nia7CI6cCtzT4tWE3VaoCmlEogP-xgzTU9fQPOEHspMnyU8VE8B-ysxkd1chjiWhEHHNV2hDPk3tbadqoBtKfsL3OeH0kpOt8X175oyVGqxwGt4RSWbVA19V5W0a7wJPms9z4sgLjKj0QmbMKLBW1XA="
+        }
+      ]
+    }
+  }
+}
