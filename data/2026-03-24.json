@@ -1,0 +1,419 @@
+{
+  "date": "2026-03-24",
+  "timestamp": 1774333186776,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Russia launches major missile and drone attacks on Ukraine; Middle East conflict intensifies",
+      "summary": "Russia conducted large-scale missile and drone attacks on multiple Ukrainian cities, killing and injuring civilians. Meanwhile, the war in Iran continues to cause casualties and displacement, with UN officials stating the violence in Ukraine is 'worse than ever'.",
+      "regions": [
+        {
+          "name": "Poltava, Ukraine",
+          "lat": 49.5883,
+          "lng": 34.5514,
+          "severity": "red",
+          "detail": "Russian missile and drone attacks killed two and injured eleven, damaging residential buildings and a hotel."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8388,
+          "lng": 35.1395,
+          "severity": "red",
+          "detail": "A massive Russian missile-drone strike killed one, injured three, and damaged apartment buildings and an industrial facility."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Explosions were heard amid an incoming Russian missile attack."
+        },
+        {
+          "name": "Belarus",
+          "lat": 53.7098,
+          "lng": 27.9533,
+          "severity": "yellow",
+          "detail": "Russia plans to establish four control stations for long-range attack drones, increasing its involvement in the Ukraine war."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "An ongoing war involving the US and Israel continues to cause casualties, with reports of airstrikes on energy facilities."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "red",
+          "detail": "Geopolitical tensions in the Gulf are disrupting global oil and LNG shipments."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "red",
+          "detail": "Over 1,000 deaths have been reported in the context of the Middle East conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Indonesian activist attacked; Egyptian detention conditions raise alarm",
+      "summary": "A prominent human rights activist in Jakarta, Indonesia, suffered a brutal acid attack by alleged military intelligence members, raising grave concerns for the human rights community. In Egypt, a daughter continues to advocate for her mother, a human rights defender, who remains arbitrarily detained with deteriorating health amid poor prison conditions.",
+      "regions": [
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "red",
+          "detail": "A prominent human rights activist, Andrie Yunus, was subjected to a brutal acid attack by alleged military intelligence members."
+        },
+        {
+          "name": "Egypt",
+          "lat": 26.8206,
+          "lng": 30.8025,
+          "severity": "yellow",
+          "detail": "Concerns over the arbitrary detention and deteriorating health of human rights defender Hoda Abdel Moneim in poor prison conditions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "WMO declares climate emergency; global air pollution and extreme weather worsening",
+      "summary": "The World Meteorological Organization declared a climate emergency, with Earth experiencing record heat and an accelerating energy imbalance. A new report highlighted that climate-fueled wildfires and dust storms drove up global air pollution, threatening the majority of the world's population. Australia faces accelerating damage to ecosystems and wildlife, with record sea surface temperatures and mass coral bleaching.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The WMO declared a climate emergency due to record heat, an accelerating energy imbalance, and widespread air pollution."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.2744,
+          "lng": 133.7751,
+          "severity": "red",
+          "detail": "The country is experiencing accelerating damage to ecosystems and wildlife, including a sixth mass bleaching event on the Great Barrier Reef."
+        },
+        {
+          "name": "El Paso, Texas, USA",
+          "lat": 31.7619,
+          "lng": -106.485,
+          "severity": "yellow",
+          "detail": "The city was ranked as the most polluted major U.S. city in 2025 due to dust storms exacerbated by drought and climate change."
+        },
+        {
+          "name": "Minas Gerais, Brazil",
+          "lat": -18.5122,
+          "lng": -44.555,
+          "severity": "red",
+          "detail": "Record rainfall in February 2026 triggered at least 20 significant landslides and flash floods, resulting in over 65 deaths."
+        },
+        {
+          "name": "Niscemi, Sicily, Italy",
+          "lat": 37.1667,
+          "lng": 14.4,
+          "severity": "red",
+          "detail": "Severe rainfall in January 2026 caused a significant landslide, damaging infrastructure and forcing evacuations."
+        },
+        {
+          "name": "Pacific Northwest, USA",
+          "lat": 45.5,
+          "lng": -120,
+          "severity": "yellow",
+          "detail": "Climate change is complicating avalanche risk due to more rain-on-snow events and icy crusts in snowpacks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Italy battles Hepatitis A outbreak; World TB Day highlights global burden",
+      "summary": "Italy is experiencing a Hepatitis A outbreak, with over 130 cases linked to contaminated shellfish, leading to a ban on raw seafood consumption in Campania. Globally, World Tuberculosis Day on March 24th emphasized the ongoing public health challenge of TB, which remains one of the world's deadliest infectious diseases.",
+      "regions": [
+        {
+          "name": "Campania Region, Italy",
+          "lat": 40.85,
+          "lng": 14.28,
+          "severity": "yellow",
+          "detail": "Over 130 people have been infected by Hepatitis A, linked to contaminated shellfish, leading to a ban on raw seafood."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "World Tuberculosis Day highlighted that TB remains a significant global public health issue, impacting millions worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran war escalates global economic threat, oil prices volatile",
+      "summary": "The ongoing war involving the US, Israel, and Iran is causing significant economic shockwaves globally, particularly due to disruptions in the Strait of Hormuz, driving oil prices up and threatening inflation. The head of the International Energy Agency warned of a 'major, major threat' to the global economy, with 40 energy assets across nine Middle East countries damaged.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The ongoing war in Iran is creating significant economic shockwaves, driving inflation and impacting financial markets."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Reports of fresh airstrikes on energy facilities and denial of US talks contribute to market volatility."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "red",
+          "detail": "Disruptions in this vital artery are causing global oil and LNG shipment issues and price volatility."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "red",
+          "detail": "Highly vulnerable to the war's fallout due to crude and LPG import dependence, experiencing stock market fluctuations."
+        },
+        {
+          "name": "South Korea",
+          "lat": 35.9078,
+          "lng": 127.7669,
+          "severity": "yellow",
+          "detail": "Stock market experienced significant volatility, with a sharp rebound after hints of de-escalation in the Middle East."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Over 40 energy assets in nine countries were severely damaged by the conflict."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Stock markets rebounded after President Trump hinted at a pause in strikes on Iran, though the war remains a significant economic factor."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "US Special Elections held in Florida and Texas",
+      "summary": "On March 24, 2026, several special general elections were held in the United States, including for Florida Senate District 14 and House Districts 51 and 87, as well as a Houston City Council District C special election. These are routine electoral processes.",
+      "regions": [
+        {
+          "name": "Florida, USA",
+          "lat": 27.6648,
+          "lng": -81.5158,
+          "severity": "green",
+          "detail": "Special general elections were held for State Senate District 14 and House Districts 51 and 87."
+        },
+        {
+          "name": "Houston, Texas, USA",
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "severity": "green",
+          "detail": "A City Council District C Special Election took place."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ukraine's humanitarian crisis worsens; new concerns over human trafficking",
+      "summary": "The UN Security Council heard that violence in Ukraine is 'worse than ever,' with over 15,000 civilians killed since the full-scale invasion and critical infrastructure damaged, necessitating increased humanitarian aid. A consultative forum on trafficking in persons for forced criminality in Southeast Asia highlighted emerging concerns about this complex form of exploitation.",
+      "regions": [
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "red",
+          "detail": "The UN Security Council reported that violence is worsening, with substantial civilian casualties and damage to essential services, increasing humanitarian needs."
+        },
+        {
+          "name": "Donetsk Oblast, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "red",
+          "detail": "A humanitarian NGO's van was struck by a drone while evacuating older people, resulting in two deaths and two injuries."
+        },
+        {
+          "name": "Southeast Asia",
+          "lat": 10,
+          "lng": 105,
+          "severity": "yellow",
+          "detail": "A consultative forum addresses the increasing complexity of trafficking in persons for forced criminality in the region."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "Hosted the Senior Officials Consultative Forum on Trafficking in Persons for Forced Criminality."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibkDfSF3tJWIhDp4yLheqlgAwAvTgQ2d__W-Xc4dMi3yDs5fSQeMWMB3tnw5VcyBvaYFmjTZ_5VX7wMLHpsvpY3GaHfzVgxQmadOWLtkFk_dWiQr3YRF0g3RZkdGblsBn1jMFP0Wh2aGn3-STnbhl8gUZto5Hcez5b1qANE-oHIBlJRtkvYjLjzm5wXXa04MDzu2Qb-afv4hOVthw-0WNxKv024PGUilhGw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESQmVMJL5qkOrVnTgQjcFRtty3880ViO0vkypXyEGRV0km_unERh-jm3n3k6FOscm0LV4CDqWk3Esp1fQVElXsPpzgkEF2lgeHVBip5oNnyUdkNhBARa94VPEkektfyqnghCckF25xUiWZHsa1nIcULnjerpfl3uY3ncW_CKgSLHosMEBqWJd69HE9jvXozuUyH4kCPPb1LPmyD5f8JZ6uJ5x5V2Wdbg5Wr7cFdz9n6dTEXp3YnxXuq0QRudgqD-Il"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbtKRzcLTMig3WttnS6v5OD5OeLv3inDBBuL5qT6Qv67DnXS1wttSoQKrcxnS1A3GYcwBpSRyazSe63VQ7DuxVeZFaJZpeEE9wkNL1SPuDqXcoChXKRzDos0dCjB_KHM5JrtSQ5S9Cj4zc9BVCFkXnxigIw4zXwuMgfdsJJlzHQnX9pvZqOvqNzZr_EY6J6gL9tb0hzAtVua6MY0Hs"
+        },
+        {
+          "title": "spacewar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGy0nAJP1mg48UAXaoPteq1m8MdwN1gn6moF3NCPuk2L3T1sf__DvSqKmBj7WqhEBWkZrEAe2MD8n7HyVKfYhKUN8vyFFX1x36bTM953l4SVvTgG6G8eXEGKrHio5ELo-hCj_4dYvQ4LIRN2U-UfdYwU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEwDl44flex4yHCTtCKgNDBGhUYcN-NRQ2EP9bnYWcAloqU6a5WVXyMIlysoftVDSS3O03CdSZ58b-lhcd0scKLCBBKD2UjWWoXfRI3yrZ6rcGRYJ3D32RVGATv6jUs2rHqOpG9t4HyNvRKKzH9-0UQpExUnBvn7Tt2K8jbGrxh_qlvb3VhFmgM5B3IKvaO1lPRds-kohqYgxm6UH8AgJFpO99gw=="
+        }
+      ]
+    }
+  }
+}
