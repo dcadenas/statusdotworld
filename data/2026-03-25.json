@@ -1,0 +1,440 @@
+{
+  "date": "2026-03-25",
+  "timestamp": 1774419559835,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Israel-Iran war intensifies with missile strikes and peace talks stalled",
+      "summary": "An ongoing conflict sees Iran's Revolutionary Guards firing missiles at Israel and US military bases in Kuwait, Jordan, and Bahrain. Simultaneously, Israel conducted airstrikes in Lebanon, while the US President's peace plan to de-escalate the month-long warfare has been met with Iranian conditions.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards announced missile strikes targeting Israel and US military bases in the region."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards reported firing missiles at targets in Israel."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Drones hit a fuel tank at Kuwait International Airport, and Iran's Guards claimed missile strikes on US military bases there."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards reported missile strikes on US military bases in Jordan."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards claimed missile strikes on US military bases in Bahrain."
+        },
+        {
+          "name": "Sidon, Lebanon",
+          "lat": 33.5607,
+          "lng": 35.3725,
+          "severity": "red",
+          "detail": "Lebanese state media reported Israeli strikes killed at least six people in Sidon and a Palestinian refugee camp."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "Iraq has allowed its militias to act in self-defense amidst regional tensions."
+        },
+        {
+          "name": "Nicosia, Cyprus",
+          "lat": 35.1856,
+          "lng": 33.3823,
+          "severity": "yellow",
+          "detail": "Tensions have risen in Cyprus after a drone strike hit a British base."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety and tech privacy debated globally; US judge questions Pentagon's actions",
+      "summary": "A US judge indicated the Pentagon's blacklisting of AI firm Anthropic appeared to be punishment for its public AI safety views. Washington state signed two new AI safety bills into law, focusing on chatbot safeguards for minors and content disclosure. In India, the government is considering reducing social media content takedown windows to one hour, raising concerns about free expression.",
+      "regions": [
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "A U.S. judge believes the Pentagon's blacklisting of AI firm Anthropic looks like punishment for its AI safety views."
+        },
+        {
+          "name": "Olympia, USA",
+          "lat": 47.0379,
+          "lng": -122.9007,
+          "severity": "green",
+          "detail": "Washington Gov. Bob Ferguson signed two major AI safety bills into law, focusing on chatbot safeguards and content disclosure."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The Indian government is exploring a proposal to reduce the social media content takedown window to one hour, raising digital rights concerns."
+        },
+        {
+          "name": "Palo Alto, USA",
+          "lat": 37.4419,
+          "lng": -122.143,
+          "severity": "green",
+          "detail": "Chai AI announced the deployment of a 5,000+ GPU cluster to accelerate AI safety research and ensure regulatory compliance."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Eighteen industry groups urged the EU Commission to act on Google's search non-compliance before March 25, 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme heat and floods hit globally, disproportionately impacting poorer nations",
+      "summary": "Denver shattered March heat records, and extreme heat warnings were issued for Central California, while Hawaii experienced severe flash flooding from back-to-back subtropical cyclones. A new report indicates rising global temperatures will disproportionately increase mortality rates in poorer countries. Egyptian authorities also raised emergency readiness for severe weather and potential flash floods.",
+      "regions": [
+        {
+          "name": "Denver, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "red",
+          "detail": "Denver is experiencing a historic March heat wave, shattering daily high temperature records."
+        },
+        {
+          "name": "San Luis Obispo County, USA",
+          "lat": 35.2828,
+          "lng": -120.6596,
+          "severity": "red",
+          "detail": "Extreme heat warnings were issued for both coastal and inland areas of San Luis Obispo and Santa Barbara counties."
+        },
+        {
+          "name": "Oʻahu, Hawaii, USA",
+          "lat": 21.3069,
+          "lng": -157.8583,
+          "severity": "red",
+          "detail": "Back-to-back subtropical cyclones fueled destructive flash flooding on Oʻahu, damaging hundreds of homes."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "Egyptian authorities raised preparedness to maximum levels due to warnings of severe weather, heavy thunderstorms, and potential flash floods."
+        },
+        {
+          "name": "Rio Grande do Sul, Brazil",
+          "lat": -30.0346,
+          "lng": -51.2177,
+          "severity": "green",
+          "detail": "A new coastal protected area was established, safeguarding two endangered dolphin species and 23 endangered species of sharks and rays."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's 15th Five-Year Plan doubles down on clean energy and environmental protection, promising to promote the peaking of coal and oil consumption."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Multiple disease outbreaks and rural EMS crises pose global health threats",
+      "summary": "A Salmonella outbreak sickened 120 people in Latvia, primarily in Riga preschools. Measles alerts were issued for Brisbane International Airport, and an outbreak was reported in Michigan, with over 1,350 cases across 31 US states this year. An invasive meningococcal disease outbreak in Kent, England, has resulted in 23 confirmed or probable cases and two deaths. Rural EMS systems in New York are described as 'teetering on the brink of collapse'.",
+      "regions": [
+        {
+          "name": "Riga, Latvia",
+          "lat": 56.9496,
+          "lng": 24.1052,
+          "severity": "red",
+          "detail": "A Salmonella outbreak has sickened at least 120 people, with initial cases reported in two preschools."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "yellow",
+          "detail": "Queensland Health issued a measles alert for the Brisbane International Airport due to two confirmed cases."
+        },
+        {
+          "name": "Washtenaw County, USA",
+          "lat": 42.2808,
+          "lng": -83.743,
+          "severity": "red",
+          "detail": "A measles outbreak in Washtenaw County, Michigan, is part of over 1,350 cases across 31 US states in early 2026."
+        },
+        {
+          "name": "Kent, England, UK",
+          "lat": 51.272,
+          "lng": 0.5183,
+          "severity": "red",
+          "detail": "An unusual outbreak of invasive meningococcal disease in Kent has seen 23 cases and two deaths."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "red",
+          "detail": "A new report states that New York's rural EMS systems are 'teetering on the brink of collapse' due to workforce and funding issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global markets rally as oil drops amidst Iran war; supply disruptions feared",
+      "summary": "Indian stock markets, including Nifty50 and BSE Sensex, rallied significantly, driven by a drop in global oil prices below $100 and hopes for de-escalation in the US-Israel-Iran conflict. However, the ongoing war raises concerns about long-term disruptions to global supply chains, including crucial materials like fertilizer and helium.",
+      "regions": [
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Indian stock markets saw significant rallies, with Nifty50 above 23,250 and BSE Sensex rising over 1,100 points."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "The ongoing US-Israel-Iran war continues to cause global economic disruption, particularly impacting oil prices and supply chains for commodities like fertilizer and helium."
+        },
+        {
+          "name": "Global Markets",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global oil prices dropped below $95 per barrel amid claims of diplomatic dialogue between the US and Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democrat flips Florida seat; US elections gear up amidst voting controversies",
+      "summary": "Democrat Emily Gregory won a special election in Florida, flipping a state legislative district that includes Mar-a-Lago, a notable victory ahead of midterm elections. Meanwhile, President Trump cast a mail ballot in Florida despite publicly criticizing the voting method and pushing Congress to limit it. New Jersey is seeing crowded primary races for congressional seats.",
+      "regions": [
+        {
+          "name": "Palm Beach County, Florida, USA",
+          "lat": 26.7153,
+          "lng": -80.0565,
+          "severity": "green",
+          "detail": "Democrat Emily Gregory flipped a state legislative district in a special election, winning a seat that includes Mar-a-Lago."
+        },
+        {
+          "name": "Trenton, New Jersey, USA",
+          "lat": 40.2205,
+          "lng": -74.7661,
+          "severity": "green",
+          "detail": "New Jersey's congressional districts will hold Democratic and Republican primaries ahead of pivotal midterm elections."
+        },
+        {
+          "name": "Madison, Wisconsin, USA",
+          "lat": 43.0722,
+          "lng": -89.4012,
+          "severity": "yellow",
+          "detail": "Wisconsin's upcoming Supreme Court race is drawing significantly less campaign spending and voter awareness compared to recent high-profile judicial elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid reaches Cuba amid blockade; Gaza aid faces transparency hurdles",
+      "summary": "A humanitarian aid boat arrived in Cuba, delivering food, medicine, solar panels, and bicycles, an effort by global activists to circumvent US sanctions. In Gaza, the Israeli Supreme Court is signaling a rejection of a petition from aid groups regarding transparency requirements, raising concerns about the delivery of critical aid. The American Red Cross also launched its Giving Day to support disaster relief efforts across the US after thousands were aided earlier in the year.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "green",
+          "detail": "A humanitarian aid boat, part of the Nuestra America Convoy, arrived in Havana, delivering 14 tons of supplies amidst US blockade."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "Israel's Supreme Court is signaling rejection of a petition by Gaza aid groups over transparency requirements, potentially hindering aid efforts."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The American Red Cross launched its Giving Day to raise funds for ongoing disaster relief efforts across the country, having aided thousands in early 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCFcayZSwRrJquK8lJWHjflOJOMM_CSL7imgJatsSL7OW9b_lKNEOl_YylizgBGBcKBydf_u_uFuOIKWDiYlLiCiAw9Epp8kra3R9hKHp3JvH53E0dxSwH23pE70pgPp5nhda39HWtwIMaP5k0Pnp0LR7YePm1-RH0Hca0N--LFg0tUOZG-XBlyfZSqV3BRaDwz63h6TxRplMto-ppcAvCWsp1--sJL2Dwth-QXc8zGrrxIKJio_T9CtB_uibRH38nV_ApstHL9bchtq48YUIl3DMhrqCLuzcMeTpD_zxVwubMHD-6duBqWHyjtG4DuOWaUPJomEwh99YgBPgpDdCXDDie5bysTK-pewS7FNzpd_INTSuBFYkBml-HxVseg-GXglxAtAA9ZnITWwAUa3lxvu0mSVds0ToISepaGJ90F4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5us6KZDoET1hFBxx42bwfiTvCJ_1ux4DJdM9GyOcFzRQqJRrAc5ZYw-dQUTUSnGxTxdG1D4k-aj4Ie2e2CFSJ4rnrlrGK-ebqIcz7vEOglRV2vc-vLDoAXX_7zL60E2Jew6rfB7OWsGCszOevK6v49VXmEA-FX85uWJeKzTwmeIZcpQcF5dYHs1w3KoFQ66KcSzlkE0gooze5LQ5r3thjIWbbh4NpmQL6ZYBiuHe7LGRgr5XcJmaZ"
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBtk-Uw24XPC5UWnzY_a4HRR-m0kOZDXnvhYrDchkHS8dwlT074iw0495jOfxSK7wif72ZMBmBuE-2Rc7x5-s3XcqoaLHfnGc_u1xBt2WLnlpq9tX3oSJzKsz_oJ3bbIVSaeCR1FZh7QUJ3gm0NP2E2N8PX7JDJuyBTQv1-geasrH0U5OgqQsLz-ekdSwVTAgHbsgMp1OT3TIxFZ9l1vv7UYvlcQ6YvOIP8RzMF5SkEXnuiq-wfah5LdIoedu6uw_PY_Dg_pkaVsKC_HVQqOLT9_ccyD3LP3ztUnu2_q_T--7RtFawI36QDflB"
+        },
+        {
+          "title": "designnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCqocT-u5fACmA0ATxd2H50k1b1Z3VmDydwDONIah-OUFzQGYwMf0PhkJOMATyZ3VQ1UyhDon0Tzv6Z55SItqegoJl4oC7DynR2lHJgm4WhyF2wu_-Q0QYkZGMhG4Mr4_nK8XUukUd84zt6OIc1cRz9TKE766MJcYbpBq3LxVlpxemvZpScfB4uLBCeOa5OzpZ1VncHr64pLFgGuzZc_QkKM="
+        },
+        {
+          "title": "transparencycoalition.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4400wz4TYsnpMopPBEp8x-g1sdMg5sgcb-hrJ7xMrwbEEo5u7arqUQSmxbIYXD47rU6ObyvxKRAzqpN5HkjPovjUjsr97IWdNwEAQWO9SQbXiOuZ9GI2D1AtGmddBW7U2wXACeiVTxD9GSpqfKHVhfHznwyO9ldkUfjCbHU_k1R2_KDw-9t-dh4vEaSK4mFAT0aS9KdYXYVhkveG6hQS-eMI16kx1e9yx3eJSThv2Q=="
+        }
+      ]
+    }
+  }
+}
