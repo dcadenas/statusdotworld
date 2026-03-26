@@ -1,0 +1,538 @@
+{
+  "date": "2026-03-26",
+  "timestamp": 1774506120261,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates; Iran rejects peace talks amid US threats.",
+      "summary": "The Middle East is experiencing severe conflict with Israel carrying out 'wide-scale' strikes in Iran, including Isfahan, and Iran launching attacks on Israel and Gulf Arab countries, notably a strike at Kuwait International Airport. Iran has denied engaging in peace talks with the US, despite US claims of productive discussions, while the US threatens further escalation if a deal is not reached. The Strait of Hormuz remains a critical flashpoint, with Iran stating it is closed to 'enemy' ships, impacting global oil prices.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israel reportedly carried out strikes in Tehran, contributing to the ongoing conflict."
+        },
+        {
+          "name": "Isfahan, Iran",
+          "lat": 32.6546,
+          "lng": 51.667,
+          "severity": "red",
+          "detail": "Israel conducted 'wide-scale' strikes targeting infrastructure in this central Iranian city."
+        },
+        {
+          "name": "Kuwait International Airport, Kuwait",
+          "lat": 29.2272,
+          "lng": 47.9692,
+          "severity": "red",
+          "detail": "Iran launched an attack sparking a huge fire at the international airport."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is actively involved in the Middle East conflict, conducting strikes against Iran and other regional actors."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US is a major party in the conflict, issuing threats and engaging in purported talks with Iran."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The broader Middle East tensions have links to the ongoing situation in Gaza, with China calling for a lasting ceasefire."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel escalated attacks in Lebanon as part of the wider regional conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The ongoing Russian invasion continues, necessitating humanitarian aid from Sweden to protect critical infrastructure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Middle East conflict sees egregious human rights violations by all parties.",
+      "summary": "Human Rights Watch reports that all parties in the Middle East conflict, including the US, Israel, and Iran, have shown disregard for international humanitarian law and engaged in rhetoric threatening war crimes. The UN Human Rights Council adopted a resolution condemning Iran's attacks on various Gulf Cooperation Council countries and Jordan, highlighting the serious human rights implications. Additionally, China's envoy to the UN Human Rights Council noted the severe humanitarian crisis and gross human rights violations against the Palestinian people in Gaza.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council adopted a resolution condemning Iranian attacks and highlighting their human rights implications."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Human Rights Watch, based here, released a critical report on human rights violations in the Middle East conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Accused of attacks with human rights implications and disregard for international law."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Accused of violations of international humanitarian law in the ongoing conflict."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Experiencing a deteriorating humanitarian crisis and gross human rights violations."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "yellow",
+          "detail": "One of the GCC countries targeted by Iranian attacks, leading to human rights concerns."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "One of the countries mentioned in the UNHRC resolution as being affected by Iranian attacks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record warmth in US East; India faces extreme heat warnings.",
+      "summary": "Record-breaking warmth is sweeping across the central and eastern United States on March 26, with temperatures significantly higher than normal for late March, leading to early summer-like conditions. Simultaneously, India is experiencing soaring temperatures, an early warning of extreme heat for the coming months, with a study indicating Indian cities are warming faster than rural areas. A new report identifies 11 city-led proven climate solutions globally, offering a 'greenprint' for scaling climate action in urban centers.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Experiencing record-breaking warmth, unusual for late March."
+        },
+        {
+          "name": "Dallas, United States",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "yellow",
+          "detail": "Experiencing record-breaking warmth, unusual for late March."
+        },
+        {
+          "name": "Patiala, India",
+          "lat": 30.34,
+          "lng": 76.386,
+          "severity": "yellow",
+          "detail": "Projected to experience urban warming at nearly double regional projections, contributing to extreme heat."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "green",
+          "detail": "Highlighted for its ambitious initiatives in clean air and sustainable mobility as a city-led climate solution."
+        },
+        {
+          "name": "Dili, Timor-Leste",
+          "lat": -8.5583,
+          "lng": 125.5603,
+          "severity": "green",
+          "detail": "A global climate investment firm received funding to develop a community agroforestry program to generate carbon credits here."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "green",
+          "detail": "Ireland's Court of Appeal upheld the government's approach to climate planning."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US policies spark global public health emergency warning.",
+      "summary": "Experts are warning that US policies, including withdrawing from the WHO and reducing funding for global disease combat, pose a grave threat and could spark a global public health emergency, risking international infectious disease outbreaks and millions of deaths. Domestically, public health agencies in the US continue to face challenges from federal funding uncertainty, which can disrupt essential services and long-term prevention strategies. Meanwhile, the American Public Health Association is highlighting action-oriented strategies for communities to achieve good health during National Public Health Week 2026.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US policies are cited as a major factor potentially sparking a global public health emergency due to reduced funding and withdrawal from international bodies."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Health Organization (WHO) is implicated as the body from which the US has withdrawn, affecting global health efforts."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "The UN has proposed an emergency plan to address a potential humanitarian 'collapse' due to fuel shortages impacting critical services."
+        },
+        {
+          "name": "Edinburgh, Scotland, UK",
+          "lat": 55.9533,
+          "lng": -3.1883,
+          "severity": "green",
+          "detail": "Public Health Scotland found that Minimum Unit Pricing for alcohol reduced alcohol-related deaths."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict drives oil prices up, global tariff hike considered.",
+      "summary": "Oil prices have surged to nearly $120 a barrel, a 30-50% increase, due to the Middle East conflict and Iran's effective closure of the Strait of Hormuz to 'enemy' ships, threatening global supply chains and energy flows. Compounding economic uncertainty, a White House official indicated that a plan to raise a new US global tariff from 10 percent to 15 percent is 'in process', despite concerns about its impact on inflation. China and the UK are seeking closer economic ties amid this global uncertainty, with China committing to high-quality development and opening-up.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Restricted passage due to the Middle East conflict is significantly impacting global oil prices and trade."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Actions related to the conflict and the Strait of Hormuz are directly impacting global oil markets."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is considering an increase in global tariffs and is involved in the Middle East conflict."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Hosting the China-UK Investor Forum to discuss closer economic ties amidst global uncertainty."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China is seeking closer economic ties with the UK and Europe and is committed to high-quality development."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Rising prices are causing a crisis for farmers, leading to calls for the EU to suspend tariffs on Russian fertilizers."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Escalating tensions in the Middle East are increasing humanitarian and economic risks for the region."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japan, sourcing over 90% of its crude oil from the Middle East, expressed dissatisfaction over the war's unconsulted impact."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global democracy in decline; US democracy diminished amid autocratic rise.",
+      "summary": "A Bertelsmann Stiftung's Transformation Index (BTI) 2026 report indicates that 56% of surveyed countries are now ruled autocratically, an increase from 20 years ago, with 52 being hard-line autocracies. Separately, reports conclude that US democracy is eroding under President Trump, with a significant drop in expert ratings and concerns about the persistence of diminished democracy. In Indonesia, statements by President Prabowo Subianto, suggesting critics are unpatriotic, raise questions about how dissent is perceived and its legitimacy in democratic life.",
+      "regions": [
+        {
+          "name": "Gütersloh, Germany",
+          "lat": 51.9056,
+          "lng": 8.3776,
+          "severity": "yellow",
+          "detail": "The Bertelsmann Stiftung, which published the Transformation Index 2026 highlighting global democratic decline, is based here."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reports indicate a 'persistence of diminished democracy' in the US under President Trump's administration."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "President Prabowo Subianto's statements on critics raise concerns about the state of democratic discourse and dissent."
+        },
+        {
+          "name": "Warsaw, Poland",
+          "lat": 52.2297,
+          "lng": 21.0122,
+          "severity": "green",
+          "detail": "Cited as an example where social resistance and political competition can pave the way back to democracy."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "Also cited as an example where social resistance and political competition can pave the way back to democracy."
+        },
+        {
+          "name": "Hartford, Connecticut, United States",
+          "lat": 41.7637,
+          "lng": -72.6851,
+          "severity": "yellow",
+          "detail": "Concerns were raised that no-fault evictions are threatening communities and democracy by hindering civic associations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid cuts deepen Middle East crisis; Ukraine and Cuba face severe needs.",
+      "summary": "Humanitarian organizations are struggling with severe funding cuts, particularly from the US, exacerbating the growing humanitarian crisis in the Middle East, with agencies like the UNHCR reporting dramatic underfunding in Lebanon, Syria, Iran, and Afghanistan. Sweden announced a $26 million humanitarian aid package for Ukraine to address urgent needs, including support for the Ukrainian Red Cross and children's welfare, as the country continues to face the impact of Russia's ongoing invasion. Additionally, the UN has proposed an emergency plan for crisis-hit Cuba, warning of a potential humanitarian 'collapse' due to critical fuel shortages impacting essential services. The UAE has also dispatched its 328th aid convoy to Gaza, carrying 270 tonnes of children's clothing to support Palestinian families.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Receiving aid from the UAE, but the humanitarian crisis remains severe due to the Middle East conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Continues to receive humanitarian aid from Sweden due to the ongoing invasion and severe needs."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "Faces a potential humanitarian 'collapse' due to fuel shortages, prompting a UN emergency plan."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "UNHCR operations are 'dramatically underfunded' due to aid cuts, exacerbating the humanitarian crisis."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5132,
+          "lng": 36.2913,
+          "severity": "red",
+          "detail": "UNHCR operations are 'dramatically underfunded' due to aid cuts, impacting the vulnerable population."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "UNHCR operations are 'dramatically underfunded' due to aid cuts, impacting the vulnerable population."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "UNHCR operations are 'dramatically underfunded' due to aid cuts, impacting the vulnerable population."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "green",
+          "detail": "Announced a significant $26 million humanitarian aid package for Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE1MctlCNtbLLeH_5ONxa7K07csAAfawHiHtkiKXnJq2HeKEiWMWI8IYKA2iSi981aYHk714rQCmFv6wmtuHEXrwpjK-KnfJHallhK8nlGaeq9oQQjc2Q76I649IspaldspG5H3GdIYBQO4dji9qRC8nIVZ-nx2aYiHKesUW_hGg2B2kCKrlyY1Dzv1NnWkGgvaE0zc8988NnTn_58xNt_kXf8Z-xz9f0YLoIWb3GKJZMV2I_GE5OM1kWCrD3624VEcTj-DBOG9Y9IXghdVtw_Wp2"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa2cYyBleOF96lhYMkrMrDkd4PAFa3jXhJyMF4u9buYCfu0fQ9kjchyaWgfMk3yJL_eCOLhz86GpxTJ_Dca17ZXIXxTWwO8e2ds_8veqZ4Nj3E1mvcYIrJ34Dn0uLjpyA1Z-gxjqa3om5C9yPt9o_K8eYvTTKFv4Ro6byiuC8gZ-6l53c89mKN-43arFlJB7JKEX1WcCL48vYQjyglj6qs5qnQ3fEV_6rKWzzIWys1MASpxeWiMdEw"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERv_cVKJwYvGEAYMi9tx21QvijDJdjunOggBn02hc8RPo5t6OI820aiRXBhUD2c89Wh3JnXHaVzgOSj8Q--q82ZGmu4iSyrWLwh-6CxPYjHn17_SihhrY6aTsFCD1ESVK06VXNgB-K"
+        },
+        {
+          "title": "altoonamirror.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMqqCUtU78kTUHgsEKACQuiafZpD-UOMxvCYoSHOfzsNFGGYsY_01MuOuw126uVVpWRJB-82lzIRUWIZ-3oW8nMQCBLsRjxvLDlOPJjF_Kn8n7aAnz49MC-3Y5tyIE_tH0IaE8rXhbl6G04_aLQ6-N6YWgYS1abFAWytAkjI_jz4W7j5BiYHosDjn_6SpE4nF_"
+        },
+        {
+          "title": "ramaponews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWKoWPQnK9InJwCm4mO3e7t_tbJu7o7U57eCqTWG51oHzpz2_ACKDfHQGHEsT2tiMXygyDsfzra0L_MF66-6w40tUUAe3D7H-TIlTeh4-7IZnwNKuJhiNViQM4u9aC68BsIKwb77nizx-YGqjprDt56J3uRAnND-6Tv4bQlwdlItJ-hUfx0frZSbGeOtkXGhwx18e5TXzRY1Mq8lolA=="
+        }
+      ]
+    }
+  }
+}
