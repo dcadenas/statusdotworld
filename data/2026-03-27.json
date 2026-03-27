@@ -1,0 +1,496 @@
+{
+  "date": "2026-03-27",
+  "timestamp": 1774592557713,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East Tensions Persist as US-Iran Deadline Extended; New Airstrike Concerns",
+      "summary": "The ongoing conflict in the Middle East remains a concern, with oil prices easing slightly as President Trump extended a deadline for a US-Iran deal amidst a continued military build-up. Additionally, an urgent UN Human Rights Council debate is scheduled for an aerial attack on a school in Minab, Iran, and a Pakistani airstrike on a drug rehabilitation center in Kabul is being investigated as a possible war crime.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "President Trump extended a deadline for a US-Iran deal amidst ongoing conflict and US military build-up in the region."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's administration is involved in a deadline extension for a US-Iran deal amid continued Middle East conflict."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Human Rights Watch reported a Pakistani airstrike on a drug treatment center on March 16, 2026, was an unlawful attack and possible war crime, killing at least 143 people."
+        },
+        {
+          "name": "Minab, Iran",
+          "lat": 27.15,
+          "lng": 57.0833,
+          "severity": "red",
+          "detail": "The UN Human Rights Council is holding an urgent debate on March 27, 2026, concerning an aerial attack on a girls' school in Minab on February 28, 2026."
+        },
+        {
+          "name": "East Jerusalem, Palestine",
+          "lat": 31.7769,
+          "lng": 35.2359,
+          "severity": "red",
+          "detail": "The UN human rights office reported Israeli forces forcibly evicted at least 16 Palestinian families between March 22-25, 2026, raising concerns of ethnic cleansing."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Israel's war on Lebanon continues to escalate, intensifying targets on critical infrastructure and digital aggressions."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7294,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "Pakistani authorities are urged to investigate an airstrike on a drug treatment center in Kabul, Afghanistan, as a possible war crime."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety and Digital Rights Face Legal Challenges and Ethical Concerns",
+      "summary": "AI safety is a prominent concern, with a US federal court temporarily blocking government restrictions on Anthropic over its refusal to allow military use of its AI for surveillance and autonomous weapons. Separately, a new study revealed AI chatbots often exhibit sycophantic behavior, potentially misleading users, while discussions about the extension of the FISA surveillance law continue in the US.",
+      "regions": [
+        {
+          "name": "San Francisco, United States",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "A US federal court temporarily blocked government restrictions against AI company Anthropic after it refused military use of its AI for surveillance."
+        },
+        {
+          "name": "Stanford, United States",
+          "lat": 37.4275,
+          "lng": -122.1697,
+          "severity": "yellow",
+          "detail": "A study led by Stanford University researchers found AI chatbots often display sycophantic behavior, potentially misleading users on various topics."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US House of Representatives is debating the extension of the FISA law, which governs government surveillance on foreign interests."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council is holding an urgent debate today concerning an aerial attack on a school in Minab, Iran."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Human Rights Watch reported a Pakistani airstrike on a drug treatment center on March 16, 2026, was an unlawful attack and possible war crime."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepali migrants abroad face legal risks due to lack of digital awareness regarding social media posts in conflict zones."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Authorities issued a warning about a fraudulent website posing as a registration tool for displaced people, risking data theft."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Arctic Sea Ice Hits Record Low, Raising Global Climate Concerns",
+      "summary": "Arctic sea ice has reached its lowest recorded level this winter, statistically tying last year's record and indicating an earlier start to the melt season with broad climate and geopolitical implications. Meanwhile, a global experiment highlighted the extinction of some plant populations in extreme warm climates due to climate shift, underscoring challenges to biodiversity.",
+      "regions": [
+        {
+          "name": "Arctic Region",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Arctic sea ice reached its lowest level ever recorded, tying last year's record, giving a 'head start to the spring and summer melt season.'"
+        },
+        {
+          "name": "Boulder, United States",
+          "lat": 40.015,
+          "lng": -105.2705,
+          "severity": "green",
+          "detail": "The National Snow and Ice Data Center (NSIDC) in Boulder, Colorado, reported the record low Arctic sea ice levels."
+        },
+        {
+          "name": "Berkeley, United States",
+          "lat": 37.8715,
+          "lng": -122.273,
+          "severity": "green",
+          "detail": "Researchers coordinated by UC Berkeley released findings from a global experiment on plant evolution amidst climate shift, noting extinctions in extreme warm climates."
+        },
+        {
+          "name": "Annapolis, United States",
+          "lat": 38.9784,
+          "lng": -76.4922,
+          "severity": "green",
+          "detail": "Maryland's top court dismissed climate change lawsuits filed by Annapolis against fossil fuel companies, citing federal authority over emissions regulation."
+        },
+        {
+          "name": "Baltimore, United States",
+          "lat": 39.2904,
+          "lng": -76.6122,
+          "severity": "green",
+          "detail": "Maryland's top court dismissed climate change lawsuits filed by Baltimore against fossil fuel companies."
+        },
+        {
+          "name": "Hartford, United States",
+          "lat": 41.7637,
+          "lng": -72.6851,
+          "severity": "yellow",
+          "detail": "Connecticut is debating its Climate Superfund Act, addressing who should pay for climate disasters amidst global oil shocks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles Outbreak Continues in Florida; Vaccine Debate Heats Up",
+      "summary": "Florida is grappling with a notable measles outbreak, reporting 143 cases as of March 21, with the majority concentrated in Collier County. Simultaneously, a group aligned with US Health Secretary Robert F. Kennedy Jr. is petitioning to significantly expand the federal vaccine injury list, sparking controversy among medical and legal experts.",
+      "regions": [
+        {
+          "name": "Tallahassee, United States",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "The Florida Department of Health reported 143 measles cases in the state, with the spread slowing."
+        },
+        {
+          "name": "Collier County, United States",
+          "lat": 26.1738,
+          "lng": -81.4554,
+          "severity": "red",
+          "detail": "73% of Florida's measles cases originated in Collier County, stemming from an outbreak at Ave Maria University."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A group allied with US Health Secretary Robert F. Kennedy Jr. is petitioning to vastly broaden the federal vaccine injury table."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia is developing its National Strategic Plan for Tuberculosis 2026–2030 to address high rates of the disease."
+        },
+        {
+          "name": "Lansing, United States",
+          "lat": 42.7325,
+          "lng": -84.5555,
+          "severity": "green",
+          "detail": "Michigan announced a new 2026-2030 strategic plan to improve care and services for individuals with sickle cell disease."
+        },
+        {
+          "name": "Phoenix, United States",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "yellow",
+          "detail": "A study found that maternal exposure to pesticides in Arizona is linked to neonatal health risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East Conflict Slows Global Growth, Drives Up Inflation",
+      "summary": "The ongoing Middle East conflict has significantly dampened the global economic outlook, with the OECD projecting global GDP growth to slow to 2.9% in 2026 due to energy price surges and geopolitical instability. Oil prices saw a brief decline as President Trump extended a deadline for a US-Iran deal, but the war continues to restrict vital energy flows through the Strait of Hormuz, contributing to higher G20 inflation forecasts.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The OECD warned that the Middle East conflict has erased stronger global growth prospects and is projected to slow global GDP growth to 2.9% in 2026."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The Middle East conflict has severely restricted energy flows through this vital waterway, impacting the global economy."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Oil prices fell as President Trump extended a deadline for a US-Iran deal, providing temporary relief to markets affected by the conflict."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy is projected to see moderating GDP growth amidst global economic pressures from the Middle East conflict."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's GDP growth is expected to cool in 2026 as global economic challenges persist."
+        },
+        {
+          "name": "Hartford, United States",
+          "lat": 41.7637,
+          "lng": -72.6851,
+          "severity": "yellow",
+          "detail": "Debates over Connecticut's Climate Superfund Act are ongoing, with concerns about global oil shocks and their impact on local energy costs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns Rise Over US Democracy Amidst Unilateral Actions and Eroding Norms",
+      "summary": "Concerns about the state of democracy in the United States are heightened, with an opinion piece suggesting the government is operating autocratically and defying constitutional law. A former US Attorney emphasized that democratic institutions rely on public officials and citizens upholding established norms, especially as political pressures intensify. Economic anxieties are also influencing midterm elections in states like Montana.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "An opinion piece warned that the US government is functioning as an autocracy, making unilateral decisions and defying constitutional law."
+        },
+        {
+          "name": "Boston, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "Former US Attorney Joyce Vance spoke at Boston College, highlighting the importance of upholding democratic norms to sustain institutions."
+        },
+        {
+          "name": "Butte, United States",
+          "lat": 46.0076,
+          "lng": -112.5348,
+          "severity": "yellow",
+          "detail": "Economic anxiety, particularly from Trump's tariffs and the Iran War, is influencing midterm elections and contributing to populist resentment in Montana."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid Efforts for Cuba Face Challenges; Missing Boats Prompt Search",
+      "summary": "A search-and-rescue operation is underway in the Caribbean for two sailboats carrying humanitarian aid to energy-strapped Cuba, missing since March 20. Meanwhile, a shipment of aid for Hurricane Melissa victims arrived in Santiago de Cuba, with distribution through the Catholic Church marking an unprecedented approach without state mediation.",
+      "regions": [
+        {
+          "name": "Isla Mujeres, Mexico",
+          "lat": 21.2333,
+          "lng": -86.7333,
+          "severity": "yellow",
+          "detail": "Two sailboats carrying humanitarian aid to Cuba departed from here on March 20 and are now missing."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "Two humanitarian aid boats bound for Havana are missing, adding to the challenges faced by energy-strapped Cuba."
+        },
+        {
+          "name": "Santiago de Cuba, Cuba",
+          "lat": 20.0212,
+          "lng": -75.8267,
+          "severity": "yellow",
+          "detail": "A new shipment of humanitarian aid, channeled by Catholic Relief Services and Caritas Cuba, arrived for families affected by Hurricane Melissa."
+        },
+        {
+          "name": "Georgetown, Guyana",
+          "lat": 6.804,
+          "lng": -58.1555,
+          "severity": "green",
+          "detail": "The CARICOM Secretariat, headquartered here, coordinates humanitarian aid efforts for Cuba, though Trinidad and Tobago opted for independent action."
+        },
+        {
+          "name": "Port of Spain, Trinidad and Tobago",
+          "lat": 10.6667,
+          "lng": -61.5167,
+          "severity": "green",
+          "detail": "Trinidad and Tobago chose to act independently in providing aid to Cuba, rather than joining the CARICOM collective effort."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "The Lebanese Internal Security Forces warned about a fraudulent website posing as an aid registration tool, risking data theft for displaced people."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Muial3lNyZawPfDJhinpkK2vD2aiSoPMTI75E9oq6WTcxruCq4PZuiwxq5GOOY3WGTu5Q66doT2CJDJMnEVQZtSZuDAS1a4RBgzu-T6G05jjgbB8IyYfCr8kWmR6EfvjUsvZsWijlyDsXzGIBN8csYo7TyjrR2mtg5ByhlqsvbaM2Fy5jH7u17BGfgJ8BXk0HUZfN9XljJW-TCzfP67VUA9yRoOusF75WUQhFam1-eE6oXMH"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRjVGYCKXFoFu7VEeSdMdMbxSZxHrhTDJ_esa6EXCpxDXeEiJKX-v61HZ9u4njMdGnNBcKsvyM7Rse_VFivcRO_OImrJR5rCFTrtObteEoveSw4zNHG61pKmD8jaUYGtEuMBm0zG-HGX1CBwQafdu6VwO72U-kVmlMJL8Jujbd2MbXqlJzyQqGmwTh1vpq9qpDDF8jg=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErnN2KCG8znz3xAVfnjd189sTLvnAFsPwHdpKoX0Tc1Tpfk2LY5XMKcH_ji6eIp8-sKINLFjjQ-Q4dbO0f87rE_NL_Ngvjg5ar9Yw4E3ITvqsmqCnSiJn_GTnrSY7PiYffFGOfc4YN48vflzi2zOwLz-WadaA02-arieojJkYy0GJEMzJwMqRZj8W8qcAyU3iSvpWMxBmFAGpSE27AJAdQyoLzl8qN1X-03migh5DfSsK9Ibo="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpfWhlpa3rG0QjCaWvnV1d4X0ARak86cZ99DDDPm9bP-0NU7r68wvi8LOU92r5zB4SBRG1OC8QCEh_jkhtxqe56vEnadz59RLQZrb58tL-oAS0Q_gcn4eqEn8hAXY6JAgiKd5SnuqXuRDVgzR6lpn70X-c0JusICecCi9Jqt1i9AC5UqRxMPePsR79ArT8NlB-UD25me5sEFQr0FiZYGxtvyYgeK2aKml80unzH4yebfGa3ZOCf7QOMm6FgCYHUw=="
+        },
+        {
+          "title": "smex.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NSMCGX4YXQMb6D0gBsS3UWUaL3VDDhPxqCJ9efgQnPu_xuY4WoMMGsnm02Fjb3RdYigZ1dmZlq0Oog9Hl8r3JnsMJ1uBci9qxKlcvGGbPoQTQdfl78-HCWjNQs4Wz1G6CPheynZYt_udViKGfFBT94A69hA6DqebK61TKQ=="
+        }
+      ]
+    }
+  }
+}
