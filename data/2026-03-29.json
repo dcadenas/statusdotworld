@@ -1,0 +1,461 @@
+{
+  "date": "2026-03-29",
+  "timestamp": 1774765261277,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran War escalates; Houthis attack Israel, US deploys troops.",
+      "summary": "The conflict in the Middle East has significantly escalated, with Yemen's Iran-aligned Houthis launching missile attacks on Israel and the US deploying additional forces to the region. Israeli strikes have targeted multiple cities in Iran and Lebanon, while Iran has retaliated with attacks on US bases in Saudi Arabia and industrial sites in the UAE and Bahrain, marking a dangerous expansion of hostilities.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israeli airstrikes pounded Tehran, targeting nuclear-related facilities, missile production centers, and air defense systems."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel confirmed a missile attack from Yemen's Houthis."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen's Houthis launched missile attacks against Israel."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is involved in attacks on Iran and deploying troops to the region."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Iran attacked a US air base in Saudi Arabia, wounding personnel."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "red",
+          "detail": "Iran struck a major aluminum production facility in Abu Dhabi, wounding foreign workers."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards claimed missile and drone strikes on aluminium plants in Bahrain."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel resumed its war against Iran-backed Hezbollah in Lebanon, killing journalists and a soldier."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI governance and digital harassment concerns rise globally.",
+      "summary": "AI agents becoming embedded in governance infrastructure raise concerns about control and safety, with experts warning about centralized power. There is an alarming surge in AI-fueled digital harassment, impacting individuals and communities. Additionally, the UN Human Rights Council adopted a resolution focusing on accountability and justice in the Occupied Palestinian Territory.",
+      "regions": [
+        {
+          "name": "San Diego, USA",
+          "lat": 32.7157,
+          "lng": -117.1611,
+          "severity": "yellow",
+          "detail": "News highlights AI agents becoming governance infrastructure, raising concerns over control and safety."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council adopted a resolution on accountability in the Occupied Palestinian Territories."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A US judge temporarily blocked the Trump administration's blacklisting of AI firm Anthropic, which refused to allow its AI for military surveillance or autonomous weapons."
+        },
+        {
+          "name": "Olympia, Washington, USA",
+          "lat": 47.0379,
+          "lng": -122.9007,
+          "severity": "green",
+          "detail": "Washington state enacted two AI safety bills, one requiring chatbot safety for minors and the other mandating disclosure of AI-generated content to combat misinformation."
+        },
+        {
+          "name": "Occupied Palestinian Territories",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "yellow",
+          "detail": "The Human Rights Council passed a resolution on accountability and justice."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record heat in San Diego; UN confirms hottest decade.",
+      "summary": "San Diego County is experiencing a 14th consecutive day of record-breaking temperatures, indicative of climate change impacts. A new UN World Meteorological Organization report confirms the past 11 years (2015–2025) as the hottest on record, with oceans also warming at an unprecedented rate.",
+      "regions": [
+        {
+          "name": "San Diego, USA",
+          "lat": 32.7157,
+          "lng": -117.1611,
+          "severity": "red",
+          "detail": "San Diego County has seen 14 consecutive days of temperature records, straining the power grid and increasing wildfire risk."
+        },
+        {
+          "name": "Amazonas, Brazil",
+          "lat": -3.4653,
+          "lng": -62.2159,
+          "severity": "yellow",
+          "detail": "Climate change threatens dung beetle populations, which are vital for the ecosystem, with many lowland insect species potentially reaching their heat threshold."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN's World Meteorological Organization (WMO) published a report confirming the past 11 years as the hottest on record."
+        },
+        {
+          "name": "Wyoming, USA",
+          "lat": 43.0759,
+          "lng": -107.2903,
+          "severity": "yellow",
+          "detail": "Red Flag Warnings are in effect across southeast Wyoming due to critical fire weather conditions."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.2041,
+          "lng": 56.5292,
+          "severity": "yellow",
+          "detail": "The ongoing Iran war has disrupted oil supplies and accelerated the shift to renewable energy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Public health remains stable globally; no new major outbreaks.",
+      "summary": "Today, March 29, 2026, the global public health situation appears relatively stable with no reports of new widespread disease outbreaks or major health emergencies. Ongoing public health efforts continue to focus on routine health services and managing existing regional health challenges.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization continues its work in monitoring global health trends and coordinating responses."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "green",
+          "detail": "Public health initiatives in Sub-Saharan Africa address endemic diseases and health system strengthening."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran War fuels global economic crisis, recession fears mount.",
+      "summary": "The ongoing war involving Iran, the US, and Israel has caused unprecedented disruptions to global oil supply, with prices surging and threatening stagflation. Experts predict a significant drop in world GDP growth, recessions in the US and most advanced economies, and severe impacts on developing nations through fuel rationing and fertilizer shortages.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US economy faces challenges, with increasing recession probability and rising inflation due to the Iran war."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The war originating here is the primary driver of the global economic crisis through energy supply disruptions and infrastructure damage."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.2041,
+          "lng": 56.5292,
+          "severity": "red",
+          "detail": "The effective closure of this strait has caused the largest oil supply disruption in history, impacting global markets."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "red",
+          "detail": "Analysts in Tokyo are predicting a significant drop in world GDP and recessions if the Middle East war persists."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India's economy shows signs of moderation due to the West Asia crisis and rising crude prices."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's dominance in copper refining raises concerns for the global economy, particularly for renewable energy and electric vehicles."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "\"No Kings\" protests grow; democratic backsliding concerns persist.",
+      "summary": "Widespread \"No Kings\" rallies are taking place across the United States and in Europe, with protesters decrying President Trump's actions, including immigration policies and the ongoing war in Iran. Concurrently, reports highlight democratic backsliding in the US, with a significant drop in voter confidence, and concerns about erosion of democratic practices in Guyana.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Thousands participated in \"No Kings\" rallies protesting the Trump administration's policies, including the war in Iran and immigration."
+        },
+        {
+          "name": "St. Paul, Minnesota, USA",
+          "lat": 44.9537,
+          "lng": -93.09,
+          "severity": "yellow",
+          "detail": "Tens of thousands protested Trump administration policies at the Minnesota State Capitol."
+        },
+        {
+          "name": "Georgetown, Guyana",
+          "lat": 6.8013,
+          "lng": -58.1552,
+          "severity": "yellow",
+          "detail": "Concerns are raised about democratic regression due to a lack of government transparency and accountability despite an economic boom."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "Protests against the war in Iran and calls to \"Stop the far right\" were held."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Several hundred people, including Americans living in France, protested at the Bastille against Trump's \"endless wars.\""
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid reaches Cuba; efforts continue for Gaza amid blockade.",
+      "summary": "Two sailboats carrying humanitarian aid from Mexico successfully reached Havana, Cuba, after a temporary disappearance, bringing much-needed supplies amidst a US oil blockade. Meanwhile, Egypt has guaranteed the facilitation of Malaysian humanitarian aid to the Palestinian population in Gaza via the Rafah border crossing, highlighting ongoing severe humanitarian needs in the region due to blockades and conflict.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "Two sailboats carrying humanitarian aid arrived in Havana, bringing supplies amidst a US oil blockade."
+        },
+        {
+          "name": "Rafah, Egypt",
+          "lat": 31.2683,
+          "lng": 34.2546,
+          "severity": "yellow",
+          "detail": "Egypt provided assurances to facilitate Malaysian humanitarian aid to Gaza through the Rafah border crossing."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The region faces ongoing severe humanitarian needs due to a blockade, with aid efforts continuing."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "green",
+          "detail": "Humanitarian convoy from Mexico successfully delivered aid to Cuba despite a temporary delay."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "Malaysia's Prime Minister announced Egypt's commitment to facilitating aid to Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ro5UWyQf5wkJ4YviuH5GfH3fzLyeUDgh6UrsXaK1enWSiVEk3rBdM1g2NvXE5ji1f-llzbOQf_YPbNIv3rLxPNdfFy6TeQLqZnpJ1sHy3MxACzfXotRGuI675AsW38VMQZgUsyGkvxQ5osYyxw2rkKYNi8dRpWkom2P9OhqDwp4gcI6EAvyJCUq976dS92-pcswsExgeSHeGB4-MXWD3WFKUF8VZOs00SjslSvZNYhQ3xU3ciMpEkOhVCX7urfL7NBcGDmoVHCRu4mLSwVEXDW6IfpFkPs="
+        },
+        {
+          "title": "finedayradio.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPybeZmcdT3V-UX9KmCsXnSazpqhTYW5pbI85q5xVMG4Wbu9umgivrdbRzwxAwGnQqd3LeuIicrtYeYLh7gFqFiVKSRQI8vb19rfXmvTAaZydaPzZSS2f-sq_Ba9CS-4TR0YqxWoa5w3u8MSQqSbxQ8VqsGQJgnh3230oyDfDrTVDiKK2Sw7hpzUuWjfqUE9nhTCc-XrM3CvoK1739aufcxKEpq1ZNmFoQsdG657qmvKua"
+        },
+        {
+          "title": "koreaherald.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQk8mevbgFxFpnnFF_XoMpiTXB3I7wYL7SJRYDY3G8huZNGzh9kQV7oT2BXDtaCpZDUSuZ4ug6FpY88MLByQjw5K-2XARRhjOT-ogdZf7ws47dlAvBxVWZMsanpB7xp2fhjJQ8vDE="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7AqI7xfwuHFLqYi0-enS73BgNysb_Zwr7mkpXL0Djs9oiEf__VpqDxmxGblTkMe5kw9_efod5G4OqGwqjGbWoIs5DONgVfwpMMkBe_s_77HBSMMXJN5V7JTkjze_lJ-FoOSXZGLGeOoJQBhEbM3ML9IRjyMRgSkMfHiSgIk6ClAd9tp95JtqVH0xKhrVoSaBnbPqnJ535jdk7UZSyvrGN9qtlVcF-BL49SCp_542ZSg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRO2NARURnctMoqh2sUwBG206ZR3fYdCvSJOcoOxwWJxWwmVR1yYqB4ZK6jEC3ly-IPb79Lfk6CKwC-B2H5_32pbC3FWZ2pBaPk2d_ogWzubMwFYtIDmys_EOOEyNDgdSCdnujLcbeNfjpXdA9a41HAgKQDwSPI0g_HnfPbiQwWNghvRuA2IBNQCZmdgEK_Or8iOfuUM2vcslW5rDXOy_Mw51B-QRR51uAgoh0sJFr2Rhp-vOT1Uy-nbuf1ci1Lv-wHoZJ8yejskoZIRlP0HCXQ=="
+        }
+      ]
+    }
+  }
+}
