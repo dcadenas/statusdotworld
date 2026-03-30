@@ -1,0 +1,482 @@
+{
+  "date": "2026-03-30",
+  "timestamp": 1774852323534,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with widespread strikes and peacekeeper death",
+      "summary": "The Middle East conflict involving the US, Israel, and Iran has intensified significantly. Iran has reportedly used cluster munitions on Israel, and an Indian national was killed in Kuwait due to Iranian strikes on power plants. A UN peacekeeper was killed in Southern Lebanon amidst clashes, while Houthi forces from Yemen are launching attacks towards Israel.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israel is reportedly striking military targets across Tehran, with Iran launching retaliatory strikes."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Iran has repeatedly used cluster munitions delivered by ballistic missiles in attacks on Israel since February 28, 2026, resulting in civilian deaths."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9784,
+          "severity": "red",
+          "detail": "An Indian national was killed in Kuwait due to Iranian strikes on power and desalination plants."
+        },
+        {
+          "name": "Adchit al-Qusayr, Lebanon",
+          "lat": 33.3039,
+          "lng": 35.4561,
+          "severity": "red",
+          "detail": "A UN peacekeeper was killed when a projectile exploded at one of its positions in southern Lebanon amidst clashes between Israeli troops and Iran-backed Hezbollah fighters."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi forces have begun launching missiles toward Israel, further widening the Gulf conflict."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is preparing for the possibility of ground operations in Iran, with thousands of American soldiers and Marines arriving in the Middle East."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The Russia-Ukraine war is in its fifth year, with civilian casualties increasing by over 30% year-on-year in early 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Concerns over rule of law in EU and Iran's unlawful use of cluster munitions",
+      "summary": "Human Rights Watch reported Iran's unlawful use of cluster munitions against Israel, potentially constituting war crimes. Liberties Rule of Law Report 2026 highlighted a decline in rule of law within EU institutions and member states like Ireland, with concerns over legislative proposals impacting judicial review and journalistic protections.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Human Rights Watch reported from Beirut on Iran's repeated use of indiscriminate cluster munitions in attacks on Israel."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "yellow",
+          "detail": "Irish civil society is raising alarms about the stagnation of rule of law in Ireland, with legislative proposals threatening access to justice and journalistic protections."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The Liberties Rule of Law Report 2026, published by a Brussels-based watchdog, documented a decline in the respect for the rule of law in EU institutions."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "green",
+          "detail": "The Venice Commission participated in a public hearing before the Inter-American Court of Human Rights, addressing whether democracy can be considered a human right."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change lengthens days, Phoenix faces extreme heat, Pacific nations fund resilience",
+      "summary": "New research indicates climate change is slowing Earth's rotation, making days longer. Phoenix, USA, experienced near-record high temperatures, dust, and storms. Pacific Island nations of Samoa, Tonga, and Vanuatu secured significant funding for climate-resilient agriculture, while Afghanistan suffered deadly flooding and landslides.",
+      "regions": [
+        {
+          "name": "Phoenix, United States",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "yellow",
+          "detail": "Phoenix experienced near-record high temperatures on March 29 and March 30, 2026, alongside a record-breaking warm low temperature, with ongoing dust and potential storms."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Severe flooding, a landslide, and thunderstorms across parts of Afghanistan left 17 people dead and 26 injured, destroying homes and infrastructure."
+        },
+        {
+          "name": "Apia, Samoa",
+          "lat": -13.8333,
+          "lng": -171.7667,
+          "severity": "green",
+          "detail": "Samoa, along with Tonga and Vanuatu, secured USD 42.06 million in grant financing to transform agricultural production systems and strengthen climate resilience."
+        },
+        {
+          "name": "Nukuʻalofa, Tonga",
+          "lat": -21.1394,
+          "lng": -175.2017,
+          "severity": "green",
+          "detail": "Tonga, alongside Samoa and Vanuatu, received USD 42.06 million from the Green Climate Fund to establish climate-resilient and regenerative agricultural systems."
+        },
+        {
+          "name": "Port Vila, Vanuatu",
+          "lat": -17.7333,
+          "lng": 168.3167,
+          "severity": "green",
+          "detail": "Vanuatu, with Samoa and Tonga, secured a USD 42.06 million grant to support a five-year regional program for climate-resilient and regenerative agriculture."
+        },
+        {
+          "name": "Michigan, United States",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "green",
+          "detail": "Michigan faced a marginal risk of severe weather on March 30, including hail and severe winds, with multiple rounds of storms expected."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump revoked the 'Endangerment Finding' clause under the Clean Air Act, a move that could significantly weaken environmental protection."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Middle East war harms healthcare, Ukraine faces winter health crisis",
+      "summary": "The ongoing Middle East conflict is severely impacting vital healthcare, with UN agencies reporting civilian terror and no safe spaces. In Lebanon, over 1,090 people have been killed, and 1.2 million displaced due to the war, worsening the public health situation. Ukraine also faces a public health crisis from attacks on energy infrastructure and extreme winter weather.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The war in Lebanon has killed over 1,090 people and displaced 1.2 million, creating a worsening humanitarian crisis and impacting public health."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Systematic attacks on energy infrastructure combined with extreme weather have left hundreds of thousands without electricity, heating, and water, posing grave risks to public health."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UN agencies highlighted the terror among civilians fleeing bombardment in the Middle East, with \"no safe space\" to go, affecting access to vital healthcare."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Global economy faces stagflation and market turmoil amid Middle East war",
+      "summary": "The global economy is facing '70s-style stagflation and market turmoil, largely due to the escalating Middle East conflict. Oil prices surged above $115 per barrel as the Strait of Hormuz shipments are disrupted. Stock markets in India plunged, and US consumer sentiment fell due to inflation fears.",
+      "regions": [
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "red",
+          "detail": "The Indian stock market (Sensex and Nifty) plunged over 1,100 points due to rising oil prices and the US-Iran war."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Asian shares, including Japan's Nikkei 225 and Topix indices, declined sharply due to soaring oil prices and escalating tensions in the Middle East."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US consumer sentiment fell more than expected in March, touching a three-month low, as the war in the Middle East stoked inflation worries."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "red",
+          "detail": "Disruption of shipments through the Strait of Hormuz, a vital route for global energy supplies, caused Brent crude prices to climb above $115 per barrel."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Asian financial markets, including Indonesia's rupiah and stock markets, faced challenges and expected high volatility due to the Iran war."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's industrial firms reported stronger profit growth early in the year, reinforcing recovery signals, though the Middle East war threatens global growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy faces global challenges amid protests and constitutional disputes",
+      "summary": "Democracy is experiencing a 'worldwide crisis,' with significant protests in Prague against democratic backsliding. Constitutional disputes arose in Kosovo over the dissolution of the Assembly, while Algeria adopted a revised constitution. In the US, \"No King\" rallies protested authoritarian impulses under President Trump, and a report highlighted rule of law stagnation in EU institutions and Ireland.",
+      "regions": [
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "Tens of thousands protested against democratic backsliding, including proposed changes affecting public media and civil society, in the largest anti-government demonstration since 2019."
+        },
+        {
+          "name": "Pristina, Kosovo",
+          "lat": 42.6629,
+          "lng": 21.1655,
+          "severity": "green",
+          "detail": "The Constitutional Court ruled that the presidential decree dissolving the Assembly had no legal effects, emphasizing parliamentary procedures."
+        },
+        {
+          "name": "Algiers, Algeria",
+          "lat": 36.7538,
+          "lng": 3.0588,
+          "severity": "green",
+          "detail": "The Algerian Parliament adopted a constitutional revision with key changes including an educational requirement for presidential candidates and expanded powers for the election authority."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "“No King” rallies emerged as a manifestation of intra-party dissent under President Donald Trump, rejecting authoritarian impulses and defending democratic institutions."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "yellow",
+          "detail": "Ireland's performance in protecting the rule of law is stagnating, with persistent failures and concerning legislative proposals raising alarm in civil society."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The Liberties Rule of Law Report 2026 documented a decline in the respect for the rule of law in the European Union institutions themselves."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global aid severely impacted by conflicts, climate, and funding shortages",
+      "summary": "Humanitarian aid efforts are severely strained by ongoing conflicts and climate crises. The Middle East war, with its closure of the Strait of Hormuz, is disrupting global aid supply chains, threatening vulnerable communities in Somalia, Afghanistan, Yemen, and Gaza. Cuba is receiving aid from Canada and Mexico amidst its energy and food shortages, while Ukraine and Somalia face escalating humanitarian needs with critical funding shortfalls.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "Canada provided humanitarian aid, sending 8 million Canadian dollars in food supplies, as Cuba faces blackouts and severe fuel, food, and medicine shortages."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "red",
+          "detail": "The closure of the Strait of Hormuz is severely affecting global humanitarian supply chains, threatening aid delivery to crisis-affected communities."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The Middle East war has displaced 1.2 million people in Lebanon, leading to a worsening humanitarian crisis."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0678,
+          "lng": 45.3172,
+          "severity": "red",
+          "detail": "Somalia faces a severe food security and nutrition crisis due to drought, conflict, and economic pressures, with WFP operations under severe funding constraints."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine's humanitarian needs are escalating due to systematic attacks on energy infrastructure and extreme weather conditions, with millions displaced."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN's emergency relief chief condemned the '$1 billion-a-day' cost of the Middle East war, noting soaring humanitarian needs and falling aid funding globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYQvwNq6y-BJFoeiLZpq-EiUbOhwAqni4t3KMs8nVjeE8O3SkPRXntaAAk99WlEzenDAAKnkm-UeU_Nsbr4sqxPDKOeGsRvbtMXpN-NNa-WQoTkvaTssUWUNMxmwMqFS5uDT54qXsr9mo_svPVPPfTMU6N067crkWMGZI6tuCfgBwSQBjEILSWGKgIjYp50OsoXrXxI6pbjURdFtZHWWkaBtRDYVbPpl8="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDvOQazl8EQNvnt4DqxeYnjUA60vVAbqLUnE50IVvWQzgWHto2hq9nZk-_ukLteYXfO1S_ZtAEpbo3TQYpo4febgZuoFdFRYBanADczqt3DwI0j0Lr-MLwoPt6Gk5OgedyBvEBqww7YK5gIZAgePFG4OTiqT1jCzBgJka_tRfbxPMZIhC2zKPvBBzqMH3-A=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOTbA7yAvbDxA1DadIsWbybHmJF4Cc-u_9tVPeAsn_ZqDFyU6s6Ox6fligalfFiGl3hZ6Vti_dfVNpHzkPVkgcVouyaR1rGJkA9AOwk-GN9uj7M425T_IzIvr8clhzm9mSJR-fj8-FGcGRT1TGhliI59P0Vr2iAUZ0IPzruJQqY7nXbaBMAL2Olrxd2JUSW5pKdU2hO5HfInBKuhnZZszkAsM6Gl4v65fph2R_a2pnmM="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_ilaVjxDP70dyTfaq_d_p_3XcjOXKaukJnALNTdAavoXRmWjPi-HPXfnJddr9BiVEbJNi2NqyZBNI9h0AWgVg0Pn5ph_1-HC5o0utGSTibsak0yYL1d14SEu4w=="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVv6QJb7tofWrQN0ZadiqoI1TuMA5utjhen4uDwlXOPyViFE_yzWF2vZa2OzESLZ6h22zgGWgQ3ABdWIH4bz_XzhU3WPosqkP1hgq11p8UCssZBkqa8gpt9KPvyh0uys8f7rPWmtCDmlopJiuYDMMBLKWKG9r6K9OIUFzC3YmioovXtwueQ1iFa9qre02izJTdq_ELB4VEhMNJUKUeIX6SsAvttFmK4YmFrONa60sm"
+        }
+      ]
+    }
+  }
+}
