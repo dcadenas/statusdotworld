@@ -1,0 +1,502 @@
+{
+  "date": "2026-03-31",
+  "timestamp": 1774938329453,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East War Intensifies; UN Peacekeepers Killed, Sudan Conflict Spreads",
+      "summary": "The conflict in the Middle East has escalated significantly, leading to a deepening humanitarian crisis for children and substantial casualties across Iran, Lebanon, and Israel. UN peacekeepers were killed in Lebanon, missile and drone attacks continue across the Gulf, and NATO intercepted an Iranian missile over Turkey. The Sudan conflict is also spreading to Chad, disrupting vital humanitarian aid, while Russian forces maintained offensive operations in Ukraine without significant advances.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Explosions and power cuts hit parts of the capital amidst ongoing conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli soldiers were killed in clashes with Hezbollah in southern Lebanon, and two UN peacekeepers died in an explosion."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Reports indicate ongoing conflict and strikes from Iran and Lebanon, including a fire at the Haifa oil refinery."
+        },
+        {
+          "name": "Amir Sultan Air Base, Saudi Arabia",
+          "lat": 24.08,
+          "lng": 47.79,
+          "severity": "red",
+          "detail": "The base, hosting U.S. forces, came under drone attacks."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "A Kuwaiti oil tanker was hit by a drone and caught fire in Dubai waters."
+        },
+        {
+          "name": "Tine, Chad",
+          "lat": 14.2092,
+          "lng": 22.1064,
+          "severity": "red",
+          "detail": "A drone from Sudan struck the town, killing at least 17 civilians, leading Chad to close its border with Sudan."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "yellow",
+          "detail": "Russian forces continued offensive operations but did not advance, while Ukrainian forces targeted Russian concentrations."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0678,
+          "lng": 45.3172,
+          "severity": "yellow",
+          "detail": "The Erdogan government is accused of civilian deaths, and Somali National Army forces were ambushed by Al-Shabaab militants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Israel expands death penalty; global rights abuses highlighted",
+      "summary": "Israel passed a discriminatory bill expanding the death penalty for terrorism-related offenses, primarily targeting Palestinians. The UN Human Rights Council condemned North Korea's widespread abuses, and a report highlighted escalating extrajudicial killings and enforced disappearances by Pakistani forces in Balochistan. Concerns were also raised about surveillance of Indigenous rights defenders in Canada and book banning in the US.",
+      "regions": [
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "A discriminatory death penalty bill was passed, primarily targeting Palestinians."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council adopted a resolution denouncing North Korea's systemic human rights violations."
+        },
+        {
+          "name": "Balochistan, Pakistan",
+          "lat": 28.4893,
+          "lng": 65.0457,
+          "severity": "red",
+          "detail": "A leading human rights organization highlighted escalating abuses by Pakistani forces, including extrajudicial killings and enforced disappearances."
+        },
+        {
+          "name": "Morelos, Mexico",
+          "lat": 18.6811,
+          "lng": -99.2132,
+          "severity": "red",
+          "detail": "The murder of social activist Sandra Rosa Camacho was denounced as a femicide and political murder."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "PBI-Canada expressed concern over reports of RCMP and CSIS surveillance of Indigenous rights defenders."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "PBI-Colombia noted concern over death threats made against a human rights defender."
+        },
+        {
+          "name": "Guatemala City, Guatemala",
+          "lat": 14.6349,
+          "lng": -90.5069,
+          "severity": "yellow",
+          "detail": "PBI-Guatemala accompanies a human rights defender in legal proceedings against a sugar refinery."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Renowned authors discussed the consequences of banning books and suppressing expression, citing documented removals in U.S. public schools."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Vermont defends climate law; thawing permafrost accelerates GHG release",
+      "summary": "Vermont is defending its landmark climate superfund law against a federal lawsuit, aiming to hold fossil fuel companies accountable for climate damage. New research shows thawing permafrost in the Arctic is significantly increasing greenhouse gas release. Meanwhile, New Jersey is investing in battery storage, Jamaica launched a project for climate-resilient farming, and the EPA's repeal of a greenhouse gas endangerment finding sparked legal pushback.",
+      "regions": [
+        {
+          "name": "Rutland, Vermont, USA",
+          "lat": 43.6109,
+          "lng": -72.9723,
+          "severity": "yellow",
+          "detail": "Vermont defends its landmark climate superfund law against a Trump administration lawsuit."
+        },
+        {
+          "name": "Arctic Region",
+          "lat": 70,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Experiments show thawing permafrost makes it 25 to 100 times more permeable, accelerating greenhouse gas release."
+        },
+        {
+          "name": "Trenton, New Jersey, USA",
+          "lat": 40.2206,
+          "lng": -74.7668,
+          "severity": "yellow",
+          "detail": "New Jersey awarded significant incentives to large battery storage projects to meet climate goals and stabilize electricity prices."
+        },
+        {
+          "name": "Kingston, Jamaica",
+          "lat": 17.9712,
+          "lng": -76.792,
+          "severity": "yellow",
+          "detail": "The government launched a US$50 million project for climate-resilient farming, funded by the Green Climate Fund."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The Environmental Protection Agency's repeal of the 2009 Greenhouse Gas Endangerment Finding drew legal pushback from 24 states."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "A study found cow manure digesters are highly effective at cutting methane, but rare leaks can offset their climate benefits."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "No new major global public health crises reported",
+      "summary": "No new widespread global public health crises or outbreaks were reported today. While ongoing conflicts in the Middle East continue to disrupt health infrastructure and impact civilian well-being, no specific new public health emergency emerged globally.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war dims global economic outlook; oil surges, markets volatile",
+      "summary": "The IMF warned that the ongoing Middle East war, particularly Iran's closure of the Strait of Hormuz, is causing the largest disruption to the global oil market in history, severely dimming the economic outlook for many nations. Oil prices have surged, and global financial markets are experiencing declining stock prices and rising bond yields. Energy importers in Asia and Europe are particularly affected, facing higher fuel and input costs.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran's effective closure of the strait has caused the largest disruption to the global oil market in history."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The IMF warned of the Middle East war's global economic impact, leading to higher prices and slower growth."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "red",
+          "detail": "The Kospi stock index lost 3.4% amid market volatility due to the Iran war."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "red",
+          "detail": "Tokyo's Nikkei 225 was down 1.2% following the start of the Iran war."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "red",
+          "detail": "Dubai announced over $270 million in financial aid to businesses and families facing economic disruption."
+        },
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "yellow",
+          "detail": "The Panama Canal saw a surge in ships utilizing it due to Middle East war disruptions."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "India's rupee fell to a record low of more than 95 to the dollar before recovering."
+        },
+        {
+          "name": "Colombo, Sri Lanka",
+          "lat": 6.9271,
+          "lng": 79.8612,
+          "severity": "red",
+          "detail": "Sri Lanka raised fuel and electricity prices significantly due to an energy shortage caused by the Middle East war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy 'unravelling' as global backsliding continues",
+      "summary": "The 2026 Democracy Report indicates that US democracy is 'unravelling' at an unprecedented speed, with public trust at historic lows due to undermining the rule of law and concentrated power. Globally, nearly a quarter of nations are experiencing democratic backsliding, including influential countries in Europe. Meanwhile, local elections were held in Arkansas and Massachusetts.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The 2026 Democracy Report highlights that US democracy is 'unravelling' due to a decline in trust and concentration of presidential powers."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute released its 2026 Democracy Report, identifying global democratic backsliding and autocratization in many countries."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK was identified as one of the European countries undergoing autocratization in the 2026 Democracy Report."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italy was identified as one of the European countries experiencing democratic backsliding in the 2026 Democracy Report."
+        },
+        {
+          "name": "Fayetteville, Arkansas, USA",
+          "lat": 36.0626,
+          "lng": -94.161,
+          "severity": "green",
+          "detail": "A Preferential Republican Primary Run Off election was held in Washington County."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "A special general election was held for the Massachusetts House 5th Essex District."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "green",
+          "detail": "March 31, 2026, was the last day for Vote By Mail ballots to arrive to be included in the count for Chicago elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen in Middle East, Sudan; Cuba faces deepening crisis",
+      "summary": "The humanitarian crisis for children in the Middle East has deepened significantly due to the ongoing war, resulting in widespread casualties, displacement, and destruction of essential infrastructure. In Sudan, the conflict's spread to Chad has closed a vital aid corridor, severely disrupting assistance to millions of refugees and internally displaced persons. Cuba also faces a deepening humanitarian crisis exacerbated by economic sanctions affecting fuel supplies.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "A deepening humanitarian crisis for children has resulted from one month of military escalation, with significant casualties, destruction of infrastructure, and displacement."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "The conflict has spread, and a drone strike hit the Chadian town of Tine, disrupting aid and trapping millions in dangerous zones."
+        },
+        {
+          "name": "Adre, Chad",
+          "lat": 13.4686,
+          "lng": 22.2031,
+          "severity": "red",
+          "detail": "The Adre border crossing, a primary humanitarian corridor into western Darfur, has been closed, severely disrupting aid access."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "An ecumenical delegation is visiting to respond to a deepening humanitarian crisis, with concerns over the impact of economic sanctions on fuel supplies."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "Regional tensions and escalatory actions near Iran are causing disruptions to civilian mobility and humanitarian access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BCBHmNy8r0OF4j12sjHqUFXLwEhcXAC7_8yMjjegtZgK6nzqjc6kwdshjtxIqCiMUxqq_v-1RO798TSw251VtBffWNRunk0BkP182_lHKGoVSAUbfSw_ODVwSCluZL5CeO4HAarNYpraa4WhI2WVF9S7MUH82XXHuFJpTGm6LV_F7Gh2FA0AidWdotqWARh7189JyJLWEw6SOzGWwlIt5Sh6TvdU8us="
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgPHXxnqCzGz3M8RW1OTui7XulWNIGRwkLX9wUwfGJlO-_jzddxnmBtL1Re_Pp_IFBdh6jstfpaJfi_evZXn7tzHSygBPel0GIRa-hTU_WQ1k2-7MQsMtaZEs7N-03KUTQ1CfDojmzvAr-PgsA0-9N0MflS1EZJUahV7QeGkTJelleQG4m16QK-GGmn52viKk="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbnvuiq9eCYrOvDVoXZRc-JcaHBE1mQmskTeRNwdRK9igLXhTG2oms-lWob1tOyFqT9wMOdhfZm9eQJqGaRanq7bRcBM6Dg1dUJejsXJFKjz-VuSTu91JRuvH1Mf31t5mkucgLg12lx2s6kLnwcE2Bwpz7aEbegQFdG-cY_815KMDvWl6QmQppgO3uFYXYbwoQHhCqX4eLI9NlF-Hv4eYBlG3Onq8YmB75g=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlr-rsu8mOVvQ-PCXz4B4vG3I2u3KtoDl_mBK_o_tlq7uBCdl05Se3L7qXwgxJFsBO6SXa1qWsWqYagsIU9bxAT5UYd8-Od7RGsLxVg6erHpqBhsa6X-J0nHiV1o5vR4pyA=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJpRPSQG_ZtcQVamR99xpeUb42VKYOmw1PyYbJqsKZ7MADhzviWk1gxGogxae8LiowMqYtlurP4XxL64Ccjgsnp5LFJ_qL_ZDJrZ13WpKob76yTj18TcJOO9O-sEwJRYZ7BTg4J3HY4IcGj9XaAqi1pX60y7OHGLhiSkyFUQcANfuyJV2tivsMjOyMD-yjIkyJgSEycxjL7z3QtEv66TZa2Y="
+        }
+      ]
+    }
+  }
+}
