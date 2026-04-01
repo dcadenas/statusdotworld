@@ -1,0 +1,524 @@
+{
+  "date": "2026-04-01",
+  "timestamp": 1775025028755,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East War Intensifies with Drone and Missile Attacks",
+      "summary": "The ongoing US-Israel war with Iran remains a severe crisis, marked by Iranian drone attacks on Kuwait and Bahrain, missile launches towards Israel from Yemen and Lebanon, and Israeli strikes in Beirut. Thousands have been killed across multiple countries, and new US troops are deploying to the region.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's state TV reported strikes across Tehran amid the ongoing conflict."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait International Airport was hit by Iranian drone attacks, causing a large fire at fuel storage tanks."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "An Iranian drone attack caused a fire at a business facility in Bahrain."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel's air defenses responded to a missile launched from Yemen."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes in Beirut targeted senior Hezbollah commanders and members, causing casualties."
+        },
+        {
+          "name": "Artibonite, Haiti",
+          "lat": 19.45,
+          "lng": 72.69,
+          "severity": "red",
+          "detail": "Gangs continued attacks in the agricultural Artibonite region, following a weekend massacre that killed approximately 70 people."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "Jordanian Armed Forces intercepted four Iranian missiles targeting the Kingdom's territory."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump stated the US military campaign in Iran could end within 2-3 weeks, while thousands of additional US troops are deploying to the Middle East."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety and Digital Privacy Concerns Rise Globally; EU Sanctions Iran",
+      "summary": "Concerns over AI's ethical implications, digital privacy violations by tech giants, and state surveillance are prominent, with international conferences and new regulations emerging. The EU extended sanctions on Iran due to ongoing human rights abuses.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU extended sanctions on Iran, including travel bans and asset freezes, due to ongoing human rights violations and suppression of demonstrators."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "yellow",
+          "detail": "A conference on 'Artificial Intelligence across Security Domains' discussed challenges like algorithmic targeting, discrimination, and biometric surveillance."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "Australia signed an agreement with US tech giant Anthropic to collaborate on AI safety and responsible development."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Google again requested a federal judge to overturn a $425 million privacy verdict for allegedly violating mobile users' data privacy."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California's new privacy and AI laws are in effect, requiring annual cybersecurity audits for businesses handling residents' data."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "The UN High Commissioner for Human Rights urged Israel to repeal a new law reinstating the death penalty for Palestinian prisoners, citing discrimination."
+        },
+        {
+          "name": "Amsterdam, Netherlands",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "severity": "green",
+          "detail": "Amsterdam celebrated 25 years of same-sex weddings, though global LGBTQ+ rights face renewed challenges in other regions."
+        },
+        {
+          "name": "Dakar, Senegal",
+          "lat": 14.7167,
+          "lng": -17.4677,
+          "severity": "red",
+          "detail": "Senegal's president signed a law toughening punishment for homosexuality, contributing to rising repression in parts of Africa."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Severe Weather and Environmental Vulnerabilities Highlighted Globally",
+      "summary": "Severe storms struck Northeast Ohio, causing widespread damage and power outages. Reports highlighted the vulnerability of US Superfund sites to climate-related disasters, while Australia moved to ratify a UN High Seas Biodiversity Treaty.",
+      "regions": [
+        {
+          "name": "Cleveland, Ohio, USA",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "red",
+          "detail": "Severe storms caused widespread damage, fallen trees, and power outages across Northeast Ohio."
+        },
+        {
+          "name": "Canary Islands, Spain",
+          "lat": 28.1189,
+          "lng": -15.4182,
+          "severity": "yellow",
+          "detail": "Saharan dust from strong harmattan winds continued to affect the islands, worsening air quality and visibility."
+        },
+        {
+          "name": "Houston, Texas, USA",
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "severity": "yellow",
+          "detail": "An EPA watchdog report revealed that 100 US Superfund sites, including some in areas like Houston, are vulnerable to floods and wildfires."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "The High Seas Biodiversity Bill 2026 passed, paving the way for Australia to ratify the UN's High Seas Biodiversity Treaty."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "A new study warned of a closing 20-year window to halt the spiraling decline in British biodiversity, emphasizing climate and land use decisions."
+        },
+        {
+          "name": "Orlando, Florida, USA",
+          "lat": 28.5383,
+          "lng": -81.379,
+          "severity": "yellow",
+          "detail": "Schools across the country, particularly less affluent ones, are struggling to adapt to threats to student athlete safety due to rising temperatures."
+        },
+        {
+          "name": "Providence, Rhode Island, USA",
+          "lat": 41.824,
+          "lng": -71.4128,
+          "severity": "green",
+          "detail": "A new dashboard provides real-time data on water levels, air quality, and temperature to help communities adapt to hazardous weather."
+        },
+        {
+          "name": "Lansing, Michigan, USA",
+          "lat": 42.7325,
+          "lng": -84.5555,
+          "severity": "yellow",
+          "detail": "Michigan's Department of Environment is seeking public comment on a draft request for wildfire smoke exemption from ozone compliance, indicating ongoing air quality challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles Outbreaks Accelerate in US; New Health Regulations Begin",
+      "summary": "Measles outbreaks are accelerating in Utah and Florida, highlighting the need for higher vaccination rates. British Columbia implemented new health regulations to improve patient safety, while Canada launched a program for vaccine-related injuries.",
+      "regions": [
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "red",
+          "detail": "Utah confirmed 116 new measles infections in the past two weeks, bringing the total outbreak cases to 559."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "Florida is confronting a resurgence of measles, with over 120 confirmed cases by March 2026."
+        },
+        {
+          "name": "Victoria, British Columbia, Canada",
+          "lat": 48.4284,
+          "lng": -123.3656,
+          "severity": "green",
+          "detail": "The Health Professions and Occupations Act came into effect, aiming to improve patient safety through increased transparency."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "The Public Health Agency of Canada began administering the Vaccine Impact Assistance Program for those with serious vaccine-related injuries."
+        },
+        {
+          "name": "Trenton, New Jersey, USA",
+          "lat": 40.2237,
+          "lng": -74.7644,
+          "severity": "yellow",
+          "detail": "Over 1 million New Jersey residents face significant cost increases for their government-sponsored health benefits."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "New restrictions on SNAP food benefits took effect, limiting purchases of certain unhealthy drinks and candy to promote healthier choices."
+        },
+        {
+          "name": "Frankfort, Kentucky, USA",
+          "lat": 38.2,
+          "lng": -84.7333,
+          "severity": "green",
+          "detail": "Kentucky's legislature is considering bills to modernize health profession regulations and expand coverage for hearing aids for minors."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East War Causes Billions in Economic Damage, Fuels Inflation",
+      "summary": "The war involving the US, Israel, and Iran is costing global economies billions daily and has caused gas prices to rise. The conflict's impact extends beyond oil, affecting other commodities like helium and aluminum.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing war is having a devastating economic impact, with thousands killed and billions of dollars in costs daily across affected countries."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Gas prices have risen above $4 a gallon, directly impacted by the month-long conflict in the Middle East."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's PMI numbers showed a sharp increase in the input price sub-component, potentially influenced by the Iran conflict and commodity prices."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "Anthropic signed an agreement to share economic index data with Australia to track AI adoption and its impact on jobs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global Democracy Faces Challenges from AI, Human Rights Abuses, and Eroding Freedoms",
+      "summary": "Concerns were raised about AI's potential to empower autocratic surveillance states, while the EU extended sanctions on Iran due to widespread human rights violations. New legislation in Israel targeting Palestinian prisoners also sparked alarms over discriminatory justice.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Anthropic CEO Dario Amodei warned against AI falling into the hands of autocracies and being used for surveillance, posing a threat to democracies."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU's extension of sanctions on Iran highlights concerns over internal repression and monitoring telecommunications, undermining democratic freedoms."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "A new law passed by the Knesset, which could reinstate the death penalty for Palestinian prisoners, was condemned as discriminatory and a violation of international law."
+        },
+        {
+          "name": "Dakar, Senegal",
+          "lat": 14.7167,
+          "lng": -17.4677,
+          "detail": "Senegal enacted a law that toughens punishment for homosexuality, contributing to concerns about the erosion of LGBTQ+ rights.",
+          "severity": "red"
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "detail": "The US Supreme Court sided with objectors against a 'conversion therapy' ban, and multiple states are pursuing legislation to undo same-sex marriage recognition, challenging democratic rights.",
+          "severity": "yellow"
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East Conflict and Haitian Gang Violence Trigger Major Humanitarian Crises",
+      "summary": "The war in the Middle East has caused thousands of deaths, including many civilians, and led to significant displacement, exacerbating humanitarian crises across several countries. In Haiti, ongoing gang violence resulted in numerous fatalities and widespread instability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Thousands of people, including 1,574 civilians and at least 236 children, have been killed in Iran since the war began."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes in South Beirut and a nearby area killed seven people and wounded others, contributing to displacement and humanitarian crisis."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "red",
+          "detail": "One foreign crew member was killed in an attack on tankers near an Iraqi port, with Iran-aligned factions launching drone and rocket attacks."
+        },
+        {
+          "name": "Artibonite, Haiti",
+          "lat": 19.45,
+          "lng": 72.69,
+          "severity": "red",
+          "detail": "Ongoing gang attacks in the Artibonite region resulted in approximately 70 deaths, including infants, pregnant women, and the elderly."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "The Jordanian Armed Forces responded to reports of falling debris and projectiles, causing some material damage but no injuries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnisc7a7pntjpE2RFsWBmybR8FQlOagV-yZXM4LJbkwJB08vFIRq4IRGokQ3zD1KDDTuY07hZ1f4K6DBztpyr39kNOtNZ39TTslimAWekpf492-NWhpLEGKXTjdWn4amy_bb4PHLQfik9VaUr7ThIunOPKCsclz1Yv6ek9L38tE5ecKKFmD_I0OJv8xHXLScWosUr5Mrx_NBTxcDFuePn81gi2P7YoWzdqZ7pfAhiV6A=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSAtIWqoWLwjZZ8DtdD0f9B0eQk7ivAGWjaAgkR0iuGmsyCOkiXYx7YYuNiqaOUUKENbHETYWsaiPnG29u52ZyZe4I2-y1FfhqjsC8fsXXvi6yt9xRHY674rbxbMWAli2BcFuDxKqoFpCY70JaDUCoOmBrhSxhAEZ9srXqX8incuMQN7Xt8NQPZqhQGXFP_fwhEzOoOvQh2-dunHI6vCMuT8BS6ToBqpyp5aL9xzw_mkGOppAip6dGpUVWmE0ftKVm3sVHEVYRq6tUSf6diCKhdlP4XEOu5HPasUDnks="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgP7UT6OOoUEUWNnXzDamqyXFyxBjtz5eUSaHtnX95YxAptGsKsYNUJgTAaUnV8IgJIj0uLzhn2IwKH1atfXg97PUfVRBOcXTFZDLUDHB6MBwijV2mAADpzw1hWYxRWws8vTN96OSkn6ieW5ZFJ1C30deWkV-a7b8Yrfilgt2PSyQ6bT-TxYJX6CYrZgV_kZtbOQ6yTwVy1yXx9G_N24oWBUIlVBs2Tl4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB95XIn771gaUhqEkedsZWkj4FwZfL66KP6Qy2DqVUPcA5Tf7xQOLc2Mfva1pEktuGGt9I4F4O7O_yhMyA6Z7e2m9Xi9I-NDEWeOd36gbhG8_A9Gtrqf_ym-aFCrwsMKTXxp3O0xesmN0BvjAuYKZ-2eGNr_Dfw36qoKrKIMTzZvgh72a4F8mFUTAK_4hXPstOGe2Cj3PUrNjHAI24PS6tcko9U5SsGos="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3juBIEcwfq0cP1OoV8ouUo5Z3XgLVoKWHQcwRVokaZNlpockhMEdvLTcXZbBKDGzPC0WKE-9IHq2tC9DxRrsnX3r7QBuuGZex_4NmqoR3ontNnIpfjEANEGUrzMUnNHBNYAuS3EEmHVh541mp4dO0FJnWlh7rVENT4xBu-okze6z9IHiE2DCJxQ="
+        }
+      ]
+    }
+  }
+}
