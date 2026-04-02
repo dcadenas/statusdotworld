@@ -1,0 +1,454 @@
+{
+  "date": "2026-04-02",
+  "timestamp": 1775110943177,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates; US targets Iran, global economy impacted.",
+      "summary": "The Middle East war remains a major concern, with President Trump's statements suggesting a potential end within weeks, yet US military strikes against Iran are anticipated to continue. Kuwait's international airport was attacked by an Iranian drone, contributing to regional instability and global economic fears. Ireland continues to provide significant humanitarian and development aid to Ukraine amidst Russia's ongoing aggression.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US military strikes against Iran are projected to continue, impacting the global economic situation."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump's statements regarding the Middle East conflict are influencing market reactions and military strategy."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait's international airport came under an Iranian drone attack, causing a large fire."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ireland announced an additional €40 million in humanitarian and long-term development aid for Ukraine due to Russia's ongoing war."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia's ongoing war of aggression continues to impact Ukraine and draws international aid."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.45,
+          "severity": "red",
+          "detail": "Maritime navigation through the Strait of Hormuz has nearly come to a standstill, severely impacting global trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety, privacy breaches, and abuses raise global human rights concerns.",
+      "summary": "Cambodia's casinos are directly linked to scamming compounds where torture, forced labor, and human trafficking have been documented. In Indonesia, an acid attack on activist Andrie Yunus highlighted a climate of terror for dissenters. Additionally, a major data breach at Nacogdoches Memorial Hospital in Texas exposed over 250,000 records, while a banking tech company's ransomware attack impacted over 672,000 individuals across multiple regions. Concerns also escalated regarding AI safety, with xAI's Grok facing a lawsuit over sexualized deepfakes.",
+      "regions": [
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9282,
+          "severity": "red",
+          "detail": "Amnesty International linked several casinos to scamming compounds involving torture and forced labor."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Human rights activist Andrie Yunus was a victim of a brutal acid attack, seen as a message to silence dissent."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0333,
+          "lng": 125.75,
+          "severity": "yellow",
+          "detail": "North Korea condemned a recent United Nations resolution on human rights violations in the country."
+        },
+        {
+          "name": "Nacogdoches, Texas, USA",
+          "lat": 31.6063,
+          "lng": -94.6558,
+          "severity": "yellow",
+          "detail": "Nacogdoches Memorial Hospital announced a data breach affecting over 257,000 individuals."
+        },
+        {
+          "name": "Baltimore, Maryland, USA",
+          "lat": 39.2904,
+          "lng": -76.6122,
+          "severity": "yellow",
+          "detail": "xAI's Grok is facing lawsuits and investigations over sexualized deepfakes, exposing lack of transparency in AI safety."
+        },
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "UCLA Health published a study arguing that current AI systems lack 'internal embodiment,' raising implications for AI safety."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "The Australian National University partnered with AI safety company Anthropic to advance AI research and teaching."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Marquis, a banking tech company, experienced a ransomware attack exposing sensitive data of over 672,000 people."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "Climate discussions ongoing, no major events reported.",
+      "summary": "No major new climate events or emergencies were reported globally on this date. However, discussions and initiatives around climate action continued, including training on green building design and a conversation on climate markets in Los Angeles. The United Nations has several climate-related events scheduled for later in 2026, emphasizing the ongoing focus on sustainability and environmental challenges.",
+      "regions": [
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "Events on 'Foundations of Green Building Hybrid Training' and 'Carbon Hunters: Reflections and Forecasts of Climate Markets in the 21st Century' were held."
+        },
+        {
+          "name": "Fairfax, California, USA",
+          "lat": 37.9866,
+          "lng": -122.5936,
+          "severity": "green",
+          "detail": "The Climate Action Committee held a scheduled meeting."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Cuba faces severe health crisis; US state boosts outbreak network.",
+      "summary": "Cuba is grappling with a severe public health crisis, exacerbated by an intensifying energy crisis and restrictions on fuel access, leading to widespread shortages of essential medical supplies and delayed surgeries for tens of thousands. In the United States, Washington State announced its decision to join the Global Outbreak Alert and Response Network, a move aimed at maintaining access to global disease data and response support following the US withdrawal from the World Health Organization. Furthermore, the Tufts School of Medicine signed on to a federal nutrition initiative in the US to enhance medical students' nutrition education.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "The National Medical Association raised an alarm on a severe public health crisis due to energy shortages and blockades."
+        },
+        {
+          "name": "Olympia, Washington, USA",
+          "lat": 47.0379,
+          "lng": -122.9007,
+          "severity": "yellow",
+          "detail": "Washington State joined the Global Outbreak Alert and Response Network after the US exited the WHO."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "Tufts School of Medicine signed on to a federal nutrition initiative to provide at least 40 hours of nutrition education to medical students."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A bipartisan bill aims to revive efforts to lower insulin costs, addressing a significant public health concern."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war triggers severe global economic instability.",
+      "summary": "The ongoing Middle East war, with continued US military strikes against Iran, is causing severe global economic fallout, including soaring oil prices and significant stock market volatility. Maritime navigation through the Strait of Hormuz has nearly halted, which is projected to reduce annual trade growth and drive up inflation, leading to concerns of stagflation and a decline in global GDP. Leading economic institutes have cut growth forecasts for Germany, warning of severe impacts from surging inflation and rising energy costs due to the conflict.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Ongoing conflict and US military strikes are major factors impacting global oil prices and economic stability."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump's statements are contributing to market volatility and concerns over a prolonged energy crisis."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.45,
+          "severity": "red",
+          "detail": "Maritime traffic has come to a near-standstill, inflicting significant pain on the global economy."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Leading economic institutes cut growth forecasts due to inflation resulting from the Middle East war and rising energy costs."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "An Iranian drone attack on its international airport added to regional instability and economic concerns."
+        },
+        {
+          "name": "Hong Kong",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Asian markets reacted to the Middle East conflict news, with the dollar advancing and stocks rallying."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US homeland security funding debated; Virginia redistricting concerns.",
+      "summary": "In the United States, a partial government shutdown stemming from disagreements over Homeland Security funding persists, with Republicans and Democrats at odds over immigration-related agencies. Meanwhile, in Virginia, a group backed by tech billionaire Peter Thiel contributed $2.5 million to oppose a redistricting referendum, raising concerns about misleading campaigns targeting Black voters and the integrity of democratic processes.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Senate is expected to vote on a plan to fund most of the Department of Homeland Security amidst a partial government shutdown."
+        },
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "A Peter Thiel-backed group contributed $2.5 million to oppose Virginia redistricting, sparking controversy over campaign tactics."
+        },
+        {
+          "name": "Notre Dame, Indiana, USA",
+          "lat": 41.7034,
+          "lng": -86.2361,
+          "severity": "green",
+          "detail": "A conference on 'Democracy and Bridging the Rural-Urban Divide' was held, featuring discussions by former political figures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Gaza aid via new sea route; Ireland boosts Ukraine aid; Cuba crisis aid.",
+      "summary": "A critical shipment of 106 metric tonnes of lifesaving nutrition supplies reached the Gaza Strip via a new sea route, marking a significant step in addressing urgent humanitarian needs amidst the ongoing Middle East conflict. Ireland pledged an additional €40 million in humanitarian and long-term development aid for Ukraine, where millions remain displaced and require assistance due to the protracted conflict. Concurrently, the European Union released an extra €2 million in humanitarian aid for Cuba to address the severe shortages and difficulties caused by an intensifying energy crisis and blockade.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The World Health Organization facilitated the first 106-tonne delivery of nutrition supplies via a new sea route."
+        },
+        {
+          "name": "Ashdod, Israel",
+          "lat": 31.7984,
+          "lng": 34.6547,
+          "severity": "yellow",
+          "detail": "The aid consignment for Gaza arrived at Ashdod port for onward distribution."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ireland announced an additional €40 million in humanitarian and development aid for Ukraine."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "The EU released an additional €2 million in humanitarian aid to address the severe energy crisis and related difficulties."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "green",
+          "detail": "The Minister for Foreign Affairs and Trade announced increased financial support for Ukraine."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Commission released additional humanitarian aid for the Cuban population."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGutTiYbXw14sYuS2LWQt5viUAzbrDPd_nsxeGhJnw9KE4IXC6so50h9ftZLh6ooR8cjRMq7RJdTvq3B53P3Jm6fpD8roaPrdwUjhrjk7KUHFWoP4OiFhs2BLUtyp8QMY_CA=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCz3BXP-DGAdaJEOumFz2glQ-YPUJGK6mVXY-oEkjrxYnzVr7qvaya7uWpnJpYFJz30hx-gbtkBp6LqMAEGT_Fu5rtoQ_WhlEL2-fuoMoOBQGVb73Zd2jAjSwLRgHEIxtlbmAfl-lszslYN8femsfyvcdFMjjwBf4EpriZCGdnIjLNX-BNmqoyYXAmnu5bwXKsqyU8e5m97fMpEcxaJ8WiB2c2T9TOAmkm7jONtehhrQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXQzdWY5Pbr4EM7o_CgRekiGgqAPgfB9B5k8_AFRB2K4-B_9c0PDGXkffythxSu6mz5i0_V-vdJfhBL5pzQq-y977t6fRsJ8_I3cvxDnRmnQmgkCA14OPGCE7pabm-19Spo9lJxk2Cc0dLn0zsWuTyz7Q2mmdiGNhKatInUubmrWUFxuQhrDZWVgGcqTXIRwiR81BZH5cK75I54ZqZtuRFZ6_QVlqI53-ib_eHTFZmBqTaDtK9lPnVLm63RmvMomI="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbXfvi8sqhlF_JC61Ucv4I0q11N1hNKroHsvF0grfc9tgIdyhzajbMZCH33KO9mmlvnCcbQZ-5wK01wuLR5kUolo629UUoLafgr9K66z-AxtC8JdQGURsoLU9BA8PXPI1ePZxPDsls0jlN1scg3IoxWYq2pei30Y5O_iKIoWo0KPNAQnVZzIpZ3Y3byNFXMJ50hgNMzs0"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRLR2ZXQmctZxyvy4gufBV3tF6xggv9ai9XOXOK3ycVnuvgaMYLFVYYh6TGF1zYd1PspeVIDgRGjN3paY6MGaxCoVFs6wk2SdqhVX8z5YPxydRFUPyni5dr3ymOLN4Im6YVXdps72dF9_K5ozZ2T2oZcLpdaVjTC9UwibUkU8X93erRQAW72wX3OMPtHfHZsgmY7Emx8WR_VJwSozd1ZOiVmxOFQbZcNrfqxQx-qrMZCxeF8v"
+        }
+      ]
+    }
+  }
+}
