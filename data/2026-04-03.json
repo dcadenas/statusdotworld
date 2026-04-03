@@ -1,0 +1,468 @@
+{
+  "date": "2026-04-03",
+  "timestamp": 1775197352275,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates; Iran-US-Israel war ongoing, Strait of Hormuz blocked.",
+      "summary": "A month-long war involving Iran, the United States, and Israel continues to escalate, with President Trump threatening Iran and strikes targeting economic and civilian infrastructure. Iran has largely cut off the Strait of Hormuz, causing significant global economic disruption. Concurrently, new peace talks between Afghanistan and Pakistan are underway in China, aiming to de-escalate recent fighting.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran warned the UN Security Council against 'provocative action' amidst ongoing conflict and reported damage to health institutes and a destroyed bridge in Alborz Province."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel's military reported its air defenses were operating to down missiles fired from Iran as retaliatory strikes continue."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump has issued threats against Iran and the US military continues air strikes against Iranian infrastructure."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Lebanon's Prime Minister stated there is no end in sight to the war, which has displaced a million people as Hezbollah and Israel continue conflict."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The Strait of Hormuz remains largely closed to shipping by Iran, severely disrupting global energy supplies and prompting international discussions for reopening."
+        },
+        {
+          "name": "Urumqi, China",
+          "lat": 43.8267,
+          "lng": 87.6168,
+          "severity": "yellow",
+          "detail": "Pakistan and Afghanistan's Taliban government are holding new rounds of peace talks here, brokered by China, to achieve a ceasefire."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine is now the most mined country globally due to Russia's invasion, with new landmine technologies deployed by drones complicating demining efforts."
+        },
+        {
+          "name": "Mina al-Ahmadi, Kuwait",
+          "lat": 29.0833,
+          "lng": 48.1667,
+          "severity": "red",
+          "detail": "The Mina al-Ahmadi oil refinery was reportedly hit by Iranian drones."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI legislation advances in US states amidst global privacy concerns.",
+      "summary": "Several US states are actively legislating AI use, focusing on child safety, chatbot disclosures, and healthcare decision-making, while a Colorado work group proposed a revised AI policy framework for consumer protection. The UN Human Rights Office highlights the risks of pervasive AI surveillance and calls for a moratorium on high-risk AI systems without adequate safeguards. Ghana's national digital ID, the Ghana Card, activated a new 'digital wallet' feature, raising potential privacy considerations.",
+      "regions": [
+        {
+          "name": "Nashville, Tennessee, USA",
+          "lat": 36.1627,
+          "lng": -86.7816,
+          "severity": "green",
+          "detail": "Tennessee signed a bill prohibiting AI systems from falsely representing as qualified mental health professionals."
+        },
+        {
+          "name": "Lincoln, Nebraska, USA",
+          "lat": 40.8136,
+          "lng": -96.7026,
+          "severity": "green",
+          "detail": "Nebraska is advancing a chatbot safety bill, attached to a popular agricultural data privacy act."
+        },
+        {
+          "name": "Columbia, South Carolina, USA",
+          "lat": 34.0007,
+          "lng": -81.0348,
+          "severity": "green",
+          "detail": "South Carolina is moving a bill that requires social media platforms to verify age, obtain parental consent for minors, and set default minor account settings."
+        },
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "Georgia approved bills on chatbot disclosure, child safety, and prohibiting AI from solely determining insurance coverage for healthcare."
+        },
+        {
+          "name": "Denver, Colorado, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "green",
+          "detail": "Colorado's AI Policy Work Group announced support for a revised legislative framework governing AI and automated decision-making in consequential consumer decisions."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.556,
+          "lng": -0.1969,
+          "severity": "yellow",
+          "detail": "Ghana activated the 'digital wallet' payment feature of its national digital ID, the Ghana Card, raising potential data privacy implications."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The OHCHR highlights the risk of pervasive surveillance by AI systems and calls for a moratorium on high-risk AI without adequate safeguards."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Arctic sea ice at record low; global wastewater emissions underestimated.",
+      "summary": "Arctic sea ice extent for March 2026 tied with the lowest maximum ever observed, driven by warm atmospheric circulation in the Barents Sea. A Princeton-led study revealed that global wastewater greenhouse gas emissions are likely significantly underestimated. In a positive development, plant-based meat products received a 'climate solutions' certification for their substantial emission reductions compared to beef.",
+      "regions": [
+        {
+          "name": "Barents Sea",
+          "lat": 75,
+          "lng": 35,
+          "severity": "red",
+          "detail": "The Barents Sea contributed significantly to the lowest Arctic sea ice extent on record for March 2026, driven by warm, humid air."
+        },
+        {
+          "name": "East Bethel, Minnesota, USA",
+          "lat": 45.3994,
+          "lng": -93.2088,
+          "severity": "green",
+          "detail": "A research team here is studying how carbon is being stored in retired croplands to mitigate climate change."
+        },
+        {
+          "name": "Princeton, New Jersey, USA",
+          "lat": 40.3431,
+          "lng": -74.6596,
+          "severity": "yellow",
+          "detail": "A Princeton-led study found global wastewater greenhouse gas emissions may be underestimated by 19-27%."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's coal consumption and CO2 emissions hit record highs in 2025, despite significant renewable energy installations."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "Beyond Meat, based in California, had its burger and steak certified as climate solutions for reducing emissions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in Oregon; STIs rising in Chicago.",
+      "summary": "Oregon health officials issued warnings about measles exposure in the Portland metro area after confirmed cases, raising concerns about community spread. In Chicago, public health campaigns are addressing rising rates of HIV, syphilis, and congenital syphilis. Separately, a new study suggests BMI is an inaccurate health metric for over one-third of adults.",
+      "regions": [
+        {
+          "name": "Portland, Oregon, USA",
+          "lat": 45.5152,
+          "lng": -122.6784,
+          "severity": "yellow",
+          "detail": "Health officials warned of measles exposure with confirmed cases in Portland, West Linn, and Gresham."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The CDPH launched a campaign to promote sexual health and STI prevention, noting rising rates of HIV, syphilis, and congenital syphilis."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "green",
+          "detail": "The Illinois Department of Public Health (IDPH) launched '30 Days of Public Health' to raise awareness of public health services and health equity."
+        },
+        {
+          "name": "Ocala, Florida, USA",
+          "lat": 29.1872,
+          "lng": -82.1403,
+          "severity": "green",
+          "detail": "The Florida Department of Health in Marion County is hosting an event to highlight the Poison Help line and current trends in poison prevention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Strait of Hormuz blockade triggers global energy crisis, US tariffs maintained.",
+      "summary": "The ongoing Middle East conflict has led to Iran's closure of the Strait of Hormuz, causing critical global shortages of oil, gas, and fertilizers and driving up energy prices. Britain is coordinating international efforts to reopen the vital waterway. Meanwhile, the US administration maintained 50% tariffs on numerous imported metals and introduced new tariffs on imported drugs.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Its closure by Iran is causing critical shortages of oil, gas, and fertilizers, severely impacting global energy supplies and prices."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration maintained 50% tariffs on imported steel, aluminum, and copper, and unveiled new tariffs on imported drugs."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Britain is leading discussions with 40 countries to coordinate action to reopen the Strait of Hormuz and address the global economic impact."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's actions in the Strait of Hormuz are directly contributing to global economic instability and energy price surges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Social media use linked to declining democratic support, US political debates continue.",
+      "summary": "A study found that high social media use among Americans correlates with a decreased belief in democracy and increased openness to political violence. While some observers note a decline in democratic indicators, core institutions like independent courts and peaceful power transitions remain largely intact in the US. Ongoing political debates include discussions around presidential actions and birthright citizenship.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A study found higher social media use is linked to lower belief in democracy among Americans."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "An opinion piece discussed the ongoing debates about America's democratic health, noting the resilience of its institutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid dispatched to Iran and Cuba; Afghanistan crisis ongoing, Lebanon displacement severe.",
+      "summary": "Kyrgyzstan and Tajikistan dispatched humanitarian aid, including food and medicine, to civilians in Iran, likely impacted by the ongoing conflict and infrastructure damage. The humanitarian crisis in Afghanistan remains severe, with nearly half the population requiring assistance, while an additional €2 million in EU aid was released for Cuba due to an energy crisis and difficulties in food and water distribution. In Lebanon, the ongoing war has displaced one million people, creating a significant humanitarian crisis.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Kyrgyzstan is delivering 129 tons of food and medicine to civilians in Iran, following similar aid from Tajikistan, amid concerns about power outages and medical supply shortages."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "An estimated 21.9 million people, nearly half of Afghanistan's population, are in need of humanitarian assistance, including over 11.6 million children."
+        },
+        {
+          "name": "Bishkek, Kyrgyzstan",
+          "lat": 42.8746,
+          "lng": 74.5698,
+          "severity": "green",
+          "detail": "Kyrgyzstan dispatched a seven-truck convoy with 129 tons of food and medicine as humanitarian aid for Iran."
+        },
+        {
+          "name": "Dushanbe, Tajikistan",
+          "lat": 38.5739,
+          "lng": 68.7844,
+          "severity": "green",
+          "detail": "Tajikistan previously dispatched humanitarian aid to Iran."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "The European Commission released an additional €2 million in humanitarian aid due to worsening conditions, including an energy crisis and distribution difficulties."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The ongoing war in Lebanon has displaced one million people, creating a severe humanitarian crisis with no end in sight."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Commission, headquartered here, released additional humanitarian aid for the Cuban population."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xdm1tNk2C5RNNQ_prVwgK92hoeXU_VX7YfoeeOWaov4fJKU0zSJCwRMqiIgtwJYu0XvvpUVdARk7uANqAj43Ubn2_z7bbliO66GA57mpnHNWMUqI3PA1ZNrlwRPTT92z9dtc1Mu3J-aaZGE24xTI21c9KiMpRBuTDbtShcD5Vei06yBJilyTUd-CEurAmfxZg7it66646saBB9n1xrWJ0AAY0m0EZciiRN9gxneMaw60-npzw0R-9V4dGld1YA=="
+        },
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQZ7AL-eQBreX2iebSoJN2YXWTjVjRvw_8NLNLzXiC-0UUI2tPZDSmDMXLGvy495wt4vqm64MpvXeCBrNK_2YJSvDqJ9K0JGvgc__eC5S1sNrD6HJvVkxmCUuOvyt70A8H6zVxeVTU9WVDqyvM8orFAg4OxE6Nsx12xSwH2Vx5kBOwGOjm072GcCenQjd1w=="
+        },
+        {
+          "title": "sof.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr2Ltp-wnxlbQoil1jsV0Ako5fGR7Ea3vs5QcfY63lPUqWi8K_kPuHTmyNsVfED0nMcb8G8vcxlDt9HKtR9HSfXaQ54wO9TL5JOH0MGFVkyJO4UGjU0S2EilkrMZzN7p0h"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNPSHIhY0voEbtn54N71TUPMGJX6df2qfUCWFYluiJoTHTby11bCV4XOwoLMdkzD7bLMKNPpm_JwUd-Yj6sr2mHub8BXOJeE9JAdzbjtzrgyWN6WlYJGMA06S3FmutdHSnrsLuqdHOYp7WCXg5zIHyCjPpCVifc3F9L0ZtV64NbNbIjapfZkaahj6S3mn1wxrUdAhWgHjhTUIj3GBcVsQw5gWhBSYXqR9XnfqS-S8Xg=="
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM35LYLgu0u0c-XbD3FeJWBhDHWE8HLQRwaPVJd7pgWJJ0f_Zyr1NtL6AdWjSwVrJpm7MXgdVJpmDuLpRRqSiOaf0kwWAvZls-qGd-WRcWh0BHbBCPawYqyXpLE_VxHwfuKGQcWDgRu9xwRt3Qxm2OhxeOefAAHR0ZKiUJZ5wUgh5r6wevGCxkoYsTgUPFqrD1SZFwFIAY5BIs2FrW3OteAK_fA_Liz7JLDP7Tima1aaY5TjtG"
+        }
+      ]
+    }
+  }
+}
