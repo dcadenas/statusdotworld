@@ -1,0 +1,454 @@
+{
+  "date": "2026-04-04",
+  "timestamp": 1775283509899,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East war escalates; strikes in Lebanon, US A-10 targeted.",
+      "summary": "The 'Middle East war' continues to escalate, with Israel striking Hezbollah infrastructure in Beirut, Lebanon. Iran claimed to have targeted a US A-10 aircraft over the Strait of Hormuz, and UN Secretary-General Guterres warned of a 'wider war'. Pope Leo XVI urged peace in calls with Israeli and Ukrainian presidents.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel began striking Hezbollah infrastructure in Beirut, causing explosions."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Iran reportedly targeted a US A-10 aircraft over these waters, leading to its crash."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Pope Leo XVI discussed the humanitarian situation and urged peace with President Zelensky."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Pope Leo XVI discussed the need for diplomatic dialogue with President Herzog regarding the Middle East conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is actively involved in the Middle East war, with its forces being targeted and targeting others."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US forces are involved in the Middle East conflict, with a jet reportedly targeted by Iran."
+        },
+        {
+          "name": "Bannu, Pakistan",
+          "lat": 32.9774,
+          "lng": 70.5979,
+          "severity": "red",
+          "detail": "A police station was damaged by an overnight suicide bombing."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "UN Secretary-General António Guterres warned the world is 'on the edge of a wider war' in the Middle East."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN experts urge aid for South Sudan; digital rights under review.",
+      "summary": "UN experts called for immediate humanitarian aid and protection of civilians in South Sudan due to a catastrophic human rights and humanitarian crisis. The Office of the UN High Commissioner for Human Rights (OHCHR) is also seeking inputs on how new technologies, including AI, affect human rights defenders, raising concerns about surveillance and privacy.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "UN experts urged immediate protection for civilians amidst a catastrophic human rights and displacement crisis."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The OHCHR is based here and is conducting ongoing work on digital rights and AI safety, seeking stakeholder inputs."
+        },
+        {
+          "name": "Olympia, Washington, United States",
+          "lat": 47.0379,
+          "lng": -122.9007,
+          "severity": "green",
+          "detail": "Washington State enacted laws on AI likenesses and content to prevent misuse of digital replicas."
+        },
+        {
+          "name": "Denver, Colorado, United States",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "green",
+          "detail": "Colorado's AI Policy Work Group announced a revised framework for AI and automated decision-making."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Fossil fuels drive cost crisis; climate change displaces millions.",
+      "summary": "Experts warn that continued dependence on fossil fuels is driving a global cost crisis and exacerbating climate disasters. Climate change is already displacing millions globally due to drought, wildfire, flooding, and rising seas, highlighting the urgent need for a shift to clean energy.",
+      "regions": [
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "yellow",
+          "detail": "A commentary from Bonn emphasized that clean energy is the solution to both the climate and fossil fuel cost crisis."
+        },
+        {
+          "name": "Honolulu, Hawaii, United States",
+          "lat": 21.3156,
+          "lng": -157.8583,
+          "severity": "red",
+          "detail": "Hawaii is experiencing catastrophic flooding, along with extreme cold fronts on the East Coast and heat waves on the West Coast."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia is cited as a country already impacted by climate disasters, with forest loss increasing."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India is forecast to experience higher than normal heatwave days through June, raising the risk of power shortages."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Heavy rainfall and floods have killed at least 48 people and damaged communities after years of drought."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US reports measles cases; LA beaches under rain advisory.",
+      "summary": "The United States has reported 1,671 confirmed measles cases in 2026 as of April 2, with 94% being outbreak-associated. Separately, Los Angeles County beaches are under a rain advisory due to potential bacterial contamination from storm runoff. The Department of Health and Human Services announced a $144 million program to study the health effects of microplastics.",
+      "regions": [
+        {
+          "name": "Los Angeles, California, United States",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "Beaches are under a rain advisory until April 4, 2026, due to potential contamination from storm runoff."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "HHS announced a $144 million program to study microplastics and their effects on the human body."
+        },
+        {
+          "name": "Springfield, Illinois, United States",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "green",
+          "detail": "The Illinois Department of Public Health is observing '30 Days of Public Health' throughout April to promote health equity."
+        },
+        {
+          "name": "Atlanta, Georgia, United States",
+          "lat": 33.7488,
+          "lng": -84.3877,
+          "severity": "yellow",
+          "detail": "The CDC, based here, reported 1,671 confirmed measles cases in the US for 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war sparks global economic crisis, energy shocks.",
+      "summary": "The ongoing Middle East war, particularly the conflict involving Iran, has significantly impacted global energy and equities markets, leading to soaring oil prices and supply chain disruptions. The International Monetary Fund (IMF) warned that persistent conflict could lead to higher prices and slower growth worldwide.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Its virtual closure by Iran has roiled global energy markets, causing oil prices to skyrocket."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The IMF, headquartered here, has issued warnings on the global economic fallout from the Middle East war."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU is considering reviving energy-crisis measures used at the start of the Ukraine war."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France is considering new actions to electrify its economy and cut dependence on fossil fuel imports."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's involvement in the conflict is a primary driver of global economic instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democrats sue over Trump's mail-voting order; Maldives holds referendum.",
+      "summary": "A coalition of Democratic officials in the US is suing the Trump administration over an executive order to regulate mail voting, arguing it violates states' power to administer elections. Meanwhile, Maldivians are voting in a constitutional referendum that could reshape the timing of national elections.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Democratic officials are challenging a presidential executive order on mail-in voting."
+        },
+        {
+          "name": "Malé, Maldives",
+          "lat": 4.1756,
+          "lng": 73.5093,
+          "severity": "yellow",
+          "detail": "Voters are participating in a complex electoral exercise including a constitutional referendum."
+        },
+        {
+          "name": "Richmond, Virginia, United States",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "Virginia voters are narrowly supporting a redistricting measure to favor Democrats, with a referendum scheduled for April 21."
+        },
+        {
+          "name": "Boston, Massachusetts, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "A lawsuit against the Trump administration's executive order on mail voting is being filed here."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "UN experts urge aid for South Sudan; Canada supports Ukraine.",
+      "summary": "UN experts issued an urgent call for immediate humanitarian aid and civilian protection in South Sudan, which is facing a catastrophic crisis with millions displaced. Separately, Canada has allocated nearly $40 million USD in humanitarian assistance to Ukraine for healthcare, food, housing, and long-term recovery efforts. Azerbaijan also dispatched 200 tons of humanitarian aid to Iran.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "UN experts are calling for immediate humanitarian access and protection for civilians amid a displacement crisis."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Canada has allocated significant humanitarian aid to support urgent needs and long-term recovery efforts."
+        },
+        {
+          "name": "Baku, Azerbaijan",
+          "lat": 40.4093,
+          "lng": 49.8671,
+          "severity": "green",
+          "detail": "Azerbaijan dispatched 200 tons of humanitarian aid to Iran following a presidential directive."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Received humanitarian aid from Azerbaijan to support the needs of its people."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "The Canadian government announced over $51 million CAD in international assistance funding for Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_UxQBERWpIBeiYtMEjz3gllRUCo5odY74UpcQOVBmowosNMl7R-R6Yd0PW5vS2Oqsf9qDfJeTkNosQEg4jtOsYpvkb6M47HVqKHVOUiYvXWmWRwaX62UNPuqnoB-JTaeXHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECC3wO91sGW8pOCrqGSQWPLG7vPAlOnoMu5ngPKllxfxeNyC7OuHD5msLDA8-zVXBovU0xjMnaxK2c5BFhfuFECXOkKLo0yB4_eZMtqHI3tGOa02Qtt78zX_xEyslUU2sEmQpVFC0LPr8fcdQaVXg_0jRML47LnXhGjJpxu8A="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn6VuGlX9g4xY8hSiTTbFZlPs-R7PiSBi6is3uIeXm_em5Gfc8rVIsaRqMLMaaCLUjs-cmhmcAxf_JBIGkrbfz4qu9IDgdOlEH4RouUjQn0HbcxU9G7Hez7zKZ0vMATiz791a8ob7WsC0ST0tT2BmO90AZnonjWPJg-U0LNDbpsWUxRaC5pDwfTNa7Gx79KXyA0RVp94OqGCPlmoz2E7wtqYQIHHBjQwt2cz6zUCMo88C9EhlFKg=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDFYaI8N9_hli2-3BmsQb0idv3VjdFQ87OZQDBRq6p_KWCdnam7AQ8FenTJhP5F0xgO_UaeGFE4ibtEk0Kz-lQzrlcQJy7M5Ezbg8_AndAPFjBgOog2K6xcxLSLmfHLUIUXfNjmltGWXVjhrs0ByG_aLXbYgNH9fqLQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1JVMc3ymOYNkXW3vvi8IqmObeOu66vsDqKmEXtk622-wQCGBlLxEovuBEf05j5msd_DublZG6kQ5nbAHTKE9H6GcqEiMBIjXAlCf2dk1QJnSJFHesG9rO_AgSrvPLNqf2WqKKFs="
+        }
+      ]
+    }
+  }
+}
