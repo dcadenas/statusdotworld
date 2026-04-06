@@ -1,0 +1,489 @@
+{
+  "date": "2026-04-06",
+  "timestamp": 1775457158131,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with US-Iran tensions and missile strikes",
+      "summary": "On April 6, 2026, the Middle East is facing a severe escalation of conflict, with multiple missile and drone strikes reported across Iran, Israel, Kuwait, and the UAE. US President Trump has issued an ultimatum to Iran regarding the Strait of Hormuz, threatening strikes on critical infrastructure, while Iran has launched fresh attacks and threatened retaliation.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Airstrikes have killed more than 25 people, with residential buildings and a university damaged."
+        },
+        {
+          "name": "Haifa, Israel",
+          "lat": 32.7941,
+          "lng": 34.9896,
+          "severity": "red",
+          "detail": "Two people were found dead and two missing after an Iranian attack."
+        },
+        {
+          "name": "Petah Tikva, Israel",
+          "lat": 32.0865,
+          "lng": 34.8877,
+          "severity": "red",
+          "detail": "A woman was seriously injured by shrapnel from an Iranian missile strike, and cars caught fire."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "yellow",
+          "detail": "A Ghanaian citizen was injured by shrapnel after an Iranian missile interception over Mussafah."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3117,
+          "lng": 47.4818,
+          "severity": "yellow",
+          "detail": "The city reported a barrage of missile and drone strikes."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Lebanon has been increasingly drawn into the conflict, with Israeli strikes."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US President Trump issued an ultimatum to Iran, threatening strikes on critical infrastructure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights concerns in Indonesia; Iran executes protester",
+      "summary": "Indonesia's government faces criticism for restricting Wikimedia platforms, raising concerns about digital rights and freedom of expression. In Iran, a man was executed over January protests, with Amnesty International citing torture and unfair trials. Additionally, a human rights activist in Singapore is scheduled for trial for organizing peaceful gatherings.",
+      "regions": [
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Government's temporary restriction on Wikimedia platforms sparked concerns among digital rights advocates."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "A man was executed over January protests, facing charges stemming from alleged storming of a military base."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "Human rights activist Jolovan Wham is scheduled to stand trial for organizing peaceful gatherings."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US states are enacting AI regulations covering chatbot safety and mental health impersonation, raising questions about broader AI safety and privacy."
+        },
+        {
+          "name": "Columbia, South Carolina, USA",
+          "lat": 34.0007,
+          "lng": -81.0348,
+          "severity": "yellow",
+          "detail": "Lawmakers introduced a resolution to overturn marriage equality and debate continues on a discriminatory anti-trans bathroom ban."
+        },
+        {
+          "name": "Ann Arbor, Michigan, USA",
+          "lat": 42.2808,
+          "lng": -83.743,
+          "severity": "yellow",
+          "detail": "The University of Michigan's Faculty Senate Assembly passed a resolution addressing campus surveillance and its potential impact on freedom of expression."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Debate continues on potential withdrawal from or radical changes to the European Convention on Human Rights."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "red",
+          "detail": "China arrested 300 Hikvision employees, exposing alleged backdoors in surveillance systems used by Iran and Venezuela."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "AI's growing energy demand strains climate goals; marine food chain impacted",
+      "summary": "The increasing energy demands of Artificial Intelligence are challenging Big Tech's climate commitments, leading to concerns about prolonged reliance on fossil fuels. Additionally, a new study reveals that climate change is significantly altering phytoplankton, the base of the oceanic food chain, impacting marine life and potentially global food security.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "AI's energy demands are complicating Big Tech's climate goals, with emissions rising for major tech companies."
+        },
+        {
+          "name": "Arctic Ocean",
+          "lat": 90,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Warming polar regions are causing changes in phytoplankton composition, affecting the marine food web."
+        },
+        {
+          "name": "Amazon Basin, Brazil",
+          "lat": -3.4653,
+          "lng": -58.3846,
+          "severity": "yellow",
+          "detail": "New algorithms are being developed for faster detection of forest loss in tropical regions, highlighting ongoing deforestation challenges."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "Data centers for AI could consume 8% of India's grid by 2030, requiring significant infrastructure upgrades and renewable energy expansion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Trump budget cuts threaten US public health; local efforts ongoing",
+      "summary": "President Trump's proposed 2027 budget includes substantial cuts to federal health programs, including the NIH and CDC, raising concerns among health advocacy groups. Meanwhile, several US cities and counties are observing National Public Health Week with community events focused on emergency preparedness, disease prevention, and community health.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's proposed 2027 budget includes billions in cuts to federal health programs, drawing criticism from health advocacy groups."
+        },
+        {
+          "name": "Suffolk, Virginia, USA",
+          "lat": 36.7285,
+          "lng": -76.5833,
+          "severity": "green",
+          "detail": "The Western Tidewater Health District is sponsoring activities for National Public Health Week, focusing on community healthcare needs."
+        },
+        {
+          "name": "Mobile, Alabama, USA",
+          "lat": 30.6954,
+          "lng": -88.0399,
+          "severity": "green",
+          "detail": "The Mobile County Health Department is celebrating National Public Health Week, emphasizing vaccination, disease surveillance, and food safety."
+        },
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "The Los Angeles County Department of Public Health is showcasing programs during Public Health Week, including emergency preparedness events."
+        },
+        {
+          "name": "Reyhanli, Turkey",
+          "lat": 36.2346,
+          "lng": 36.3986,
+          "severity": "green",
+          "detail": "KSrelief completed 18 cochlear implant surgeries as part of a humanitarian medical project."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict cripples oil supply, threatens global recession",
+      "summary": "The ongoing Middle East conflict, including the closure of the Strait of Hormuz by Iran, has caused the largest oil supply disruption in history, sending global oil prices soaring. This unprecedented energy shock is weighing heavily on the global economy and threatens to plunge global markets into turmoil and recession.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran's closure of this critical passage has caused the largest oil supply disruption in history."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The war has directly impacted Iran's economy and infrastructure, leading to a state of conflict and oil distribution challenges."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The surge in oil prices and supply disruptions are causing global economic uncertainty and threatening a recession."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "The ASEAN+3 Regional Economic Outlook highlights increased downside risks to regional growth due to the Middle East conflict."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US President Trump's threats against Iran are exacerbating global economic instability and oil market volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy faces challenges over voting rights and constitutional debates",
+      "summary": "In the US, President Trump's executive order on mail-in voting has sparked five lawsuits from states and pro-democracy groups, raising concerns about voting rights. Debates continue on constitutional issues, including a challenge to an executive order restricting citizenship for US-born citizens with non-citizen parents, and a resolution in South Carolina to overturn marriage equality.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's executive order on mail-in voting has drawn multiple lawsuits from various groups. The US Supreme Court is also hearing arguments on constitutional challenges."
+        },
+        {
+          "name": "Columbia, South Carolina, USA",
+          "lat": 34.0007,
+          "lng": -81.0348,
+          "severity": "yellow",
+          "detail": "Lawmakers introduced a resolution seeking to overturn marriage equality, and a discriminatory anti-trans bathroom ban is being debated."
+        },
+        {
+          "name": "Madison, Wisconsin, USA",
+          "lat": 43.0718,
+          "lng": -89.4042,
+          "severity": "yellow",
+          "detail": "Two candidates for the State Supreme Court engaged in a heated debate on controversial political issues, reflecting increasing judicial polarization."
+        },
+        {
+          "name": "Latvia",
+          "lat": 56.8796,
+          "lng": 24.6032,
+          "severity": "green",
+          "detail": "The Constitutional Court held unconstitutional a regulation requiring state-funded media in languages other than Latvian, citing national security."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Middle East war obstructs critical humanitarian aid to millions globally",
+      "summary": "The ongoing war in the Middle East is severely disrupting global humanitarian supply chains, making it difficult to deliver food and medicine to millions in need. Key shipping routes, including the Strait of Hormuz, are shuttered, forcing aid groups to use costlier and more time-consuming alternative routes.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Greenpeace is joining a flotilla aiming to break the siege and deliver life-saving humanitarian aid, amid warnings of genocide and engineered starvation."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The closure of this vital waterway is severely affecting global humanitarian supply chains."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The war has caused widespread damage and over 3.2 million internally displaced people."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Over 1 million people are displaced, and the US is releasing additional emergency assistance."
+        },
+        {
+          "name": "Port Sudan, Sudan",
+          "lat": 19.6105,
+          "lng": 37.2164,
+          "severity": "red",
+          "detail": "Aid groups are forced to reroute supplies, adding significant delays and costs, threatening medicine shortages."
+        },
+        {
+          "name": "Reyhanli, Turkey",
+          "lat": 36.2346,
+          "lng": 36.3986,
+          "severity": "green",
+          "detail": "The King Salman Humanitarian Aid and Relief Center completed a project providing cochlear implant surgeries."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission is taking preparatory steps for financial support to Ukraine and boosting drone production, which can impact humanitarian logistics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvxv6XR4uFMw9I3jMutpFzSd2etHiBNZm8Z1nSqWFyaUgd0X35Ir37TeIrTtdSrLBKm8kVT4Z_5TQCdzvddKUZhngXq2myudBsvunvv8YiFkzRlzQdtAQ86YBmeIQ4C_KpSGbj-HFgsT25kI9lyVofD2JFlsEjDy2r1c="
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0QDUuRY_wSGR5eB67cBhZs-E3UT8of8vJFhS23ZRW1Vp3Hw7QGonh9qCTwVMemLLpmGM5C2A_b-OAG6X5-4winBFdl0hbXCeGh0K5Off5IhqP58GdF2__SBFkfzm"
+        },
+        {
+          "title": "newsasfacts.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-VCzKVnZIX4G0eNMIWXu520jW9GadmOvuNozxAccGsWAXU1QZYXqWlStQWFbCRT2x3yDYgawwi1TGzkB-MxEUAE1lvCIPZ2OJmX4UOU8WTu45b35g9nWJ0T-4LoHu"
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vFvruLvGiEKO-9BL2pdkw4TjWCnLSSZUg2dhVZ2ebL2MjVmkkDuazkBNkQzYZ8JhfeV181ehn-49_RbWn_zIPcLD5xRWNd-2uNHIwjmQU4YFlZXEreoP6DIih51xHlkhrhvtEsqlCPGwSgMrScddiC-rDlJ6DoFjsoYwnFZJo-pPhCT1-mI="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHJypkodVOzIbbAiQNcyjaUdSYKAW7iPjWyDcD9Y-K93qN8zj6wUOQjy6UvKnTaEDuRH5hpuvT5yjPCpR-4mXsWHFJiZnRIbBBQjkO-vgDsH-s19bI2sbej-n8eZrdlDb6yMrY_OE0_rMPlLjUBG8pd7UCssX-rqxj00JosqLzec-KRPfUUlihRA3rKgzr0f3UQlVnCFMePXFk7suaVw7qlqjUD9ZsfEq07zA4bfWBZ3pNQRY644suqb_l5sHP_G60F99lJmRop8g="
+        }
+      ]
+    }
+  }
+}
