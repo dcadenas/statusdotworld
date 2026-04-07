@@ -1,0 +1,475 @@
+{
+  "date": "2026-04-07",
+  "timestamp": 1775543243902,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with US-Iran ultimatum, Israel strikes",
+      "summary": "Tensions in the Middle East reached a critical point as US President Trump issued an ultimatum to Iran regarding the Strait of Hormuz, threatening severe consequences for non-compliance. Israel launched airstrikes on Iranian infrastructure, and Iran responded with missile launches toward Saudi Arabia, signaling a major escalation of the ongoing conflict that has already claimed thousands of lives.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Israeli military reportedly completed a wave of airstrikes targeting government infrastructure in Tehran and other areas."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump issued an ultimatum to Iran regarding the Strait of Hormuz, threatening 'hell' if his demands are not met."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "The Israeli military conducted airstrikes on Iranian infrastructure and faced heavy rocket volleys from the region."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran has effectively closed the vital waterway, leading to supply disruptions and surging oil prices globally."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Mass killings continued in Gaza even after a declared ceasefire, with thousands of children reported missing or killed."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel has reportedly invaded southern Lebanon and struck Beirut in its conflict with Iran-backed Hezbollah militants."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "The opposition leader embarked on a 'journey for peace' to China amidst rising tensions and US arms sales."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China has reserved offshore airspace for 40 days in an unusual move often associated with military exercises, heightening regional concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Israel institutionalizes Palestinian executions; Gaza child casualties soar",
+      "summary": "Israel passed a controversial law institutionalizing the execution of Palestinians convicted of fatal attacks, significantly expanding its legal system to target and strip Palestinians of rights. In Gaza, over 8,000 children are reported missing and more than 21,500 killed after 29 months of Israeli attacks, amidst documented systematic abuses in detention.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Over 8,000 children are missing and 21,510 killed after 29 months of Israeli attacks, with thousands of bodies under rubble."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "A new law institutionalizes the execution of Palestinians, expanding a legal system accused of systematic abuse and denial of rights."
+        },
+        {
+          "name": "Bayanga, Central African Republic",
+          "lat": 2.98,
+          "lng": 17.81,
+          "severity": "green",
+          "detail": "A human rights center has opened, providing Indigenous Ba'aka people with access to justice, identity cards, and political participation."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Supreme Court is reviewing an executive order that challenges birthright citizenship, raising concerns about human rights ideals."
+        },
+        {
+          "name": "Connecticut, United States",
+          "lat": 41.6032,
+          "lng": -73.0877,
+          "severity": "yellow",
+          "detail": "Advocacy groups are working to strengthen civil liberties, privacy, and government accountability, and to limit surveillance technologies."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "EU proposals to 'simplify' tech laws are raising concerns about a potential rollback of digital rights to facilitate AI."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "US climate policy shifts spark concern despite renewables growth",
+      "summary": "While renewable energy reached nearly half of global power capacity by the end of 2025, concerns are rising due to the US risking momentum by diverting funds from offshore renewables to fossil infrastructure. Health and environmental groups are suing the US EPA over the repeal of mercury emission standards.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US risks reversing climate momentum by shifting funds towards fossil fuels, and faces a lawsuit over repealed mercury standards."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China launched a new AI-powered weather forecasting project to enhance early warning capabilities for extreme weather in Belt and Road countries."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "Renewable energy accounted for nearly half of global power capacity by the end of 2025, driven by significant growth in solar and wind."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "World Health Day highlights collaboration amidst US public health funding cuts",
+      "summary": "World Health Day 2026, themed 'Together for health. Stand with science,' emphasized global collaboration through the International One Health Summit and a forum of WHO Collaborating Centres. However, concerns persist over the erosion of public health infrastructure in the US due to federal policy decisions impacting research funding and agencies.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization marked World Health Day 2026, focusing on global scientific collaboration and a One Health approach."
+        },
+        {
+          "name": "Lyon, France",
+          "lat": 45.764,
+          "lng": 4.8357,
+          "severity": "green",
+          "detail": "France hosted the International One Health Summit as part of World Health Day 2026 events."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Milken Institute School of Public Health rose in national rankings, but concerns remain about federal funding cuts impacting public health infrastructure."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0305,
+          "lng": 38.7485,
+          "severity": "green",
+          "detail": "Africa CDC appointed senior advisors to accelerate health security and sovereignty across the continent."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine received UAH 31 million in medical humanitarian aid in March, highlighting ongoing health needs due to conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict drives oil prices up, fuels stagflation fears",
+      "summary": "The ongoing Iran war is causing significant global economic instability, with Brent crude prices surging above $110 per barrel due to the effective closure of the Strait of Hormuz and strikes on Gulf energy sites. This situation is intensifying global inflation and stagflation fears, leading to expectations of slower growth and potential recessions in some economies.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran's effective closure of the strait is severely disrupting global oil and gas supplies, driving up prices."
+        },
+        {
+          "name": "Gulf Region",
+          "lat": 27,
+          "lng": 51,
+          "severity": "red",
+          "detail": "Strikes on energy sites in the Gulf are contributing to supply disruptions and global stagflation fears."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US inflation is projected to remain well above target, with central banks facing a challenge in balancing inflation and growth."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Inflation in the Philippines jumped to 4.1% in March, its highest level in nearly two years, driven by rising energy prices."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Asian equity markets, including Tokyo, showed mixed reactions amidst Middle East tensions and rising oil prices."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "Samsung reported soaring first-quarter profits, driven by strong sales of chips for artificial intelligence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Vietnam consolidates power, echoes China; Cayman Islands bolster opposition",
+      "summary": "Vietnam's Communist Party General Secretary To Lam was unanimously elected president, consolidating his control and departing from traditional shared leadership, echoing China's power structure. In contrast, the Cayman Islands introduced a bill to strengthen parliamentary democracy by providing funding to the Opposition for accountability.",
+      "regions": [
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "red",
+          "detail": "The unanimous election of To Lam as president consolidates his power, departing from shared leadership traditions and echoing China's authoritarian structure."
+        },
+        {
+          "name": "George Town, Cayman Islands",
+          "lat": 19.2887,
+          "lng": -81.3653,
+          "severity": "green",
+          "detail": "A new bill aims to strengthen parliamentary democracy by funding the Opposition, recognizing its crucial role in government accountability."
+        },
+        {
+          "name": "Madison, Wisconsin, United States",
+          "lat": 43.0731,
+          "lng": -89.4012,
+          "severity": "green",
+          "detail": "Democrats are campaigning to increase liberal control of the state Supreme Court in a standard electoral process."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Supreme Court is reviewing an executive order challenging birthright citizenship, which some argue undermines core democratic ideals."
+        },
+        {
+          "name": "Philadelphia, United States",
+          "lat": 39.9526,
+          "lng": -75.1652,
+          "severity": "green",
+          "detail": "Researchers were awarded grants to study how media ecosystems and AI shape public understanding and democracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza child crisis deepens; Rohingya aid funding cut critically",
+      "summary": "A severe humanitarian crisis in Gaza continues, with over 8,000 children missing and more than 21,500 killed amidst constrained aid access and ongoing hardship. Simultaneously, critical aid funding for Rohingya refugees in Bangladesh has been significantly cut, particularly for fuel, threatening food security and increasing instability.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Over 8,000 children are missing and 21,510 killed, with aid access severely constrained and families facing ongoing hardship."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 92.0058,
+          "severity": "red",
+          "detail": "Aid funding for fuel in Rohingya refugee camps has significantly faltered, threatening food security and increasing instability."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine received UAH 31 million in medical humanitarian aid in March, supporting continuous healthcare amidst conflict."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "The ICRC continues to provide healthcare and strengthen first aid and emergency care across the country."
+        },
+        {
+          "name": "Middle East Region",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Strikes persist across the region, further exacerbating humanitarian needs and challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbNITt-mNhWj9-Fp6Ihv29jgniNrqqBGDb-zS8RLpKBXyH3RDj7Vr6qWvqOoD6gK6APS-TWZ5UDSar9-t_9N_POky9-bLCxjCmJ8dI2TNtKuoqLZqxhk6ql268GxBiOv9jGCj2dNL7TwoW06IDI6eUtT3CHk="
+        },
+        {
+          "title": "heygotrade.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfCp7PpvQPmN-4qKzhA21u6Uj8OCam10eRgSwQoQ4Hp-HG0MsUtI0vfZUnvk_KM0vs5yr5selLqAaj94jr4mx90_M6hbWJqDMmv7IqSLrno21pR0A3QL05QWBaOoOgBUPb-Tz02MROeySwTl2EN1PTOo4bSZFM45BSN_hrUVnrBSHzeA=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxrkvos9xGDuRHDiFGUuRnpdSG-XEUZHYmlTP7tFFD4BP7E7AKGA0izbRsplIVS59aynxoZ4cIV1d6f6VEHihRH-wYRhx8IZq2yj1bK4NHE_5Lh8ONEPT9sNY6SITQpf8lk1Xx24tw8ejZF96Qu8TlUBidEyqZaMVzyn6PPdhl_0fSWPoRzZsA-jFMRa_C3I8EgbIap4gIzcLj6qOu2AiYbNpDnb37u9VhoiI1wE4BpXIvDyk1IVw="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUspAR-RtXqBlFa8Jbfg0S0Qd2oHganKfY2-ZfCIGsYGEunTtyVKKVx6S2UPm98DoWwzs-1DnP9b72nWfwO7dpCxsPFOOhaKsi_yaga0PSiXRV5QnZaMrWiA-u54b5eTzDgAHq-zu4GkbZtOxSI6GjU9f9dfrvBxn_2cKz_TvqBdosR7MLVAsTR--h071maEGASVH7Gq8I6-8Y65ytQeLJ2p15vys2oyabScVJoe1iqo="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1WYdGMx4sfqKD2PIjRc4snaqtGagYyEJub56jUXz8EVN43n9umPtguv04JliA5UAtQv6vfEhhhG8e5GWwN5iyFD-Xe4Aj1CdemwbPuCERbH-JqnNbPawimjGCKq8OafwwqAY9cyV7_k8J5HKOW_S5TLfQQMyh0suhPVWkP-69sr6kYYYqM8c5JWOrTrRzVGuM9YQktHbEXBGkIU1PnPq8MeShyB_SzkqcP1V5-mPBk1daEHYNGvkSyuo3kN0rZyKSygDXCI="
+        }
+      ]
+    }
+  }
+}
