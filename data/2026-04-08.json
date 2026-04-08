@@ -1,0 +1,447 @@
+{
+  "date": "2026-04-08",
+  "timestamp": 1775629701315,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US, Iran agree to two-week ceasefire amid Mideast conflict, but violations occur.",
+      "summary": "A two-week ceasefire between the US and Iran has been announced, brokered by Pakistan, aiming to de-escalate a six-week-long conflict that has claimed over 5,000 lives. However, Iran reportedly launched missiles towards Israel hours after the truce, and concerns remain about the stability of the agreement and the reopening of the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran confirmed the ceasefire but also reportedly launched missiles towards Israel and attacked Bahrain and Saudi Arabia after the truce."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel agreed to the ceasefire but expressed skepticism and was targeted by Iranian missiles."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump announced the ceasefire and praised it as a step towards world peace."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7298,
+          "lng": 73.0954,
+          "severity": "green",
+          "detail": "Pakistan mediated the ceasefire and invited both sides for talks on April 10."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Air raid sirens were activated across Bahrain following an Iranian attack."
+        },
+        {
+          "name": "Jubail, Saudi Arabia",
+          "lat": 27,
+          "lng": 49.6667,
+          "severity": "red",
+          "detail": "Iran reportedly struck the Jubail petrochemical area."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "Houthi forces, an Iran-backed group, were involved in the broader conflict with concerns about shipping targets."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Israel states the ceasefire does not cover fighting in Lebanon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI's autonomous hacking raises cybersecurity and safety concerns.",
+      "summary": "Anthropic's new AI model, Mythos, has demonstrated autonomous hacking capabilities to find zero-day vulnerabilities, prompting concerns about AI safety and security in critical infrastructure. Meanwhile, Cuba continues to face a humanitarian crisis exacerbated by a US oil blockade, hindering access to essential services and aid.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Anthropic, a US-based AI company, developed the Mythos model, raising concerns about AI safety and autonomous hacking."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "Cuba is experiencing a worsening humanitarian crisis due to a US-imposed oil blockade, impacting healthcare and other essential services."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "green",
+          "detail": "A 'Sovereign AI Factory' initiative aims to ensure full control over data and regulatory compliance for AI."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Japan is one of the initial markets for the 'Sovereign AI Factory' initiative, addressing data sovereignty concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change shows transgenerational impacts, Super El Niño expected.",
+      "summary": "A new study reveals that climate shock-induced changes in animal development can persist for generations, highlighting long-term environmental impacts. Additionally, a strong 'super El Niño' event is increasingly probable for 2026, which could further amplify climate risks. The World Bank is providing support to the Marshall Islands to strengthen urban resilience against climate and disaster risks.",
+      "regions": [
+        {
+          "name": "Liverpool, United Kingdom",
+          "lat": 53.4084,
+          "lng": -2.9916,
+          "severity": "yellow",
+          "detail": "Research from the University of Liverpool detailed transgenerational effects of climate shock on animal development."
+        },
+        {
+          "name": "Majuro, Marshall Islands",
+          "lat": 7.1171,
+          "lng": 171.1833,
+          "severity": "yellow",
+          "detail": "The World Bank is providing new support to strengthen urban resilience against climate and disaster risks."
+        },
+        {
+          "name": "Wales, United Kingdom",
+          "lat": 52.3213,
+          "lng": -3.829,
+          "severity": "yellow",
+          "detail": "Experienced an 'unprecedented' surge in grass fires in 2025, highlighting increasing extreme weather."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France experienced extraordinary early April heat, with temperatures reaching 33°C."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spain saw extreme heat and numerous April temperature records pulverized."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO emphasizes science amid growing global health threats.",
+      "summary": "On World Health Day 2026, the WHO reiterated the importance of global cooperation and science in addressing health challenges, while acknowledging increasing threats from climate change, environmental degradation, and geopolitical tensions. In Cuba, the ongoing US oil blockade has severely disrupted healthcare services, leading to postponed surgeries and delayed immunizations for thousands. A new Lancet Commission is also investigating the public health crisis from sea-level rise.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Headquarters of the World Health Organization (WHO), which marked World Health Day 2026 and highlighted increasing health threats."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "A US oil blockade has led to significant disruptions in healthcare services, including postponed surgeries."
+        },
+        {
+          "name": "Raleigh, North Carolina, United States",
+          "lat": 35.7796,
+          "lng": -78.6382,
+          "severity": "green",
+          "detail": "World Health Day discussions highlighted its relevance for immigrants seeking health access and safety."
+        },
+        {
+          "name": "New Orleans, Louisiana, United States",
+          "lat": 29.9511,
+          "lng": -90.0715,
+          "severity": "yellow",
+          "detail": "The Lancet Commission is investigating the public health crisis from sea-level rise, impacting vulnerable communities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mideast ceasefire calms markets, but geopolitical risks remain high.",
+      "summary": "Global stock markets surged and oil prices plunged after the announcement of a two-week ceasefire between the US and Iran, easing immediate concerns over energy supply disruptions. Despite this positive market reaction, a survey of central banks revealed that geopolitical tensions remain their top global risk, replacing trade protectionism.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "yellow",
+          "detail": "The agreed reopening of this vital chokepoint, part of the ceasefire agreement, caused oil prices to drop significantly."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US stock futures rallied over 2% following the ceasefire news."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "India's Sensex and Nifty indices soared by nearly 4% due to the ceasefire and falling crude oil prices."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Central banks, many based in major financial hubs, view geopolitical tensions as the top global risk."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Japan's Nikkei 225 gained 5% in early trading."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korea's Kospi soared 5.9%."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "No major democratic shifts; Iran protest follows ceasefire.",
+      "summary": "There were no widespread reports of democratic erosion or major elections on April 8, 2026. However, a pro-government protest in Tehran after the US-Iran ceasefire saw demonstrators chanting against 'compromisers,' indicating ongoing internal political sentiment in the country.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "green",
+          "detail": "A pro-government protest was held after the ceasefire announcement, with protesters chanting against 'compromisers.'"
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Cuba needs urgent aid; Mideast conflict hampers global efforts.",
+      "summary": "The UN has called for immediate international support for Cuba, where a US-imposed oil blockade has exacerbated a humanitarian crisis, severely impacting access to essential services. Concurrently, aid groups are warning that the ongoing conflict in the Middle East is hindering the global delivery of food and medicine to millions in need. The Asia and the Pacific region also outlines significant humanitarian needs for 2026, with over 46 million people requiring assistance.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "The UN has requested immediate support for Cuba due to a worsening humanitarian crisis caused by a US oil blockade."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "yellow",
+          "detail": "The UN is scaling up its presence to expand life-saving operations as the conflict approaches its third year."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing Middle East conflict is hindering aid groups' ability to deliver food and medicine to millions."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7298,
+          "lng": 73.0954,
+          "severity": "green",
+          "detail": "Pakistan's mediation in the ceasefire has implications for humanitarian access in the broader Middle East."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "Afghanistan has 22.5 million people in urgent need due to earthquakes and drought, as highlighted in the regional overview."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8053,
+          "lng": 96.1561,
+          "severity": "yellow",
+          "detail": "Myanmar has 16.2 million people in urgent need due to conflict and earthquake recovery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2NmDjXLsE7zFEgEt2aOMwRe7KR3udFqLjfd6IwUHJ0bMICcmTMbCDnfpMIgHZcOuDVEs5DMpV3EP4KGozThF9YnIV9MEG63XM3BVAwcP8bTtZFAr_eMu_uYaMIf1aQyLtfsr6Lt5wz3esS9THGNj3RpWfm8kuaQj_mBT73-cdFPA9TYIDK2CTmZtxx5uhzgHLL_fhEe24Xd7prZ4rXgyA5dIonSG-nWJymbhZCynZg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeuMboUTWZMpPZdslXn7FmBXghnWRVA_x-z-a3EvRfcMxJc77BawWbvBr9Xi0iMjA83y4ptXIXdaG11MJffn_gJWnR9Qzz4YaKUl49sBY8fgfKF4I6dhWW_JbWH53n-tlpqbLNpVpaDtwM6R0bCMu_RTbKy3bx1wJproGXFLoFjErBrxDiYPwQ2J1xATZZlYNMUJY2ieaDe_gElghdBB1FI4xtTPc-DRoOVISGGHMQGOrpSnmayDBTJveJBUNO"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qJiKKykKoLcSMC8mM8AEyyQlI7uGqPQvaMIKwVyBF2GFKBakYJ6ylQMlsZzBYPyMKr4xGmSwIR3Sc2GzNFmCYMUG52SPCLZK-9XBYyghOGSH5gW_y6jHY1xexoKl4aiRzYHBWlZJU90lxDU8UYXMZuHbT32_vnhlxSJeX90fRPJPWIccv1zM9z8SejCsgr1oHok7xhj8z0uNRRE8qZPysoYKTwkG0g=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQruI1mueSBfciJrZ8QQwKR2YQPIIU5L93qZl7tVAKLIZAfSuyLiLmwPLURAj_ExBpXw2-LN1XNohzaSMBHO5aefjrpRCwrIsTJnyeEvmM71EfgX1MAm1P31WKyCo4rdGE2QxeALuo6cJ5q1FW-V5"
+        },
+        {
+          "title": "thefederal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ1lmw-z2aC2lEodA5ME2lXy9p2e0DBt6JZ3sOG1qkMTJgzIHxhS-U-UWDXUfay874aOgnxLNp_Q1dEF4XTCCf4MBM7otl5yByPvKfmb7tFKdqJchdMNsQTJuNex5dRAejG2rD5H-_xek_yY9xevDoyLTFxsKcMckF88gZ6wKvYtnPRG8WH8xCizsST4cDOGlyYc-l8Idniaa8CmFLBh3N"
+        }
+      ]
+    }
+  }
+}
