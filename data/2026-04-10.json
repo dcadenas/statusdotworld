@@ -1,0 +1,461 @@
+{
+  "date": "2026-04-10",
+  "timestamp": 1775802763004,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran-Israel War continues amid shaky ceasefire and regional clashes.",
+      "summary": "The Iran-Israel war persists with a tenuous two-week ceasefire strained by Israeli strikes in Lebanon and US accusations of Iran breaching agreements on the Strait of Hormuz. US Vice President Vance is heading to Pakistan for mediated talks, while the Tehran Peace Museum highlights civilian casualties in Iran, calling the conflict 'unlawful and unprovoked'. Calls for peace are also heard in South Sudan following a mining worker massacre, and China hosted talks between Pakistan and Afghanistan amidst ongoing border hostilities.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The Tehran Peace Museum condemned the 'unlawful and unprovoked' war, reporting civilian casualties from a US missile strike in Minab."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Deadly Israeli strikes occurred, killing a close adviser to Hezbollah, and an Italian UNIFIL convoy was fired upon in southern Lebanon."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "This critical waterway remains a point of contention and blockade, with the US accusing Iran of breaching ceasefire terms regarding its reopening."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "US Vice President JD Vance is en route to lead mediated peace talks between the US and Iran amidst a shaky ceasefire."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "yellow",
+          "detail": "Calls for peace were made after gunmen killed 74 mine workers in Jebel-Iraq, highlighting ongoing internal conflict."
+        },
+        {
+          "name": "Urumqi, China",
+          "lat": 43.8235,
+          "lng": 87.6166,
+          "severity": "yellow",
+          "detail": "China hosted peace talks between Pakistan and Afghanistan, as Pakistan vows continued military action against militants using Afghan soil."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights at risk; EU law lapse on child protection; AI surveillance concerns.",
+      "summary": "The European Parliament blocked the extension of a law allowing big tech to scan for child sexual exploitation, creating a legal gap despite companies pledging to continue efforts. This development, coupled with ongoing discussions by the OHCHR on surveillance, algorithmic bias, and the misuse of AI, highlights growing concerns about digital rights and privacy. Furthermore, the Iran war has led to reports of violations of international human rights and humanitarian law.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Parliament's decision not to extend a law allowing tech companies to scan for child sexual exploitation has created a legal gap."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The OHCHR continues to address challenges to human rights in the digital space, including surveillance and algorithmic bias."
+        },
+        {
+          "name": "Minab, Iran",
+          "lat": 27.1364,
+          "lng": 57.0628,
+          "severity": "red",
+          "detail": "Reports from the Tehran Peace Museum indicate violations of human rights and humanitarian law, citing the bombing of a primary school."
+        },
+        {
+          "name": "Port Vila, Vanuatu",
+          "lat": -17.7333,
+          "lng": 168.3,
+          "severity": "green",
+          "detail": "Vanuatu is leading efforts at the UN for a climate change resolution that links environmental protection to human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record heat continues, El Niño forecasts intensify global warming concerns.",
+      "summary": "March 2026 was the hottest March on record for the continental United States, contributing to the warmest 12-month period on record from April 2025. Forecasts indicate a 'super' strong El Niño forming, with the potential to push global temperatures to new record levels in late 2026 and into 2027. Vanuatu is spearheading a UN resolution to translate a World Court advisory opinion on climate change into concrete action and accountability.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Federal weather data confirms unprecedented record-breaking heat across the continental United States for March 2026."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "The city is experiencing strong winds and fluctuating temperatures amidst an exceptional drought and concerns about a super El Niño."
+        },
+        {
+          "name": "Port Vila, Vanuatu",
+          "lat": -17.7333,
+          "lng": 168.3,
+          "severity": "green",
+          "detail": "Vanuatu is leading UN efforts for a climate change resolution to establish greater accountability for environmental harm."
+        },
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -150,
+          "severity": "yellow",
+          "detail": "Forecasts predict a 'super' strong El Niño developing, potentially leading to new global temperature records."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Wildlife trade fueling disease outbreaks; measles spreads in US; Sudan health crisis deepens.",
+      "summary": "A new study reveals the global wildlife trade is significantly increasing the transmission of pathogens from animals to humans, raising pandemic risks. In the US, measles infections are rapidly spreading, with Utah experiencing the largest outbreak, while concerns about highly pathogenic avian influenza (H5N1) persist globally. The ongoing conflict in Sudan has led to a collapse of health infrastructure and rising disease outbreaks, with dire consequences for the population.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Research indicates the global wildlife trade is amplifying pathogen transmission, increasing disease outbreak risks."
+        },
+        {
+          "name": "Utah, USA",
+          "lat": 40.75,
+          "lng": -111.89,
+          "severity": "red",
+          "detail": "The state is currently battling the largest and still-growing measles outbreak in the United States, approaching 600 cases."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5317,
+          "severity": "red",
+          "detail": "The conflict has caused a collapse of health infrastructure and a rise in disease outbreaks, severely impacting public health."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "Science-driven approaches are crucial for public health, including immunization campaigns and emergency responses to diseases like cholera and measles."
+        },
+        {
+          "name": "Florida, USA",
+          "lat": 27.9944,
+          "lng": -81.7603,
+          "severity": "yellow",
+          "detail": "A measles outbreak linked to Ave Maria University continues to contribute to the nationwide spread of the disease."
+        },
+        {
+          "name": "Chad",
+          "lat": 15.4542,
+          "lng": 19.37,
+          "severity": "red",
+          "detail": "Sudanese refugees in Chad face severe health challenges due to ongoing conflict and aid shortfalls."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran war stokes inflation, tightens monetary policy, and disrupts global trade.",
+      "summary": "The ongoing war in Iran is significantly impacting the global economy, driving up energy prices and creating inflationary pressure, likely leading central banks to further monetary tightening. The World Bank is preparing billions in financing for affected countries, while the continued closure of the Strait of Hormuz is disrupting global oil and gas transport. China's factory-gate prices have turned positive after three years, signaling rising costs due to global commodity prices and geopolitical tensions, and Japan's producer inflation has accelerated. The war in Sudan is also causing a near-total collapse of income and acute food insecurity across the region.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Federal Reserve is assessing the impact of the energy crisis on inflation and potential interest rate adjustments."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's factory-gate prices rose for the first time in over three years, signaling emerging cost pressures due to global commodity prices and geopolitical tensions."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japan's producer inflation accelerated sharply due to higher fuel costs, potentially leading to an interest rate hike by the Bank of Japan."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The continued closure of this crucial shipping lane is significantly disrupting global oil and gas transport, impacting energy prices worldwide."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5317,
+          "severity": "red",
+          "detail": "The ongoing war has led to a near-total collapse of income sources and widespread acute food insecurity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US election confidence wanes; Hungary faces contested election; authoritarianism rises.",
+      "summary": "American confidence in fair elections has dropped to its lowest point in years, with President Trump pushing for federal voting rule changes amidst concerns about partisan redistricting. Hungary's upcoming election faces concerns over media bias and an uneven playing field for the opposition. The Journal of Democracy highlights a global trend of democratic erosion driven by elected leaders and the rise of authoritarian middle powers, with Georgia also struggling between democracy and autocracy.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Confidence in fair elections has reached a multi-year low, and President Trump is advocating for significant federal voting rule changes."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "An upcoming election faces scrutiny due to concerns over media bias and an uneven playing field for opposition parties."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.8271,
+          "severity": "yellow",
+          "detail": "The country is navigating a struggle between democratic aspirations and a ruling party perceived as aligning with authoritarian tendencies."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "yellow",
+          "detail": "An opposition party that won in 2021 was voted out, having failed to deliver on promises and exhibiting authoritarian leanings."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Massive aid cuts endanger Sudanese refugees; Yemen faces deepening needs.",
+      "summary": "Sudanese refugees in Chad face severe, life-threatening cuts to essential aid due to critical funding shortfalls as the conflict in Sudan approaches its third year, with over a million refugees hosted in Chad. Across Sudan, South Sudan, and Chad, families are experiencing extreme hunger and a near-total collapse of income sources. In Yemen, ongoing floods, displacement, and economic hardship are deepening humanitarian needs, with over 22 million people requiring assistance. The Iran war has also led to millions of internally displaced people in Iran and Lebanon, and a regional aid plan is seeking urgent funding.",
+      "regions": [
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1067,
+          "lng": 15.0444,
+          "severity": "red",
+          "detail": "Over a million Sudanese refugees face immediate and life-threatening cuts to food, water, and healthcare due to funding shortfalls."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5317,
+          "severity": "red",
+          "detail": "The ongoing war has led to mass displacement, acute food insecurity, and a near-total collapse of livelihoods for most families."
+        },
+        {
+          "name": "Aden, Yemen",
+          "lat": 12.7963,
+          "lng": 45.0366,
+          "severity": "red",
+          "detail": "Flooding, displacement, and economic strain continue to drive rising humanitarian needs, affecting over 22 million people."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Up to 3.2 million people have been temporarily displaced internally due to the ongoing war."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Over 1.05 million people remain internally displaced, facing significant humanitarian challenges from the conflict."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Cross-border clashes with Afghanistan have caused civilian casualties, displacement, and disrupted humanitarian access."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Families displaced by the war in Sudan are experiencing extreme hunger and a lack of income."
+        }
+      ],
+      "sources": [
+        {
+          "title": "swissinfo.ch",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqApFmHDES3Eo35WjT3vW1-BGycaN6xpBOxE5C3d5Zzbgpo6p3eQmMhkGJ2sazy33mncq1hwCYnGgRfXiGR4vtx1qA3FcSCp0rZc07ukvu_0sfp4oTWdr83p2mbTGSg7fsXspbgFfjY7W2IjGoISOSNRO9Fj_X6p5-08Lb1jbYchLwXYp3UCjw3H8qILWaCDvMuDgDP_PpBJJPdd7D"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf8oCYsfSUmGainuzWRz1y1bYDQMIvkNLb0Q3HBSYluqYCUvEuu2FmCa4JypNUGBA5uu0rNslP-yTbZIQiyiddCdPdO8sw1qiS_UIdZVIlbdZeArE3NY2OCle8in3rmRgxoDhcbRkAHZ1GkObQufTqzaUwY9aJxDLKbHli1tGWVJlmRZJupPNhDga-niIF2yj11AqQdaKVeOQBKkeFV_I-Hl_Ac0r0tIRjgEMESJZj7utVCM8K9m5CQbbqNhtM"
+        },
+        {
+          "title": "ourmidland.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXt4zpNit3WLc4Lz2IkwCH875WY6emTwGkI_zZt4wPusV6_RVdGn5l0eJZOcRCEfsL_yk7OWzF3HQsO4Ki47oWFGZliNGbsIwH5Kmb8EfEylDfQ0Jk6gtmM5iKxE9z54dW-S3__4fAemHfGi1KEjkpCA6R7VVUCCo_6Pfg6v8wEb8wB4Y7nzP4IZztyyRO1a613fZqg1U8cQbqbl7Yfa-H1_xJIq0="
+        },
+        {
+          "title": "counterpunch.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7A-v9pPOHt20o3ZnpphN7OaH18RONV7E2dyMgE7hEH8R3Icns8Xfzy7k1xw7wCqt1gHOBbVVSZAY2ojP2fXReCApinOXkweD-oiM9P5Kbd363A20l5Q4Je5ymSM0uBJkbHtiT62mULM244OeO2bXyCGelfPiAwlS0eIcXX92p45hEHv0RTaz7kTaVx7meatuq1XDLwhTKWavb1sfE9lBX9H-19Y5lxkFzfZt_xfSBkqeM"
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqWOX_vKbyPaXAWnNRY6dOHoj3nabcKqt4vrKG_n9oQVSEjymKPuedjJzEivXyLvJEcbsxBf4WN4Tm1jf50o6PFMW0r1FX4ML6WMF_POXlHUHjtQikeWIpsmA5NgYkiB80HE_UMQTcDenszyTP7GlQbTIMDj_MrOkPRnZXuG7IGtbkfrlak-x_B9MD68qWMfFhY4InZ6DNcWW2tke4TCIZyPo2OX29x0jtBEyC-451KPKTYuZyT3bOtm7EXc="
+        }
+      ]
+    }
+  }
+}
