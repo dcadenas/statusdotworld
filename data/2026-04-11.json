@@ -1,0 +1,440 @@
+{
+  "date": "2026-04-11",
+  "timestamp": 1775888350674,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East ceasefire fragile as Sudan war enters fourth year.",
+      "summary": "A fragile two-week ceasefire in the Middle East, particularly between the US/Israel and Iran, is holding for now, with peace talks scheduled in Islamabad, Pakistan. However, Israel continues strikes on Lebanon, and the civil war in Sudan persists, displacing millions and causing widespread hunger as it enters its fourth year. Pope Leo XIV has called for a global prayer vigil for peace, reflecting the ongoing international tensions.",
+      "regions": [
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.729388,
+          "lng": 73.093146,
+          "severity": "yellow",
+          "detail": "An Iranian delegation arrived for peace talks with the US, aiming to end the ongoing conflict."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Despite a ceasefire, Israel is reportedly continuing military strikes, particularly in Lebanon."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran has preconditions for talks and is limiting ship transits through the Strait of Hormuz."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel's continued military strikes have resulted in casualties and disrupted food supply chains."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The civil war continues, causing 14 million displacements, hunger, and attacks on health services."
+        },
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "green",
+          "detail": "Pope Leo XIV called for a prayer vigil for peace on April 11th amid global tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Russia suppresses media, UN bodies elect abusers; Sudan atrocities continue.",
+      "summary": "The United States condemned Russia for targeting journalists and suppressing free speech, following the arrest of a Novaya Gazeta journalist and the labeling of the Nobel-winning Memorial human rights group as 'extremist'. Outrage also emerged at the UN, where democracies enabled countries with poor human rights records, including Iran, China, Cuba, and Saudi Arabia, to oversee key human rights bodies. In Sudan, serious human rights violations, including massacres, forced recruitment, and sexual violence, continue amidst the civil war.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "A Novaya Gazeta journalist was arrested, and the human rights group Memorial was declared 'extremist'."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UN Watch expressed outrage over democracies enabling human rights abusers to oversee UN human rights bodies."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Massacres, forced recruitment, and conflict-related sexual violence continue amidst the civil war."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "A Canadian company was found to have used organized crime to violate labor rights of mine workers."
+        },
+        {
+          "name": "Tegucigalpa, Honduras",
+          "lat": 14.0723,
+          "lng": -87.1921,
+          "severity": "green",
+          "detail": "PBI-Honduras supported the National Union of Rural Workers in securing the release of 17 detained farmworkers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "US faces extreme heat, renewable energy grows, policy challenges persist.",
+      "summary": "The United States experienced its hottest March in 132 years, with nearly 20,000 heat records broken, signaling intensifying climate extremes. While renewable energy accounted for nearly half of global power capacity in 2025, driven largely by solar, the US faces policy challenges. The Trump administration waived Endangered Species Act rules for Gulf drilling for 'national security' reasons, and a court found an EPA attempt to challenge the Clean Air Act's Endangerment Finding illegal.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US experienced record-breaking heat in March, and the Trump administration made policy decisions impacting climate regulation."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "green",
+          "detail": "Experts highlighted that exaggerated claims obscure the real climate risks to Ireland from changes to Atlantic currents."
+        },
+        {
+          "name": "Gulf of Mexico",
+          "lat": 25,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "The Trump administration approved an exemption from the Endangered Species Act for expanded oil and gas drilling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US grapples with measles outbreaks; maternal health disparities addressed.",
+      "summary": "The United States is experiencing notable measles outbreaks, with 1,714 confirmed cases reported as of April 9, 2026, and 17 new outbreaks. Anne Arundel County, Maryland, proclaimed April 11-17 as Black Maternal Health Week to address systemic disparities in maternal healthcare. Public health remains a politicized issue in US midterm campaigns amid the current administration's stance on science and health.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The country is facing significant measles outbreaks and ongoing politicization of public health issues."
+        },
+        {
+          "name": "Annapolis, Maryland",
+          "lat": 38.9784,
+          "lng": -76.4922,
+          "severity": "yellow",
+          "detail": "Anne Arundel County proclaimed April 11-17, 2026, as Black Maternal Health Week to address healthcare disparities."
+        },
+        {
+          "name": "Detroit, Michigan",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "green",
+          "detail": "The Health Department is hosting Public Health Week events focused on prevention and community access to services."
+        },
+        {
+          "name": "Los Angeles, California",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "The Department of Public Health is showcasing critical programs during Public Health Week to improve community health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war triggers record energy shock, threatening global growth.",
+      "summary": "The ongoing conflict in the Middle East has triggered the largest energy shock on record, significantly disrupting shipping lanes and energy distribution, and causing oil prices to surge by 50%. The World Bank and IMF predict lower global growth and increased inflation, with S&P Global forecasting a slowdown to 3.2% in 2026. US inflation rose sharply in March, and Ireland saw protests over spiraling fuel prices, highlighting the conflict's widespread economic impact.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The World Bank and IMF warned of significant global economic impact, and US inflation rose sharply due to energy prices."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's actions, including limiting transits through the Strait of Hormuz, contribute to global energy supply disruptions."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "yellow",
+          "detail": "Days of protests occurred over spiraling fuel prices, threatening supplies for emergency services."
+        },
+        {
+          "name": "Middle East",
+          "lat": 29,
+          "lng": 42,
+          "severity": "red",
+          "detail": "The war has caused oil prices to rise by 50% and disrupted global supplies of essential goods and tourism."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "News from The Edge Singapore highlighted the global economic impact of the Strait of Hormuz situation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US election interference worries rise; global authoritarian trends deepen.",
+      "summary": "A new poll indicates Americans are concerned about potential interference by the Trump administration in the 2026 midterm elections, including seizing ballots and voting machines. Democrats are criticizing the administration's 'all-out assault on civil rights, on voting rights, certainly on diversity, equity and inclusion'. Globally, a new kind of authoritarian middle power is emerging, undermining democratic norms, with Georgia's ruling party moving closer to Russia and Pakistan's military exerting deep control over politics.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "Concerns are high regarding potential executive overreach and interference in the 2026 midterm elections."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "A proposal for a 'right to recall' for Members of Parliament aims to address accountability issues but presents perils."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.8271,
+          "severity": "yellow",
+          "detail": "The ruling party is reportedly dragging the country closer to Russia, despite societal aspirations for Western integration."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.729388,
+          "lng": 73.093146,
+          "severity": "yellow",
+          "detail": "The military continues to exert significant influence and control over the country's political institutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza ceasefire failing; Haiti, Sudan crises worsen; aid efforts continue.",
+      "summary": "Humanitarian organizations report that the Gaza ceasefire plan is failing, with Palestinians continuing to suffer extreme deprivation, hunger, and deaths due to ongoing attacks and aid obstructions, and at least two children killed or injured daily. Haiti is experiencing one of the most severe and rapidly deteriorating humanitarian crises in the Western Hemisphere, marked by widespread hunger, violence, and mass displacement, with millions needing assistance. The civil war in Sudan continues to cause a catastrophic humanitarian situation, displacing 14 million people and destroying health systems.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4668,
+          "severity": "red",
+          "detail": "The ceasefire plan is failing, with continued deprivation, hunger, and deaths, and limited humanitarian access."
+        },
+        {
+          "name": "Al Arish, Egypt",
+          "lat": 31.1311,
+          "lng": 33.8,
+          "severity": "yellow",
+          "detail": "100 tonnes of food aid from the UAE arrived for transport into Gaza as part of ongoing relief efforts."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5928,
+          "lng": -72.3074,
+          "severity": "red",
+          "detail": "Millions face hunger, violence, mass displacement, and gender-based violence amid a rapidly deteriorating crisis."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The fourth year of civil war sees 14 million displaced, widespread hunger, and severe attacks on health infrastructure."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Direct Relief dispatched over five tons of medications to support healthcare providers facing high demand and limited access."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.6023,
+          "severity": "green",
+          "detail": "A new Special Representative was appointed to UNMISS, with a mandate including facilitating humanitarian aid delivery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPQ_RC8bH069gzHbjZRXqtqlJKnypjXGKEYoT35pDgblYCMi-sWZgggBEoL6mg8ScMgMHHaLV2ZxX02dkdqwi6VnyGKa1qyPhZxNT-W0UuluY-JT-KM08r4b2oCoeGpd4FLt_OI4OVloAj_YFcC73wys2Bhym_bo81hbjQZ_P2LVDvvCeVFez"
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGwxkmoKKfXxDGyO6ryAeUPjv8zsherAD7Ab1nJuOEV9BfoW45WuL776vScNbOflBVMm2cFE3SYS-qkV4VnObXd_tok5h_kztMcPRjAqHdvrpYhd5xAs3UkuMUBZ7P-iW8dJQbE_R6YfO0OvDpZi3mKu39TQ-fDnrTPCx8hBWXK6ua2TtYBYE1w8RB0YTfLU3y6ogUnFcEFK4Cx8g9yG8oik8avD9S5vS5OLxsrba07-o="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlH0G2i2KFXSbOfPF1isOdYu30NQjR5S-gSScyG7J9LIWU4Y5Yt6Xc3fx0DJJLVCOcoCgc1eVNKQ6lb4LTT6DT_FfC8y1KD6B766ssRLkIB28R9cJZMTql2zTiH2A5wfNZDA=="
+        },
+        {
+          "title": "denvercatholic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi8ZyagQTXHjTaXaq-dqdEVni4YEvsk4EMWtY2ANv99KEZpvUVkF7aKsAWSa3XQLNh-BE6bz2iaw8KrR7QwdUul9l6VWWk5UOoGfAx7gfiW6m7ornK83WPAWNr17jgXX8-g5hu-nD1Cz6EoXeEgzpZ8B54porQamkV4FEBpEbOcayVjkOODDEItftGBdbKw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlxq12esSCYgLl4vELaxAywxQvsP44dWWD_chfHTM3jYGYzjwJ9Ac0TExkV7fik-JX4sfaJuJC_z8INZXXEsFmMb2IiGebmCHnzfzJsXnF4ZfEXIQ_7t4r8GHxLYz36mhH0rzjRNnowEww3-nnIEpkAZRUdSD7vkSeYQFnuY53vINC4Qx7s7m-Y8JvCFh3qyjNtPUyndH0AgAuMsJFtYXx2QhDcIIPIZQZpcL6g=="
+        }
+      ]
+    }
+  }
+}
