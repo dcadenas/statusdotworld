@@ -1,0 +1,412 @@
+{
+  "date": "2026-04-13",
+  "timestamp": 1776062330281,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates with Strait of Hormuz blockade",
+      "summary": "Peace talks between the US and Iran failed in Pakistan, leading President Trump to announce a full naval blockade of the Strait of Hormuz starting April 13, a vital global oil passage. Iran's Revolutionary Guards warned this would violate the existing ceasefire, further escalating regional tensions. Pope Leo XIV called for peace in global conflict zones like Lebanon and Ukraine, amidst a rise in oil prices due to the blockade.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US announced a full naval blockade of this critical oil shipping lane, escalating tensions with Iran."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards warned that the US blockade of the Strait of Hormuz would violate the ceasefire."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": 77.0369,
+          "severity": "red",
+          "detail": "President Trump announced the blockade of the Strait of Hormuz after peace talks with Iran failed."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Peace talks between the US and Iran, aimed at resolving the conflict, failed in Pakistan."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Two Israeli soldiers were injured by Hezbollah rocket fire, and a Red Cross paramedic was killed by an Israeli drone."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "Pope Leo XIV described the situation as an 'inhuman tragedy' with an ongoing 'fratricidal war'."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "MSF warned of continued Israeli attacks and obstructions to humanitarian aid, with many casualties since the October 2025 ceasefire."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Reports detail abuses in US detention, rising Iran executions",
+      "summary": "A new report highlighted horrific conditions and due process violations at the Dilley Immigration Processing Center in Texas, with increased deaths in ICE custody. Separately, NGOs reported that Iran executed at least 1,639 people in 2025, the highest number since 1989, and warned of further use of capital punishment after recent protests. In Australia, a court ruling overturned Victoria Police's extended stop-and-search powers in Melbourne, citing human rights violations.",
+      "regions": [
+        {
+          "name": "Dilley, Texas, USA",
+          "lat": 28.6947,
+          "lng": 99.1678,
+          "severity": "red",
+          "detail": "A report detailed inhumane conditions, mistreatment, and due process violations at the immigration processing center."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian authorities executed at least 1,639 people in 2025, the highest number since 1989."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "severity": "green",
+          "detail": "A Federal Court ruling declared Victoria Police's extended stop-and-search powers in the CBD unlawful, upholding human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Middle East war accelerates climate crisis, global impact feared",
+      "summary": "The US-Israel war against Iran is accelerating the climate crisis through increased military emissions and intensified reliance on fossil fuels due to energy shocks. Globally, emperor penguins and Antarctic fur seals were uplisted to 'Endangered' due to climate change impacts. Greece is assessing ancient sites against worsening wildfires and rising sea levels, while Vanuatu pushes for a UN resolution to enhance climate accountability.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Disruption of this waterway has triggered energy shocks, intensifying reliance on fossil fuels and contributing to climate crisis acceleration."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "yellow",
+          "detail": "Greek officials are conducting climate-change checkups on ancient sites due to wildfires and rising water levels."
+        },
+        {
+          "name": "Antarctica",
+          "lat": -90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Emperor penguins and Antarctic fur seals were uplisted to 'Endangered' due to climate change, shrinking sea-ice, and food scarcity."
+        },
+        {
+          "name": "Svalbard, Norway",
+          "lat": 78,
+          "lng": 16,
+          "severity": "yellow",
+          "detail": "High levels of 'forever chemicals' (PFAS) have been found in Svalbard reindeer, raising environmental concerns."
+        },
+        {
+          "name": "Vanuatu",
+          "lat": -17.7121,
+          "lng": 168.3298,
+          "severity": "green",
+          "detail": "Vanuatu is leading efforts for a UN resolution to establish a roadmap for climate action and accountability, building on the ICJ's 2025 opinion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US public health budget cuts; drug-resistant infections rise",
+      "summary": "Kennedy's 2027 Budget proposes widespread cuts to chronic disease prevention, public health infrastructure, and maternal and child health programs in the US. This comes as maternal mortality rates for Black and Hispanic women in the US have increased. A CDC report also indicates a rise in extensively drug-resistant Shigella infections, posing a global health concern.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Proposed budget cuts threaten public health programs, and maternal mortality rates for minority women are increasing."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A CDC report highlights a concerning rise in extensively drug-resistant Shigella infections worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war triggers global economic shock, inflation surges",
+      "summary": "The US-Israel war with Iran has caused a 'third major shock' to the global economy, leading the IMF to downgrade growth forecasts and predict sustained high prices. The US blockade of the Strait of Hormuz caused oil prices to surge over 50%, exacerbating inflationary pressures globally. The UN warned the conflict could plunge 32 million more people into poverty, particularly in poorer nations.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US blockade of this strait has caused significant oil price surges and global economic disruption."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": 77.0369,
+          "severity": "yellow",
+          "detail": "The IMF and World Bank Spring Meetings are convened under the shadow of the Middle East war's economic impact."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The Middle East conflict is causing widespread inflationary pressures and is projected to push millions into poverty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Hungarian elections shift power; US politics face internal turmoil",
+      "summary": "In Hungary, Peter Magyar's Tisza party secured a two-thirds parliamentary majority in a significant defeat for Prime Minister Viktor Orban, signaling a potential shift in the country's political landscape. In the US, Rep. Eric Swalwell withdrew from the California governor's race following sexual misconduct allegations. Discussions around democratic backsliding and how courts can undermine democracy also featured in the April 2026 Journal of Democracy issue.",
+      "regions": [
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Peter Magyar's Tisza party won a two-thirds parliamentary majority, shifting the political balance."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "Rep. Eric Swalwell withdrew from the California governor's race following allegations of sexual misconduct."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "The April 2026 Journal of Democracy analyzes democratic backsliding and challenges to democracy from elected leaders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Haiti, Gaza, and South Sudan face escalating humanitarian crises",
+      "summary": "Haiti is experiencing a rapidly worsening humanitarian crisis, with armed gangs controlling much of Port-au-Prince, 6.4 million people needing aid, and 5.7 million facing hunger. In Gaza, MSF reported continued Israeli military control and deliberate obstruction of aid, with high casualties since the October 2025 ceasefire. South Sudan's military and opposition forces are blocking humanitarian access and causing mass displacement, leading to a projected famine risk for hundreds of thousands.",
+      "regions": [
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5,
+          "lng": -72.3333,
+          "severity": "red",
+          "detail": "Armed gangs control nearly 90% of the capital, exacerbating a crisis where millions need aid and face hunger."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid is being deliberately obstructed by Israeli authorities amidst continued military control and severe living conditions."
+        },
+        {
+          "name": "Barcelona, Spain",
+          "lat": 41.3851,
+          "lng": 2.1734,
+          "severity": "yellow",
+          "detail": "An aid flotilla departed from here, aiming to break the Israeli blockade of Gaza and deliver humanitarian supplies."
+        },
+        {
+          "name": "Jonglei State, South Sudan",
+          "lat": 7.78,
+          "lng": 32.74,
+          "severity": "red",
+          "detail": "Both military and opposition forces are blocking humanitarian access and ordering civilian evacuations, leading to mass displacement."
+        },
+        {
+          "name": "al-Fashir, Sudan",
+          "lat": 13.6167,
+          "lng": 25.35,
+          "severity": "red",
+          "detail": "Millions are surviving on one meal a day, with famine conditions confirmed in areas like al-Fashir due to conflict."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "A Lebanese Red Cross paramedic was killed by an Israeli drone while on a humanitarian mission, highlighting risks for aid workers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrTqcxKhlrDi4r-zLOwGRZmKg2HkZz-5z6T7junujUs6_La7IPstHHxCyrVu8Etal0X-R01DKUvDHUGoNmDuzNeOcSrfELcQHX_3c1h2Qd5wzjbcKO1p_0J7VnqSbYQw_7zz7Z7uiUe99QrM95f7E9TNrmITUpJzujCzYtJtq8EF6pZVk2_xbwLzD7ip2btUO8hJfBp8FdfZ_E7ym53kTb7l5d973ZhXG9AQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZBrYhFOcIyBFJcnH9fPBPFL7n5bkKBxNJCdzdEOp5aYen1AdHpX9kYfOjoKldLQ9sSlgEPU87DUngYNyvZt0LStjny3u0I9f3UPAzWqVDcH14gq5yR7hlMrKlM3y_eD3J_yj4p4xhEiOOtlsIYC5wIld7tu4Q4ODDyI2XeTbBplqFChIZN2cEoI2GEL1Jeq_uwVdQao5dMix9QdBvBYLiUTaJQZdtY5P6-7UtJIb2XnUoeThpqJn3o0CPO5b"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZW6rDe1gZ3AK8HJezAh7ln3N1-kPWYFEftu6IKQk0jP-QwxVuUJ9-XuIZe_i6LIPSsUL6Z40HznjB4YdKiWDhEtxlaVOYI8NRNWEi8TcZ_X1YF-tLnJcc63iHAztd4H2Z6DFgLUcSD-O0ewmZPlDK-nHh2VATA7BZD2lB-OWl9IfQDgz61m1vZ6zvAPEytglsEJ0cuK2rfxKBoz78wp5CG1zy10_QLOXXkGqLltOsOiMImsMJCPLI30L4RwS"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe8RfEOphgHJu1LqdM8_r3HwsseiYEVihqrfI_61kKyhJuhzDGwqbANVxgLMv5SnEFYEvlimXCwIRMUku78RFaloWZ-G26uN-LiIGReiK3vLopyTK-ZOJfghlvIBScPKD-JZAtOA4-_LBZnCKxOAIxJmEc5M0JlDlbcYKshKh5ugc2IdbUlj2ajmyXUB9i4_3f4JhRBH0="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFn-TlHG7weXD2Rydsm6HFM-T4ZF_GxX5jUIx3XdrywQIjiZo5EewvZdp3A5NA76FoyBl6TPrDLcrxcA6ILme_IUaV3G1Jn9TFGJFe8RH-AVX-hZw7IrWsa6p0Oea5quHgQZqdySUHr0jxqPLDJtgQHeSa2gev7mXZuev8tTyjlzIr2FKM1i2ZoIcU2LVVdXNrvpSUcW2OUtoxpW-0KI--AAkrNeKbf4LF_F47NVPrl_hPU3mL9J7vdQDWwHnXnbTFBoB96j6zmtc4kcKfLWY50ULOp8S8QfM="
+        }
+      ]
+    }
+  }
+}
