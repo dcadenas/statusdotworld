@@ -1,0 +1,454 @@
+{
+  "date": "2026-04-16",
+  "timestamp": 1776321199078,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East war ongoing; US, Iran discuss peace talks amid Red Sea threats.",
+      "summary": "The Middle East is embroiled in a six-week war involving the US, Israel, and Iran. While discussions for a second round of peace talks between the US and Iran are underway in Pakistan, tensions remain high as Tehran threatens to shut down Red Sea trade in response to a US naval blockade. Hostilities also persist in Lebanon, with Israeli strikes targeting Hezbollah and causing mass displacements.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US officials are discussing a second round of peace talks with Iran in Pakistan, while maintaining a naval blockade on Iranian ports."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is threatening to shut down Red Sea trade unless the US lifts its naval blockade, amid ongoing war with Israel and the United States."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Pakistan is hosting discussions for a possible second round of peace talks between the US and Iran to end the six-week war."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israeli Prime Minister Benjamin Netanyahu outlined goals for peace with Iran and Lebanon, as Israeli forces continue to target Hezbollah in Lebanon."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Hostilities persist in Lebanon, with UN reporting mass displacements and Israeli strikes causing casualties."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The strait, vital for oil flow, has been choked by Iranian forces, impacting the global economy."
+        },
+        {
+          "name": "Red Sea",
+          "lat": 21.5,
+          "lng": 38,
+          "severity": "yellow",
+          "detail": "Tehran has threatened to shut down Red Sea trade unless Washington lifts a naval blockade of its ports."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "UN humanitarians report ongoing impediments to aid delivery amid continuing hostilities and critical infrastructure issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "China intensifies religious repression; Zambia lead poisoning case prompts AU appeal.",
+      "summary": "Human Rights Watch reported that Chinese authorities are increasing pressure on underground Catholic communities to join the state-controlled church, along with tightened surveillance and travel restrictions on all Catholics. Separately, Human Rights Watch appealed for African Union action in a Zambia lead poisoning case, highlighting decades-long violations of children's rights.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "red",
+          "detail": "Chinese authorities are increasing pressure on underground Catholic communities and tightening surveillance on all Catholics as part of a 'Sinicization' campaign."
+        },
+        {
+          "name": "Zambia",
+          "lat": -15.4167,
+          "lng": 28.2833,
+          "severity": "yellow",
+          "detail": "Human Rights Watch appealed for African Union action regarding a lead poisoning case in Zambia, citing decades-long violations of children's rights."
+        },
+        {
+          "name": "Guangxi province, China",
+          "lat": 23.8298,
+          "lng": 108.7617,
+          "severity": "red",
+          "detail": "Pastor Ezra Jin Mingri of the Zion Church was detained in Guangxi province, along with other church leaders, due to religious repression."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Australia lists alpine ash forests as endangered; fossil fuel phase-out conference set.",
+      "summary": "The Australian government has declared the mainland alpine ash forests an endangered ecological community, primarily due to severe bushfires and climate change impacts. Meanwhile, policymakers from over 45 countries are preparing to gather in Santa Marta, Colombia, later this month for the first International Conference on Transitioning Away from Fossil Fuels, aiming to translate global pledges into concrete policy.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "The Australian government listed alpine ash forests as endangered due to ongoing threats from increasingly severe, frequent bushfires and climate change."
+        },
+        {
+          "name": "Santa Marta, Colombia",
+          "lat": 11.24,
+          "lng": -74.2,
+          "severity": "green",
+          "detail": "This city will host the first International Conference on Transitioning Away from Fossil Fuels later this month."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US measles outbreaks continue; global maternal health and Indigenous health discussed.",
+      "summary": "The US continues to grapple with measles outbreaks, with Utah reporting a significant number of new cases, potentially leading to the US losing its measles elimination status. Globally, the Harvard Global Health Institute is hosting its 4th Annual Global Health Symposium, and the WHO is preparing a webinar on Indigenous Leadership for Health, addressing critical issues like health workforce development and health systems strengthening.",
+      "regions": [
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "red",
+          "detail": "Utah is experiencing skyrocketing measles cases, contributing to a national outbreak that could lead to the US losing its measles elimination status."
+        },
+        {
+          "name": "New York, New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Local health departments are addressing Black maternal health disparities during Black Maternal Health Week, exacerbated by structural racism and budget cuts."
+        },
+        {
+          "name": "Cambridge, Massachusetts, USA",
+          "lat": 42.3736,
+          "lng": -71.1097,
+          "severity": "green",
+          "detail": "Harvard Global Health Institute is hosting its 4th Annual Global Health Symposium, focusing on innovation and collective action in global health."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO is organizing a virtual preparatory webinar on Indigenous Leadership for Health to help shape the Global Plan of Action."
+        },
+        {
+          "name": "Washington County, Utah, USA",
+          "lat": 37.15,
+          "lng": -113.5,
+          "severity": "red",
+          "detail": "Significant measles exposure sites and ongoing transmission are reported in this area of Utah."
+        },
+        {
+          "name": "Guangdong, China",
+          "lat": 23.379,
+          "lng": 113.567,
+          "severity": "yellow",
+          "detail": "Cases of Avian Influenza, Human (H9N2) are reported in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict plunges global economy; IMF warns of recession, stagflation.",
+      "summary": "The ongoing Middle East conflict, specifically the closure of the Strait of Hormuz and damage to energy infrastructure, is severely impacting global economic growth, leading to sharp spikes in oil, gas, and fertilizer prices. The IMF has revised down its global growth forecast for 2026 to 3.1 percent and warned that prolonged hostilities could trigger the third global recession this century. Investor sentiment has plummeted, with many anticipating stagflation.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The IMF and World Bank are holding spring meetings, warning that financial markets are underestimating the economic damage from the Iran war, with global growth forecasts revised downwards."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Its closure by Iranian forces is a primary cause of global economic disruption, leading to spikes in oil, gas, and fertilizer prices."
+        },
+        {
+          "name": "New York, New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street hit a record high due to hopes for an end to the Iran war, despite broader warnings about the economic toll."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's economy grew 5.0 percent in Q1, beating forecasts, even as the global economy reels from the Middle East conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The conflict involving Iran and the US blockade are central to global economic instability, impacting oil and trade."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepal's growth forecast has been slashed to 2.9 percent for 2025-26, reflecting the global economic slowdown caused by the Middle East conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Pope calls for justice in Cameroon; China's religious crackdown raises concerns.",
+      "summary": "Pope Leo's visit to Cameroon on April 16, 2026, included a call for peace, justice, and commitment to the common good, addressing politicians and diplomats amidst a global sense of hopelessness. Meanwhile, Human Rights Watch reported China's intensifying pressure on underground Catholic communities and tightening surveillance, which undermines religious freedom and democratic principles.",
+      "regions": [
+        {
+          "name": "Yaoundé, Cameroon",
+          "lat": 3.848,
+          "lng": 11.5021,
+          "severity": "yellow",
+          "detail": "Pope Leo visited, speaking on the need for peace, justice, and commitment to the common good to politicians and diplomats."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "red",
+          "detail": "Chinese authorities are increasing pressure on religious communities to conform to state-controlled ideology, raising concerns about fundamental freedoms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan declared largest humanitarian crisis; Mideast aid efforts hindered.",
+      "summary": "The situation in Sudan has been declared the largest humanitarian crisis, with international donors pledging 1.5 billion euros in Berlin to address food shortages affecting over 20 million people. Concurrently, UN humanitarians report intensifying relief efforts across the Middle East, particularly in Lebanon and Gaza, but these are hindered by mass displacements, access challenges, and damage to critical infrastructure due to ongoing hostilities.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Sudan is facing the largest humanitarian crisis, with millions displaced and over 20 million people suffering from food shortages due to ongoing conflict."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "International donors pledged 1.5 billion euros at a humanitarian summit to address the crisis in Sudan."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Mass displacements and ongoing hostilities are hindering relief efforts, with UN agencies providing psychosocial support to displaced populations."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid delivery faces severe impediments due to the ongoing conflict and blockade, with UNRWA facilities nearing critical mechanical failure."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The UN Emergency Relief Coordinator allocated $12 million from CERF to support humanitarian efforts in Iran."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "Canada announced over $120 million in assistance for Sudan and neighboring countries at the Berlin conference."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "UN reports indicate over 2,360 deaths since February 28 due to Israeli-US bombing, severely straining healthcare and damaging infrastructure."
+        },
+        {
+          "name": "Queensland, Australia",
+          "lat": -20.9176,
+          "lng": 142.7027,
+          "severity": "yellow",
+          "detail": "Farmers are warning of a looming exodus from the land due to red tape, threatening food security and driving up grocery prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGemBQ4QUNd1LbV-h8S-OOsIFFXDdOMM6CvD3rlOqXSpZ5E2b_5HLHjXFsWdthwTasS0FPh_EC9vfEV3XA-Hr0aFN5CZ3axzfYALRHHCpLXwtWbON4Cmt8vYHXKMI2ctTyIKM5GrPxW_P0NkUeuJmaefqXb90owQbx3LD_C69jcebhLIXnMrSlyHkiDXIzemuQ1cFhu5EuLobfQBDAnaLO2_Y"
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZuHxVjpwtsvP_P1WrgNFW32qnlIDprAybHq5gBx1lwxcoBie4pwkpJhIsLdg-qY6tZVyxQlS91hA8mB6HwZm25D-eW7Z871csXtzZLIHUidLEeHc0W2zMRqpm1iMJH3sJxYz3O_YXYEgNq_mYJDzrI0AzsqsIocCLTKMVyMLZ1peSS1tywPmU4joVX3Okx_TJ9mZQ54ujj0i_2IlmZfwov0P87509IYOMWQQb533ZL3sE18sBfcSncdXwk_0sPyWYkvuRFeYZg=="
+        },
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1ReVbSeMHNFbM9HZSvznDp4wLW9Trx_g5mnXubJQuzNdFgOcX1zsLEoUV12z3e0Qmr1aLEooxUcy-UemLBed9PX2iBf1SzbHjqui9uG9mKoZoyaPAw_aamHfM-C4HEGZLLGyMvGhVpqIr89_mEw9VMzzjNdvmlagy8UN5EMJS0MxnaGzHJsKaisI8CcL845jaAOxnSTFG7Com5bXCP94HIjG5WtmQH1PhOnZEVhTcQ=="
+        },
+        {
+          "title": "magzter.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF3-0yIMLoWiLlTZBErXf7B8ujKrj6FrX_fUr-b4tjW4w5bfJKD_mEPz7jbH7nBFSFNE0CSthk525on3Gh_AGJNT_yHBmCnPsrvFiwrcgFzEw7IVC9h5UzV2kkRidcVRTUDTre3_5ZYGsmPdrJZNiARbmMUr5GI9v82He0GpqstS6EcTl5bxgUk5CIqfw3WwL_x4eaOb1LV-U6bLsHEKIOFPS9B1cpUjVWQ=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQDrCXm0RrKkIPTrJNy9Gs-LIOgSRbBU9Ob6s7GzJYP5Bupg35h4vtHh4yf5YLE9zhxy_y5FUcaKO_OBEkbcrTsYO_7NqIJXT-3FIWPBcLqJCTj5dhB4O5Q2LXPa_BvLWWHc="
+        }
+      ]
+    }
+  }
+}
