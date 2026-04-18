@@ -1,0 +1,489 @@
+{
+  "date": "2026-04-18",
+  "timestamp": 1776493361412,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East tensions persist; Sudan civil war enters 4th year",
+      "summary": "Geopolitical tensions remain high with a temporary reopening of the Strait of Hormuz amid a US naval blockade and ongoing ceasefire violations in Gaza. The Sudanese civil war has entered its fourth year, leading to severe displacement and a humanitarian crisis.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The Strait was temporarily reopened for commercial vessels, but a US naval blockade persists, and shipping companies seek safety assurances."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israeli forces continued attacks, damaging a water facility and killing civilians despite a ceasefire agreement, with thousands of violations reported."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "The civil war entered its fourth year, prompting US sanctions on five entities for fueling the conflict, which has displaced millions."
+        },
+        {
+          "name": "Nattalin Township, Myanmar",
+          "lat": 18.25,
+          "lng": 95.8,
+          "severity": "red",
+          "detail": "Junta forces conducted raids resulting in civilian deaths, injuries, widespread displacement, and forced conscription."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.85,
+          "lng": 35.85,
+          "severity": "yellow",
+          "detail": "A 10-day ceasefire between Israel and Lebanon was announced, though Israel warned of potential renewed evacuations if fighting resumes."
+        },
+        {
+          "name": "Israel",
+          "lat": 31,
+          "lng": 35,
+          "severity": "yellow",
+          "detail": "Israel is party to a ceasefire with Lebanon and is facing allegations of abuses against Palestinian detainees."
+        },
+        {
+          "name": "Iran",
+          "lat": 32,
+          "lng": 53,
+          "severity": "yellow",
+          "detail": "Negotiations are ongoing regarding its nuclear program and the status of the Strait of Hormuz, with US sanctions still in effect."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Palestinian detainee abuse, Myanmar violence, and online gender abuse",
+      "summary": "The Palestinian Centre for Human Rights warned of an unprecedented escalation in alleged abuses against Palestinian detainees in Israeli prisons. In Myanmar, military junta forces are reportedly committing severe human rights violations during village raids. Separately, online abuse is a growing democratic crisis, silencing women on a staggering scale globally, as highlighted in Kenya.",
+      "regions": [
+        {
+          "name": "Israel",
+          "lat": 31,
+          "lng": 35,
+          "severity": "red",
+          "detail": "The Palestinian Centre for Human Rights reported an 'unprecedented escalation' of abuses against Palestinian detainees in Israeli prisons."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Thousands of Palestinians are held in harsh conditions in Israeli prisons, with concerns over torture and enforced disappearances."
+        },
+        {
+          "name": "Nattalin Township, Myanmar",
+          "lat": 18.25,
+          "lng": 95.8,
+          "severity": "red",
+          "detail": "Junta forces are conducting violent raids, causing civilian deaths, injuries, displacement, and forced conscription."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.28,
+          "lng": 36.82,
+          "severity": "yellow",
+          "detail": "Online abuse is silencing women on a staggering scale, leading to a democratic crisis in the country."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.27,
+          "lng": 133.77,
+          "severity": "yellow",
+          "detail": "Palestinian human rights organizations initiated legal action against Australia's Defense Minister over arms exports to Israel."
+        },
+        {
+          "name": "United States",
+          "lat": 38,
+          "lng": -97,
+          "severity": "yellow",
+          "detail": "Discussions are ongoing at the White House regarding AI safety, and a Tennessee bill aims to regulate AI for child protection."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Illegal sand mining crisis; ocean warming threatens marine life",
+      "summary": "Illegal sand mining in India's National Chambal Gharial Sanctuary has created a severe environmental crisis, endangering local wildlife. Globally, new research highlights that sharks and tuna are struggling with overheating and dwindling food supplies due to warming oceans.",
+      "regions": [
+        {
+          "name": "Chambal Sanctuary, India",
+          "lat": 26.5,
+          "lng": 78.5,
+          "severity": "red",
+          "detail": "Rampant illegal sand mining has caused an environmental crisis, wreaking havoc on the sanctuary and threatening endangered species."
+        },
+        {
+          "name": "Global Oceans",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Sharks and tuna are overheating and facing shrinking food supplies due to rising ocean temperatures."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.27,
+          "lng": 133.77,
+          "severity": "green",
+          "detail": "The country is experiencing a growing movement in private land conservation efforts, contributing to biodiversity protection."
+        },
+        {
+          "name": "United States",
+          "lat": 38,
+          "lng": -97,
+          "severity": "yellow",
+          "detail": "Policy debates continue regarding environmental issues, including the defunding of wind farms and promotion of oil drilling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Measles outbreaks, mystery disease, and toxic drug poisonings",
+      "summary": "Multiple severe public health crises are active, including growing measles outbreaks in Oregon and Romania, a deadly 'mystery disease' in Burundi, and a rise in toxic drug poisonings in British Columbia. Sudan also faces a deepening health crisis with widespread disease and malnutrition.",
+      "regions": [
+        {
+          "name": "Săcele, Romania",
+          "lat": 45.57,
+          "lng": 25.68,
+          "severity": "red",
+          "detail": "Romania is experiencing the worst measles crisis in the EU, driven by collapsing vaccination rates."
+        },
+        {
+          "name": "Burundi",
+          "lat": -3.37,
+          "lng": 29.91,
+          "severity": "red",
+          "detail": "A 'mystery disease' with varied symptoms has killed 5 people and left 35 ill, prompting an ongoing investigation."
+        },
+        {
+          "name": "Surrey, Canada",
+          "lat": 49.1,
+          "lng": -122.8,
+          "severity": "red",
+          "detail": "Fraser Health warned of a rise in unregulated toxic drug poisonings, with some drugs cut with non-opioid sedatives."
+        },
+        {
+          "name": "White Rock, Canada",
+          "lat": 49.02,
+          "lng": -122.8,
+          "severity": "red",
+          "detail": "A rise in unregulated toxic drug poisonings has been reported by Fraser Health in the area."
+        },
+        {
+          "name": "Oregon, United States",
+          "lat": 44,
+          "lng": -120.5,
+          "severity": "yellow",
+          "detail": "Health officials are concerned about a growing measles outbreak with increasing community transmission."
+        },
+        {
+          "name": "South Carolina, United States",
+          "lat": 33.8,
+          "lng": -81,
+          "severity": "yellow",
+          "detail": "The state is experiencing a large measles outbreak, with schools being a major hub of transmission."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "The country faces a deepening health crisis with 21 million lacking health services, widespread disease outbreaks, and malnutrition."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical events impact oil markets; trade conflicts persist",
+      "summary": "Geopolitical developments, including the temporary reopening of the Strait of Hormuz, caused fluctuations in oil and commodity prices. Major trade conflicts, particularly between the US and China, continue to affect global supply chains and key industries.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The temporary reopening and subsequent uncertainty surrounding the US naval blockade impacted oil prices and global shipping."
+        },
+        {
+          "name": "United States",
+          "lat": 38,
+          "lng": -97,
+          "severity": "yellow",
+          "detail": "The US-China trade conflict continues, affecting various strategic sectors, while the domestic housing market shows positive trends."
+        },
+        {
+          "name": "China",
+          "lat": 35,
+          "lng": 105,
+          "severity": "yellow",
+          "detail": "The ongoing trade conflict with the US impacts its industries, including semiconductors and green technologies."
+        },
+        {
+          "name": "European Union",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "yellow",
+          "detail": "Frictions with the US persist over industrial subsidies, digital taxation, and divergent green-subsidy regimes."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.13,
+          "lng": -106.34,
+          "severity": "yellow",
+          "detail": "Air Canada suspended several routes, citing a doubling of jet fuel prices amid the ongoing Iran conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Lula warns of democratic setbacks; authoritarian middle powers rise",
+      "summary": "Brazilian President Lula da Silva warned against setbacks to democracy that could lead to authoritarian regimes. The 'Journal of Democracy' highlights the rise of authoritarian middle powers globally and challenges posed by elected leaders to democratic norms.",
+      "regions": [
+        {
+          "name": "Barcelona, Spain",
+          "lat": 41.38,
+          "lng": 2.17,
+          "severity": "yellow",
+          "detail": "Brazilian President Lula da Silva warned against democratic setbacks at a meeting of left-wing leaders."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.23,
+          "lng": -51.92,
+          "severity": "yellow",
+          "detail": "President Lula da Silva emphasized the need to strengthen democratic processes globally to prevent the rise of authoritarianism."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.28,
+          "lng": 36.82,
+          "severity": "yellow",
+          "detail": "Online abuse is silencing women in politics, contributing to a democratic crisis."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.37,
+          "lng": 69.34,
+          "severity": "yellow",
+          "detail": "The country is noted for its ongoing military tutelage in politics, affecting democratic institutions."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.24,
+          "severity": "yellow",
+          "detail": "Honduras is cited for a missed opportunity in democratic progress, with an opposition party failing to deliver on promises."
+        },
+        {
+          "name": "United States",
+          "lat": 38,
+          "lng": -97,
+          "severity": "yellow",
+          "detail": "Laws promoting religion and free speech, named after Charlie Kirk, are causing controversy in states like Tennessee and Kansas."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Crushing humanitarian crises in Haiti, Sudan, and Gaza",
+      "summary": "Haiti faces a dire humanitarian crisis with over six million needing urgent aid and 1.4 million displaced, compounded by gang violence. Sudan's civil war has created the world's worst humanitarian crisis, while Gaza continues to suffer from aid restrictions and attacks on infrastructure.",
+      "regions": [
+        {
+          "name": "Haiti",
+          "lat": 18.97,
+          "lng": -72.28,
+          "severity": "red",
+          "detail": "Over six million people require urgent humanitarian assistance, with 1.4 million internally displaced and critical health services collapsing amidst gang violence."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "The civil war has resulted in the world's worst humanitarian crisis, with over 14 million displaced and 34 million needing aid."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Aid delivery is severely hampered by restrictions and attacks, including the killing of water truck drivers, intensifying health and humanitarian crises."
+        },
+        {
+          "name": "Iran",
+          "lat": 32,
+          "lng": 53,
+          "severity": "red",
+          "detail": "Intense airstrikes have caused civilian casualties and extensive damage to infrastructure, disrupting basic services and increasing health risks."
+        },
+        {
+          "name": "Northern Gaza",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "UNICEF condemned the killing of two water truck drivers by Israeli forces, highlighting obstacles to clean water delivery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7WHzAuek1FGpS0APx2G3pOpzzKeehoZ-zRjqyo_6xlraG-eEPPzOSO3rHBo7iMDkr0GAg7LLFILWAgp7TTCTKhX39YP95eet8dCxTajjnU-ocKVuPPCRVWeeyIdqBcJ-DnHO3wSCh8SCNKvqvVq0UmMLUPzc0ecCOk54BrYSOnQ=="
+        },
+        {
+          "title": "gmanetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrKG4IUBT-QJcOshzIqwI-YjvYcV02JFdYTqWkn1q4A5yMleMG4FfCjOvsHvx9y0VhfwzazfXqMBLNWUg4cq5iQzElduhTW0GnxxdjwoL4MgTx4UmzNpREEQMTI1fMg9f3qvb15QXVTJ-AN9OeQSkPD9QHOLwtsbfuMqRkic5rVnmqw4k1cG3AFbramKgUX0lBH4lzIbFjX508qzvLiuLadGTFhF9h1O3psArj_U2CTE="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv2vgH27LzAperMva2g2Hm863bBHZTVnpH85luKPglHiCsGQpoMz47giL62pkVGin_KzEexBps8FXqQ6Peel_z1lLhuXia11y3c4x2CDK2y7NlEfDk1l2I8G0wpjDm-CvUB7k40k4b8ox5OoO6vif-pQxsG62EtArmbVfM55uw7diLdH_TmxakJUaKqhkQiggdE2_k8bi2dK4sj61SywvQu82B3TvJ5jsyvBH8eJgfEyVHd6nEQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUG2P40Cxy2nk3nYnZn_RRmFUK-tOYghP2Wai3oc4T8duuBDmb64ICSBf6ngku8GOttOVYK8Z8LIJnFrNtyoG9QKMommW1C72I1cRYGjtvu_yTdkNJPk_IDPGyRQBnFGqgRpxAD06QpkyJulwtw58KtrnikpBrjxCmZPUrOZ2uaIZDKZn7poWc_VQOZkdeC6H_C8lDCm0dfXLm1JQulC8ubGL6Th7tL_lQzenZqR1ndQ9IbaduRjXmqnTLgWzLeyyI"
+        },
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCuHw8ndsqUNjwE29BFW07XGHSq8sSCpqNsf7YHeG9oDv1ZpwroZDFlP_i7CdXKV1DrVWZABhiPYu_KV6YmlnFr-_Fy7BvMvAY826eWZFsqOQi7WUuhxmbmhNgfzcC5cMlXdVGkI3mzqx8R3XQ1rZf"
+        }
+      ]
+    }
+  }
+}
