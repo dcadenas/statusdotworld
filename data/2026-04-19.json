@@ -1,0 +1,356 @@
+{
+  "date": "2026-04-19",
+  "timestamp": 1776580247495,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East engulfed in escalating conflicts, Strait of Hormuz closed again.",
+      "summary": "Tensions in the Middle East escalated dramatically as Iran reimposed restrictions on the Strait of Hormuz due to continued US blockades, with reports of tankers under fire. The fragile ceasefire between Israel and Hezbollah in Lebanon is under threat due to renewed Israeli attacks, and a UNICEF water delivery team was killed in Gaza by Israeli forces.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Iran reimposed restrictions on vessel traffic, leading to gunfire reports and global energy price hikes."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian officials warned the Strait of Hormuz will remain closed until the US blockade is lifted, and talks for a broader peace deal are stalled."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US President Trump issued threats regarding the ceasefire with Iran and faces economic repercussions from the Strait of Hormuz closure."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli forces attacked targets in Lebanon, jeopardizing the fragile ceasefire with Hezbollah."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Two UNICEF water delivery contractors were shot dead by Israeli troops in northern Gaza."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian soldiers continue to face significant psychological tolls and addiction struggles in the fifth year of the war with Russia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Pope warns against AI dangers; cybersecurity risks escalate.",
+      "summary": "Pope Leo, during his Africa visit, issued warnings against the dangers of artificial intelligence and the plunder of resources. Meanwhile, cybersecurity experts raised concerns about Anthropic's new AI model, Mythos, and its potential to facilitate complex cyberattacks, prompting European financial institutions to enhance cyber resilience.",
+      "regions": [
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "yellow",
+          "detail": "Pope Leo spoke out against the dangers of AI and resource exploitation during his African tour."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "European Central Bank and other EU entities are working on cyber resilience due to AI-driven threats and geopolitical risks."
+        },
+        {
+          "name": "United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Anthropic, a US-based AI firm, developed the Mythos AI model raising cybersecurity concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "Focus on forest protection and climate research.",
+      "summary": "Discussions on April 19, 2026, highlighted the importance of smarter forest practices to protect against wildfires and climate stress, particularly in British Columbia. Additionally, new research explored the historical link between Andes volcanoes, algae blooms, whales, and climate patterns over millions of years.",
+      "regions": [
+        {
+          "name": "British Columbia, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "green",
+          "detail": "Discussions focused on implementing smarter forest practices to protect against wildfire and climate stress."
+        },
+        {
+          "name": "Andes Mountains",
+          "lat": -16.4897,
+          "lng": -68.1193,
+          "severity": "green",
+          "detail": "Research was reported on the ancient connections between Andean volcanoes, marine life, and climate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Global public health remains stable.",
+      "summary": "On April 19, 2026, there were no widespread global public health emergencies or major disease outbreaks reported. Public health systems continued their routine operations and monitoring efforts worldwide.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "Global health organizations continued to monitor public health trends and support health initiatives worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Global economy faces severe shocks from Middle East conflict and trade disruptions.",
+      "summary": "The global economy is under significant strain due to the closure of the Strait of Hormuz amid the US-Iran conflict, leading to surging oil prices, increased shipping costs, and disrupted supply chains worldwide. Eurozone banks are grappling with heightened geopolitical risks and cyber threats, while US ports report declining container volumes.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Its closure is severely disrupting global oil supplies and international trade, leading to increased shipping costs."
+        },
+        {
+          "name": "Los Angeles, United States",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "red",
+          "detail": "Ports of Los Angeles and Long Beach are experiencing declines in container volumes and increased costs due to global supply chain disruptions."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Eurozone banks are facing latent geopolitical risks, cyber threats, and potential loan quality deterioration due to global events."
+        },
+        {
+          "name": "Germany",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "Germany's manufacturing sector is particularly vulnerable to disruptions in the Strait of Hormuz affecting fuel and raw materials."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's actions in the Strait of Hormuz and ongoing conflict contribute to global economic instability."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US trade policies and involvement in Middle East conflicts are exacerbating global economic pressures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "No significant democratic erosion reported.",
+      "summary": "On April 19, 2026, there were no major reports of democratic erosion, significant election disputes, or widespread political instability directly threatening democratic institutions globally. Political processes largely continued without major disruptions.",
+      "regions": [
+        {
+          "name": "United Nations, New York, United States",
+          "lat": 40.7487,
+          "lng": -73.9683,
+          "severity": "green",
+          "detail": "International bodies continued to advocate for democratic principles and good governance worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Humanitarian aid efforts face challenges in conflict zones.",
+      "summary": "Humanitarian operations in Gaza faced a severe setback with the killing of two UNICEF water delivery contractors by Israeli troops. This incident underscores the extreme dangers faced by aid workers in conflict zones, while in Ukraine, the long-term mental health and addiction needs of soldiers remain a pressing humanitarian concern.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Two UNICEF water delivery contractors were killed by Israeli troops while providing essential water supplies."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Rehabilitation facilities in Kyiv are addressing the significant addiction and mental health challenges faced by Ukrainian soldiers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYUb7GeHpHXEsfqYHDOQyuWjksL1TNTUYAR_9YuPUgnDwFYDl9Iz_o9QItm6YuX7SAvPahYvKDWYWVQQ5ProtIVhGsUueEc3i2FGPu3kwGDVvnQVK3Ys44WKCtVfIVuXPBNvDL2nU8gq-l58y-5au4PIGySBmASRDXUvv9Tj-lH6xfH21qtueyKGAatdLScheYbLGOHBhhU_OvQ5ubMlFrA-yGdxyLKHQYN_f60Bct4f_BAppDIxmv8l10bE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEmtB4Zv-hPHfRZI0vvlxixrLx_AboxhfF0W9YSijxh1IuppuLAYwWee7EzNNZUtv5geBB-0mdWvrTOF8Wln3HMc3ABCC39jfzwsGq6PLn3iSmbMj4gNC5opAjmq6wg67d0xvuI1ZYTCYZEpvaBEIVj1z1EDV5OqMkKaUwvIYP8mEmtRTgJ2eqJRaGLEy8VkynZ5cexxRKZI_fCc5NYooPn_jzN-qfxOEuPlKQJGTAcXhHPYyQ5wWSBL_zrPDOIXxuUZMfls="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPRhirUn1kL9Sg57xznjed4H2NmqwmhdVNLN56USiGOL1Qj5spQhupdBK8seGq-qkzlL9v91lAVKt4yh8BDHoFTvSy8icjJ3-JH11S_1Fd64IPEVguUm_vOJNjyPM_292u1_-c2aPVhsOrAnLlfdsGyaQe4uML3TPHz-4oN27YoFOdcN4_V1yTPInBeYQ3Zc8e3glgNZpuKr1WjVUBZ1s_yPaTx32LVuyaYdScxbxQjstBAxhIaKVSPW1Ng=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxkDJDrwqLM3zdSFSFnJDR8AjWi1BTGW2kwlLvpfvtB9YmakX_sv3P6IxXsKF_YplLLF-bC_v8AhUYyP4Ci-WABVD11eDy4IeqV1xyM5xnNZz5dmr1ZmoXKXIOorx9VPa7mDySTe-TZUdr2VQz-jCQYehGDSvOoWbYoY1IaGvUlkB6gkfH3mn5Xwe2akDxD2nHqkKo7Xow4aBVPf5KH63T3MZYrcW-ppuBxtvwceZP5iX"
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuIuN5refPMtYFLcU3h6CzdMMRSXIaFY2fQThmJNYpJpfwodmWtnxcTOM03r2KNanCbzTBMNo0GomFfCcJVwifbxhFdkDPLZ5wEV3FHBiS5wVnbbAXTHMoyT_UUnF8G1gYcGDo6fr29zkodC9rdQOaDwO4gq7E2_OTblFwKFE2inIp6ef4CzRid9OfmLo5-q2uht7xUn6KI1meFRhDWtjG4c8LfXWTcVP1eGivgdW"
+        }
+      ]
+    }
+  }
+}
