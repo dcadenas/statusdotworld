@@ -1,0 +1,475 @@
+{
+  "date": "2026-04-21",
+  "timestamp": 1776753193076,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East war escalates; new conflicts erupt in Asia and Africa.",
+      "summary": "The shaky ceasefire between the US, Israel, and Iran remains on edge with ongoing naval blockades and a seized vessel, while new talks are planned in Pakistan. Major conflicts persist with a fresh cross-border offensive between Pakistan and Afghanistan, and the M23 armed group continues to capture territory in the Democratic Republic of Congo.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is engaged in ongoing tensions with the US and Israel, with negotiations underway in Pakistan amidst a fragile ceasefire."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US continues to enforce a naval blockade against Iran and is engaged in diplomatic efforts to de-escalate the Middle East conflict."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is part of the ongoing Middle East conflict, with its actions contributing to regional instability and a fragile ceasefire with Iran."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7294,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "Pakistan is hosting talks between US and Iranian delegations amidst doubts about their success in resolving the Middle East conflict."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Pakistani airstrikes targeted Kabul and other cities in response to a Taliban cross-border offensive."
+        },
+        {
+          "name": "Goma, DR Congo",
+          "lat": -1.6781,
+          "lng": 29.2272,
+          "severity": "red",
+          "detail": "The M23 armed group, backed by Rwanda, has captured Goma and Bukavu, committing unlawful killings and torturing detainees."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "A fragile ceasefire is in place, but Israel has reportedly violated it, contributing to an ongoing humanitarian crisis."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The conflict in Ukraine is continuing with no major new developments reported for today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Amnesty warns of global human rights crisis; civil liberties under attack.",
+      "summary": "Amnesty International's annual report released today highlights a 'deep global crisis' and a 'direct assault' on human rights, with technology used for surveillance and curbing online dissent. Specific crackdowns on civil society in Burkina Faso and erosion of liberties in Pakistan contribute to widespread concerns.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Amnesty International released its annual report from London, warning of a global human rights crisis and direct assaults on fundamental rights."
+        },
+        {
+          "name": "Ouagadougou, Burkina Faso",
+          "lat": 12.3714,
+          "lng": -1.5197,
+          "severity": "red",
+          "detail": "The military government has intensified its crackdown on civil society, dissolving 118 organizations on April 15, many involved in human rights work."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7294,
+          "lng": 73.0931,
+          "severity": "red",
+          "detail": "Amnesty highlights the erosion of civil liberties, with cybercrime and anti-terror laws weaponized to silence voices and authorities pulling ads from critical newspapers."
+        },
+        {
+          "name": "Vancouver, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "yellow",
+          "detail": "First Nations in British Columbia are opposing moves by the provincial government to suspend or amend indigenous rights legislation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "UN High Commissioner Volker Türk met with civil society in Mexico, highlighting the importance of protection mechanisms for human rights defenders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record heat streak continues in 2026; Vietnam faces intense heatwave.",
+      "summary": "The year 2026 is projected to extend a record heat streak, driven by global warming and an anticipated El Niño shift from June. Central and southern Vietnam are experiencing intensifying heatwaves, with temperatures reaching 35-37 degrees Celsius. A new study links extreme weather events to increased heart disease risk in China.",
+      "regions": [
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "red",
+          "detail": "Central and southern regions of Vietnam are experiencing intensifying heatwaves, with temperatures expected to reach 35-37 degrees Celsius."
+        },
+        {
+          "name": "Los Angeles, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "Wildfires in North America, including recent ones in California, are burning longer into the night due to climate change."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan will begin collecting carbon fees from major emitters next month, with some facilities receiving discounts due to carbon leakage risks."
+        },
+        {
+          "name": "Santa Marta, Colombia",
+          "lat": 11.233,
+          "lng": -74.2,
+          "severity": "yellow",
+          "detail": "Over 50 nations are attending a conference in Santa Marta next week to discuss phasing out fossil fuels."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "A study reveals a link between extreme climate events and increased heart disease risk in older populations across 157 Chinese cities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Alzheimer's impact rises in US; climate events linked to heart disease.",
+      "summary": "A new Alzheimer's Association report reveals 7.4 million Americans aged 65 and older are living with clinical Alzheimer's dementia, with most unaware of prevention strategies. In Bangor, Maine, efforts continue to address an ongoing opioid epidemic and HIV outbreak through syringe collection programs. A study also found extreme climate events are increasing heart disease risk in China.",
+      "regions": [
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The Alzheimer's Association released its 2026 Facts and Figures report, detailing the growing impact of Alzheimer's dementia in the US."
+        },
+        {
+          "name": "Bangor, USA",
+          "lat": 44.8016,
+          "lng": -68.7709,
+          "severity": "yellow",
+          "detail": "A non-profit had its contract renewed to collect nearly 8,000 littered syringes, addressing an HIV outbreak and opioid epidemic."
+        },
+        {
+          "name": "Lexington, USA",
+          "lat": 38.0406,
+          "lng": -84.4947,
+          "severity": "green",
+          "detail": "Public health leaders gathered for the 2026 Kentucky Tobacco Control Conference to advance tobacco prevention strategies."
+        },
+        {
+          "name": "Ca Mau, Vietnam",
+          "lat": 9.1764,
+          "lng": 105.15,
+          "severity": "green",
+          "detail": "A meningococcal cluster in Ca Mau has been successfully brought under control."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "A new study highlighted that extreme climate events increase the risk of heart disease in older populations across Chinese cities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war fuels global energy crisis, darkening economic outlook.",
+      "summary": "The ongoing war in the Middle East has significantly darkened the global economic outlook, leading to predictions of slower growth and increased inflation. A severe energy crisis is unfolding, with over 600 million barrels of oil supply lost and surging fuel prices, exacerbated by tensions around the Strait of Hormuz. The G20 Finance Ministers meeting concluded with concerns over the Middle East but no joint statement.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Tensions and disruptions around this key global energy route are a primary driver of the intensifying global energy crisis and oil supply shocks."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US gas prices have surged by 47% since December, and the G20 Finance Ministers meeting was held here, expressing concern over the Middle East crisis."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia raised non-subsidized LPG prices by 18% and plans to stop diesel imports by July 1, 2026, shifting to palm oil biofuel."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "green",
+          "detail": "Vietnam is focusing on developing a sustainable and green circular economy, shifting its industrial sector by 2030."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Gaza's economy has shrunk by 84%, with an estimated US$71 billion needed for recovery and reconstruction over the next decade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US faces gerrymandering battles; democracy challenged in Pakistan and Georgia.",
+      "summary": "Virginia voters are deciding on a controversial mid-decade redistricting plan, part of a national battle over gerrymandering initiated by President Trump. A new documentary highlights attacks on US academics as a sign of democratic erosion, with warnings the US is heading toward authoritarianism. Meanwhile, Pakistan faces deepening military influence, and Georgia's ruling party is pulling the country closer to Russia.",
+      "regions": [
+        {
+          "name": "Richmond, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "Virginia voters are deciding on a mid-decade redistricting plan that could significantly impact Democratic representation in Congress."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns about attacks on US academics are highlighted as a microcosm of democratic erosion, with warnings of a potential shift towards authoritarianism."
+        },
+        {
+          "name": "Wellington, New Zealand",
+          "lat": -41.2865,
+          "lng": 174.7762,
+          "severity": "green",
+          "detail": "Prime Minister Christopher Luxon successfully survived a party leadership vote, maintaining his position."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7294,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "The military has long influenced Pakistani politics and is deepening its control within the country's institutions."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.8271,
+          "severity": "yellow",
+          "detail": "The ruling party in Georgia is reportedly moving the country closer to Russia, despite societal aspirations for closer ties with the West."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Massive aid needed in Gaza; Afghanistan operation launched.",
+      "summary": "An EU-UN report estimates that US$71 billion will be needed for Gaza's recovery and reconstruction over the next decade, with Israeli border limits hindering aid delivery. In Afghanistan, humanitarian organizations launched a multi-day operation to deliver urgent assistance to thousands in conflict-affected Nuristan Province. Cyprus is also strengthening its role as a humanitarian aid hub in the Eastern Mediterranean for evacuees from the Middle East conflict.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "A vast reconstruction effort requiring US$71 billion is needed after two years of conflict, with aid delivery continuously hampered by border restrictions."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Humanitarian organizations launched a critical multi-day operation to deliver urgent assistance to thousands in Nuristan Province who lack basic needs due to conflict."
+        },
+        {
+          "name": "Paphos, Cyprus",
+          "lat": 34.7709,
+          "lng": 32.4241,
+          "severity": "yellow",
+          "detail": "Cyprus is upgrading military installations with US funding to serve as a safe haven and humanitarian aid hub for Middle East evacuees."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Most overseas Filipino workers repatriated due to the Middle East conflict are receiving intensified reintegration programs."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "green",
+          "detail": "Donald Trump's 'Board of Peace' is reportedly holding discussions with DP World to manage supply chains and infrastructure for Gaza reconstruction."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWQK9sakPZAxKcqDpYsEpAzuz3YTR9bKXXDLhiyAPE_zz9tH5aHdMks8-dwS7mdN3fIioBhNnoaNfEaeNl1z_C9fZHtLfIPz2nd_xRSO0Y0ATSJbuWtrbrv0No-oHAM4_m0-C5JCXNJX_MCuLcSxUgiy7q08AIBLFhIxAKFZVwQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLyKVe2NQ5mImIzXJufwzYkhBHgx4rXvoksMHeqBd2eWm-qwKCyp5YsJzqOyLHC-BZStMrAVZxLwQmrgyCNFpioFq2JXe1atZexLwM3TZbrrP-wR-njiLQhWgc6_eXmJulXROs6K0dW9aOuDZpOK_oD96To2V56O6o9U_ABpWvLWcF8Gsqas-C-YCzXOzHY-6AdSnw39cev2ey5d_6DEoqSuWH2z_HSmsx7iExTVLIRQfuk6mXaDCG47Gy1A=="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Xndz8HMvKs_pcJvktQ9tEZd5pz_EkYbSjFDjfW6e2bb1K0eKkEdR__oS-W_euU85edRgPdkVCj0oL-kabDRo4OYWyWsASNbTtJWlbV9m_MEqo9k_3kI4nBIA_ISMNKDQDKU-mWzHGtZmaiW97D8DcTy465X16UTGYvjKinXihezbZKOBOPMbGtJyEXtOv4hWedD7RjptqRbeOWXWldNcFIYa-P2f_mA1kob-93Teg7L2m7skG5DBQCI7OyYBUH-PJRtjZNwe8tQ="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ltqUPL-mpMDY09jq2uwC5TsRmBC1qRVxDZJQjW5q1-fzk-DPEFlrCaXlL6WMWGmTVoaoQ90gavaqyP3nGGlf0PtvxEfjtigSpRo-WNgn_bsEnZSk9RNVOh7ewtm666VJtz_dLqUCFElo2MHNS1O_Y1qJPhR04GSRamxGQNUJVlwhl49WVOxhdmCKIFORm9q_8bnGqSzd79IIBVkDDSocm_pH8n_TKcS6wQEhgg=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNQ3inVTL8UYR9SzN1EBsKYgo_rcOcuYaWo18g9udbL8S7emgPQ9Ol2MZpQ4yLuDMMTEwRnSuH4NPCnWrrR5x3IPbtnzzvXEQD-wcVjqqgqdFgJ7yfi-qYLrjWeo3eJ5vJpzWcSQ_vGXlXtFQBfTgh_uQnysJ3SdtsaGfLLy2qSUyArBSBXC102O7m1ssMlxJN8IiFkis="
+        }
+      ]
+    }
+  }
+}
