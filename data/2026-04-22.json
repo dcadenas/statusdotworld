@@ -1,0 +1,482 @@
+{
+  "date": "2026-04-22",
+  "timestamp": 1776839625204,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran ceasefire extended amid fragile talks; Israel-Hezbollah tensions persist.",
+      "summary": "The US has indefinitely extended a ceasefire with Iran at Pakistan's request to allow for a unified peace proposal, though a US naval blockade on Iranian ports continues. This extension comes amidst reports of an Iranian attack on a container ship off Oman and ongoing clashes between Israeli forces and Hezbollah in Lebanon, highlighting the precariousness of regional stability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran has not formally responded to the ceasefire extension, with its news agency calling the extension a 'deception' and signaling vigilance."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump announced the indefinite extension of the ceasefire with Iran, while maintaining the naval blockade."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Pakistan mediated the ceasefire extension, but planned peace talks in Islamabad with US Vice President JD Vance were indefinitely cancelled as Iran did not confirm participation."
+        },
+        {
+          "name": "Al-Bayyadah, Lebanon",
+          "lat": 33.1558,
+          "lng": 35.2503,
+          "severity": "red",
+          "detail": "Israeli forces demolished several homes in Al-Bayyadah, southern Lebanon, ahead of potential talks in Washington."
+        },
+        {
+          "name": "Northern Israel",
+          "lat": 33,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Hezbollah claimed attacks on northern Israel in response to alleged Israeli truce violations."
+        },
+        {
+          "name": "Gulf of Oman",
+          "lat": 25,
+          "lng": 58,
+          "severity": "yellow",
+          "detail": "An Iranian attack on a container ship off Oman was reported, further escalating tensions amidst the ceasefire."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Amnesty warns of global human rights crisis; US civil rights group indicted.",
+      "summary": "Amnesty International's annual report indicated a severe global attack on human rights in 2025, with authoritarian practices intensifying and existing protections eroding. In the United States, the Southern Poverty Law Center was indicted on federal fraud charges, while South Korea co-sponsored a UN resolution to maintain scrutiny of human rights abuses in North Korea.",
+      "regions": [
+        {
+          "name": "Global (General)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Amnesty International warned that global human rights are under severe attack, with a rise in authoritarian practices and anti-rights rhetoric."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Southern Poverty Law Center was indicted on federal fraud charges alleging it improperly paid leaders of hate groups."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "President Lee Jae-myung's government reaffirmed its commitment to human rights by co-sponsoring a UN resolution on North Korea."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0392,
+          "lng": 125.7625,
+          "severity": "red",
+          "detail": "The UN Human Rights Council resolution continues international scrutiny of grave abuses, including crimes against humanity."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "The California State Legislature passed the Digital Identity Protection Act, a significant piece of digital rights legislation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "UN-led efforts are continuing with the Global Dialogue on Artificial Intelligence Governance to ensure AI benefits all countries and includes human rights and safety measures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Earth Day highlights worsening climate crisis; US air pollution impacts children.",
+      "summary": "On Earth Day, concerns intensified over the planet's warming trajectory, with calls for significant greenhouse gas reductions by 2030 to prevent exceeding the critical 1.5°C benchmark. A new report revealed that nearly half of American children are breathing unhealthy levels of air pollution, a situation exacerbated by climate-fueled wildfires and rollbacks of environmental protections.",
+      "regions": [
+        {
+          "name": "Global (General)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Earth Day serves as a crucial reminder that human actions are pushing the planet beyond its limits, with temperatures still rising towards critical benchmarks."
+        },
+        {
+          "name": "United States (General)",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "A new report found that nearly half of America's children are breathing toxic air, with climate change worsening pollution, especially ground-level ozone."
+        },
+        {
+          "name": "Connecticut, USA",
+          "lat": 41.6032,
+          "lng": -73.0877,
+          "severity": "yellow",
+          "detail": "Legislators are being urged to pass a Climate Superfund Act, similar to New York's, to make fossil fuel companies pay for climate-related damages."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York previously signed a Climate Change Superfund Act, requiring fossil fuel producers to contribute to climate-related infrastructure projects."
+        },
+        {
+          "name": "Saint-Alban, Quebec, Canada",
+          "lat": 46.7,
+          "lng": -72.0667,
+          "severity": "green",
+          "detail": "Residents are participating in a Great Spring Cleanup, an Earth Day tradition focused on protecting wildlife from litter."
+        },
+        {
+          "name": "Winnipeg, Manitoba, Canada",
+          "lat": 49.8951,
+          "lng": -97.1384,
+          "severity": "green",
+          "detail": "Earth Day celebrations include student climate films and interactive learning stations, blending education with engagement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles case in Rhode Island; severe tick season anticipated in US.",
+      "summary": "Rhode Island confirmed its first measles case of 2026, linked to recent international travel, contributing to thousands of reported cases nationwide in 2025 and 2026. Public health officials in the US are also warning of a severe tick season, necessitating precautions against tick-borne diseases, while Senate hearings scrutinize vaccine policies and public health directives.",
+      "regions": [
+        {
+          "name": "Providence, Rhode Island, USA",
+          "lat": 41.824,
+          "lng": -71.4128,
+          "severity": "yellow",
+          "detail": "The Rhode Island Department of Health confirmed the state's first measles case of 2026, involving a man who recently returned from an international trip."
+        },
+        {
+          "name": "United States (General)",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The US has seen thousands of new measles cases at higher rates in 2025 and 2026, and a severe tick season is forecasted in many parts of the nation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Senate hearings are taking place with the Health Secretary, with discussions including concerns about a dramatic rollback of vaccine recommendations."
+        },
+        {
+          "name": "New Ulm, Minnesota, USA",
+          "lat": 44.3122,
+          "lng": -94.4605,
+          "severity": "yellow",
+          "detail": "Brown County Public Health Director warned commissioners about the severity of the upcoming tick season, advising public precautions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF warns of global growth slowdown; Middle East war impacting energy markets.",
+      "summary": "The IMF's April 2026 World Economic Outlook projects a slowdown in global growth to 3.1% and a modest rise in inflation for 2026, largely attributed to the ongoing war in the Middle East. The conflict continues to disrupt global energy markets, particularly around the Strait of Hormuz, straining US missile stockpiles and leading to significant humanitarian consequences in affected regions.",
+      "regions": [
+        {
+          "name": "Global (General)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy is at a critical juncture, facing a projected slowdown in growth and rising inflation due to geopolitical tensions."
+        },
+        {
+          "name": "Middle East (General)",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The war in the Middle East is a major test for global activity, threatening to disrupt growth and disinflation, with emerging economies facing the sharpest slowdown."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The 2026 IMF-World Bank Spring Meetings are underway, with discussions on strengthening macroeconomic and financial resilience."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Maritime movement remains disrupted, impacting shipping costs, fuel prices, and regional supply chains, further exacerbating the global energy crisis."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "The country is experiencing sharper economic pressure due to rising refugee crossings from Iran and Pakistan, straining border provinces and urban centers."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Economic collapse is pushing highly educated Gazans into a 'survival economy,' abandoning their professions to meet basic needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global democratic backsliding persists; elected leaders undermine institutions.",
+      "summary": "Experts and reports highlight a concerning global trend of democratic backsliding, where elected leaders incrementally undermine democratic institutions rather than through overt coups. This erosion is characterized by efforts to weaken judicial independence, attacks on media, and infringements on civil liberties across various nations, including ongoing political crises in Israel and discussions on the state of democracy in the US.",
+      "regions": [
+        {
+          "name": "Global (General)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Academic lectures and reports discuss the global wave of democratic backsliding, noting that democracy is under stress in various ways and regions."
+        },
+        {
+          "name": "United States (General)",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Concerns about democratic erosion include attacks on academics and the impact of political polarization on LGBTQ+ rights."
+        },
+        {
+          "name": "San Salvador, El Salvador",
+          "lat": 13.6929,
+          "lng": -89.2182,
+          "severity": "yellow",
+          "detail": "President Nayib Bukele is cited as an example of a leader who came to power through 'political personalism,' contributing to democratic backsliding."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Viktor Orbán's Fidesz party is mentioned as an example of a dominant party consolidating power by expanding and packing the constitutional court with loyalists."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is reportedly experiencing a quiet erosion of democracy due to political polarization, repeated instability, and the entanglement of religion and politics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid reaches millions in Cambodia; Middle East conflict raises regional humanitarian needs.",
+      "summary": "World Vision provided aid to 5.4 million people in Cambodia in 2025, including 3.1 million children, amidst ongoing border tensions and mass displacement. The escalation of the Middle East conflict is intensifying humanitarian impacts across Asia and the Pacific, particularly in Afghanistan, where increased crossings from Iran and Pakistan are straining resources. Greece also delivered humanitarian aid to Lebanon, which faces a severe human cost due to ongoing conflict.",
+      "regions": [
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9282,
+          "severity": "yellow",
+          "detail": "World Vision Cambodia provided life-saving aid to 5.4 million people, including children, in 2025 due to border tensions and displacement."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "The humanitarian situation is deteriorating with over 190,900 reported crossings from Iran and Pakistan, placing severe strain on border provinces and urban centers."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Greece sent humanitarian aid, including medical materials and food, to Lebanon, which has seen over a million displaced and thousands killed due to conflict."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The EU allocated €25 million in humanitarian aid to meet the basic needs of vulnerable Palestinians in the West Bank, East Jerusalem, and Gaza amidst economic collapse."
+        },
+        {
+          "name": "Ukraine (General)",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "red",
+          "detail": "UNICEF reported that in the first quarter of 2026, civilian casualties were 20% higher than in 2025, with ongoing efforts to provide safe water, sanitation, and cash assistance."
+        },
+        {
+          "name": "Pakistan (General)",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "Pakistan is experiencing increased humanitarian pressure due to rising refugee crossings from Iran, compounding existing vulnerabilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYwdzgHxZWmdsuxaVLyiIuHpzaX9QNuVbkz8GL44Imjo-us5WTllTbWbHWIsPB8D-BY6e1vQa15Af8qVJKup3ggyAF1mr2KCvuhcoE5AjxWM6A-wJ7LzYm6coL3vvDG51-BvKJ3YgjMqKoFUvqgQtp4PgiKb3Xzx9k0sglHxqg-9SfBkadgCDMvmlLn4q5XUMvjD87lf8yCbydX_lOYut-AJvJC6HykwEpRl7VlodRVX64on1-upeyEdwTyiqoQFSvOVtpGV2k0UZMGOFR4ySOWBs4Zbt8V1WF_uwFYZESLEOO2eumKWJyOClVeo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hBpu5O9BaQfynhgUuNSTSXztEPO5RUPtv3LA0TN4Ndfme2-vUM8o7kMiXagkQLzNHw8b-cnU3WGsTzXC8eNQsc12xy1fZUWrEwcpt0B_vIIsWv5pTkovgfnbWRa4BSbuFgpLXw30kec4CVuCoL0LklHwsVrSRtd2Pp1K_BN90TBB0vKwjRKIPZ8SOPIQRgKr9Mdw7ewd1dANmBUJ2ic5wEFqxDpyewnAshagndor0xJ5S9NZiSgN6GXE-KKY0opKX-SPMhJrUg-ZGtWox34Is8opCzc="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGeLmY8yPzQHWxeO1rbScod4rTN_L7KMgGmX3G2VgcTxx1eGaaFTCa6jAgYkYOgGW6m1Mk-48UUQ7d7hnZSqN9raT8miq6ZyQuwcLv8KT9FD8toqArrR-Tf-xu4uxD9iJ92OfaLScqk6WUawCV--B41uek2ieHx5mPmV7_AJJtZ3g-9GOQb8yHX8d91bdukXxSoiZJivobog-mAKYX4lH0CwJXzzYt8bko590lB-6Ro-HEzCYTiLVmB9cmq-n0ldNoOfk3ohrKb8u9l0MtZXJbmSloQ=="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rBffsYF90HVymWb_Yr99xI1bLcaTpNVIlr0xJpnuNw_18E9ChV27k97Shs_0VgRCcrMq3kpJC4D8jW9XeVoh6kIBwvFCbO2mPzvzhvEcCmj-9SvOthg2UkJS2SfWYAt9LMY1ksCTqIII2PLE_686ck9JHRhZ9fYlaJOGglEjUmEfLpgOa0bVaENpGLD57qMHuN9QVihRmCgkZ5xHSdI9kwCff59FgT84fO9xLFcuGx8tVDsC5hXoaK6pXxvdLpsk2TQ="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp7hChTsY_ycTJPxPZvQEijmUZ1I5n_y8Gc_CtsoCLAcx36F3WlzTJut1dd_jF9TvhEAdVUtXvOR7kAjymsiCe21meaM2QUQvapZpFQeykg8leUzp_cmuoyCuxN9ipAwEDQaONx2gbVtZ"
+        }
+      ]
+    }
+  }
+}
