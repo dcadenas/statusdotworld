@@ -1,0 +1,461 @@
+{
+  "date": "2026-04-24",
+  "timestamp": 1777012498970,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East Tensions Escalate; Conflicts Persist in Africa and Myanmar",
+      "summary": "Geopolitical tensions flared in the Middle East with an extension of a shaky ceasefire between Israel and Lebanon amidst ongoing cross-border clashes and rhetoric from Iran and the US regarding the Strait of Hormuz. Meanwhile, South Sudan is on the brink of civil war, rebel groups rejected peace talks in Myanmar, and the DRC government reached an agreement on aid and prisoner releases with M23 rebels.",
+      "regions": [
+        {
+          "name": "Upper Galilee, Israel",
+          "lat": 33,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "A Hezbollah drone attack wounded an Israeli reservist and rockets struck, prompting Israeli airstrikes in Lebanon."
+        },
+        {
+          "name": "Yater, Lebanon",
+          "lat": 33.15,
+          "lng": 35.3667,
+          "severity": "red",
+          "detail": "Israel's military struck a missile launcher here after Hezbollah fired into Israel, and two people were wounded by Israeli shelling."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "US President Trump ordered the military to 'shoot and kill' Iranian boats laying mines, and Iran's IRGC seized two vessels in the Strait."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "yellow",
+          "detail": "Rebel groups rejected the junta's call for peace talks, prolonging the internal conflict."
+        },
+        {
+          "name": "Abiemnhom, Unity State, South Sudan",
+          "lat": 9.3892,
+          "lng": 29.5398,
+          "severity": "red",
+          "detail": "Fighting between government and opposition forces killed 169 people and displaced 4,000 in this area, as the country verges on civil war."
+        },
+        {
+          "name": "Goma, Democratic Republic of the Congo",
+          "lat": -1.6784,
+          "lng": 29.2275,
+          "severity": "yellow",
+          "detail": "The government and M23 rebels agreed to ease humanitarian aid deliveries and release prisoners in a confidence-building effort."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Concerns Mount Over Rights Abuses and Restrictive Legislation Globally",
+      "summary": "Human rights are under pressure from legislative actions and government crackdowns in several nations. Uganda's proposed 'Protection of Sovereignty Bill' threatens civil society, while Zimbabwe intensified its crackdown on student protestors. In the US, a new Kansas law restricts transgender rights, and the Southern Poverty Law Center faces a criminal indictment. AI-related legislation concerning privacy, deepfakes, and surveillance is also being debated across US states, indicating a growing focus on digital rights.",
+      "regions": [
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5822,
+          "severity": "red",
+          "detail": "A bill threatening fundamental rights and civil society, by proposing sweeping controls over 'foreign funding' and political activity, is before parliament with public comments due today."
+        },
+        {
+          "name": "Topeka, Kansas, United States",
+          "lat": 39.0473,
+          "lng": -95.678,
+          "severity": "red",
+          "detail": "A new state law forbids transgender people from using public restrooms aligned with their gender identity, prompting a statewide evacuation order from an advocacy group."
+        },
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.0559,
+          "severity": "yellow",
+          "detail": "Authorities have harassed, abducted, and detained student leaders protesting a proposed constitutional amendment to extend presidential terms."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Rights groups condemned the conviction of two Palestine solidarity activists under expanded police powers."
+        },
+        {
+          "name": "Sacramento, California, United States",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California continues to advance AI-related legislation, including a bill establishing an AI Standards and Safety Commission."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Civil rights groups condemned the criminal indictment of the Southern Poverty Law Center by the Justice Department."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Wildfires Intensify in US East; Emperor Penguins Endangered",
+      "summary": "Climate change is driving more intense and frequent wildfires in the Eastern United States, with a blaze in Georgia destroying over 50 homes. Globally, Emperor Penguins have been moved to the endangered species list due to rising temperatures and shrinking ice shelves in Antarctica. Regulatory efforts are underway in the US regarding PFAS compounds and water quality.",
+      "regions": [
+        {
+          "name": "Nahunta, Georgia, United States",
+          "lat": 31.2033,
+          "lng": -81.9965,
+          "severity": "red",
+          "detail": "A significant wildfire, the Brantley Highway 82 fire, destroyed more than 50 homes, highlighting the increasing wildfire problem in the US East."
+        },
+        {
+          "name": "Nebraska, United States",
+          "lat": 40.8136,
+          "lng": -96.7026,
+          "severity": "yellow",
+          "detail": "The state saw a significant portion of the 2,802 square miles burned in US wildfires this year, which is 88% more than the 10-year average."
+        },
+        {
+          "name": "Antarctica",
+          "lat": -90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Emperor Penguins have been officially moved onto the endangered species list due to rapidly deteriorating breeding grounds caused by climate change."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The EPA is working on finalizing rules for PFAS compounds under RCRA and has proposed changes to water quality certification requirements."
+        },
+        {
+          "name": "Fredericton, New Brunswick, Canada",
+          "lat": 45.9636,
+          "lng": -66.6431,
+          "severity": "green",
+          "detail": "Canada's new nature strategy, 'A Force of Nature,' will be highlighted today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Air Pollution Linked to Infant Respiratory Issues; Global Vaccine Drive Progresses",
+      "summary": "Preliminary findings presented today link ambient air pollution to an increased burden of respiratory infections in infants during their first year of life, based on a Rome cohort study. Meanwhile, a global vaccine drive has reached 18.3 million children after setbacks, and Alabama has enacted legislation regulating AI use in healthcare coverage decisions.",
+      "regions": [
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "A study from the IDEaL Rome Cohort presented today shows a significant link between urban air pollution and higher infant respiratory infection rates."
+        },
+        {
+          "name": "Boston, Massachusetts, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "The Pediatric Academic Societies 2026 Meeting is taking place here, where new findings on infant health and environmental exposures are being presented."
+        },
+        {
+          "name": "Montgomery, Alabama, United States",
+          "lat": 32.3668,
+          "lng": -86.2999,
+          "severity": "green",
+          "detail": "Governor Kay Ivey signed SB 63 into law, regulating the use of artificial intelligence in healthcare coverage determinations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran War Fuels Global Economic Strain and Inflation Amidst Downgraded Growth",
+      "summary": "The global economy is facing tangible strains from the energy shock triggered by the Iran war, leading to soaring production costs, weakened activity in services sectors, and rising inflation. The IMF has downgraded its global growth outlook to 3.1% for the year, warning of a potential recession if disruptions persist. Consumer sentiment in the US has significantly declined, and inflation expectations have surged.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium (Eurozone)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The Eurozone is among the hardest hit, with its headline economic index falling, indicating a shrinkage in activity and surging input prices."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Consumer sentiment has decreased significantly, and year-ahead inflation expectations have surged amidst concerns over the Iran conflict."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese exporters are beginning to raise prices on goods due to increased oil-linked input costs from the Iran war, signaling accelerating global inflation."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "The Bank of Japan faces a policy dilemma as inflation eases but persistent energy risks from global conflicts remain."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The ongoing standoff and naval actions in this crucial waterway continue to impact global energy supplies and prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Uganda and Zimbabwe Threaten Democratic Freedoms; US Civil Rights Under Scrutiny",
+      "summary": "Democratic principles are under threat in Uganda and Zimbabwe, where governments are introducing restrictive legislation and suppressing dissent. In the US, the criminal indictment of the Southern Poverty Law Center has raised concerns about the targeting of civil rights groups. Venezuela's acting president announced the end of an Amnesty Law, while the US sanctioned a Cambodian senator over a scam network.",
+      "regions": [
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5822,
+          "severity": "red",
+          "detail": "Parliament is considering a 'Protection of Sovereignty Bill' that proposes sweeping controls over 'foreign funding' and political activity, threatening fundamental rights."
+        },
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.0559,
+          "severity": "red",
+          "detail": "Student leaders protesting a proposed constitutional amendment to extend presidential terms have faced harassment, abduction, and arbitrary detention."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The criminal indictment of the Southern Poverty Law Center by the Justice Department has raised concerns among civil rights leaders about government targeting."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The acting president announced the end of the country's Amnesty Law."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9167,
+          "severity": "yellow",
+          "detail": "The US sanctioned a Cambodian senator due to involvement in a scam network targeting Americans."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid Efforts Continue Amidst Rising Costs and Access Challenges",
+      "summary": "Humanitarian aid efforts are underway globally, with Singapore pledging funds for Lebanon and Russia delivering aid to Afghanistan. The EU has allocated substantial aid for West and Central Africa, including Sudan's neighboring countries. However, the Norwegian Refugee Council warns that rising fuel costs, linked to the Iran conflict, will limit global aid capacity and expects to assist fewer people in 2026, while aid access to Gaza remains limited despite a ceasefire.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Singapore pledged US$100,000 to support international humanitarian aid efforts for Lebanon."
+        },
+        {
+          "name": "Mazar-i-Sharif, Afghanistan",
+          "lat": 36.7,
+          "lng": 67.1167,
+          "severity": "yellow",
+          "detail": "Russia delivered the first batch of humanitarian aid, consisting of fortified wheat flour, to Afghanistan."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU Commission allocated €235 million for humanitarian aid in West and Central Africa, with a significant share for Sudan's neighboring countries."
+        },
+        {
+          "name": "Ouagadougou, Burkina Faso (Central Sahel)",
+          "lat": 12.3714,
+          "lng": -1.5197,
+          "severity": "yellow",
+          "detail": "The Central Sahel region will receive €75 million in EU humanitarian funding for emergency response in conflict-affected areas."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Aid access to the Gaza Strip remains limited, despite a ceasefire earlier this year, making it difficult to deliver sufficient supplies."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 91.9796,
+          "severity": "yellow",
+          "detail": "The Norwegian Refugee Council warns that rising fuel costs will impact its ability to help humanitarian causes here."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZSOLXnOF-NhhFQhxIZv4wwEaAlzTkdWyK7YrvtOwLY56Kg3F5JH88Kg0j9ZrhXeO8jOIPYPz_iEUNKY4vnRVfPde8ZjtiMMXF3Q-RCQxUImDxfCZmMt3NcRycCuo-jrhqgS5gG28z"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG91Z_3DPDCcDyKAsdDfz4jrO8_kvJGuXT9ofijXfI0QtZPUCM94mHuW6OeBKcwiJzhYqNaYuad3mPy99RerlsxFz7m4eFOOvhe4_pwvN0qt6aQ5pwtlgwbX1oxOTnuwFD9hjNDfFR5zol7tKtwxRoYegVJ-TL1NsK-U3CgnI-Q=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtUQjZNgiimtazydmg2AjJdT-cqdwztO_xzwQO6S1cVORfl5NI34LCb8QRZsLTbWvUPwFl2ybto84WbDiv-xxApkg9JNM7cDGpiotcg0PgetpMdMk1rjhZNZFQtcJ3Ri2WxnwoPnNRyCZBhjV0U1bNfXI-gfiFT0mQmgsBbjd3x8H44_04cbN-SeoDglpJdFYYJrabT50_VWDxqzVt7DiLVQrSAhNDQYA5bR5"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcbRwzJC565tFB1HIo8G8ugyYvh02SRWJkB86oeIUUGBb-bw4zGB33F1D-_2BvAdsbK2iSOBEF9XLQ5FQ8J9AV2KxvsvZ-iMbmWGppb1YzetdOZFAOW9cMfknk_9qrL0WCOZSHv4m1KpkCAvTwKiDSg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKnt-EgQEfOEiynfvmKN-Vo12YDxgj5spKI8bZXpyxpztSreOpxI5U1oDYxownb3R5ZQbVGhJpQICcHzuYOS-hhPBY8-ozzS27h4-GnN11yc8PHqjwjcL9ZPQz0WDIL9GRaNo0-ea3d-MY8jRB8RtKxiW-nBG6qy6zuiI3mleye8BGhTXlUgSyySd3iDkedJXC1J_AJ_bVoty9sTbzyr9w9A-ZQBMaHmIZ1uL1g83NZBaVwmiEihAPkf1lR6b4v-22wpwHMwsxWA-"
+        }
+      ]
+    }
+  }
+}
