@@ -1,0 +1,601 @@
+{
+  "date": "2026-04-25",
+  "timestamp": 1777098471396,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East War Intensifies with Talks Stalled; Ukraine Fighting Persists",
+      "summary": "The ongoing war between Israel and Iran, with active fighting in Lebanon involving Hezbollah, remains highly volatile with reported ceasefire violations and Israeli airstrikes causing casualties. Diplomatic efforts in Islamabad between US and Iranian envoys are struggling to achieve direct talks, while the Strait of Hormuz remains disrupted, escalating global tensions. Concurrently, the Russia-Ukraine war continues with prisoner exchanges and ongoing attacks.",
+      "regions": [
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.4,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli airstrikes killed six people, and Hezbollah dismissed a ceasefire extension, citing Israeli hostile acts."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Pakistan is hosting a second round of peace talks between US and Iranian envoys, though Iran has stated no direct talks with the US are planned."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran has blocked most non-Iranian ships, disrupting global energy markets, and the US has imposed a separate blockade on Iranian shipping."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The war with Russia continues with ongoing missile and drone attacks, despite a prisoner exchange."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian leadership is involved in ongoing conflict and peace talks, while facing US sanctions and environmental damage from strikes."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Israeli leadership is actively engaged in the conflict and ceasefire discussions, with military operations ongoing in the region."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spain's Prime Minister emphasized reliability as a NATO member amid reports of potential US pressure related to its stance on the Iran conflict."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia is engaged in the ongoing war with Ukraine and participated in a prisoner exchange, while expanding powers of its security services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital Rights & AI Safety Face Global Challenges, EU Child Protection Lapses",
+      "summary": "Digital rights and AI safety are facing significant global challenges, with the US taking measures against foreign exploitation of AI models and a Minnesota bill targeting AI 'nudification'. The expiry of the EU's child sexual abuse material detection framework raises serious protection concerns. Meanwhile, surveillance debates persist in the US, and a new policy paper in Pakistan highlights the undermining of digital rights by its cybercrime law.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House is unveiling measures to prevent the improper use of US AI models, and Congress is debating controversial surveillance powers."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The EU's legal framework permitting the detection of Child Sexual Abuse Material (CSAM) expired, raising global digital child protection concerns."
+        },
+        {
+          "name": "Karachi, Pakistan",
+          "lat": 24.8607,
+          "lng": 67.0011,
+          "severity": "yellow",
+          "detail": "A new policy paper warns that Pakistan's Prevention of Electronic Crimes Act (PECA) needs urgent reform to protect digital rights."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "An audit found 'industrial-scale noncompliance' with California's privacy law regarding tracking visitors, despite the Delete Act being operational."
+        },
+        {
+          "name": "St. Paul, Minnesota, USA",
+          "lat": 44.9537,
+          "lng": -93.09,
+          "severity": "yellow",
+          "detail": "The Minnesota House has passed legislation aimed at restricting the use of artificial intelligence tools that generate nonconsensual nude images."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "yellow",
+          "detail": "The Illinois African Descent-Citizens Reparations Commission is holding a public hearing to advance efforts toward reparative justice."
+        },
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "green",
+          "detail": "Pope Leo XIV expressed support for the abolition of the death penalty globally, emphasizing human dignity."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese developers are accused of improperly using leading US AI models to build rival chatbots without safety guardrails."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Warfare Fuels Climate Crisis, El Nino Returns Amidst Extreme Weather",
+      "summary": "The Middle East conflict is causing severe environmental destruction with toxic emissions and 'black rain' from strikes on oil facilities, accelerating global warming. The UN warns of El Nino's return by mid-2026, threatening record temperatures. Meanwhile, the US is experiencing a multiday severe weather outbreak with tornadoes, Indonesia's Mount Dukono erupted again, and a flood watch is in effect for Lake Ontario.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Strikes on oil facilities and industrial zones are causing toxic emissions, widespread pollution, and 'black rain,' severely impacting the environment and accelerating global warming."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN warned that the El Nino weather phenomenon is expected to return in mid-2026, pushing global temperatures to record highs."
+        },
+        {
+          "name": "Great Plains, USA",
+          "lat": 37.9626,
+          "lng": -99.4173,
+          "severity": "red",
+          "detail": "A multiday severe weather outbreak is forecast from April 25-27, bringing risks of damaging wind, large hail, and strong tornadoes to areas like Oklahoma City and Wichita."
+        },
+        {
+          "name": "North Maluku, Indonesia",
+          "lat": 0.6978,
+          "lng": 127.8927,
+          "severity": "red",
+          "detail": "Mount Dukono erupted again, marking its 74th eruption in 2026, with an ash column reaching 600 meters and its activity level at 'Warning.'"
+        },
+        {
+          "name": "Hamilton, Ontario, Canada",
+          "lat": 43.2557,
+          "lng": -79.8711,
+          "severity": "yellow",
+          "detail": "A flood watch has been issued for Lake Ontario due to strong shore-bound waves, with potential for significant localized flooding and erosion."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France defended keeping climate change off the agenda at a G7 environment ministers' meeting to avoid a clash with the US administration, which has withdrawn from global climate agreements."
+        },
+        {
+          "name": "Gulf of Mexico",
+          "lat": 25,
+          "lng": -90,
+          "severity": "red",
+          "detail": "The US administration is waiving Endangered Species Act rules for expanded oil and gas drilling, despite environmental concerns."
+        },
+        {
+          "name": "Potsdam, Germany",
+          "lat": 52.3906,
+          "lng": 13.0645,
+          "severity": "yellow",
+          "detail": "A new study by the Potsdam Institute for Climate Impact Research warns that by 2085, 36% of land animal habitats could face multiple extreme climate events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Avian Flu, Measles Outbreaks Persist Amidst Malaria Stalls",
+      "summary": "Public health faces ongoing challenges with a new human case of avian influenza A(H5N1) in Cambodia and A(H9N2) in China. Measles outbreaks continue to surge in the US, particularly in Utah and South Carolina, raising concerns about vaccination rates. World Malaria Day highlights stalled global progress in combating malaria, with a slight increase in deaths and persistent drug resistance, though new tools offer hope.",
+      "regions": [
+        {
+          "name": "Romduol, Svay Rieng province, Cambodia",
+          "lat": 10.9833,
+          "lng": 105.7833,
+          "severity": "yellow",
+          "detail": "A new human case of avian influenza A(H5N1) was reported in an adult woman exposed to sick and dead poultry."
+        },
+        {
+          "name": "Utah, USA",
+          "lat": 40,
+          "lng": -111.5,
+          "severity": "red",
+          "detail": "The measles outbreak has reached 607 cases, contributing to 1,792 confirmed nationwide cases in 2026, with most cases among unvaccinated individuals."
+        },
+        {
+          "name": "Ireland, Finland, UK (EU/EEA)",
+          "lat": 53,
+          "lng": -8,
+          "severity": "yellow",
+          "detail": "A multi-country outbreak of Salmonella Bovismorbificans has been detected, linked to sprouted seeds/microgreens."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO is leading World Malaria Day, acknowledging progress but noting global stalls and increased deaths from malaria."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Five new human cases of avian influenza A(H9N2) virus infection were reported, mostly in children."
+        },
+        {
+          "name": "Madison, Wisconsin, USA",
+          "lat": 43.0731,
+          "lng": -89.4012,
+          "severity": "green",
+          "detail": "National Drug Take Back Day is being observed to encourage safe disposal of prescription medications, contributing to a decline in opioid overdose deaths."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Regions like Uganda face critical dangers from spreading artemisinin partial resistance to malaria drugs."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns are being raised that US government policies are overtly threatening population health by dismantling health agencies and cutting vital programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East War Fuels Global Economic Crisis, US Recession Fears Mount",
+      "summary": "The global economy is in crisis due to the ongoing Middle East war, particularly the closure of the Strait of Hormuz, which is disrupting energy markets, driving up oil prices, and causing significant LNG supply shortfalls. The IMF has downgraded global growth forecasts for 2026, citing the conflict. Simultaneously, the US faces increasing fears of a recession with significant job cuts, rising credit card debt, and unstable financial markets, while the Federal Reserve battles inflation.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The effective closure of this vital waterway is severely disrupting global energy markets, driving oil prices higher, and removing nearly 20% of global LNG supply."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The IMF downgraded global growth forecasts, the US Treasury sanctioned Iranian oil networks, and the Federal Reserve grapples with surging inflation expectations amid recession fears."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's oil trade and 'shadow fleet' are being targeted by US sanctions, aiming to cripple the regime's revenue amid global market disruptions."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japan is tapping national oil reserves and seeking alternative crude sources to mitigate impacts from Middle East turmoil on supply."
+        },
+        {
+          "name": "Brussels, Belgium (Euro Area)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Annual inflation in the Euro area rose to 2.6% in March 2026, with energy, services, and food contributing positively."
+        },
+        {
+          "name": "Santa Clara, California, USA",
+          "lat": 37.3541,
+          "lng": -121.9552,
+          "severity": "green",
+          "detail": "Intel's stock surged to an all-time high after strong first-quarter earnings, contributing to a tech-led rally on Wall Street."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Wall Street shows a 'risk-on' posture driven by tech, but financial markets remain unstable with collapsed asset correlations."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2865,
+          "lng": 51.5348,
+          "severity": "red",
+          "detail": "Damage to Qatar's liquefaction infrastructure is expected to cut approximately 120 billion cubic meters of LNG supply between 2026 and 2030."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy Under Strain Globally Amidst Electoral Debates & Authoritarian Moves",
+      "summary": "Democracy is facing significant challenges worldwide, marked by debates over voter registration and identification in California and concerns about 'democratic backsliding' in the US through the erosion of checks on power. Russia is rapidly expanding its FSB powers, and Israel is experiencing a 'quiet erosion of democracy' due to political instability. While Palestinian local elections offer a democratic step forward, authoritarian middle powers are emerging, undermining global norms.",
+      "regions": [
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California voters will consider tighter restrictions on voter registration, including proof of citizenship and voter ID requirements, on the November ballot."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "President Putin is rapidly expanding the powers of the Federal Security Service (FSB) as his public support declines, consolidating authoritarian control."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is experiencing a 'quiet erosion of democracy' due to political polarization, instability, and concerns about judicial independence."
+        },
+        {
+          "name": "Ramallah, Palestine",
+          "lat": 31.9038,
+          "lng": 35.2033,
+          "severity": "green",
+          "detail": "Palestinian local elections are being held, welcomed by the EU and partners as a step towards strengthening local governance and democracy."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "The military continues to exert strong influence on Pakistani politics, using 'selective repression' amidst a populist surge."
+        },
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.8271,
+          "severity": "yellow",
+          "detail": "The ruling party is perceived to be moving the country closer to Russia, with ongoing public resistance against this 'authoritarian slide.'"
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns about democratic backsliding, upcoming midterm elections, and internal party divisions continue to shape the political landscape."
+        },
+        {
+          "name": "Tegucigalpa, Honduras",
+          "lat": 14.0818,
+          "lng": -87.2068,
+          "severity": "yellow",
+          "detail": "The recent election saw an opposition party ousted, having failed to deliver on promises and exhibiting authoritarian tendencies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Multiple Crises Escalate: Food Insecurity, Displacement, and Disease Surge Globally",
+      "summary": "Humanitarian crises are escalating globally, with 45 million people at risk of food insecurity due to the Strait of Hormuz blockade. Syria faces dire conditions with 15.6 million needing aid and widespread hunger. Sudan's civil war continues to drive massive humanitarian needs and a dengue fever outbreak. Yemen's crisis deepens with 23.1 million needing aid amidst severe funding shortfalls. The occupied Palestinian territory sees deteriorating conditions, displacement, and violence. Pakistan is also among the top 10 countries with acute food insecurity due to climate and economic challenges.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The blockade threatens 45 million people with food insecurity and malnutrition, impacting global supply chains."
+        },
+        {
+          "name": "Syria",
+          "lat": 34.8021,
+          "lng": 38.9968,
+          "severity": "red",
+          "detail": "Fifteen years into the crisis, 15.6 million people require urgent humanitarian assistance, with over 25% of the country facing severe hunger and widespread displacement."
+        },
+        {
+          "name": "Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "red",
+          "detail": "The civil war continues, with 33.7 million people expected to need assistance, ongoing famine conditions, and a dengue fever outbreak."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "Nearly 80% of the population needs assistance, with 23.1 million requiring aid and severe funding shortfalls for humanitarian response."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Deteriorating humanitarian conditions, ongoing violence, displacement, and damage to critical facilities leave families reliant on aid."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35.3333,
+          "severity": "red",
+          "detail": "A protracted displacement crisis persists, with high levels of violence, and significant obstacles to movement and access to healthcare."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "Pakistan is among the top 10 countries facing acute food insecurity, affecting 11 million people due to climate extremes and economic challenges."
+        },
+        {
+          "name": "Wisconsin, USA",
+          "lat": 44.7872,
+          "lng": -89.8267,
+          "severity": "yellow",
+          "detail": "Samaritan's Purse is responding to widespread flooding, providing assistance with cleanup to affected communities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "texas.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RRs-Q35hHDCAGtgh-R68MXHAdUZD-NCSOvOIGztHYpAs3ifRFt03Rjg7wj0hplt5cUeU-OHfpE172rGxE74Pe_U9WCSj4jJBUbeNM6a41q7y0A3fw0gXuk1tMC1OgMYriOQYUFhjWUjpD5lJwp7peiBu0rRkCg=="
+        },
+        {
+          "title": "samaritanspurse.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJxgWSCsHgVlLPmoqLUHRa9ddEi7Ot05f0fi7Ei9XjhmXJmPc6YB1LmaMOx3TItFwae0XQ3OHGj5yeehKUKi8pKR32t5kjMgEpyoX3cVtKA_qnZAccR2u4w1zthuUyWlSLaX8eO2p20cqLEmogzwCSBiqgAzb4zdDPAHi4zVgXYTBy9RdAXlyV7mLLKG41BHxfUohY"
+        },
+        {
+          "title": "concernusa.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVokZqfsO61s8YaWPWpkBq5QnpJxyOLtfA1Nxd2MAyQSI1k-Jtl4vve-vxvZOcBPAptKRLzu8V30_duopCaydXF4k6tCwebmOd5uPTIPVdTAMkR2bcBzroOR7ww3sBNNTHiAbrCxCbU9skNUgPLyMP1A=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnlLQ2YadV3fjugviYiAgijqCHkEc7lo31-64NQsM4rJB11ah31n1iASnuHWVcPGrW8o0UkcNPvmpwvWis4fG0sCxsgFnW_45YnIwTu2IsWpt02-W4b6bCtl2rElNEx0n1w=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnGlc-B65SMow7d6zzLscxTKfwtDXR948lyzliExR3ZwX70kwQpPx5glzr_MncxRfT5N17_6HSDCovoLymWLIvWODXLTCi-oaLlBHiWo-kt0oAYdu4hsS5dC8xRffJVh4RzDiRJAYo2-b7WZmxXvN9BY94aV-YkkUe0MudvYt-62pim_vLjmQOJkzexEpIzWiWiI1ZJqtTrHFsh9hZSWM_ydzDaF1rav6qI9bhhdYc0vq8cfjOlqCLtTHhIHnUxB9z"
+        }
+      ]
+    }
+  }
+}
