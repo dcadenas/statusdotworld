@@ -1,0 +1,412 @@
+{
+  "date": "2026-04-28",
+  "timestamp": 1777358989492,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict deepens as peace talks stall, economic impact spreads",
+      "summary": "The conflict involving the United States, Israel, and Iran has entered a critical phase with Washington reviewing a new peace proposal from Tehran to end hostilities and reopen the Strait of Hormuz. However, the US is hesitant to lift blockades without addressing Iran's nuclear program, and fighting continues in southern Lebanon with Israeli airstrikes. The closure of the Strait of Hormuz is causing significant economic disruptions, including a 40% surge in PCB prices and fears of a global food crisis.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The closure of this vital waterway due to ongoing conflict is causing major global supply chain disruptions and economic impacts."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran has proposed a new peace plan to the US, but US President Trump is reportedly unlikely to accept it without addressing nuclear concerns."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration is reviewing Iran's peace proposal but expresses reservations about its terms."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin to solidify strategic ties amidst stalled peace talks."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli air strikes in southern Lebanon have killed at least four more people, with fighting intensifying despite diplomatic efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global human rights in severe decline, tech weaponized against civilians",
+      "summary": "Amnesty International's 'State of the World's Human Rights: April 2026' report details a severe erosion of human rights across 144 countries in 2025, driven by escalating conflicts, repression, discrimination, and economic injustice. The report highlights mass killings in Sudan's Al Fashir, unlawful lethal force against protestors in Tanzania, and possible war crimes in eastern Democratic Republic of Congo. Technology, including AI, is increasingly being weaponized for surveillance and disinformation against civilians and to silence dissent.",
+      "regions": [
+        {
+          "name": "Al Fashir, Sudan",
+          "lat": 13.6167,
+          "lng": 25.35,
+          "severity": "red",
+          "detail": "Mass killings and indiscriminate attacks have displaced over a million people, highlighting severe human rights abuses."
+        },
+        {
+          "name": "Dar es Salaam, Tanzania",
+          "lat": -6.7924,
+          "lng": 39.2083,
+          "severity": "red",
+          "detail": "Security forces used unlawful lethal force to suppress protests, resulting in dozens of deaths."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Possible war crimes, including widespread sexual violence, have ravaged communities amidst armed group activity and foreign interference."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration is criticized for undermining democratic norms, attacking voting rights, and deploying armed federal agents, alongside concerns about AI and information manipulation threatening elections."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Amnesty International accuses Israel of deliberately starving civilians by denying food and supplies with genocidal intent, further exacerbating the humanitarian crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Fossil fuel phase-out talks begin; global heat warnings issued",
+      "summary": "Over 50 governments are meeting in Santa Marta, Colombia, for the first international talks on phasing out fossil fuels, reflecting growing impatience with the pace of climate action. Meanwhile, the IPCC Chair highlighted the inevitability of surpassing 1.5 degrees warming, and the WMO issued a climate alert for April-June 2026, forecasting above-normal temperatures globally and increased risk of extreme heat, particularly in the Northern Hemisphere. Melting glaciers in the Himalayas are causing rising risks in regions like Indian-Occupied Kashmir.",
+      "regions": [
+        {
+          "name": "Santa Marta, Colombia",
+          "lat": 11.2335,
+          "lng": -74.2001,
+          "severity": "yellow",
+          "detail": "First international talks on phasing out fossil fuels are commencing, with climate activists protesting for stronger commitments."
+        },
+        {
+          "name": "Astana, Kazakhstan",
+          "lat": 51.1693,
+          "lng": 71.4491,
+          "severity": "yellow",
+          "detail": "The IPCC Chair emphasized the need for rapid emissions cuts and climate adaptation in an interview during the Regional Ecological Summit 2026."
+        },
+        {
+          "name": "Kashmir, India",
+          "lat": 34,
+          "lng": 76,
+          "severity": "red",
+          "detail": "Himalayan glaciers are melting at an accelerated rate, increasing risks and compounding existing vulnerabilities in the region."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "The Australian and Queensland governments have begun a review of the Reef 2050 Long-Term Sustainability Plan to address climate change threats to the Great Barrier Reef."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Tech advances in health; global focus on AMR, public health resilience",
+      "summary": "NTT DATA launched a new brain health monitoring service in Tokyo, leveraging AI to analyze driving data and promote healthy life expectancy. Globally, Shionogi & Co. joined the World Economic Forum and signed the Davos Compact on Antimicrobial Resistance (AMR), aiming to significantly reduce AMR deaths by 2050 through international collaboration. Additionally, the first round of abstract submissions closed for the Global Conference on Public Health & Epidemiology (PHE 2026) in Boston, focusing on strengthening health infrastructure and data-driven decision making.",
+      "regions": [
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "NTT DATA launched a new AI-powered brain health monitoring service to extend healthy life expectancy and driving safety."
+        },
+        {
+          "name": "Osaka, Japan",
+          "lat": 34.6937,
+          "lng": 135.5023,
+          "severity": "green",
+          "detail": "Shionogi & Co. signed the Davos Compact on Antimicrobial Resistance, committing to global efforts to address AMR."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Economic Forum is involved in global initiatives like the Davos Compact on AMR, which Shionogi joined today."
+        },
+        {
+          "name": "Boston, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "The Global Conference on Public Health & Epidemiology (PHE 2026) is preparing, with abstract submissions closing today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East war disrupts global economy; growth forecasts cut",
+      "summary": "The global economy is facing significant disruptions due to the ongoing war in the Middle East, particularly the closure of the Strait of Hormuz, which is leading to surging commodity prices and heightened inflation expectations. The IMF's April 2026 World Economic Outlook projects global growth for 2026 at 3.1%, the weakest rate since 2009 (excluding 2020's pandemic plunge), with emerging market economies being hit particularly hard. Rising energy and food prices, supply chain issues, and tighter financial conditions are all contributing to a challenging economic outlook.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Its closure is severely disrupting global supply chains, causing commodity price surges and contributing to inflation."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF, headquartered here, released its World Economic Outlook, cutting global growth forecasts due to the Middle East conflict."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Global supply chain disruptions originating from the Middle East conflict are expected to impact major manufacturing and trading nations."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "European economies are facing repercussions from higher commodity prices and inflation expectations due to the ongoing global economic disruptions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy concerns persist globally, US facing significant challenges",
+      "summary": "Concerns about democratic erosion continue, with a Pew Research Center poll indicating widespread dissatisfaction with democracy in the US, and Freedom House reporting a decline in global freedom for the 20th consecutive year in 2025. The US saw one of the largest declines among 'Free' countries due to legislative dysfunction, executive dominance, and pressure on free expression. Gerrymandering remains a significant issue ahead of the 2026 midterms, with states like Virginia debating new congressional maps. The rise of authoritarian middle powers is also noted as a threat to democratic norms globally.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US faces concerns over democratic backsliding, including issues with legislative dysfunction and executive overreach, contributing to a global decline in freedom."
+        },
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "Virginia's Supreme Court is hearing arguments on new congressional maps, highlighting ongoing gerrymandering disputes ahead of the 2026 midterms."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Concerns about democratic norms and the influence of authoritarian middle powers are impacting the global political landscape."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid denied in South Sudan, Gaza flotilla seeks to break blockade",
+      "summary": "Displaced people in Chuil, South Sudan, are being denied life-saving aid by the government, leading to mounting deaths and severe food insecurity, with the World Food Program resorting to airdrops. Concurrently, the 'Global Sumud Flotilla,' comprising over 80 boats, is sailing to Gaza to deliver critical aid and challenge the ongoing blockade. Yemen also remains in a dire humanitarian state, with 18.2 million people facing acute food insecurity according to the FAO.",
+      "regions": [
+        {
+          "name": "Chuil, South Sudan",
+          "lat": 7.5,
+          "lng": 32.5,
+          "severity": "red",
+          "detail": "The government is denying life-saving aid to displaced populations, leading to severe hunger and deaths, as reported by aid groups."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "The Global Sumud Flotilla is attempting to deliver critical aid to Gaza, aiming to break the Israeli blockade amidst a severe humanitarian crisis."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen continues to face one of the world's worst food crises, with over 18 million people in urgent need of humanitarian assistance."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7634,
+          "lng": 96.1246,
+          "severity": "yellow",
+          "detail": "Sweden has allocated humanitarian aid to Myanmar and 24 other conflict-affected countries, prioritizing urgent needs despite cuts to long-term development funding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "nationthailand.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwP9w_FbsDi-b66NVB7bkD-_t9imULg97SdRLpT0fiiGvmbabs69a4c1jp_L3XspkMWlKGXIQoa8XziMy-KArvZda2JSnyneQl_nK6rHfokExOLme9AnXTGxujs6sg96jTtimA1Yu-Za3C55N"
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-liWU89E2FEuZkS0G_av4jheU5zY_TchsQgcU8wd7IKdLuSvTDbPhFqB-vgnl3EGX_BxQbXQHWXcvqJYpsC_pIS_N6dvUvo7hMvrXnjPL-8KXTfajxxO6PILAD7L1MHLXL-SYcrh8Ne5GHW6h9EYzoEFoFLPTCBF5sPfWb29WKN020uF1oHvzIm62EPcJSTMh3QCBXxWSLQNQgZZKDGh1I890xUdDAm8ITBLPmxItT-i_BhoOeN-pJ9QmxA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiGGfGv7hj1db36e7Hb2AADYA4kradooXBE8YrmmOoTQ6Qun17VZsjubXKXo8Kz1lSRjhlxRbfluB8Abps1E7-ZqTb82qQGU2Jhj2Gp5VQWmm3-Wz6_WttuRB6NI4btvPwK9a4TzZoXokcqkJyCTXtsZEkM4XO9bSH6kiFLfVconVhKy6sOw0g0tMc9GPTEcjC03KvOToFRsAN22FTVc62Q=="
+        },
+        {
+          "title": "punjabnewsexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDN6O0oMGxBAQEGzF1-JRh2b3s3rYVC2rPrOWmVQJyfMpSqapI76kLDV2A3tiqKgq7TxlA1CR6ozmGOW8xFCQEs3xPpnz10bgRugWk9NPX0I5T33Mf259noBL3Nr6yHoWWhD8mRTaWQiDwolfSyEA340DZy0KFjx2oxJ1lZm7ri7GPabDBgWxWlWlT__C6qvAs5HdmkJNjbMCRMVcs6DIt9oma"
+        },
+        {
+          "title": "rferl.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpDa0Nd_MpdZoKyxS6Y63Qr0z9a-ehIUDUjLzq-kIYWiS8E0ujkgBLLhqlZbKFgmQVnQF5Jq4qLZnDPjgnEeoyHRJcWmT6w3K6iW4dMQnHMC4hhMAKTmKR6X8WxY68HNfJLG0fpJ1FurFJsUGx6Y3vGXQefT6LTxULNjsC7eK3IZw_KaJuW4xUTIc20I-VHw-W"
+        }
+      ]
+    }
+  }
+}
