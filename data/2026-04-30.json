@@ -1,0 +1,503 @@
+{
+  "date": "2026-04-30",
+  "timestamp": 1777531698095,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Gaza aid flotilla intercepted, Sudan conflict ongoing",
+      "summary": "Israeli forces intercepted a Gaza-bound aid flotilla in international waters, drawing condemnation and exacerbating humanitarian concerns in the region. Concurrently, the conflict in Sudan continues to rage, with reports of mass atrocities in areas like El Fasher.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "An aid flotilla destined for Gaza was intercepted in international waters, worsening the humanitarian situation and raising fears of famine."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.08,
+          "lng": 34.78,
+          "severity": "yellow",
+          "detail": "Israeli forces were responsible for the interception of the humanitarian aid flotilla heading to Gaza."
+        },
+        {
+          "name": "Crete, Greece",
+          "lat": 35.24,
+          "lng": 24.8,
+          "severity": "yellow",
+          "detail": "The Gaza-bound aid flotilla was intercepted in international waters near the Greek island of Crete."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.93,
+          "lng": 32.86,
+          "severity": "yellow",
+          "detail": "Türkiye condemned Israel's interception of the Gaza-bound aid flotilla, calling it an 'act of piracy'."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The conflict in Sudan persists, with refugees actively documenting human rights violations for future accountability."
+        },
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.62,
+          "lng": 25.32,
+          "severity": "red",
+          "detail": "The city of El Fasher in Sudan's Darfur region has been the scene of mass murder and rape amid the raging conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Surveillance debates, AI safety probes, and democratic repression continue",
+      "summary": "The US House approved a controversial surveillance program reauthorization, raising digital privacy concerns. Globally, UN experts warn of increasing intrusive surveillance, and the RightsCon digital rights conference was abruptly canceled in Zambia. Meanwhile, AI safety and ethical regulation remain key discussions, with Elon Musk's lawsuit against OpenAI highlighting corporate governance and public interest issues.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "The US House approved a three-year reauthorization of a divisive surveillance program, and the Supreme Court is weighing geofencing and digital privacy rights."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "green",
+          "detail": "The European Parliament adopted a resolution advocating for consent-based rape legislation, emphasizing 'Only Yes Means Yes'."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.55,
+          "lng": 104.92,
+          "severity": "red",
+          "detail": "The Court of Appeal upheld the politically motivated conviction of opposition leader Kem Sokha, extending his house arrest and political bans."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "The Electronic Frontier Foundation documented systematic killings and digital isolation targeting Palestinian journalists since October 2023."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.87,
+          "lng": 151.21,
+          "severity": "yellow",
+          "detail": "Australia's human rights commissioner highlighted risks of transnational repression after a Chinese student was allegedly jailed for protests in Sydney."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.41,
+          "severity": "yellow",
+          "detail": "The Chinese government is implicated in the transnational repression of a student who protested in Australia."
+        },
+        {
+          "name": "Urmia, Iran",
+          "lat": 37.55,
+          "lng": 45.08,
+          "severity": "red",
+          "detail": "A political prisoner sentenced to death, Mehrab Abdollahzadeh, was transferred to solitary confinement in Urmia Central Prison."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.41,
+          "lng": 28.28,
+          "severity": "yellow",
+          "detail": "RightsCon, a major digital human rights conference, was suddenly canceled by the Zambian government, sparking concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Europe warms rapidly; fossil fuel transition discussions continue",
+      "summary": "Europe is experiencing intensifying climate extremes, warming twice as fast as the global average, with 2025 seeing record heatwaves, wildfires, and ice loss. While a summit in Colombia focused on practical steps for phasing out fossil fuels, analysis indicates that global fossil fuel production, notably in Canada, continues to increase despite climate goals.",
+      "regions": [
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "red",
+          "detail": "The continent is warming at twice the global average, facing record heatwaves, wildfires, and marine heat, with 2025 being the third-warmest year globally."
+        },
+        {
+          "name": "Santa Marta, Colombia",
+          "lat": 11.24,
+          "lng": -74.2,
+          "severity": "yellow",
+          "detail": "A first-of-its-kind summit on phasing out fossil fuels concluded, shifting global conversation from 'whether' to 'how' with financing as a key obstacle."
+        },
+        {
+          "name": "Akron, Ohio, USA",
+          "lat": 41.08,
+          "lng": -81.52,
+          "severity": "green",
+          "detail": "The Gorge Dam Project is progressing with sediment removal to restore the Cuyahoga River, aiming for long-term ecological benefits."
+        },
+        {
+          "name": "Vietnam",
+          "lat": 16,
+          "lng": 108,
+          "severity": "yellow",
+          "detail": "Thermal power plants were ordered to tighten pollution checks and boost equipment inspections to prevent emissions during dry season."
+        },
+        {
+          "name": "Great Barrier Reef, Australia",
+          "lat": -18.28,
+          "lng": 147.69,
+          "severity": "green",
+          "detail": "Australia is investing $50 million in the Reefwise Wetlands Program to enhance wetlands health and improve water quality in the reef catchment."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "The US EPA boss is backing significant budget cuts, including for state environmental programs and climate research, drawing criticism."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.13,
+          "lng": -106.34,
+          "severity": "yellow",
+          "detail": "Despite global climate discussions, Canada saw record highs in oil and gas production in 2025, contributing to increasing fossil fuel output."
+        },
+        {
+          "name": "Lansing, New York, USA",
+          "lat": 42.53,
+          "lng": -76.62,
+          "severity": "yellow",
+          "detail": "A lawsuit brought by environmental groups against the environmental classification of a new TeraWulf data center has been allowed to proceed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "HIV elimination progress; US voting rights ruling impacts health",
+      "summary": "Brazil and the Bahamas have achieved the significant milestone of eliminating mother-to-child HIV transmission. Australia has also successfully eliminated trachoma as a public health problem. However, a US Supreme Court decision weakening the Voting Rights Act raises concerns about its potential impact on health equity and minority representation.",
+      "regions": [
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.78,
+          "lng": -47.93,
+          "severity": "green",
+          "detail": "Brazil has achieved the elimination of mother-to-child HIV transmission, a major public health accomplishment."
+        },
+        {
+          "name": "Nassau, Bahamas",
+          "lat": 25.04,
+          "lng": -77.39,
+          "severity": "green",
+          "detail": "The Bahamas has been validated by the WHO for eliminating mother-to-child HIV transmission."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.27,
+          "lng": 133.78,
+          "severity": "green",
+          "detail": "Australia became the 30th country to eliminate trachoma as a public health problem, a significant milestone for Indigenous peoples' health."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "A US Supreme Court decision weakening the Voting Rights Act could impact healthcare access and public health outcomes for underrepresented communities."
+        },
+        {
+          "name": "Garfield County, Colorado, USA",
+          "lat": 39.55,
+          "lng": -107.82,
+          "severity": "yellow",
+          "detail": "Higher-than-average tick activity has been reported, prompting warnings about tick-borne diseases."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "green",
+          "detail": "A study revealed that immigrants are crucial in addressing the US eldercare shortage, improving patient outcomes in nursing homes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "FEMA fund depleted; AI sector faces regulatory pressure",
+      "summary": "FEMA's Disaster Relief Fund has entered the 'red zone' ahead of hurricane season, forcing the agency to limit spending to critical, life-saving needs. This financial strain impacts reimbursements and long-term recovery efforts for domestic disasters. Separately, the burgeoning AI sector faces increased regulatory scrutiny and legal challenges, exemplified by Elon Musk's lawsuit against OpenAI and a widening US Senate probe into AI safety, which could raise compliance costs across the global AI supply chain.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "FEMA's Disaster Relief Fund dropped below $3 billion, entering the 'red zone' and limiting its ability to fund new disasters."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "The US Senate is expanding its AI safety probe, potentially increasing compliance costs for major tech firms like OpenAI, Tesla, and Microsoft."
+        },
+        {
+          "name": "Higginsville, Missouri, USA",
+          "lat": 39.08,
+          "lng": -93.72,
+          "severity": "green",
+          "detail": "USDA announced additional supplemental disaster relief payments for farmers affected by 2023 and 2024 natural disasters, increasing payment rates to 70%."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "New research highlights that the true costs of fossil fuel impacts on health and livelihoods exceed $9 trillion annually, primarily borne by governments and households."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights weakened; Cambodian opposition leader convicted",
+      "summary": "The US Supreme Court delivered a decision significantly weakening Section 2 of the Voting Rights Act, raising concerns about minority representation and the ability to challenge discriminatory voting practices. In Cambodia, the politically motivated conviction of opposition leader Kem Sokha was upheld, extending his house arrest and undermining democratic processes. These events highlight ongoing challenges to democratic integrity and participation.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "The Supreme Court weakened Section 2 of the Voting Rights Act, potentially impacting equitable political representation."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.55,
+          "lng": 104.92,
+          "severity": "red",
+          "detail": "The Phnom Penh Court of Appeal upheld the politically motivated conviction of opposition leader Kem Sokha, extending his detention and political ban."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.87,
+          "lng": 151.21,
+          "severity": "yellow",
+          "detail": "Concerns were raised about transnational repression affecting students in Australia, following the alleged jailing of a Chinese student for pro-democracy protests."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.41,
+          "severity": "yellow",
+          "detail": "The Chinese government is accused of transnational repression against individuals exercising democratic freedoms abroad."
+        },
+        {
+          "name": "Charleston, West Virginia, USA",
+          "lat": 38.35,
+          "lng": -81.63,
+          "severity": "green",
+          "detail": "The 2026 primary election is underway, showing increased early voting but overall light turnout, leaving candidate selection largely to party loyalists."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.88,
+          "lng": -87.63,
+          "severity": "yellow",
+          "detail": "The Illinois Accountability Commission is releasing a report on federal agent misconduct and the protection offered through preemptive immunity during 'Operation Midway Blitz'."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens; US disaster relief fund in 'red zone'",
+      "summary": "The humanitarian crisis in Gaza intensified as Israeli forces intercepted a critical aid flotilla, exacerbating a 'perfect storm' of dwindling aid, restrictions, and fears of famine. Concurrently, the US FEMA Disaster Relief Fund entered a 'red zone' ahead of hurricane season, limiting its ability to respond to and fund domestic disasters and longer-term recovery efforts.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "The interception of an aid flotilla and ongoing restrictions are creating a dire humanitarian situation with fears of famine."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.08,
+          "lng": 34.78,
+          "severity": "yellow",
+          "detail": "Israeli forces intercepted a humanitarian aid flotilla bound for Gaza in international waters."
+        },
+        {
+          "name": "Crete, Greece",
+          "lat": 35.24,
+          "lng": 24.8,
+          "severity": "yellow",
+          "detail": "The humanitarian flotilla was intercepted by Israeli forces near the Greek island of Crete."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "red",
+          "detail": "FEMA's Disaster Relief Fund has entered the 'red zone,' limiting its capacity to provide aid for domestic disasters ahead of hurricane season."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mdDCDLvM19xXkpITouVUjtBlrYvRgBHJONMHRFptWAWxG_uTwzMezVtlQnycrCZxf-P3cw6J3twnPUciTf2aW5pBcQuvm35v4enNjbMAYM1Y2jTOzxPgqFvKWsYVX6IwI1nZyZQasyH47KYDcg2hi88sJVTSUDm9bmFW6TfDqlTcg8n32yxpoE_c2fy6vbpmHaRs-iWcA1z8gLNEjZFYnD38Knmhmm7sUg1rQ64BSCmN"
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3IJJYrYk2sIOutc3LYyfUmtWxkxKwrfcptC_2cs6g_d3RvcidzLW5zJXKJUw2ESJcz5z1XicqEpNcH1CNW7vQyzyktisiTD5JylU-T9syimCeBsWumYZCSaDRZZp34xRU_kHb90k0Dtno7ZVMHEd3LiKnwZV2X1WvtOUqoYQ4LsPAI4TLapXA8418G8tRed9-zzmwePOpcRQWmPEsQs-b5zCifVZ7w=="
+        },
+        {
+          "title": "berkeley.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXq7OgMAWxDNL8QrJcmaokGTHQTuLmlRBF-fb0HFRIFbyW8cNpnz2o6jegyxYfYXIkfmlmUgMD3ieURkdrcJX48ryQCXe0B-lw-iiNFiPvDfvdtb8ijNk9A_j3IBIjYrAwWI1-rCnKrY_JEFi8Thz443R2lCQ3Pli7JqmZqMWbQxzusmnv-sOvZFLu08L1yOQ2LtnpRd7vLPjvMge0BQJA82b2tQAVyVQU3B4IJz1I26q0XJuR_nGmh6KY-x7CdTA="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjk3CFFRRb5eyl8vMfcSanuj0SXHJjd4p9H3iWM92W-2wTbCHmEoP7A4yDdXFNe9ACsMm1Nrcyx2VZr4nYw7WZaeHj_FmzviKr9aouwOKWCa9dxFP4-IEabVpeQe-r5K6kv00JQat8uYvzdWkl1cCPebhIr-qBEu-Rt9KAlAeJ1BYFFEBTOyMjxoo3cP_PQhhC6556fXXcUVsWNH26VbMG5uWv6yam0lObk2WQDl1kUdF1wQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ij9undc_4RyR3imXUqtbXt3gSZ2UiBw1HnQGEcc_lpmzeMFHtALn8P569Ss-zq-UC9CGLxDbotNYrBkNpn4iJI2WNDF33UyTKHGJRrYahvWD9uNZioeci0cmT5-39IzBuY0_3HYgRzxbVZGcnrMQRfliAVRGKL917jiHymK0vAslH1lw5u6RN3rgXKp13qo94KsMTSm0cZ-CRZ_vi-_Zyc2ElR9ixKyL0PPMyN5TrVHaD3eVN8fLa27TL3FJNQzPqHBVQ=="
+        }
+      ]
+    }
+  }
+}
