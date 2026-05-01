@@ -1,0 +1,419 @@
+{
+  "date": "2026-05-01",
+  "timestamp": 1777618229048,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran conflict persists; war powers deadline nears.",
+      "summary": "The ongoing US-Israel conflict with Iran, characterized by a fragile ceasefire and a May 1st war powers deadline for President Trump, continues to drive geopolitical tensions and impact global oil prices. Simultaneously, the conflict in Ukraine sees continued focus on energy infrastructure as a strategic target, while global May Day protests call for peace.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The US-Israel conflict with Iran persists, with a war powers deadline on May 1st and an ongoing internet shutdown impacting the country."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Congress faces a May 1st deadline regarding presidential war powers in the ongoing US-Iran conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli military attacks over almost two months have led to a rising death toll and wounded in Lebanon."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The conflict in Ukraine involves ongoing attacks on energy infrastructure, impacting global energy dynamics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights and privacy concerns escalate globally.",
+      "summary": "Iran maintains a year-long internet shutdown, impacting its online economy and raising human rights concerns amid geopolitical tensions. Meanwhile, Nepal's new government faces calls for human rights reforms following protests over social media bans and judicial independence. Globally, discussions intensify around digital rights, AI safety, and tech privacy, with new regulations and criticisms emerging in the EU, UK, and US regarding social media and AI governance.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran continues its internet shutdown for most of 2026, severely impacting its online economy and civil liberties, depicted as a wartime necessity."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "International organizations urge the new government to implement human rights reforms, addressing issues like forced evictions and judicial independence."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Parliament sets fixed dates for rules regarding high-risk AI systems and a deadline for watermarking AI-generated content."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK government has passed legislation giving ministers the power to introduce age restrictions on social media platforms for minors."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe warms rapidly; PNG hit by deadly landslides.",
+      "summary": "Europe is warming twice as fast as the global average, with 95% of the continent experiencing above-average temperatures in 2025, leading to severe impacts like widespread wildfires and glacier loss. Meanwhile, Papua New Guinea experienced deadly landslides in East New Britain in early April 2026, triggered by intense rainfall from Tropical Cyclone Maila. Reports also highlight the increasing threat of extreme weather events to global biodiversity and democratic processes worldwide.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "Europe is experiencing rapid warming, with 95% of the continent seeing above-average temperatures in 2025 and severe climate impacts."
+        },
+        {
+          "name": "Rabaul, East New Britain Province, Papua New Guinea",
+          "lat": -4.1953,
+          "lng": 152.1643,
+          "severity": "red",
+          "detail": "Deadly landslides were triggered by Tropical Cyclone Maila in early April 2026, saturating steep terrain in the Baining Mountains."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "Drought conditions are expected to persist across Florida and the Southeast Atlantic coast, raising wildfire potential for May."
+        },
+        {
+          "name": "Manaus, Brazil",
+          "lat": -3.119,
+          "lng": -60.0217,
+          "severity": "yellow",
+          "detail": "The Amazon Basin is identified as a high-risk region for extreme climate events threatening biodiversity by 2085."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Unknown disease outbreak in Burundi investigated.",
+      "summary": "The Africa CDC is actively investigating an unknown disease outbreak in Burundi, emphasizing the critical need for cross-border collaboration and robust surveillance systems. Concurrently, World Malaria Day 2026 highlights the ongoing global burden of hundreds of millions of annual cases, with countries like China maintaining vigilance against imported infections.",
+      "regions": [
+        {
+          "name": "Bujumbura, Burundi",
+          "lat": -3.3762,
+          "lng": 29.362,
+          "severity": "yellow",
+          "detail": "The Africa CDC is investigating an unknown disease outbreak in the country, stressing regional cooperation."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China remains vigilant in preventing re-transmission of malaria from thousands of imported cases annually."
+        },
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "green",
+          "detail": "Researchers at the University of Utah continue to contribute to global malaria research and understanding."
+        },
+        {
+          "name": "Andover, Massachusetts, USA",
+          "lat": 42.6565,
+          "lng": -71.1345,
+          "severity": "green",
+          "detail": "The MGH Center for Global Health is hosting its annual Humanitarian and Disaster Response Field Training."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Energy shock and AI boom create economic crosscurrents.",
+      "summary": "The global economy is experiencing significant crosscurrents, with US stock indices reaching new records driven by strong corporate earnings and AI investments, while an ongoing energy shock from the US-Iran conflict pushes oil prices high and dampens global business outlook. The crisis in the Strait of Hormuz threatens widespread poverty and recession, and workers globally are protesting rising energy costs and shrinking purchasing power.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US economic data for May 1st shows manufacturing sector expansion, but with potential inflationary pressures and employment contraction."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "The crisis in this vital global energy artery has triggered a surge in oil prices and widespread energy instability."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Growth jumped significantly last quarter, driven by surging chip exports fueled by the AI investment boom."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Workers are expected to hold large May Day rallies protesting rising energy and living costs due to the Iran war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights weakened; gerrymandering concerns grow.",
+      "summary": "In the United States, the Supreme Court has significantly weakened the Voting Rights Act, leading to the suspension of congressional primaries in Louisiana and the passage of new, highly gerrymandered maps in Florida that could impact election outcomes. These developments, alongside global May Day protests criticizing government policies and perceived democratic erosion, highlight ongoing challenges to democratic institutions.",
+      "regions": [
+        {
+          "name": "Baton Rouge, Louisiana, USA",
+          "lat": 30.4515,
+          "lng": -91.1871,
+          "severity": "red",
+          "detail": "Congressional primaries were suspended after a Supreme Court ruling weakened the Voting Rights Act and struck down a majority Black district."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "Republicans passed a new congressional map criticized for partisan gerrymandering that could cost Democrats seats."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "International organizations advocate for democratic reforms following youth-led protests against corruption and for human rights."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "May Day rallies are taking place with calls for 'bread, peace and freedom,' linking workers' concerns to global conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Mariana Islands face crisis; Lebanon casualty toll rises.",
+      "summary": "The Mariana Islands are experiencing a severe humanitarian emergency following Super Typhoon Sinlaku in mid-April, with significant devastation and ongoing challenges in aid delivery. Simultaneously, Lebanon's public health ministry reports a rising death toll from almost two months of Israeli military attacks. The UN warns that the escalating crisis in the Strait of Hormuz could push millions into poverty and increase global hunger, compounding existing humanitarian needs worldwide.",
+      "regions": [
+        {
+          "name": "Saipan, Northern Mariana Islands",
+          "lat": 15.1873,
+          "lng": 145.7537,
+          "severity": "red",
+          "detail": "The region faces a severe humanitarian emergency after Super Typhoon Sinlaku caused widespread devastation."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The public health ministry reports a rising death toll from nearly two months of Israeli military attacks in the country."
+        },
+        {
+          "name": "Rabaul, East New Britain Province, Papua New Guinea",
+          "lat": -4.1953,
+          "lng": 152.1643,
+          "severity": "red",
+          "detail": "Deadly landslides caused by Tropical Cyclone Maila have resulted in several deaths and widespread damage in early April 2026."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "yellow",
+          "detail": "The ongoing crisis here raises warnings from the UN about millions potentially being pushed into poverty and global hunger."
+        },
+        {
+          "name": "Pohnpei, Federated States of Micronesia",
+          "lat": 6.9167,
+          "lng": 158.1667,
+          "severity": "green",
+          "detail": "A multinational humanitarian assistance and disaster relief exercise, Pacific Angel 26-3, is concluding today."
+        },
+        {
+          "name": "Bellingham, Washington, USA",
+          "lat": 48.7593,
+          "lng": -122.4787,
+          "severity": "yellow",
+          "detail": "Disaster assistance centers are open to help individuals affected by recent flooding in Whatcom County."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNP5cb00pRYm6yMxcGSgFbBw7seQdiIyq7BNHdGetBU_OOxxxKgFmvPfBQ_LqJsDB22mw-AFP7yBvcewY-xc_ju6e1uLF3EeystrA8-eBcR7M3OktWjDb9JBC7NTGUkjAjYFOikj1HEFOOql1cePEGRbaBqgslu032wepVbBjDTEk8XEORqfusMT0ImjDRiMnfRiOFf4wIpA6MAIWOpzBv5pXfjOGcDxBqMfLuQ="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwusRjhUS0ZayY0g6NSTcq8Gy97TeAHXS0tnb6Qx5MN01bjf4tKVvDd7SAsPU15E4ZSqVboItzakmof4r2avDvJhgpPRPezKI9vnt-r_j4jB8Qf5HngU0qq5ZJ9kE5uuXk"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BydSAxkLtHRF3zRJ3Imtjn277SdKo8lbuAf68LN5ru-RfcpTFw6uEG4toqqpL1aKHzM9mizmeExv-yr4jenUmaJt_h5NKhAp1ieVwgkrR7hovEHTUCLZlbdvQJA76-4pcYH0FFnfGe_CF4NgLL8kovvVPnJIgVx-MnTt3iLvRGH3lILxbAmeeos-PgLqjrb6kugkE7zxMyCd"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUyESJEFdO9QMWUPcmvs7-ZGsXpgZZm14QdQGH4ahoKswx9obQQ1aJ9aYMJDCwbyxJgmoQ8N8oYDySbcyeZtG7tQNZLZeQqcA7bwC9D5-EbO0G__nInGY-8Lp0qxupkvrKUQ6UHsU_qrPzywVk2LGJtnoSR-1B-jiYFPhrXOMWJmv1FxR_7hu-pG_tvw4KF3njU0ATnYbXet5dRgnT86uuUiVmz68EJYFzggEwO-7oNu_NwqABbltWcmAOczLsSGHq-IwQCfKntDpEgnrraY="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_sklUIj3MEYyLsg7K59kYZIgkhTk02NGmXRz2TYiDLE8keJyc8Ou4W_j5Io653kByJlEgW87ybq4fiEfHSFkzJFvW5s4e24FTO5UP5gQqoO76pOM6qhOMUBqp5wBYSl5GIKjxXJNtKGvKpf-oqSrNVwj5zy18MwsBG7mnZ1bED5gn0_IYGMAn7h2YA7owPdwzGCrI2lYQ=="
+        }
+      ]
+    }
+  }
+}
