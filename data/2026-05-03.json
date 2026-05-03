@@ -1,0 +1,433 @@
+{
+  "date": "2026-05-03",
+  "timestamp": 1777790864538,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate as Israel warns Lebanon and Trump rejects Iran's peace deal.",
+      "summary": "The conflict in the Middle East intensified as Israel issued evacuation warnings for 12 towns in southern Lebanon amidst operations against Hezbollah, despite an existing ceasefire. Meanwhile, US President Donald Trump rejected a new Iranian peace proposal, stating Iran has not 'paid a big enough price' for its actions, signaling ongoing geopolitical instability in the region. The US naval blockade on the Strait of Hormuz continues, severely impacting Iran's economy and global oil markets.",
+      "regions": [
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.2736,
+          "lng": 35.2044,
+          "severity": "red",
+          "detail": "Israel issued urgent warnings for residents of 12 towns to evacuate their homes due to ongoing operations against Hezbollah, with reports of airstrikes killing several people."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "President Trump rejected Iran's latest peace proposal, indicating continued hostilities and a severe economic crisis due to the US naval blockade."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump rejected Iran's peace proposal and announced a significant reduction of US troops in Germany, causing diplomatic tensions."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The conflict in Sudan is entering its fourth year, leading to the world's largest humanitarian crisis with calls for an immediate ceasefire."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "The US announced a significant reduction in its troop presence in Germany, escalating a dispute with Chancellor Merz."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The US naval blockade continues to disrupt global oil shipments, contributing to Iran's economic crisis and impacting international energy markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Press freedom concerns in Nepal and Pakistan; US citizenship rights challenged.",
+      "summary": "On World Press Freedom Day, journalists in Nepal advocated for fundamental press freedom. In Pakistan, calls were made to review the Prevention of Electronic Crimes Act (Peca) due to its use against journalists and human rights defenders. Additionally, an amicus brief was filed in the US Supreme Court challenging President Trump's executive order on birthright citizenship, raising concerns about fundamental rights.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "The Federation of Nepali Journalists marked World Press Freedom Day with a rally, advocating for press freedom as a fundamental human right."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "The Pakistan Peoples Party's Human Rights Cell called for a review of the Peca law, citing its growing use against journalists and human rights defenders."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "An amicus brief was filed in the Supreme Court challenging President Trump's executive order seeking to limit automatic birthright citizenship."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Lebanon accused Israel of 'ecocide' during ongoing conflicts, citing systematic environmental destruction impacting human rights and livelihoods."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Argentina weakens glacier protections; Japan battles massive wildfires, as conflicts cause ecocide.",
+      "summary": "Argentina enacted a controversial reform weakening glacier protection laws, allowing expanded mining and raising environmental alarm. Northern Japan brought large wildfires under control after 11 days, an event linked to increasingly dry winters. Simultaneously, Lebanon accused Israel of 'ecocide' due to systematic environmental destruction during the war, highlighting how conflicts exacerbate climate impacts.",
+      "regions": [
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "red",
+          "detail": "Argentina weakened its landmark glacier protection law, allowing expanded mining activities in vital freshwater ecosystems."
+        },
+        {
+          "name": "Iwate Prefecture, Japan",
+          "lat": 39.7036,
+          "lng": 141.1527,
+          "severity": "red",
+          "detail": "Wildfires that scorched 1,600 hectares in northern Japan were brought under control after 11 days, ranking as the second largest in over 30 years."
+        },
+        {
+          "name": "Hunter Region, Australia",
+          "lat": -32.9283,
+          "lng": 151.7817,
+          "severity": "yellow",
+          "detail": "A poll revealed increased concern among residents about climate change impacts like bushfires, heatwaves, and floods."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Lebanon officially accused Israel of committing 'ecocide' during the 2023-2024 war and subsequent escalations, citing widespread environmental damage."
+        },
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1067,
+          "lng": 15.0444,
+          "severity": "red",
+          "detail": "The humanitarian crisis in Chad is exacerbated by climate change impacts including devastating droughts and floods."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Climate change impacts childbirth; conflicts strain health services globally.",
+      "summary": "New research highlighted the impact of heat exposure on maternal and neonatal health, with rising morbidity among newborns in Pakistan due to heat rashes. Furthermore, public health services in Lebanon are severely strained due to ongoing conflict and underfunding. While no new global outbreaks were reported, climate change and ongoing conflicts continue to significantly affect public health in vulnerable regions.",
+      "regions": [
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Research is examining the impact of prolonged and short-term heat exposure on maternal and neonatal health, with rising heat rashes in newborns."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Conflict and underfunding have left hospitals and public services unable to meet the urgent health needs of over 4 million people."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "More than two-thirds of Sudan's population, an estimated 33.7 million people, are in need of humanitarian assistance, which includes critical health services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Global economy faces inflation threat as Iran war pushes oil prices and US debt tops GDP.",
+      "summary": "The global economy faces significant inflationary pressures as the Iran war and US naval blockade of the Strait of Hormuz drive Brent crude prices to $125 per barrel. This is triggering a global shift back to interest rate hikes by central banks. Furthermore, the US national debt has topped 100% of GDP, raising concerns about affordability and long-term economic stability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faces a major economic crisis due to the US naval blockade, leading to an estimated $4.8 billion loss in oil revenue and halting oil exports."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US national debt has surpassed 100% of GDP, raising concerns for the economy and exacerbating an affordability crisis."
+        },
+        {
+          "name": "Baku, Azerbaijan",
+          "lat": 40.4093,
+          "lng": 49.8671,
+          "severity": "yellow",
+          "detail": "The Central Bank of Azerbaijan is expected to join the global trend of interest rate hikes to combat inflation driven by rising fuel and food costs."
+        },
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "The Czech Republic faces rising inflation and slowing economic growth risks due to the energy shock from the Iran war."
+        },
+        {
+          "name": "Global Markets",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Global oil prices, exemplified by Brent crude reaching $125 per barrel, are fueling inflation and a shift toward tighter monetary policies worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global rule of law declines as press freedom and citizenship rights face challenges.",
+      "summary": "The World Justice Project reported an eighth consecutive year of decline in the rule of law in 68% of countries. Concerns were raised in Pakistan about the use of the Peca law against journalists, and in the US, an executive order seeking to limit birthright citizenship faced legal challenges. These events collectively highlight a concerning trend in democratic backsliding and threats to fundamental rights.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's executive order attempting to limit birthright citizenship is facing legal challenges."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "The PPP Human Rights Cell called for a review of the Prevention of Electronic Crimes Act, citing its growing use to curb dissent and press freedom."
+        },
+        {
+          "name": "Dallas County, Texas, USA",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "green",
+          "detail": "Local Joint & Special Elections were held, offering citizens an opportunity to participate in local governance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan's crisis deepens; humanitarian needs surge in Lebanon, Syria, Yemen, and Chad.",
+      "summary": "Sudan is experiencing the world's largest humanitarian crisis, with over 33.7 million people in need of assistance and nearly 12 million displaced. In Lebanon, over 4 million people require humanitarian aid, hampered by conflict and underfunding. Surging needs persist in Syria, Yemen, and Chad, where conflicts and climate change exacerbate food insecurity and displacement.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Over two-thirds of the population, an estimated 33.7 million people, are in need of humanitarian assistance in what is described as the world's largest crisis."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "More than 4 million people urgently require humanitarian assistance, but aid efforts are severely hindered by conflict and underfunding."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5104,
+          "lng": 36.2784,
+          "severity": "red",
+          "detail": "An estimated 16.5 million people in Syria will require humanitarian assistance in 2026."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Nearly 80% of Yemen's population requires humanitarian assistance due to ongoing civil war, with severely damaged food systems and infrastructure."
+        },
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1067,
+          "lng": 15.0444,
+          "severity": "red",
+          "detail": "Chad faces a growing humanitarian crisis due to food insecurity, malnutrition, displacement, and the effects of climate change, exacerbated by refugees from Sudan."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8528,
+          "lng": 31.6092,
+          "severity": "red",
+          "detail": "Humanitarian needs are rising due to the protracted conflict in neighboring Sudan, compounding existing challenges like insecurity, violence, and hunger."
+        }
+      ],
+      "sources": [
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmZqfIw6j_FvEvJqLvDLd9gCwESPHMlug8a93akZpizRpKFa1USoBmkSNERMDI3k_Oe33wjbynPGKOdYM_4y6o8Iva16xfdyoRjbtQ22-KM0_k52B8bZp4YMtG39HyN1exraKBRipufVo3ACoeKSbmbadGNlvP0sR0WtHO9E53Bf4miIE5BxZ4HBgt5wv1XRm-jmsjuIQQZrcoOszKYFwnbBvE82q7ytpd1Jxn9dRJG484hKIuXY="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqCmiHYAvbwgs0qIS6AgD3eFi3ZkpDMZzdG_HE7Gp7cD-ywZM70z0Gm2NBkQ8SagUXm_QxFSrW0eLEey2_gCODTbWeRv6KZTuin7Yd94KrBFLFLhy5DLjWA05Dg3"
+        },
+        {
+          "title": "india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZL8lbO4DS1u7aGPiuGRNDQiaeeAKix5sL1ULtoQ7WI4E91gFbKMicfxaZMBKPEwus8BJzvKWmc_slEm-HUAKmThTfIP8xb6YG6PopE0ZfdhZRfoLcp2GRPaz6V15vGIWovl07-oWCVolS9NvFGujFDFXCBQNtD8X0pEeK2YkQNc7MjueinmL7QOrFThrujZe06H9zgpSi21hNOpHIUNC1hUVR84COBVAphQGhdPIlnJkU-bSKCAV7w68JG6JSNVIDJasCPX0ukLtV3x6wn3-2rmgSrfd1i0D5yWK0Y8PY2eFCRIYfobOn8l3QNKs3rNndvTo9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKefH5jx1PNOQl-JbpcgMPdpQzuheA6P-5PtUmaIz8LM7aeTsTJZmEhzeLTOGJIdr9h5c7j-1pRBUW92-Jq6uNbcbP3OEaFYOFLmDxNOB5uOiZV9Uj56xNZfCQDK6mryf9F7DhF2RDB6FavgdSOQaOCyN7SpaYXlNfz8Q_TRbjqVIS_vZcRHnHYuVCwtJkEHOrrggkDh15M8b2S7emz6VTdYqUG31vCGAASPc2NsWw39dWgEQyn0tm0YkSLFlxzUUZKawu"
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KyQJydOLeoizDmTv-S3OWyRCwwY03lD0mdcxDUUAihHDvLeGTtV3APX_ArMhz2gkUsTsISoQ2_wR5aSiUmvzfv4pWmDF9IfnxnHLiBaK0nXj-om0fv3HWaTugpPPs40jnyYMcuOIYhWRtnztPoCXtq5nbeHUQIJc8c3l_kV7rbFgVED4nbWL1Azq"
+        }
+      ]
+    }
+  }
+}
