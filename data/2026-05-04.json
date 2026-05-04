@@ -1,0 +1,440 @@
+{
+  "date": "2026-05-04",
+  "timestamp": 1777877780296,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US to escort ships in Strait of Hormuz amid Iran war; healthcare attacks persist",
+      "summary": "The ongoing conflict involving the US, Iran, and Israel continues to escalate with the US announcing 'Operation Freedom' to escort ships through the Strait of Hormuz, a move Iran deems a ceasefire violation. Simultaneously, global health agencies report a worsening trend of attacks on healthcare facilities and personnel in conflict zones, ten years after a UN resolution aimed at protecting them.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US plans to begin escorting ships through this critical waterway, which Iran warns would violate the ceasefire."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian officials have warned that any US interference in the Strait of Hormuz would be considered a breach of the ceasefire."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump announced 'Operation Freedom' to escort ships in the Strait of Hormuz and is reviewing a new Iranian peace proposal."
+        },
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.3,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli airstrikes continue despite a ceasefire, killing at least seven people and damaging a Catholic convent."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN High Commissioner for Human Rights described Gaza as a 'death trap' for media workers, with nearly 300 journalists killed since October 2023."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "WHO, ICRC, and MSF issued an urgent call denouncing the increased attacks on healthcare in conflict zones."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Iran escalates repression; US court hears corporate abuse case; AI safety concerns",
+      "summary": "Iran's regime is escalating repression, carrying out executions and death sentences for January 2026 protesters, with reported torture and flawed judicial processes. In the US, the Supreme Court is hearing arguments on whether Cisco Systems can be held liable for aiding human rights abuses in China by developing surveillance technology. Furthermore, a new global report highlights public concern and lack of preparedness regarding AI-powered threats and privacy.",
+      "regions": [
+        {
+          "name": "Shiraz, Iran",
+          "lat": 29.6,
+          "lng": 52.5499,
+          "severity": "red",
+          "detail": "A Revolutionary Court sentenced four protesters to death on charges of 'enmity against God' following alleged coercion."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Supreme Court heard arguments in a case accusing Cisco Systems of aiding human rights abuses in China."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "A US federal judge blocked the termination of Temporary Protected Status for Yemeni refugees, citing serious dangers if returned."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "Cisco Systems is accused of helping develop surveillance technology used against Falun Gong practitioners in China."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "New global research reveals a wide gap between AI adoption and public awareness of AI-powered threats to safety and privacy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Authoritarianism and billionaire influence hinder climate action",
+      "summary": "On World Press Freedom Day, Greenpeace USA criticized the Washington Post, stating that billionaire ownership hinders climate coverage, linking it to the broader issue of 'Democracy Dies by Billionaire.' An Amnesty International op-ed further argued that the global slide into authoritarian practices is accelerating the climate crisis by entrenching fossil fuel interests and disrupting social cohesion for change. Disruptions in the Strait of Hormuz due to conflict are also impacting global energy supply chains.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Greenpeace USA activists protested outside the Washington Post office, highlighting how billionaire influence affects climate coverage."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Amnesty International published an op-ed stating that the rise of authoritarianism is supercharging the climate crisis."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Ongoing geopolitical tensions and disruptions are impacting global energy shipping routes and driving up costs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Hantavirus outbreak on cruise ship kills three; healthcare attacks worsen",
+      "summary": "A suspected hantavirus outbreak on an Atlantic cruise ship, MV Hondius, has led to three deaths and several illnesses, with one patient in intensive care in South Africa. Separately, the WHO, ICRC, and Doctors Without Borders issued an urgent call to action, condemning the intensified attacks on healthcare workers, hospitals, and patients in conflict zones worldwide. In Kenya, an AI system designed to predict healthcare affordability is allegedly increasing costs for the poor.",
+      "regions": [
+        {
+          "name": "Atlantic Ocean (MV Hondius cruise ship)",
+          "lat": 0,
+          "lng": -30,
+          "severity": "red",
+          "detail": "Three people have died and several others are ill due to a suspected hantavirus outbreak on a cruise ship."
+        },
+        {
+          "name": "Cape Town, South Africa",
+          "lat": -33.9249,
+          "lng": 18.4241,
+          "severity": "red",
+          "detail": "One patient from the cruise ship is in intensive care in a South African hospital due to hantavirus."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The WHO, ICRC, and MSF issued a joint statement condemning the rise in attacks on health services in conflict zones."
+        },
+        {
+          "name": "Kisumu, Kenya",
+          "lat": -0.1022,
+          "lng": 34.7617,
+          "severity": "yellow",
+          "detail": "An investigation found that an AI system used in Kenya's health reforms has systematically driven up healthcare costs for the poor."
+        },
+        {
+          "name": "Ushuaia, Argentina",
+          "lat": -54.8019,
+          "lng": -68.3044,
+          "severity": "yellow",
+          "detail": "The MV Hondius cruise ship, affected by the hantavirus outbreak, had set sail from Argentina."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran war, Hormuz closure disrupt global economy; oil prices surge",
+      "summary": "The ongoing conflict involving Iran has led to significant disruptions in the Strait of Hormuz, a critical oil transit chokepoint, causing global oil prices to surge and international shipping costs to rise. In response to these disruptions, Singapore and New Zealand signed a deal to strengthen supply chain resilience for essential goods like food and energy. Additionally, the UAE's departure from OPEC on May 1, 2026, is noted as a significant shift in global oil supply dynamics.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Disruptions in this critical chokepoint are causing global oil prices to surge and international shipping costs to rise."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "Singapore signed a deal with New Zealand to strengthen supply chain resilience for critical goods amid global disruptions."
+        },
+        {
+          "name": "Wellington, New Zealand",
+          "lat": -41.2865,
+          "lng": 174.7762,
+          "severity": "yellow",
+          "detail": "New Zealand signed an agreement with Singapore to safeguard the flow of essential supplies during crises."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "The United Arab Emirates delivered a historic shock to global energy markets by announcing its departure from OPEC, effective May 1, 2026."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's ongoing conflict is a primary driver of instability in the Strait of Hormuz and global oil markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US redistricting strains democracy; global authoritarianism rises",
+      "summary": "American democracy is facing strain from aggressive redistricting and a Supreme Court decision that weakened the Voting Rights Act, potentially leading to a gain of 20 Republican seats. Globally, former New Zealand Prime Minister Helen Clark warned at a conference in Melbourne that democracy is taking an authoritarian turn, with restrictions on free speech increasingly appearing in democratic societies. Greenpeace USA further highlighted how billionaire ownership of media outlets undermines press freedom and democratic accountability.",
+      "regions": [
+        {
+          "name": "Louisiana, USA",
+          "lat": 30.9843,
+          "lng": -91.9623,
+          "severity": "yellow",
+          "detail": "The Supreme Court's ruling in Louisiana v. Callais weakened the Voting Rights Act's requirement for districts to give minorities a chance to elect preferred representatives."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Supreme Court's decision on gerrymandering could have widespread political consequences, and Greenpeace protested billionaire media ownership."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "severity": "yellow",
+          "detail": "Helen Clark warned at the Women Deliver conference about the global rise of authoritarianism and attacks on human rights."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The UN High Commissioner for Human Rights warned that growing attacks on journalists worldwide are undermining freedom, accountability, and democratic societies."
+        },
+        {
+          "name": "Indiana, USA",
+          "lat": 40.2672,
+          "lng": -86.1165,
+          "severity": "green",
+          "detail": "The League of Women Voters Indianapolis chapter is urging Hoosiers to make informed decisions for the upcoming primary elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Attacks on healthcare worsen; US aid cuts disrupt HIV services",
+      "summary": "Humanitarian aid efforts are significantly challenged by escalating attacks on healthcare services in conflict zones worldwide, prompting a joint urgent call for action from the WHO, ICRC, and MSF, who note the situation is worse than a decade ago. Furthermore, US policy decisions and funding disruptions are causing significant setbacks in HIV assistance programs in Zambia, straining clinics and interrupting vital services for patients. The blocking of TPS termination for Yemeni refugees by a US judge highlights ongoing humanitarian needs.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The WHO, ICRC, and MSF issued an urgent call for action, stating that violence affecting medical facilities and personnel has intensified globally."
+        },
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "US cuts to HIV assistance are leading to strained clinics and interrupted services, illustrating the consequences of policy decisions on lives."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "A US federal judge blocked the termination of Temporary Protected Status for Yemeni refugees, preventing their exposure to serious danger."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN rights chief called Gaza a 'death trap' for media workers, indicative of the severe humanitarian crisis and risks for those providing aid and reporting."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zw7Dn0J0rwBxMXpsWIQzOWy_nwow1qBqMqt9cA4Z8-Gtu_iNVEALdNw_wEXPgFB-480rw7UIDhM6kYYm9AmKZ09EbDs24yHX9CCnWG1UNgVFKqM0FO8b-9obhuiSV0qvrjhM-RiZOdjnmzOxAX5Dg6AYESkHvDYQvLcJWTT7CEs635UxmL4Q3bZDEnwP6GgyrbfojwfVLZo="
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsMCz27dCysU4vQBqchRTWD_xxuiKMg9qUKOJwjj1h68xZq8ksZt8ndf9GYPoHkOTV8JJW9d7Kw3tJGjs2x82tH5C0yRxBcYpMyxengQCoUB4LgaTOdjNqyi8xPrbw8yOpEdsxNgObYxFlPBv9nsuU5N1ldw7d7RKrz0wrhPAYC0HQbFrC_eoZzUMBaTC457mfMxBhiRYLnBLTgPMWyXd8-gxKx0yR3Nj_ACQNNLe_z-7o"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyNLngEJYmRGFQ38Q2Pv0sVsxDT9oS9XSFCRhp7ss6lWmF0A5QYxqVk5Z-oUolcAnH0bQcJR89daMPiNMP3sg3gv7-iER-LvqsEZZQeXlH4_LE__XpDD8xBcJduJDUH2r6rG5_OOjOLSiWQl0NMLldX1GxjOnIsx_Mlb_1S_S_LBpJ57dJ11c__pcUoXoiZxvBNs8MDAKJeQBkDr54kx-xDzZOZM="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmSuzOklA1sd-WP41pzuwdstwjSkYRgbIzPvdxUiJSwUGksZbZxWb0EHAYba-5EzZhgIWLOgKyrn0u03cnH8QQ_YEKAi6014Pdv_rC0GyPjEe5JRP8lS_3cVfJGzqcAPh8ENqOzpiNIulvXoSF-Ov22KaH94vuEUoe6JblAzFnDRANz6XaNp8wvHvvPZACV66E6o_ny70gMtATD9viVQBgkQIPZA9nplKnveIkmHuVwzqzHsyv"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3n_oenz7ZtqbHRLn4A3e1cO6TKtpYUxWYfuYG8Tm7Uj_QZDkCffEPYRD3drQ10UuBbz3oZeCb6CGes6F5M-ozWhxmsOZV4hSIGej68Fr5DoU85d93lAOX8c_ao2r4HqdoNLtb1gc="
+        }
+      ]
+    }
+  }
+}
