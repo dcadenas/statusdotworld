@@ -1,0 +1,468 @@
+{
+  "date": "2026-05-05",
+  "timestamp": 1777963285512,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate, Ukraine-Russia impasse, Sudan war persists",
+      "summary": "The Middle East conflict saw a dangerous escalation with Iran launching missile and drone attacks on the UAE and ships in the Strait of Hormuz, prompting the U.S. to sink Iranian vessels. The IMF warned of severe global economic consequences if the conflict extends into 2027. Meanwhile, President Zelensky proposed a unilateral 'regime of silence' to counter Russia's 'Victory Day' truce in Ukraine. The protracted conflict in Sudan continues to cause immense suffering, and renewed border clashes between Pakistan and Taliban forces exacerbate the humanitarian crisis in Afghanistan.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.4667,
+          "severity": "red",
+          "detail": "Iran launched drone and missile attacks on ships, leading to U.S. intervention and increased global oil market volatility."
+        },
+        {
+          "name": "United Arab Emirates",
+          "lat": 24,
+          "lng": 54,
+          "severity": "red",
+          "detail": "The UAE reported being attacked by Iran with missiles and drones for the first time since a ceasefire in the wider regional conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "President Zelensky declared a unilateral 'regime of silence' for May 5-6, challenging Russia's proposed 'Victory Day' truce."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia proposed a two-day ceasefire for its Victory Day celebrations (May 8-9), which Ukraine dismissed as unserious."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "A church leader highlighted the forgotten and catastrophic conflict entering its third year, causing widespread displacement and deaths."
+        },
+        {
+          "name": "Kunar Province, Afghanistan",
+          "lat": 34.8,
+          "lng": 71.1667,
+          "severity": "red",
+          "detail": "Renewed border clashes between Taliban forces and Pakistani troops worsened humanitarian conditions, causing casualties and infrastructure damage."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The U.S. sank seven Iranian boats in response to Iranian attacks, escalating tensions in the Middle East."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Gaza aid flotilla intercepted, Indigenous rights commemorated in Canada",
+      "summary": "Israeli naval forces intercepted multiple humanitarian aid boats bound for Gaza, with crews reporting threats, abduction, and abuse. In Canada, May 5th was observed as Red Dress Day, honoring missing and murdered Indigenous women, girls, and 2SLGBTQI+ people, with the Prime Minister participating in a commemorative ceremony. Human Rights Watch urged Swedish parties to clarify positions on international court rulings concerning Israel-Palestine. Additionally, a disability discrimination claim was filed in Australia over the refusal to evacuate a disabled teenager from Vanuatu.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid flotilla attempting to reach Gaza was intercepted by Israeli naval forces, with activists reporting abuse and seizure of vessels."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "The Prime Minister participated in a Sacred Bundle Ceremony to commemorate Red Dress Day for Missing and Murdered Indigenous People."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "yellow",
+          "detail": "Civil society organizations called on political parties to clarify their stance on implementing international law regarding Israel and Palestine."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "A disability discrimination claim was filed against the Australian government for refusing to evacuate a disabled teenager during an emergency in Vanuatu."
+        },
+        {
+          "name": "Vilnius, Lithuania",
+          "lat": 54.6872,
+          "lng": 25.2797,
+          "severity": "yellow",
+          "detail": "A proposed referendum to define family solely as a union between a man and a woman, motherhood, and fatherhood raises concerns about undermining constitutional rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Organic farming boosts climate fight, Michigan floods persist",
+      "summary": "A review of studies highlighted organic farming as a key solution for climate adaptation and mitigation, showing its benefits in reducing emissions and improving soil health. Separately, new research suggests that electronically tagged sharks could help improve ocean climate forecasts. Meanwhile, Michigan continued to grapple with widespread flooding and elevated river levels due to prolonged rainfall and snowmelt, necessitating ongoing state of emergency declarations.",
+      "regions": [
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "Prolonged rainfall, rapid snowmelt, and storms caused widespread flooding and damaged infrastructure, extending a state of emergency."
+        },
+        {
+          "name": "Arizona State University, USA",
+          "lat": 33.4243,
+          "lng": -111.9321,
+          "severity": "green",
+          "detail": "Researchers from here contributed to a review highlighting organic farming's role in climate adaptation and mitigation."
+        },
+        {
+          "name": "Germany",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "green",
+          "detail": "The Institute for Applied Agriculture Research in Germany also contributed to a review of organic farming's climate benefits."
+        },
+        {
+          "name": "Northwest Atlantic Ocean",
+          "lat": 35,
+          "lng": -50,
+          "severity": "green",
+          "detail": "A new study demonstrated that tagged sharks in this region can collect valuable ocean climate data to improve forecasts."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.2744,
+          "lng": 133.7751,
+          "severity": "yellow",
+          "detail": "Australians are advocating for significant climate action funding in the federal budget to electrify homes and transport."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Hantavirus outbreak on cruise ship, Native American health disparities persist",
+      "summary": "A cruise ship was stranded off Cape Verde after a suspected hantavirus outbreak killed three passengers and left others seriously ill. The World Health Organization is investigating the rare, rodent-borne illness. Meanwhile, a report indicated that Native American communities in the U.S. continue to receive the worst quality of healthcare compared to other demographics, although a diabetes pilot program on the Nez Perce reservation showed promising results. May 2026 was proclaimed National Cancer Research Month in Michigan.",
+      "regions": [
+        {
+          "name": "Praia, Cape Verde",
+          "lat": 14.9333,
+          "lng": -23.5167,
+          "severity": "red",
+          "detail": "A cruise ship was anchored off the coast after a suspected hantavirus outbreak killed three people and sickened several others."
+        },
+        {
+          "name": "South Africa",
+          "lat": -30.5595,
+          "lng": 22.9375,
+          "severity": "yellow",
+          "detail": "A British man evacuated from the cruise ship to South Africa tested positive for hantavirus and is in critical condition."
+        },
+        {
+          "name": "Nez Perce Reservation, USA",
+          "lat": 46.2571,
+          "lng": -116.5931,
+          "severity": "yellow",
+          "detail": "A 16-week pilot program aimed at managing diabetes among tribal members showed promising results."
+        },
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "green",
+          "detail": "May 2026 was proclaimed National Cancer Research Month to promote awareness, prevention, and research."
+        },
+        {
+          "name": "Illinois, USA",
+          "lat": 40.6331,
+          "lng": -89.3985,
+          "severity": "green",
+          "detail": "The Department of Public Health held meetings on HIV integrated planning and infant and maternal mortality among African Americans."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict imperils global economy; oil prices soar",
+      "summary": "The global economy faces a severe outlook, with the IMF warning of a 'much worse outcome' if the Middle East conflict persists into 2027, potentially driving oil prices to $125 per barrel. The escalation of hostilities in the region, including attacks on the UAE and ships in the Strait of Hormuz, caused Wall Street to fall and oil prices to jump significantly. Physical oil shortages and supply chain disruptions, especially from the Strait of Hormuz closure, are exacerbating inflationary pressures globally, with countries like Pakistan particularly vulnerable.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The IMF warned from Washington D.C. that the global economy faces a grim future if the Middle East conflict continues."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.4667,
+          "severity": "red",
+          "detail": "The closure and attacks in this critical waterway are causing physical oil shortages and global supply chain disruptions."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Wall Street experienced declines, and oil prices jumped due to escalating tensions in the Middle East."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "red",
+          "detail": "The nation is particularly vulnerable to soaring global oil prices due to its import dependence, risking accelerating inflation and growth stagnation."
+        },
+        {
+          "name": "Thimphu, Bhutan",
+          "lat": 27.4728,
+          "lng": 89.639,
+          "severity": "green",
+          "detail": "The government and World Bank signed financing agreements for a major hydroelectric power project to boost economic growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Lithuania referendum challenges family rights; US primaries watched",
+      "summary": "In Lithuania, a proposed advisory referendum to constitutionally define family relations as exclusively arising from marriage between a man and a woman is raising concerns about the misuse of popular sovereignty to undo established gender-neutral legal interpretations. This initiative is seen as an attempt to mobilize against the Constitution itself. In the United States, primary elections were held in Indiana, Ohio, and Michigan, including a special election for a Michigan state Senate seat that could determine party control. These elections are being closely watched as indicators for upcoming midterm elections, with Democrats showing surprising strength in recent special contests.",
+      "regions": [
+        {
+          "name": "Vilnius, Lithuania",
+          "lat": 54.6872,
+          "lng": 25.2797,
+          "severity": "yellow",
+          "detail": "A proposed referendum on defining family exclusively as arising from heterosexual marriage challenges existing constitutional interpretations of family rights."
+        },
+        {
+          "name": "Ohio, USA",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "green",
+          "detail": "Primary elections were held to select candidates for various offices, including governor and U.S. House seats."
+        },
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "A special election for a state Senate seat was held, which could determine the balance of power in the state Senate."
+        },
+        {
+          "name": "Indiana, USA",
+          "lat": 40.5517,
+          "lng": -85.7,
+          "severity": "green",
+          "detail": "Primary elections were held, with some Republican state senators targeted by allied groups of former President Trump."
+        },
+        {
+          "name": "Charleston, West Virginia, USA",
+          "lat": 38.3498,
+          "lng": -81.6326,
+          "severity": "green",
+          "detail": "The state Democratic Party called for an ethics investigation into U.S. Senator Jim Justice regarding claims related to the Greenbrier Resort."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid ships intercepted, Somalia faces severe drought and funding crisis",
+      "summary": "The Global Sumud Flotilla, carrying critical humanitarian aid for Gaza, faced interception by Israeli naval forces, with reports of threats and abuse against crew members. Meanwhile, Somalia is confronting a deepening humanitarian catastrophe, with 6.5 million people facing crisis-level food insecurity due to severe drought and drastic cuts in international aid funding, which is at an unprecedented low of only 15% of the required response plan. China provided humanitarian aid to Lebanon amid ongoing conflict. The Pakistan Navy also delivered aid to an Indian vessel stranded in the Arabian Sea. Renewed border clashes between Afghanistan and Pakistan continue to worsen humanitarian conditions in eastern Afghanistan.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid shipments via flotilla were intercepted, exacerbating an already critical aid situation."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0469,
+          "lng": 45.3182,
+          "severity": "red",
+          "detail": "The country faces a severe drought and unprecedented cuts in aid, leaving millions food insecure and risking famine."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "China delivered emergency food, tents, and hygiene items to assist people affected by ongoing conflict."
+        },
+        {
+          "name": "Arabian Sea",
+          "lat": 18,
+          "lng": 65,
+          "severity": "green",
+          "detail": "The Pakistan Navy provided food, medical, and technical aid to the crew of a stranded Indian vessel."
+        },
+        {
+          "name": "Kunar Province, Afghanistan",
+          "lat": 34.8,
+          "lng": 71.1667,
+          "severity": "red",
+          "detail": "Border clashes between Afghan and Pakistani forces have worsened humanitarian conditions, causing civilian casualties and damage to infrastructure, restricting aid access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "observertoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWVhBjm105MGvuHIILmzTfGdCO8hv9ZU65JvnwLXiXnGOBGhZpKd6ve4-Or3MS_xDu41uMlt1bDC4Wh-CShfB1-FoDs7AA3Ao8s0XS8hMi0d7knyqOg2HDbYfrY-cJ5wQ12zhuA3b1Me84o2sSf4HwIwSkSkEKOgu8ir64RkU6Fc5SHeppi58QJ3l0IPPURxiXYhUhEN0rdGAFfaxUSkAld35idrAwWGrQERFncquZq4NjWVNRuDNdSjfyKqT1vdh_LrQbKXpWvgCdansVj9V"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnfZBZRrYLopeE1UsTT2o7uwtaiIB3JcSXDZZ7PPUYaqy640KR-EXExYIWmQ6cUk8RojsolGgtr84fpeTE3kGkUJHH_e7QWIRVDgxmXdRCkAMslmNXoinYJTlJDogJJind9RTdposKHvzmYFYAsoS_DMY5pXpyYP0iwemso033_SF5ZeglHx-PvNh_bJGqXgO4hvdgpGyK7CZIUqEhUBxPiw="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVpuGnK7ya0VL8hlycvyqN14O09tnIkxtPDVe28NKuX7YwdyzapVGTApmuTc7H8hVpe_I9mOsPLP4_Luzb0RnlfRou77kryh-k6x0GwYVJtiM3_PDVEcwR-ppfKZWDf6owUGtmRO97odu4rUEoQXrcYM9YsxG6foQbaZKEIDy_OvBK-sM3mQIztMa19Gg9xOIhfNaV3bchQm7y0OjMKrQDC9VhbWVTnlhUsJBl6Q8QqSTmv_reYfqio0zI4BI2W0vL2V17ocWRyX2NAvOevlUN9spL5kvHZxRJ7MTMwHTp"
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty8_i5K7PdlEWwJ12HWLfF2-sGIkZiUaY-EZZEt_q8UNK9Tr-1-1TwXGt4-ANy5jBEs6Qe5Psyz1HBMpbzhvuEfP8Qi4bkAQUaIIDzAfXQzIfIujkFlbXm8JfAQRO7D65zh3eRsSHQg2Yb54nPvzibuL8Fu2rUR-PEeJfMcVzjizgQvZHkJAIKVqcxvgkvCYHOiH8IoCogQyO80Zf499qSYyHt10dhE6QsKyCX4PpZF6eN51a3X2Aft4YWw=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvUm4BJ9V9J6dXBXEudZGGlaIYNFq25rFfZTwHIh3sd-b1f33OOY_lcHYQ2hxcitSSedYOLdEx9vrfIyfXzI9v70L6tXiAcGJ6HwZAUmeXRWoAkaXQIjtwm8-ki19s"
+        }
+      ]
+    }
+  }
+}
