@@ -1,0 +1,440 @@
+{
+  "date": "2026-05-06",
+  "timestamp": 1778050227943,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran tensions persist in Strait of Hormuz; Ukraine-Russia conflict continues",
+      "summary": "The US-Iran conflict continues to cause geopolitical tensions, with a naval blockade in the Strait of Hormuz disrupting global trade and stranding seafarers. There are reports of a fragile ceasefire and negotiations, but also warnings of potential military action and Iranian attacks. The conflict in Ukraine also sees continued activity with Russian missile strikes.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "A naval blockade continues to cause geopolitical tensions and disrupt global trade."
+        },
+        {
+          "name": "Iran",
+          "lat": 32,
+          "lng": 53,
+          "severity": "red",
+          "detail": "Iran is involved in ongoing attacks and is subject to US actions and a naval blockade."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8,
+          "lng": -98.6,
+          "severity": "yellow",
+          "detail": "The U.S. is involved in naval actions in the Persian Gulf and diplomatic efforts with Iran."
+        },
+        {
+          "name": "Poltava Oblast, Ukraine",
+          "lat": 49.5,
+          "lng": 34.5,
+          "severity": "red",
+          "detail": "Russian forces conducted a double-tap missile strike against first responders, killing two and injuring at least 23."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8,
+          "lng": 35.8,
+          "severity": "yellow",
+          "detail": "Ongoing conflict sees China providing humanitarian aid."
+        },
+        {
+          "name": "Israel",
+          "lat": 31,
+          "lng": 35,
+          "severity": "yellow",
+          "detail": "Israel was targeted by Iranian retaliation earlier in the conflict and is subject to ongoing protests."
+        },
+        {
+          "name": "United Arab Emirates",
+          "lat": 24,
+          "lng": 54,
+          "severity": "yellow",
+          "detail": "The UAE reported being targeted by Iranian missiles and drones."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns lead to government oversight agreements; immigrant rights protests",
+      "summary": "Major tech companies like Google, Microsoft, and xAI agreed to allow the U.S. Department of Commerce to conduct safety checks on their AI models before release, addressing growing concerns about national security and potential harms. Protests also continued in New York City regarding immigrant protections and an end to perceived injustices. Experts are warning that AI in healthcare is moving faster than safety checks, highlighting the need for deliberate integration into clinical care.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9,
+          "lng": -77,
+          "severity": "yellow",
+          "detail": "The U.S. Department of Commerce announced an agreement with major tech companies for AI model safety checks."
+        },
+        {
+          "name": "Providence, Rhode Island, United States",
+          "lat": 41.8,
+          "lng": -71.4,
+          "severity": "yellow",
+          "detail": "Rallies were held for graduate unionization, immigrant protections, and an end to conflict."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "Massive protests opposed a conference promoting West Bank settlement sales and expressed solidarity with Palestinian rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Deadly tornado outbreak in Great Plains; climate health investments urged",
+      "summary": "A severe tornado outbreak in the Great Plains, particularly affecting Colorado, resulted in approximately 24 fatalities and significant destruction. Concurrently, new research emphasizes the substantial economic benefits of early investments in climate health solutions for low- and middle-income countries, as climate change increasingly exacerbates health crises. Climate models are also struggling to accurately predict storm tracks, hindering early warnings for extreme weather events.",
+      "regions": [
+        {
+          "name": "Las Animas, Colorado, United States",
+          "lat": 38.07,
+          "lng": -103.22,
+          "severity": "red",
+          "detail": "A large, violent EF4/EF5 tornado caused four fatalities and destroyed 90 buildings."
+        },
+        {
+          "name": "Woodland Park, Colorado, United States",
+          "lat": 39,
+          "lng": -105,
+          "severity": "red",
+          "detail": "A stovepipe tornado caused major roof damage to at least 40 buildings."
+        },
+        {
+          "name": "Great Plains, United States",
+          "lat": 40,
+          "lng": -100,
+          "severity": "red",
+          "detail": "The region experienced a severe tornado outbreak resulting in approximately 24 fatalities."
+        },
+        {
+          "name": "Tuscaloosa, Alabama, United States",
+          "lat": 33.2,
+          "lng": -87.5,
+          "severity": "yellow",
+          "detail": "The National Weather Service is predicting an enhanced risk of severe weather, including tornadoes and damaging winds."
+        },
+        {
+          "name": "Boca Raton, Florida, United States",
+          "lat": 26.3,
+          "lng": -80.1,
+          "severity": "yellow",
+          "detail": "High temperatures, extreme UV exposure, and humidity are expected to persist, with heat indices reaching 100 degrees."
+        },
+        {
+          "name": "Antarctica",
+          "lat": -80,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Soaring tourism is raising concerns about contamination and disease amidst fears of melting landscapes."
+        },
+        {
+          "name": "Mount Marapi, West Sumatra, Indonesia",
+          "lat": -0.38,
+          "lng": 100.47,
+          "severity": "yellow",
+          "detail": "The volcano erupted early Wednesday, maintaining an active alert status."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25,
+          "lng": 121.5,
+          "severity": "yellow",
+          "detail": "Environmental groups highlighted that government funds are misaligned with Taiwan's net-zero carbon emissions goals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Climate change poses growing health threats; medical AI safety under scrutiny",
+      "summary": "Research by WRI and The Rockefeller Foundation highlights that climate change is intensifying global health crises, increasing disease spread and extreme weather impacts, particularly in low- and middle-income countries. Experts also warn that medical AI is advancing faster than safety checks, posing risks like bias and unintended patient harm if not carefully evaluated. A tourism boom in Antarctica raises concerns about contamination and disease risk to the continent's fragile ecosystem.",
+      "regions": [
+        {
+          "name": "Global (Low- and Middle-Income Countries)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Climate change is driving a growing health crisis, increasing the spread of disease and extreme weather impacts."
+        },
+        {
+          "name": "Antarctica",
+          "lat": -80,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Increased tourism is raising concerns about potential contamination and the spread of illness to the fragile ecosystem."
+        },
+        {
+          "name": "India",
+          "lat": 20,
+          "lng": 77,
+          "severity": "yellow",
+          "detail": "Recent sustained temperatures surged to dangerous levels of heat, reaching 42 degrees C (108 degrees F)."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.2,
+          "lng": 36.8,
+          "severity": "yellow",
+          "detail": "Deadly floods damaged health facilities and prompted warnings from the Ministry of Health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global inflation fears rise due to oil prices; US market sees mixed signals",
+      "summary": "Global markets are experiencing volatility as oil prices surge due to US-Iran tensions and the effective closure of the Strait of Hormuz, with South Korea's central bank forecasting increased inflation. While US stock markets showed a mixed performance with the Dow falling and Nasdaq/S&P 500 edging higher, economic indicators are closely watched for signs of future trends. The Conference Board revised its US GDP growth forecast down to 1.6% for 2026, signaling a potential slowdown.",
+      "regions": [
+        {
+          "name": "South Korea",
+          "lat": 35.9,
+          "lng": 127.7,
+          "severity": "yellow",
+          "detail": "The Bank of Korea forecasts further inflation increases in May due to high oil prices."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8,
+          "lng": -98.6,
+          "severity": "yellow",
+          "detail": "US stock markets saw mixed performance, and key economic data releases are being monitored for future trends; GDP growth forecast revised down."
+        },
+        {
+          "name": "Persian Gulf",
+          "lat": 27,
+          "lng": 51,
+          "severity": "yellow",
+          "detail": "The effective closure of the Strait of Hormuz is impacting oil prices and global trade."
+        },
+        {
+          "name": "Asia",
+          "lat": 30,
+          "lng": 90,
+          "severity": "green",
+          "detail": "Stock markets in Asia hit record highs, largely driven by the AI boom."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Protests in US cities highlight diverse social and political concerns",
+      "summary": "Protests took place in New York City concerning an Israeli real estate event and Palestinian rights, highlighting ongoing social and political divisions. In Providence, Rhode Island, rallies were held for graduate unionization and immigrant protections, also calling for an end to the war in Iran. Discussions and vigils related to a ceasefire and gerrymandering also occurred in New Hampshire.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "Massive protests were held rejecting a conference promoting West Bank settlement sales and supporting Palestinian rights."
+        },
+        {
+          "name": "Providence, Rhode Island, United States",
+          "lat": 41.8,
+          "lng": -71.4,
+          "severity": "yellow",
+          "detail": "Hundreds rallied for graduate unionization, immigrant protections, and an end to the war in Iran."
+        },
+        {
+          "name": "New Hampshire, United States",
+          "lat": 43.4,
+          "lng": -71.5,
+          "severity": "green",
+          "detail": "Events included vigils for a permanent ceasefire and discussions on gerrymandering."
+        },
+        {
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -88.9,
+          "severity": "yellow",
+          "detail": "The country was mentioned in the context of aspiring autocrats and potential democratic erosion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Persian Gulf faces severe humanitarian crisis; aid delivered to Lebanon",
+      "summary": "The United Nations has sounded an alarm over a catastrophic humanitarian emergency in the Persian Gulf, where approximately 20,000 seafarers are stranded due to a naval blockade in the Strait of Hormuz. Meanwhile, China delivered two batches of emergency humanitarian aid to Lebanon to assist people affected by ongoing conflict, including food, tents, blankets, and hygiene items. UNRWA also issued a situation report on the humanitarian crisis in the Occupied Palestinian Territory.",
+      "regions": [
+        {
+          "name": "Persian Gulf",
+          "lat": 27,
+          "lng": 51,
+          "severity": "red",
+          "detail": "Approximately 20,000 seafarers are trapped aboard vessels amidst a tightening naval blockade, leading to a catastrophic humanitarian emergency."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "yellow",
+          "detail": "China handed over two batches of emergency humanitarian aid to assist people affected by the ongoing conflict."
+        },
+        {
+          "name": "Occupied Palestinian Territory",
+          "lat": 31.3,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "UNRWA issued a situation report on the ongoing humanitarian crisis in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sundayguardianlive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YgEcrnqRrMNzKdZtXFFcwgehFOXbdA7zATRejzLfqca97WZmAj5iFAve-2WxlOg-PIFp0LvDNsFrPsIGTYene8lAcJ88eNs4oEXQ_UApCbbniwkAbvvHajt22c9AOo7-97Bge-yqIKHn_WuC1hEvi6jDag-0-oJAwyRsTBI61xLBl3SbHEkTuGjon2hiDvqKgrNjvlpTeTPBeXRppXH4SYgtRRNn1w_JyrtLKZeG_B0ibBKFolNR68lDHc2ZPrmucBzUeQoc8k5cTmwoQVhrl7ieLSFCd95K2_ALl5aPjxB2BWL7wMvYt79-a3hssX5VfhGtRCYzJvzlcMxtUALcQL-ENyIqs94qUYyUg-ONDc6ZsgY99u67I2aC2IoN"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY7rASbTXQyC0sjBJ2AWxn43wgt8labZ-pHderRNqBfhXqd-afcIxOUNmTeNGh_KN-2PFeUn7e_9CEp-SvENjYVdlMLU-0H_hj0Tj2yT-e2o_8QI0BHcSgTSDQd8jOOdpPARbVRf7f0mloCB3lQykPPucSBKupyJByv3jpph6EpEGaKDyliiJ_eeZrl9VtXSy8OvFaUKPHEwFr6OfmgNnKlw=="
+        },
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmD41pHuhw9M8ApWLffDNyAitGweWxSaCZTlgpybP5xhtUxMpTqmuJJGfb3KTnWtQuQz2-6VXLrvIUVK_YDtNK0HOQl2ZTw_mrxp0cx1VzKekJylLxmWuZ-7xLG12sZkUcGfHw5WLD2xoTbFv8rsyzrud3ZXZhZR7p_vlsGXUGYa8BTZsoeHdu-3VzO1yquxo-ssF0tpEcsShagM1HcYHhlhziNA3CtecOz3vzO7zg-r0UZZO56oylVrwS1qzHLQr2WOG8a48XQKxeanGXs_h1Idw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs1ClM52xSg7wzyVRoiYzrTy-saEIxphic6sloiiVkSfYYzWg-zIjccTrARdYjkvd08RiKMGLMC39k3m5XROJT9Lw2CdwM2t31nzdn2dHS-jxI6bBi21L6Sb0GfB5Kz5rEsFvJOxAp-FYO76Erpi4LL8MsQV1RDGEyLq3o5cSSiHKPlVGwzjy5TK3Ac-FNeHwTadcG95Bz0sR_nDGCqg8uVp1omFtWF1TTKY-PSwLZJKzZE5ZUfyvY6dFWUZAXkSt7Llzz_x1xRHvwsXKRjjVE_W6XbVOHsGuWjA=="
+        },
+        {
+          "title": "babushahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOb_6OoyTuLgkcUf82jywWh1huqFreK-UMQu5u6wG7FNqIG87IeDQVPajkgpimTVpEAevLACnWosUmXxsI7QNoDewB6VpT0_8HQdPGwYOOWrltj-hJeJ7QOLmXUlBTg3tcoG17hdBnneRCGjc="
+        }
+      ]
+    }
+  }
+}
