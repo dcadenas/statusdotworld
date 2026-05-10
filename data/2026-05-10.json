@@ -1,0 +1,545 @@
+{
+  "date": "2026-05-10",
+  "timestamp": 1778395848943,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflicts escalate; Ukraine ceasefire begins; Mali attacks continue.",
+      "summary": "Tensions remain high in the Middle East with an ongoing conflict involving Iran and the US, including threats over the Strait of Hormuz and recent strikes. Deadly clashes continue between Israel and Hezbollah in Lebanon. Meanwhile, a three-day ceasefire has begun in Ukraine, and dozens were killed in insurgent attacks in Mali.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is reviewing a US peace proposal while threatening retaliation for attacks on its tankers."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The closure of this vital waterway is causing significant global economic impact due to the Iran conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli airstrikes have killed at least 12 people in southern Lebanon amidst intensifying clashes with Hezbollah."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "A three-day ceasefire, brokered by President Trump, has begun in the war with Russia."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9999,
+          "severity": "red",
+          "detail": "Dozens were killed in villages attacked by al-Qaeda-linked insurgents."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "red",
+          "detail": "A ship caught fire off the coast of Qatar after being hit by an unknown projectile."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is involved in peace proposals for Iran and has ongoing military actions in the region."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "President Putin stated the war in Ukraine could end soon, as a ceasefire took effect."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Gaza aid activists deported; US withdrawals spark concern; West Bank attacks.",
+      "summary": "Israel deported two activists from a Gaza-bound humanitarian flotilla, with their detention deemed a violation of international law. Colonizers injured women and expanded attacks in the West Bank. Concerns are raised that US withdrawals from international organizations may signal a reduced commitment to human rights globally.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Two activists attempting to deliver aid via a flotilla were deported by Israel after their detention."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Colonizers injured two women and expanded their attacks."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration's withdrawal from international organizations sparks concern about global human rights protection."
+        },
+        {
+          "name": "Quebec, Canada",
+          "lat": 46.8139,
+          "lng": -71.208,
+          "severity": "green",
+          "detail": "A digital health dashboard pilot project is rolling out with officials addressing security and technical concerns."
+        },
+        {
+          "name": "Trenton, New Jersey, USA",
+          "lat": 40.2206,
+          "lng": -74.7667,
+          "severity": "green",
+          "detail": "A bill was introduced to increase transparency and public input on AI data center developments regarding environmental impact."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The Holy See called on the UN to protect migrants' lives, highlighting 'cyber-slavery' risks."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "A UN committee warns Indigenous children face systemic racial discrimination in the criminal justice system."
+        },
+        {
+          "name": "Nouméa, New Caledonia, France",
+          "lat": -22.2758,
+          "lng": 166.458,
+          "severity": "yellow",
+          "detail": "A UN committee warns France risks undermining Kanak Indigenous People's self-determination."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Atlantic current weakens; volcano may destroy methane; Amazon at risk.",
+      "summary": "Scientists are reporting a weakening of a critical Atlantic Ocean current with potential global impacts on weather and sea levels. Conversely, new research suggests the Hunga Tonga eruption may have unexpectedly contributed to methane destruction in the atmosphere. Concerns also persist about economic growth's contribution to planet-warming pollution and the Amazon rainforest approaching a tipping point.",
+      "regions": [
+        {
+          "name": "North Atlantic Ocean",
+          "lat": 40,
+          "lng": -40,
+          "severity": "yellow",
+          "detail": "A critical Atlantic Ocean current system linked to global climate stabilization is weakening."
+        },
+        {
+          "name": "South Pacific Ocean (Hunga Tonga)",
+          "lat": -20.5443,
+          "lng": -174.4093,
+          "severity": "green",
+          "detail": "Research suggests the 2022 volcanic eruption's cloud may destroy methane, a potent greenhouse gas."
+        },
+        {
+          "name": "Amazon Rainforest, Brazil",
+          "lat": -3.4653,
+          "lng": -62.2159,
+          "severity": "yellow",
+          "detail": "Climate change and deforestation are pushing the rainforest closer to a tipping point."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Researchers are raising alarms about economic growth's contribution to planet-warming pollution."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Deadly hantavirus outbreak on cruise ship reaches Tenerife.",
+      "summary": "A hantavirus outbreak on the MV Hondius cruise ship, which has caused three deaths, led to its arrival in Tenerife, Canary Islands, for evacuation of passengers and crew under WHO oversight. The CDC's response to the international outbreak involving Americans has been criticized. Separately, a Listeria outbreak linked to headcheese was reported in Illinois.",
+      "regions": [
+        {
+          "name": "Tenerife, Spain (Canary Islands)",
+          "lat": 28.0934,
+          "lng": -16.5915,
+          "severity": "red",
+          "detail": "The hantavirus-stricken cruise ship MV Hondius arrived for evacuation of passengers and crew."
+        },
+        {
+          "name": "Illinois, USA",
+          "lat": 40.6331,
+          "lng": -89.3985,
+          "severity": "yellow",
+          "detail": "A Listeria outbreak linked to Daisy brand headcheese has affected three people."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "Hundreds of pallets of medical supplies are entering for a Red Cross field hospital amidst a health crisis."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Concerns were raised about the CDC's uncharacteristic lack of public action regarding the hantavirus outbreak."
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "lat": 51.9244,
+          "lng": 4.4777,
+          "severity": "yellow",
+          "detail": "Some hantavirus patients from the cruise ship were flown here for emergency medical care."
+        },
+        {
+          "name": "Zurich, Switzerland",
+          "lat": 47.3769,
+          "lng": 8.5417,
+          "severity": "yellow",
+          "detail": "A Swiss man who disembarked the cruise ship is receiving care here after showing symptoms."
+        },
+        {
+          "name": "Tristan da Cunha, British Territory",
+          "lat": -37.0903,
+          "lng": -12.2778,
+          "severity": "yellow",
+          "detail": "A British national who disembarked the cruise ship is hospitalized on this island."
+        },
+        {
+          "name": "Cape Verde",
+          "lat": 15,
+          "lng": -24,
+          "severity": "yellow",
+          "detail": "The MV Hondius cruise ship departed from here before arriving in Tenerife."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran conflict fuels global economic instability; oil prices surge.",
+      "summary": "The ongoing Iran conflict and the closure of the Strait of Hormuz are causing severe stress on the global energy supply system, with Brent crude surging past $120 a barrel. This has led to tighter shopper budgets due to rising gas and food prices and increased inflation in several countries. While the US labor market shows strength, Germany's industrial output declined, and Australia's central bank raised rates again.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The closure of this critical waterway due to the Iran conflict is significantly impacting global oil prices and trade."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "US employers added more jobs than expected, indicating a strong labor market."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Industrial output declined due to the fallout from the Iran conflict."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "The central bank raised interest rates for the third consecutive meeting."
+        },
+        {
+          "name": "Bern, Switzerland",
+          "lat": 46.948,
+          "lng": 7.4474,
+          "severity": "yellow",
+          "detail": "Inflation quickened to a 16-month high due to rising energy costs from the Middle East war."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "The Mexican economy is experiencing stagnation, with wealth growing but GDP lagging, leading to capital flight."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The government plans new debt to support those affected by the Middle East conflict's fallout."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Japanese workers' real wages rose for a third consecutive month."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US redistricting favors Republicans; Hungary sees democratic shift.",
+      "summary": "The US political map is being redrawn, with court decisions in Virginia and Supreme Court fallout in Southern states expected to boost Republican control of Congress and dilute the power of minority voters. In contrast, Hungary experienced a significant democratic shift as Peter Magyar's party secured a landslide victory, ending Viktor Orban's 16-year rule. India also reported successful and peaceful elections.",
+      "regions": [
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "The state Supreme Court struck down a Democratic congressional redistricting plan."
+        },
+        {
+          "name": "Nashville, Tennessee, USA",
+          "lat": 36.1627,
+          "lng": -86.7816,
+          "severity": "yellow",
+          "detail": "A new congressional map was approved, diluting the power of Black voters."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US redistricting efforts are accelerating, expected to favor Republicans in congressional control."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "green",
+          "detail": "Peter Magyar assumed office as prime minister after a landslide victory, ending 16 years of Viktor Orban's rule."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "The Chief Election Commissioner expressed satisfaction with the peaceful conduct of recent elections."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The Human Rights Foundation argued that democracy is a binding human right in the Inter-American system."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "Europeans are celebrating unity, values, and democracy on Europe Day."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Gaza aid delivery challenges; migrant vulnerability highlighted.",
+      "summary": "Humanitarian aid delivery to Gaza continues to face challenges, with Israeli forces intercepting a flotilla and deporting activists, though medical supplies did enter for a field hospital. The Holy See highlighted the critical need to protect migrants' lives on dangerous routes, denouncing 'cyber-slavery.' The global economic impact of the Strait of Hormuz crisis is also raising concerns about food security, and over 20,000 ship workers are stranded due to the Iran war.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "An aid flotilla was intercepted, activists deported, while medical supplies were delivered to a Red Cross field hospital."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The Holy See called on the UN to protect migrants' lives and address 'cyber-slavery.'"
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The conflict impacting this strait also has humanitarian consequences on food security and stranded ship workers."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9999,
+          "severity": "red",
+          "detail": "Dozens killed in insurgent attacks suggest a significant humanitarian need."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US involvement in the Iran conflict has contributed to the humanitarian situation for stranded workers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPizI1Q1A5gZpZk0Qaun_TVO1DmhFHOVLnMKsD3ObW5NgP69IGgptQGmG2mH3Qhpve8ppholKGP06j0z1p0JeRWDDDKnRF9dtmne-XIQksbg2o7rpg0wLqGCQ317ShNMYHOLIZKA_jwB9ckjaWMHQAMRA1fIua5BcYAS3MeWXG0cl3wkjYV0fjD2MZ4zSjjcTEXd2gJJ5vsKb26yNOz-t1-pFzD0GyC8BRz3vOkdet-K"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFtDdp5jzygf6CALW4lO-P4HmgFDgwQqxrs7MiSmgNUG6xBIefUE1JbbmGvi_azTn_zzJwB8WJkeRgpklL29nWctBz2u01B9TzEBZSwmEmNzRD3JWBDAyZRny_iUvKR_w0nZoZIu1seXsnLGJZiePsES5QT3F5YEQhHOyBqBxWzxhk8SBA5BldAXxLL8xgOVhT_t8Df8LxnqJxNKgeDJN4f7PEuU8IQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQ3tXPclw8IOX1r75Lidgu7j1lj_qpyo1kcs_pEjhV-MgpLu8ccBUc8VlP1UTtHGb-4CbLOD0_5qsJlNKCJTCsjoiisEOJxOGCAxuca3Haa3XzbBa50qhPqLvNdFy4ZyLpLQHHCgkc39fw-G1PZh3Zl_dceN0v0w1NemUmBrR3pRcJXMeAESYMzmPQaHfRoWw77pX6h0W"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa0XmRd9EJ_tl-T2jQNgqX7lHAKnwYva29ADh_Vz_pdOqqu2iUZmgwx7tys-omyW3-EG_zdoF428mxR2dTz-hQZ4LGqcPNCaBg9bf-gS5wmvW1Uta5GANeezsX6mA4-Bk5gQ4ZrTPH7dd_ckLC6TmzsefAN5rZYfl5pVQky3nF1Bb7Fz4Lu3NS5gryv79EOBG5"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqkOI8HSS5FSa619On5t-gPF75s6E03VcKtWb7UQPTFKUd186tFR5ruEerFoXPb7PD2glZEdkVv990gfAXWiJwKkNv3X_UOBETnKXT8iZWBuxpQSBnMQS61rlybJbRh0lH5KcqwujD0aEheE1bEJEhJPlW77ptXl-rOEahxmUoVwHGxiVKDEHXCFo9skZzEfVds3J14qQoEPTsNFBa7R53RHLmOPaViThPQ=="
+        }
+      ]
+    }
+  }
+}
