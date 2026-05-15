@@ -1,0 +1,524 @@
+{
+  "date": "2026-05-15",
+  "timestamp": 1778828450735,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts persist, Israel-Lebanon tensions escalate, Iran crisis discussed.",
+      "summary": "Active conflicts continue in multiple regions, including a heavy death toll in the Afghanistan-Pakistan conflict and ongoing instability in South Sudan and Eastern DRC. Tensions between Israel and Hezbollah escalated with casualties, while a ship seizure near the Strait of Hormuz highlighted broader concerns in the Middle East. US and Chinese leaders met to discuss the Iran war and global stability.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.85,
+          "lng": 31.6,
+          "severity": "yellow",
+          "detail": "The US imposed visa restrictions on South Sudanese officials accused of undermining peace and engaging in corruption."
+        },
+        {
+          "name": "Eastern DRC",
+          "lat": -1.67,
+          "lng": 29.22,
+          "severity": "yellow",
+          "detail": "M23 rebels withdrew from several areas under US pressure to respect a ceasefire."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "The UN reported a heavy death toll of Afghan civilians in conflict with Pakistan during the first three months of the year."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.72,
+          "lng": 73.04,
+          "severity": "red",
+          "detail": "Pakistan reported civilian and security personnel casualties in its conflict with Afghanistan, accusing the Taliban of harboring militants."
+        },
+        {
+          "name": "Rosh HaNikra, Israel",
+          "lat": 33.08,
+          "lng": 35.1,
+          "severity": "red",
+          "detail": "An IDF soldier was killed by Hezbollah mortar fire, and a Hezbollah drone attack wounded Israeli civilians."
+        },
+        {
+          "name": "Tyre, Lebanon",
+          "lat": 33.27,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "The IDF issued urgent evacuation orders for towns and villages northeast and southeast of Tyre due to Hezbollah operations."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 27.2,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Tensions flared near the Strait of Hormuz after a ship was seized and an Indian-flagged vessel was attacked."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "yellow",
+          "detail": "President Trump and Chinese leader Xi Jinping held a summit, with the Iran war and global market risks being central topics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Ethiopia crisis, digital threats in Pakistan, and AI deepfake laws advance.",
+      "summary": "A conference in Washington D.C. highlighted severe human rights violations in Ethiopia, including persecution and suppression of dissent. In Pakistan, the Digital Rights Foundation warned of increasing digital threats and harassment against vulnerable communities. Meanwhile, the federal 'Take it Down Act' against non-consensual intimate images, including AI-generated deepfakes, is set to take effect.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "A public conference was held at the US Congress to discuss the deteriorating human rights situation in Ethiopia."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.03,
+          "lng": 38.74,
+          "severity": "red",
+          "detail": "Ongoing atrocities, systematic human rights violations, and suppression of fundamental freedoms, including against the Amhara community and Ethiopian Orthodox Christians, were highlighted."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.72,
+          "lng": 73.04,
+          "severity": "yellow",
+          "detail": "The Digital Rights Foundation reported rising digital threats, harassment, and algorithmic suppression affecting women, religious, and gender minorities."
+        },
+        {
+          "name": "Asmara, Eritrea",
+          "lat": 15.32,
+          "lng": 38.92,
+          "severity": "red",
+          "detail": "Dawit Isaak, the world's longest-detained journalist, marked his 9000th day in jail without charge or trial."
+        },
+        {
+          "name": "Massachusetts, USA",
+          "lat": 42.36,
+          "lng": -71.06,
+          "severity": "yellow",
+          "detail": "A digital rights group released a draft social media bill aimed at protecting all children and improving user safety and privacy."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.75,
+          "lng": -84.39,
+          "severity": "green",
+          "detail": "Georgia's Governor signed an AI chatbot safety bill into law."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme weather warnings, El Niño concerns, and World Cup heat risks escalate.",
+      "summary": "Scientists issued strong warnings that 2026 could see unprecedented extreme weather due to climate change and a strengthening El Niño, with record heat waves and fires globally. Concerns were raised that one in four World Cup games in North America could be impacted by grueling heat, posing risks to players and fans. Projections indicate increased malaria cases in Africa and Amazon rainforest transition to grassland due to warming.",
+      "regions": [
+        {
+          "name": "Australia",
+          "lat": -25.27,
+          "lng": 133.78,
+          "severity": "red",
+          "detail": "The year has already featured record heat waves."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "red",
+          "detail": "The US has experienced record heat waves, and World Cup games are projected to face extreme heat conditions."
+        },
+        {
+          "name": "West Africa",
+          "lat": 10,
+          "lng": -5,
+          "severity": "red",
+          "detail": "More fires than ever before have occurred in 16 countries in the region since 2012."
+        },
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "red",
+          "detail": "Massive fires have been reported in the country."
+        },
+        {
+          "name": "Amazon Rainforest",
+          "lat": -3.47,
+          "lng": -58,
+          "severity": "red",
+          "detail": "Global warming and deforestation are projected to cause 62-77% of the rainforest to transition to grassland."
+        },
+        {
+          "name": "North America",
+          "lat": 54.53,
+          "lng": -105.25,
+          "severity": "red",
+          "detail": "Climate experts warned that a quarter of the 2026 World Cup games hosted across the continent could be impacted by grueling heat."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Andes, Measles, Screwworm outbreaks, plus avian flu fatality and recalls.",
+      "summary": "A global emergency consultation was convened by WHO for the evolving Andes virus situation, with cases reported in the US linked to a cruise ship. The Americas region is experiencing a regional acceleration of Measles outbreaks, and the New World Screwworm has expanded into Northern Mexico with human infestations. Additionally, a human fatality from H5N5 avian influenza was confirmed in Washington state, raising concerns about human-to-human transmission.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "The WHO is hosting an emergency scientific consultation on Andes Virus medical countermeasures."
+        },
+        {
+          "name": "Omaha, Nebraska, USA",
+          "lat": 41.25,
+          "lng": -95.99,
+          "severity": "yellow",
+          "detail": "A US cruise passenger tested positive for Andes Hantavirus after being evacuated from the MV Hondius."
+        },
+        {
+          "name": "San Francisco, California, USA",
+          "lat": 37.77,
+          "lng": -122.41,
+          "severity": "yellow",
+          "detail": "The Department of Public Health is monitoring a multi-country Hantavirus cluster and has reported a fatal overdose involving novel synthetic opioids."
+        },
+        {
+          "name": "Monterrey, Mexico",
+          "lat": 25.68,
+          "lng": -100.31,
+          "severity": "yellow",
+          "detail": "The CDC is monitoring an outbreak of New World Screwworm that has reached Northern Mexico with over 1,830 human infestations."
+        },
+        {
+          "name": "Washington State, USA",
+          "lat": 47.75,
+          "lng": -120.74,
+          "severity": "red",
+          "detail": "Health officials reported the first confirmed human fatality from H5N5 avian influenza globally."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.58,
+          "lng": -121.49,
+          "severity": "yellow",
+          "detail": "New measles cases have been reported in the region."
+        },
+        {
+          "name": "Americas Region",
+          "lat": 15,
+          "lng": -75,
+          "severity": "yellow",
+          "detail": "The region is experiencing a regional acceleration of Measles outbreaks with 18,352 cases reported from January to May 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Inflation fears persist, oil prices rise, global growth forecasts lowered.",
+      "summary": "Global markets opened flat with Asian markets declining, while US stock futures were lower amidst rising oil prices. The Federal Reserve's May inflation forecast signals a concerning rise in the CPI, significantly impacting stock investors. The ongoing conflict in Iran is a major factor driving gas prices up by 50% and contributing to global inflationary pressures. The IMF warned that these tensions could reduce worldwide growth to 2.5% in 2026.",
+      "regions": [
+        {
+          "name": "India",
+          "lat": 20.59,
+          "lng": 78.96,
+          "severity": "yellow",
+          "detail": "Markets opened flat, and the government hiked petrol and diesel prices by 3 rupees a liter, the first increase in four years."
+        },
+        {
+          "name": "United States",
+          "lat": 37.09,
+          "lng": -95.71,
+          "severity": "yellow",
+          "detail": "US stock futures traded lower, and the Federal Reserve's May inflation forecast indicated a significant rise in CPI."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.42,
+          "lng": 53.69,
+          "severity": "red",
+          "detail": "The ongoing conflict is significantly impacting global gas prices, which are up 50% since its start, fueling inflation."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "yellow",
+          "detail": "US-China summit discussions centered on the economic risks posed by the war in Iran."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "yellow",
+          "detail": "BRICS foreign ministers' meeting revealed sharp divisions over the West Asia crisis, with warnings about threats to maritime trade and energy supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Civic space shrinking globally, Ethiopia and Eritrea face repression.",
+      "summary": "Democratic space is shrinking globally, exemplified by the cancellation of RightsCon 2026, signaling increased hostility toward free expression and civil society. Ethiopia continues to see suppression of political dissent and freedom of expression. Eritrea maintains severe restrictions on media freedom, with a journalist marking 9000 days in jail. In the US, debates continue regarding federal and state authority over AI regulation and gun rights.",
+      "regions": [
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.03,
+          "lng": 38.74,
+          "severity": "red",
+          "detail": "The country is experiencing an increasing suppression of political dissent and fundamental freedoms."
+        },
+        {
+          "name": "Asmara, Eritrea",
+          "lat": 15.32,
+          "lng": 38.92,
+          "severity": "red",
+          "detail": "The systematic suppression of media freedom continues, with Dawit Isaak marking 9000 days in prison without charge."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.37,
+          "lng": 69.34,
+          "severity": "yellow",
+          "detail": "Political speech and student activism face propaganda attacks and algorithmic suppression of human rights defenders."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The Justice Department's civil rights division is investigating gun rights violations and challenging state gun control laws."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.77,
+          "lng": -119.41,
+          "severity": "yellow",
+          "detail": "State officials are pushing back against federal executive orders that challenge state AI laws, citing overreach on police powers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "US pledges aid amidst global shortfalls; Africa conflicts rise after USAID cuts.",
+      "summary": "The US pledged an additional $1.8 billion in humanitarian aid to the UN for global relief efforts, including Ukraine, bringing its total to $3.8 billion. However, the UN noted that humanitarian agencies are under unprecedented pressure from conflicts and climate disasters, facing critical funding shortages. Global humanitarian needs vastly outstrip available resources, with USAID cuts in early 2025 linked to significant increases in violent conflict across Africa.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US announced an additional $1.8 billion in humanitarian aid for UN relief work worldwide."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "yellow",
+          "detail": "Ukraine is among the 21 crisis-hit countries receiving additional funding under the US 'Humanitarian Reset' framework."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "yellow",
+          "detail": "The country is targeted to receive aid under the new US tranche for UN relief work."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.51,
+          "lng": 36.27,
+          "severity": "yellow",
+          "detail": "Syria is among the countries receiving support from the new US humanitarian aid package."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.59,
+          "lng": -72.33,
+          "severity": "yellow",
+          "detail": "Haiti is included in the list of countries benefiting from targeted emergency aid programs."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "yellow",
+          "detail": "Lebanon is also a recipient of the new US humanitarian funding."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.48,
+          "lng": -66.9,
+          "severity": "yellow",
+          "detail": "Venezuela is among the nations receiving humanitarian assistance from the US."
+        },
+        {
+          "name": "Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "Cuts to USAID in early 2025 are associated with significant increases in violent conflict across the continent."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1JpeyXjcrBTrvPsdvAFPrHuJU9C76x89rjIdIsbtDPNCQEij23h6UA79ZOCirs8ah-4IKDihdXIHiQ8pa1eVpu-MMv9i0bLBdi56cvKAEANkDY4bb9c9QXXHt8qraBk7qhOjyUn42lMP5oyTtG3A="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmImi8PMO_EQtLHO7M5Xgt519a-xWULyk81hSyYh3w_3UhXRLryCBkTD9mdnwE7sOc5eBvoKyHRumx3lUrUSeDwMAKaMGSF4GWszLUiAKmyr5_2Ljhqbgci165oEj16zAcBkhWDYJKEY60icBE2Y1M11zI2L6BjmDvpHpRjsKrv3YW3Jn8"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN-xUb0M6u-yWnjnrLk7QtzT7kUM70hHOtQgXQsNQ-1-cexzDnkuzvfJv4gBeUx4lptkJXH776-b0NIast6_7SoDWsRlfIu9Z6E9gQifFsAzi41tC6gUadmOeU6G4wpBEAqQBuLJal4iPZpoW_3LIPMfavAlG9kZhPv65_0I2vykBGiov_MVvDccOIqBNYBS5NAB5pStynuGfDA=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUQg2RvfSJ0yeVlQh8lo9YgoIFswS5nJvg9voZKWBKS6WtToSN9vh4YHKT2xoFPsmqeFAS_o7eqeGYUAptiOX91JTHbCdxlxxfJ4HMDobrMt5JwkxDi-daNjickSa8xDp0EdMmiGfmDHr0Tjyja-EPkEjA3eh9ZBKtkZ27t6rvCYXwMcqEDAo52kV9yyVgsxSYVo-fH0qQKkWf-gOTb3PwnQucOMBcebFwJGDKfPuTGG1773qRuCN7jbzkFcIyUE6qjORlgcYH6Gseph01paiE8BhdmF4mYFJkCSteKUCKenygwvAgiGLK962Wp09vVloKw6TuyKCO-B6PvsmDSrm7mH9gKLiXafH1swvNbeTTxzsqKZZkFlr-UyLF5F4h2FNlQ=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCYb37kSk2KTZW1ouwgD5lruk8cFWOrT6lXXRc_N-08tqGqPaAwAXHOaxh1yPinSr3ufrx-FbfMDCn48fAUSvJipTukojxAGWiKHMngAOtBuBgGfjyqC6DVqlGfE3OEvzwlffOpuJgbI7xfmmrjyQYBfooBqpVe4oKwkKeOy-RxQEwpCaQoQTO1GJ-yGTO2z3BHI2tBRNyGNK2Ip5xNcAz-WeTVWYrPBS0PxTaCubEISngSSDKDYYu172ThnBTwz7jpHJCZPXI8fzaE0rBQvnYdnh21jtYQA=="
+        }
+      ]
+    }
+  }
+}
