@@ -1,0 +1,580 @@
+{
+  "date": "2026-05-16",
+  "timestamp": 1778913836250,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple global conflicts intensify, with new drone strikes and prisoner exchanges.",
+      "summary": "On the International Day of Living Together in Peace, multiple active conflicts continued globally, marked by significant civilian casualties from drone warfare in Sudan and ongoing hostilities in Ukraine and the Gaza Strip. Tensions in the Middle East, particularly involving Iran, the US, and Israel, remained high with reports of potential new strikes and a critical standoff over the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Drone warfare became the deadliest threat to civilians, with both warring parties receiving foreign supplies."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian forces advanced in some directions while Russian forces launched missiles and drones overnight."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "An Israeli airstrike targeted a Hamas military wing leader amidst continued ceasefire violations."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is central to an ongoing conflict with the US and Israel, with casualties reported."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.5833,
+          "severity": "red",
+          "detail": "The Strait of Hormuz remained a critical chokepoint, with Iran refusing full reopening amidst conflict."
+        },
+        {
+          "name": "Nabatieh, Lebanon",
+          "lat": 33.565,
+          "lng": 35.485,
+          "severity": "red",
+          "detail": "Israeli drone strikes in southern Lebanon killed civilians and paramedics."
+        },
+        {
+          "name": "Ryazan Oblast, Russia",
+          "lat": 54.6264,
+          "lng": 39.7361,
+          "severity": "yellow",
+          "detail": "Ukrainian forces struck Russian oil infrastructure in the region."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.513,
+          "lng": 36.2919,
+          "severity": "yellow",
+          "detail": "China called for political transition and an end to Israeli military operations in Syrian territory."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human rights challenged by conflict, surveillance, and AI safety concerns.",
+      "summary": "While observing the International Day of Living Together in Peace, human rights faced significant challenges globally, with drone warfare leading to civilian deaths in Sudan and the continued political imprisonment of an opposition leader in Chad. Emerging digital rights concerns include a proposed bill for expedited police access to surveillance in the US and warnings of an 'AI bugocalypse' accelerating cyberattacks.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Drone warfare has become the deadliest threat to civilians, prompting calls to prevent drone transfers."
+        },
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1064,
+          "lng": 15.0444,
+          "severity": "red",
+          "detail": "Opposition leader Succès Masra remains imprisoned on politically motivated charges, highlighting intolerance of dissent."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A proposed bill in New York seeks to expedite police access to surveillance video without warrants."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Concerns were raised over abuses against Uyghurs in China and the lack of standard AI safety guardrails."
+        },
+        {
+          "name": "Gaza and West Bank, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Israel's devastation of Gaza and the West Bank was cited as eroding human rights protections and social cohesion."
+        },
+        {
+          "name": "Kerala, India",
+          "lat": 10.8505,
+          "lng": 76.2711,
+          "severity": "yellow",
+          "detail": "The State Human Rights Commission called for action against police for forcing accused to wear only undergarments in lockups."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8661,
+          "lng": 96.1951,
+          "severity": "red",
+          "detail": "The persecution of Rohingya in Myanmar was highlighted as a global pattern of ethnic chauvinism and human rights abuses."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US federal government continues to favor a 'light touch' approach to AI regulation despite calls for stronger safety measures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global rivers losing oxygen; AI data centers pose new environmental threat.",
+      "summary": "Climate warming is driving widespread and sustained oxygen loss in global rivers, threatening biodiversity, with tropical rivers being particularly vulnerable. Additionally, the rapid buildout of data centers for Artificial Intelligence is emerging as an ecological catastrophe, contributing to massive greenhouse gas emissions and significant water resource depletion.",
+      "regions": [
+        {
+          "name": "Nanjing, China",
+          "lat": 32.0603,
+          "lng": 118.7969,
+          "severity": "red",
+          "detail": "Researchers studied global river deoxygenation, finding 78.8% of rivers are losing oxygen."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "Tropical rivers, including those in India, are among the most vulnerable to climate-driven oxygen loss."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A report on the US disaster response agency was criticized for only mentioning 'climate' once despite increasing extreme weather."
+        },
+        {
+          "name": "Auckland, New Zealand",
+          "lat": -36.8485,
+          "lng": 174.7633,
+          "severity": "yellow",
+          "detail": "New Zealand is planning legislation to ban lawsuits against polluting companies for climate-damaging emissions."
+        },
+        {
+          "name": "Silicon Valley, USA",
+          "lat": 37.3875,
+          "lng": -122.0575,
+          "severity": "red",
+          "detail": "The buildout of data centers for AI is rapidly becoming an ecological catastrophe, increasing greenhouse gas emissions and water usage."
+        },
+        {
+          "name": "Kansas City, USA",
+          "lat": 39.0997,
+          "lng": -94.5786,
+          "severity": "yellow",
+          "detail": "A quarter of World Cup 2026 matches in host cities like Kansas City could face dangerous heat conditions."
+        },
+        {
+          "name": "Amazon River Basin",
+          "lat": -3.4653,
+          "lng": -58.7612,
+          "severity": "red",
+          "detail": "The Amazon region is a hot spot for river deoxygenation due to global warming, threatening biodiversity."
+        },
+        {
+          "name": "Chesapeake Bay, USA",
+          "lat": 38.53,
+          "lng": -76.26,
+          "severity": "red",
+          "detail": "Scientists worry about dead zones appearing in water bodies like the Chesapeake Bay due to oxygen loss."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in Arizona; hantavirus exposure monitored in US.",
+      "summary": "Public health concerns on May 16, 2026, included a confirmed new measles case in Maricopa County, Arizona, bringing the 2026 total to 15 with local transmission suspected. Additionally, 16 more people in the US are being monitored for hantavirus after an outbreak on an international cruise ship, with California residents among those exposed.",
+      "regions": [
+        {
+          "name": "Mesa, Arizona, USA",
+          "lat": 33.4148,
+          "lng": -111.9071,
+          "severity": "yellow",
+          "detail": "Maricopa County confirmed a new measles case, bringing the 2026 total to 15, with local transmission suspected."
+        },
+        {
+          "name": "Omaha, Nebraska, USA",
+          "lat": 41.2565,
+          "lng": -95.9345,
+          "severity": "yellow",
+          "detail": "16 more people in the US are being monitored for hantavirus after an outbreak on an international cruise ship."
+        },
+        {
+          "name": "San Luis Obispo, California, USA",
+          "lat": 35.2828,
+          "lng": -120.6596,
+          "severity": "yellow",
+          "detail": "California residents are among those being monitored for hantavirus exposure related to the cruise ship outbreak."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "A Food and Drug Administration official involved in scrutinizing COVID-19 vaccines and antidepressants is stepping down."
+        },
+        {
+          "name": "Huntington, West Virginia, USA",
+          "lat": 38.419,
+          "lng": -82.4462,
+          "severity": "green",
+          "detail": "Marshall University researchers discovered tiny gut particles that may drive aging and chronic disease."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "severity": "yellow",
+          "detail": "Australia quarantined six passengers linked to a hantavirus outbreak after arriving from the Netherlands."
+        },
+        {
+          "name": "Amsterdam, Netherlands",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "severity": "yellow",
+          "detail": "Passengers from the Netherlands were quarantined in Australia due to hantavirus exposure on a cruise ship."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran conflict drives global bond market turmoil, surging inflation.",
+      "summary": "The global economy faced severe challenges on May 16, 2026, as ongoing conflict with Iran fueled significant interest rate hikes in global bond markets and persistent inflation. The critical standoff over the Strait of Hormuz continued to cause soaring global energy prices, impacting everything from homebuying to corporate borrowing.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US Treasury yields hit yearly highs due to inflation and energy shocks from the Iran conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing conflict with Iran is fueling energy price surges and persistent global inflation."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.5833,
+          "severity": "red",
+          "detail": "The continued US blockade and Iran's refusal to fully reopen the Strait of Hormuz is causing soaring global energy markets."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "A BRICS meeting in Delhi failed to reach a consensus on the Iran conflict's economic implications."
+        },
+        {
+          "name": "Auckland, New Zealand",
+          "lat": -36.8485,
+          "lng": 174.7633,
+          "severity": "yellow",
+          "detail": "Investor confidence slumped due to global instability and economic uncertainty."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31.9686,
+          "lng": -99.9018,
+          "severity": "yellow",
+          "detail": "US officials suspect Iran behind a hack of systems monitoring fuel levels for gas stations in some states."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "US President Trump discussed the Iran conflict and reopening the Strait of Hormuz with Chinese President Xi Jinping."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Political imprisonment, protests, and majoritarian policies challenge democracy.",
+      "summary": "Democratic principles faced significant challenges on May 16, 2026, highlighted by the continued political imprisonment of an opposition leader in Chad and clashes between miners and security forces in Bolivia over demands for government resignation. Globally, warnings were raised about authoritarianism and majoritarian policies eroding trust and social cohesion.",
+      "regions": [
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1064,
+          "lng": 15.0444,
+          "severity": "red",
+          "detail": "The continued imprisonment of opposition leader Succès Masra on politically motivated charges highlights government intolerance of dissent."
+        },
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "The Supreme Court rejected a request to use a newly approved congressional district map, impacting democratic processes."
+        },
+        {
+          "name": "La Paz, Bolivia",
+          "lat": -16.5,
+          "lng": -68.15,
+          "severity": "yellow",
+          "detail": "Clashes erupted between miners and security forces amidst demands for the government's resignation."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Justice For All warned that authoritarianism and majoritarian policies are eroding trust and social cohesion globally."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US federal government is pursuing a 'light touch' approach to AI regulation, potentially affecting future democratic integrity through misuse of AI."
+        },
+        {
+          "name": "Srinagar, Kashmir, India",
+          "lat": 34.0837,
+          "lng": 74.7973,
+          "severity": "yellow",
+          "detail": "The illegal removal of autonomy for Kashmir was cited as a global pattern of majoritarian politics targeting minorities."
+        },
+        {
+          "name": "Xinjiang, China",
+          "lat": 41,
+          "lng": 85,
+          "severity": "red",
+          "detail": "Abuses against Uyghurs in China were highlighted as an erosion of human rights and democratic principles for minorities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Massive humanitarian crises persist globally despite new aid pledges.",
+      "summary": "On May 16, 2026, immense humanitarian crises persisted in multiple regions, particularly in Afghanistan where conditions worsened due to shrinking international assistance, and in Sudan, where millions are displaced and parts of the country face famine. The ongoing devastation in Gaza and significant casualties in Lebanon also underscored the severe global need for aid.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1722,
+          "severity": "red",
+          "detail": "Afghanistan remains among the world's largest humanitarian crises, with worsening conditions due to shrinking international assistance."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The war in Sudan has displaced 13 million people and pushed parts of the country into famine."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Israel's devastation of Gaza and the West Bank has resulted in significant casualties and humanitarian needs."
+        },
+        {
+          "name": "Nabatieh, Lebanon",
+          "lat": 33.565,
+          "lng": 35.485,
+          "severity": "red",
+          "detail": "Israeli attacks have killed thousands and wounded many more, increasing humanitarian aid needs."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US announced a fresh $1.8 billion humanitarian aid package for UN operations, bringing total support to $3.8 billion."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Venezuela is among new countries to receive US humanitarian aid funding."
+        },
+        {
+          "name": "Bangui, Central African Republic",
+          "lat": 4.3946,
+          "lng": 18.5582,
+          "severity": "yellow",
+          "detail": "The Central African Republic is among new countries to receive US humanitarian aid funding."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The UN humanitarian chief highlighted that aid agencies are overstretched and under-resourced globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "globalpeace.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJX-vV1BMVXFGV5iIHte9O6p8jtUKPG-AV2MVbOjd3ZlvaxpT_Mrztd80sdSj9I4GUNkOuqQrIevgmWagIAP1YODcW6bg4vPEtE6f1Of1EIxlhWqLQ-9XNuEtg15nErokR0AMc8xsBNZPCgQHP6bzhtTdy8rg71ZiALY6Li4TVXr7s2Fu6iAaD7Nd-mjUxEz79JFjJTX9Nuq3WVlhj1yjtvYMqgHXAkEagZYeWGpsKfusE-vGqlkolVNBcfDArtVRB-Uai"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2qOXk1u5AuJMGc_Yu7XeDvezNOHK68M3J0btGaUAAyVUeRqLrRpPDMkeYiPX7xJTfchfHv-VyGQjC_w6fsuNkIGtbEFxdvdmHHEY8YS3LcWou1gWLpecDlkIo0rqTCLlWpd6IBf7k5ovuGVnKTUYMInURmGGc0zZdvYJnYeC53_q58MMdMYZlvxxKGX1rGb4cKjv48Cgwz5rCdNFKwdrMoFuvPvTvGWoXGfQrT4SWadFcO3QgA8jeO8_JL7vwfamg451TlU="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_XLOMw_jra19l-L7xrt0DyXnYFHjgFSVvIOsr0v9dlIH_eqR0WVbXhCWkSJVqM2qV24yB7aYke9-u8Lv7t6O0BMBIcAQQ29iKMd2UyLven1oO89yUBn-AG0co4rLOrvA9szzua7uq_mcDvxd5c4vB788SAJMgC6g_IcrJaq5JxQn1MMTfFe4AxmvK4xOhl593ECiijmzEDJCh-HVE2vZsws="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHde-sAdrWMiFhOe_FiyIfWN6fu_93mOUGBJbG18qstrkugmeicpzJqINVjMmKKV2MONKuscNZ6zx-pbfrfg3-1qqwL5JG2xSAueWLa5Jnlnpt_tes9EWZOMi9tDa9vh9__q1QEmV9VQUIir6a01CF2No-ZJU7iCoy9LwxeBibZ1XNKzgsEnlBx12l1ITfKBS7OU-PZBaA9xAs2LbM-rq5KiPmpqnIY-V6d68v9DdG9L_uDu63L6tf17Y8="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrshizrqAlzM5TGSrm58ksE89MQh-imjhn6ZsNQCZb7EgYhgB62xCkfIuSwIO3yH9XM6h5RTT91BVtlH_4rOL34fK7Crd67TJgr9TA9mHmOAHqBxAJqIGNyPeWBORs9lKuev4nHZ9gCwLeBRXOK8tyvC9ipIUUZrVtoNkskkQoCNi20haOYbxgL8_v4x9WPuCRiHNfsgeV_F2GY_KKn109KV3"
+        }
+      ]
+    }
+  }
+}
