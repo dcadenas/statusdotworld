@@ -1,0 +1,454 @@
+{
+  "date": "2026-05-18",
+  "timestamp": 1779088486037,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East, Ukraine, and Southeast Asia see continued conflicts and tensions.",
+      "summary": "The Middle East remains a flashpoint with ongoing conflict between US/Israel and Iran, leading to a blockade of the Strait of Hormuz and drone strikes. Israel launched airstrikes in southern Lebanon despite a truce, and a Hamas military chief was killed in Gaza. Separately, drone attacks were reported in Russia's Moscow region, with Ukraine vowing retaliatory actions. In Southeast Asia, leaders from Cambodia and Thailand met at an ASEAN summit, shaking hands despite an unresolved border dispute that led to deadly clashes in 2025.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faces a 'dire warning' from US President Donald Trump to accept a peace deal amidst ongoing conflict."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel conducted airstrikes in southern Lebanon and killed a Hamas military wing chief in Gaza."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Southern Lebanon experienced massive Israeli airstrikes despite an extended truce with Hezbollah."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The chief of Hamas' military wing was killed in an Israeli airstrike in Gaza City."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "The Moscow region reported drone attacks with casualties and infrastructure damage."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "yellow",
+          "detail": "A drone strike targeted a nuclear power station in Abu Dhabi, causing a fire but no injuries or radiation impact."
+        },
+        {
+          "name": "Cebu, Philippines",
+          "lat": 10.3157,
+          "lng": 123.8854,
+          "severity": "yellow",
+          "detail": "The 48th ASEAN Summit concluded with a handshake between Cambodian and Thai leaders, but without a final resolution to their border dispute."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Digital rights eroded globally; famine threatens Karenni amidst attacks.",
+      "summary": "UN experts expressed serious concerns over the global spread and misuse of intrusive surveillance technologies and AI, undermining fundamental freedoms, civic space, and privacy. In Hong Kong, a national security trial against Tiananmen vigil organizers highlights a decline in civil liberties. Meanwhile, in Myanmar's Karenni State, the Karenni Human Rights Group warned of impending famine due to systematic destruction of agricultural sectors and economic blockades, severely impacting the local population and internally displaced persons.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "UN experts raised serious concerns over the global spread of intrusive surveillance technologies and AI misuse, impacting human rights."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "A court is hearing final arguments in the national security trial of Tiananmen vigil organizers, reflecting a decline in civil liberties."
+        },
+        {
+          "name": "Karenni State, Myanmar",
+          "lat": 19.3,
+          "lng": 97.4,
+          "severity": "red",
+          "detail": "A human rights group warns of impending famine due to economic blockades and systematic destruction of food supplies by the junta."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "EU proposals to 'simplify' tech laws are criticized for potentially weakening data protection and personal data access to benefit AI development."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House AI Framework is criticized for protecting AI companies over individual privacy and human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "UN debates climate obligations; Asia faces huge adaptation funding gap.",
+      "summary": "The UN General Assembly is weighing a resolution on states' climate change obligations, though it has been scaled back due to pressure from major emitters. A new report reveals Asia faces an annual climate adaptation financing gap exceeding $200 billion, with the region experiencing warming at twice the global average and widespread climate-related disasters. An Air Quality Health Advisory for ozone was extended for the New York City Metro region, indicating elevated pollution levels.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory for ozone was extended through today for the New York City Metro region due to high pollution levels."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "A report released at the Philanthropy Asia Summit highlighted Asia's widening climate adaptation financing gap."
+        },
+        {
+          "name": "United Nations, Global",
+          "lat": 40.7489,
+          "lng": -73.968,
+          "severity": "yellow",
+          "detail": "The UN General Assembly is set to discuss a draft resolution on states' obligations to combat climate change."
+        },
+        {
+          "name": "Southeast Asia",
+          "lat": 10,
+          "lng": 105,
+          "severity": "yellow",
+          "detail": "Agriculture in Southeast Asia is particularly vulnerable to climate stress, with potential crop yield reductions of up to 41%."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak declared public health emergency in Central Africa.",
+      "summary": "The World Health Organization (WHO) declared an Ebola outbreak in the Democratic Republic of Congo (DRC) and Uganda a Public Health Emergency of International Concern (PHEIC). The outbreak, involving the Bundibugyo strain, has seen rising cases and cross-border spread, with no approved vaccines or specific treatments available. This comes as the WHO's World Health Statistics 2026 report indicates a global shortfall in health targets, with progress uneven and reversing in some areas.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The WHO declared an Ebola outbreak in the DRC a Public Health Emergency of International Concern due to rising cases and cross-border spread."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Ebola cases have been confirmed in Uganda, with two infected individuals traveling from the DRC."
+        },
+        {
+          "name": "Ituri Province, DR Congo",
+          "lat": 1.761,
+          "lng": 29.5694,
+          "severity": "red",
+          "detail": "Health authorities recorded eight laboratory-confirmed cases, 246 suspected cases, and 80 suspected deaths in Ituri Province."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Department of Health advises citizens to cut salt and increase physical activity to prevent hypertension amidst a rise in cases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "G7 addresses global economic instability; UN warns of rising poverty.",
+      "summary": "G7 finance chiefs are meeting in Paris to discuss the global bond selloff, oil-fueled inflation, and the economic fallout from the Middle East war, with efforts to reduce reliance on China's rare earths also on the agenda. Meanwhile, UN estimates reveal that global fuel prices are more than double the 2025 average, and high fertilizer costs are pushing millions into poverty worldwide due to rising food prices and living expenses. Despite these challenges, the global Travel & Tourism sector is forecast to outpace overall economic growth in 2026.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "G7 finance chiefs are meeting to discuss the global bond selloff, oil-fueled inflation, and the economic impact of the Middle East war."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China agreed to annual agricultural purchases of at least $17 billion from the US through 2028, following a major summit."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US and China reached an agreement on agricultural purchases and establishing trade and investment boards."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "UN estimates indicate skyrocketing fuel and fertilizer costs are pushing millions globally towards poverty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "South Korea strengthens democracy; Philippines, Kenya, Peru face political tests.",
+      "summary": "South Korean President Lee Jae Myung pledged to enshrine the May 18 Democratic Movement's spirit in the Constitution, aiming to strengthen oversight of martial law declarations. In the Philippines, the Senate is set to resume the impeachment process against Vice President Sara Duterte. Kenya's Senate opened public participation on a Referendum Bill, while Peru's National Elections Board confirmed a presidential runoff after dismissing fraud allegations, highlighting ongoing democratic challenges.",
+      "regions": [
+        {
+          "name": "Gwangju, South Korea",
+          "lat": 35.1595,
+          "lng": 126.8526,
+          "severity": "green",
+          "detail": "President Lee Jae Myung pledged to cement the spirit of the May 18 Democratic Movement in the Constitution on its 46th anniversary."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The Philippine Senate is scheduled to resume the impeachment process against Vice President Sara Duterte."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "The Kenyan Senate opened public participation on the Referendum Bill, 2026, addressing constitutional amendment architecture."
+        },
+        {
+          "name": "Lima, Peru",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "severity": "yellow",
+          "detail": "Peru's National Elections Board confirmed a presidential runoff election after dismissing fraud allegations, amidst ongoing institutional instability."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "An opinion piece highlighted an 'impasse' in American politics, with political violence threatening democracy and a crisis of belief in institutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid flotilla threatened; famine warning in Myanmar; South Sudan food insecurity.",
+      "summary": "A UN Special Rapporteur urged protection for a Gaza-bound aid flotilla facing unidentified vessels, as the mission aims to break Israel's blockade and deliver aid to 2.4 million people on the verge of starvation. In Myanmar's Karenni State, a human rights group issued a stark warning of impending famine due to conflict, economic blockades, and destruction of agriculture, urging international aid for over 200,000 internally displaced persons. South Sudan faces worsening food insecurity due to fuel price spikes increasing food basket costs, impacting purchasing power as the country enters the lean season.",
+      "regions": [
+        {
+          "name": "Mediterranean Sea",
+          "lat": 35,
+          "lng": 18,
+          "severity": "red",
+          "detail": "A Gaza-bound aid flotilla detected unidentified naval vessels, speedboats, and drones near its convoy in international waters."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "Israel's blockade on the Gaza Strip has left 2.4 million people on the verge of starvation, prompting an aid flotilla mission."
+        },
+        {
+          "name": "Karenni State, Myanmar",
+          "lat": 19.3,
+          "lng": 97.4,
+          "severity": "red",
+          "detail": "A human rights group warned of impending famine due to systematic attacks on food supplies and economic blockades, affecting over 200,000 IDPs."
+        },
+        {
+          "name": "Jonglei, South Sudan",
+          "lat": 6.8,
+          "lng": 31.5,
+          "severity": "yellow",
+          "detail": "Fuel price spikes have led to an 8% increase in the cost of a local food basket, severely weakening household purchasing power and threatening food security."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "A High-Level Meeting of the International Coalition for the Return of Ukrainian Children reviewed progress and identified further steps."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The U.S. pledged an additional $1.8 billion in funding for U.N. humanitarian aid efforts, targeting Lebanon, Venezuela, and the Central African Republic."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnZAP7DirCvLrfC4eHssX1dXgRlIFkH_JI92Gp9dwKd1cFYXuDEDhgl55lriNVj-Un-JCd64-Dm3Qw17jxslQhbiCgmNuaF0eFyuTbl9VyyKOqkMp3eTmFOeDH_9Wx5YE9tSH4qDcmnbBWHMCjCs7zzvO20tEV1NaxbTBn1vMxy8IJrpFSd5WVfcJvNxOHLTgX3rTjP7ud3U="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT7fQc9BaQkcQIE6sE1YcFylg51pjmrPI_YKG3v7TeOYX4zQkaLNs7SEc-GGvpJKS-wHTj0-nxZgEdgkVaLO6DeaEVrDQxZ7E0iQ_QctHKgSIIjGGmoX0zdECGqrc0UwL2lfZLNvDwXmMapt44aYIrVzP067jnzB2tWNiioy1rX6d41IpEMWRToWidUpqhyloytla8OZNimjuAv7t0pFLbX9_nTr1SwfpkQlY3e0XKYDsyWyg="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkUCR513p5-jmxUO1TyxB4W5W04eyjRfQJrttwORf3CpYOSyFdiCbZHXln0mQyuFZIRbE8QbVNUpwQOxpcc5YLRAJ3Pk_OitCSNtntbo40dyw8JDjVgICwA4WHwfD5_YcD_ii-cEotIr-ja5dGrb4f3BvPxcXJZQnbzf_VOGeAN888ly97Q=="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61CfBDwIRBlqCaSJ5Zvo_t4vaocJya0wKGJyJkYZCweEXf0FKKU2JgPeatWTVEw58NFH4kTeXpgS5mssDoyg20oWqVt8f8-B3iBaEq74xLyyQLRgaGJZhYSIEG_3b4BUhzSXoEQOqddDvoI3i5Qa1tpc8_KROMoEGFfzKijc0UgfkFcdxZpmuh11vc-XU5-hoUSVBjNxCCAb9Au4izDQ="
+        },
+        {
+          "title": "pia.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezJi8DHI-v4nyJ8lxR9JRSL1Nk6YT2adfyMgOrv5cNODrof70tPKEsEbIDbJI_CI9FZJTsOW2LCo0Utk0eIUC5eJ3AyKAxV-ANIsh5_wxURHGovnJHWe64WkzZctbjwjpWZgbCDwiznejy5Yv85DGDfsUXwutE46D7ON19dFvR3KM_LfJD3qMKpYW"
+        }
+      ]
+    }
+  }
+}
