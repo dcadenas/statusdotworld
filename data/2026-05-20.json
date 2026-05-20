@@ -1,0 +1,482 @@
+{
+  "date": "2026-05-20",
+  "timestamp": 1779260762657,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate with Iran war fallout and Gaza aid crisis",
+      "summary": "The Middle East faces continued instability due to the ongoing Iran war, with US and Israeli airstrikes on Iran, and Iran's response of blocking the Strait of Hormuz. A fragile ceasefire in Gaza is undermined by Israeli aid restrictions and ongoing civilian casualties, with the Board of Peace struggling to disarm Hamas.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "The country is central to ongoing conflict with US and Israeli airstrikes, prompting a response to block the Strait of Hormuz."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Blocked by Iran in response to airstrikes, this critical waterway is impacting global oil prices and trade."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian infrastructure remains perilous due to Israeli aid curbs and continuing civilian deaths despite a ceasefire."
+        },
+        {
+          "name": "Malkia, Israel",
+          "lat": 33.0789,
+          "lng": 35.5036,
+          "severity": "red",
+          "detail": "Sirens were heard in northern Israel following a 'hostile aircraft infiltration'."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese President Xi Jinping called for an immediate end to Middle East hostilities during a meeting with Russian President Vladimir Putin."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "President Lai Ching-te reiterated Taiwan's desire to continue US arms purchases amidst growing pressure from China."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump paused a planned military strike on Iran, citing negotiations, and the US Senate moved to curb presidential war powers."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "G7 finance ministers met to discuss the economic fallout from the Iran war and global market volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Xenophobic attacks in South Africa, detainee death in Armenia raise concern",
+      "summary": "New waves of violent xenophobic attacks targeting foreign nationals have been reported in South Africa. In Armenia, the death of a detainee shortly after transfer to a psychiatric institution raises serious questions about authorities' conduct and mental health responses.",
+      "regions": [
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "red",
+          "detail": "Vigilantes carried out violent xenophobic attacks targeting African and Asian foreign nationals in recent weeks."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "Demonstrations advocating more stringent immigration enforcement were organized by a citizen-led movement."
+        },
+        {
+          "name": "Durban, South Africa",
+          "lat": -29.8587,
+          "lng": 31.0218,
+          "severity": "yellow",
+          "detail": "A Cameroonian shop owner reported being attacked during protests targeting foreign-owned shops."
+        },
+        {
+          "name": "Artashat, Armenia",
+          "lat": 39.9572,
+          "lng": 44.6469,
+          "severity": "red",
+          "detail": "Police detained Armen Hovhannisyan, who later died by suicide after being transferred to a psychiatric institution in Yerevan."
+        },
+        {
+          "name": "Yerevan, Armenia",
+          "lat": 40.1792,
+          "lng": 44.4991,
+          "severity": "red",
+          "detail": "A detainee from Artashat died by suicide in a psychiatric institution here, prompting questions about his treatment and rights."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Google expanded its AI partnership to include AI safety testing and responsible deployment practices."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House plans to release an executive order on cybersecurity and AI safety, while discussions continue on pre-approval for AI models."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change a public health crisis; New Zealand climate law sparks backlash",
+      "summary": "Climate change is increasingly recognized as a public health crisis, linked to more frequent infectious disease outbreaks and extreme weather. In New Zealand, a proposed law change to shield companies from climate-related civil claims has triggered significant backlash from Māori and climate groups.",
+      "regions": [
+        {
+          "name": "New Zealand",
+          "lat": -40.9006,
+          "lng": 174.886,
+          "severity": "yellow",
+          "detail": "The government's proposed climate law changes, which would prevent civil claims against major emitters, are facing strong opposition."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A United Nations General Assembly vote on operationalising an advisory opinion on climate law is scheduled for today."
+        },
+        {
+          "name": "Western Cape, South Africa",
+          "lat": -33.9249,
+          "lng": 18.4241,
+          "severity": "red",
+          "detail": "The region experienced an unusually extreme storm on May 10-11, described as the 'worst since September 2023', causing widespread flooding and at least ten deaths."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "yellow",
+          "detail": "A report outlines solutions to address the growing impacts of climate change, with the British way of life threatened by heat, flooding, and drought."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Scientists are adjusting future climate change scenarios, noting modest gains in curbing emissions but confirming the international warming limit will be passed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak in Central Africa declared PHEIC; Hantavirus cluster found",
+      "summary": "A severe Ebola outbreak, involving the rare Bundibugyo strain, is escalating in the Democratic Republic of Congo and Uganda, prompting the WHO to declare a Public Health Emergency of International Concern. Separately, a multi-country cluster of hantavirus infections linked to an expedition cruise ship has been reported, with 11 cases and three deaths.",
+      "regions": [
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "The epicenter of a major Ebola outbreak, with hundreds of suspected cases and over 130 suspected deaths."
+        },
+        {
+          "name": "Bunia, DRC",
+          "lat": 1.5647,
+          "lng": 30.2037,
+          "severity": "red",
+          "detail": "The site of the first known Ebola death, where health workers are identifying suspected cases amidst a lack of isolation wards."
+        },
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Imported Ebola cases from Ituri have been reported, raising concerns about wider spread."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Two confirmed Ebola cases, including one death, were reported among individuals who traveled from Congo."
+        },
+        {
+          "name": "Western Uganda",
+          "lat": 0.5,
+          "lng": 30.5,
+          "severity": "red",
+          "detail": "The U.S. government is strictly limiting official travel to this region due to the Ebola outbreak."
+        },
+        {
+          "name": "Global (Cruise Ship)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A multi-country cluster of hantavirus infections, including three deaths, has been linked to an expedition cruise ship."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "UN lowers 2026 global growth outlook amid Middle East crises and rising oil prices",
+      "summary": "The United Nations has lowered its 2026 global economic growth forecast to 2.5%, citing Middle East crises and rising oil prices from the blocking of the Strait of Hormuz. Global inflation is projected to rise to 3.9%, with developing economies facing a sharper squeeze.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The UN has revised down its global GDP growth forecast for 2026 to 2.5% and raised the inflation outlook to 3.9%."
+        },
+        {
+          "name": "Middle East",
+          "lat": 26.8206,
+          "lng": 30.8025,
+          "severity": "red",
+          "detail": "Ongoing crises, particularly the Iran war and the blocking of the Strait of Hormuz, are significantly impacting global energy prices and economic stability."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "G7 finance ministers met to discuss economic imbalances and the fallout from the Iran war."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US economy expanded in Q1 2026, bolstered by AI demand, with FOMC minutes and crude oil inventory reports due today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Climate law controversy in New Zealand; Gaza peace plan stalls",
+      "summary": "New Zealand faces controversy over a proposed climate law change that would limit civil claims against emitters, raising concerns about access to justice and democratic processes. In Gaza, the US-brokered peace plan is stalled due to Hamas's refusal to disarm, hindering reconstruction and pathways to Palestinian statehood.",
+      "regions": [
+        {
+          "name": "New Zealand",
+          "lat": -40.9006,
+          "lng": 174.886,
+          "severity": "yellow",
+          "detail": "A proposed change to climate law, aiming to shield companies from civil suits related to emissions, has generated significant backlash."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The Board of Peace reports that Hamas's refusal to disarm is the principal obstacle to implementing the ceasefire plan and achieving reconstruction."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "President Lai Ching-te emphasized that Taiwan's future would not be decided by external forces, implicitly pushing back against Chinese influence on its democracy."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Senate moved to curb presidential war powers, indicating internal democratic checks and balances in action."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Ebola outbreak deepens DRC humanitarian crisis; Gaza aid critically low",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo and Uganda is threatening to worsen an already fragile humanitarian situation, exacerbated by years of conflict and aid cuts. In Gaza, humanitarian aid volumes remain critically low, with Israeli restrictions and funding shortfalls hindering relief efforts despite a ceasefire agreement.",
+      "regions": [
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "The Ebola outbreak is pushing an already fragile humanitarian situation closer to collapse, with Oxfam warning of funding shortages."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Aid volumes are far below required levels, and critical access routes are obstructed, leading to continued hunger and limited medical care for Palestinians."
+        },
+        {
+          "name": "Türkiye",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "severity": "yellow",
+          "detail": "The EU has allocated €20 million in humanitarian aid to support vulnerable refugees and host communities."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The Board of Peace's report on Gaza's humanitarian situation, highlighting aid shortfalls, is expected to be discussed by the UN Security Council."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Global Peace Convoy Indonesia is undertaking diplomatic efforts for the liberation of Indonesian citizens held by Israel after a Gaza Flotilla raid."
+        }
+      ],
+      "sources": [
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEzqehmotdngOgfye2tD3MJvc-teu-EWd-BTtFK6K4cH7RAI5a8jERf1iEBCrQbj93BJDSoeVk8wS6MxEr3e5lCdUQhmAs6xPSgYtZVZJY5MHJowNUPEWKt9BHBFZsTz4E8X6m_-exMT53goBZYag_mVqfRXCVtUhg4lav6OE-wJiHPHUK1F-3ThFrIzWYptzwYQR0ugAnvsLvo59AqwQmqU9qW8Wi5OdzfpdBHA=="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLsw2QaBRqcMw7o6Clc9Z6kfoJrbNYUyhJfUiAnE9z9Mhtl_4s4mqnJR1wL_TdJp_Ki932V87DHNlojK14qcJTCV-oMywq7IJYAhHuwBr1dXG9hj5cGmtNZ68bI3r_i90buClChUlrU1byxKbWWIQEWCGjrVtpm_5QkjdEShVw6_99yoxEG9luRifkH2s4th02H7gGZdmLV_VnTe9IRVRc0AkTjc="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaONYYDHN4HGoKaiL3UPCuNMym4Zfe3UMjFaEqPS4V7TaeWgeBoDr72hwN6hwV_sGXviJb9LKkNeM16t44X6yO6FAQCQNQOCDl5nKuRQc2ERj4k0Je31VTncX0bBseCTxfAI4TQ7G743r_u5NDcPBG5klxTdLLGdVQhSKriv9FrCX5SD5znOoUVHAS3bih6yh62AYr_iApPcs8xfLuMI="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnauc-POIycWZTNQNFDac-gkTgBfC2xulUeZ3Sdf7qCDPU2DMAQ68YG3tXt59huWjeySlvzCJ7EYaJ_9aYsJqomzylLazJhj7fC-gTtQ5xpOp3LglQjN6fCnHd1HwNNX35Magph41TJTzXsUYxmOYv9mHehROy2ogJZaDdbk5pS2IkjIY_VUZDHNCz3PYZ0slEQLgIscw1bua40cEGDoaaC77bxlu7xozikYiI3CwICNk="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq0Nyn1oPe3CFGpKB1sF94bzxqcxpooOWzS_rC2F-NgH0dsxwcRVsEQAuIDuik13RW0vT0WhblncUnL2sNSzPWMpbP4X6Awjx2hI8a1r8D-joNk5JFaZ4t4hcc58xLMBzDnET1Q_RqtcJ5FUAovXXh3ExxNwPo8OICSppaFG7RhCsYDWdqMhR0rfNynmUaSrzHTgieBfcpchqnw3W5b5aNOh3JfXELZdL-aCRxOsPtdTf0CW0dFDhcdegs_8_MRe9G14Ds90CBjZUSZvK_fseKpFr6xrYy3_Lde_XTWrPY2ZgdU7PEUiGdcqv3qRjDR8TTw_kIhkhDalop0Yjcl0GSv9KUDkgSlX99-tqjX2I="
+        }
+      ]
+    }
+  }
+}
