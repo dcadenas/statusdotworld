@@ -1,0 +1,419 @@
+{
+  "date": "2026-05-24",
+  "timestamp": 1779606067496,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US, Iran pursue peace deal amidst ongoing regional clashes and Kyiv attack.",
+      "summary": "Diplomatic efforts are intensifying with the US and Iran reportedly close to finalizing a peace deal for the West Asia war, including reopening the Strait of Hormuz. However, regional hostilities persist, marked by an Israeli strike in Lebanon and an Iranian execution for espionage. Concurrently, Russia launched heavy ballistic missile and drone attacks on Kyiv, Ukraine, resulting in casualties and significant damage.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump announced a 'largely negotiated' deal with Iran to end the West Asia war."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran executed Mojtaba Kian for allegedly sending information to the US and Israel during the war."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia launched mass ballistic missile and drone attacks on the capital, wounding at least five people and causing widespread damage."
+        },
+        {
+          "name": "Nabatieh, Lebanon",
+          "lat": 33.5678,
+          "lng": 35.4856,
+          "severity": "red",
+          "detail": "A regional civil defense facility was reportedly destroyed by an Israeli strike."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "green",
+          "detail": "Pakistan's Prime Minister expressed hope to host the next round of peace talks between the US and Iran."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Israel remains a party in the ongoing West Asia discussions and is implicated in regional strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "GDPR marks decade, but Iran executes citizen for espionage amidst global concerns.",
+      "summary": "The EU's General Data Protection Regulation (GDPR) celebrated its tenth anniversary, reinforcing digital rights for European citizens and influencing global data privacy standards. However, a severe human rights violation occurred in Iran, where an individual was executed for alleged espionage during the ongoing West Asia conflict. The UN Human Rights Office also highlighted ongoing deepening crises in Gaza and the West Bank.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Commission marked ten years since the General Data Protection Regulation (GDPR) entered into force."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "An individual was executed for allegedly sending information to foreign entities during the war."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The human rights crisis continues to deepen in the region amidst calls for accountability."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "UN experts urged states to halt involuntary returns to Afghanistan due to human rights concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change shrinks plant habitats; Super El Niño looms globally.",
+      "summary": "A new study published today warns that climate change is severely threatening global plant species by shrinking their habitats, potentially causing 7-16% of vascular plants to lose over 90% of their range. Concurrently, a 'Super El Niño' event is anticipated to trigger global climate chaos, with a high chance of emergence by July 2026. Local impacts include Metro Vancouver anticipating Stage 3 watering restrictions and controversial infrastructure decisions in Manila involving tree removal.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A study found climate change threatens 7-16% of vascular plants with over 90% habitat loss by century's end."
+        },
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -150,
+          "severity": "yellow",
+          "detail": "A 'Super El Niño' is developing rapidly, expected to trigger global climate chaos."
+        },
+        {
+          "name": "Vancouver, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "yellow",
+          "detail": "Metro Vancouver anticipates Stage 3 watering restrictions, and a wildfire burns near Maple Ridge."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Decades-old trees were cut for an expressway project despite extreme heat and climate crisis warnings."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "Lake Oroville is increasing releases to the Feather River as part of normal operations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola Bundibugyo outbreak declared PHEIC in DRC and Uganda.",
+      "summary": "An Ebola Bundibugyo virus disease epidemic in the Democratic Republic of Congo and Uganda has been declared a Public Health Emergency of International Concern (PHEIC) by the WHO. With no approved vaccines or antibody treatments for this specific strain, response efforts are heavily reliant on community outreach. The US Department of State is implementing travel restrictions and enhanced screening measures to prevent wider spread.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The DRC faces a severe Ebola Bundibugyo outbreak, with numerous suspected cases and deaths, and no specific vaccine available."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Uganda has reported confirmed cases of Ebola Bundibugyo with epidemiological links to the DRC outbreak."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Health Organization declared the Ebola Bundibugyo outbreak a Public Health Emergency of International Concern."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US government is coordinating a response, including travel restrictions and enhanced screening for arrivals from affected regions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "West Asia conflict elevates energy costs; APEC pushes supply chain resilience.",
+      "summary": "The ongoing West Asia conflict continues to elevate energy security and shipping insurance costs globally, particularly impacting Asian importers, though an LNG tanker successfully transited the Strait of Hormuz for India today. In response to global challenges, APEC trade ministers are reaffirming their commitment to maintaining resilient supply chains and advancing regional economic integration at a meeting in Suzhou, China. Ukraine also imposed new sanctions against Russian military and civilian merchant vessels.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "yellow",
+          "detail": "Tensions keep energy and shipping insurance costs elevated, though an LNG tanker for India successfully transited for the first time since the war began."
+        },
+        {
+          "name": "Suzhou, China",
+          "lat": 31.3041,
+          "lng": 120.5954,
+          "severity": "green",
+          "detail": "APEC trade ministers met to discuss maintaining resilient supply chains and advancing economic integration."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India is adjusting fuel pricing and import tariffs due to the Iran war's economic fallout and strengthening ties with the UAE."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "green",
+          "detail": "India has stepped up strategic-economic coordination with the UAE, including defense and energy-sector agreements."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine imposed new sanctions against Russian military personnel and civilian merchant vessels, impacting trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Global democracy stable; no major events or erosion reported today.",
+      "summary": "No significant reports of democratic erosion, major electoral events, or significant threats to democratic institutions were specifically reported on May 24, 2026. The general global democratic landscape appears relatively stable, with political discussions ongoing but no major new developments indicating widespread democratic backsliding.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "No major new developments on democratic erosion were reported globally on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ebola crisis deepens; China mine collapse spurs aid efforts.",
+      "summary": "Humanitarian efforts are intensifying in response to the escalating Ebola Bundibugyo outbreak in the Democratic Republic of Congo and Uganda, where a lack of specific treatments for the strain poses significant challenges. Additionally, a deadly coal mine collapse in Qinyuan County, China, killed at least 82 people, triggering a large-scale rescue and aid operation. The humanitarian crisis in Gaza and the West Bank also continues to deepen, amidst calls for accountability and aid.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Ebola outbreak creates severe humanitarian needs, with response efforts challenged by the lack of specific vaccines for the Bundibugyo strain."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Humanitarian agencies are working to contain the Ebola outbreak and provide support to affected communities."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The humanitarian crisis continues to deepen, with ongoing calls for accountability and aid delivery."
+        },
+        {
+          "name": "Qinyuan County, China",
+          "lat": 36.3381,
+          "lng": 112.5645,
+          "severity": "red",
+          "detail": "A coal mine collapse killed at least 82 people, triggering major rescue and humanitarian aid operations."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US pledged an additional $1.8 billion in humanitarian funding, bringing its total recent support to $3.8 billion for global relief efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkma-FWM0VRhsgxDonSTqosEJse9QyjgvUbmDArB0zNSJiTMKCebl6xZR5DiBD3Or9H4XkwAAj1_DV8CC4Avfu1MLACqtdv4R6iZXs88Lm1uldCpCs5mSxVQWhIdRLBkh_9TiLn-a_VzeegzOVXqpiqUlo7h_A-vaySGXGgWk3nCqAmNOmG3c0Oz5UAA44LGO20RjvPP1U5vjcBvqS3gFf4e7QR3mrIIBujPiJVQvlgkSguaS9c8l_Nkiecikm5Lv"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyX7QLKUDWS7n28TrjFyTTlMusxSYhh0sLIu_-Qo692Dz5bEVhwVPFCyYryUVK_Ki4_0zG5Rd7xDmAEu8W8O35uU6aORf0Rq_KSyY6LF_2Fuhr0NaaGfLpXFvU0owixUPhkeWwq9dJWpnfYUsRHUTob2qmd_CR1gAPrgtrlFoMXpjEONTKG9C4kquZzEQxeGtqFENRO_ylaClBrXFSu9KPsird_Dxz"
+        },
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuB_Mq4NjBrQi-h9ibJHWo_lhZ8omvGp6M9esMmtGgCznpB0r3OtUJ9tTdGfil02Cnethn6soAt-Pyb6WAXx0g2Kgx0561psHr85MMhusO0FyDqTR6pP2TQ76uXfv0H9VKitkSyFtnAITfFMNgM_CmDvfyiiKSJ5XPUI6cPKJeqiTl_xo01yUN2-Ob9mz9LxRidpx5XINi0zPFW5DYqP_55GQufCQXhJUCH2ZF_eoDw=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-VzgrmcbGlz5v72XPZn4Sw3pGD4psmzaFUbvCjrU_E8KUkS7trNkLOkxzfPiALzNkp5-qL1UM1e-3t1f2-UlwFKnYylKbMIFPuukf8o8dhVvv80JAR-9FrM9gN3RwNTSh-OLTTz_VKSeOSoRoMGkF-yZQx7rfck1_JTS3zxLbGl1wfvH7STeY-5HOZeTOBCbH9Cqzkznvg=="
+        },
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrhRJwXauQBesjHyxcgV4B3VlY42vHz8886Ey9I9yKOIQU569B1qzfIEPdlHkI92vh9TOJWbe-Ldl8nQCmT02w4vaHjPXEtVhYnjxpHG-JlFOkrqSuRmHDDnuqbZgssKNUS3L-HMLBd5vxGWIOa4Ng7YYwP-OCLteVKZewTDhoueWHBlBu-JvyM6poye8oTrnnG9Dv8feWIOE5uqq6CQZRn6b5itkM3t7aEqmtuK5LfHHhw0="
+        }
+      ]
+    }
+  }
+}
