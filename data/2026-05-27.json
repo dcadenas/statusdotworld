@@ -1,0 +1,531 @@
+{
+  "date": "2026-05-27",
+  "timestamp": 1779866393689,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran-US tensions escalate; Israel strikes kill 31 in Lebanon.",
+      "summary": "US strikes in southern Iran have been denounced by Iran as a ceasefire violation, casting doubt on ongoing peace talks and highlighting the fragility of the situation in the Strait of Hormuz, a critical global energy chokepoint. Meanwhile, Israeli strikes in southern Lebanon resulted in 31 deaths, including civilians, despite an existing truce with Hezbollah, indicating a severe escalation of regional conflict. Globally, North Korea launched a ballistic missile and Sudan continues to face deadly strikes leading to mass hunger.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran denounced US strikes in its southern region as a ceasefire violation, complicating peace talks."
+        },
+        {
+          "name": "Bandar Abbas, Iran",
+          "lat": 27.1833,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Iranian state media reported overnight blasts near the critical Strait of Hormuz, a major chokepoint."
+        },
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli strikes killed 31 people, including civilians, despite an existing truce with Hezbollah."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Israel intensified attacks in Lebanon despite a truce, leading to significant casualties."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Its potential prolonged closure poses a significant global energy supply shock and economic threat."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5325,
+          "severity": "red",
+          "detail": "Twenty million people face acute hunger as rival military factions continue deadly strikes."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0333,
+          "lng": 125.75,
+          "severity": "yellow",
+          "detail": "North Korea launched a ballistic missile, adding to regional tensions."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "Cuba promises 'fierce resistance' as the USS Nimitz arrives in the Southern Caribbean."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights debates escalate; US deportations to Mexico condemned.",
+      "summary": "Human Rights Watch condemned the US government's deportation of thousands of Cubans and other nationals to Mexico, citing inhuman conditions, due process violations, and leaving individuals stranded without basic services. Globally, digital rights face increasing threats, exemplified by concerns over Greece's proposed social media ban for minors and Apple and Google's opposition to Canada's surveillance laws. The cancellation of RightsCon in Zambia further highlighted shrinking civic freedoms in Africa.",
+      "regions": [
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "red",
+          "detail": "Thousands of Cubans and other third-country nationals deported from the US are left stranded and vulnerable without housing, healthcare, or legal status."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US government is criticized for its deportation policies and human rights abuses against migrants."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "yellow",
+          "detail": "Twenty-five organizations raised concerns about a proposed social media ban for minors, threatening privacy and digital rights."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Apple and Google expressed strong opposition to proposed surveillance laws that could weaken encryption and create backdoors."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU AI Act Omnibus Agreement postpones high-risk AI deadlines and addresses AI-generated non-consensual imagery."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "President Macron addressed the need for reparations related to France's role in the transatlantic slave trade."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3228,
+          "severity": "yellow",
+          "detail": "The cancellation of RightsCon 2026 exposed growing threats to civic freedoms and digital rights across Africa."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "yellow",
+          "detail": "Vietnam's authoritarian institutions use surveillance and censorship to absorb democratic-rights claims without meaningful accommodation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe gripped by deadly record heatwave; climate impacts intensify globally.",
+      "summary": "Europe is experiencing a severe, record-breaking heatwave, making it the world's fastest-warming continent and leading to at least seven deaths in France. This extreme weather underscores the escalating impacts of climate change globally, which also project the expansion of diseases like chikungunya into new temperate regions. Cities like New York are actively evaluating flood protection, highlighting the urgent need for enhanced urban resilience against climate-related disasters.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "red",
+          "detail": "The UK reported its hottest-ever day for May, reaching 35.1 degrees Celsius amidst a record-breaking heatwave."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "France recorded its hottest-ever May day, with at least seven heatwave-linked deaths reported."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "red",
+          "detail": "Ireland also experienced record high temperatures for May as Europe is gripped by a severe heatwave."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Researchers are evaluating the economic impact of flood protection, highlighting increased demand for urban resilience due to climate change."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "green",
+          "detail": "Greek agriculture shows potential to significantly cut emissions through precision farming."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola declared emergency; hantavirus outbreak requires vigilance.",
+      "summary": "The World Health Organization has declared the latest Ebola outbreak in parts of Africa a public health emergency, prompting Canada to implement temporary border measures including travel suspensions and quarantine for affected regions, and India to heighten airport surveillance. Simultaneously, a deadly hantavirus outbreak on a cruise ship required extensive cleaning in Rotterdam, with 12 cases and three deaths reported, highlighting ongoing infectious disease challenges.",
+      "regions": [
+        {
+          "name": "Rotterdam, Netherlands",
+          "lat": 51.9225,
+          "lng": 4.47917,
+          "severity": "yellow",
+          "detail": "A cruise ship is undergoing extra cleaning due to a deadly hantavirus outbreak, with passengers and crew in quarantine."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Affected by the Ebola outbreak, prompting international public health measures."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Affected by the Ebola outbreak, leading to international travel restrictions and surveillance."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Affected by the Ebola outbreak, with travel advisories and border measures implemented."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada implemented temporary border measures, including travel suspensions and quarantine, in response to the Ebola outbreak."
+        },
+        {
+          "name": "Hyderabad, India",
+          "lat": 17.385,
+          "lng": 78.4867,
+          "severity": "yellow",
+          "detail": "India has heightened Ebola surveillance at its airports for passengers from affected countries."
+        },
+        {
+          "name": "Cleveland, USA",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "green",
+          "detail": "A new program aims to improve childhood asthma rates through low-cost home improvements and cleaner indoor air."
+        },
+        {
+          "name": "Hartford, USA",
+          "lat": 41.7637,
+          "lng": -72.685,
+          "severity": "yellow",
+          "detail": "Connecticut's expansion of cannabis use is raising public health and safety concerns, particularly regarding impaired driving."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Strait of Hormuz closure threatens global economy; businesses cautious.",
+      "summary": "The potential for a prolonged closure of the Strait of Hormuz presents the most significant global energy supply shock in decades, risking a shallow global recession in the second half of 2026 and impacting GDP growth worldwide. Oil prices are fluctuating amidst US-Iran peace talks, with uncertainty high regarding the reopening of the crucial waterway. Meanwhile, Malaysian businesses are adopting a cautious stance for Q2 2026 due to global economic uncertainties, even as the technology sector sees a boost from a global chip rally.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Its closure significantly impacts global energy supply and trade, posing a major economic threat and risking recession."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Peace talks with the US are ongoing, which could influence the reopening of the Strait of Hormuz and global oil prices."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Businesses are turning cautious due to global economic uncertainty, though the services sector shows resilience."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "NYC and NEC are evaluating the economic impact of flood protection, addressing investment in climate resilience."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan plays a crucial role in global semiconductor supply chains, impacting the technology sector."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Election denialism shapes US politics; Taiwan hosts democracy forum.",
+      "summary": "In the United States, concerns about democratic erosion are heightened as an election denier and proponent of voter suppression, Ken Paxton, secured the Republican nomination for the U.S. Senate in Texas, backed by former President Donald Trump. Conversely, Taiwan is hosting the inaugural Forum for Democratic Cooperation, with its Foreign Minister emphasizing the nation's role as a front line for global democracy against expanding authoritarianism. This starkly contrasts with countries like Vietnam, where economic development generates democratic-rights claims but authoritarian institutions use extensive social control to prevent meaningful accommodation.",
+      "regions": [
+        {
+          "name": "Austin, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "Texas AG Ken Paxton, an election denier and supporter of voter suppression, won the U.S. Senate Republican primary runoff."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan hosts the inaugural Forum for Democratic Cooperation, highlighting democratic resilience and cooperation against authoritarianism."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "yellow",
+          "detail": "Authoritarian institutions in Vietnam absorb democratic-rights claims through social control, propaganda, and censorship."
+        },
+        {
+          "name": "Denver, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "yellow",
+          "detail": "Colorado Democrats censured Governor Jared Polis over clemency for a 2020 election denier."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Humanitarian crises persist in Sudan, Afghanistan, Cuba; new aid initiative.",
+      "summary": "Humanitarian crises are escalating, with 20 million people in Sudan facing acute hunger due to ongoing conflict. In Afghanistan, the closure of the Strait of Hormuz and border issues with Pakistan are severely disrupting trade and aid, causing critical supplies for malnourished children to run out and tripling costs for rerouted assistance. Cuba's Foreign Minister has appealed for urgent international help to avert a humanitarian catastrophe due to a US energy blockade. In a positive development, the LEGO Foundation and International Rescue Committee announced a $97 million partnership to boost early learning for 5 million crisis-affected children in East Africa and the Middle East.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5325,
+          "severity": "red",
+          "detail": "Twenty million people face acute hunger due to ongoing conflict, leading to a severe humanitarian crisis."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5207,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "Humanitarian aid and trade are severely choked by regional conflicts and border closures, causing critical supplies to run out."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "The Cuban Foreign Minister appealed for urgent international help to prevent a humanitarian catastrophe due to a US energy blockade."
+        },
+        {
+          "name": "Gaza City, Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "yellow",
+          "detail": "Belgium ruled out new evacuation flights for 1,400 visa-holders due to complex logistics and a volatile security situation."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The International Rescue Committee announced a $97 million partnership to support early learning for children in crisis zones."
+        },
+        {
+          "name": "Salt Lake City, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "green",
+          "detail": "The new Humanitarian Center is being dedicated, offering public engagement in hands-on service."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "green",
+          "detail": "East Africa is a focus region for the IRC and LEGO Foundation's early learning initiative for crisis-affected children."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "green",
+          "detail": "The Middle East is a focus region for the IRC and LEGO Foundation's early learning initiative for crisis-affected children."
+        }
+      ],
+      "sources": [
+        {
+          "title": "dailypioneer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7IbzYfq_ooB8M30hVXsg2UEl4ESMk2PUJZDNzI9zzrVARwygwSsrZJhQJ8AwQaMgq_MDhpkMME7CY51nTpy3k6c_iA4G3rUc62OsKLzNp-a1X5SuROo_vUSzOV2UO6krMa9B6FOBW17BwYbX-o8OkUDROXewzHsec4rLg48ldzJ3-Nt2RA=="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ILqT4z9kq4ORRz4ldn3GSTo5WdbqdgdfTRfPCiSzc1u4qDqXaNnYf1PEW6uXv3uI6sS3NCZOc8GAYxGqNpT5MDNJuhC5QTUt6XBLDD5D4_TpZCjMftI6MJSEg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqA8tkIhEa5x-PffIikK0pewuYkGyILFCo5-HWXNMOGrMKdvnxPmEIKJlwSmlKy2TOQRYhVk2a7dP1Lk64Og148i0_4GPl3i4usH0KvCdIijpZdEdaWGMO8ofej5vrQ13kvLSFxrA4HdpSUcsOQco9NCHmTyyzEIIylH-nSU7KGllXK6GdqmWsdvMhTJa80KAuayITzHyZYt3lxVsDMguCAPa2tqaI39MilzgqEzvcOyBdZ17sfJr4SO3yTEo2OKNS7E8pslGwI7v3fJbEXfN6sfA="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNcWqtKbMvtFjGN7akkwDbvzsX3y2nrT0VMGCdq2Qr9gi7GHQlNahCQFSmNsHYjzb8TE667svKa-_m8POpwFvSeJbk3zeVwjpu5bdOLPIpKPmT8JyaP4r3vvDCPzZxOtMKmhby95tDfZbvOF54ea4-oiz6nZ0ZLskSi_hj5orWGV8MmWpjfquX_CAzmhl3sr3K73f8xIP8oaXMZTjx-6dq1yPwRkdHO9O5C1Gw-yYzmV93Qh-_nVpAaMfazHWmeNnlHFkd0mGdy8="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQDTUxYaREUeIkTNlMVqY0jubC77m4SzAM5rmMOh2R65deppjWRq2ByF5LlZLpMeZ_5AdslHhJ0LYP8y1Iee1_hvzUoJdCZw5YRGlwSdJWDp52bGRggnL1flydkNmUvRJ-286WC4DbdD4Or-gAFQyJdO7dlaVV9ngO3QbghDe_r3QDriwockfzxOoKNjjTC6GE1cOfgwEgX2IZ5FexMc9l4YUf_YdmGPdEnT0-S1iwbrx1YEpAWnNrGW4JMytxOJHq8WJIkTdq7kCpasudsOD"
+        }
+      ]
+    }
+  }
+}
