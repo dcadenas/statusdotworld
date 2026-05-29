@@ -1,0 +1,538 @@
+{
+  "date": "2026-05-29",
+  "timestamp": 1780038813507,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran peace deal pending, global conflicts persist with humanitarian impact.",
+      "summary": "U.S. and Iranian negotiators have reached a tentative 60-day ceasefire deal, pending presidential approval, aiming to de-escalate tensions and reopen the Strait of Hormuz. However, conflicts continue to impact civilian populations and healthcare in regions like Ukraine, Sudan, and the Afghanistan-Pakistan border, underscoring persistent global instability and significant death tolls.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian negotiators reached a tentative peace deal with the U.S. amid recent missile exchanges."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. negotiators agreed to a tentative peace deal with Iran, awaiting presidential approval."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5833,
+          "lng": 56.55,
+          "severity": "yellow",
+          "detail": "The proposed U.S.-Iran peace deal includes reopening the crucial Strait of Hormuz."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian forces have ramped up attacks on healthcare facilities and personnel in Ukraine."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Attacks on healthcare facilities and humanitarian workers, including a hospital closure amidst a cholera outbreak, continue in Sudan."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1723,
+          "severity": "yellow",
+          "detail": "Heavy death tolls among Afghan civilians were reported due to ongoing conflict with Pakistan."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Pakistan and China vowed to cooperate on Afghanistan to prevent militant groups, amidst ongoing cross-border conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "The tentative U.S.-Iran deal also mentions an end to the war between Israel and Hezbollah in Lebanon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "AI privacy invasions, surveillance lawsuits, and conflict-related rights abuses worsen.",
+      "summary": "A new Amnesty International report highlights that generative AI systems are 'unlawful by design' due to mass privacy invasions through web scraping, while an Illinois bill aims to regulate powerful AI models for transparency and accountability. Surveillance concerns are escalating with a lawsuit in Boulder, Colorado over police use of Flock cameras and a new 'Solidarity Over Surveillance' initiative in Washington D.C. Additionally, ongoing conflicts globally continue to challenge the right to health and other fundamental human rights.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The 'Solidarity Over Surveillance' initiative launched to fight corporate and government surveillance, including AI-powered systems."
+        },
+        {
+          "name": "Boulder, Colorado, USA",
+          "lat": 40.015,
+          "lng": -105.2705,
+          "severity": "red",
+          "detail": "Residents are suing the city over the use of Flock cameras, citing widespread privacy violations and warrantless surveillance."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Challenges in enforcing GDPR fines continue, with many substantial penalties against tech firms being annulled or appealed."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "yellow",
+          "detail": "Illinois lawmakers passed an AI accountability bill to increase transparency and safety among large AI models."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "red",
+          "detail": "An investigation into Meta's alleged access to encrypted WhatsApp messages was abruptly closed, despite claims that Meta could read messages."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepal's NHRC issued recommendations regarding a 'Gen Z crackdown' that could impact security personnel."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Japan's megabanks are set to gain access to new OpenAI models for enhancing cybersecurity defenses."
+        },
+        {
+          "name": "Vancouver, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "yellow",
+          "detail": "The city's World Cup human rights plan was criticized for potentially undercounting violations and being insufficient."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "UN warns of record global temperatures; Amazon drought, Arctic warming severe.",
+      "summary": "A dire UN report warns of a 75% chance that global temperatures will exceed the 1.5 degrees Celsius threshold between 2026 and 2030, projecting record-breaking heat. The report also forecasts severe drought and increased wildfire risk in the Amazon basin and significant warming in the Arctic, signaling accelerated climate change impacts. Meanwhile, Massachusetts is implementing strong subnational climate policies to counter potential federal inaction.",
+      "regions": [
+        {
+          "name": "Amazon Basin, South America",
+          "lat": -3.4653,
+          "lng": -62.2159,
+          "severity": "red",
+          "detail": "The UN report forecasts dangerous drought and increased wildfire risk for the Amazon, threatening its role as a carbon sink."
+        },
+        {
+          "name": "Arctic Region",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The UN report predicts an overheating Arctic, warming nearly 3 degrees Fahrenheit by 2030, with continued sea ice shrinkage."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The World Meteorological Organization released a report detailing alarming predictions for global temperature increases."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "Massachusetts is strengthening climate action through state statutes and new funding, aiming for significant emissions reductions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak escalates in Central Africa; international travel measures in place.",
+      "summary": "A significant Ebola disease outbreak, caused by the less common Bundibugyo virus, is escalating in the Democratic Republic of Congo, with increasing risks in Uganda and South Sudan. Canada and the United States have implemented temporary border measures, including travel restrictions and enhanced screening, for individuals arriving from these affected African nations. The World Health Organization is emphasizing the critical need for a ceasefire in eastern DRC to facilitate humanitarian access for the Ebola response.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola disease outbreak, caused by the Bundibugyo virus, is ongoing and complicating response efforts."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Risks of Ebola disease are increasing, prompting Canada and the U.S. to implement temporary border measures."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.6083,
+          "severity": "red",
+          "detail": "The country faces increasing risks from the Ebola outbreak, leading to international travel restrictions."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "The Government of Canada introduced temporary border measures, including suspending immigration documents, in response to the Ebola outbreak."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. implemented enhanced screening at designated airports for travelers from Ebola-affected regions and committed significant aid."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO urged an immediate ceasefire in the DRC to ensure humanitarian access for Ebola response efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces stagflationary shock amid Middle East conflict and rising inflation.",
+      "summary": "The global economic outlook has significantly darkened, with chief economists widely predicting weaker growth and rising inflation over the next year, primarily due to the Middle East conflict and the closure of the Strait of Hormuz. This situation is creating a 'stagflationary shock' with increased volatility in debt and stock markets. However, a potential U.S.-Iran truce deal has sparked some optimism in Asian markets, while AI is viewed as a future growth driver despite tempered expectations.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Ongoing conflict is inducing a global stagflationary shock and driving up energy and food prices."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5833,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "The closure of the Strait is a critical factor in the global economic deterioration, disrupting supply chains and increasing costs."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Economic Forum's Chief Economists' Outlook reported a sharp deterioration in the global economic outlook."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Asian stock markets, including Tokyo, surged on optimism about a potential U.S.-Iran truce deal."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. Treasury Secretary discussed an 'America First' economic agenda amid global economic challenges."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "The region is expected to experience the most significant increase in inflation."
+        },
+        {
+          "name": "Europe",
+          "lat": 48,
+          "lng": 15,
+          "severity": "yellow",
+          "detail": "The region faces mounting stagflation risks as growth weakens and inflation fears rise."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Involvement in a potential truce deal with the U.S. has a significant impact on global oil prices and market sentiment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy faces internal threats; Europe boosts democratic resilience initiatives.",
+      "summary": "In the United States, Capitol Police officers are suing former President Trump over a controversial $1.8 billion fund for his supporters, raising serious concerns about threats to democratic institutions. Concurrently, Europe is actively working to strengthen democratic resilience through initiatives like the 'Hackathon for Democracy 2026' to combat online hate speech. Efforts are also being made by groups like Democrats Abroad to engage citizens globally in preserving democratic values.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Capitol Police officers filed a lawsuit against former President Trump regarding a controversial fund for his allies, raising concerns about democratic integrity."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "green",
+          "detail": "The Council of Europe launched a 'Hackathon for Democracy 2026' to develop tools to combat online hate speech and strengthen democratic resilience."
+        },
+        {
+          "name": "Putrajaya, Malaysia",
+          "lat": 2.9237,
+          "lng": 101.691,
+          "severity": "green",
+          "detail": "Deputy Prime Minister emphasized the vital role of journalists in strengthening democracy and fostering an informed society."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "Democrats Abroad hosted a 'Drafts for Democracy' event to engage Americans overseas in political action."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "Monaco's presidency of the Committee of Ministers of the Council of Europe supports initiatives to strengthen democratic resilience."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian needs at all-time high amid conflicts and aid obstruction.",
+      "summary": "Global humanitarian needs have reached an all-time high, with 239 million people requiring assistance due to ongoing conflicts in regions such as Gaza, Ukraine, and Sudan, coupled with severe funding cuts. The European Commission is reforming its approach to maximize aid effectiveness, allocating nearly €2 billion, while the U.S. is committing significant funds to combat the Ebola outbreak in Central Africa, where humanitarian access is challenged by conflict. Attacks on aid workers and obstruction of aid movement persist in several conflict zones.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission announced reforms to its humanitarian aid approach to meet global challenges, allocating almost €2 billion this year."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The region faces severe humanitarian situations due to ongoing conflict, with needs at an all-time high."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Conflict has contributed to severe humanitarian needs and attacks on healthcare facilities, with aid movement obstructed."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Severe humanitarian situations persist due to conflict, including attacks on aid workers and obstruction of assistance."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The WHO urged an immediate ceasefire to ensure humanitarian access for the Ebola response in the conflict-devastated eastern region."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "The U.S. committed significant bilateral foreign assistance for Ebola response efforts, including PPE and surveillance, in affected areas."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.6083,
+          "severity": "yellow",
+          "detail": "The U.S. committed significant bilateral foreign assistance for Ebola response efforts, including contact tracing, in affected areas."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. committed over $112 million in aid for the Ebola response in Central Africa and $50 million to OCHA for clinics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "joins.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpw1VdcsSacNabwX6dpH9KmHmJ3RqwM9kYEBVyug3WoU3tCV2ZJmTZpUquAcjIDa03_UI3590MW8wJj4g4pRtwrw9NskM5jePf8lm2SD0Lu9qLGyQv47ZwbYzsl2TNxypp9Hevn_cUUCvfRxSBsSdasHlSSq3eieTPhHX6_An0LPNkXyGYue2njFHFmpzPPmseFNG7UPXv0WizBtJYNRzeB_I7BDu8P_kVjjNjaPbC1XpRCNJGKVxOhsPtr5n2qcj_z1yw4qwqfGwsopaGKRsK9fwe_5Y="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxp8JEN-pdhxQnMj7huVgIj-BiFYHYVrx0q7nIi3AY8ZNHCwssZhS4nC9gqT-6-3hBmXNl6spbky51Tk_C3M28W2VH5bUgyLNA-4iPKzw3e79sq6ylUjRqQnj-g9K5g3sCdZgIEbUg4rQQDgELN_w="
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYd9ljSEeG8HCMMEbwKBOx-BOFPMfsLdVoT06mLVBmGkspN6F1dgA8aQo5yoly_g_ZFd6unH0bGByCAh_t7gWK_5BDqTa6n7gr_QuQ20mARfUh1wqJh7-veYoM76hdAoCoNEUB7pEWkJk_QRCoCJtGU36CJjTF5gkQ__4hI7EoNYn8iEiyXmpyqt3oQkFzfB972OeFqH1YpldPf99Dlj7_cfOuR1yjCE2PmZ-NW0mUuQkPs_DyTD38wPhGmG3YoPakoy5dfY2_cbavVb3n-MqR85kLrwEhwX3OL_HZEEyfmuPTRpzWO2_L-xth0blTlQ="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0h73JTcfmumT9PUaMpVxyqyM_gDZcT6Hg1MbQMUQiKkR-g7_8h-gRjRI7Qoo4dRRPzoT0DZJBvUCJ5Bi78id6Q9yGozmIkDy7jOktrXx3zCOv3zJNkTIvEt2slrerH2k0JvUq9Q_gnP1swBXxCuRc9zWQyviNtKqiAh9nmcA-qBPVsN1VH0CvltoMraP_6PY11nCPdC7nJSicOpUU8D5MfaJF9AQg6XFpzJuXdQqdbr4u4sBBcDE0SnjN0V_7MbwoP1-sPigKCQ8FtEqZcUGycgg3ig=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOXa7t2LaV_9tLamAqm1iFhut7bAMNxkhNKWbi4ChYNZG9xqi8DnwcNxl1EBTzzQ2j_A97N9ZWemoFKUdkloSv3g3LQVMwHZVUFwF3hY3aRmJt91nED5-VSoLIEuns0IMMPmigp4EYhfdzSEnGWdoRibmw4JVvVpbIusD7nsW-ZBbgj1lUDHUon31eXetgmyWxE93p"
+        }
+      ]
+    }
+  }
+}
