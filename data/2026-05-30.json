@@ -1,0 +1,454 @@
+{
+  "date": "2026-05-30",
+  "timestamp": 1780124156798,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran peace deal elusive amidst ongoing regional conflicts.",
+      "summary": "Peace talks between the US and Iran remain stalled, with President Trump claiming to be on the verge of a deal while Iranian officials deny a final agreement, amidst an ongoing conflict that has disrupted global energy supplies. The Israeli-Palestinian conflict continues to escalate, marked by hardened positions and persistent violence in Gaza and the West Bank, alongside Israeli military actions in Lebanon and Hezbollah attacks in Northern Israel.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4,
+          "severity": "red",
+          "detail": "Ongoing violence and humanitarian crisis amidst the Israeli-Palestinian conflict."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.96,
+          "lng": 35.23,
+          "severity": "red",
+          "detail": "Persistent unrest and violence in the context of the Israeli-Palestinian conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.38,
+          "severity": "red",
+          "detail": "Iranian officials are signaling no final agreement has been reached on a peace deal with the US, amidst ongoing conflict."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "US President Trump is negotiating a peace deal with Iran, while the US defense secretary asserts military capabilities for continued conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli forces have pushed deeper into Lebanon, and Hezbollah claims drone attacks on northern Israel."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.35,
+          "lng": 103.82,
+          "severity": "yellow",
+          "detail": "The Shangri-La Dialogue is underway, discussing rising geopolitical tensions, including the US-Iran conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "US Supreme Court ruling weakens Voting Rights Act.",
+      "summary": "The U.S. Supreme Court's April 29, 2026, ruling in `Louisiana v. Callais` struck down Louisiana's 2024 congressional map as an unconstitutional racial gerrymander. This decision is seen as weakening Section 2 of the Voting Rights Act, potentially reducing minority representation in Congress and other legislative bodies nationwide.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US Supreme Court delivered a ruling in `Louisiana v. Callais` that has implications for voting rights and racial gerrymandering."
+        },
+        {
+          "name": "Louisiana, USA",
+          "lat": 30.45,
+          "lng": -91.18,
+          "severity": "yellow",
+          "detail": "The Supreme Court struck down the state's 2024 congressional map due to unconstitutional racial gerrymandering."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe scorched by heatwave; dire WMO climate predictions.",
+      "summary": "Western Europe is experiencing an unusually early and deadly heatwave, with record temperatures in the UK and France, severely impacting forests. The World Meteorological Organization warns of a 91% chance global temperatures will exceed 1.5C in the next five years. Meanwhile, California faces criticism over changes to its climate program, and Maryland farmers are dealing with significant crop losses from an April freeze.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5,
+          "lng": -0.12,
+          "severity": "red",
+          "detail": "The UK set new daily heat records for May, with temperatures reaching 35.1C in London."
+        },
+        {
+          "name": "France (Western Europe)",
+          "lat": 46.6,
+          "lng": 1.88,
+          "severity": "red",
+          "detail": "Record-breaking heatwave with temperatures reaching 36C, and forests experiencing doubled tree mortality due to heat and drought."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.58,
+          "lng": -121.49,
+          "severity": "yellow",
+          "detail": "California air regulators updated a key climate program, drawing criticism from environmental groups who argue it weakens emissions reduction efforts."
+        },
+        {
+          "name": "Maryland, USA",
+          "lat": 39.04,
+          "lng": -76.64,
+          "severity": "yellow",
+          "detail": "Farmers are seeking federal aid after a devastating April freeze caused significant crop damage."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "green",
+          "detail": "China pledges sustained efforts to tackle environmental problems at local levels, showing overall improvements in environmental quality."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.36,
+          "lng": -71.05,
+          "severity": "yellow",
+          "detail": "A rare and powerful storm system is bringing unseasonably cold temperatures, strong winds, and potential snow to the region."
+        },
+        {
+          "name": "Wyoming, USA",
+          "lat": 43.07,
+          "lng": -107.29,
+          "severity": "green",
+          "detail": "A chance of rain with some severe storms is possible across the state."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak surges in Congo; Peru declares measles emergency.",
+      "summary": "A deadly Ebola outbreak, caused by the Bundibugyo virus, is surging in eastern Congo with over 1,000 suspected cases and 220 deaths, complicated by regional armed violence and spreading to Uganda. Concurrently, Peru has declared a 90-day health emergency due to a widespread measles epidemic, with hundreds of confirmed cases across multiple regions.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.44,
+          "lng": 15.26,
+          "severity": "red",
+          "detail": "The capital city of DR Congo is grappling with the wider implications of a surging Ebola outbreak in the eastern parts of the country."
+        },
+        {
+          "name": "Puno, Peru",
+          "lat": -15.84,
+          "lng": -70.02,
+          "severity": "red",
+          "detail": "The epicenter of a measles epidemic, with 295 confirmed cases and a declared 90-day health emergency."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "President Trump's administration is directing agencies to review a study calling for narrower childhood vaccine recommendations."
+        },
+        {
+          "name": "Monongalia County, West Virginia, USA",
+          "lat": 39.63,
+          "lng": -80,
+          "severity": "green",
+          "detail": "A Quick Response Team is showing success in connecting suspected overdose victims to treatment services."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.37,
+          "lng": 32.29,
+          "severity": "yellow",
+          "detail": "Neighboring Congo, Uganda has confirmed nine cases and one death related to the Ebola outbreak."
+        },
+        {
+          "name": "Ituri, DR Congo",
+          "lat": 1.63,
+          "lng": 29.87,
+          "severity": "red",
+          "detail": "A province in eastern Congo heavily affected by the Ebola outbreak, where armed groups hinder health efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Middle East conflict imperils global economy; inflation rises.",
+      "summary": "Global institutions are warning that the prolonged Middle East conflict, including disruptions in the Strait of Hormuz, is severely impacting global energy supplies, food security, and economic activity, leading to rapidly depleting oil inventories and rising inflation. The World Economic Forum reports that a vast majority of chief economists anticipate global growth to weaken over the next year, with inflation as a dominant risk.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Disruptions to shipping through this critical waterway are causing rapid depletion of global oil inventories and driving up energy prices."
+        },
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The ongoing conflict in the region is generating substantial and asymmetric impacts on global energy, food security, and economic activity."
+        },
+        {
+          "name": "China",
+          "lat": 35.86,
+          "lng": 104.19,
+          "severity": "yellow",
+          "detail": "China is actively expanding the use of its digital yuan domestically and internationally, positioning it as a potential competitor in global digital currency."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US is monitoring the economic impacts of global conflicts and potentially competing with China on digital currency standards."
+        },
+        {
+          "name": "Eurozone",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Consumer inflation and growth expectations are highly responsive to geopolitical conflicts, reinforcing fears about stagflation due to wars in Ukraine and Iran."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.37,
+          "lng": 69.34,
+          "severity": "yellow",
+          "detail": "The country's economy remains vulnerable to external oil shocks, with its petroleum import bill projected to rise significantly due to global energy disruptions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Supreme Court ruling impacts voting rights.",
+      "summary": "The U.S. Supreme Court's decision in `Louisiana v. Callais` has weakened Section 2 of the Voting Rights Act by striking down Louisiana's congressional map for racial gerrymandering. Critics argue this ruling sets a precedent that could reduce minority representation and condone partisan gerrymandering across the nation.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US Supreme Court issued a ruling impacting voting rights and the interpretation of the Voting Rights Act."
+        },
+        {
+          "name": "Louisiana, USA",
+          "lat": 30.45,
+          "lng": -91.18,
+          "severity": "yellow",
+          "detail": "The state's 2024 congressional map was struck down as an unconstitutional racial gerrymander by the Supreme Court."
+        },
+        {
+          "name": "Iowa, USA",
+          "lat": 41.87,
+          "lng": -93.09,
+          "severity": "green",
+          "detail": "Democrats are campaigning for a US Senate seat primary, reflecting ongoing electoral processes in the state."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ebola and measles outbreaks drive urgent humanitarian needs.",
+      "summary": "Urgent humanitarian aid is needed in eastern Congo due to a severe Ebola outbreak, exacerbated by ongoing armed violence and displacement hindering health responses. In Peru, a widespread measles epidemic is impacting vulnerable communities, prompting a health emergency declaration. Additionally, communities in Texas and Guam are seeking disaster relief following severe weather events.",
+      "regions": [
+        {
+          "name": "Ituri, DR Congo",
+          "lat": 1.63,
+          "lng": 29.87,
+          "severity": "red",
+          "detail": "The Ebola outbreak and armed violence are creating a complex humanitarian crisis, hindering aid efforts."
+        },
+        {
+          "name": "Puno, Peru",
+          "lat": -15.84,
+          "lng": -70.02,
+          "severity": "red",
+          "detail": "The epicenter of a measles epidemic affecting impoverished communities, requiring significant public health and humanitarian support."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31.96,
+          "lng": -99.9,
+          "severity": "yellow",
+          "detail": "Governor Abbott has requested federal disaster assistance for communities affected by recent severe storms."
+        },
+        {
+          "name": "Guam, USA",
+          "lat": 13.44,
+          "lng": 144.79,
+          "severity": "yellow",
+          "detail": "Army Emergency Relief has an active recovery response effort for Typhoon Sinlaku, providing financial assistance to soldiers and their families."
+        },
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "The prolonged conflict contributes to higher fuel and fertilizer prices, disproportionately affecting vulnerable countries and increasing humanitarian needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indepthnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuZblhGvMEBwl9ritl1A7FSGYeKaEit0SzJTCnJZ_iMQMaJ4WY7giEM-9VEojXgbe-tL61DVqc9cg7Eif3tNgDi4Jh2X6e0moRxXkOJ_N-nyTC2zAZ12w4yNhF8aluiVCUqVUcPP6fcRSu1IE8rV4Sfzt6d5SDMqekp0qsroaQIosAw4OdJBp8W3Jfdi2irGD"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43in2V4gazpI5xyWUSDbwp-bCDnx1txmucqMP6Q-UwtYjNx9lJt6czcNhFPWAdfaIkp_OAIrN1haZkG338zQ0G1p7uVfnTc8Ugp_NbFCQaYD-kk7d2oFj-O7CLDZBxImhvTbdx2Ij-q3-OH8dI3DFPGNjCrKarKlPWmlX8CQzCg52Br2Uyvl79Hc-ZioP6IP7"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRNQ8gxO2cFoW3t4Z9En3X9AENVjJNOGpdac65FoY8s6pDOv1f3IKekrcxVDEpWyYL1v3u2faZm215czLhWmyAsqnfSBCJ8TpF5PQHKf6naH4PcaE-LQNThewssVZGbcy_jLM6Ai1O0CR4VGaN2AFA-AaQpNOW3nNi2JkBpc4i3qhyWPpIr4wPeTygtcJn-Wq7UGjtBZJAwnXPrrgEsRTJD-IEuLW-trdPsj5"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEexwWsCbDJx6t73yC_9FnbGbXrb_ys3AF-McQjQySApevK2u1KZui1WUYiEIMWvBQNSPDqWGoJfCKwRiMphGMdIrxaKCabHyQfWHgfhdoZB6fIJ1CmHDiItzpWl3-dfRodmNp9f1vH2Dg4xB0E9nHwc6fo76ybFnWKVDQRzdJd25UvfWVSjUKBUQ8qZsbGUCIzDKe39w=="
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMmAPDTYzEIATOaITDN9z8ahsd9DmabIIgeYSkm1-4npGM0SFtSCXcOUqEQb3TIM4CQcA1qDUdthTERe7JAqwJYIyyI7a4bZ1NQpbZ-wqovZCWDbXlrMVvFIwf1i6vnCrSdYyZpZJyp6WfpW3xzXrV6WJVtlOjYpijIXmYByBFzqx1uCJUD-SX2eWDQVJxvW9aczIuTugD08Q2W-XJPvaW5NQVosFsJzIY7bCvgpgW9RX4Nh-z5tTmKI2OeakP-mEw4w=="
+        }
+      ]
+    }
+  }
+}
