@@ -1,0 +1,454 @@
+{
+  "date": "2026-05-31",
+  "timestamp": 1780211606972,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Escalating US-Iran conflict and Israel-Hezbollah fighting in Lebanon.",
+      "summary": "The 'Iran war' continues with reports of a US drone shot down by Iran and ongoing negotiations for a peace deal, though tensions remain high with blockades in the Strait of Hormuz. Simultaneously, the conflict between Israel and Hezbollah has escalated, with Israel expanding ground operations in southern Lebanon in response to drone and missile strikes.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran unveiled a new fast attack boat and shot down a US MQ-1 drone over its territorial waters."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Hezbollah launched drone and missile strikes, and Israel expanded ground operations in response, leading to civilian displacement."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The strait remains blockaded, impacting global oil and gas exports and is a key point in the US-Iran conflict."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump stated the US is ready for military action if a deal with Iran falls through."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Israel's military expanded ground operations in Lebanon following Hezbollah attacks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights concerns grow, US immigration detention conditions criticized.",
+      "summary": "A digital rights group in the Philippines released a report highlighting concerns about unequal internet access, AI exploitation, and technology-facilitated gender-based violence, urging stronger policies. In the US, a lawsuit was filed against ICE over 'dire' and 'squalid' conditions at an immigration detention facility, alleging severe human rights violations. Furthermore, censorship of Palestinian content on social media platforms remains a significant issue.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "A digital rights group released a report on concerns regarding digital inequality, AI exploitation, and technology-facilitated gender-based violence."
+        },
+        {
+          "name": "El Paso, USA",
+          "lat": 31.7619,
+          "lng": -106.485,
+          "severity": "red",
+          "detail": "A lawsuit was filed against ICE over 'dire' and 'squalid' conditions, including 'abhorrent medical and mental health care' at an immigration detention facility."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian security agencies are reportedly blocking two-factor authentication codes and monitoring digital footprints to detain activists."
+        },
+        {
+          "name": "Portland, USA",
+          "lat": 45.5152,
+          "lng": -122.6784,
+          "severity": "yellow",
+          "detail": "The Portland Police Bureau continued efforts against sex trafficking, safely recovering six juveniles."
+        },
+        {
+          "name": "Warsaw, Poland",
+          "lat": 52.2297,
+          "lng": 21.0122,
+          "severity": "yellow",
+          "detail": "Poland plans to restrict social media use for children under 15."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe hit by extreme heatwave, global temperatures remain high.",
+      "summary": "Western Europe is experiencing an 'unprecedented and historic' early heat dome, with record temperatures in the UK and France and red alerts in Rome, leading to a spike in hospitalizations. The World Meteorological Organization warns that global temperatures will stay 'at or near record levels' over the next five years, with an 86% chance one of those years will surpass 2024 as the hottest ever.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "The UK set a new daily heat record for May, with temperatures reaching 35.1°C."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "France is experiencing record-breaking heat, with temperatures climbing above seasonal norms."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "red",
+          "detail": "A red alert warning was issued for Rome due to the heatwave."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "New York City is hosting multiple climate change conferences in 2026 focusing on action and green energy transitions."
+        },
+        {
+          "name": "Hawaii, USA",
+          "lat": 19.8968,
+          "lng": -155.5828,
+          "severity": "yellow",
+          "detail": "Carbon dioxide in the atmosphere, measured at Mauna Loa, continues to rise."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO warns on youth tobacco addiction, hantavirus outbreak contained.",
+      "summary": "The World Health Organization (WHO) issued an urgent directive ahead of World No Tobacco Day, demanding governments protect children from rising tobacco and nicotine addiction, citing deliberate targeting by manufacturers. Separately, a cruise ship linked to a deadly hantavirus outbreak was cleared to sail again after cleaning, following 13 confirmed cases and three deaths. Nigeria is also seeing a surge in health risks from unverified herbal cures promoted on social media.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO issued a directive urging global governments to protect children from tobacco and nicotine addiction."
+        },
+        {
+          "name": "Rotterdam, Netherlands",
+          "lat": 51.9225,
+          "lng": 4.4791,
+          "severity": "yellow",
+          "detail": "A cruise ship that had a deadly hantavirus outbreak was cleared to sail after disinfection."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "PAHO highlighted progress in the Americas against tobacco use but warned about emerging nicotine products targeting youth."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Unverified herbal remedies promoted on social media are driving rising health risks and delayed treatment."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japan plans to ban the cannabis ingredient CBN from June due to reports of health hazards like hallucinations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Inflation surges globally due to Iran conflict; China's factory activity slows.",
+      "summary": "Global inflation pressures are mounting as the 'Iran war' drives up costs, squeezing incomes and pushing down savings rates in the US and Europe. China's factory activity slowed in May, raising questions about its economic resilience to the fallout from the ongoing conflict and demand pressures.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US consumer spending edged up as war-driven inflation pressures sapped incomes and pushed saving rates to an almost four-year low."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's factory activity was flat in May, raising questions about its economy's resilience to the Iran war fallout."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The closure of the Strait of Hormuz due to the Iran war is causing oil price surges and global inflationary pressures."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "South Africa's central bank raised borrowing costs for the first time since 2023, signaling more tightening if the Iran war continues."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The stock market is buzzing with excitement due to IPO season, and tech stocks are surging despite broader volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Ethiopia holds landslide election amidst human rights concerns.",
+      "summary": "Ethiopia is holding elections expected to be dominated by the ruling party, with concerns raised about human rights violations against critics and journalists, and insecurity affecting voter turnout in some regions. Separately, Japan's defence minister rebuffed claims of 'new militarism' from China, while pledging to strengthen its military capabilities.",
+      "regions": [
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "Ethiopia is holding national elections with concerns over a fragmented opposition and human rights issues."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japan's defence minister pledged to strengthen military capabilities, rebuffing China's accusations of 'new militarism'."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China criticized Japan's increasingly muscular security stance, accusing Tokyo of 'new militarism'."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "green",
+          "detail": "Nepal's new government launched an ambitious digital governance reform drive to improve public services."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "green",
+          "detail": "The first round of elections to replace President Gustavo Petro, known for climate initiatives, is taking place."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Gaza aid blocked in Libya as global humanitarian needs rise.",
+      "summary": "A Gaza-bound activist land convoy was dissolved in Libya, denied entry, and activists were arrested, highlighting ongoing challenges in delivering aid. The international humanitarian system is under severe pressure with needs at an all-time high in 2026, particularly in Gaza, Ukraine, and Sudan, where 239 million people require assistance.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian aid is urgently needed, but access remains challenging, with only one crossing operational."
+        },
+        {
+          "name": "Tripoli, Libya",
+          "lat": 32.8872,
+          "lng": 13.5887,
+          "severity": "yellow",
+          "detail": "A Gaza-bound activist land convoy was blocked from entering eastern Libya, and activists were arrested."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "yellow",
+          "detail": "Sudan is identified as a region with high humanitarian needs due to ongoing conflicts."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine continues to be a region with significant humanitarian needs due to conflict."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8048,
+          "lng": 96.1561,
+          "severity": "yellow",
+          "detail": "Humanitarian partners reached 1.6 million people in Myanmar as of March 2026, making early progress against annual targets despite operational constraints."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wanaen.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkfln0sy2UFq0fYCp9YK2SjhrYxbTTM7e-BjrID270nAAMkTguc5hmPUmfH1J6lf6DZuIJmOk1AyQKKFd_zjPIL2uiE_tnjlU5lJSh2O7VMxM0W6GIPjs2-ydZapuLrwR9bihMnTGCat3_nO6fi3k7uForcFyrx7DXTC_oPWooi_M"
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwu-rT48QjtJGQuK0uU7zRxzHXfB0bwLH6gUFLlyc8f7aCs1kZvAXa5o33OKz0clSBs4wN7BZpYeODrhgNIuTjkS6eKiavOuzOsmhK4nS65sB3gWZ-Dlft1CPrchir_UyPPPl0A=="
+        },
+        {
+          "title": "newindianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3EHOGtKs4uum94VRQWo_PF2FExhOXwYttSrtxfh52nDiiZs0Vh2014LvhAT3Uws0jd5ofmC_p4b7vs3QgRhBolCxIilwVt2PdM29C0I-wlfKo8dPkXOeCSRQabYAR86NF7xH0AcXjl6Z8kX3UJksFRqzdRN4_sgVp3OEXiDp9Hv2C7Ihq-dPOSl6nhAxm63KTLGh21i6ry5eZpf97"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfK08Skb-IYqKInVx1xNWzh5da-vMT2nGr7eqVn94chKEFaBaL-0rcHSWCmZO7MZe_WLFxcv7xYPs-456j5QwUOuA0qIeoO3QtR3Nz4PNQN_nGveIAGYHTdEDF-RERtUMgNbo7hSwDIcXVwM5Yt6J_fQSpfoe8l-hzPmpkTw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa97FOzOZSboVIDeV8S4S2Zsn7COle5qyoFg6H2f3nlZClKoXcfiatdSqOWlmNZZywrj7fQp0C9ZbTH3netnVE-VVm8PhoIkJZY5mP8ZNNB5_TSJ5ZaUgqQBopys3adRcfYtUoq-8x_CwHRLlKs8v_RtoRhnQbSTEBEPJHRz6LSGjNNK2orDG-Jtyl9RA7ct9fZy85w7b3PT6rldvy6wXKRFNRT57wZY6ODygX1u21oQFrf6iqIF4NH92BAbY4i_8gDqa7uhDLCb4dKTJjKwSvoh3QfBDzlkvyDHCcfv1Hc4AKP2L4M6q1_67kXW7eqjmXGdKWyaVtSTSxfA5ZhulcNOl17sw6iKRmqJ5d4knU02gnRd8U7rJgi6vY94-H7Pen4IKD3UsFEUXVwXPk0qwt"
+        }
+      ]
+    }
+  }
+}
