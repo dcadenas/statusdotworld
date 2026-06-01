@@ -1,0 +1,405 @@
+{
+  "date": "2026-06-01",
+  "timestamp": 1780299423168,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates; Israel expands Lebanon offensive; Sudan drone strikes kill dozens",
+      "summary": "The US and Iran exchanged retaliatory strikes on June 1, with the US targeting Iranian radar and drone sites and Iran claiming to have targeted a US air base, amidst fragile ceasefire negotiations. Concurrently, Israel has significantly expanded its ground offensive in southern Lebanon, pushing beyond the Litani River and seizing strategic locations, which has been condemned internationally. In Sudan, nearly 70 civilians were killed in drone attacks in the Kordofan region, while the conflict in Gaza continues with ongoing humanitarian crises and recent casualties.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US strikes targeted Iranian radar and drone sites, and Iran claimed to have targeted a US air base in retaliation."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israel's expanded ground offensive in southern Lebanon is intensifying the conflict, with European leaders condemning the actions and the UN Security Council holding a meeting."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait reported intercepting missile and drone attacks amidst the escalating regional tensions."
+        },
+        {
+          "name": "Kordofan, Sudan",
+          "lat": 12.8628,
+          "lng": 30.2176,
+          "severity": "red",
+          "detail": "Drone attacks killed nearly 70 civilians in villages like Kadam and Al-Murra, exacerbating the humanitarian crisis."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4668,
+          "severity": "red",
+          "detail": "One Palestinian was killed and eight others injured by Israeli army fire in the last 24 hours, amid ongoing humanitarian suffering."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian President Zelenskyy warned of a deepening shortage of antimissile systems due to the US focus on the Iran conflict."
+        },
+        {
+          "name": "Goruk, Iran",
+          "lat": 26.5417,
+          "lng": 57.0792,
+          "severity": "red",
+          "detail": "US Central Command conducted self-defense strikes on Iranian radar and drone control sites."
+        },
+        {
+          "name": "Qeshm Island, Iran",
+          "lat": 26.8525,
+          "lng": 56.1264,
+          "severity": "red",
+          "detail": "US Central Command conducted self-defense strikes on Iranian radar and drone control sites."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Malian critic missing; Ebola patient relocation condemned; Ocean protection tied to rights",
+      "summary": "A prominent Malian lawyer and government critic, Mountaga Tall, remains missing a month after his abduction, raising fears of enforced disappearance and continued crackdown on dissent by the junta. International human rights advocates condemned a proposed plan to relocate US citizens with Ebola exposure to Kenya, citing a breach of constitutional rights and duty of care. Greenpeace released a report emphasizing that effective ocean protection requires placing human rights, particularly those of Indigenous Peoples and local communities, at the center of marine conservation efforts.",
+      "regions": [
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9975,
+          "severity": "red",
+          "detail": "Prominent lawyer and government critic Mountaga Tall remains missing a month after his abduction by unidentified gunmen."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "International human rights advocates condemned a proposed plan to relocate US citizens with Ebola exposure to Kenya, citing human rights concerns."
+        },
+        {
+          "name": "Kenya",
+          "lat": 0.0236,
+          "lng": 37.9062,
+          "severity": "yellow",
+          "detail": "A proposed plan to transport US citizens with Ebola exposure to Kenya for observation and treatment drew condemnation from human rights advocates."
+        },
+        {
+          "name": "Amsterdam, Netherlands",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "severity": "green",
+          "detail": "Greenpeace International launched a report advocating for a human rights-based approach to marine conservation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Sudan's food crisis deepens due to conflict and climate impacts",
+      "summary": "Sudan is bracing for a rise in child malnutrition as the lean or pre-harvest season starts, with agriculture severely impacted by over three years of war combined with climate pressures. Forecasts indicate further declines in cereal production, which will exacerbate the acute food insecurity already faced by 19 million people. This situation highlights the compounding effects of conflict and climate change on vulnerable populations.",
+      "regions": [
+        {
+          "name": "Gedaref, Sudan",
+          "lat": 14.0305,
+          "lng": 35.3789,
+          "severity": "red",
+          "detail": "Overcrowded nutrition clinics are treating growing numbers of malnourished children due to decimated farming and food shortages."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The ongoing conflict, alongside climate pressures, has contributed to widespread displacement and food insecurity across the country."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak alarming in DRC; US patient relocation criticized",
+      "summary": "The current Ebola virus disease outbreak in the Democratic Republic of Congo is described as 'deeply alarming,' with reports of over 1,000 suspected cases and more than 200 deaths within eleven days. Separately, international human rights advocates have condemned a proposed plan to transport US citizens with Ebola exposure to Kenya for observation and treatment, raising concerns about a breach of the government's duty of care and constitutional rights.",
+      "regions": [
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -0.228,
+          "lng": 22.9734,
+          "severity": "red",
+          "detail": "An alarming Ebola outbreak is ongoing, with over 1,000 suspected cases and more than 200 deaths reported in just eleven days."
+        },
+        {
+          "name": "Kenya",
+          "lat": 0.0236,
+          "lng": 37.9062,
+          "severity": "yellow",
+          "detail": "A proposed plan to relocate US citizens with Ebola exposure to Kenya for treatment has drawn strong condemnation from human rights advocates."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Human rights advocates expressed profound concern regarding the proposed relocation of Ebola-exposed US citizens, citing legal and ethical breaches."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces geopolitical and AI inequality risks; AI rally continues",
+      "summary": "The global economic outlook has deteriorated due to ongoing conflict in the Middle East and concerns over the closure of the Strait of Hormuz, which are fueling global inflation fears and disrupting supply chains. The International Monetary Fund (IMF) warned that while AI can significantly boost global GDP, it also risks increasing income and property inequality by concentrating wealth. Despite these geopolitical and social concerns, enthusiasm for AI and strong corporate earnings continued to drive stock markets to record highs in several Asian and North American markets.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5505,
+          "lng": 56.4025,
+          "severity": "red",
+          "detail": "The closure or threats of closure due to Middle East conflict continue to disrupt global energy supplies and supply chains, impacting the global economy."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Investors are focused on ISM manufacturing data and non-farm payrolls, while the AI rally continues to drive equity markets."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Stock markets hit fresh record highs, driven by investor enthusiasm over the artificial intelligence boom."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "The Kospi index jumped nearly 5% to an all-time high, fueled by strong global demand for semiconductors and AI optimism."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Domestic markets opened cautiously higher, with gains capped by uncertainty surrounding the Iran war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Ethiopian elections spark security and communication warnings",
+      "summary": "National elections in Ethiopia on June 1 are accompanied by increased police presence, security checkpoints, and warnings about potential demonstrations or large gatherings. The U.S. Embassy advised citizens to prepare for possible internet, mobile network, and social media disruptions. In Mali, a prominent lawyer and government critic remains missing, highlighting the junta's ongoing crackdown on dissent.",
+      "regions": [
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "National elections are underway with increased police presence, security checkpoints, and warnings about potential civil unrest and communication disruptions."
+        },
+        {
+          "name": "Mali",
+          "lat": 17.5707,
+          "lng": -3.9962,
+          "severity": "red",
+          "detail": "A prominent lawyer and government critic remains missing a month after his abduction, indicative of the junta's continued crackdown on dissent."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan, Gaza face severe humanitarian crises; aid appeals largely unmet",
+      "summary": "Sudan is grappling with a severe child malnutrition crisis exacerbated by over three years of conflict and climate pressures, with only 22% of the $2.9 billion UN appeal for 2026 covered. The Gaza Strip remains a catastrophic humanitarian situation, marked by hunger, disease risk, collapsing water systems, and severe aid shortages, with over 70,000 Palestinians killed. Humanitarian organizations are also calling for safe and unimpeded access to deliver life-saving aid in southern Lebanon amid intensified Israeli offensives.",
+      "regions": [
+        {
+          "name": "Gedaref, Sudan",
+          "lat": 14.0305,
+          "lng": 35.3789,
+          "severity": "red",
+          "detail": "Overcrowded nutrition clinics highlight the severe child malnutrition crisis and the urgent need for increased humanitarian funding."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The ongoing conflict is driving the world's largest displacement crisis and acute food insecurity, with only a fraction of the UN appeal met."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4668,
+          "severity": "red",
+          "detail": "The territory continues to face a humanitarian catastrophe with widespread hunger, disease, and severe aid shortages, and a peace plan's reconstruction fund remains empty."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.3,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Humanitarian organizations are calling for safe, timely, and unimpeded access to deliver aid amidst intensifying Israeli military operations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJch5raznvemqDGVpRCyy849QRPRUnxjsy72g1RSByNx7OBk1IsMwNMFtU5yKH7S-38E7Hp8bdBHyXNWp505gXEPYsWqHZOZiG-wtXjZsVcyX1tmQx5CZrX61869JBYn0c1bZpd-uJ87d-kzjIjTeJkKv3RsMkZPoUOD73WtBOSAnPsyrxe4XtQRPGNL_qohyvqFrGuS8iGZrqQ3H5tvthpO9L5pix303oq5l_8MosvDE97tCh_FKiZ9mYJiDpxb7JafyB38o2vUV0TOeBvvt8lp0UV1Enpr0idCGyzGX1kFkbqCcR16I4JSxSJCuXE4q3"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7191aTei0BfORdhSQ2U15l2DS0w0i791KS9DRm5xSSwAg16Hkz83A8YhJOCgQ9NgQdB-by4_hShLgGEtKpnwxo5vrT_Z9a5xCilp3Fx24_7l6Y6v8BCaXaI6zqCQOXURD42662T1weuse3FFQjGk_oyXdIv_cD6oYZa-1scI="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpJOyObh7zj81Xnaeu5bZaiMlYmlnd349V_iOT6v6W7oUA-rzMMPyR-y2ZLV7wwJXstIYVWwf8Kl9NlrXHVlHUdJR4zVvnpkTlD6vsY4jXJQdW90gmZDzVYFl8al0xteuwm3Q16423EckrhwXLr0i3l95UOhqyKmAChqrZlD4EH_RjIz9IMSfGcvY-_hfA3e3OoFI381Wtdk2PKYFx8xMei5pHC-UpOgE1CPpkQyqA4bJPrXNHaBY_mpaOkLK4cpd0EapeTmCfqHiXiGp"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIZRgkjp370CFHd1nkcjDm3rnpizwiWxRck6GmYXfNtjA7twlgZPBwMBRmYb9i7VDz-47hv9K7pGptrM4y1YMdG6WOdu3E7mVefLbd0d8HIEtBFfZ3_Z-Hp971Iz_7z4kRvrD6zM9JGue68pCFzXWSBygsRPn4aMJFS4wCMiw6fe3Ijg9As0tuiF-9tNLVJj16u1PLvK11"
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7HruMZgcxjxq8COKgE5rozikP5ijWWeWjr8kY0vN4lBDxPTIF_Rd1e8ciFuWeW8WFlcr3UYPbpII6rLUNXuVsiMya8bx6LXVJn74BYY1ngJgBOBUdRoADIoVqpE9W8NZZkhw1YkUy"
+        }
+      ]
+    }
+  }
+}
