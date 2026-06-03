@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-03",
+  "timestamp": 1780472049797,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Mideast conflicts escalate; Gulf trade disrupted.",
+      "summary": "Intense fighting persists between Israel and Hezbollah in southern Lebanon, with Israeli forces advancing. Iran has launched missiles into Kuwait and Bahrain, provoking U.S. strikes and prompting the closure of the Strait of Hormuz, severely disrupting global shipping.",
+      "regions": [
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli military and Hezbollah clashes continue."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes on \"terror targets\" in southern suburbs."
+        },
+        {
+          "name": "Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Continues military operations against Hezbollah."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Hit by Iranian missiles, Kuwait Airport closed."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Struck by Iranian missiles."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Fired missiles into Kuwait and Bahrain, U.S. strikes on Iranian facility."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Closure disrupts global trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Tibet abuses probed; Iran executions condemned.",
+      "summary": "US lawmakers introduce a bill to investigate alleged human rights abuses by China in Tibet. Meanwhile, Iran continues to execute political prisoners, with 37 reported since March 2026, drawing international condemnation. Concerns are also rising over Zambia's digital rights following its cancellation of a major summit due to Chinese influence.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US lawmakers introduce bill regarding alleged abuses in Tibet."
+        },
+        {
+          "name": "Lhasa, Tibet, China",
+          "lat": 29.6475,
+          "lng": 91.1172,
+          "severity": "yellow",
+          "detail": "Site of alleged human rights abuses."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Political prisoners executed; protests against policies."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3228,
+          "severity": "yellow",
+          "detail": "Human rights summit cancelled due to external pressure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "UN warns of El Niño intensification; UK sets new emissions goal.",
+      "summary": "The UN predicts an 80% chance of a new El Niño event developing, which will intensify global warming, leading to more extreme weather events like heatwaves and droughts. The UK has established a new legally binding target to cut greenhouse gas emissions by 87% by 2040. Separately, a youth lawsuit challenging fossil fuel expansion in the US was rejected by a federal court.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "El Niño expected to cause extreme weather worldwide."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Sets ambitious emissions reduction target."
+        },
+        {
+          "name": "Missoula, Montana, United States",
+          "lat": 46.8721,
+          "lng": -113.994,
+          "severity": "yellow",
+          "detail": "Youth climate lawsuit challenging fossil fuel expansion rejected."
+        },
+        {
+          "name": "Kahaluu-Keauhou, Hawaii, United States",
+          "lat": 19.6,
+          "lng": -155.95,
+          "severity": "green",
+          "detail": "Magnitude-4.6 earthquake occurred nearby."
+        },
+        {
+          "name": "Mount Ibu, North Maluku, Indonesia",
+          "lat": 1.488,
+          "lng": 127.635,
+          "severity": "yellow",
+          "detail": "Erupted multiple times."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Experiencing abnormal dryness and drought."
+        },
+        {
+          "name": "Luanda, Angola",
+          "lat": -8.8368,
+          "lng": 13.2343,
+          "severity": "yellow",
+          "detail": "Experiencing abnormal dryness and drought."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "yellow",
+          "detail": "Inundation continues in Sudd wetlands."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola and Hantavirus outbreaks declared emergencies.",
+      "summary": "The WHO declared an Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency. A Hantavirus cluster originating from a South Atlantic cruise ship has spread across over 20 countries. Experts warn of cracks in the global public health system due to diminished funding and leadership.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Ebola outbreak declared public health emergency."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "Ebola outbreak declared public health emergency."
+        },
+        {
+          "name": "South Atlantic Ocean",
+          "lat": -25,
+          "lng": -10,
+          "severity": "yellow",
+          "detail": "Hantavirus cluster identified on a cruise ship."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns raised over CDC funding cuts impacting public health."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Hantavirus being tracked across over 20 countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mideast conflict slows global economic growth.",
+      "summary": "The OECD forecasts a slowdown in global economic growth to 2.8% in 2026, citing the ongoing Middle East conflict as the primary factor. This conflict has also fueled concerns about persistent inflation due to higher crude oil prices and unsettled gold markets. Despite this, the U.S. economy shows resilience with a rise in job openings.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Conflict impacting global economic outlook."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Projected slower economic growth."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "U.S. economy shows resilience with high job openings."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "OECD headquarters, released economic outlook."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns, Zambia digital rights erode.",
+      "summary": "Analyses in 2026 indicate ongoing democratic backsliding in the United States, marked by executive overreach and declining civil rights. Zambia's cancellation of a digital rights summit, influenced by China, raises significant concerns about democratic erosion and foreign interference. A conference in Rome is actively discussing the rise of authoritarianism and polarization impacting democratic societies.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns about democratic backsliding."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3228,
+          "severity": "yellow",
+          "detail": "Human rights summit cancelled, raises democratic erosion concerns."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Conference on 'Business, Fascism, and the Erosion of Democracy' is being held."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Seminar held on human rights and democratic values."
+        },
+        {
+          "name": "Sacramento, California, United States",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "Primary elections were held."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "UN urges stronger mediation amid complex crises.",
+      "summary": "Djibouti has called for strengthening UN mediation and preventive diplomacy to address complex and prolonged armed conflicts and geopolitical tensions globally. The UN chief has proposed options to de-escalate the Israel-Hezbollah conflict in southern Lebanon, where the security situation remains precarious. The ongoing Ebola outbreak in the Democratic Republic of Congo and Uganda also demands intensified humanitarian efforts from international bodies.",
+      "regions": [
+        {
+          "name": "Djibouti City, Djibouti",
+          "lat": 11.8251,
+          "lng": 42.5903,
+          "severity": "green",
+          "detail": "Calls on international community to strengthen UN mediation."
+        },
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "yellow",
+          "detail": "Deteriorating security situation due to conflict."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Ebola outbreak requires scaled-up humanitarian response."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Ebola outbreak requires scaled-up humanitarian response."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "UN discussions on mediation and peacekeeping."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWhY1neJcbVGb9hUY_GePviHzscHNbqwGI5eXFytZKKciyBBV4liG_rxe3PeNkvLnbjdfp9aiVJT4aYZiS6TseqTin3jIRcMBFOsY1X4qA1LKRzMVTPtA7a_vssusZk0qRNTUvSV4-J5ay7gYQsvFNwTwjUZQ7cL0PASG-l5jerctU2kjJaGmcNaIkWKVR-zqjHtadkc9PtuH3N9yA"
+        },
+        {
+          "title": "timeskuwait.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xZLevmcFkJZhNRSj2rQAn_B27We1hEEZn3qN2A-KYGzC0kbj3X7k3SFG9p4jEXfYugh1QCumJKOO3PK7HICvTDP_MpBR7FHtP4fpAc0NPCWAdnWvNRNw1LKAtA2Ain6JJWH2Jqw-chNRNA6lXx7URtOgyxSz8SwrAgNcf46TM1M1g7HGjsD70ojcvqtZNGSQQbABFBULkXmcaTjWTwbzdU-tEvQ="
+        },
+        {
+          "title": "gpb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOpTGOWjG0av6homGH74_pIGcJvnmuJgQDqLRW-njkTre9GxN40uY1TxT5muLX4c7HkOTaccob8fUQDVWuBrGGqQBhy6Y77mfyM90nDXv8QI9Zpc2EDOVT8YMoi1Y8N-oWPFnItvocaoo5nm0kSuYZqVXRg81CL2K85AfLKvWFGOUt9Ecltf1p3juyB-weBX5KmJP4AgG9nIU0eXs3zIJLXQ=="
+        },
+        {
+          "title": "newsonair.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-213xXe8OD058G7rF9DBGlzPuHkai0hk9lWWgD6zr7DXNWlFWynEKfhAdKHb66BPQoJz2jyURpX3D0H8jOj-mhcGwjoJCTwS-JR6W9xwZc-abqIJeP1Bykmf2jzJEQmbFluqm58zDLuWwiTNRl4nd-gMxQM3yydWb4978vTZugGFKcDo7BUNa9-DfRj3_FRErKVwOyUhKvYF5g7Qehd93YAhOA1Bq"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjrhurhWoacsVHHUSe7maVA3OiXA15IqaS8jOWym7l5BJMVnXl1unSBP8G3fPIGzf39Hnwg3OnkhvesQPy34UHxoCuuRdanMRxL5iFiPdsMvWpBY8lc1LuwFgMqsnJ43tY4bxJFwNUfnTLr61z7xL0tsXl0-3YzVFqrGF2VqVX8OzITasd8vccV7tYkXWRaAPSZ-o="
+        }
+      ]
+    }
+  }
+}
