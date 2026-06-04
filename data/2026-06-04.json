@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-04",
+  "timestamp": 1780558272644,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran war escalates with Kuwait airport attack, Israel-Lebanon fighting continues.",
+      "summary": "An Iranian missile and drone attack hit Kuwait International Airport, killing one and wounding dozens, escalating the ongoing war involving Iran and the U.S. Despite a renewed ceasefire, hostilities persist between Israel and Lebanon, marked by Hezbollah rocket attacks and an Israeli airstrike that killed a Lebanese soldier. Negotiations between the U.S. and Iran have made no tangible progress, according to Iran's foreign minister.",
+      "regions": [
+        {
+          "name": "Kuwait International Airport, Kuwait City, Kuwait",
+          "lat": 29.2267,
+          "lng": 47.9699,
+          "severity": "red",
+          "detail": "An Iranian missile and drone attack hit the airport, killing one person and wounding dozens."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "An Israeli airstrike killed a Lebanese soldier near Nabatieh, amidst ongoing conflict."
+        },
+        {
+          "name": "Northern Israel",
+          "lat": 32.7833,
+          "lng": 35,
+          "severity": "yellow",
+          "detail": "Hezbollah conducted rocket attacks targeting the Israel Defense Forces for the first time since June 1."
+        },
+        {
+          "name": "Qeshm Island, Iran",
+          "lat": 26.9142,
+          "lng": 55.8569,
+          "severity": "yellow",
+          "detail": "U.S. forces conducted self-defense strikes against drone ground control stations."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "yellow",
+          "detail": "U.S. and Bahraini forces intercepted missiles, with Iran reportedly targeting the U.S. Navy's 5th Fleet headquarters."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The House passed a measure to force President Trump to end the war with Iran without congressional authorization."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49,
+          "lng": 32,
+          "severity": "yellow",
+          "detail": "A UN envoy highlighted the growing toll of the Ukraine-Russia war, particularly on children."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Trump's voluntary AI cybersecurity order sparks debate, Ring faces privacy lawsuit.",
+      "summary": "President Trump signed an executive order promoting a voluntary framework for AI cybersecurity, allowing developers to submit models for government review instead of mandatory safety tests. This 'hands-off' approach has raised concerns about tech innovation and privacy. Concurrently, Amazon Ring faces a class-action lawsuit in Seattle over its facial recognition technology, accused of violating privacy by scanning all passersby without consent.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump signed an executive order on AI cybersecurity, emphasizing voluntary industry cooperation."
+        },
+        {
+          "name": "Seattle, Washington, United States",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "yellow",
+          "detail": "A class-action lawsuit was filed against Amazon Ring concerning privacy violations by its facial recognition feature."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The U.S. Embassy in Singapore marked the 37th anniversary of the Tiananmen Square Massacre, remembering those who sought democratic reforms."
+        },
+        {
+          "name": "Illinois, United States",
+          "lat": 40.6331,
+          "lng": -89.3985,
+          "severity": "yellow",
+          "detail": "A new bill aims to limit how social media companies can target feeds to children, addressing concerns about youth mental health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "US dismantles ocean sensors, Asia faces severe drought and El Nino threat.",
+      "summary": "The Trump administration decided to dismantle most of a $386 million federal ocean-observing network, which will remove a crucial source of data for understanding climate change and coastal flooding. Across Asia, dry weather is disrupting crop planting and raising concerns about food supplies, exacerbated by an expected severe El Nino weather pattern. Additionally, a study indicates that climate change-induced heat conditions could impact most matches at the 2026 FIFA World Cup.",
+      "regions": [
+        {
+          "name": "Atlantic Ocean, United States",
+          "lat": 30,
+          "lng": -70,
+          "severity": "yellow",
+          "detail": "Federal ocean-observing network infrastructure is being removed, impacting climate data collection."
+        },
+        {
+          "name": "Pacific Ocean, United States",
+          "lat": 35,
+          "lng": -130,
+          "severity": "yellow",
+          "detail": "Most of the federal ocean-observing network in the Pacific is being dismantled."
+        },
+        {
+          "name": "India (Northwestern Plains)",
+          "lat": 28,
+          "lng": 77,
+          "severity": "yellow",
+          "detail": "Hot and dry weather is disrupting crop planting, raising concerns about food supplies."
+        },
+        {
+          "name": "Thailand",
+          "lat": 15.87,
+          "lng": 100.9925,
+          "severity": "yellow",
+          "detail": "Rice fields are affected by below-normal rains and hot weather."
+        },
+        {
+          "name": "Indonesia",
+          "lat": -0.7893,
+          "lng": 113.9213,
+          "severity": "yellow",
+          "detail": "Palm oil plantations are experiencing disruptions due to dry weather."
+        },
+        {
+          "name": "Eastern Dakotas, United States",
+          "lat": 44,
+          "lng": -98,
+          "severity": "yellow",
+          "detail": "Severe thunderstorms and flooding threats are forecast through Thursday."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "green",
+          "detail": "The Rockefeller Foundation awarded a grant to deliver Bangkok Climate Action Week."
+        },
+        {
+          "name": "New Zealand",
+          "lat": -40.9006,
+          "lng": 174.886,
+          "severity": "green",
+          "detail": "Cabinet documents reveal a rift between the climate minister and his ministry over ETS setting updates."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO warns on unsafe food; US public health system faces deep cuts.",
+      "summary": "A new World Health Organization report highlights that unsafe food causes 866 million illnesses and 1.5 million deaths annually, with young children in Africa and South-East Asia at the highest risk. Meanwhile, a Center for American Progress report warns that the U.S. public health system is being dismantled through significant federal health research cuts and the suspension of a maternal health tracking system. Globally, health experts are urging FIFA to end its partnership with Coca-Cola by 2030, citing the link between sugary drink consumption and rising rates of diet-related diseases.",
+      "regions": [
+        {
+          "name": "Global (Africa, Southeast Asia)",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "These regions face the greatest burden of foodborne diseases, with young children being particularly vulnerable."
+        },
+        {
+          "name": "United States (National)",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "A report warns of deep cuts to the public health system, including NIH research grants and maternal health programs."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Escalating violence continues to hamper efforts to fight an ongoing Ebola outbreak."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "yellow",
+          "detail": "The U.S. is supporting the regional response to the Ebola outbreak."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A coalition of global health experts is demanding FIFA end its partnership with Coca-Cola during the World Cup."
+        },
+        {
+          "name": "Rochester, New York, United States",
+          "lat": 43.1566,
+          "lng": -77.6088,
+          "severity": "green",
+          "detail": "Discussions focused on youth mental health challenges and community support initiatives."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices dip on Middle East ceasefire hopes; Asia crops hit by drought.",
+      "summary": "Oil prices fell as a renewed ceasefire deal between Israel and Lebanon boosted hopes for a broader agreement to end the U.S.-Israeli war with Iran, which could lead to the reopening of the Strait of Hormuz. However, the ongoing conflict is contributing to fertilizer and diesel shortages, disrupting crop planting across Asia and causing wheat and rice prices to rise. In the United States, the Small Business Administration is providing low-interest federal disaster loans to residents and businesses affected by recent severe weather.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Middle East",
+          "lat": 26.5,
+          "lng": 56.25,
+          "severity": "yellow",
+          "detail": "Potential reopening of this key shipping channel for oil and gas is influencing global oil prices."
+        },
+        {
+          "name": "Asia (India, Thailand, Indonesia, Australia)",
+          "lat": 10,
+          "lng": 100,
+          "severity": "yellow",
+          "detail": "Dry weather, severe El Nino, and the Iran war are disrupting crop planting and driving up food prices."
+        },
+        {
+          "name": "Cameron County, Texas, United States",
+          "lat": 26.0683,
+          "lng": -97.4334,
+          "severity": "green",
+          "detail": "The Small Business Administration is offering low-interest federal disaster loans to residents and businesses affected by severe weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Seoul mayoral election hit by ballot shortages and fraud allegations.",
+      "summary": "The Seoul mayoral election experienced significant disruptions due to ballot shortages at polling stations, leading to voting delays and protests alleging election fraud. The National Election Commission apologized, acknowledging that the incident undermined public trust in the fairness of the election. This event highlights ongoing challenges to democratic integrity and public confidence in electoral processes.",
+      "regions": [
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "The mayoral election was marred by ballot shortages and protests over alleged election fraud."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "An opinion piece emphasized the continuous effort required to reinvigorate American democracy."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The Philippines lost its bid for a non-permanent seat on the UN Security Council, reaffirming its commitment to a rules-based international order."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "Germany failed to secure a non-permanent seat on the UN Security Council, attributed partly to international backlash over its support for Israel."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Gaza receives aid convoy, Walmart expands US disaster relief fleet.",
+      "summary": "The 207th 'Zad Al Ezza… From Egypt to Gaza' aid convoy successfully entered the Gaza Strip, delivering over 2,400 tons of essential humanitarian assistance. This relief comes amid reports of violence continuing to hamper Ebola response efforts in the Democratic Republic of Congo and delays in aid delivery to Gaza due to new Israeli screening procedures. In the U.S., Walmart announced a $10.8 million philanthropic investment to expand a national disaster response fleet, aiming to accelerate critical relief to communities across the country.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "An aid convoy delivered over 2,400 tons of humanitarian assistance, but aid deliveries continue to face challenges."
+        },
+        {
+          "name": "Rafah, Egypt",
+          "lat": 31.2827,
+          "lng": 34.2543,
+          "severity": "yellow",
+          "detail": "The Egyptian Red Crescent facilitated the entry of humanitarian aid into the Gaza Strip."
+        },
+        {
+          "name": "Eastern Democratic Republic of the Congo",
+          "lat": -0.5,
+          "lng": 28,
+          "severity": "red",
+          "detail": "Escalating violence continues to impact civilians and efforts to fight Ebola."
+        },
+        {
+          "name": "Bentonville, Arkansas, United States",
+          "lat": 36.3656,
+          "lng": -94.2088,
+          "severity": "green",
+          "detail": "Walmart announced a $10.8 million investment to expand a national disaster response fleet across the U.S."
+        },
+        {
+          "name": "Maui, Hawaii, United States",
+          "lat": 20.7984,
+          "lng": -156.3319,
+          "severity": "green",
+          "detail": "Residents were reminded to apply for disaster-related unemployment assistance."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "yellow",
+          "detail": "Aid reaches millions despite worsening insecurity, restricted access, and severe funding shortages."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepZ8lcIZgDk98YY6jH2cybDHkHo2q-NQ4YE1dut_V6wYjT46oSXHtyVrz7ZMLlFygV_O7bRiLvP1nOBJr_JJdokmWfa19lsK0nZgXLmPdu3YmMfjt8rKx9HbQnUHhxESplcqdqAheWelaYfc0zhjy-H8nBLchseNeA1csRW6WARN7kx7t_3q00tWUBaRpfYOkueQVgnUbueJm3wHkIGB9VQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpDZjEqqzcUQaM2uZMsJy-3BPDFR9X3hDMgMfmSJIN_NH_Cn8syM76siJoUtUOgBel9Q1m8Ykgjkx4mVhzUk4JCH-FCV9DhgbKky_xZQ1MpshoGL70tSZbtQA0kQOHR4WXbJSehFSJ3dOHxSSkS29BtY_Jl0SwQ5QM48orW3i0nEZfmczfWsiWRZBQxC2Y3uiNL2RqdlFilM--w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPSJ5GDkmgd1-k9dJbiI1TkEiCru8OcwmaUGRByKcpNkODPKA6BKjdKQjEtQimHBQjpHULufcp3oInu5TulfY83YPF-MANrcXXQyBn6V8ZnZdIqwVGDZVKcGhzkp_zOURCqWHAw3OBp1v76IpH9vvNHkryMWOycnS6Bm4t8zoNAdUD46VAJ2q5inIjrE0Ha0M74tjr"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhpeDIMQ82KYzR36FoebdvvWSVUS3FGNEHiR3eKKWgdFGbuSW9fGgA6Q-8IhupdxIcBBLzTiNjF95E0YzzZs0a0CJp4h_YKn7EzrFZBjXf_Jc7MxkqFALQL0IFwvSNbunM64_2LKzQ-XegosZ59F9JZycq4iX1aXpYAM4Ma4="
+        },
+        {
+          "title": "globalbankingandfinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9QC0WRUg7QroP44u8T0pw7g0OZ2a4B_lVJJox8OUDYS9ApIWg1IuPblRk7CHteJayriK4_G0UoNT7N2s_ReFzsXuSgFmeyirqNUaMiU600JmmKUnjrzu_V58DII0DGvItDkTU2BuFc1zgonwy6DW_u7crP5GgONcc2sUHrW-COodC0O9oIMNvncDIyTHkeyCGFXBnoM="
+        }
+      ]
+    }
+  }
+}
