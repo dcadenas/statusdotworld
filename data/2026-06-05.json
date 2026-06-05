@@ -1,0 +1,440 @@
+{
+  "date": "2026-06-05",
+  "timestamp": 1780644173427,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East and Ukraine conflicts intensify; peace talks stall",
+      "summary": "The Israel-Iran war sees ongoing Israeli strikes in southern Lebanon, killing seven despite a ceasefire attempt, and a UN peacekeeper killed in the region. Peace talks between Israel and Hezbollah stall as the group rejects a truce. In Ukraine, President Zelenskyy seeks direct talks with Putin, who dismisses European mediation and reiterates Russia's demands amidst continued offensive.",
+      "regions": [
+        {
+          "name": "Tyre, Lebanon",
+          "lat": 33.27,
+          "lng": 35.2,
+          "severity": "red",
+          "detail": "Israeli strikes overnight killed seven people and damaged a hospital in the city."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Israeli airstrikes on residential apartments killed at least 11 Palestinians, including five from one family."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.68,
+          "lng": 51.38,
+          "severity": "red",
+          "detail": "Journalist Reza Valizadeh in Evin Prison pleads for medical help amidst a near-total internet blackout imposed by the regime."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "yellow",
+          "detail": "President Zelenskyy called for direct peace talks with Vladimir Putin, proposing a full prisoner exchange and monitored ceasefire."
+        },
+        {
+          "name": "St. Petersburg, Russia",
+          "lat": 59.93,
+          "lng": 30.31,
+          "severity": "yellow",
+          "detail": "President Putin rejected European leaders as peace mediators, doubling down on a Trump-backed deal and demanding Ukrainian concessions."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "US-mediated talks failed to secure a lasting truce in the Israel-Lebanon conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety and surveillance concerns rise; 'gender apartheid' pushed at UN",
+      "summary": "US lawmakers are pushing new AI legislation focusing on safety, state law limits, and worker protections, while privacy advocates raise concerns over AI surveillance and data collection. Seven countries formally urged the UN to incorporate 'gender apartheid' into a future treaty on crimes against humanity.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "US House lawmakers proposed legislation to keep advanced AI model development under federal control, preempting state laws and addressing AI safety and worker protections."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.73,
+          "lng": 7.09,
+          "severity": "yellow",
+          "detail": "Amnesty International urged governments attending the upcoming June Climate Meetings to root climate action in human rights, equity, and justice."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "green",
+          "detail": "China released an evaluation report stating it has comprehensively bolstered its human rights protection capability, fulfilling its 2021-2025 action plan."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "Mayor Mamdani and Commissioner Clarke launched a 'Trans Rights are Human Rights' campaign to protect transgender and gender-nonconforming New Yorkers, as gender discrimination complaints reached a five-year high."
+        },
+        {
+          "name": "Kansas City, USA",
+          "lat": 39.09,
+          "lng": -94.57,
+          "severity": "yellow",
+          "detail": "A cybersecurity founder is speeding up development of anti-surveillance tech using AI-generated clothing patterns to confuse detection systems."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.77,
+          "lng": -122.41,
+          "severity": "yellow",
+          "detail": "AI company Anthropic called for a global pause on building the most powerful AI systems, citing signs they could escape human control."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "World Environment Day highlights urgent climate action amidst escalating crisis",
+      "summary": "World Environment Day is observed under the theme 'Climate Action', emphasizing the need for urgent implementation to address escalating climate disruption. Global mean temperatures remain near record highs, and extreme weather events intensify, with continued sea-level rise and glacial melt.",
+      "regions": [
+        {
+          "name": "Baku, Azerbaijan",
+          "lat": 40.4,
+          "lng": 49.87,
+          "severity": "green",
+          "detail": "Azerbaijan hosted the global commemoration of World Environment Day 2026, focusing on climate action."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.68,
+          "lng": 73.04,
+          "severity": "yellow",
+          "detail": "President and Prime Minister called for collective national and international action to address climate change impacts like rising temperatures and extreme weather events."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.73,
+          "lng": 7.09,
+          "severity": "yellow",
+          "detail": "States prepared for the June Climate Meetings to shape negotiations for COP31, urged by Amnesty International to prioritize human rights in climate action."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.71,
+          "lng": 85.32,
+          "severity": "yellow",
+          "detail": "President and Vice President called for environment conservation and nature-friendly lifestyles, citing serious challenges from climate change and pollution."
+        },
+        {
+          "name": "South-East Asia",
+          "lat": 0,
+          "lng": 100,
+          "severity": "red",
+          "detail": "The WHO South-East Asia Region records the highest number of deaths from climate change annually, facing severe health consequences."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak in Central Africa; US public health powers weakened",
+      "summary": "A significant Ebola outbreak in Central Africa is raising concerns about healthcare preparedness, with the virus present in cities. In the US, an executive order directs the CDC to further assess childhood vaccine schedules, while weakened public health powers in some states raise outbreak risks.",
+      "regions": [
+        {
+          "name": "Central Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "red",
+          "detail": "The third largest Ebola epidemic is ongoing, with the virus spreading to cities, causing concern about healthcare preparedness."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "An executive order directed the CDC to assess the childhood vaccine schedule, despite AMA's stance on science-guided decisions."
+        },
+        {
+          "name": "Illinois, USA",
+          "lat": 39.78,
+          "lng": -89.65,
+          "severity": "yellow",
+          "detail": "Weakened state and local public health authorities in Illinois and other US states are raising risks for future disease outbreaks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil crisis and trade tensions dampen global growth outlook",
+      "summary": "Global economic growth prospects have weakened, with Fitch Ratings downgrading its 2026 expectation due to an ongoing oil crisis driven by the US-Iran war. Trade tensions between China and Western economies are also deepening with new tariffs and regulations, raising fears of a broader trade conflict.",
+      "regions": [
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.31,
+          "lng": 32.58,
+          "severity": "yellow",
+          "detail": "A World Economic Forum report highlighted that geoeconomic fragmentation is imposing an annual cost of US$213–US$307 billion on the global economy."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "US-led indecision over a peace deal with Tehran contributed to rising oil prices and a worsening world food crisis."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "yellow",
+          "detail": "New US tariffs and tougher EU regulations are increasing pressure on China, risking retaliation and a broader global trade conflict."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "yellow",
+          "detail": "The European Union's new industrial and cybersecurity measures are contributing to mounting trade tensions with China."
+        },
+        {
+          "name": "Oman",
+          "lat": 21,
+          "lng": 57,
+          "severity": "yellow",
+          "detail": "Oman's Mina al Fahal terminal suspended oil loadings following an explosion near its berths due to an alleged drone attack, impacting oil prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Declining public confidence in US democracy; protests in Latin America",
+      "summary": "A Quinnipiac University poll indicates that 57% of Americans believe the US democratic system is not functioning effectively, coinciding with declining confidence in national leadership. Meanwhile, widespread protests in Latin American cities address issues like femicide, pension conditions, and education budget cuts.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.82,
+          "lng": -98.58,
+          "severity": "yellow",
+          "detail": "A majority of Americans express dissatisfaction with the functioning of democracy, amidst declining approval ratings for President Trump."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6,
+          "lng": -58.38,
+          "severity": "yellow",
+          "detail": "Thousands protested femicide, marking the anniversary of the 'Ni Una Menos' women's movement."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.48,
+          "lng": -66.9,
+          "severity": "yellow",
+          "detail": "Seniors demonstrated, calling for better health and pension conditions."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.43,
+          "lng": -99.13,
+          "severity": "yellow",
+          "detail": "Teachers protested to demand higher pay, reflecting broader societal discontent."
+        },
+        {
+          "name": "Eau Claire, Wisconsin, USA",
+          "lat": 44.81,
+          "lng": -91.49,
+          "severity": "yellow",
+          "detail": "Democratic and progressive groups planned protests against President Trump's visit, highlighting federal policies affecting local communities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Food crisis and poverty worsen globally due to conflict and economic factors",
+      "summary": "The world food crisis and poverty are worsening, particularly in Sub-Saharan Africa, due to ongoing conflicts, rising energy costs, and their impact on food productivity and health services. The UN and its specialized agencies issued warnings of looming famine and weakened medical infrastructure.",
+      "regions": [
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -10,
+          "lng": 20,
+          "severity": "red",
+          "detail": "The region is experiencing a severe energy emergency, with famine looming and medical services weakened due to high energy and transport costs exacerbated by civil wars."
+        },
+        {
+          "name": "Sri Lanka",
+          "lat": 7.87,
+          "lng": 80.77,
+          "severity": "yellow",
+          "detail": "The country faces traumatic prospects as rising fuel prices contribute to a pre-existing economic crisis, making public transport costs a significant political issue."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "An Israeli strike on displacement tents in southern Gaza killed one Palestinian and injured 16 others."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz0jhyM7xmXZKTlmnGbS1Pn3GHJUWYqJvGc1TwZmpQ29k_TfvDEPnFPV2IGMSxucgtSI3lEUYD3GniCHzQ5gjlVCECeFj9hEoCm7ypHZCrxOATFKBN3hz57s6FKFl9lPdYpoC407_cKy3DA7fsOHQ2_mdnZQlQCUvrhD_VK2MensK_3vgFYHWn4s-_krvzCZxFhf7ohowPg8Bf1OlcZAIQ63jpMf3fOhXkZLLkb8WY-Z4lKtUw9mZ5DJZ3g572MRFRgHJPp5jcJQ_oE08="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUz29Xy8_JoQgHKga0EFxp7QYNOg2Sdn6M5I7MbPc0kLyXEITqVTtQdTv_HXsEetSBxxCdhv6BcKrgNI2syrr4ITaLnbSRXCuScBBlrme2MImmOtVT2WbFyX_Ut5l1Gmf7R7NhwYMETanJ1T-6PzjGIyl9q_TV-KFzMuazqxSu2izihgnv_Ysouwp"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93PQ1L_mF_OQspdlxPDUVCVz0nrlzBD-9G-I3WG1dUZi3rLMLDIPgcyH8-CmUXRM3s008gYimkY0D0lILRd-uPLpt6IRknG_tG3w8W8hkx26lbd_CtUJNLrWbiVsNeWHCBLNVQ2ekCMMSzOQL-_Ufx0d07qAK-TpZT--F-JM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7s-cmo9MDS2kjr6n6Go0IS51qwQWIAIKulmpg17Rh_UoqsWqRWo8FV9ukcJ2wV7Up6n2cGRfTYaXEljAmA9YekmgzR8OABKHEHhcGn321U9OoSPelysV909Gw_XuwxPOfyxBxFxupjNUIan_3-z_xgEgmki7oevxOraHSTfbt3NsjCqUk_nXxfzQx_LqQNp8jSilNhM4Q"
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt_yKo2UanA2ho-Jfk3G1S3ZgPMWCKurSCJssfQc06Ztt9JTbpa4P_SErr5WxFB1A2VDQxmO6lAPMRQ6G-IV14uG_rodIPzyh4UFgmnuJ4GmlPEHgp1BBq4t97ua_Xk0h5Vjgkpy23YQoJbkwU7AZ3rdKBVozNGbuLFvmf04gTWzIbQY3LqSNQe-LwFpTM6F0GzCS2vj-bBjgqkWBOIKUqrthpKtT35exCe0kHrLKz8BCm-XZ2w6WT6jKhVpE="
+        }
+      ]
+    }
+  }
+}
