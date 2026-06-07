@@ -1,0 +1,489 @@
+{
+  "date": "2026-06-07",
+  "timestamp": 1780816727128,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US and Iran exchange strikes amid escalating West Asia conflict",
+      "summary": "US forces shot down Iranian drones over the Strait of Hormuz and struck radar sites, while Iran launched missiles at Kuwait and Bahrain, further escalating the ongoing conflict. Separately, an Israeli airstrike killed Lebanese soldiers in South Lebanon, a strike in Gaza killed civilians, and a drone attack in Sudan's North Kordofan also resulted in civilian casualties. Russian forces reported gaining control of Shevchenka village in Ukraine's Kharkiv region.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.25,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "US forces intercepted two Iranian attack drones that threatened international maritime traffic."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran launched missiles and drones toward the Strait of Hormuz and neighboring countries."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Iran fired ballistic missiles targeting Kuwait as part of escalating tensions."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Iran launched missiles and drones targeting Bahrain, with some being intercepted."
+        },
+        {
+          "name": "South Lebanon, Lebanon",
+          "lat": 33.3333,
+          "lng": 35.5833,
+          "severity": "red",
+          "detail": "An Israeli strike on a military vehicle killed two Lebanese army officers and a soldier."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "An Israeli strike on a tent sheltering displaced Palestinians killed six people."
+        },
+        {
+          "name": "North Kordofan, Sudan",
+          "lat": 13.5,
+          "lng": 30.5,
+          "severity": "red",
+          "detail": "A drone strike on a market killed at least 11 civilians and injured dozens more."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "yellow",
+          "detail": "The Russian Defense Ministry stated that the village of Shevchenka went under Moscow's control."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Yemen detentions, West Bank violence, and AI policy dominate rights news",
+      "summary": "Human Rights Watch called for the release of UN and civil society staff arbitrarily detained by Houthis in Yemen, highlighting the ongoing crackdown on civic space. France is coordinating with European countries to impose sanctions on Israeli colonizers involved in attacks against Palestinians in the occupied West Bank. In the US, a North Carolina bill advanced that blurs AI policy and social media rules, while federal lawmakers proposed legislation on AI safety and worker protections.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthis are arbitrarily detaining UN and civil society staff, exacerbating the humanitarian crisis."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 32,
+          "lng": 35.25,
+          "severity": "red",
+          "detail": "France is coordinating European sanctions against Israeli colonizers amid escalating settler violence against Palestinians."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France is taking a lead role in coordinating European efforts to sanction Israeli settlers involved in West Bank violence."
+        },
+        {
+          "name": "Raleigh, North Carolina, USA",
+          "lat": 35.7796,
+          "lng": -78.6382,
+          "severity": "yellow",
+          "detail": "A state bill combining AI safety with social media regulations for minors passed the Senate Judiciary Committee."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US lawmakers are proposing federal AI legislation focusing on model development, worker protections, and preemption of state laws."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "Climate discussions continue; El Niño expected to return in 2026",
+      "summary": "While no major new severe climate events were reported today, the UN Weather agency warns of an 80% likelihood of an El Niño event developing between now and August, with a high chance it will persist until November. This return increases the chances of another record warm year in 2027. Discussions around climate policy and the environmental impact of data centers also continued, with UN June Climate Meetings (SB64) scheduled to begin next week in Bonn, Germany.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "There is an 80% likelihood of an El Niño event developing by August, increasing global warming risks."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "green",
+          "detail": "The UN June Climate Meetings (SB64) are scheduled to start here next week, focusing on advancing technical work for COP 31."
+        },
+        {
+          "name": "Vancouver, British Columbia, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "yellow",
+          "detail": "Metro Vancouver moved to Stage 3 water restrictions, indicating ongoing drought or water supply concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "World Food Safety Day highlights global challenges; Ebola outbreak persists",
+      "summary": "Today marks World Food Safety Day 2026, with the World Health Organization releasing updated global estimates on foodborne diseases, emphasizing the need for robust food safety systems. An Ebola outbreak continues in Central Africa, and the U.S. State Department announced significant humanitarian aid to address various health and nutrition needs globally. In the United States, a national campaign, 'Seven Days in June: Health Is Primary,' is underway to raise awareness about the impact of healthcare funding cuts.",
+      "regions": [
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "green",
+          "detail": "The Ministry of Public Health observed World Food Safety Day with an awareness campaign and events."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The WHO released updated global estimates on the burden of foodborne disease to support targeted food safety action."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.3225,
+          "lng": 15.3228,
+          "severity": "red",
+          "detail": "An Ebola outbreak continues in Central Africa, with the Democratic Republic of Congo being a key affected country."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A national week of action, 'Seven Days in June: Health Is Primary,' is underway, highlighting healthcare funding cuts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "West Asia conflict fuels inflation; US jobs strong, rate hikes eyed",
+      "summary": "The ongoing West Asia conflict is significantly impacting the global economy by driving up oil prices and disrupting supply chains, leading the OECD to trim global growth forecasts and raise inflation projections for 2026. Despite these concerns, the US economy added 172,000 jobs in May, exceeding expectations, but this strong labor market data could prompt the Federal Reserve to raise interest rates, potentially increasing the cost of living for consumers.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.25,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The closure of the Strait of Hormuz since February 28 is halting energy shipments and soaring prices globally."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A robust US jobs report may pressure the Federal Reserve to raise interest rates, impacting market dynamics and consumer costs."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The OECD issued a stark warning about the global economy, trimming growth forecasts and raising inflation projections due to the Middle East conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The conflict involving Iran is a primary driver of soaring oil prices and disruptions to global supply chains."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Targeting by Iranian missiles contributes to regional instability, impacting economic confidence and trade."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "The country was targeted by Iranian missiles, adding to regional economic uncertainty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Armenia and Kosovo hold elections; US faces redistricting battles",
+      "summary": "Armenians are voting in parliamentary elections today as the government seeks to shift ties towards the West, amidst Russian pressure and allegations of vote buying against an opposition party. Kosovo is also holding early parliamentary elections in an attempt to resolve a prolonged political impasse and elect a new president. In the United States, a national redistricting battle is entering a new phase, potentially affecting representation at state and local levels, while Democratic nominees are solidifying in state-level races in Iowa, Indiana, and California.",
+      "regions": [
+        {
+          "name": "Yerevan, Armenia",
+          "lat": 40.1815,
+          "lng": 44.5136,
+          "severity": "yellow",
+          "detail": "Parliamentary elections are underway with the incumbent government seeking a mandate to deepen cooperation with the West amidst Russian pressure."
+        },
+        {
+          "name": "Pristina, Kosovo",
+          "lat": 42.6629,
+          "lng": 21.1655,
+          "severity": "yellow",
+          "detail": "Voters are heading to polls for an early parliamentary election to break a political impasse and elect a new president."
+        },
+        {
+          "name": "Marietta, Georgia, USA",
+          "lat": 33.9526,
+          "lng": -84.5499,
+          "severity": "yellow",
+          "detail": "Georgia's Republican-led Legislature will convene June 17 for a special session focused on redistricting for the 2028 elections."
+        },
+        {
+          "name": "Indianapolis, Indiana, USA",
+          "lat": 39.7684,
+          "lng": -86.158,
+          "severity": "green",
+          "detail": "Beau Bayh claimed victory as the Democratic nominee for Indiana secretary of state at the 2026 Indiana Democratic State Convention."
+        },
+        {
+          "name": "Des Moines, Iowa, USA",
+          "lat": 41.6005,
+          "lng": -93.6091,
+          "severity": "green",
+          "detail": "Rob Sand will rally as the official Democratic nominee for Iowa governor, kicking off his campaign."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "Democrat Xavier Becerra advanced to the November general election in the race for California governor."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "West Asia war exacerbates global hunger; US announces significant aid",
+      "summary": "The ongoing West Asia conflict is exacerbating acute hunger globally, with the UN's World Food Programme warning that 45 million more people worldwide could face acute hunger if high oil prices persist. In Yemen, Houthi detentions of UN and civil society staff are directly impacting the delivery of life-saving assistance amid an already dire humanitarian crisis. The U.S. State Department announced over $240 million in humanitarian assistance to Catholic Relief Services for food, shelter, and other needs in countries with significant humanitarian needs, including the Democratic Republic of Congo, Ethiopia, Haiti, Nigeria, and Sudan.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The Middle East war is pushing tens of millions more people into acute hunger due to soaring oil prices."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi authorities' arbitrary arrests of humanitarian workers directly impact the delivery of life-saving aid."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The U.S. State Department announced over $240 million in humanitarian assistance to Catholic Relief Services."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.3225,
+          "lng": 15.3228,
+          "severity": "yellow",
+          "detail": "The Democratic Republic of Congo is a recipient of significant U.S. humanitarian aid for food, shelter, and health needs."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "yellow",
+          "detail": "Ethiopia is among the countries receiving U.S. humanitarian aid to address critical needs."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5902,
+          "lng": -72.3074,
+          "severity": "yellow",
+          "detail": "Haiti is a country with significant humanitarian needs that will receive U.S. aid."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Nigeria is among the nations earmarked for U.S. humanitarian assistance to help with urgent needs."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.532,
+          "severity": "red",
+          "detail": "Sudan is a recipient of U.S. humanitarian aid and faces acute food insecurity with nearly 19.5 million people affected."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBDAG1IHpIdLpC8HTAcS0N0c0hYqaec0a4uFtXAgS2dqwnqfmM9bEwNHil5a1TXlhiN2QeTxnsku0UVb8JVRiyO771MfQRiPUxUyGzSntjoTJsAIRaKMQ9B1MpivgE-IvdoGgSb2PSlPLdUlpIQyB_KTQh6v2MKScFdpwxJAfCyYyp67QGy4mfST_NRXvvOXToJenI2ialz_Uks7Wg2JYBHJU5ymppkzi5cE41QkGgP03AH9q1L4g4ERa8Byq8RyDM1yTkPTNEJMws4Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4zST8v0hOcsFTnJ1eA5yVMpmHw8D7GYYl_XPIxNClfw0ZHcuHi9n9p_LdSvXDgwtM_0l1sZZbQcFPlruVA8cMgB7LeEyyC-y4xKCt9JJiWwTL5U_fRqHzdeHxbhrzR0dbpZWQPTTJuBVHHhrV3y4zX-WSdFQXExQEPIC5rUhThHd_d-dm29Eabf6L0L4vvR_e1i20Pf1GHGcqGzmJndSh26_Tu9ZrEGCqIjXGnn8BpHkOWoXT1D8mdtz_w8cH6lgPrQ6i11mViqALDH_cUJT7zA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTFXQcP-w4lfCIJPQx8BcDwZPsuoXjlSW-z_rfoqb0RvUiBp8UGKxfTTNW86yvvjmOZM7Ic4FSN4q8qIVBsT-b3uXkUCiSXWinZVuTltMCWsfKRjkPV6Vn9jofZMiTHA4XEuIHrdqrF9__vWbBbihfP-miTWhQ94rS1FTOiv2NUYCrLXDKCBqIcKBugL1IKSJsGYqgHFhBhw=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyQgEyBLebABKpuvzuHkdioydgdBM1GGDOKJvBfJiipm4MX9Yka8dfLk0P5-xXEg1F9U4oe5y-J0LXwk_OD-qq57Qp6ZpMrC_63-0i7amG5wpWl992jas_elbJeGkscntF33T6gRlwGEiRo8OD59-zS1jIwyYVUYbQHW3GIzpOVQ4TNznc9Sj74jKbUKzbMja25j0UONCUJImilu-zhK_csf7OpPPY2RxoFRIBBkFnDELyV9I-HhaPE_3ny8degn-rgJHRv32uHQvEe7okR9CjSkG7GxLyxWJJg=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAoxRGe8MNuQ-BvEz6PaBmgeg7No1fTpWShgfprh-u5S7gvc9pbsSiUy2hzuLeoDRDdfyTXoVvABcI2CRhfqO5rG7ww6z9CaMiYH2GaWSISy5o3Vn9hgfmYy_05U1u4W8iB86cDY0="
+        }
+      ]
+    }
+  }
+}
