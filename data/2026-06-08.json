@@ -1,0 +1,481 @@
+{
+  "date": "2026-06-08",
+  "timestamp": 1780903998317,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with Israel-Iran strikes and Houthi attacks.",
+      "summary": "Escalating tensions in the Middle East saw Israel and Iran engage in retaliatory missile and air strikes, threatening a wider regional conflict after a fragile ceasefire collapsed. Meanwhile, Yemen's Houthi rebels launched missile attacks on Israel and declared a ban on Israeli shipping in the Red Sea, further intensifying regional instability.",
+      "regions": [
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Israeli authorities reported Iranian missile attacks and launched retaliatory strikes on Iran, with plans for a large-scale military mobilization."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran fired missiles towards northern Israel and reported explosions in Tehran, Isfahan, and Tabriz after Israeli strikes on military targets and a petrochemical plant in Mahshahr."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemeni Houthi rebels launched missile attacks on Israel and declared a complete ban on Israeli maritime navigation in the Red Sea."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes on Beirut's southern suburbs were cited by Iran as a reason for their retaliation, indicating an expansion of the conflict."
+        },
+        {
+          "name": "Al Kharj, Saudi Arabia",
+          "lat": 24.1628,
+          "lng": 47.3013,
+          "severity": "yellow",
+          "detail": "Missile alert sirens sounded in an area hosting U.S. forces following Israel's strikes on Iran, highlighting potential regional impact."
+        },
+        {
+          "name": "Erbil, Iraqi Kurdistan",
+          "lat": 36.1912,
+          "lng": 44.0092,
+          "severity": "yellow",
+          "detail": "Iran's Revolutionary Guards targeted the headquarters of 'terrorist groups' in Iraqi Kurdistan."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0392,
+          "lng": 125.7625,
+          "severity": "yellow",
+          "detail": "President Xi Jinping arrived for a state visit to North Korea, aiming to reassert China's influence and provide economic and political benefits."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "President Xi Jinping departed from China for a state visit to North Korea, hailing the 'invincible friendship' between the two countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Iran executions surge; AI privacy concerns and Palestinian rights violations noted.",
+      "summary": "Human rights groups report a significant increase in executions in Iran, with the ongoing conflict serving as a cover for repressing dissent. In occupied Jerusalem, a Palestinian resident was forced to demolish his home by Israeli authorities, while Israeli forces continued invasions and property seizures in the West Bank. Meanwhile, growing concerns over AI safety, surveillance, and privacy violations are highlighted by a new IBM study and recent legislative actions in the US.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Reports indicate a surge in executions, used to repress dissent amidst the ongoing conflict."
+        },
+        {
+          "name": "Occupied Jerusalem, Palestine",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "A Palestinian resident was forced to demolish his home in Silwan by Israeli occupation authorities."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Israeli occupation forces carried out invasions, restricted movement, seized property, and abducted residents in various communities."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "The Ministry of Agriculture and Ministry of Justice are conducting human rights inspections for foreign seasonal workers in the agricultural sector, imposing penalties for violations."
+        },
+        {
+          "name": "Connecticut, USA",
+          "lat": 41.5978,
+          "lng": -72.7554,
+          "severity": "yellow",
+          "detail": "Connecticut enacted a sweeping AI law covering online safety, AI companions, and employment AI, setting new regulatory standards."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "Governor Newsom issued an executive order to address AI's impact on workers and businesses, exploring policies for severance and training."
+        },
+        {
+          "name": "Europe",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "A Linux Foundation report indicates growing security and privacy concerns as AI deployment scales across Europe, hindering its full value."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather persists; climate change impacts evident globally.",
+      "summary": "Climate change continues to manifest through extreme weather events, with warnings for severe thunderstorms in the central US and an active Eastern Pacific hurricane season impacting Mexico. Long-term ecological impacts are also evident, such as the earlier disappearance of kelp forests around Vancouver Island. Experts further highlight how climate change and urbanization increase the likelihood of human-wildlife conflicts.",
+      "regions": [
+        {
+          "name": "Central High Plains, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "yellow",
+          "detail": "Scattered severe storms capable of large hail, brief tornadoes, and damaging gusts are expected across northeast Colorado, southeast Wyoming, and the Nebraska Panhandle."
+        },
+        {
+          "name": "Mexico's Southwestern Coast",
+          "lat": 17.6333,
+          "lng": -99.4167,
+          "severity": "yellow",
+          "detail": "The Eastern Pacific hurricane season is active with Tropical Depression 2E bringing heavy rainfall and strong winds to Mexico's southwestern coast."
+        },
+        {
+          "name": "Vancouver Island, Canada",
+          "lat": 49.1667,
+          "lng": -124.7833,
+          "severity": "yellow",
+          "detail": "New research from the University of Victoria reveals that kelp forests were disappearing earlier than previously thought due to climate change."
+        },
+        {
+          "name": "Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "An IPB University expert noted that climate change and urbanization are increasing the likelihood of snakes entering residential areas."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "California is expected to experience a weather whiplash, transitioning from rain to extreme heat by mid-June."
+        },
+        {
+          "name": "Asia-Pacific Region",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The region, as a frontline of the global climate crisis, is receiving billions in climate finance to build resilience, emphasizing the need for transparent utilization."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Global public health remains stable; no new major crises reported.",
+      "summary": "Today, June 8, 2026, there are no reports of new significant global public health crises or widespread disease outbreaks. Public health organizations continue to monitor ongoing health challenges and implement preventive measures worldwide.",
+      "regions": [],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict and strong US jobs report impact global economy.",
+      "summary": "The global economy faces a prolonged adjustment period due to the Middle East conflict, leading to elevated energy costs, fragmented trade routes, and higher inflation worldwide. A stronger-than-expected US jobs report contributed to higher bond yields and a selloff in technology stocks, significantly impacting markets like South Korea. The International Monetary Fund warns that the world needs to build stronger foundations to withstand the increasing frequency of economic shocks.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 25.276987,
+          "lng": 55.296249,
+          "severity": "red",
+          "detail": "The ongoing conflict is driving elevated energy costs, disrupted trade routes, and higher inflation globally."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Strong US jobs data led to higher bond yields and a tech stock selloff, though the US economy is seen as relatively resilient to the Middle East war's impact."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "red",
+          "detail": "The KOSPI index experienced a significant drop, driven by a global technology selloff and the country's heavy reliance on the chip and AI sector."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India faces challenges with strong domestic demand but potential for higher inflation and fiscal pressures from sustained oil prices."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "The ECB is poised to raise rates and trim its growth outlook amid a sluggish growth, high inflation environment in the Eurozone."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's GDP is expected to be lower due to slowing global growth weakening demand for its exports, despite domestic energy supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Peru's presidential runoff in close race; US election concerns persist.",
+      "summary": "Peru's presidential election runoff is in a tight race, with candidates Keiko Fujimori and Roberto Sanchez running neck and neck. In the US, election-related news includes a Supreme Court decision allowing Alabama to use a congressional map for 2026 elections despite findings of racial discrimination, and concerns about ballot access and incumbent advantages in Connecticut. South Korea's president expressed concern that ballot paper shortages in recent local elections dealt a serious blow to the country's democratic reputation.",
+      "regions": [
+        {
+          "name": "Lima, Peru",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "severity": "yellow",
+          "detail": "The presidential election runoff between Keiko Fujimori and Roberto Sanchez is extremely close, with the lead swinging between them."
+        },
+        {
+          "name": "Montgomery, Alabama, USA",
+          "lat": 32.3668,
+          "lng": -86.2999,
+          "severity": "yellow",
+          "detail": "The US Supreme Court permitted the State of Alabama to use a congressional map for 2026 elections, despite lower court findings that it discriminates on racial grounds."
+        },
+        {
+          "name": "Hartford, Connecticut, USA",
+          "lat": 41.7658,
+          "lng": -72.6734,
+          "severity": "yellow",
+          "detail": "Concerns were raised regarding the difficulty for challengers to get on the ballot and the perpetuation of incumbent power in Democratic primaries."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "President Lee Jae Myung stated that ballot paper shortages in local elections damaged the country's reputation as a model democracy."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Brazil's Senate rejected a presidential nomination to the Supreme Court, marking notable political opposition as President Lula seeks re-election."
+        },
+        {
+          "name": "Santa Fe, New Mexico, USA",
+          "lat": 35.687,
+          "lng": -105.9373,
+          "severity": "green",
+          "detail": "Deb Haaland won the Democratic gubernatorial primary, marking a historic candidacy."
+        },
+        {
+          "name": "Anchorage, Alaska, USA",
+          "lat": 61.2181,
+          "lng": -149.9003,
+          "severity": "yellow",
+          "detail": "A senator's campaign criticized an opposing party for a candidate with a similar name entering the race, raising concerns about vote siphoning."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Middle East conflict exacerbates humanitarian needs; aid on standby.",
+      "summary": "The escalating conflict in the Middle East, particularly with Israeli strikes on Lebanon and Iran's retaliatory actions, is exacerbating existing humanitarian crises and increasing needs in the region. Aid organizations like the Iranian Red Crescent are on standby to respond to potential fallout from the attacks. Additionally, ongoing Israeli actions, including home demolitions and property seizures, continue to impact Palestinian communities.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The escalating conflict in the Middle East is directly impacting populations and leading to increased humanitarian needs."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Israeli strikes on Beirut's southern suburbs contribute to an already fragile humanitarian situation and heightened regional tensions."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Ongoing Israeli actions, including home demolitions and invasions, continue to affect Palestinian communities."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The Iranian Red Crescent is on standby to respond to any fallout from Israeli attacks across the country."
+        },
+        {
+          "name": "Asia-Pacific Region",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The region, as a frontline of the global climate crisis, is receiving billions in climate finance for resilience building, where transparent and effective utilization is crucial for human welfare."
+        }
+      ],
+      "sources": [
+        {
+          "title": "apple.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3sD7_gZWTKjfYUxvl8DyeINN7owO-qVOA3quahPrQHs7VwdqDQYcMS5d_gj8Y13vxwXQdBa91PbwTmZvtcLQ4Yl1NVKtida7f7lAqH2JrVo09PkNDaHnDYOT8VGP08WJEBbULdo67Qt69jdUVSAHR6Pl09qqc-Ch4w_mBLnbYMZeYb7Rbo9v8nyKOusglbAbSFwGxM26SV33hI1Y40WLWQu5_r8N3"
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXoiBWuLtwHoCKfA3dY1uufKqogQsw8S5pXfLhdTIhb6Wb7jGAOYoeD4XHtLLBltvcu2Suts1iO9KmTjM61_u0nlEJJ5sXhfMiTowlzz1KUiNTVHbAoYBxQRcCH6gJtPQh5iTb36cAjuQ6l051DLRUOmafCdoePVfd9JhILJIbJIs5KGbo_iJ_z2cMJwlxJLMdaflez6pRF9AYRgxu54KbHkjVdCjDDpE="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiwtdLRw4xCxC0U9zIRprbmlIY0iig0jLsIs3DNqGPHq-IYPoXA5BxUGPXI-yFDNRpbtH9lrUtu2Pa8q1P27B54qOBk9annFzbCixN0IeafCgBMlpil4ORGdHC2RB01kgBFMpbW3zCGl0xW0dgaFJE40_qwSSbTNLZdjYrz0povnsFa1vEAZ4m2SEc7tAuGvmsXnno--ot8aSy0mJlvzDFW6aP1CSBEhyLtnstVjZRrM-V4RINisoej1x5oPgxTiRLTt4OJr2XBxffZTW-LlLLMdss9j1VnoH"
+        },
+        {
+          "title": "wcmu.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX7dmaLjDZZQexy-O739eAMLRSR45jaMoXFD_PWdWDjRG1erFrX1US7613aESmfZAt-QdGYnvACraJ7JerfTF9F1-s9TtUJFiW0bBhbi5IbKFcKOnffH7STCfkl0zAldpx5IsiNuomB_snqVRfv0126nNl6Fhs5G1PenDO-WGVwzdb0RTK0H8D8WJEFJ0HsrBbnksdkpQuvtM_UQiM0SZJF-sDGhGKpB8F6raH5qdYqv8N3rvM2AlpjOBzJLj"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxgqGgpDECssdJMBpDFfPv4ptKHod0RMQQF6_eIfx0AI0sAfLShA1YKYATYAcWAGg2SxpX1x-mx2qEpDlSFS6sojRnRb7_5i9mz5I7kQ7DeNB_wqW4ZkkdfqTQLoR3DNVGVpW4K7seo4UhAi-zrvrMjVA4Atg1iR6niMgCvfqNP0trTPV0iqb1qyG9v-OAK6G5LeMnWeyTNbyuplg4MdSdDegCSLncdgwNQ=="
+        }
+      ]
+    }
+  }
+}
