@@ -1,0 +1,468 @@
+{
+  "date": "2026-06-12",
+  "timestamp": 1781249463752,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran peace talks progress amidst ongoing regional tensions",
+      "summary": "US President Donald Trump announced a potential 'great settlement' to the three-month-old Iran war, with a peace deal possibly signing this weekend, which would also reopen the Strait of Hormuz. However, Iran states no final decision has been made, and tensions remain high with reports of US forces shooting down Iranian drones and an Iranian military action against a tanker in the Strait. Meanwhile, Israel continues an intensifying military campaign against Hezbollah in Lebanon, and Russia-Ukraine strikes resulted in civilian deaths.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian officials stated no final decision has been made regarding a peace deal, despite US President Trump's optimism."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump announced a 'great settlement' to the Iran war could be signed soon, and US forces were involved in shooting down Iranian drones."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is mentioned as being involved in the broader Middle East conflict and having spoken with Trump about the Iran deal commitments."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Israel is conducting an intensifying military campaign against the militant group Hezbollah based in Lebanon."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "Shipping in the Strait of Hormuz was virtually halted due to the Iran war, and tensions remain high with reported US and Iranian military actions."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Three civilians were reported dead due to ongoing Russia-Ukraine strikes."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Civilians continue to be affected by the war in Ukraine, with ongoing strikes reported."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Civilians in Gaza continue to be affected by war, with humanitarian aid efforts facing significant challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "EU Migration Pact implemented; UN launches human rights alliance",
+      "summary": "The European Union's Migration and Asylum Pact became fully applicable today, raising concerns that it could undermine the right to asylum by rushing assessments, limiting safeguards, and increasing detention for asylum seekers. Concurrently, the UN human rights office launched a Global Alliance for Human Rights to address the 'unprecedented strain' on the human rights system worldwide. Separately, a shareholder proposal for Thomson Reuters to conduct a human rights review of its contracts with US Immigration and Customs Enforcement (ICE) was rejected.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU Migration and Asylum Pact, which has raised human rights concerns regarding asylum procedures, became fully applicable today."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN human rights office launched a Global Alliance for Human Rights, noting 'unprecedented strain' on the human rights system."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "A BC union's shareholder challenge for Thomson Reuters to review human rights impacts of its contracts with US Immigration and Customs Enforcement (ICE) was voted down."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US lawmakers failed to extend a foreign surveillance provision."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Major El Niño declared, portending extreme global weather",
+      "summary": "A new El Niño phenomenon has formed and is expected to rival the severe 1997-1998 event, likely causing extreme and deadly weather across the globe for the next year or so, and making 2027 the hottest year globally. The UN Secretary-General warned that these conditions will 'pour fuel on the fire of a warming world'. International discussions on climate change and adaptation strategies are underway at the UNFCCC's 64th sessions in Bonn, Germany.",
+      "regions": [
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "red",
+          "detail": "A new El Niño has formed in the Pacific, expected to significantly alter global weather patterns and contribute to extreme weather."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "yellow",
+          "detail": "The 64th sessions of the UNFCCC Subsidiary Bodies are taking place, addressing climate adaptation and gender-responsive climate action."
+        },
+        {
+          "name": "Nanjing, China",
+          "lat": 32.0603,
+          "lng": 118.7969,
+          "severity": "green",
+          "detail": "A Pan-Regional Information for Society (RIfS) Meeting focused on climate research is concluding today."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "Early bird registration is closing today for the '3rd Global Summit on Climate Change & Environmental Sustainability' to be held in September."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Hantavirus outbreak prompts costly evacuation; health discussions ongoing",
+      "summary": "A deadly hantavirus outbreak on a cruise ship necessitated a costly evacuation of an American citizen from Pitcairn Island, highlighting a specific public health emergency. Meanwhile, the Illinois Department of Public Health held a Community Health Workers Review Board meeting to discuss local health initiatives. The American Medical Association's National Advocacy Update also highlighted ongoing discussions on Medicaid work requirements, prior authorization reform, and AI in healthcare.",
+      "regions": [
+        {
+          "name": "Pitcairn Island",
+          "lat": -25.07,
+          "lng": -130.1,
+          "severity": "red",
+          "detail": "An American citizen was evacuated from the island following exposure to a deadly hantavirus outbreak on a cruise ship."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "green",
+          "detail": "The Illinois Department of Public Health is holding a Community Health Workers Review Board Meeting today."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Tokyo is the venue for the World Conference on Public Health 2026."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The AMA's National Advocacy Update discussed national healthcare policies, including Medicaid and AI in medicine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Global growth forecast cut to lowest since pandemic due to Iran war fallout",
+      "summary": "The World Bank has significantly downgraded its global growth forecast for 2026 to 2.5%, the weakest since the COVID-19 pandemic, primarily due to higher inflation and rising energy prices stemming from the 'Iran war' and the virtual halt of shipping in the Strait of Hormuz. This economic downturn is disproportionately impacting developing economies, with a quarter projected to be poorer than in 2019 by year-end. In response to surging oil prices, the Dominican government is planning substantial tax hikes. However, oil prices are showing a decline today amid optimism for a US-Iran peace deal.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The World Bank, based here, issued a significantly downgraded global growth forecast, citing the Iran war's economic fallout."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The 'Iran war' is a primary cause of global economic slowdown, higher energy prices, and shipping disruptions."
+        },
+        {
+          "name": "Santo Domingo, Dominican Republic",
+          "lat": 18.4861,
+          "lng": -69.9312,
+          "severity": "yellow",
+          "detail": "The government plans to increase taxes to offset $800 million in revenue losses due to surging oil prices attributed to the Iran war."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.55,
+          "severity": "red",
+          "detail": "The blockade of this vital shipping lane has significantly disrupted global energy markets and contributed to rising prices."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK economy contracted for the first time since last August, with the Middle East war cited as a factor."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Global financial markets are showing positive responses to potential peace in the Middle East, with oil prices falling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Nigeria celebrates Democracy Day amid calls for electoral integrity",
+      "summary": "Nigeria observes Democracy Day today, with President Bola Ahmed Tinubu addressing the nation and emphasizing the importance of peaceful and credible elections in Ekiti and Osun States. This celebration comes within a global context where democratic processes face ongoing challenges, including past severe incidents such as the assassination of a top Democrat in the Minnesota House in the US in June 2025.",
+      "regions": [
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "green",
+          "detail": "President Bola Ahmed Tinubu addressed the nation on Democracy Day, emphasizing commitment to democratic ideals and peaceful elections."
+        },
+        {
+          "name": "Ekiti State, Nigeria",
+          "lat": 7.7,
+          "lng": 5.25,
+          "severity": "yellow",
+          "detail": "Upcoming elections in this state are highlighted by President Tinubu as needing to be peaceful and credible."
+        },
+        {
+          "name": "Osun State, Nigeria",
+          "lat": 7.5,
+          "lng": 4.5,
+          "severity": "yellow",
+          "detail": "Upcoming elections in this state are highlighted by President Tinubu as needing to be peaceful and credible."
+        },
+        {
+          "name": "Minneapolis, Minnesota, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "A man pleaded guilty to the assassination of a top state Democrat and her husband in June 2025, a significant event impacting democratic stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Critical funding shortfalls persist for global humanitarian efforts",
+      "summary": "The Food and Agriculture Organization (FAO) faces a significant funding shortfall, having received only USD 2.1 million out of a required USD 72.5 million for its 2026 Flash Appeal to support farming households in the West Bank and Gaza Strip. Globally, UNICEF is appealing for US$7.66 billion in 2026 to assist 73 million children affected by conflict, disaster, and displacement. Famine Early Warning Systems Network (FEWS NET) also projects 115-125 million people in need of humanitarian food assistance across various countries, with Sudan, the Democratic Republic of Congo, Nigeria, and Yemen facing the highest needs.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The FAO has received only a fraction of the needed funds for its 2026 Flash Appeal to support farming households affected by conflict."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "The FAO faces significant funding shortfalls for its 2026 Flash Appeal to assist farming households."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.532,
+          "severity": "red",
+          "detail": "Sudan is projected to have among the highest number of people needing humanitarian food assistance."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo is among the countries with the highest projected humanitarian food assistance needs."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Nigeria is projected to have a high number of people in need of humanitarian food assistance."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen is projected to have among the highest number of people needing humanitarian food assistance."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "South Sudan is expected to have the highest share of its population needing humanitarian food assistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmPwjXd-cHl11KQn6lWafpig2MjdS46QswQCL_L2Cms_x3p-OmYLsV3Y9oUqoO2GEGly6d_ERwk8MV56u8bbQ46Jak8m1ef9R_Khqq-9GehRzPWlgPEfCHKMoEKsqJWDgwc5SJu948zb7u8cKLvER_E2huDWpOIZqslVd1d8Cw7gdvX9Wr00usXouB5xjPIqV13pp86hBgsQGaOflKTbeM-9LB-QCisQ=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzALm2JwzDIsCl7eEwYg78bfEUOF4EvqKFXS0WQrzut4SYZPXKtX43D8ESxZnPqFI5r2pU4ZBqiuIpOTlslCDZGloMENnxKSE-ni6aeLIvde-6vy53_qdAtZSgKWvmc7OJEP2vG3JUAOESZYlIIfdc4JHjDFNo7-43aY0="
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgDxA7loW51qgBBJqJzOr4g_E1OqVdd4ZltVyYmorbk9lbPtFB7hQGqFpcCtaKlnQw5FE-u89zsswdQJ1d-sOL6bg4UNE9eudUuoejhP5-GnR1c_iW7aRHWhJ8nwuaYHgG_RqMvDv2g6cJewOmuJVNYjho9jRZJeNBG3cplROEewXnC0ed7INbQeuPwO9mLTDjK-sodNcuxuGRW7nFtSFdkdrcoALwQ0xu_HArcdsv_Vf6hMSp3BvMsydomb8Z5iHG5ULj8Q=="
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDs9E5DeDsCF6V6lA7Jgxwl_vnRvbXlB9YxSVNcXgeXyZI9usqTWl4TwFsWjaK6UYlrjNPeahF-Hx_Qrlo8RMMsNiAo6kk5wjrPRKZEt4IY71EymzM1BBnEo7tL8sJcHPsxko8BRqGGkEidbaaZdgmw4wMCf6g0YiWCiKjoC7kWlUOH8T9Rcpi92D1q5agJijMjrGb0ZDrbVPEd0vdx4WOMqiOoUMcLuRwN3uC"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07vfhyn0F7JZsL7CNgp9n8ApxccwGXDN5lXX90FiOyJGoTqN1q1twWMwF0RMFf-FbafZIs5R6jI1CULKUFYXz_R1_2qoiBTXaa_gG8JHpsQ_bV2DhxleYJW-WQjA3IGjwWGW4K2ANw8btJemjXZ7PkGTlJhSo1gpM5UwhXqV9h-xIzHf0MluBHfaeDF458mQRQBID93nmHLoNyh-rr34VnQD133T8v2lZOURN"
+        }
+      ]
+    }
+  }
+}
