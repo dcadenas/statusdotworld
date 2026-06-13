@@ -1,0 +1,601 @@
+{
+  "date": "2026-06-13",
+  "timestamp": 1781334827147,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts persist, rules of war erode amidst rising tensions.",
+      "summary": "Armed conflict is a defining feature of our time, spreading, lasting longer, and becoming more complex across continents, with a record number since World War II. The erosion of the rules of war is leading to severe civilian suffering in regions like Gaza, eastern Congo, Sudan, and Ukraine.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "Ongoing conflict leads to severe humanitarian consequences and civilian suffering, with Israel accused of sidelining UN aid efforts."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "red",
+          "detail": "War with Russia continues, with risks of intensified attacks on infrastructure and cities."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Civil war enters its third year, causing massive displacement and critical humanitarian needs."
+        },
+        {
+          "name": "Goma, Democratic Republic of Congo",
+          "lat": 1.67,
+          "lng": 29.23,
+          "severity": "red",
+          "detail": "Ongoing conflict involves rebel groups, leading to humanitarian crises and threats to peacekeepers."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.69,
+          "lng": 51.39,
+          "severity": "yellow",
+          "detail": "Tensions with Israel and the US persist, with recent exchanges of fire and disruptions to the Strait of Hormuz."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.77,
+          "lng": 35.23,
+          "severity": "yellow",
+          "detail": "Engaged in conflict in Gaza and facing ongoing tensions with Iran and Lebanon."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "yellow",
+          "detail": "Impacted by regional conflict, with recent Israeli strikes and ongoing humanitarian needs."
+        },
+        {
+          "name": "Ouagadougou, Burkina Faso",
+          "lat": 12.37,
+          "lng": -1.52,
+          "severity": "red",
+          "detail": "Jihadist insurgencies are escalating across the Sahel region, spreading to coastal nations and creating a transnational refugee crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global human rights decline, digital privacy concerns rise.",
+      "summary": "The global human rights system is in peril, facing relentless pressure and a decline in freedoms for the 20th consecutive year in 2025. Freedom of expression is particularly affected, worsening in 44 countries over the last decade. New US bilateral health agreements raise concerns about leveraged health aid, natural resource access, and sensitive health data from recipient countries, highlighting digital rights and privacy issues.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "US policies are impacting global human rights and data privacy through bilateral health agreements, and the country has seen significant declines in democratic freedoms."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "yellow",
+          "detail": "European nations are battling efforts to undermine democracy, though some have shifted away from traditional aid programs."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "red",
+          "detail": "As a leading autocracy, China is undermining the rules-based international order and faces ongoing human rights concerns."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.75,
+          "lng": 37.62,
+          "severity": "red",
+          "detail": "Russia is undermining the rules-based international order and experiencing a decline in freedoms."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "yellow",
+          "detail": "Democracy and human rights face challenges, with India considered one of the most populous autocracies by 2025."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.49,
+          "lng": 19.04,
+          "severity": "yellow",
+          "detail": "Democratic institutions have been undermined, impacting rights, including a ban on Pride marches."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.03,
+          "lng": 38.74,
+          "severity": "yellow",
+          "detail": "One of the countries with US bilateral health agreements raising data-sharing concerns."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.44,
+          "lng": 15.27,
+          "severity": "red",
+          "detail": "Reports detail devastating human rights abuses, including mass killings in eastern DR Congo."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Earth's climate critically unbalanced, extreme weather intensifies.",
+      "summary": "The Earth's climate is more out of balance than at any time in observed history, with global mean near-surface temperatures projected to be significantly higher than pre-industrial levels between 2026 and 2030. Extreme events, including heatwaves, wildfires, droughts, and tropical cyclones, are causing widespread disruption and devastation, leading to significant economic losses and human impact globally. Global greenhouse gas emissions in January 2026 saw a slight increase compared to January 2025.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "red",
+          "detail": "Home to the World Meteorological Organization, which continues to issue critical reports on the accelerating climate crisis."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "red",
+          "detail": "Europe is the world's fastest-warming continent, experiencing shrinking snow and ice, extreme heat, drought, and wildfires."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "yellow",
+          "detail": "China, the world's top emitting country, saw a slight increase in greenhouse gas emissions in January 2026."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "While US emissions declined in January 2026, North America is experiencing an increase in potential burning hours for wildfires due to climate-driven factors."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "yellow",
+          "detail": "India's emissions increased slightly in January 2026, and air pollution remains a major health concern exacerbated by climate factors."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.86,
+          "lng": 151.2,
+          "severity": "yellow",
+          "detail": "At risk of severe droughts and other extreme weather due to global weather pattern shifts influenced by climate change."
+        },
+        {
+          "name": "Karachi, Pakistan",
+          "lat": 24.86,
+          "lng": 67.01,
+          "severity": "red",
+          "detail": "Deadly floods have forced hundreds of thousands from their homes, highlighting vulnerability to climate impacts."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2,
+          "lng": 106.81,
+          "severity": "yellow",
+          "detail": "Indonesia experienced a slight decline in greenhouse gas emissions in January 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Global health gains threatened by resurgent diseases and climate impacts.",
+      "summary": "Despite some improvements, the world is off track to achieve health-related Sustainable Development Goals by 2030, facing persistent inequalities, mental health challenges, and widening immunity gaps. Vaccine-preventable diseases like measles are resurging globally due to misinformation and humanitarian crises, while climate change is fueling outbreaks of mosquito-borne diseases such as dengue. Conflict-affected areas, notably Sudan and the Democratic Republic of Congo, are struggling with cholera outbreaks and disrupted health services.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "The WHO reports that global health gains face a threat of reversal, with the world off track for SDGs by 2030."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Experiencing severe cholera outbreaks worsened by ongoing conflict and disrupted surveillance and response capabilities."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.44,
+          "lng": 15.27,
+          "severity": "red",
+          "detail": "Struggling with one of the worst cholera outbreaks in a decade and a failing health system exacerbated by conflict."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.34,
+          "lng": 32.58,
+          "severity": "yellow",
+          "detail": "Affected by US bilateral health agreements raising data-sharing concerns and facing regional health challenges."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "red",
+          "detail": "Air pollution is identified as the number one killer across South Asia, accounting for millions of deaths annually, including 2.1 million in India alone."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.78,
+          "lng": -47.92,
+          "severity": "yellow",
+          "detail": "Latin America and the Caribbean have seen record-breaking cases of mosquito-borne dengue fever."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.08,
+          "lng": 7.49,
+          "severity": "yellow",
+          "detail": "One of the countries with US bilateral health agreements raising data-sharing concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "Policies affecting global health funding and reproductive rights abroad."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economic growth slows amid Middle East conflict and inflation.",
+      "summary": "Global GDP growth is projected to slow to 2.5-3.1 percent in 2026, significantly below pre-pandemic norms, largely driven by the ongoing Middle East conflict and its impact on energy prices and supply chains. This has reignited inflationary pressures globally, particularly in developed and developing economies. While AI adoption offers some upside, risks remain skewed to the downside, including escalating hostilities and policy uncertainty.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "US economic growth is supported by an AI boom but faces inflation and labor supply constraints."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.71,
+          "lng": 46.68,
+          "severity": "yellow",
+          "detail": "The Middle East conflict is driving sharp energy price increases, significantly impacting global growth projections."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.69,
+          "lng": 51.39,
+          "severity": "yellow",
+          "detail": "War in the Middle East has created a major test for the global economy, affecting energy markets and trade."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "yellow",
+          "detail": "Ongoing war and geopolitical tensions continue to contribute to global economic uncertainty and disruption."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "yellow",
+          "detail": "Facing global trade uncertainty and potential economic backlash from geopolitical tensions."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "yellow",
+          "detail": "As a developing economy, India is facing inflationary pressures from higher energy, transport, and import costs."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "yellow",
+          "detail": "European economies are experiencing weak growth in the near term, largely reflecting the hit from higher energy prices."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5,
+          "lng": -0.12,
+          "severity": "yellow",
+          "detail": "The UK is reducing its aid budget, impacting global humanitarian funding and response capabilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Global democracy unraveling; autocracies outnumber democracies.",
+      "summary": "The global level of democracy has reverted to 1978 levels for the average global citizen, with autocracies now outnumbering democracies (92 to 87) and home to 74% of the world's population by the end of 2025. Freedom of expression and civil liberties are particularly hard-hit, declining in many countries, and the United States has experienced a dramatic decline in liberal democracy. Authoritarian regimes are increasingly collaborating to undermine civil society and international institutions.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "red",
+          "detail": "Experienced significant declines in democratic freedoms, losing its long-term status as a liberal democracy for the first time in over 50 years."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.39,
+          "severity": "red",
+          "detail": "A leading autocracy that is actively undermining the rules-based international order and collaborating with other authoritarian states."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.75,
+          "lng": 37.62,
+          "severity": "red",
+          "detail": "Undermining the rules-based international order and experiencing a decline in freedom and democratic values."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "yellow",
+          "detail": "One of the world's most populous countries that has reverted to autocracy by 2025."
+        },
+        {
+          "name": "Ankara, Türkiye",
+          "lat": 39.93,
+          "lng": 32.85,
+          "severity": "yellow",
+          "detail": "Democratic institutions have been undermined in recent years."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.49,
+          "lng": 19.04,
+          "severity": "yellow",
+          "detail": "Democratic institutions have been undermined, impacting rights, including protests against a law banning Pride marches."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "yellow",
+          "detail": "Democratic institutions have been undermined in recent years."
+        },
+        {
+          "name": "San Salvador, El Salvador",
+          "lat": 13.69,
+          "lng": -89.19,
+          "severity": "yellow",
+          "detail": "Democratic institutions have been undermined in recent years, contributing to the global democratic recession."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen globally as funding dwindles.",
+      "summary": "The number of people requiring humanitarian assistance has increased significantly, reaching 239 million by the end of 2025, while global humanitarian funding has dropped from $19.5 billion in 2020 to $16 billion in 2025. Ongoing armed conflicts, particularly in Sudan, Gaza, Ukraine, and the Democratic Republic of Congo, are causing massive displacement, food insecurity, and health crises, stretching aid organizations to their limits. The 'Humanitarian Outlook 2026' warns of converging trends pushing the world toward deeper instability and human suffering, with resources under growing strain.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "Experiencing a severe humanitarian calamity due to conflict, with Israel sidelining UN aid efforts and critical needs for prolonged rehabilitation."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The civil war has more than doubled humanitarian need, with famine confirmed and 33.7 million people expected to require assistance in 2026."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.44,
+          "lng": 15.27,
+          "severity": "red",
+          "detail": "A decades-long humanitarian crisis is exacerbated by increased violence, disease outbreaks, and aid cuts, with 14.9 million people requiring assistance."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.35,
+          "lng": 44.2,
+          "severity": "red",
+          "detail": "The Yemeni Civil War has left nearly 80% of the population in need of assistance, with the UN's humanitarian response plan severely underfunded."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "red",
+          "detail": "The ongoing conflict continues to contribute to significant humanitarian needs and displacement within the country."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.89,
+          "lng": 35.5,
+          "severity": "yellow",
+          "detail": "Families face extreme economic hardship, and public services are failing amidst conflict and underfunding, with millions needing assistance."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "UNICEF is scaling up access to healthcare and education amidst an ongoing crisis, with millions of children in urgent need of assistance."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.76,
+          "lng": 96.1,
+          "severity": "red",
+          "detail": "Millions are stranded by conflict and disaster, with funding shortfalls curtailing the humanitarian response."
+        }
+      ],
+      "sources": [
+        {
+          "title": "icrc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2wfqkyllJqc6gbmQLozwOcpEI4pUxWTS79x5GexY03pG7toO5JgvA42wr61rHzSBp9rPVSGrk5RPTAZtmzwSanYeYuF51mWwz6YAjgUeGQX74UTFCNNCR1CDa7R1Pu25qPak5rhOwzIQCYc9QyERdYeJFw=="
+        },
+        {
+          "title": "cfr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-Vyl0hoiXkvVBihasO3dNdJkj7k17OfOfB6eTfNmGTwfEqzOv0hwFy53uDcvE5Gi3UIBM1CUdOanhXBTHuhCSkliqfBaUrk4J6Hyr9Ot3KUG6nm9Ibqgr90OP2_-esUADBvrPwKaMZQoYQ=="
+        },
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmVGUgJy8ahyZdCcmBqVJbT318L7cKMR46P7qmsreTFnBfS_CDTsW8bhpwmaMmr9ymfRwwqftoYpS_BFdqypDgzW2awebyjOG30ADYCXsjQHAzwjdCXDiGsU5IuJmedanu"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXu4zlAxTMg6nxFyTFy_0liCw-lP2yfnv2tyorWLH3udCd0VMDtxDGwn5vjS0AxHheapQ62BlZ_O6kCD_0RwI2XpjVfMSLSn5gfJEyFo2WJ93tM7-ZVJNtuRJexqNEh4="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5BHWN-IZKfQN4j9QMl5ANQ6fQMI7h_SsPr1Xm_EIHhov2Cpy0latHrxT_gQC2goGDNhyeIVJWTssmbwm6w3B_JA_cjQhH-xCZg4ScG8QLJzMQ8rTiIyjQeVrTkAEe-UDZJnxhBtd9C-LDtG2y_oKu172CefcxIhgdl0kgCLRAlws7cfmZihMtuVqAsoBLJgDTubM="
+        }
+      ]
+    }
+  }
+}
