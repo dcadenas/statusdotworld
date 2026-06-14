@@ -1,0 +1,489 @@
+{
+  "date": "2026-06-14",
+  "timestamp": 1781422215259,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran peace deal imminent, but regional conflicts persist.",
+      "summary": "U.S. President Trump announced a peace deal with Iran would be signed on June 14, reopening the Strait of Hormuz, though Iran's Foreign Ministry cast doubt on the immediate timeline. Meanwhile, hostilities continue in the Middle East, with drones from Lebanon striking northern Israel, and ongoing conflicts in Ukraine, Sudan, and Yemen.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. President Trump announced a peace deal with Iran, aiming to reopen the Strait of Hormuz."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian hardliners protested against the potential peace deal, and the Foreign Ministry questioned the immediate signing timeline."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The strategic waterway is expected to reopen to global shipping following the peace agreement."
+        },
+        {
+          "name": "Northern Israel",
+          "lat": 32.5,
+          "lng": 35,
+          "severity": "yellow",
+          "detail": "Two drones, suspected to be from Hezbollah in Lebanon, struck northern Israel, causing no casualties."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "Hezbollah is suspected of launching drones towards Israel, and Israeli strikes were reported in southern Lebanon."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49,
+          "lng": 32,
+          "severity": "yellow",
+          "detail": "The Russia-Ukraine conflict continues with Ukrainian long-range strikes and efforts to bolster air defenses."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen remains gripped by one of the world's worst humanitarian crises, with ongoing conflict."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.532,
+          "severity": "red",
+          "detail": "The civil conflict in Sudan is ongoing, contributing to a global high in active conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety controls and religious freedom concerns mark the day.",
+      "summary": "The U.S. government restricted foreign access to Anthropic's advanced AI models (Fable 5 and Mythos 5) due to national security concerns, leading to their global shutdown and raising significant questions about AI safety and digital rights. Meanwhile, Human Rights Watch condemned Qatar's renewed efforts to deport Baha'i leaders, citing violations of religious freedom, and human rights issues in Afghanistan under Taliban rule persist.",
+      "regions": [
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "yellow",
+          "detail": "Qatari authorities are reportedly attempting to deport Baha'i leaders without due process, infringing on religious freedom."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Anthropic, an AI startup, shut down its advanced models globally following a U.S. government export control directive over national security concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration issued national security orders leading to the shutdown of advanced AI models by Anthropic."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "The Neocypherpunk Summit was held, focusing on digital privacy, digital rights, AI, and surveillance."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "yellow",
+          "detail": "Prosecutorial overreach in Argentina is causing growing human rights concerns, particularly for religious minorities."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "A U.S. lawmaker raised concerns about legitimizing the Taliban due to their ongoing human rights violations, especially against women and girls."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "El Niño officially begins, severe floods hit Southeast Asia.",
+      "summary": "The US National Oceanic and Atmospheric Administration (NOAA) officially declared the start of El Niño, with a high probability of it becoming a \"very strong\" event, intensifying concerns over global temperatures and extreme weather. In the Philippines, parts of Metro Manila and Laguna experienced significant flooding due to heavy rains, while Vermont prepares for a summer of potentially strengthened extreme weather events.",
+      "regions": [
+        {
+          "name": "Pacific Ocean (equatorial)",
+          "lat": 0,
+          "lng": -140,
+          "severity": "yellow",
+          "detail": "El Niño officially began, with a high chance of becoming \"very strong\" and leading to increased global temperatures."
+        },
+        {
+          "name": "Valenzuela City, Philippines",
+          "lat": 14.7171,
+          "lng": 120.9833,
+          "severity": "yellow",
+          "detail": "Parts of Metro Manila, including Valenzuela City, were submerged in gutter-deep floods due to heavy rains."
+        },
+        {
+          "name": "Laguna, Philippines",
+          "lat": 14.2833,
+          "lng": 121.3333,
+          "severity": "yellow",
+          "detail": "Laguna province also experienced significant flooding from heavy rainfall."
+        },
+        {
+          "name": "Vermont, USA",
+          "lat": 44,
+          "lng": -72.69,
+          "severity": "yellow",
+          "detail": "The state is preparing for summer as climate change continues to strengthen extreme weather events."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "May 2026 was the joint second-warmest May on record, contributing to a warming trend."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak persists; conflict-driven health crises worsen.",
+      "summary": "An active Ebola outbreak involving the untreatable Bundibugyo species continues in the Democratic Republic of the Congo and Uganda, prompting additional U.S. funding for regional preparedness. Concurrently, public health in Lebanon is severely impacted by ongoing hostilities, with over 3,700 deaths and 11,000 injuries since March, and Yemen's health crisis deepens due to funding cuts, leading to high maternal mortality and widespread malnutrition.",
+      "regions": [
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -2,
+          "lng": 22,
+          "severity": "red",
+          "detail": "An ongoing Ebola outbreak of the Bundibugyo species, for which there is no specific treatment, is causing serious public health concerns."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1,
+          "lng": 32,
+          "severity": "red",
+          "detail": "Uganda is also affected by the Ebola outbreak, with international efforts to strengthen surveillance and preparedness."
+        },
+        {
+          "name": "South Sudan",
+          "lat": 6.877,
+          "lng": 31.307,
+          "severity": "yellow",
+          "detail": "The U.S. is providing additional funding for Ebola preparedness in countries surrounding the outbreak, including South Sudan."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "red",
+          "detail": "Escalation of hostilities has resulted in 3,711 deaths and 11,483 injuries since March, severely impacting public health."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5518,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "The country faces a deepening humanitarian health crisis with severe malnutrition, limited healthcare, and high maternal mortality due to funding cuts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US economy shows resilience amid global energy and trade tensions.",
+      "summary": "The U.S. economy demonstrates resilience with strong sectors like energy production and capital investment, although inflation and inequality remain concerns. In contrast, the Indonesian economy is struggling to attract investors due to high energy prices and costly fuel subsidies, exacerbated by the Middle East war. Meanwhile, global markets are showing signs of recovery but commodities and Bitcoin are under strain, and China's significant economic influence and trade practices are set to be a major discussion point at the upcoming G7 summit.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "The U.S. economy shows resilience with strong energy production and capital investment, despite ongoing inflation concerns."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia's economy is struggling to attract investors due to high energy prices and costly fuel subsidies."
+        },
+        {
+          "name": "Evian-les-Bains, France",
+          "lat": 46.3989,
+          "lng": 6.5916,
+          "severity": "yellow",
+          "detail": "The upcoming G7 Summit will focus on rebalancing trade with China and global economic challenges."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's significant global economic influence and record trade surplus are a central topic for G7 discussions."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global markets are generally bouncing back, but commodities and Bitcoin are experiencing strain."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Mixed signals for democracy: wins in rule of law, concerns over civic participation.",
+      "summary": "In the United States, the removal of Donald Trump's name from the Kennedy Center after a court order was hailed as a win for democracy and the rule of law. Nigeria celebrated its democratic journey, acknowledging the efforts of leaders like General Abdulsalami Abubakar in fostering stability and accountability. However, concerns arose in Rowan County, USA, over restricted public comment at an election board meeting, and residents in Langrune-sur-Mer, France, protested against a U.S. official's visit, citing views contrary to democratic values.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Donald Trump's name was removed from the Kennedy Center following a court order, celebrated as a victory for the rule of law."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "green",
+          "detail": "President Tinubu honored General Abdulsalami Abubakar as a founding father of Nigeria's democracy."
+        },
+        {
+          "name": "Umuahia, Nigeria",
+          "lat": 5.5204,
+          "lng": 7.4721,
+          "severity": "green",
+          "detail": "Governor Alex Otti emphasized democracy's role in empowering the people of Abia State."
+        },
+        {
+          "name": "Rowan County, USA",
+          "lat": 35.6888,
+          "lng": -80.4729,
+          "severity": "yellow",
+          "detail": "A local election board meeting faced criticism for restricting public comment, raising concerns about democratic participation."
+        },
+        {
+          "name": "Langrune-sur-Mer, France",
+          "lat": 49.3175,
+          "lng": -0.3708,
+          "severity": "yellow",
+          "detail": "Residents protested against a U.S. official's visit, citing views contrary to democratic values, leading to the cancellation of his appearance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Yemen crisis deepens; record global displacement amidst aid cuts.",
+      "summary": "Yemen's humanitarian crisis has intensified significantly due to substantial funding cuts, particularly impacting women and girls, leading to a critical lack of healthcare and increased maternal mortality. Globally, a new UN report highlights historic levels of forced displacement, with 118 million people displaced amidst a backdrop of ongoing conflicts and reduced aid funding. While humanitarian assistance is being provided in earthquake-hit areas of the Philippines and additional funding for Ebola response in Africa has been announced, the overall picture indicates escalating needs and insufficient resources.",
+      "regions": [
+        {
+          "name": "Yemen",
+          "lat": 15.5518,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "The humanitarian crisis is worsening due to severe funding cuts, disproportionately affecting women and girls with limited access to healthcare."
+        },
+        {
+          "name": "Sarangani Province, Philippines",
+          "lat": 6,
+          "lng": 124.5,
+          "severity": "yellow",
+          "detail": "The Philippine Army is intensifying humanitarian assistance and disaster response operations following an earthquake, providing essential services."
+        },
+        {
+          "name": "Davao Occidental, Philippines",
+          "lat": 6.1333,
+          "lng": 125.3333,
+          "severity": "yellow",
+          "detail": "Humanitarian aid efforts are underway in earthquake-affected communities to deliver relief supplies."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -2,
+          "lng": 22,
+          "severity": "red",
+          "detail": "Additional U.S. funding was announced for Ebola response and preparedness amidst an ongoing outbreak and humanitarian crisis."
+        },
+        {
+          "name": "Global (Displacement)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "A UN report confirmed historic levels of forced displacement (118 million people) worldwide, exacerbated by aid funding cuts and ongoing conflicts."
+        },
+        {
+          "name": "Central America",
+          "lat": 13,
+          "lng": -85,
+          "severity": "green",
+          "detail": "The Church of Jesus Christ of Latter-day Saints announced several new humanitarian projects focused on health, water, and education."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4q13jNBdqXUEfr1NExQ36m2K_V-h6684kdRE5ct5CfCDTepaFmdv-8RTA28WEicB22lD1D2283wtWHnMtvzS--5If_Qon0-PwyHMJ_64PtC5ML84ojxbPd96u5fiCmkUxKr6hdrrrEOTymYsN6i8XiRXTKFmulhFU8B3VsUJh3YXdFVS5LC5PvvOS53BSuj8EQS9EMEfaD-kdw02JRrwla1yQ3zEGpMIaR-OQhNiNHKhEgtDiEA2Sco6RyElH0XJdmkUqzPl2MoRg1NFNmoA2cwf9JZnySqALz5WrA-XJV-IXE-4gtLiq8_pvmLwjlRBXl_JOP4-B_AGs5Y="
+        },
+        {
+          "title": "pna.gov.ph",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NY1wrxGGSyPYIIYdze_6b0PYAWt5Kxw3IFhj4mlDtyomwQYjC4jRW0ZZAo5fvTjK1uez-roF2iHe2kDEN5ohAlBAaWDZzuWbJURdp7GumAFdKoPofMzrkpVW0jeB1wOw2A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECit9SzadbFXCP2CrnBRgUDF_p87ghXOnxjthEVyqn1hdv8GF4JEcf7oN04edowji2jvr0S_rp_Mwu613JPfRmS0ftam7a6fMQAIR9W8AWi3YB2QqKlpTZoMfraBMFN9jTbZ0ZmvIoUnpzgVMYMIF-9ikb_DaUjHcDNhRJGdUiuc7nAmn_yRDcmAd51vongqYjn47v_Etgum-VuqR7_crNqKc92X2uvvXiyM2OIo5cybgxZo-YF52BnckQde0KXLG4mOaLwB4EvDmIcOSthWl1q9eJajmHbwkG4fDkFVocU2jZi2Icq98sTAIj2MSJ"
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmU8L1Zoe-ZBQrQE0pCOJn-IVnU0DZ9MWawCVRsEAuv00HlA--hDd_cXT0flbp8qCVOTvYAhL6OH2elNuVVHNAjsrW7I-MkSY-HE_2VHbkkFYkK_OHgYOPCLw-GP1"
+        },
+        {
+          "title": "ommcomnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2gLmmocF8D2HVQE2hiOymQfSkaOdlh2-k8BM-TpELJn3xcRhgCcxjmCLz3dY0-OI5gxZjULi2k1pqOoN1Dmwr1XIbJM58YuMUgJoepZ2TVzRYnYPAXiS-BFAVgV34JNene8DVqnXq6PVSZKdaD2XwGdEUWd5fnj61tCYz2NWsS3MCcunQCmOKyRpBYga6xDD5n7FkOnlBCDSceA=="
+        }
+      ]
+    }
+  }
+}
