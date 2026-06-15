@@ -1,0 +1,433 @@
+{
+  "date": "2026-06-15",
+  "timestamp": 1781509719213,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US and Iran reach tentative peace deal to end war, de-escalation begins.",
+      "summary": "The United States and Iran have reached a tentative peace deal to end months of conflict, with an initial agreement expected to be signed in Geneva by June 19. This deal aims for the immediate and permanent termination of military operations on all fronts, including Lebanon, and the reopening of the Strait of Hormuz, though critical questions regarding Iran's nuclear program remain for future negotiations. World leaders have widely welcomed the agreement, signaling a significant step towards de-escalation and regional stability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran confirms the war with the US and Israel will end, with months of negotiations still ahead to address details like its nuclear program."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump announced the agreement to end the conflict with Iran, which includes lifting the naval blockade on Iranian ports."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "An initial peace deal between the US and Iran is expected to be signed here by June 19, following intensive talks."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "green",
+          "detail": "The vital shipping route is expected to reopen on June 19, after being effectively closed during the conflict, leading to global economic relief."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7294,
+          "lng": 73.0931,
+          "severity": "green",
+          "detail": "Pakistan's Prime Minister Shehbaz Sharif announced the peace deal, having acted as a key mediator in the negotiations."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "The peace agreement includes an immediate and permanent end to military operations on all fronts, including Lebanon."
+        },
+        {
+          "name": "Luxembourg City, Luxembourg",
+          "lat": 49.6117,
+          "lng": 6.1319,
+          "severity": "green",
+          "detail": "German Foreign Minister Johann Wadephul stressed the need for the Strait of Hormuz to be navigable again without restrictions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Kyrgyzstan anti-trans bill threatens rights; AI and surveillance issues debated.",
+      "summary": "A concerning draft law in Kyrgyzstan, which passed its first reading, threatens to prohibit legal gender recognition and ban gender-affirming healthcare, raising alarms among human rights organizations. Meanwhile, globally, discussions persist on the ethical implications of military AI and the challenges of verifying its behavior. Separately, the 62nd session of the UN Human Rights Council opened in Geneva, with a focus on various human rights situations worldwide and panel discussions on women's rights in diplomacy.",
+      "regions": [
+        {
+          "name": "Bishkek, Kyrgyzstan",
+          "lat": 42.8746,
+          "lng": 74.5698,
+          "severity": "red",
+          "detail": "A draft law that would prohibit legal gender recognition and ban gender-affirming health care passed its first reading in parliament."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The 62nd session of the UN Human Rights Council commenced, addressing various human rights situations and featuring discussions on women's empowerment."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns remain over the expiring Section 702 of the Foreign Intelligence Surveillance Act, with privacy advocates pushing for reforms to protect American communications."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "MEPs are debating the EU's new 'tech sovereignty package' which aims to control critical technologies and data, while addressing concerns about the EU-US data transfer agreement."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Legal and ethical discussions continue regarding AI safety and its potential impacts on human agency and algorithmic accountability."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "The Texas Attorney General filed a lawsuit against Netflix, alleging 'bait-and-switch' surveillance and the recording of 'behavioral events' for monetization."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "No major new climate events reported; focus on renewable energy plans.",
+      "summary": "No severe new climate events were reported on June 15, 2026. Global efforts continue with an emphasis on sustainable energy, as evidenced by New Mexico's plan to expand its renewable energy sector and a planned panel discussion at the UN Human Rights Council on climate financing.",
+      "regions": [
+        {
+          "name": "Santa Fe, New Mexico, USA",
+          "lat": 35.687,
+          "lng": -105.9378,
+          "severity": "green",
+          "detail": "The Democratic nominee for governor unveiled a plan to expand renewable energy to lower utility costs and strengthen the state's role as a national energy producer."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The Human Rights Council plans to hold an annual panel discussion on the adverse impacts of climate change on human rights, focusing on climate financing."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "green",
+          "detail": "International climate change mitigation and adaptation efforts remain ongoing through various global bodies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak in DRC and Uganda, measles cases in US continue.",
+      "summary": "An Ebola outbreak caused by the Bundibugyo virus continues to affect the Democratic Republic of the Congo and Uganda, with 676 confirmed cases and 136 deaths reported as of June 12. Meanwhile, in the United States, 2,073 confirmed measles cases have been reported across 40 jurisdictions in 2026, with 30 new outbreaks this year. Canada's Minister of Health is also holding a media availability on federal actions to address the opioid crisis.",
+      "regions": [
+        {
+          "name": "Ituri Province, DR Congo",
+          "lat": 1.7607,
+          "lng": 29.8665,
+          "severity": "red",
+          "detail": "Ituri is the most affected province in the ongoing Ebola disease outbreak, with 629 confirmed cases."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Uganda has reported 19 confirmed cases of Ebola, with eight cases in Kampala and one in the neighboring district of Wakiso."
+        },
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "The CDC continues to monitor 2,073 confirmed measles cases across 40 jurisdictions in the United States in 2026."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada's Minister of Health is holding a media availability on federal actions in response to the opioid crisis."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "A report highlights deep racial and ethnic health disparities in Texas, which persist due to various factors including insurance coverage and provider shortages."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Crude prices plunge, stocks surge on US-Iran peace deal.",
+      "summary": "Global markets reacted positively to the tentative peace deal between the US and Iran, with crude oil prices plunging more than 4% and stock markets surging. The reopening of the Strait of Hormuz, a crucial chokepoint for global crude oil supply, is expected to bring significant relief to the global economy.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "World leaders welcomed the US-Iran peace agreement, which is expected to bring global economic relief through the reopening of the Strait of Hormuz."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Stock markets are surging in response to the US-Iran peace deal and the anticipated reopening of the Strait of Hormuz."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "green",
+          "detail": "European markets and institutions are monitoring the economic implications of the Middle East peace deal and the stability of oil supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Debate on US Democratic primary intensifies; EU tackles migration pact.",
+      "summary": "In the United States, support for Democratic presidential hopefuls in the 2028 primary is broadening beyond frontrunners, with ongoing polling indicating shifts among voters. Meanwhile, the European Union's Pact on Migration and Asylum is now in effect across all member states, sparking continued debate and discussion on its implementation.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Support for Democratic presidential hopefuls for the 2028 primary is broadening, with Kamala Harris remaining the frontrunner but with shifting support."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Union Pact on Migration and Asylum is now applicable in all member states, and the EU will bring cases against France and Spain for not enacting cybersecurity legislation."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Discussions on the Intelligence and Security Committee's oversight of UK intelligence agencies continue."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "green",
+          "detail": "New scholarship reflects on the Israeli Supreme Court's ruling on constitutional law, discussing its implications for judicial review."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid continues for Gaza; new flotilla announced; Lebanon IM assessment.",
+      "summary": "Humanitarian aid convoys from the UAE and Egypt continue to enter the Gaza Strip, delivering essential food and shelter supplies amidst an ongoing crisis. Separately, Turkish activists announced preparations for a new Global Sumud Flotilla mission aimed at challenging Israel's naval blockade of Gaza. Meanwhile, an information management assessment was conducted in Lebanon to improve coordinated and evidence-informed humanitarian action.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian aid convoys from the UAE and Egypt continue to deliver food and shelter supplies to civilians facing a humanitarian crisis."
+        },
+        {
+          "name": "Al Arish, Egypt",
+          "lat": 31.1325,
+          "lng": 33.8,
+          "severity": "yellow",
+          "detail": "UAE humanitarian and logistics hub here continues to prepare and load aid onto convoys for Gaza."
+        },
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "yellow",
+          "detail": "Turkish activists announced preparations for a new Global Sumud Flotilla mission towards the Gaza Strip to challenge the naval blockade."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "An information management assessment was conducted to improve humanitarian aid coordination and response for ongoing emergencies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0eTP1fqd3Tsmmov9SbqlHYvcGbzvzNtKtShd3e3Q0IRZuf6q00AoCC6IEESO0bTBXtY1DAFyhRzAIBVeG6R-u36Yv4SdGlOgOVqcbWDZB3dFXhLsT41IZrVAOlIbOZc-YzZbqPEuSrg52Z7N287GBPqRkWYAyjsmtwBAnS-BdpSiwOaNxemZi-deRbBOAAhBcrRxVjNGbt5dB7e1TBwEbjG0nhFaz6Wbr8vVCTP8flVwL5biXfzP-kDgXm_lzxTh0YbFuzraYpo="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsqpyjAvlRKzGxcd0FQz8zG6Qpl6BPtQJ_2uNPcnLf49TEW7BgEffor272qAT0jgsvar9IGa-CzjYbAWPqUMn0ZDeV7wsrAqBozFfapk_6IB_VmqQEFSSiV7aSATmrOuVpu0gD7thuC1yNBhbKXaY0a4xu-pPii23bj9EaQhxlm71Z0wRgoEYxliXfKWbu6T3vjX8K5kcDzaIxV3kdvEQgES5YEhS3hQAe7bObzW0juBELhp3O_LT10KRGrGVnMVyhx1rsowTh5e1Hmi6QT9WTrzrscuc2SIbGrAZW0qVBobMUlDDXjNlGBDfVSzb13mBOh4="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPI9yyYq7l9ozd-DoEFCKNpc8ULJE6y_WzfXmfLWlVD0w7-xOYdP5vjWnPVWRUatek2tb2XEtjuKtPnaZHEoDJMle50DETmT2WPzay3abd9iHZdpYiAlXZ6Fa73kgM9fni164K8oZUzNDimZhAI7J1nmkm3uAUj9Vv5V3MuvbZUl8CAS5NeQNOohopwJitAE0onjjSvLTqYh8xA5dwGTGupGDoQsSyE0_poA=="
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRF-vN80yikTJ-NLZ9Oc_yw5j98IsLF6wmYm2hTRWDpfnPPlfZbuDBoVidCkX0uAu3mFc4CaodUQXOluBarA1m__dehgvVYgIXvVSf15axJxa02LE5QO32rX65VMCFMSpchUPStOW0gDs4DveGcKVy9rhipT_jPfjBg=="
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHctVcUYag3r7VpqjHBOZNYCQ6vybZAohWue6264GbYYORCIVtD4uGBhykDvLWHbdLdNwUyHTGoETFmY7Wt8RTsF0Bg-9LbYcu2eMGWohZDkKhmb9Vj2gIsJpm8pAlYtUlal6CILHWSS5W1dSm1KITa8Niy2ZksrAZVsjTltoW1AwQLcZYCtmVcA6ylsSYaPj08k5sRVWwuUK3iHK3CXaDCSnXPj4HnPoj3MSiREgeoxQ=="
+        }
+      ]
+    }
+  }
+}
