@@ -1,0 +1,489 @@
+{
+  "date": "2026-06-19",
+  "timestamp": 1781855081400,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran peace deal threatened by Israel-Hezbollah fighting, global conflicts surge.",
+      "summary": "A memorandum of understanding was signed between the US and Iran to end the 'Iran war' and lift the blockade on Iranian ports. However, intense fighting between Israeli forces and Hezbollah in southern Lebanon, resulting in casualties on both sides, immediately threatened to unravel this nascent peace agreement. Globally, a 2026 report indicated a twelfth consecutive year of deteriorating peacefulness, with more active state-based conflicts than since WWII, while Russia warned Ukraine of force after drone attacks on an oil refinery.",
+      "regions": [
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli military strikes killed at least 16 people, and four Israeli soldiers were killed in intense fighting with Hezbollah."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israeli Prime Minister Benjamin Netanyahu refused to withdraw forces from Lebanon, and US Vice President JD Vance pushed back on Israeli criticism of the peace deal."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian President Masoud Pezeshkian electronically signed a memorandum of understanding with the US to end the Iran war."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump signed the agreement with Iran, and the US lifted its blockade on Iranian ports, but US-Iran talks were later called off."
+        },
+        {
+          "name": "Putumayo, Colombia",
+          "lat": 0.5,
+          "lng": -76.5,
+          "severity": "green",
+          "detail": "About 100 Colombian guerrilla dissidents disarmed in a step toward reintegration into civilian life as part of peace talks with the government."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia warned Ukraine it would respond with force after Ukraine drone attacks on a Russian oil refinery."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian drones struck a major Russian oil refinery, leading to a warning from Russia about forceful retaliation."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Amnesty International launched a campaign for justice for victims of over 30 years of conflict, highlighting continued presence of armed groups."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights at risk globally amid AI regulations, US surveillance debate.",
+      "summary": "New EU proposals to 'simplify' tech laws, including GDPR and the AI Act, are raising concerns about a potential rollback of digital rights to facilitate AI development. In the US, a debate is unfolding in Kansas City over the implementation of facial recognition technology on public buses, igniting privacy concerns. Most Americans also perceive civil liberties, including voting rights, as under threat.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "EU proposals to 'simplify' existing tech laws are seen as potentially weakening protections for digital rights to benefit AI development."
+        },
+        {
+          "name": "Kansas City, Missouri, USA",
+          "lat": 39.0997,
+          "lng": -94.5786,
+          "severity": "yellow",
+          "detail": "Officials are pushing to equip public buses with facial recognition cameras, sparking a debate over security benefits versus privacy costs."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A poll indicated that most Americans believe core civil liberties, including the right to vote, are under threat."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Amnesty International launched a global campaign for justice for victims of decades of conflict and crimes under international law."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korea announced a risk-based data inspection framework and issued sanctions for severe data safety failures."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The UK's Information Commissioner's Office issued a warning for companies to implement formal data protection complaint processes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Africa disproportionately hit by extreme weather; El Niño looms globally.",
+      "summary": "A WMO report revealed that climate-related extreme weather affected at least 13 million people and caused over 3,000 fatalities in Africa in 2025, with the continent warming faster than the global average. Droughts in East Africa and floods in Nigeria and the Democratic Republic of Congo were highlighted. Globally, there is an 80% chance that El Niño will emerge by summer 2026, threatening to intensify extreme weather worldwide.",
+      "regions": [
+        {
+          "name": "East Africa",
+          "lat": -1,
+          "lng": 38,
+          "severity": "red",
+          "detail": "Droughts in East Africa affected over 8.5 million people in 2025."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "red",
+          "detail": "Severe flooding in Nigeria in 2025 led to over 200 deaths."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Flooding in the Democratic Republic of Congo in 2025 caused over 160 deaths."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.9653,
+          "lng": 32.5832,
+          "severity": "red",
+          "detail": "Cyclone Jude impacted over one million people in Mozambique in 2025."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "The Senate Standing Committee on Climate Change expressed alarm over 'shocking' budget cuts despite increasing environmental vulnerability."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Meteorological Organization (WMO) warned of an 80% chance of El Niño emerging by summer, intensifying extreme weather globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak escalates in DRC/Uganda, global pandemic agreement stalled.",
+      "summary": "A severe Ebola outbreak of the Bundibugyo strain in the Democratic Republic of Congo and Uganda has confirmed over 875 cases and caused more than 200 deaths, with no approved vaccine available. The true scale is unknown due to challenges in remote, conflict-affected areas. Simultaneously, the WHO and Brazil urged world leaders to finalize a critical international agreement for pandemic prevention, as a key annex regarding pathogen access and benefit-sharing remains incomplete.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola outbreak of the Bundibugyo strain has confirmed over 875 cases and more than 200 deaths in the country."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "The Ebola outbreak has spread to Uganda, and humanitarian organizations warn the true scale is unknown."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "yellow",
+          "detail": "The Brazilian President, alongside the WHO chief, urged world leaders to finalize an international agreement on pandemic prevention."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO Chief highlighted the ongoing risks of outbreaks and the critical need to finalize the Pandemic Agreement."
+        },
+        {
+          "name": "Santiago, Chile",
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "severity": "yellow",
+          "detail": "An Andes virus outbreak linked to expedition cruise ship travel is under multi-country investigation in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth slows amid geopolitical tensions; green economy a bright spot.",
+      "summary": "Economists are warning of slowing global growth, with the World Bank cutting its 2026 forecast to 2.5%, citing rising geopolitical tensions, mounting debt burdens, and uncertainty regarding AI's economic impact. The Middle East and North Africa region, in particular, saw its growth projection lowered due to the ongoing Iran war. Despite this, the global green economy has achieved a record market value of US$10 trillion, with related companies outperforming the broader equity market.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Goldman Sachs' chief economist expressed optimism about AI's potential to significantly boost productivity and economic growth."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The World Bank cut its global growth forecast for 2026 due to concerns over wars, trade fragmentation, and weaker investment."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing 'Iran war' was cited as a contributing factor to global economic slowdown and volatile energy markets."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The OECD projected global growth slowing in 2026, especially in Europe, due to energy shocks and inflationary pressures."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The global green economy, with revenue from climate solutions, reached a record market value of US$10 trillion, outperforming equity markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic norms erode in US and South Africa; global peacefulness declines.",
+      "summary": "Concerns persist regarding democratic erosion in the United States, with a crisis of confidence in institutions, political polarization, and strategic manipulation of elections noted. Similar discussions are occurring in South Africa about preventing the emergence of a 'Trump-like leader'. These regional issues align with a global trend of deteriorating peacefulness, as indicated by the 2026 Global Peace Index, which marks the twelfth consecutive year of decline.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A crisis of confidence in democratic institutions and strategic manipulation of elections are ongoing concerns."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "Discussions center on preventing the emergence of a populist leader and the importance of voter vigilance for democracy."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0285,
+          "lng": 105.8542,
+          "severity": "green",
+          "detail": "Vietnam ranked 41st globally in the 2026 Global Peace Index, placing it among the most peaceful countries."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "green",
+          "detail": "About 100 FARC dissidents disarmed as part of peace talks, signaling a positive step for stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen with funding shortfalls and escalating conflicts.",
+      "summary": "Humanitarian aid efforts are severely strained by funding shortfalls and competing crises, particularly affecting Syrian refugees in Lebanon who continue to need support after a decade of displacement. Escalating hostilities in Iran and Lebanon are triggering wider humanitarian consequences, including adverse refugee returns to Afghanistan and Syria. The Ebola outbreak in the Democratic Republic of Congo and Uganda is exacerbating needs, with aid efforts hampered in conflict-affected areas.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Syrian refugees in Lebanon face increasing hardship due to funding shortfalls and cuts to aid, after more than a decade of displacement."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5132,
+          "lng": 36.2913,
+          "severity": "red",
+          "detail": "Escalating hostilities in the region are triggering adverse refugee returns to Syria, exacerbating an already fragile humanitarian baseline."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5201,
+          "lng": 69.1347,
+          "severity": "red",
+          "detail": "Refugee returns to Afghanistan are occurring under adverse circumstances, adding to existing humanitarian needs."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Ebola outbreak in conflict-wracked areas hampers humanitarian aid efforts and increases the true scale of the crisis."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 91.9778,
+          "severity": "yellow",
+          "detail": "The EU provided significant humanitarian aid in 2025 to support food and nutrition assistance for refugee families in Rohingya camps."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.155,
+          "lng": 30.2222,
+          "severity": "yellow",
+          "detail": "Escalating fighting in Sudan's North Kordofan state capital, El Obeid, raises concerns about large-scale violence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdezH8TzCF7P7NtPeB8O8tPjh4QQOtg7xcUqOab5nBhNoyf1DBp7-x72neK1CEfniGDY04yy7hQlF8f6AIti23-jKsmNUlM6cXfS6nmkVgJjVMVgcDievacadfJVNdaouXNox8uoil86qhy3Ev8yHcg5BE_o-4mw0RHW9ppbL63tZP4ygMk5OUGMSK5XzI9bqpGHyxSV3bQ8SxpXLif-IslJ10L0Aqod7eOJMP5an7IzZRHX22Ov0="
+        },
+        {
+          "title": "asianews.network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcow8hpB4RRuPmbBibysPNq_e7a2u50YtgGGlUgmhhaHj6_9e36fhuzutUpUlys1_MpD0iH-TSMC640AzYlGD2pcp0LVcbOSilZwEma7xEsKFv3KQfRwTSNOC7T4cSYjI0g1jphBbC7S2syZQ1PmXlVfE0UM04ADQz0eWCKshtXF8_nppO9p8hI3jRwlxv"
+        },
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRj6Q_h8ks5MR6SIpxJg6wkvAwTTthIMgw8tZMB5mul4wN4sndBM1wi9uSmbuC3BKuSbnSHUGGKNPk_4SmTP4CbFOLjN93JmSYE30BJjrAohX7KiO8UET2pPQaYcncf0hV3tZpRzbOCyuxeE8tdAh34V_n8iqMTC5r_1jDIq5D5yz6psV_EUtdPtQoehD__0ydvRgUNGQGcSWBZq1dB6kYSL702QKRccmBWkn4A1PZvs8eA8J"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypTy0HHCt6xAGaUSKwkjdxk8Hq5Qebk9K2GDfyC3lb3NYO0tDIKAhcb62hKC0Eix3uRypOEkBmsNOIyZ9gH1lsELuwMNGdwp0R3wy7aF3PmKh0DovTF9JrJ-ZzPPla3OtjK_jzs2Mxw4YsRLzkw4wlCc7fDKzrKOhm1HJIl8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMR_u7eqf5XQyKX9v8puGc5wGqMkb9z3XGMGe0iIx84ABjlVPiemu86cJ3D7oyoBhaXOUTxEkYvbxrn0t5YyOyYpVREXz4dlyxyQS8cf9PW3vQ74zQTftHK3Tv2Cg6eGp9dTKZSd2aTKR9Ew5-FDqonJ8MGi37a5hYW0Zvg1-Fs-2gdwNWEF_VQZo372R2fEHTZc1J3GFsoT6NKPTN0zPCgoMp2s1TROc83Vfh-M_-XOILiVhmrfYLuTxCGm_LuV8OhQp38WW-un_4OcVtNBjT12dMQO3mOe0mFCpzNTPutc97stLp10-M"
+        }
+      ]
+    }
+  }
+}
