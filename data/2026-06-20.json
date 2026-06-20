@@ -1,0 +1,489 @@
+{
+  "date": "2026-06-20",
+  "timestamp": 1781939709979,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts at historic highs, major wars continue unabated.",
+      "summary": "The world continues to experience a surge in state-based armed conflicts, with 2024 marking the highest number in over seven decades. Major wars in Ukraine, Gaza, and Sudan contribute to persistently high battle-related deaths, exacerbating global instability. Geopolitical tensions remain heightened, with ongoing conflicts and the proliferation of non-state actors complicating peace efforts worldwide.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The ongoing war with Russia continues to result in significant battle-related deaths and infrastructure destruction."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "The conflict in Gaza remains a major humanitarian crisis with a high death toll and widespread destruction."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan continues to be gripped by internal conflict, leading to widespread displacement and a severe humanitarian crisis."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1311,
+          "severity": "yellow",
+          "detail": "Ongoing military rule and ethnic conflicts contribute to persistent instability and humanitarian needs."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "The country faces protracted conflicts and humanitarian challenges, including internal displacement."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "Expanding gang violence has crippled the country, leading to increased humanitarian needs and insecurity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Global human rights decline amidst repression and tech abuses.",
+      "summary": "Human rights continue to decline globally, marked by widespread clampdowns on dissent, attacks on gender equality, and increased use of racist and xenophobic rhetoric. The proliferation of authoritarian practices, often facilitated by advances in artificial intelligence and surveillance, further limits freedoms and violates individual rights worldwide.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Reports indicate severe violations of international humanitarian law and human rights amidst ongoing conflict."
+        },
+        {
+          "name": "Ramallah, Palestine",
+          "lat": 31.9037,
+          "lng": 35.2036,
+          "severity": "yellow",
+          "detail": "The West Bank experiences increased violence and a system of apartheid impacting Palestinian human rights."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns persist over the state of democracy and potential shifts in human rights policy under the current administration."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Widespread sexual violence and other grave human rights abuses are reported amidst the conflict."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Concerns remain regarding restrictions on freedom of expression, association, and digital rights."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1311,
+          "severity": "red",
+          "detail": "The military regime continues to commit massive human rights violations following its 2021 power grab."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate crisis intensifies, 2024 warmest on record with cascading impacts.",
+      "summary": "The climate crisis continues its severe impact, with 2024 confirmed as the warmest year on record, exceeding 1.5°C above pre-industrial levels. Extreme weather events, including heatwaves, floods, droughts, and wildfires, are intensifying globally, causing widespread human and economic upheaval.",
+      "regions": [
+        {
+          "name": "Northern India",
+          "lat": 28.7041,
+          "lng": 77.1025,
+          "severity": "red",
+          "detail": "Persistent heatwaves in 2024 led to soaring temperatures and a surge in heat-related illnesses and deaths."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Asia, including the Philippines, continues to bear the brunt of climate disasters such as floods and heatwaves."
+        },
+        {
+          "name": "Amazon Rainforest, Brazil",
+          "lat": -3.119,
+          "lng": -60.0217,
+          "severity": "red",
+          "detail": "The region faces increased threats from droughts, floods, and wildfires, impacting global biodiversity."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2769,
+          "lng": 55.2963,
+          "severity": "yellow",
+          "detail": "Extreme temperatures, including a record 62.2°C in 2024, highlight the severity of global warming in urban areas."
+        },
+        {
+          "name": "Mecca, Saudi Arabia",
+          "lat": 21.3891,
+          "lng": 39.8579,
+          "severity": "red",
+          "detail": "Temperatures as high as 51.6°C during the 2024 Hajj pilgrimage resulted in numerous deaths from heat stress."
+        },
+        {
+          "name": "Sahel region, Africa",
+          "lat": 13.5116,
+          "lng": 2.1254,
+          "severity": "red",
+          "detail": "The region is struggling with extreme heat, drought, and torrential rainfall, leading to humanitarian crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Persistent global health challenges including mpox, polio, and dengue surges.",
+      "summary": "Global public health faces ongoing challenges, including the widespread impact of infectious diseases, non-communicable diseases, and mental health crises. Mpox was declared a Public Health Emergency of International Concern in 2024 due to clade I outbreaks in Africa, and surges in dengue cases and new polio detections underscore persistent threats.",
+      "regions": [
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Outbreaks of clade I mpox across Central and Eastern Africa led to a public health emergency."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "Variant polio was detected in Gaza in 2024, highlighting the vulnerability of health systems in conflict zones."
+        },
+        {
+          "name": "San Juan, Puerto Rico",
+          "lat": 18.4655,
+          "lng": -66.1057,
+          "severity": "yellow",
+          "detail": "Local transmission of dengue was reported in 2024, contributing to record high cases globally."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Many countries in Sub-Saharan Africa face a critical shortage of healthcare workers, impacting health service delivery."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "The protracted conflict has damaged health infrastructure and led to outbreaks of diseases like cholera and measles."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy stabilizes at low growth, faces inflation and geopolitical risks.",
+      "summary": "The global economy is projected to maintain slow but stabilizing growth through 2026, averaging 2.7% over 2024-2028, below pre-COVID levels. While inflation rates are declining from recent highs, geopolitical tensions and interest rate uncertainties pose ongoing risks to economic stability and future growth.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. economy shows signs of slowing growth but with improving chances of a soft landing."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Growth in the Euro area remains weak amidst restrictive monetary and tighter fiscal policies."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The Chinese economy's recovery remains tentative, requiring substantial policy support to achieve growth targets."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India remains the world's fastest-growing large economy, supported by robust private investment and strong agricultural production."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "green",
+          "detail": "The Middle East, including Saudi Arabia, is experiencing strong economic performance driven by private consumption and business investment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy in global decline, autocratization trends continue.",
+      "summary": "Global democracy has been in decline for eight consecutive years, with more countries experiencing a worsening in democratic quality than improvements. In 2024, 45 countries were undergoing autocratization, fueled by increasing political polarization, disinformation, and erosion of freedoms of expression.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States is classified as a 'flawed democracy' with ongoing concerns about political polarization and potential executive overreach."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Afghanistan remains among the worst-rated countries for democracy, lacking civil liberties and electoral processes."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1311,
+          "severity": "red",
+          "detail": "Myanmar continues under authoritarian rule, severely restricting democratic processes and civil liberties."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0337,
+          "lng": 125.7562,
+          "severity": "red",
+          "detail": "North Korea is consistently ranked as one of the least democratic nations with virtually no civil liberties."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India, one of the world's largest populations, is not classified as a full democracy and contributes to the global decline in population-weighted democracy levels."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Multiple humanitarian crises demand aid, millions displaced globally.",
+      "summary": "Humanitarian needs remain critical worldwide, with nearly 300 million people requiring assistance in 2024 due to ongoing conflicts, extreme weather events, and economic instability. Major crises in Sudan, Gaza, Ukraine, and Haiti continue to drive mass displacement, food insecurity, and a severe lack of essential services for millions.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan is experiencing the largest displacement crisis globally, with millions forced to flee their homes."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "The ongoing conflict has created immense humanitarian needs, including food insecurity and healthcare collapse."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The protracted war continues to result in extensive destruction, displacement, and a severe need for humanitarian aid."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3075,
+          "severity": "red",
+          "detail": "Expanding gang violence has led to increased killings, kidnappings, and massive internal displacement."
+        },
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo faces one of the world's most complex humanitarian crises due to ongoing clashes and violence."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "South Sudan faces severe humanitarian needs exacerbated by insecurity, economic crisis, and flooding."
+        },
+        {
+          "name": "Adré, Chad",
+          "lat": 13.468,
+          "lng": 22.185,
+          "severity": "red",
+          "detail": "The town in Chad is receiving a significant influx of refugees fleeing the conflict in neighboring Sudan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "prio.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6flsClaObVnDimIb8HsI3b6RvSRWwBXBeKN453TjOrh8MKQaTufM1tepiDhRPYpmmI6h2yCPN9ekJX9BmdpNid2SWnQpwUkmRHrnV8q7MyWu4EPiSxVZ84Q=="
+        },
+        {
+          "title": "crisisgroup.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqiE9kmf7xLHjJIaIi_hrx-2lvur2S15r8iQE22gV-StMOGgUOKVlv0SDTLIjs3V5bsXJwf4iPqX6Yij_-8yovxMyrl5A_N1XHzmGSx5WD8FfowP5nQXn5dLvQCM1aOxRDv-iB_-PpZq4gQJAh4J8lw3QtUBbTunM"
+        },
+        {
+          "title": "acleddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG58etZh0SbO_up_NSQpuzogeZ5qRY_DrB9dmi7O2_RjP9NRyTI2LjxczXl8yUWbWugY6FRhPockJrbLetvSSUJmbovyiirY_vcQhGP-PKwlMSVYBfNQpJPj4tQ-rBT7naaMMu4cZWGJVlqU53DozAl-62ZQGzGD1VJ54eUmvH2-tWEAmaWXJ96mJ-C3s9IQr-DN3hKvco="
+        },
+        {
+          "title": "iiss.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQlEwJB6-fO02UlDQKL3a5LRIiMZKmI2UQlIo8S2xwRVCaYZpCE5rq-OSmJjkrSK8gQJ8CNN9w1G98CKFpjdNJFrZIWeYn9HSuI2KylmIc433iOvq2DebYGvZmB8FSZloJDhzOZi67u71i-KlctHOio1rSP6cyQtU22uh311Hx282lQTXwSjgJtgzEuU8="
+        },
+        {
+          "title": "grokipedia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQSG8s8S3WuUyUlZCW8oYnxsKYqVaryRu3JJ120txQ4zbmd4MW8WX9tev_qMkuRjfiI1v9dC-XOMH63u9g7icHtO-JGAmm6aOrYM0cvlFpc_xfczMMF4Oz2TVNYJFKav-r_wzaW9twWxCCRium00_n61ajJZSI"
+        }
+      ]
+    }
+  }
+}
