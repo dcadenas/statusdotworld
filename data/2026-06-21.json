@@ -1,0 +1,510 @@
+{
+  "date": "2026-06-21",
+  "timestamp": 1782027163326,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran peace talks begin amidst regional tensions and ceasefire violations",
+      "summary": "Peace talks between the US and Iran commenced in Switzerland, aiming to find a durable end to their conflict, with a 60-day ceasefire in place. However, the first day was overshadowed by Iran's declaration of the Strait of Hormuz closure and continued Israeli strikes in Lebanon, resulting in casualties. The UN Security Council also raised alarm over military buildups by the RSF in Sudan.",
+      "regions": [
+        {
+          "name": "Burgenstock, Switzerland",
+          "lat": 46.995,
+          "lng": 8.384,
+          "severity": "yellow",
+          "detail": "US and Iranian delegations arrived for peace talks aimed at ending their war and discussing Iran's nuclear program."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran's Islamic Revolutionary Guard Corps declared the vital waterway shut on Saturday, despite a ceasefire, although US military reported commercial vessels still operating."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.3,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "An Israeli soldier was killed and 13 wounded in an overnight attack, and Lebanese Civil Defence reported 20 killed by Israeli strikes on Saturday after a truce."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Al Jazeera reported an Israeli strike killed one of its journalists on June 20, while a UN Commission cited Hamas atrocities against the population."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian officials participated in peace talks and its military made declarations regarding the Strait of Hormuz."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US Vice President JD Vance departed for Switzerland to participate in negotiations with Iranian officials."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1783,
+          "lng": 30.2224,
+          "severity": "yellow",
+          "detail": "The UN Security Council voiced alarm about reports of the Rapid Support Forces (RSF) massing substantial military reinforcements around the city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "EU migration rules, AI surveillance, and conflict atrocities spark grave concerns",
+      "summary": "The UN rights chief expressed deep regret over new EU migration rules allowing broader detention and 'return hubs' outside the bloc, citing high risks of human rights violations. A UN report detailed a 130% rise in Israeli settler attacks and Hamas atrocities in Palestinian territories. Globally, concerns escalated over AI regulation, digital surveillance plans by the US DHS, and the abrupt cancellation of the RightsCon summit due to government intervention.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The UN rights chief criticized the EU's newly approved migration rules, which permit expanded detention powers and 'return hubs' outside the bloc."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35.3,
+          "severity": "red",
+          "detail": "A UN Commission report cited a 130% rise in Israeli settler attacks, including instances of sexual violence."
+        },
+        {
+          "name": "Evian-les-Bains, France",
+          "lat": 46.4,
+          "lng": 6.6,
+          "severity": "yellow",
+          "detail": "During the G7 summit, French President Macron urged democratic regulation of advanced AI, criticizing 'strictly nationalist' reactions to AI development."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The DHS revealed plans to provide local police with facial recognition technology, expanding surveillance."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3221,
+          "severity": "red",
+          "detail": "RightsCon 2026, a major digital human rights summit, was abruptly cancelled due to government intervention, signaling shrinking civic space."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "New regulations are being tightened for robotaxi fleets after a fatal incident in Dallas where an autonomous vehicle blocked emergency access."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "The state admitted using high-risk AI, with some systems going unreported, and a bill aimed at regulating automated decision systems was defeated."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Bill C-22, the Lawful Access Act, raised concerns about potentially exposing Canadian data to US surveillance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate talks continue, El Niño warnings, and coral reef resilience found",
+      "summary": "Mid-year climate talks in Bonn continued, with the UN climate chief urging faster action on commitments due to escalating climate impacts. NOAA issued a warning for a likely 'very strong' El Niño in 2026, predicting global erratic weather patterns. Positively, scientists identified three times more climate-resilient coral reefs than previously estimated.",
+      "regions": [
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "yellow",
+          "detail": "Annual mid-year climate talks are ongoing, focusing on adaptation and climate commitments."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "London Climate Week is ongoing, bringing together climate negotiators and campaigners."
+        },
+        {
+          "name": "Pacific Ocean (Equatorial)",
+          "lat": 0,
+          "lng": -160,
+          "severity": "yellow",
+          "detail": "NOAA predicts a 63% chance of a 'very strong' El Niño developing, associated with warming sea surface temperatures."
+        },
+        {
+          "name": "Global Coral Reefs",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "Scientists mapped three times more climate-resilient coral reefs than previously known, offering hope for recovery from climate change impacts."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration is dismantling an ocean observation network used to monitor marine heatwaves and coastal flooding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreaks persist, vaping linked to cancer, and healthcare funding cut risks",
+      "summary": "Utah continues to battle measles outbreaks for a year, with over 680 cases and a risk to the US's measles-free status, particularly in undervaccinated communities. A new review found strong evidence that nicotine vaping is likely to cause lung and oral cancers, challenging its perceived safety. Los Angeles County health officials are seeking emergency funds to avert service cuts amidst potential $1 trillion in healthcare reductions.",
+      "regions": [
+        {
+          "name": "Utah, USA",
+          "lat": 40,
+          "lng": -111.5,
+          "severity": "red",
+          "detail": "The state has been battling measles outbreaks for a year, with over 680 cases across 22 counties, impacting its measles-free designation."
+        },
+        {
+          "name": "Los Angeles, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "County health officials are requesting emergency state funds to prevent severe cuts to medical services and potential facility closures."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "A new study linked air pollution and cooler temperatures to an increased risk of cardiovascular emergencies, particularly for the elderly."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "A comprehensive review led by UNSW Sydney concluded that nicotine vapes are likely to cause lung and oral cancers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces war shock, inflation, and political instability",
+      "summary": "The global economy is holding up despite the ongoing conflict in the Middle East, but the outlook has weakened significantly due to rising oil prices and inflationary pressures. International peace talks involving the US and Iran carry significant implications for the global economy, particularly concerning the stability of the Strait of Hormuz. Adding to concerns, the British Prime Minister is expected to resign, potentially introducing political instability in a major economy.",
+      "regions": [
+        {
+          "name": "Global Markets",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy remains resilient but faces significant headwinds and rising inflationary pressures due to ongoing conflicts."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Its closure by Iran's military, despite conflicting reports, has major implications for global oil and natural gas transit and the world economy."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "British Prime Minister Keir Starmer is expected to resign, potentially leading to political and economic uncertainty."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's actions regarding the Strait of Hormuz and participation in peace talks have significant economic implications."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is a key participant in peace talks impacting global economic stability and has an influence on commodity prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Erosion of democratic processes noted in Florida, Bolivia, and Myanmar",
+      "summary": "Democratic processes are under scrutiny in various regions, with Florida Democrats debating racial representation following a new electoral map that effectively diluted a Black-majority district. In Bolivia, a state of emergency was declared to quell protests, which the president deemed an attempt to destabilize democracy. Myanmar continues its struggle for federal democracy against a military dictatorship, and the UN human rights office launched a global alliance to counter shrinking civic space.",
+      "regions": [
+        {
+          "name": "Florida, USA",
+          "lat": 27.9944,
+          "lng": -81.7603,
+          "severity": "yellow",
+          "detail": "A new electoral map has sparked debate among Democrats over racial representation, with a Black-majority district being absorbed."
+        },
+        {
+          "name": "La Paz, Bolivia",
+          "lat": -16.4996,
+          "lng": -68.1207,
+          "severity": "red",
+          "detail": "A state of emergency was declared on June 20 to clear roadblocks amidst protests that have paralyzed the economy and left 14 dead."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.914,
+          "lng": 95.956,
+          "severity": "red",
+          "detail": "The Spring Revolution continues against the military dictatorship, with ongoing calls for the release of Aung San Suu Kyi and support for federal democracy."
+        },
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "The abrupt cancellation of RightsCon 2026 due to government intervention signals a troubling global pattern of shrinking civic space."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The New York City Burmese community called for the release of Aung San Suu Kyi and supported democratic efforts in Myanmar."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "Democratic Party leaders stressed unity ahead of their August convention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid flows to Gaza and global crises, but Myanmar refugees face funding cuts",
+      "summary": "Humanitarian aid continues for Gaza, with Saudi Arabia at the UN Security Council advocating for immediate and sustained assistance, and the UAE sending 786 tonnes of supplies. The US pledged over $1 billion to UNICEF and WFP for needs in over 40 countries, including Ethiopia, Myanmar, and Ukraine, with a new aid model. However, a seminar in Thailand highlighted declining humanitarian assistance for Myanmar refugees due to funding cuts.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Saudi Arabia advocated at the UN Security Council for immediate and sustained humanitarian aid, while the UAE delivered 786 tonnes of supplies."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Saudi Arabia delivered an Arab Group statement at the UN Security Council regarding humanitarian aid to Gaza."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States announced over $1 billion in humanitarian assistance to UNICEF and WFP for global needs in over 40 countries."
+        },
+        {
+          "name": "Chiang Mai, Thailand",
+          "lat": 18.788,
+          "lng": 98.987,
+          "severity": "yellow",
+          "detail": "A seminar highlighted declining humanitarian assistance for Myanmar refugees and the importance of their right to work."
+        },
+        {
+          "name": "Ethiopia",
+          "lat": 9.145,
+          "lng": 40.4897,
+          "severity": "yellow",
+          "detail": "The country is among those facing acute humanitarian needs targeted by new US funding for UNICEF and WFP."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.914,
+          "lng": 95.956,
+          "severity": "yellow",
+          "detail": "The country is facing acute humanitarian needs, also benefiting from US funding, but its refugees in Thailand face declining aid."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "yellow",
+          "detail": "The country is listed among those receiving humanitarian aid from new US funding to UNICEF and WFP."
+        },
+        {
+          "name": "Al Arish, Egypt",
+          "lat": 31.1325,
+          "lng": 33.7983,
+          "severity": "yellow",
+          "detail": "UAE humanitarian aid convoys to Gaza were coordinated with Egyptian authorities in this area."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sbs.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkTmpW9i3_I2RfGPhmrOxtjjFqSX9qtWRlF-M401-wHzpLt1dGq7DLWAxaacKJq3fWw1uBPN1dU1EMhvidTMXpa2UkSG5snwGxxI7RyhlRFIOhyEQpU7rsIHcYFbAl94zS3GJXf9sQhRHm5HveSkd_7lP_0UyXE2eu18QDy78c_99DMH9lxLMi1eZadbybQGCCPygOnLXaHjlu2o9COWuJB1eTdYoPTcCmGdWo0co4ZD2_qVRPxJREnuiAPVTAHSMabrYOsC9"
+        },
+        {
+          "title": "republicworld.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH410vPo4BrxjbhiXIs2OIhEVh9uaUc_S9VY_LQrYkT4tA4pmOZ8UKSk2tl6WZ8e3uJo7zhULr0l46dC64r81Y4W1H1gYQxlT9-5xRMwweyr_Ytg-Nc-W8ZZgls9B3ATLLTYDN-odhEoWelsf2sT1rcohb7ZvHClfxe8Oz49C_FPnInVgQ5RrJ6G8ilI_7agktX20XxXdIztApZnmggMgkH1W8EWludOoWt5HQo_NBpl4R2bC0drUK8tOVU0D-txZaX"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKzW_uOzOPPCknC1TK455CrTEfaIRwisuhWGCn98tskWC3UiWsaeFRjFC4XmkoIW7wmSbXCngiKZfGeZ4ESGSbjJMAUGBFfzUQLUUXsi3wtQTJaZrsjvvXvJqi9yrKVRUnvlAGFtnzZtgdlveS2ySudbIZAQ7tMKcr5I84KOoVBVGTTLoYLEX8iR6SChYzK_iDG-j7vKwxL5LiznStVmiigvA="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLByUqUDJp8KocdzPwJj0XLWELATicfWdSS7vtducpy1VWgwinEoOaTKyMXJ7en1CpbPICYhz7uxzM7AQRER38vVRBHZt8L5chTTNSsjUVXD6oyE5gmUotamFfx-B0wSDQd7zJChWkM6l7YegMETqtITNv5tQQCEpUUhj7e7Vf"
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL8g3hyotdfWfxi0oNaD-PkRMWD7VKbeba5Q5ykAmpA-iqJQs6A3mrEz-N2a3SVg9aZoyK6Gjq8iqcgIqfY4sgWITBZQFdsgCEQdL-x1Pkx-2yl_P_XGwE1DJn6lXfOqt6fSrR-cvyE_ydoOFpVzc5VHxvDrHcSfE7k69goZx6LnCOigUTgQdsQ-Pr2GJeqd04cqGaayFn2WDxnrTrZgE1Jk-Ksx80bstNUqkMZ7l0xSkxg=="
+        }
+      ]
+    }
+  }
+}
