@@ -1,0 +1,461 @@
+{
+  "date": "2026-06-25",
+  "timestamp": 1782371123859,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global tensions rise with Iran threats, Mideast conflicts, and Taiwan Strait patrols.",
+      "summary": "Geopolitical tensions escalated today with Iran announcing a pause on peace talks with the United States and threatening to block the Strait of Hormuz, increasing risks to global shipping. In the Middle East, the Hezbollah–Israel conflict continues, with Israel accusing Hezbollah of ceasefire violations, and the Gaza war remains ongoing. Additionally, Taiwan's defense officials reported military operations in the western Pacific, driving away a Chinese research vessel, while Russia downed a US drone in Eastern Europe amidst ongoing conflict in Ukraine.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz (near Bandar Abbas, Iran)",
+          "lat": 27.1824,
+          "lng": 56.2801,
+          "severity": "red",
+          "detail": "Iran threatened to block the vital shipping route, pausing peace talks with the US."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "The Hezbollah–Israel and Gaza conflicts remain active, with ceasefire violations reported."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Hezbollah was accused of violating a ceasefire with Israel."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan conducted military operations and drove away a Chinese research vessel from restricted waters."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's research vessel was driven away from Taiwan's exclusive economic zone, indicating ongoing regional tensions."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Conflict continues in the region, with reports of Russia downing a US UAV."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russian forces downed a US UAV, escalating tensions in the ongoing conflict."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is involved in ongoing negotiations with Iran and multinational military exercises in the Pacific."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Censorship, political rhetoric, and social discourse on body image raise concerns.",
+      "summary": "While no major new widespread human rights violations were reported, ongoing concerns around censorship in Malaysia were noted. Political discourse in Australia included calls for 'one language,' which could have implications for cultural rights. Additionally, social discussions regarding diet culture, weight loss drugs, and their impact on body acceptance, particularly among young people, continue to be a focus.",
+      "regions": [
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Censorship remains a listed current event in Malaysia for June 2026."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "A political leader called for Australia to have 'one language,' sparking potential concerns for linguistic diversity."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Union continues to be a hub for discussions and policy-making regarding digital rights and AI safety, even without specific new violations today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe suffers extreme heatwave; typhoon threatens Taiwan.",
+      "summary": "Europe is experiencing an intense heatwave, with temperatures reaching new highs, affecting hundreds of millions and prompting emergency warnings across the continent. France notably recorded its hottest day since 1947. Concurrently, Tropical Storm Mekkhala is forecast to strengthen into a typhoon and is expected to approach Taiwan, potentially leading to a sea warning.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "France recorded its hottest day since 1947 as an intense heatwave grips Europe."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "Western Europe continues to experience scorching temperatures, with records being shattered."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Tropical Storm Mekkhala is strengthening and forecast to near Taiwan, potentially prompting a sea warning."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The region is bracing for activity during the 2026 Pacific typhoon season, with Mekkhala being a current threat."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak in DRC, hantavirus death in US, and neurovirus investigation.",
+      "summary": "The Democratic Republic of Congo reported 344 confirmed cases of the Ebola virus across three provinces, signaling an active epidemic. In the US, Arizona confirmed its first death from the Sin Nombre strain of hantavirus pulmonary syndrome. Additionally, public health officials in Oakland, USA, are investigating a neurovirus outbreak linked to a restaurant in Monaco, with 15 reported cases.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.442,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The public health ministry reported 344 confirmed cases of the Ebola virus across three provinces."
+        },
+        {
+          "name": "Phoenix, Arizona, USA",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "yellow",
+          "detail": "The state reported its first death of the Sin Nombre strain of hantavirus pulmonary syndrome."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "green",
+          "detail": "South Africa announced the approval of vaccines for bird flu, addressing a potential health threat."
+        },
+        {
+          "name": "Oakland, USA",
+          "lat": 37.8044,
+          "lng": -122.2712,
+          "severity": "yellow",
+          "detail": "Public health officials are investigating a neurovirus outbreak with 15 reported symptoms."
+        },
+        {
+          "name": "Monaco",
+          "lat": 43.7384,
+          "lng": 7.4246,
+          "severity": "yellow",
+          "detail": "A neurovirus outbreak, currently under investigation, is linked to a restaurant in Monaco."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions threaten global trade; stock markets stable.",
+      "summary": "Heightened geopolitical tensions in regions such as the Strait of Hormuz, Black Sea, and Red Sea are increasing risks for seafarers and disrupting global trade, highlighting the vulnerability of supply chains. Despite these ongoing challenges to trade, global stock markets showed general stability with various companies reporting earnings and corporate actions.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz (near Bandar Abbas, Iran)",
+          "lat": 27.1824,
+          "lng": 56.2801,
+          "severity": "yellow",
+          "detail": "Geopolitical tensions are increasing risks for seafarers and impacting global trade through this critical chokepoint."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "As a major global financial center, London's markets are influenced by, but not currently in crisis due to, global trade disruptions."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "As a vital shipping hub, Singapore is susceptible to disruptions caused by geopolitical tensions in key maritime routes."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The New York stock exchanges reported various company news and transactions, reflecting ongoing, stable market activity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US political standoff continues; Australia sees 'one language' debate.",
+      "summary": "In the United States, President Trump was involved in a shouting match with a Republican senator amid a standoff over a housing bill and anger over a war powers vote, reflecting continued political polarization. In Australia, a debate emerged as a political figure called for the country to have 'one language.' Censorship in Malaysia was also noted as an ongoing concern.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A political standoff and public disagreement between President Trump and a Republican senator highlighted ongoing tensions in US politics."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Political discourse included a proposal for Australia to have 'one language,' sparking debate."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Censorship remains a listed current event in Malaysia for June 2026, posing concerns for democratic freedoms."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's democratic government continues to operate amidst external military pressures and ongoing regional exercises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Deadly Venezuela earthquake, ongoing conflicts, and multiple accidents trigger aid needs.",
+      "summary": "A devastating earthquake in Venezuela claimed at least 32 lives and collapsed dozens of buildings, creating an immediate need for humanitarian aid. Ongoing armed conflicts, including the Gaza war and Hezbollah–Israel conflict, continue to generate significant humanitarian requirements. Additionally, fatal accidents occurred in Ghana, Madagascar, and Afghanistan, further increasing calls for assistance, alongside the evacuation of 11,000 seafarers from the Persian Gulf due to geopolitical tensions and an Ebola epidemic in the DRC.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "An earthquake killed at least 32 people and destroyed dozens of buildings, requiring emergency aid."
+        },
+        {
+          "name": "Gaza City, Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The ongoing war continues to result in severe humanitarian needs for the civilian population."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Ongoing conflict and ceasefire violations exacerbate humanitarian challenges in the region."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.442,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola epidemic with 344 confirmed cases necessitates significant humanitarian and health assistance."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "severity": "red",
+          "detail": "A road accident in the Volta Region resulted in 15 deaths and 25 severe injuries."
+        },
+        {
+          "name": "Antananarivo, Madagascar",
+          "lat": -18.8792,
+          "lng": 47.5079,
+          "severity": "red",
+          "detail": "A landslide at an illegal mining site killed eleven people, requiring rescue and recovery efforts."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1761,
+          "severity": "red",
+          "detail": "A vehicle veered off a mountain road, killing eight people and injuring 16 others."
+        },
+        {
+          "name": "Manama, Bahrain (representing Persian Gulf)",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "yellow",
+          "detail": "11,000 seafarers were being evacuated from the Persian Gulf due to heightened geopolitical tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxtz_nSJN9XqSpm9rN8_fK6aJz--q97lIZLq-0024xHTYvsj56sUpjOBI4QaKCllcHZjZyG7J9x7sTwFRpRFUQ6m51OfZ_okImdII-uvA8etfnr_ZZy6G98qz9lnFIdSDCtkeiDrJGtH_5BZf-zEsQp3FXASaB7JUPqF-TvLil6Mk="
+        },
+        {
+          "title": "imo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHhP_KNOM10XIZ0Dgtftwwf_XGAH0sBDKERW2Zn3ie5Avac9T0fwrHJq7Fri_guts5Ep-OM8DAu_zEWMPBSYqHbtXNpZTP2D93aNb336EmCWsO-BYnIjMNW2bYQ7_sAivnRr9X5fF-__sIw-Xx6Er5fgG2ymg39JCIPz4WdQGzS7Gv4BeHakYOqwWAyBgGsh5ZdEddNFTflUD2c87w_8itcCVnfiFAgpCmFnoMwST6SgiOl5rwh7xuQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIgdfcJZLt-jz3ptjFremC_6_7I4p5q_Cvn4Muitp1PnuG2Sophefgy4vzKgb-8Vlfbpvra1YtKajQSWQpj8cENPCeSFSfqMMP5ZF73qBaCir40Rn0xyxbC0tx9gl2n4EfUMt6Q8="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjs3tqWeaPWgoiN1RrurH3NEmtdtPSMeMa0JBybu7MSIpZ1nJBI8kkogNCNLH26yfpjUU026dLaKQY-i_AjnL4I0SGkpTn74TIA4jc71g-R9vICrv6ZyNH1B9H9q7aj6lZ2JRZt29xUKoUqVbdWupz60jJ7SDtQlE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T8qcuscH2nDJm69o3Ij-MTOYI31HTQCT5aZikXomVyQNX2F18bt9u1VvUI155FOVJZwIvsYHjb6A7fn6COFG4xydR_FMaI6lY6oBB2OxpsK9xJRF9LyS1fTGc_GN1Y5u_w9asaFeAKp8AOoHHEod4QG0LN_uXaKwfQ=="
+        }
+      ]
+    }
+  }
+}
