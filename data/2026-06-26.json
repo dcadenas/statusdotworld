@@ -1,0 +1,510 @@
+{
+  "date": "2026-06-26",
+  "timestamp": 1782457923782,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Israel continues attacks in Lebanon; US-Iran tensions high over Hormuz",
+      "summary": "Conflict intensified between Israel and Lebanon, with Israeli forces attacking southern Lebanon and Prime Minister Netanyahu stating troops would remain in occupied territories despite a US-Iran deal aiming to end hostilities. Tensions also remain elevated in the Strait of Hormuz, where a vessel was reportedly hit by a projectile, leading a UN agency to halt ship evacuations and raising concerns about global shipping.",
+      "regions": [
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.56,
+          "lng": 35.49,
+          "severity": "red",
+          "detail": "Israeli raids in towns like Mefdoun in the Nabatieh district killed civilians, with Prime Minister Netanyahu insisting Israeli forces would remain in occupied areas."
+        },
+        {
+          "name": "Israel",
+          "lat": 31.0461,
+          "lng": 34.8516,
+          "severity": "red",
+          "detail": "Israeli forces continued military activity in southern Lebanon and its airspace, despite a ceasefire deal."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.45,
+          "severity": "red",
+          "detail": "A vessel was reportedly hit by a projectile, prompting a UN agency to halt ship evacuations and raising security concerns amid US-Iran tensions."
+        },
+        {
+          "name": "Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian officials engaged in discussions with Oman regarding maritime traffic plans for the Strait of Hormuz amidst ongoing tensions with the US."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "The spread of Ebola is accelerating amidst ongoing armed conflict in the country."
+        },
+        {
+          "name": "South Sudan",
+          "lat": 4.8594,
+          "lng": 31.5713,
+          "severity": "yellow",
+          "detail": "Ongoing conflict persists despite the recent announcement of an election date, with fighting continuing to affect civilians."
+        },
+        {
+          "name": "Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "yellow",
+          "detail": "The government welcomed a UN envoy's initiative to facilitate a prisoner exchange with the paramilitary Rapid Support Forces amidst the civil war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Drone attacks on West Papua civilians; US ICE deaths surge",
+      "summary": "The Indonesian military reportedly launched drone airstrikes targeting Indigenous civilians in West Papua, resulting in at least one death and multiple injuries. Separately, deaths in US Immigration and Customs Enforcement (ICE) custody surged under President Trump's second term, with 52 deaths recorded, raising concerns about detention conditions and medical care. The World Bank's IFC also rejected findings of harm related to microfinance in Cambodia, impacting millions of indebted borrowers.",
+      "regions": [
+        {
+          "name": "Intan Jaya Regency, Indonesia",
+          "lat": -3.7333,
+          "lng": 137.05,
+          "severity": "red",
+          "detail": "The Indonesian military allegedly dropped grenades from drones, killing an Indigenous woman and injuring several others in the Intan Jaya Regency of West Papua."
+        },
+        {
+          "name": "United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Deaths in US Immigration and Customs Enforcement (ICE) custody have soared, with 52 reported fatalities during the first 500 days of President Trump's second term."
+        },
+        {
+          "name": "Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9225,
+          "severity": "yellow",
+          "detail": "The World Bank's IFC rejected its ombudsman's findings on harm related to investments in Cambodia's microfinance sector, raising accountability concerns for indebted borrowers."
+        },
+        {
+          "name": "Cambridge, United Kingdom",
+          "lat": 52.2053,
+          "lng": 0.1218,
+          "severity": "yellow",
+          "detail": "A University of Cambridge report warned that rapidly advancing AI models could empower criminals and hostile states, necessitating strengthened safeguards."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Legislators passed several AI-related bills focusing on chatbot safety, data transparency, and surveillance pricing, awaiting the governor's signature."
+        },
+        {
+          "name": "Rhode Island, United States",
+          "lat": 41.824,
+          "lng": -71.4128,
+          "severity": "green",
+          "detail": "The state enacted new AI-related laws, including a therapy chatbot ban, a chatbot self-harm safety measure, and disclosure regulations for AI in clinical sessions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe swelters under unprecedented, deadly heatwave",
+      "summary": "A severe, record-breaking heatwave gripped much of Europe, with new June temperature records set in the UK, France, and Switzerland. Scientists confirmed that human-caused climate change made this extreme heat virtually impossible 50 years ago, leading to dozens of deaths and significant disruption across the continent.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "The city experienced record June temperatures exceeding 40 degrees Celsius, leading authorities to warn residents and implement measures like banning public alcohol consumption."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "Temperatures reached record highs for June, with the Met Office extending a red heat alert for southern England, signifying likely significant disruption."
+        },
+        {
+          "name": "Basel, Switzerland",
+          "lat": 47.5596,
+          "lng": 7.5886,
+          "severity": "red",
+          "detail": "The temperature rose above 37 degrees Celsius for the first time ever during June, hitting 38 degrees Celsius, as the heatwave intensified across Europe."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "red",
+          "detail": "Workers preparing for an Ironman triathlon were seen seeking water to cope with the extreme heat affecting the region."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "Residents were seen using fans to combat the intense heat, as extreme temperatures and humidity impacted the city."
+        },
+        {
+          "name": "Hamilton, Canada",
+          "lat": 43.252,
+          "lng": -79.8661,
+          "severity": "yellow",
+          "detail": "The local Board of Health pushed back against a steel plant's request to renew pollution exemptions, citing concerns for air quality and human health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola accelerates in DRC; European heatwave causes health emergencies",
+      "summary": "The spread of Ebola is accelerating in the Democratic Republic of the Congo amidst ongoing armed conflict. Concurrently, the severe European heatwave triggered health emergencies, with France activating its highest health emergency plan and Spain recording dozens of heat-related deaths, straining hospital services.",
+      "regions": [
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Ebola spread is accelerating in the country, exacerbated by armed conflict."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "French hospitals struggled with increased patients suffering from the heatwave, leading to the activation of the highest ORSAN health emergency plan."
+        },
+        {
+          "name": "Spain",
+          "lat": 40.4637,
+          "lng": -3.7492,
+          "severity": "red",
+          "detail": "The country recorded 212 heat-related deaths between June 21 and June 26, highlighting the severe public health impact of the heatwave."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "A record-breaking heatwave prompted calls for urgent government action to tackle overheating in public institutions like hospitals and care homes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Asian markets plunge on AI stock sell-off; Hormuz tensions affect oil",
+      "summary": "Asian stock markets, including Japan and South Korea, experienced significant plunges as traders sold off artificial intelligence-related stocks to lock in profits, leading to broad declines across the region. Additionally, ongoing tensions in the Strait of Hormuz continued to impact global oil prices and shipping, adding to economic uncertainty.",
+      "regions": [
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "The Nikkei 225 index shed 4.5% as traders sold AI-related stocks, reversing previous gains."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "red",
+          "detail": "The Kospi index plunged 6.8%, with major chipmakers like Samsung and SK Hynix experiencing significant losses, erasing previous day's rallies."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.45,
+          "severity": "yellow",
+          "detail": "Tensions and a reported attack on a vessel led to a halt in UN ship evacuations and contributed to fluctuations in global oil prices."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "The Hang Seng index lost 1.7% amid the broader Asian market downturn."
+        },
+        {
+          "name": "Shanghai, China",
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "severity": "yellow",
+          "detail": "The Composite index slipped 1.4% as AI-related stock rallies cooled."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan's Taiex gave up 3.6%, reflecting the regional sell-off in technology shares."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic backsliding concerns rise in Europe and US",
+      "summary": "European mayors expressed deep concerns over democratic backsliding, disinformation, and eroding trust, identifying rule of law erosion as a major threat. In the United States, the V-Dem Institute noted an 'unprecedented' dismantling of American democracy, while a federal judge blocked parts of a Trump order aimed at limiting voting by mail.",
+      "regions": [
+        {
+          "name": "Europe",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "yellow",
+          "detail": "A major survey of European mayors revealed widespread concerns about democratic backsliding, disinformation, and declining trust in democratic institutions."
+        },
+        {
+          "name": "United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute reported an 'unprecedented' speed of democratic dismantling under the current administration, citing executive overreach and suppressed voices."
+        },
+        {
+          "name": "Boston, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "A federal judge blocked key parts of President Trump's executive order aimed at limiting voting by mail."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5833,
+          "lng": 7.7458,
+          "severity": "green",
+          "detail": "The Council of Europe held a 'Youth innovating democracy' conference to address democratic challenges and reinforce democratic foundations."
+        },
+        {
+          "name": "Sioux Falls, United States",
+          "lat": 43.5446,
+          "lng": -96.7317,
+          "severity": "green",
+          "detail": "The City Council convened to declare official results for a runoff municipal election, with a potential recount for the mayoral office due to a two-vote margin."
+        },
+        {
+          "name": "Minnesota, United States",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "green",
+          "detail": "Early voting began for the August 11 primary election, with officials expecting a spike in turnout for competitive races."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Massive international aid deployed to earthquake-stricken Venezuela",
+      "summary": "A large-scale international humanitarian effort is underway in Venezuela following two powerful earthquakes on June 24 that killed at least 188 people and injured over 1,500. Governments and organizations worldwide are sending rescue teams, financial aid, and essential supplies to assist with search and rescue operations and recovery efforts.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The capital is a hub for international aid efforts responding to two powerful earthquakes that struck approximately 160km west, causing widespread damage and casualties."
+        },
+        {
+          "name": "United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US mobilized $150 million in aid and deployed military assets, including ships and aircraft, along with search-and-rescue teams to assist Venezuela."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "Mexico dispatched a team of rescue workers and medical personnel to Venezuela and is evaluating sending additional help."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spain sent a military plane with 57 soldiers from its search-and-rescue unit and 40 firefighters, planning to set up a field hospital in Venezuela."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Colombia dispatched over 60 rescuers and 12 tons of humanitarian aid to its neighbor, Venezuela."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The International Federation of Red Cross and Red Crescent Societies (IFRC) released $2.5 million to support recovery efforts in Venezuela."
+        },
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "yellow",
+          "detail": "Pope Leo XIV sent €100,000 from the Vatican's charity fund for quake relief in Venezuela."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "yellow",
+          "detail": "UN humanitarian operations continued despite growing shortages, worsened by Israeli restrictions on imports of materials needed for emergency shelters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXkXu0tsCPkEMNfiYVPL4YCcDiHv9zq1ZGA392PWGYzR6-AOaL4D_uDCkdy75VTI_ccJWCyuJs0Fb121BDKk3wi39kvC0xfycfLuScjNjP8Zln4uEKK2-Or1NM2yMlBoECXuvgu7V0kCwDaF6rD3Ycw9vTMxwNdbkJWxUTuuBijoMxWudRxSWafPeCeV0jQa3G9WpDUvxQKG31F2N3NfX5TnB8tBRa-13lez7h8a6s-Yg2"
+        },
+        {
+          "title": "ndtvprofit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhzlTl_-qL28f0XsVXpPFzMga9_SI2RtIAJIOYBS4cMrQnfyIUKsWVvYLESRvMMRkCCNkCRGOhEDq2ICBx4twFWiRJ58f_3_L6kdY5gOctq7kwtbviB_1ScoGBzZ9h_OybPrzmBT_kU2M6lzwkSU4JRZ5gKg1pTy4ER3iMuhZVhWOXHugVIjLw9YJI-ZV50nljp3yc3ixDSXSmIZd3Cvxv88CShgJ9XXpnWTXBUShH6TlnEjdCsabzau0VrniaLxu_stl-4aXuM7SLTT-NE8OncDTpTXlHzmGZqwEL3TeyDCxahc4AAtu1PNB2dDyM2RCXqHs1jG8CMkN6Ois="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOxr1tG-FKqQU4O8VYi1e-mXE_3bES-nqGBo7EgS9J5fAGu_iJjJAmLzz-xBQERsJ0FWyS_1nzFBk1o8NDye0tswVgHXL5DArcl-jgCRWr-D-ZDZ0qpIJcBzcFtvEWkzxH1XFPfUMJAFngmN2ms63AocxrhqUb7SPtvKCM9z_QU4PnFX0t1gP2r7W7"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45ZDXGD6Gfy70Tu6M5VJo9VCNX_7MnlagliqhEQ-DzzHXDWUzr5m5GMQ3uilYwP5_CWenLnQwo_5zZzT8za03mw4MHm-LLWKfb2kf1itSgi65QPnUDEZiYnkJiPnurlBCKXEDvC-9UnDF5S-j3PuLvjwCPJTJzMqAbDRAGdc-5V72emN7noNu6pT_yVIllj5hQJAFVFDzo8EYPJeUUcBZodoeYQLKlmUpzgf2rTsGVQ9aj5I5MojNtIx8OVOnPQN3f45wT0rm17VvQpZPw5uAaAcrUDXAVXkFZKCcb_rgcrCYeZTjWu978A=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvN7ZkpzP0_30ge5OV1ydF_40Qqm_vEnnLF1ZMSPZI4hd6aSrSp6WklWmXPebY2CXoi_z6NbosRgdRtbT-T1xl_wDuLUBErbMQ1uGGoV9zB3tPflXsutIOJdjMWNAGYIXQ8Tl79t3QzDBnZ0zi5AyqchMjsHbHAmVBO0rcMhV1VE1ezfFPRF8JDcP0E76BTChrnq0JnsrlGzg8j5b1CzF0crFxJ7Eo3fvAgqwAeVa0G48v829A2BkmoTlkV26auBfBWCu05lMO_FRE6qiygR_KlEfkW8tEklpQ5NEKIYehzRFgxXXOYuFMfOcHRxbJIUkCMEgRPGw"
+        }
+      ]
+    }
+  }
+}
