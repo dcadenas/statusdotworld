@@ -1,0 +1,496 @@
+{
+  "date": "2026-06-27",
+  "timestamp": 1782543599791,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US strikes Iran; Israel & Lebanon sign framework agreement",
+      "summary": "The US launched strikes against Iran in response to a drone attack in the Strait of Hormuz, challenging an interim peace understanding. Simultaneously, Israel and Lebanon signed a US-brokered framework agreement, a first step towards peace after months of conflict, though Hezbollah opposed it. Meanwhile, eastern DR Congo continued to see unstable security and human rights violations.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US announced strikes on Iran and brokered the Israel-Lebanon framework agreement today."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran was struck by the US following a drone attack in the Strait of Hormuz, raising regional tensions."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "A drone attack on a cargo ship here led to US retaliatory strikes on Iran, exacerbating oil supply disruptions."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel signed a US-backed framework agreement with Lebanon, aiming for a diplomatic resolution to ongoing conflict."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Lebanon signed a framework agreement with Israel, despite rejection and civil war warnings from Hezbollah."
+        },
+        {
+          "name": "Goma, DR Congo",
+          "lat": -1.6784,
+          "lng": 29.2275,
+          "severity": "yellow",
+          "detail": "Eastern DR Congo continued to experience high instability and conflict-related human rights violations."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 30.0597,
+          "severity": "yellow",
+          "detail": "Rwandan forces continued to support the M23 movement in ongoing clashes within the eastern DR Congo."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "green",
+          "detail": "Ukraine and Russia conducted a prisoner exchange, with no new major armed conflict developments reported today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "UN urges probe into US immigration deaths; SCOTUS restricts asylum",
+      "summary": "The UN Human Rights High Commissioner called for investigations into a surge of deaths in US immigration custody. Concurrently, the US Supreme Court issued rulings stripping asylum seekers of protected status and preventing them from applying for asylum at the southern border. The Philippines was also cited among the worst human rights performers globally.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US Supreme Court issued two anti-immigrant decisions, restricting asylum and TPS, impacting hundreds of thousands."
+        },
+        {
+          "name": "Newark, New Jersey, USA",
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "severity": "red",
+          "detail": "Deaths in US immigration custody, including in facilities like Delaney Hall, prompted a UN call for independent investigations."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "red",
+          "detail": "The Philippines was listed among the worst global human rights performers, receiving low scores for various rights."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Legislative obstruction of judicial nominees risks undermining fundamental human rights safeguards in Taiwan."
+        },
+        {
+          "name": "Connecticut, USA",
+          "lat": 41.6032,
+          "lng": -73.0877,
+          "severity": "green",
+          "detail": "A new sweeping AI law was enacted, establishing requirements for frontier AI models and employment AI."
+        },
+        {
+          "name": "Sirik, Iran",
+          "lat": 26.5,
+          "lng": 57.08,
+          "severity": "yellow",
+          "detail": "The US government allowed Anthropic to release its Mythos 5 AI model to 'trusted' US organizations, partially reversing an order over national security risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe battles record heatwave; US South faces extreme HeatRisk",
+      "summary": "A record-shattering heatwave continued across much of Europe, with France hitting its hottest day ever and widespread red alerts causing health concerns. Meanwhile, major to extreme HeatRisk was forecast for the Southern Plains and Southeast US, with temperatures exceeding 100°F in areas like Dallas.",
+      "regions": [
+        {
+          "name": "Nantes, France",
+          "lat": 47.2184,
+          "lng": -1.5536,
+          "severity": "red",
+          "detail": "France experienced its hottest day ever recorded, with temperatures reaching 42C, due to an ongoing severe heatwave."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "The UK set a new June temperature record for the third consecutive day, straining infrastructure and leading to health warnings."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "red",
+          "detail": "Germany, along with much of central Europe, was under red alerts due to the ongoing and historically severe heatwave."
+        },
+        {
+          "name": "Dallas, Texas, USA",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "red",
+          "detail": "The Dallas area was forecast to experience Extreme HeatRisk with temperatures exceeding 100°F as dangerous heat expanded across the Southern Plains."
+        },
+        {
+          "name": "Jacksonville, Florida, USA",
+          "lat": 30.3322,
+          "lng": -81.6557,
+          "severity": "red",
+          "detail": "Parts of Florida, including Jacksonville, were under an Extreme HeatRisk forecast as dangerous heat expanded."
+        },
+        {
+          "name": "Detroit, Michigan, USA",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "yellow",
+          "detail": "Metro Detroit was issued a 4Warn Weather Alert, expecting dangerous heat with high humidity next week."
+        },
+        {
+          "name": "Portland, Oregon, USA",
+          "lat": 45.5051,
+          "lng": -122.675,
+          "severity": "yellow",
+          "detail": "A Weather Impact Alert was issued for heavy rain, possible thunder, and hail in northwest Oregon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Heatwaves trigger health crises; Ebola spreads in DRC",
+      "summary": "Record-breaking heatwaves across Europe and the Southern US caused severe health advisories and warnings of increased heat-related illnesses and deaths. In DR Congo, an ongoing Ebola outbreak continued to outpace aid efforts amid active conflict and strained health services. Venezuela also grappled with a soaring death and injury toll from recent earthquakes.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "A red 'extreme heat' warning was in effect, straining health services and causing population-wide adverse health effects."
+        },
+        {
+          "name": "Nantes, France",
+          "lat": 47.2184,
+          "lng": -1.5536,
+          "severity": "red",
+          "detail": "The extreme heatwave led to multiple drownings in unsupervised swimming areas, highlighting significant public health risks."
+        },
+        {
+          "name": "Dallas, Texas, USA",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "red",
+          "detail": "Extreme HeatRisk was forecast, increasing heat exposure for millions and raising risks of heat-related illnesses."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola outbreak continued to spread in the country, compounded by active conflict and overstretched health services."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The death toll from recent powerful earthquakes rose to 920, with thousands injured and displaced."
+        },
+        {
+          "name": "Detroit, Michigan, USA",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "yellow",
+          "detail": "A 4Warn Weather Alert was issued for a stretch of dangerous heat expected next week, increasing health risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US threatens Europe with tariffs; Hormuz crisis impacts oil",
+      "summary": "US President Trump threatened 100% tariffs on European goods in response to digital services taxes, escalating trade tensions. The Strait of Hormuz conflict caused the most severe oil supply disruption in history, with Brent crude surging. The IMF warned of global economic shock if the US-Iran ceasefire collapses due to depleted oil reserves.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump threatened 100% tariffs on European countries over digital services taxes."
+        },
+        {
+          "name": "Brussels, Belgium (EU)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "European nations faced threats of tariffs from the US over the implementation of digital services taxes."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The ongoing conflict created the most severe oil supply disruption in history, causing Brent crude prices to surge."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Geopolitical tensions with the US regarding the Strait of Hormuz continued to impact global oil markets and prices."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Gold prices declined due to expectations of Federal Reserve rate hikes and easing geopolitical risks in the Middle East."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China reported a year-to-date industrial profits growth of 18.8% for May, indicating economic stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Louisiana elections held; Taiwan judicial crisis deepens",
+      "summary": "Louisiana held 2nd Party Primary/Municipal General Elections, including a Republican primary runoff for US Senate. In Taiwan, the Legislative Yuan's continued obstruction of nominees to the Constitutional Court risks undermining democratic safeguards and creating a human rights crisis. AI-generated political ads were also noted as a growing factor in US elections.",
+      "regions": [
+        {
+          "name": "Baton Rouge, Louisiana, USA",
+          "lat": 30.4515,
+          "lng": -91.1871,
+          "severity": "yellow",
+          "detail": "Voters participated in 2nd Party Primary and Municipal General Elections, including a significant US Senate Republican primary runoff."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Obstruction of nominees to the Constitutional Court by the Legislative Yuan threatened the integrity and functioning of democratic institutions."
+        },
+        {
+          "name": "Bnei Brak, Israel",
+          "lat": 32.0883,
+          "lng": 34.8361,
+          "severity": "yellow",
+          "detail": "Protesters blocked roads demanding equal military service obligations and conscription for ultra-Orthodox Jews."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Discussions on AI safety legislation and the use of AI in political campaigns highlighted evolving challenges to democratic processes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Venezuela quake toll climbs; DRC crisis deepens",
+      "summary": "The death toll from powerful earthquakes in Venezuela tragically reached 920, with thousands injured and displaced, prompting UN pledges of support. In the Democratic Republic of Congo, a grave humanitarian situation persisted, marked by widespread food insecurity and an escalating Ebola outbreak, with aid efforts significantly underfunded. Concurrently, US Supreme Court rulings and new legislation curtailed aid for refugees and asylum seekers.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The death toll from devastating earthquakes rose to 920, with 3,360 injured and 3,007 displaced people requiring urgent aid."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Nearly 27 million people faced food insecurity amidst an escalating Ebola outbreak and underfunded humanitarian aid efforts."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Supreme Court rulings restricted asylum access, and new legislation curtailed food aid for refugees and immigrants."
+        },
+        {
+          "name": "Phoenix, Arizona, USA",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "red",
+          "detail": "Refugee and immigrant aid organizations faced increased challenges due to federal policy changes impacting critical support programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUjBADS_9dhtw20mMKK6AYaP4SbO40ONdlupDFspy4V5cqrRFbIVWUZryVa3ylC-pdQPPo5KNNRsoD-0ykTxupjXiTUhS7IAcGH5FdYqr9vIJm_jeHzWuAdhXVZ0pUv7WUnBiZQhBPe4L4SvE7FTL_10YuFIR25PFKJFkaDnxbmH8pO7phth2LvoWh9bB9KGkuSbSSzNsk4YQ="
+        },
+        {
+          "title": "discoveryalert.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXu9GyN0BwQ6caD8gkW8ywsmHPRPq3TuvDu_FMPS93h5NXFb-VSgTXvbY6Kt-z7J9d-KbWmGb77o-L9ssqD9GAc2rOncAw3lDesblbMUpaMeiaDfd3H4t1yeTW062EbiY6w2Fk8BufDMcZNfwaKC81BVgJhWABmmW8uBZiHAyKvjEHeEKIcytvHI-SPfZmTg="
+        },
+        {
+          "title": "ctpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3nr1P_lg7_am7Hz6wsCHs0eVVN3D-v90QONxmD2qrksL_TuEoNxhUakDCOFTViCUGP6chiSBvnY3bEbZxZbuliv67xCPDxys007ldpelG41E28eW1Fi-zZ7dFOjPLdaMY0h40vebFIw7ROfL1xZ8hAUj38Rk3uvVpm7A8Mkbb_k5g91vZRFz0NGHJikv6KnSHz0NqUzs="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JBXJF8ASGRacRg0xwcG7EwMwdKPc5IoV25MFs7qJohirIHrtQnwjgXTXrBmFp-d0YJfkEPStmsqP3t7EJ4fLNyhf9b9Ac_YqnDXw1bBgmNcwqyw_1B960ohiYNIhY4gKFEt-ztgxupFCXseNVu205u-TbJdZ282V_RR3299tUG8tICh9Zaw3WRPhoT6hcmNwnEd9SwYszT69TM9xuSBWErb4opZDMOKmmJQVPlfxrcIuuBxis5mQ1JiyDLstK9_qiPlCbujx0DwFY-VPUod8LRc_IKV80MWpVKTvzT03yQKmkT27Kb1IEdlTwKOmTP0nZx51dSepz1LwvdMQ1g=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGqrH1Hzf9q8eKj6ty6-q6odHPuLHjL6BLBsThsPKuAFjFRcU8viuvmgA1cI83PVTCyLq7FfoFCcHnBmw1bjzNHee47AuhVaRXZ3f9c6IEujVoawR6KN_9WGAsnp9_Pn3UBqHMr3W7RuWeNz_NkudwCh6jIR31bQmXlaaOZcQ="
+        }
+      ]
+    }
+  }
+}
