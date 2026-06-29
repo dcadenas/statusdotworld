@@ -1,0 +1,447 @@
+{
+  "date": "2026-06-29",
+  "timestamp": 1782718400889,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Strait of Hormuz tensions rise; Ukraine war aid continues.",
+      "summary": "Disruption risks in the Strait of Hormuz are elevated following a reported tanker strike, contributing to subdued investor confidence and past surges in oil prices linked to an 'Iran war.' Meanwhile, humanitarian efforts continue for victims of the ongoing conflict in Ukraine, focusing on providing essential medical aid.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Heightened disruption risks, including a UK Navy-confirmed tanker strike, are affecting global oil markets and investor sentiment."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Humanitarian aid, including nerve repair devices, continues to be supplied to war victims as the conflict's impact persists."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Hong Kong's rights further eroded; Ghana criminalizes LGBTQI+.",
+      "summary": "Beijing has tightened social control in Hong Kong, eroding long-protected rights through expanded national security laws and increased censorship. Ghana's parliament passed a bill criminalizing LGBTQI+ individuals and supporters, raising serious global human rights concerns.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Beijing's restructuring of governance and new police powers under the National Security Law continue to erase democratic and privacy rights."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "severity": "red",
+          "detail": "Ghana's parliament approved a bill imposing prison terms for LGBTQI+ people and their supporters, sparking widespread condemnation."
+        },
+        {
+          "name": "Everglades City, Florida, USA",
+          "lat": 25.8459,
+          "lng": -81.3915,
+          "severity": "yellow",
+          "detail": "Reports detail filthy and unsafe conditions at an immigrant detention center, violating human rights."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "The Supreme Court of India affirmed the right to walk on footpaths as a fundamental right to life, mandating safe pedestrian infrastructure."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Supreme Court limited the scope of the Alien Tort Statute, making it harder for foreign litigants to sue for international law violations."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "OpenAI and the Korea AI Safety Institute signed an agreement to cooperate on high-risk AI evaluation, including cybersecurity concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Deadly heatwaves grip Europe and US; Venezuela suffers from quakes.",
+      "summary": "Record-breaking heatwaves are sweeping across Europe, causing thousands of excess deaths and overwhelming public services, while the central and eastern United States also faces dangerous, prolonged extreme heat warnings. Venezuela is grappling with the devastating aftermath of two strong earthquakes, which have resulted in widespread casualties.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Record heat has overwhelmed mortuaries, with at least 1,000 excess deaths linked to the heatwave."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "red",
+          "detail": "Temperatures climbed to 40°C in parts of the country, setting new national records during the severe heatwave."
+        },
+        {
+          "name": "Detroit, Michigan, USA",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "red",
+          "detail": "An extreme heat warning has been issued for Southeast Michigan with heat indices expected to top 100°F (38°C)."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The country is reeling from two strong earthquakes on June 24, with casualties reaching 1,430 and significant damage."
+        },
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "red",
+          "detail": "A fast-moving wildfire, the largest in the US, is burning through forests with winds hampering containment efforts, and three firefighters were killed."
+        },
+        {
+          "name": "Frankfort, Kentucky, USA",
+          "lat": 38.2009,
+          "lng": -84.7332,
+          "severity": "red",
+          "detail": "Floods have claimed four lives in Madison and Jackson counties, leading to a statewide emergency declaration."
+        },
+        {
+          "name": "Seattle, Washington, USA",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "green",
+          "detail": "Washington state signed a historic carbon market linkage agreement with California and Québec to reduce greenhouse gas emissions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Deadly European heatwave; US measles surge; new Chikungunya vaccine.",
+      "summary": "A severe and widespread heatwave across Europe has led to thousands of excess deaths, straining healthcare systems and underscoring the lethal impact of extreme temperatures. In the US, Pennsylvania is managing a significant measles outbreak, primarily concentrated in the Lancaster-Lebanon region. In more positive news, Health Canada has approved a new vaccine for the Chikungunya virus, expanding global preventive options for travelers to endemic areas.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Europe's record heat has overwhelmed mortuaries, with national public health agencies estimating thousands of excess deaths."
+        },
+        {
+          "name": "Lancaster, Pennsylvania, USA",
+          "lat": 40.0379,
+          "lng": -76.3055,
+          "severity": "yellow",
+          "detail": "The Pennsylvania Department of Health is on alert due to a rise in measles cases, with 72 cases in the Lancaster-Lebanon region alone this year."
+        },
+        {
+          "name": "Copenhagen, Denmark",
+          "lat": 55.6761,
+          "lng": 12.5683,
+          "severity": "green",
+          "detail": "Bavarian Nordic announced Health Canada's approval of its VIMKUNYA vaccine for chikungunya virus, expanding global preventive options."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "A severe sanitation collapse is worsening the public health crisis for its population."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global markets mixed; AI boom warns of financial crash risks.",
+      "summary": "Global markets are displaying mixed performance, with US chip stocks rising but overall tech declining, while India's benchmarks continue a positive streak. Concerns are growing over the AI boom, as central bankers warn of a potential global financial crash due to complex financial ties. Inflation remains a focus, with varying outlooks for the US and Eurozone.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US markets saw chip stocks rally but overall tech sectors declined, with an eye on the upcoming Non-Farm Payrolls report and persistent inflation concerns."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Indian stock market benchmarks posted their third consecutive weekly gain, indicating stable performance."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Euro area yields remained stable, and interbank rates edged lower amid expectations of moderating inflation and softer ECB tightening."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The FTSE 100 gained slightly but had fallen earlier in the year due to the 'Iran war' impacting share prices and causing oil price volatility."
+        },
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Disruption risks from a tanker strike are causing subdued investor risk appetite, impacting global oil prices."
+        },
+        {
+          "name": "Basel, Switzerland",
+          "lat": 47.5596,
+          "lng": 7.5886,
+          "severity": "yellow",
+          "detail": "The Bank for International Settlements (BIS) warned that the AI boom poses a risk of global financial crash."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Hong Kong's democratic erosion deepens; wealth impacts US democracy.",
+      "summary": "Democratic freedoms in Hong Kong are experiencing severe erosion as Beijing continues to tighten its grip, dismantling independent media and civil society under the National Security Law. In the United States, concerns are mounting over the distorting influence of concentrated wealth, exemplified by the first trillionaire, on political processes and government policies. South Korea faces legislative gridlock due to ongoing disputes over parliamentary control.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Beijing's restructuring of governance has neutralized the democracy movement and entrenched a national security architecture."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The concentration of wealth is seen as distorting politics and society, with former officials criticizing the US's role in rising global impunity."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "severity": "red",
+          "detail": "Parliament's approval of an anti-LGBTQI+ bill raises fears of broader restrictions on civil society and human rights work."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "The Democratic Party's move to potentially take all parliamentary committee chairmanships threatens legislative paralysis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Venezuela quake aid, Ukraine war relief, and critical US aid cuts.",
+      "summary": "Extensive humanitarian aid efforts are underway in Venezuela following devastating earthquakes, with the EU and the Vatican providing emergency assistance. Medical relief, including nerve repair devices, continues to reach war victims in Ukraine. A critical report highlights that cuts to US foreign aid programs have led to hundreds of thousands of lives lost globally.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The EU is deploying rescue teams and the Pope sent 100,000 euros in aid following two strong earthquakes that caused numerous casualties."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "An Australian company is extending its humanitarian effort to provide nerve repair devices to aid war victims."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Cuts to US foreign aid programs, particularly to USAID, have contributed to an estimated 750,000 lost lives globally."
+        },
+        {
+          "name": "Mindanao, Philippines",
+          "lat": 7.3,
+          "lng": 125,
+          "severity": "yellow",
+          "detail": "Vantage Foundation has mobilized local employees to support humanitarian relief efforts following a magnitude 7.8 earthquake earlier in June."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Sanitation collapse is exacerbating the public health crisis, indicating an urgent need for humanitarian intervention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihr7SIS6QeOhSyqky3twPdeB2OYIgVMKGbNLxlwNBnV5S9F2rt2YtJYlbnSSMd_6qA5ZL5vyr1M4DzBtXiwA2KUU2vz3heExz6XodWH-gjiOY7FmF2rmr0Vm4lj6g_QvCBA5vpuVQGgOKkgozqdGOhvypESggELdqm8XK1GXdXLDFHqgbwtBrlOr3ki4hB_mjfw32UNSqZpCZIFkvv1BXK9i2UknfZ8sqNqIteUvJbHY="
+        },
+        {
+          "title": "caixabankresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb87l2TU31efEKOueBpAkUjqkwgjYW3epUgK4qGZVeRZyoneFnscF1ZWpQuCJM9dydTo80dEib4QXE__g_4NEmLcB_HM1IzX177JqQr1cJe5Gxu_hKUAVk6Sngl2l5m7RRx9Zfap_Vdvjr4uTAdBK1oS4KjT4C8auzB0dgHkTLmLC8Vk3jc0CKwony9W1l8wRHcqlmIkOhWA=="
+        },
+        {
+          "title": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLN_se1Vf0zUas1mscOcE1ZewdMbqiz-6aC_DPVOagYht2sg4C_P0mc1UcZjlcIN9deGAo-aN1rpRMHlgtas_ABKcyBbE695n5DMPowKi6S66STjo0tyDeFES8B0MlqheAIikntGnIdRh9R0NOBMSDftFxyCKr1tsiSPPK1IaCBk8bcgrGVLuVpIc_KNCGsuSGA=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJV2seQgrxg1uopI0DjTHYyno04dUUXVAjvJRbqQ4lSkVwZuIXYtFesUJ07TKXM1cSHzcz22xFpfTGWv6f6Od47ctWu1hvffbHsENQcW8hVHfDK8GMUE4l6vFEVdacws-Zc67J8Tv8N2Zaq7m6R25e84fgqA-3zRMJUZKMMSIgGVmT0Eqcj4DK"
+        },
+        {
+          "title": "globalissues.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_8UyYjYkJ3Hio405fH_yjQEg2uXfxUZLqFXfvPUzmXDxPo66usdDzzlaIah9Rmn0RpG_Hzx8ZAggvTN4MEMf5jCPcwHOJ4wp9cRs7_FRejTecIzFSSDzm-tF59Wwy-NS3eBhRWbKWPdtnje0"
+        }
+      ]
+    }
+  }
+}
