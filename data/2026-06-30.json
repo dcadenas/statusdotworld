@@ -1,0 +1,496 @@
+{
+  "date": "2026-06-30",
+  "timestamp": 1782803495394,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran talks ongoing amid Mideast tensions; Ukraine conflict persists",
+      "summary": "US and Iran continue diplomatic efforts in Doha to de-escalate tensions and resume peace talks, despite recent mutual strikes and Strait of Hormuz disruptions. Meanwhile, Israeli forces continue attacks in southern Lebanon, and Ukraine experiences ongoing Russian missile strikes.",
+      "regions": [
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "yellow",
+          "detail": "US and Iran are meeting for peace talks despite recent hostilities."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israeli forces killed eight Palestinians amid ongoing conflict."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.8,
+          "lng": 35.55,
+          "severity": "red",
+          "detail": "Israeli forces continue strikes despite ceasefire agreements, with a rising death toll."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Russian missile strikes continue to cause casualties and damage across several regions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran denies US claims of a direct meeting but sends delegation for fund discussions, rejecting de-mining plans."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Israel warns of potential war resumption with Iran 'within two days' if conditions escalate."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.3,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The strait remains a site of recent US-Iran tensions and disruptions to maritime trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights, AI safety, and migrant issues dominate",
+      "summary": "The US Supreme Court bolstered digital privacy by ruling that constitutional protections extend to cellphone location information, and the House passed online child safety legislation. However, an AP investigation revealed US tech is being exploited for global AI-powered scams, and concerns about digital surveillance of Indigenous land defenders in Canada persist. Simultaneously, South Africa faces a looming migrant crisis with threats of violence.",
+      "regions": [
+        {
+          "name": "Ramallah, Palestine",
+          "lat": 31.903,
+          "lng": 35.203,
+          "severity": "red",
+          "detail": "Human rights groups urge the US to bar an Israeli minister accused of war crimes and incitement against Palestinians."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Supreme Court ruled constitutional privacy protections apply to cellphone location data from geofence warrants, and the House passed online child safety legislation."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "PBI raised concerns at the UN Human Rights Council about digital surveillance of Indigenous land defenders by the RCMP."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "red",
+          "detail": "Migrants face fear and potential violence ahead of an anti-immigrant deadline set by activists."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "A lawsuit was filed against Ghana at Africa's top human rights court over US 'third-country' deportation policies."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.914,
+          "lng": 95.956,
+          "severity": "yellow",
+          "detail": "An investigation revealed US technology and AI are powering global cyberscam operations originating from scam compounds in Southeast Asia."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UNICEF highlights accelerating AI adoption by children and emerging risks like scams and deepfakes due to weak governance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Record heatwaves grip Europe; World Bank drops climate targets",
+      "summary": "Europe is battling a record-breaking June heatwave across multiple countries, leading to serious concerns and public health advisories. The World Bank, influenced by the US, announced it is dropping specific climate finance targets, sparking criticism. Meanwhile, Southeast Asia faces increasing energy security threats from climate change.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "France endured its hottest days in history during a record-breaking heatwave, with temperatures reaching 39-43°C."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The World Bank extended its climate policy but dropped its climate finance targets, following calls from the US."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Legal analysis warns that weakening EU carbon removal targets could breach international law, and many EU countries are late submitting social climate plans."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "The IEA warned that climate change, electricity demand, and geopolitical tensions threaten Southeast Asia's energy security."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory was extended for the New York City Metro region due to ozone."
+        },
+        {
+          "name": "Milwaukee, USA",
+          "lat": 43.0389,
+          "lng": -87.9065,
+          "severity": "yellow",
+          "detail": "The City of Milwaukee Health Department urged residents to prepare for a dangerous extreme heat warning."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health faces extreme heat, air pollution, and disease threats",
+      "summary": "Several regions, including Europe and parts of the US, are under extreme heat warnings and facing air quality advisories. Globally, progress on air pollution-related health targets is stalled, with a disproportionate impact on low- and middle-income countries. The CDC also extended an order for quarantinable communicable diseases.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Europe's record heatwave is posing significant public health risks across multiple countries."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory was extended for ozone, impacting respiratory health in the region."
+        },
+        {
+          "name": "Milwaukee, USA",
+          "lat": 43.0389,
+          "lng": -87.9065,
+          "severity": "yellow",
+          "detail": "City officials urged residents to take precautions during a dangerous extreme heat warning."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "WHO reports stalled progress on air pollution and health Sustainable Development Goals globally."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "The CDC issued an order continuing the suspension of entry for persons from countries with quarantinable communicable diseases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil volatility, China's rebound, and major tech investments",
+      "summary": "Global oil markets experienced mixed movements and rising prices due to ongoing US-Iran tensions in the Strait of Hormuz, though investment banks express optimism following a truce. China's factory activity showed growth despite global headwinds, while South Korea announced massive investments in semiconductors and AI. Japan is also looking to diversify critical supply chains.",
+      "regions": [
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "yellow",
+          "detail": "US-Iran peace talks in Doha are influencing global oil market sentiment."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.3,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Renewed US-Iran tensions in the strait caused oil price volatility and supply concerns."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's factory activity picked up and returned to growth in June despite global headwinds."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korea unveiled a nearly $1.2 trillion investment plan in semiconductors and AI data centers."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Japan emphasized strengthening ties with emerging economies to diversify supply chains for critical minerals."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "A Bank of England economist noted that Brexit has contributed to inflation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US election changes blocked; Democratic socialists gain ground",
+      "summary": "President Trump's attempts to alter US election rules, including executive orders and voter citizenship checks, were largely blocked by federal courts and the Supreme Court. Meanwhile, Democratic Socialist candidates secured notable primary wins in major US cities, indicating a shift in the political landscape.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Supreme Court and federal judges blocked Trump's efforts to change election rules and a DHS citizenship check program."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Democratic Socialists achieved primary wins for mayoral and council seats, reflecting a political shift."
+        },
+        {
+          "name": "Los Angeles, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "DSA members advanced to general election ballots and are pushing referenda on local issues."
+        },
+        {
+          "name": "Antananarivo, Madagascar",
+          "lat": -18.8792,
+          "lng": 47.5079,
+          "severity": "yellow",
+          "detail": "The Southern African bloc urged Madagascar's government to remain committed to constitutional rule and democratic governance."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Concerns were expressed about the safety of human rights defenders following the election of the new Colombian president."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global peacebuilding funding in sharp decline",
+      "summary": "A new UN report highlighted a stark imbalance, with the world spending significantly more on military than on peacebuilding. Official development assistance and peacebuilding aid have seen substantial declines since 2020, even as the need for such aid rises due to increased conflicts globally.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "A UN report released during Peacebuilding Week highlighted a severe and growing deficit in peacebuilding funding."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Ongoing conflict and casualties create a high demand for urgent humanitarian assistance."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.8,
+          "lng": 35.55,
+          "severity": "red",
+          "detail": "Rising death toll from Israeli aggression indicates significant and ongoing humanitarian needs."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "red",
+          "detail": "Migrants face threats and fear ahead of an expulsion deadline, creating a severe humanitarian concern."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The ongoing conflict continues to result in casualties and displacement, leading to persistent humanitarian aid requirements."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBttiy3k3hENA2y2lgTAGFD4ax1bW1EBxcIWf41NnWuZVUgzI_b8oADS_vvYfMxH_yy-fiHTj8kTm-ixeXUQU2yFxgfY0nPIlUdxkBtpvratOt8aTfZeODRQuTMxMpomaCeGdq9ti6RNgWjC3a7vIZCIYyDjWJ1PPPnmghj4Q="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKRHy2hDItAFEGyqLR52wLUwwmt7FbVz3_o6zVl_P-RTUTKQXurttMK38lfs68kG7lgp3Q6QrYqwyGuLjRhE28LzQ08qZR2QA0692gxXORN-b41lHbGhQB2RpIYy-734aURK38p4avtnWQD4xF_iRBFc1DQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtx6UVmQmNqcQYDwo35dwnAaUr-yL05uH_cCeuKq5-Ek0Vei1hAj_AOScc3DyHAvQrTcJd0jcH5awnZF1k0PUlObKaYNcHRELafKxl89ia-M5OYb1gu84r7gtEEdiYBGyQ9VEklat8sDO8x5pW4bhQkYA7QEWGGt94El6j-pONpMcj2Q="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHa1AHh8Lz-WkKX7FUD941BTnRFzyfLPLuOFQ5C66_f7pjgHa28o4RjQdbj09pezocNvoCDNs2f7VOlg1-9E_cn-QiosUtolkUcMfHN2Zc9JLnbS_zliLTsy1TSWcnsKoSDc4rgDlCYEVyAWJpFpBoBhCYAWWL7R1garZc6tjWeFCdoKqqloMg38dAiaix0LxLdEth-nxw"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51LLZOWyZoeLJ3FryPVEO3RWlQuD6rwv2yZDHGzji1YrMbZcYzsr9qgJDbO-ns9PNDe831yDfVBl8N92UOa-O6iglIIsSTFywe9Pj0N6Tjkp4z9kX9sF5Qm7kdXjHNhnoYLqNeBLDJGCwr9vC1yk2xrTQE9UiQ9gHPJO1O__YZDh4CV1YBaa-uSdhvf15H38usIDDJ2G0HNLdKJethX7GRvtBCrGmVHYXuULU-7Q-1XjlYtUN"
+        }
+      ]
+    }
+  }
+}
