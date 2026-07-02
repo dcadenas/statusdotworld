@@ -1,0 +1,496 @@
+{
+  "date": "2026-07-02",
+  "timestamp": 1782975781412,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine war casualties surpass 2 million; US-Iran talks show progress.",
+      "summary": "The war in Ukraine has caused over 2 million military casualties, with Russian forces bearing the brunt of the losses. A recent missile and drone attack on Kyiv killed at least eight people and injured dozens. Meanwhile, technical talks between the US and Iran concluded in Doha on July 1, 2026, reporting positive progress on securing a lasting ceasefire and discussing shipping through the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "red",
+          "detail": "Russian missile and drone attacks killed at least eight people and injured dozens, hitting residential buildings and a hotel."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.75,
+          "lng": 37.62,
+          "severity": "red",
+          "detail": "Russian forces continue their invasion of Ukraine, contributing to over 2 million military casualties."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.28,
+          "lng": 51.53,
+          "severity": "yellow",
+          "detail": "The US and Iran held technical talks here, mediated by Qatar and Pakistan, to de-escalate tensions and discuss the Strait of Hormuz."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.69,
+          "lng": 51.39,
+          "severity": "yellow",
+          "detail": "Iranian officials engaged in indirect discussions with the US regarding a peace deal and shipping arrangements."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8,
+          "lng": 96.15,
+          "severity": "red",
+          "detail": "The civil war in Myanmar has seen over 100,000 conflict-related fatalities since the 2021 military coup."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.17,
+          "lng": 30.22,
+          "severity": "red",
+          "detail": "Sudan's Foreign Minister raised concerns over ongoing Rapid Support Forces (RSF) drone strikes targeting civilians and infrastructure in a strategically vital city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Haitian TPS termination looms, Libya migrant abuses persist, AI safety warned.",
+      "summary": "Hundreds of thousands of Haitians in the US face the risk of deportation to a country engulfed by violence and a humanitarian crisis, following the US Supreme Court's June 25, 2026, decision allowing the termination of Temporary Protected Status. In Libya, incendiary anti-migrant rhetoric and actions by authorities are fueling abuses, arbitrary arrests, and collective expulsions. Meanwhile, a UN report warns that AI safety measures are lagging behind rapid technological advancements, potentially leading to catastrophic outcomes.",
+      "regions": [
+        {
+          "name": "Miami, USA",
+          "lat": 25.76,
+          "lng": -80.19,
+          "severity": "red",
+          "detail": "Haitian communities in Florida are experiencing widespread fear due to the US Supreme Court's decision to terminate TPS."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.59,
+          "lng": -72.33,
+          "severity": "red",
+          "detail": "The country is described as engulfed by violence and a humanitarian crisis, which deportees would be returned to."
+        },
+        {
+          "name": "Tripoli, Libya",
+          "lat": 32.89,
+          "lng": 13.19,
+          "severity": "red",
+          "detail": "Libyan authorities are using anti-migrant rhetoric and pursuing abuses, arbitrary arrests, and collective expulsions."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US government is in talks for voluntary AI model standards and the Supreme Court ruled on geofence warrants, impacting digital rights."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.68,
+          "lng": 139.69,
+          "severity": "yellow",
+          "detail": "KDDI's email system breach exposed 14.22 million accounts, raising tech privacy concerns."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "yellow",
+          "detail": "China's new ethnic unity law is drawing human rights alarm."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Europe's intense heatwave, Mediterranean climate plan launched.",
+      "summary": "Europe is currently experiencing an intense heatwave with record temperatures observed across much of the continent. In response to the Mediterranean region warming 20% faster than the global average, 43 nations have launched the development of its first-ever Climate Action Plan. Additionally, Air Quality Health Advisories for elevated ozone levels were extended for the New York City Metro and Long Island regions due to high temperatures.",
+      "regions": [
+        {
+          "name": "Central Europe",
+          "lat": 48,
+          "lng": 15,
+          "severity": "red",
+          "detail": "Much of Europe is in the grip of an intense heatwave, setting record temperatures and causing heat-related illnesses."
+        },
+        {
+          "name": "Mediterranean Sea",
+          "lat": 35,
+          "lng": 18,
+          "severity": "yellow",
+          "detail": "43 nations initiated the development of a Climate Action Plan for this region, which is warming significantly faster than the global average."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74.01,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory for ozone was extended due to increased heat and emissions."
+        },
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.76,
+          "lng": -111.89,
+          "severity": "red",
+          "detail": "Fruit growers are reporting near-total harvest losses due to a warm winter, record-breaking spring heatwave, and subsequent April freezes."
+        },
+        {
+          "name": "Richardson Bay, California, USA",
+          "lat": 37.88,
+          "lng": -122.5,
+          "severity": "yellow",
+          "detail": "The area is experiencing its annual king tide, serving as a reminder of the ongoing impact of sea level rise on coastal communities."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "The World Meteorological Organization (WMO) warned of an upcoming El Niño, expected to increase global temperatures and extreme weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak persists; Southern Hemisphere influenza rising.",
+      "summary": "An ongoing Ebola outbreak, caused by the Bundibugyo virus, continues to affect the Democratic Republic of Congo and Uganda, with a case also confirmed in France. The Pan American Health Organization warns of rising influenza activity across several Southern Hemisphere countries as the respiratory virus season begins, urging increased vaccination efforts and stronger health system preparedness. Air quality remains a concern, with advisories for ozone in the New York City Metro and Long Island regions extended due to elevated temperatures.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.44,
+          "lng": 15.27,
+          "severity": "red",
+          "detail": "An ongoing Ebola outbreak, caused by the Bundibugyo virus, continues to affect the region with new confirmed cases and deaths."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.34,
+          "lng": 32.58,
+          "severity": "yellow",
+          "detail": "Uganda is also affected by the Ebola outbreak, with confirmed cases linked to both travel and local transmission."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.86,
+          "lng": 2.35,
+          "severity": "green",
+          "detail": "A single case of Ebola linked to the outbreak in the Democratic Republic of Congo was confirmed here."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6,
+          "lng": -58.38,
+          "severity": "yellow",
+          "detail": "Countries in the Southern Hemisphere are experiencing rising influenza activity as the respiratory virus season commences."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74.01,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory for ozone was extended for the New York City Metro region due to high temperatures."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.48,
+          "lng": -66.9,
+          "severity": "red",
+          "detail": "The confirmed death toll from twin earthquakes on June 24 has reached 2,295, impacting public health services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US inflation high and trade uncertain; global growth steady.",
+      "summary": "The US economy is navigating persistent challenges, with inflation at a three-year high of 4.2% eroding Americans' incomes, even as US stocks trade near record highs. Uncertainty looms over trade relations as the US has indicated it will not renew the USMCA pact, moving to annual reviews with Mexico and Canada. Globally, growth is projected at 3.3% for 2026, driven by technology investment and supportive policies, though geopolitical tensions pose downside risks.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US economy is experiencing high inflation and uncertainty regarding the future of the USMCA trade agreement."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.42,
+          "lng": -75.69,
+          "severity": "yellow",
+          "detail": "The USMCA trade agreement with the US and Mexico now faces annual review, adding uncertainty to economic relations."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.43,
+          "lng": -99.13,
+          "severity": "yellow",
+          "detail": "The USMCA trade agreement, critical for North American prosperity, is now on an annual review track."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "green",
+          "detail": "The Philippines has been classified as an upper-middle income country, with its Q2 GDP likely growing by 2.6% and manufacturing PMI improving."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.28,
+          "lng": 51.53,
+          "severity": "yellow",
+          "detail": "Indirect US-Iran talks here highlight geopolitical tensions, identified as a downside risk to global economic growth."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.77,
+          "lng": -119.41,
+          "severity": "yellow",
+          "detail": "New state AI laws are emerging which could impact the tech industry and employment, reflecting a growing concern about AI's economic effects."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights debated, Colorado primaries reflect voter anger.",
+      "summary": "Discussions in the United States highlight an ongoing struggle for voting rights, particularly for Black women, with concerns raised about the recent weakening of the Voting Rights Act. In Colorado, primary elections saw significant voter anger leading to progressive candidates unseating incumbents, indicating a desire for change. Meanwhile, Myanmar continues to grapple with the aftermath of a military coup, where a civil war persists and recent elections were dismissed as a charade to rebrand military rule.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The debate over the weakening of the Voting Rights Act and its impact on democratic participation continues."
+        },
+        {
+          "name": "Denver, Colorado, USA",
+          "lat": 39.73,
+          "lng": -104.98,
+          "severity": "yellow",
+          "detail": "Recent primary elections saw democratic socialist Melat Kiros defeat a long-term incumbent, and other upsets reflecting voter dissatisfaction."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.76,
+          "lng": 96.1,
+          "severity": "red",
+          "detail": "The country remains in a state of civil war following a military coup that ended its decade-long experiment with democracy."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.86,
+          "lng": 2.35,
+          "severity": "green",
+          "detail": "France has set dates for its 2027 presidential election, demonstrating ongoing democratic processes."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "State-level AI laws are emerging, including a proposed 2027 RAISE Act, impacting technology and governance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Venezuela earthquake devastation; Gaza aid stalled; Afghanistan funding critical.",
+      "summary": "Venezuela is facing a dire humanitarian crisis following the June 24 earthquakes, with a confirmed death toll of 2,295 and nearly 2 million people requiring assistance; Australia pledged $2 million in aid. In Gaza, 1,000 days into the conflict, humanitarian aid remains tightly restricted despite a ceasefire, with 17 hospitals non-functional and critical supplies limited. Afghanistan faces a severe humanitarian funding gap, having secured only 16.9% of its 2026 response plan, leading to its inclusion on the list of most neglected crises.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.48,
+          "lng": -66.9,
+          "severity": "red",
+          "detail": "The country is grappling with thousands of fatalities and nearly 2 million people in need of assistance due to devastating earthquakes."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "After 1,000 days of conflict, humanitarian aid remains tightly restricted, and 17 hospitals are still not functional."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "The Norwegian Refugee Council highlights a severe humanitarian funding gap, with only 16.9% of the 2026 response plan secured."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.59,
+          "lng": -72.33,
+          "severity": "red",
+          "detail": "The country faces a severe humanitarian crisis, with a record 6.4 million Haitians in need of assistance, exacerbated by potential TPS termination."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.28,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "The Australian Government announced $2 million in humanitarian assistance to support communities affected by the Venezuelan earthquakes."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "Sudan's Foreign Minister discussed transitioning from emergency humanitarian aid to early recovery programs amidst conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgRU2rsT5IHuqbaw1hwNBH-Qe42Be5a6YmBTpyPHKJR7-PqJAhQTWkik5pcncu1-51w4_dDUCGw24DMe5Ui--TH_2c_t4GJgkBkD4pXqIDndx-BGG2jPZrQ_etsdiEJw8NKyZXVeX-gZuxigPODZCBFf23wnfqUPan2B6XdpcHewTmCpKVGQMVd2DLvEbNYJp87fSQvBrW_pb9ElIL6XUY_oBl_UnpQuitmqvPMurBnodFicDtpIiE-yelp_ndJqx5DmvZKNOzTXZVJDCg"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14PVrlAIZ8fSGgBG3uGsCnwJakeZKj1pphftXvuBfaL3mpIHL7ntW5S39mb7ZYbldpE1yCX8mCzqGaXd_V-re-sUPhKSLECK3svF8NisgQm1ker6lZjQCLNKUqmJ6N1-z3LrXnYXA_IwHlKmw0H8I6jiqOSzA0gNlg=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwMu0NiV4vKVAQ9V9nJA06GtzkuxLYlH14Jr5PwK8hh5JhZIMrQsDviiKpFVYu1yxDaoKTYYZ0Uxw2ls9Xd284mI5TweOmbRgUBYOvwrFTCP2Mu2D-f1jwog9egXnW59rygzh3ITGVGFFEf-EgUkJHNy5NW3CI-xGRvfZhVLbS_Ogzlc4Bbs9m3nlGfoEZNff9shm_FSyDRM3naAJDYJB14yiLEwyN8blA6tfZwXbfv2oY0hZj9cBRM7Q4l6Rc26Rrp-wG"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo0yP92-Z8WYHusKRv5qmBhYAA2mwXcYc0N56R1cPOUs3jMeDJTHNqFcnbQKnJEIdyHVvihtzbiw-MqcnFnGz0X5o-4futlKVl72uwdhN8nEwRu8R51u2c5ZHD9fPa1kr_fb2_4HuEgO-2q8EpEGz91G1l8b10_nY1-nPjFs4="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecWnzkUlI8JbBuq8Q1xEhFjoSloV7ikYnmSN07DdFxkk1-kECpErU4ydNcTkU2EQqoOqxxoXVyMMIQuSVxcFj6zPzNWhd1oTfESgj0TggIAKn2NdDEZgooYG9kYd-AvM3TziRuaMj_DeofY_2RDMaRKSvOB-qsoe2mO6tm3UK135SKC1yiBfbZayW7gNW3yA1yxU1N4gMtHwjXTf84ut1orGk8jcGcGNWWuJJJSjZV1F9J30xO3CWFKrK9YbToT-FyFY="
+        }
+      ]
+    }
+  }
+}
