@@ -1,0 +1,573 @@
+{
+  "date": "2026-07-03",
+  "timestamp": 1783062086123,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate, humanitarian workers killed in South Sudan",
+      "summary": "The Democratic Republic of Congo filed a case against Rwanda at the ICJ over alleged support for armed groups in its eastern region. Five humanitarian workers were tragically killed in an ambush in South Sudan amidst ongoing conflict. In Sudan, NGOs called for international action in el-Obeid due to siege-like conditions and drone attacks by the RSF. Tensions remain high between the US and Iran over the Strait of Hormuz despite ongoing talks.",
+      "regions": [
+        {
+          "name": "Goma, DRC",
+          "lat": 1.67,
+          "lng": 29.22,
+          "severity": "red",
+          "detail": "DRC accuses Rwanda of supporting armed groups in its eastern region, leading to continued conflict and instability."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.94,
+          "lng": 30.06,
+          "severity": "yellow",
+          "detail": "Rwanda faces allegations at the International Criminal Court from DRC regarding its involvement in the conflict."
+        },
+        {
+          "name": "Duk County, South Sudan",
+          "lat": 6.8,
+          "lng": 31.6,
+          "severity": "red",
+          "detail": "Five humanitarian workers were killed in an ambush, highlighting the severe ongoing conflict and danger for aid workers."
+        },
+        {
+          "name": "el-Obeid, Sudan",
+          "lat": 13.15,
+          "lng": 30.22,
+          "severity": "red",
+          "detail": "The city faces siege-like conditions and drone attacks amidst calls for international action to protect civilians."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.29,
+          "lng": 36.82,
+          "severity": "green",
+          "detail": "A UN envoy met with a Darfur rebel leader here to discuss the humanitarian crisis and prospects for a political peace process in Sudan."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.28,
+          "lng": 51.53,
+          "severity": "yellow",
+          "detail": "Indirect talks between the US and Iran are ongoing, with some claims of positive progress amidst regional tensions."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.56,
+          "lng": 56.25,
+          "severity": "yellow",
+          "detail": "Iran warned oil tankers to use approved routes or face a 'forceful response,' escalating regional maritime tensions."
+        },
+        {
+          "name": "Bahrain",
+          "lat": 25.93,
+          "lng": 50.55,
+          "severity": "yellow",
+          "detail": "Iran's Foreign Minister slammed the US CENTCOM's regional security dialogue held here, indicating continued geopolitical friction."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Spyware targets EU lawmaker; US, UN address AI/digital rights.",
+      "summary": "A former EU lawmaker investigating surveillance was reportedly hacked with Pegasus spyware, underscoring ongoing privacy concerns. The US House passed a Kids Internet and Digital Safety Act with AI chatbot requirements, while the UN warned about AI safety lagging behind rapid technological advancements. In China, concerns persisted over the forced assimilation of Uyghurs and ongoing human rights violations 17 years after the Ürümchi Massacre. Türkiye also saw the detention of human rights defenders prior to the NATO Summit.",
+      "regions": [
+        {
+          "name": "Athens, Greece",
+          "lat": 37.98,
+          "lng": 23.73,
+          "severity": "yellow",
+          "detail": "A Greek former EU lawmaker, who served on a committee investigating surveillance, was himself hacked with Israeli-made Pegasus spyware."
+        },
+        {
+          "name": "Ürümchi, China",
+          "lat": 43.82,
+          "lng": 87.61,
+          "severity": "red",
+          "detail": "The Uyghur Human Rights Project called for accountability 17 years after the Ürümchi Massacre and for an end to forced labor transfers."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US House of Representatives passed the Kids Internet and Digital Safety Act, which includes provisions requiring AI chatbot disclosures."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "The UN's Independent International Scientific Panel on AI warned that AI is advancing faster than science or policy, posing potential catastrophic harm."
+        },
+        {
+          "name": "Ankara, Türkiye",
+          "lat": 39.93,
+          "lng": 32.86,
+          "severity": "yellow",
+          "detail": "Human rights defenders, including lawyers and journalists, were detained in the lead-up to the NATO Summit."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "green",
+          "detail": "New York legislators passed a kids chatbot safety bill, an AI training data transparency act, and a ban on AI-assisted surveillance pricing."
+        },
+        {
+          "name": "Florida, USA",
+          "lat": 27.66,
+          "lng": -81.52,
+          "severity": "yellow",
+          "detail": "A wave of lawsuits alleges website chat features and AI-powered chatbots violate state wiretapping laws by recording communications without consent."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.77,
+          "lng": -119.41,
+          "severity": "yellow",
+          "detail": "Similar lawsuits are occurring here, alleging website technologies violate the state's Invasion of Privacy Act by intercepting communications."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "US grapples with extreme heat; UN warns of strong El Nino.",
+      "summary": "Extreme heat and humidity in large parts of the United States, exacerbated by climate change, are causing dangerous conditions during the World Cup, with Atlanta anticipating record-breaking temperatures. The UN's World Meteorological Organization issued a warning that El Nino is rapidly developing into a strong event, expected to fuel extreme weather and above-average temperatures globally. Residents of US Pacific territories are bracing for Super Typhoon Bavi, months after another powerful storm.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "red",
+          "detail": "The region is experiencing a scorching heatwave with heat index values up to 112 degrees Fahrenheit, impacting public health."
+        },
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.74,
+          "lng": -84.38,
+          "severity": "red",
+          "detail": "Record-breaking temperatures are expected as a heatwave moves across the central and northern United States."
+        },
+        {
+          "name": "Saipan, Northern Mariana Islands, USA",
+          "lat": 15.2,
+          "lng": 145.75,
+          "severity": "red",
+          "detail": "Residents are bracing for possible Super Typhoon Bavi, still recovering from the impact of a previous super typhoon."
+        },
+        {
+          "name": "Guam, USA",
+          "lat": 13.44,
+          "lng": 144.79,
+          "severity": "red",
+          "detail": "Typhoon Bavi is expected to become a super typhoon by Sunday night to early Monday, forecast to reach the Marianas."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2,
+          "lng": 6.14,
+          "severity": "yellow",
+          "detail": "The World Meteorological Organization warned that El Nino is rapidly developing into a strong event, fueling extreme weather worldwide."
+        },
+        {
+          "name": "Equatorial Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "yellow",
+          "detail": "El Nino is warming surface temperatures here, bringing worldwide changes in winds, pressure, and rainfall patterns."
+        },
+        {
+          "name": "Central/Eastern United States",
+          "lat": 39.82,
+          "lng": -98.58,
+          "severity": "red",
+          "detail": "Large parts of the country are experiencing extreme heat and humidity, linked to climate change, during the World Cup."
+        },
+        {
+          "name": "Europe",
+          "lat": 54.52,
+          "lng": 15.25,
+          "severity": "green",
+          "detail": "Air pollution levels have plummeted due to decades of environmental policy, with emissions of sulphur oxides and nitrogen oxides falling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US heatwave poses health risks; international crime network uncovered.",
+      "summary": "A severe heatwave across large parts of the United States poses significant public health risks due to extreme heat and humidity, with Wet Bulb Globe Temperature (WBGT) levels reaching dangerous highs. In the UK, criminal investigators uncovered an international network involved in organized drug-facilitated sexual assault. New legislation in the US aims to address mental health resources in AI chatbots.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "red",
+          "detail": "An extreme heat warning is in effect, with heat index values up to 112 degrees Fahrenheit, posing severe health risks."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5,
+          "lng": -0.12,
+          "severity": "yellow",
+          "detail": "Criminal investigators have uncovered a 'truly international network' of organized drug-facilitated sexual assault."
+        },
+        {
+          "name": "Providence, Rhode Island, USA",
+          "lat": 41.82,
+          "lng": -71.41,
+          "severity": "green",
+          "detail": "New state laws include a therapy chatbot ban and disclosure regulations around AI use in healthcare, impacting digital public health."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "green",
+          "detail": "New York legislators passed a kids chatbot safety bill addressing features considered unsafe for minors, which can include mental health impacts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global equities rise despite US job report; trade tensions persist.",
+      "summary": "Global equities are experiencing their strongest week since early May, boosted by strong Asian Purchasing Managers' Index (PMI) data. However, the US economy added fewer-than-expected jobs in June, and agricultural exports to China are significantly down. Trade tensions continue with new US punitive tariffs proposed against several countries for alleged labor law violations, although some tariffs with the EU were capped and new free trade agreements were finalized between the EU and India and Mercosur.",
+      "regions": [
+        {
+          "name": "Asia (general)",
+          "lat": 34.0479,
+          "lng": 100.6197,
+          "severity": "green",
+          "detail": "Solid Purchasing Managers' Index (PMI) data from China, Japan, Australia, and Singapore boosted global equities."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "The US economy added fewer-than-expected jobs in June, and new tariffs are being explored for labor law violations in 44 countries."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.85,
+          "lng": 4.35,
+          "severity": "yellow",
+          "detail": "The EU has signed new free trade agreements but faces ongoing US tariffs and allegations of labor law violations."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.43,
+          "lng": -99.13,
+          "severity": "yellow",
+          "detail": "Mexico faces potential punitive tariffs from the US over alleged labor law violations, despite some previous tariff reductions."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.42,
+          "lng": -75.69,
+          "severity": "yellow",
+          "detail": "Canada is among 44 countries facing potential punitive tariffs from the US over alleged labor law violations."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.61,
+          "lng": 77.2,
+          "severity": "green",
+          "detail": "The EU and India recently signed a free trade agreement that has been years in the making."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.78,
+          "lng": -47.92,
+          "severity": "green",
+          "detail": "The new EU-Mercosur agreement was finalized, fostering trade between South American countries and Europe."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "yellow",
+          "detail": "US agricultural exports to China are significantly down, contributing to global trade imbalances."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US election integrity challenged; states push back against federal oversight.",
+      "summary": "Democratic governors are pressing the US Postal Service to withdraw a proposed rule tied to a presidential executive order aiming to create a federal voter list and potentially limit mailed ballots, which a federal judge has already blocked as unconstitutional. President Trump continues to campaign to reshape elections through federal agencies, prompting concerns about an 'unprecedented power grab' and deepening doubts about election integrity. Algeria is counting votes in its second parliamentary elections since 2019.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9,
+          "lng": -77.03,
+          "severity": "yellow",
+          "detail": "Democratic governors are challenging presidential executive orders that seek to impose federal oversight on state elections."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.79,
+          "lng": -89.65,
+          "severity": "yellow",
+          "detail": "Illinois Governor JB Pritzker organized the letter from Democratic governors urging the Postal Service to withdraw the proposed rule."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.58,
+          "lng": -121.49,
+          "severity": "yellow",
+          "detail": "California is among the states where officials are bracing for challenges to election procedures due to federal directives."
+        },
+        {
+          "name": "Madison, Wisconsin, USA",
+          "lat": 43.07,
+          "lng": -89.4,
+          "severity": "yellow",
+          "detail": "Wisconsin, a presidential battleground state, has its governor joining the effort to oppose federal changes to election rules."
+        },
+        {
+          "name": "Harrisburg, Pennsylvania, USA",
+          "lat": 40.27,
+          "lng": -76.88,
+          "severity": "yellow",
+          "detail": "Pennsylvania, another key battleground state, is also pushing back against proposed federal changes to election procedures."
+        },
+        {
+          "name": "Algiers, Algeria",
+          "lat": 36.75,
+          "lng": 3.04,
+          "severity": "yellow",
+          "detail": "Algeria is counting votes after its second parliamentary elections since the 2019 popular movement."
+        },
+        {
+          "name": "Ohio, USA",
+          "lat": 40.41,
+          "lng": -82.9,
+          "severity": "green",
+          "detail": "Democratic turnout surged in the primary despite uncompetitive races, indicating high enthusiasm among these voters."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "President Trump's endorsement in Senate races, like Ken Paxton over John Cornyn, has turned safe elections into toss-ups."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid workers killed in South Sudan; severe crises in Sudan.",
+      "summary": "Five humanitarian workers were tragically killed in an ambush in Duk county, South Sudan, exacerbating a crisis where 2 million people are internally displaced. In Sudan, NGOs are urgently calling for international intervention in el-Obeid, which has endured 18 months of siege-like conditions and drone attacks. The broader Darfur region faces a drastically worsened humanitarian situation with acute shortages of food, medicine, and water for millions of displaced persons and refugees.",
+      "regions": [
+        {
+          "name": "Duk County, South Sudan",
+          "lat": 6.8,
+          "lng": 31.6,
+          "severity": "red",
+          "detail": "Five humanitarian workers were killed in an ambush, highlighting extreme dangers for aid delivery and ongoing conflict."
+        },
+        {
+          "name": "el-Obeid, Sudan",
+          "lat": 13.15,
+          "lng": 30.22,
+          "severity": "red",
+          "detail": "The city is under siege-like conditions and drone attacks, with NGOs demanding international action to prevent further atrocities."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Millions of displaced people and refugees in the region face drastically worsened conditions with acute shortages of essential supplies."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The ongoing conflict between the Sudanese Armed Forces and the RSF directly impacts humanitarian access and civilian suffering."
+        },
+        {
+          "name": "Goma, DRC",
+          "lat": 1.67,
+          "lng": 29.22,
+          "severity": "yellow",
+          "detail": "The ongoing conflict in eastern DRC, with Rwanda accused of supporting armed groups, contributes to displacement and humanitarian needs."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.29,
+          "lng": 36.82,
+          "severity": "green",
+          "detail": "A UN envoy discussed the humanitarian crisis in Darfur with a rebel leader, seeking solutions for peace and aid delivery."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.37,
+          "lng": 32.29,
+          "severity": "yellow",
+          "detail": "Neighboring countries like Uganda host Sudanese refugees who face severe shortages of aid due to the ongoing crisis."
+        },
+        {
+          "name": "Chad",
+          "lat": 15.45,
+          "lng": 19,
+          "severity": "yellow",
+          "detail": "Neighboring countries like Chad host Sudanese refugees who face severe shortages of aid due to the ongoing crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5nC-qQu_84CKPWwP0dgHsq2BEzkGLBSedPH7Is6XVCf_vSbglSg-aK1nVgQ9LP-5dv4-MxNG6ma5Zg3OQ0WoZdOYuB5Am8sOKZmz_f14NjrUq_9csHC9ctjN6pD9_AObzM_AqF0-5zpqmVHJjkE="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSpCslRsacJhmLFbqwV3HUnmpHEL6t23fcLY-eyS41HjwtQj1tshn9X3yceoB_Zn0-6ZmTIAB746XYiBOKU8AkJXeNiTJknZXXqrjZmN912WHrNVkcMOtIA4jXhW0Yb8WblRkN_zeGhY0EX3IbOJ1ClV8-cD18uLLMAqEUU8="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRPet8OA9Hy92aVl42u1zqgwRownjTO_L8NUX-0LUDw36ar7wHuW1m4wiR_2uZ_4JewVPPWcMFuVpo5o_DvBshAl9Am6ykPbX6IZkEyg8OEDrJVw52rnxGYHbbCRB4cYIRdg8bwpsp1zj7uiR8IWQHjaAyhF1_jvOD0T0BkGoP5nSdBUBSt6RfYD1WpgStmPeCN3q7hxpd"
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhUl4AMM5xWXkQw4yPElz1GxY-P2XzlH5gKlFEvkeLf1T3Rsq-6gEcHtRfj1z7FpwbBsAB7M6iwSRs9MLe8eIkCUF_ZQmQf_4hduLSsGgQOUTHocj5MbXqz2WgP1DSa2cbX6_vqceUSWZOyvG1LJI6iLLWwL_Al_ba3cArxCA3HgTC1ae2WKYOp2hTwWdU-KpWn9IL1G9fEPoN2mTz59D4MYfniWosZZa1ONjyzTUFKs5MfrSWn9rSAUTwhIYnO2YzKejBt1wIqsQnjuEwXI_4tVpwFP9OU6rQbax61ix9NXMn2IdY1gw="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7WdCVTVFaOW-87L6c7t9RE1gXu5uuT24nHnnlxBoTBbmi_c91FgjrMNrv9pc3Eg7NlHukWz1NFiibs0tE1Sc8QweAwFAVICyipgAUGIvyQya0kL4hOZ6uZnc3EqFIs3ANRg=="
+        }
+      ]
+    }
+  }
+}
