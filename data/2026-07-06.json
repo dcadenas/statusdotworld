@@ -1,0 +1,531 @@
+{
+  "date": "2026-07-06",
+  "timestamp": 1783322731716,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Mideast conflict escalates; Ukraine buffer zone; China-Russia naval drills.",
+      "summary": "Multiple ceasefire violations occurred in Gaza City and Southern Lebanon due to Israeli strikes, while Russia announced a new \"buffer zone\" with Ukraine. The US-Israel conflict with Iran continues, marked by heavy casualties and the funeral of Iran's supreme leader. Additionally, China and Russia are conducting joint naval exercises in the Pacific, and concerns about nuclear war risks remain high.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "An Israeli drone strike killed two Palestinians in a new violation of an ongoing ceasefire deal."
+        },
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.333333,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "The Israeli army carried out an airstrike and artillery shelling, violating an ongoing ceasefire agreement."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.523333,
+          "severity": "yellow",
+          "detail": "The Kremlin said Russia is creating what it describes as a 'buffer zone' on its border with Ukraine."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "A mass funeral prayer was held for the country's late Supreme Leader Ali Khamenei, who was killed in US-Israeli strikes."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US President Donald Trump's past threats following an American war against Iran are raising risks of nuclear war."
+        },
+        {
+          "name": "Qingdao, China",
+          "lat": 36.0667,
+          "lng": 120.3833,
+          "severity": "yellow",
+          "detail": "China and Russia will hold joint naval exercises in Chinese waters and airspace near Qingdao."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia will participate in joint naval exercises with China and continues to address security challenges near its border with Ukraine."
+        },
+        {
+          "name": "Yemen Red Sea Coast, Yemen",
+          "lat": 14.7,
+          "lng": 42.6,
+          "severity": "yellow",
+          "detail": "A cargo ship came under attack off Yemen's Red Sea coast."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety and digital rights raise alarms; abuses continue in Eritrea and Tigray.",
+      "summary": "AI capabilities are outrunning global safeguards, with warnings from the UK and UN about cybercrime, disinformation, and child safety risks. Simultaneously, significant human rights violations persist, including forced recruitment in Ethiopia's Tigray region and ongoing concerns in Eritrea regarding arbitrary detention and restricted freedoms. Digital privacy is also under threat with new age verification laws in the US sparking debate over privacy and accessibility.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "Britain's foreign secretary warned that AI may become the 'greatest security challenge of the next decade,' calling for international cooperation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council is preparing to appoint a new independent expert as Eritrea renews efforts to end the mandate on human rights."
+        },
+        {
+          "name": "Mekelle, Ethiopia",
+          "lat": 13.4967,
+          "lng": 39.475,
+          "severity": "red",
+          "detail": "Regional authorities in Ethiopia's Tigray region have been abducting and unlawfully recruiting civilians, including children as young as 15."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US House of Representatives passed the Kids Internet and Digital Safety Act, which digital rights organizations warn could weaken protections."
+        },
+        {
+          "name": "Des Moines, Iowa, United States",
+          "lat": 41.6005,
+          "lng": -93.6091,
+          "severity": "yellow",
+          "detail": "Iowa's new age verification law for adult content is live, leading some major platforms to block users entirely or require government IDs."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "UNICEF reported that children are using AI at more than three times the rate of adults, raising fresh questions about online safety."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "The European Parliament will hold an urgent debate on the ongoing persecution of Christians in Nigeria."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7298,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "The European Parliament will debate the abduction, forced conversion, and child marriage of Maria Shahbaz and the protection of girls in Pakistan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record heatwaves and wildfires grip Europe and US; UK unprepared.",
+      "summary": "Europe and the US are experiencing dangerous, record-breaking heatwaves causing widespread wildfires across Southern Europe and thousands of excess deaths. The UK, in particular, is deemed unprepared for these extreme temperatures, leading to school closures and concerns about a \"cooling crisis\" and increased emissions from air conditioning. Global ocean temperatures have also reached record levels, exacerbating fears about the escalating climate crisis.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "red",
+          "detail": "Over 1,000 schools across the U.K. have been forced to close during Europe's recent record-smashing heat wave."
+        },
+        {
+          "name": "Barcelona, Spain",
+          "lat": 41.3851,
+          "lng": 2.1734,
+          "severity": "red",
+          "detail": "Wildfires raged across southern Europe, forcing thousands to evacuate, and a fire near Costa Brava burned over 2,200 hectares."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "June's extreme temperatures caused more than 2,000 excess deaths in France and Spain."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Dangerous, record-breaking heat altered plans for 4th of July celebrations across the US, with New York hitting 100F (37.8C)."
+        },
+        {
+          "name": "Denver, Colorado, United States",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "yellow",
+          "detail": "A tribe in Colorado brought a utility-scale solar project online, as climate change threatens traditional practices and springs dry up."
+        },
+        {
+          "name": "Lisbon, Portugal",
+          "lat": 38.7223,
+          "lng": -9.1393,
+          "severity": "red",
+          "detail": "Emergency services in Portugal controlled '80%' of a wildfire that has devastated some 13,000 hectares of forest."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "red",
+          "detail": "Wildfires continue to be battled across Greece, further impacted by extreme heat."
+        },
+        {
+          "name": "Bucharest, Romania",
+          "lat": 44.4268,
+          "lng": 26.1025,
+          "severity": "yellow",
+          "detail": "Heat that hit western Europe last week spread east, scorching Germany, Hungary, Romania, and Poland."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Sudan faces cholera crisis; US health programs cut; Ebola outbreak in DRC.",
+      "summary": "A severe humanitarian and public health crisis is unfolding in western Bara, Sudan, with cholera and measles outbreaks causing significant mortality, compounded by acute shortages of food and medicine. In the United States, federal health program cuts, particularly at the CDC, are raising concerns about the nation's ability to respond to disease threats and are leading to an erosion of national healthcare. Additionally, an ongoing Ebola disease outbreak in the Democratic Republic of Congo remains a critical concern.",
+      "regions": [
+        {
+          "name": "West Kordofan, Sudan",
+          "lat": 11.8,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "A Sudanese relief group reported 30 deaths from a cholera outbreak and 800 infections in West Kordofan state since June 20."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Médecins Sans Frontières launched an exhibition to deepen public awareness of the ongoing Ebola disease outbreak in the DRC."
+        },
+        {
+          "name": "Atlanta, Georgia, United States",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "red",
+          "detail": "A survey of the CDC workforce accused RFK Jr. and Trump of destroying the agency and endangering public health through cuts and interference."
+        },
+        {
+          "name": "Tallahassee, Florida, United States",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "The 'medical freedom' movement stalled in Florida as Republican legislators failed to advance legislation that would end school vaccine mandates despite measles outbreaks."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Researchers discovered flesh-eating bacteria (Vibrio vulnificus) in water in several coastal locations across Long Island."
+        },
+        {
+          "name": "Hartford, Connecticut, United States",
+          "lat": 41.7637,
+          "lng": -72.6851,
+          "severity": "yellow",
+          "detail": "110,000 citizens in Connecticut are expected to lose state Medicaid coverage due to a new interim final rule defining 'medical frailty'."
+        },
+        {
+          "name": "Pittsburgh, Pennsylvania, United States",
+          "lat": 40.4406,
+          "lng": -79.9959,
+          "severity": "green",
+          "detail": "A University of Pittsburgh study explained why pollution affects some asthma patients more than others."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The Trump administration's cuts to public health programs and agencies are increasing the risk of public threats."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices tumble on supply glut fears; dollar weakens.",
+      "summary": "Global oil prices are falling sharply due to a peace deal between the US and Iran and OPEC+ plans to increase production, leading to concerns about a supply glut. This has seen Brent crude futures erase wartime gains and fall significantly. Simultaneously, the US dollar has weakened following slower US jobs growth, reducing expectations for Federal Reserve interest rate hikes.",
+      "regions": [
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia, as an OPEC+ member, will raise its oil output by 188,000 barrels per day from August."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia, part of the OPEC+ agreement, announced plans to boost its oil production."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "A peace deal between the United States and Iran has unleashed a wave of oil supply, contributing to tumbling prices."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The dollar weakened after slower US jobs growth reduced expectations for Federal Reserve interest rate hikes."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Asia shares sputtered as earnings loomed and oil prices were weighed by supply."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "Oil prices fell on Monday morning on supply glut concerns as OPEC+ agreed to hike production quotas for August."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy faces erosion concerns amid public dissatisfaction.",
+      "summary": "Public skepticism about the health of American democracy is growing, with a significant majority of Americans dissatisfied with its current functioning and fears of \"out-of-control democracy.\" Reports highlight a systematic campaign to dismantle democratic norms, restrict voting, and consolidate executive power in the US, while also noting resistance and resilience. Meanwhile, the European Parliament is set to hold urgent debates on human rights and democracy, indicating ongoing global scrutiny and challenges to democratic principles.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A Pew Research survey in spring 2026 exposed that 62% of Americans were dissatisfied with the way democracy was working."
+        },
+        {
+          "name": "Augusta, Maine, United States",
+          "lat": 44.3105,
+          "lng": -69.7669,
+          "severity": "green",
+          "detail": "Former House Speaker Hannah Pingree, a Democratic frontrunner for governor, successfully united warring factions in a populist year."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "yellow",
+          "detail": "The European Parliament will hold urgent debates on human rights, democracy, and rule of law topics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen in Venezuela, Sudan, and Syria.",
+      "summary": "Venezuela faces a dire humanitarian situation following devastating earthquakes that killed over 3,342 people, with sanctions reportedly hampering rescue efforts and a shift to supporting survivors. In Sudan, a severe humanitarian and public health crisis is ongoing in western Bara, marked by cholera and measles outbreaks and critical shortages of aid. Furthermore, over 3.5 million Syrians returning home are finding communities lacking essential services, with humanitarian systems struggling to keep pace with the massive return movement. Médecins Sans Frontières also highlights global humanitarian crises and the Ebola outbreak in the DRC.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "At least 3,342 people were killed in devastating twin earthquakes, and sanctions continue to hamper rescue efforts."
+        },
+        {
+          "name": "Western Bara, Sudan",
+          "lat": 13.67,
+          "lng": 30.68,
+          "severity": "red",
+          "detail": "More than 200,000 people, including over 20,000 children, are facing a worsening humanitarian and public health crisis amid cholera and measles outbreaks."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5104,
+          "lng": 36.2784,
+          "severity": "red",
+          "detail": "More than 3.5 million Syrians have returned home to communities lacking essential services, with support systems struggling to keep pace."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Médecins Sans Frontières is using an exhibition to spotlight humanitarian crises and the ongoing Ebola disease outbreak in the DRC."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "green",
+          "detail": "Médecins Sans Frontières Hong Kong held an opening ceremony for its 'Keep Life Breathing' Roving Exhibition to raise public awareness of humanitarian crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZfTeQMjpUs99hR8vlZ_4_DpgV3qW4v0nz6Bl9v4j8nNKiIRwTE1zBU5t1AFkVP9G1BU3CpCqTsjOGd1jbawGfBLNSYUo_uvmrwx6BuCXnokC5HX_ZLzawe1akQbKHJIuksYjcH7Qm_v8QbSQnSFaih52vS0KOFMTBW2Lm-4="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhw631eLCZA9jM6jZxKVHlCnMFfA90FzG78ZoCLCSIIC1TEEEn0fbaTeu-3NMzSLpBAXflluN_ZvjahT4zzWXO1J6QWOFKf3zDDAanAnxZqhAsRctwyGHjP3vJCY9A5Vjpf0VsMNOfbGadu8lDeq92k-sa6zMxhpjnC3kZiRZvTXGI9DP39qUMNO9JV-si4o6X2n5YcbTj"
+        },
+        {
+          "title": "cw.com.tw",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDgV90YCvMQ09XtFr9mjr7WNSqyAQAyBxV1pTLs2rrDjqcl1ez25BDT04h9FrZsY8M1MYnHfCozauzHcHFJCJAduGWDnrwUZPvNjjdFUyhcn87VVVmkKQeOkP0Dj1qN-ZIrLBd3wPXbdwg0eRWOrNryIw"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvG5lQoAFNoN39iuyTV2KtwkltgQCqOr-4WgJ6_9KsJNHF34-OxeyPapwKYLeIQ3kL55_v5SaDxVeW04uAYzXGnUfQPGgVsyCbXAbZvgSjLQMQXU5ycyixo2OG503reKRLiKVew2SNkVh9TAGBu5WUb9cOB1b-aBrhstU6j_aZhYcCNRebn6pKyIpXmfQX8fH7y9UyBtSQw=="
+        },
+        {
+          "title": "thestar.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe7aJxW5sz_TIhgB_ksc9QfDddZJXQYmH34B_U-do5T3TFusYI3uGIXe6TkElsqc60aHUvjKaztNlEUTdQGNsccO7TAmbTJhCv-lTqOxa84o95gNh5_AYnzoDsmINuivvNaDLWOh7ilqy9f_oqKMf3pBrGv6PBtAb2OyEkb8CGzVTOjVjsV5vhzopWEq8VEYYXsmY9O2nFtHq2Lh_CSATwFgZ8aurd6pW2IxYng4g="
+        }
+      ]
+    }
+  }
+}
