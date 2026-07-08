@@ -1,0 +1,517 @@
+{
+  "date": "2026-07-08",
+  "timestamp": 1783493188294,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US, Iran exchange strikes; Russia-Ukraine talks; Sudan conflict ongoing",
+      "summary": "The United States launched new strikes against Iran in response to attacks on three commercial vessels in the Strait of Hormuz. Iran retaliated with strikes targeting US military sites in Bahrain and Kuwait, raising fears of a wider conflict in the Middle East. Meanwhile, diplomatic efforts continue for a peace deal in the Russia-Ukraine war, while the conflict in Sudan continues to have regional impacts.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Three commercial ships were attacked in this vital waterway, triggering US retaliatory strikes."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran accused the US of violating a peace agreement and responded to US strikes by targeting military sites in allied countries."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The U.S. military launched new strikes against Iran in response to shipping attacks."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Reported incoming missile and drone attacks after US strikes on Iran."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3787,
+          "lng": 47.9772,
+          "severity": "red",
+          "detail": "Reported incoming missile and drone attacks after US strikes on Iran."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "yellow",
+          "detail": "US President Trump discussed Russia-Ukraine peace prospects at the NATO summit held here."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian President Zelensky urged European allies to prioritize anti-ballistic missile systems against Russian threats."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5324,
+          "severity": "yellow",
+          "detail": "The ongoing conflict continues to have significant regional impacts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety scrutinized; Germany, Sweden face human rights criticism",
+      "summary": "A new global report indicates the AI industry is failing to adequately address 'existential' safety threats, despite a new AI safety law enacted in Illinois. Germany faces strong criticism from Human Rights Watch for proposed amendments that would severely restrict its Freedom of Information Act, while Sweden is deporting young women to countries where they could face gender-based rights violations. Significant data breaches were also reported by 23andMe and KDDI Corporation.",
+      "regions": [
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Human Rights Watch criticized the German government for plans to curb its Freedom of Information Act."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The UN Human Rights Council adopted a resolution on eliminating discrimination against persons affected by leprosy."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported that Sweden is deporting young women who may face gender-based rights violations."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reports highlighted global AI safety shortcomings, and the DHS is investigating a data breach."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "green",
+          "detail": "The Illinois Governor signed a new AI safety law, making it the first state to require audits of frontier models."
+        },
+        {
+          "name": "St. Louis, Missouri, USA",
+          "lat": 38.627,
+          "lng": -90.1994,
+          "severity": "yellow",
+          "detail": "A US bankruptcy judge approved a $46.75 million settlement for victims of the 23andMe data breach."
+        },
+        {
+          "name": "Palo Alto, California, USA",
+          "lat": 37.4419,
+          "lng": -122.143,
+          "severity": "yellow",
+          "detail": "23andMe, the genetic testing company involved in a major data breach, is based here."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "KDDI Corporation revealed a data breach potentially impacting 12.2 million customer emails and 7.6 million passwords."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme heat, wildfires, floods, and El Niño warnings grip globe",
+      "summary": "Europe is experiencing its third major heat wave, leading to grid and water risks across France, Portugal, and Spain, while a \"heat dome\" in the eastern US caused numerous fatalities. The UN World Meteorological Organization has issued a global warning for a strong El Niño, expected to trigger widespread extreme weather events. Wildfires continue to rage in Utah, and a glacial lake outburst caused flooding in British Columbia.",
+      "regions": [
+        {
+          "name": "Valencia, Spain",
+          "lat": 39.4699,
+          "lng": -0.3763,
+          "severity": "red",
+          "detail": "The region is experiencing extreme heat as part of Europe's third major heat wave."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Temperatures reached 40C, contributing to extreme heat and wildfire concerns across Europe."
+        },
+        {
+          "name": "Lisbon, Portugal",
+          "lat": 38.7223,
+          "lng": -9.1393,
+          "severity": "red",
+          "detail": "The country is affected by the extreme heat gripping Europe."
+        },
+        {
+          "name": "Eastern US",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "A severe 'heat dome' caused at least 25 deaths and affected over 140 million people."
+        },
+        {
+          "name": "Junction, Utah, USA",
+          "lat": 38.3813,
+          "lng": -112.2137,
+          "severity": "red",
+          "detail": "The Cottonwood Fire charred over 150 square miles and destroyed up to 150 structures."
+        },
+        {
+          "name": "Pemberton, British Columbia, Canada",
+          "lat": 50.3164,
+          "lng": -122.802,
+          "severity": "red",
+          "detail": "A glacial lake outburst triggered hazardous debris floods in nearby waterways."
+        },
+        {
+          "name": "Mauna Loa, Hawaii, USA",
+          "lat": 19.4718,
+          "lng": -155.5922,
+          "severity": "yellow",
+          "detail": "CO2 levels recorded here indicate a steady rise in atmospheric carbon dioxide."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Meteorological Organization, based here, warned of a strong El Niño expected to spur extreme weather globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola crisis deepens in Congo; West Nile Virus found in Texas",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo has become the third-largest on record, with over 1,500 confirmed cases and 500 deaths, and no approved vaccine for the circulating strain. In the United States, targeted ground spraying for West Nile Virus is underway in Arlington, Texas, after a positive mosquito sample was detected.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country is battling the third-largest Ebola outbreak on record, with no approved vaccine for the Bundibugyo strain."
+        },
+        {
+          "name": "Arlington, Texas, USA",
+          "lat": 32.7357,
+          "lng": -97.1081,
+          "severity": "yellow",
+          "detail": "Targeted ground spraying is being conducted following the detection of a positive West Nile Virus mosquito sample."
+        },
+        {
+          "name": "New York City, New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A poll indicated 75% of Americans support restoring US aid to fight Ebola in the Congo."
+        },
+        {
+          "name": "Plainsboro, New Jersey, USA",
+          "lat": 40.3537,
+          "lng": -74.5702,
+          "severity": "green",
+          "detail": "The New Jersey Department of Health is hosting an Oral Health Conference to discuss its connection to overall health."
+        },
+        {
+          "name": "Sudbury, Massachusetts, USA",
+          "lat": 42.4048,
+          "lng": -71.4162,
+          "severity": "green",
+          "detail": "The local Board of Health held a meeting for routine public health duties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict rattles economy; Indonesia faces market downgrade",
+      "summary": "The ongoing conflict in the Strait of Hormuz between the US and Iran has sent shockwaves through global oil markets and shipping routes, leading to increased financial uncertainty and impacting energy security, particularly in Africa. Meanwhile, S&P Dow Jones Indices has listed Indonesia for a potential downgrade to frontier-market status due to concerns regarding stock ownership transparency. The IMF released its World Economic Outlook Update for July 2026.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Conflict in this region is disrupting global oil markets and shipping routes."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "S&P Dow Jones Indices listed Indonesia for potential downgrade to frontier-market status due to transparency concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF, based here, released its World Economic Outlook Update, and the US revoked Iran's oil sale license."
+        },
+        {
+          "name": "Lagos, Nigeria",
+          "lat": 6.5244,
+          "lng": 3.3792,
+          "severity": "yellow",
+          "detail": "Africa's economies are being impacted by the economic shockwaves from the US-Iran conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The US revoked a license allowing Iran to openly sell crude oil, impacting its revenue."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "German FOI Act threatened; US presidential power concerns raised",
+      "summary": "Germany's government faces criticism from Human Rights Watch over proposed changes to its Freedom of Information Act, which could significantly restrict public access to government records and undermine democratic transparency. In the United States, concerns are being raised about a shift towards an \"imperial presidency\" and the expansion of executive power, particularly following a Supreme Court decision granting criminal immunity for official presidential acts.",
+      "regions": [
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Human Rights Watch criticized proposed amendments to the Freedom of Information Act, citing threats to democratic transparency."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns were raised about an 'imperial presidency' and expansion of executive power following a Supreme Court decision on presidential immunity."
+        },
+        {
+          "name": "Grand Rapids, Michigan, USA",
+          "lat": 42.9634,
+          "lng": -85.6681,
+          "severity": "green",
+          "detail": "Democratic candidates debated various policy issues, including AI regulation and immigration enforcement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Venezuela earthquake crisis; Ebola outbreak in Congo escalates",
+      "summary": "Venezuela continues to face a severe humanitarian crisis following last month's twin earthquakes, with over 3,600 fatalities and nearly 18,000 people displaced, and a gap between the aid response and the scale of need. The escalating Ebola outbreak in the Democratic Republic of Congo also demands urgent attention, while the conflict in Sudan continues to create significant humanitarian challenges, including rising cholera cases and a refugee crisis impacting Chad.",
+      "regions": [
+        {
+          "name": "Catia la Mar, Venezuela",
+          "lat": 10.596,
+          "lng": -67.0142,
+          "severity": "red",
+          "detail": "Local volunteers are digging graves for thousands of earthquake victims, with global aid not meeting the scale of need."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The escalating Ebola outbreak requires urgent attention."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5324,
+          "severity": "yellow",
+          "detail": "The ongoing conflict contributes to a humanitarian crisis, including rising cholera cases."
+        },
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1064,
+          "lng": 15.0444,
+          "severity": "yellow",
+          "detail": "A UN envoy is addressing the regional impact of the Sudan conflict, including refugee situations."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "green",
+          "detail": "An Armenian humanitarian aid ship is expected to arrive here."
+        },
+        {
+          "name": "New York City, New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A poll indicated strong American support for restoring US aid to fight Ebola."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "green",
+          "detail": "Israel sent a specialized group to assist Venezuela with earthquake recovery efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ctvnews.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbSPYEor225qnRjk3UgHyA_Jk4QL26y9B4SN4ap4Ig2RrNMksXI1XxvbqEV9a3ObCinT44zrGJfc4oZqxHymaTshpZDichHDQgjZJHJH9YbQRdg4chgU_gLg_7HSsTzx7FkrF1Dcw2BB_h-leQVPKeMFvWG6SsGd8AhMeZKY0Vv5XbOd2BnU61g8JnNjsmE_L--aRg75fH2L4jEDB3AsEGkwAK_ds0PbrIBeWZTvaB4wYgR3H37gD-lE-vZLwXvEm62h_Q=="
+        },
+        {
+          "title": "etvbharat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBawbwgNlutiodK3xD1kH20C0Hqop7Q8V8vEQOu_8ZFUgOxhuU9-2vjBY3fzdeZi_4V5NH27UoYQczNJ6lF02EvZPm08S0iKj7QMNjg_BZfMcLYM-DKS5IB5QP3pwU-1rIvSA-0a77ok8Z06OiVsmD6vVEgCaMqHAiymJ3I4_1HKXjTUuda54HjZvsufjfXsGtdrdIAu20RRkA9aYKDSvbNScSBS06QUiTDJ4kmsDtTMIhW4hrqP0ebQcoOHr_9TDAw9jMRY1oCGaHgbab1c29-Uh8NEZlgw-oOVZr7cavUg=="
+        },
+        {
+          "title": "nepalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_GaabCe6zDBo77oovOLXNmjgIGcA4l62_WE2kNUyJZoZXqEHI0ixfC9KUhpqxNBjX--pIWJ4Q2pTutuS2RbL6wdyBcjji-uBUO-hHL2BJQJ0lZuztZ0s9r5BtdDK7KGamt-mO6LFaUwnTvowYaTx9bVvsV-3kjLYFBR-d8xfz3mi8bLz9_tYg62oHCk-DFXjZ_aT0-DzPqUMpILXjtU8cDgIEv5b5XoPNJ9VSfNZJbvCWkRlsDdIAt7sP8fz"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC98XWM-mBMrwvmpGex35TSKZLFZENeu-hrl7EbQBaJVT2JBMhq6dsoHGw8a6Yqb-XsMnnL68d8Pbt9z2mNm1BrUF4xo616Yd4ibYivlPwLjdoP_4qp5nC5gwYBH3kI8xdAPoOnr4B69aIByhwXcvVmrASNF1HW7Q6BFSGEsg2Q5aqJZ3eJ3s="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtNoFxnemk30K8acC-Qr-6RUqStZMwZ8QbIokLi5VG_h854wWIkuBdsAnkw09uvjT70ZyjJPt34INlgpRM3IIarcJh_lMGGn40UVKzzGimCY33esBR7NOg5Y1SR3WDcwfwZqyAjM7HHgGL49R8s1x_iVlCUweMVU4c97hFGLbQIGJ8Kc5A89iusjkVXNz_yYSqXR_wz1OaeS5VP2JiKREz_mOKapH"
+        }
+      ]
+    }
+  }
+}
