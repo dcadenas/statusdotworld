@@ -1,0 +1,468 @@
+{
+  "date": "2026-07-09",
+  "timestamp": 1783581128357,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates with reciprocal strikes, Mideast tensions high.",
+      "summary": "The United States launched new airstrikes against Iranian targets, escalating tensions after President Trump declared the ceasefire with Iran \"over\" following attacks on commercial ships in the Strait of Hormuz. In retaliation, Iran targeted US bases in Bahrain, Kuwait, and Qatar, with reports of sirens sounding in Bahrain and Kuwait's military intercepting drones and missiles. Separately, violence continues in the Gaza Strip with reported displacements, and an Israeli drone strike killed two people in southern Lebanon.",
+      "regions": [
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "US military struck approximately 90 targets, including missile and drone storage sites and air defense systems."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "The U.S. military launched a second night of strikes against Iranian targets, retaliating for attacks on commercial ships."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Recent Iranian attacks on commercial vessels in this critical waterway led to renewed US strikes."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Tehran claimed to have targeted US bases in Bahrain, and air raid sirens were heard in the capital."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Iran claimed to have targeted US bases in Kuwait, with Kuwait's military reporting interception of incoming drones and missiles."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "yellow",
+          "detail": "Tehran reported targeting US bases in Qatar amidst the escalating conflict."
+        },
+        {
+          "name": "Gaza Strip, Occupied Palestinian Territory",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "yellow",
+          "detail": "At least 10 Palestinians were killed by Israeli fire, and families continue to be displaced in areas along the \"Yellow Line\"."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.2721,
+          "lng": 35.2093,
+          "severity": "yellow",
+          "detail": "Two people were killed in an Israeli drone strike, marking a violation of the ongoing ceasefire agreement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI governance and surveillance spark global concern.",
+      "summary": "A UN summit in Geneva (July 6-7, 2026) addressed AI governance, with participants wrestling with how to regulate a technology evolving faster than its safeguards, amidst warnings of potential \"catastrophic harm\". Concerns were raised about the profound chilling effects of AI-powered surveillance systems, including real-time facial recognition and digital tracking, on personal freedoms and democracy. Various regions, including China and the United States, are deploying or increasing the use of such technologies, with documented abuses linked to facial recognition in places like the Occupied Palestinian Territories.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Global Dialogue on AI Governance discussed regulating AI and addressing its risks."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China continues to deploy extensive AI surveillance infrastructure, integrating it with social credit systems."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. Department of Homeland Security is rapidly increasing its use of AI-based surveillance."
+        },
+        {
+          "name": "Occupied Palestinian Territories",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "yellow",
+          "detail": "Amnesty International has documented abuses linked to facial recognition technology in the region."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Authorities proposed AI-powered video surveillance in the run-up to the Paris Olympics."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Legal changes allowing the use of facial recognition technology to target events like Pride marches raise concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme heat and El Niño worsen global climate outlook.",
+      "summary": "Western Europe experienced its hottest June on record, with the average temperature reaching 20.74°C, more than 3°C above the 1991-2020 norm, and extreme heatwaves continue to batter the continent. In the Eastern United States, a widespread heat wave driven by a strong \"heat dome\" caused temperatures over 100°F and heat index values up to 115°F, with analysis indicating such combined heat and humidity would be \"virtually impossible\" without human-caused warming. Experts warn that a strengthening El Niño, alongside global warming, is expected to intensify heat waves, droughts, storms, and food insecurity worldwide, leading to increased economic losses.",
+      "regions": [
+        {
+          "name": "Western Europe",
+          "lat": 50,
+          "lng": 5,
+          "severity": "red",
+          "detail": "The region recorded its hottest June on record, with sustained heatwaves and high temperatures."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Temperatures of 40°C and high excess deaths from extreme heat were reported in late June and early July."
+        },
+        {
+          "name": "Eastern United States",
+          "lat": 39.8283,
+          "lng": -76.9886,
+          "severity": "red",
+          "detail": "A severe heat dome brought stifling temperatures exceeding 100°F to over 20 states, with more than 140 million people under heat alerts."
+        },
+        {
+          "name": "Gulf of Mexico",
+          "lat": 25,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "Sea surface temperatures in parts of the Gulf have become 100 to 500 times more likely due to climate change, increasing the potential for stronger tropical cyclones."
+        },
+        {
+          "name": "Caribbean",
+          "lat": 15,
+          "lng": -70,
+          "severity": "yellow",
+          "detail": "The effects of El Niño are already being felt through drought, water shortages, extreme heat, and disease outbreaks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Semaglutide dosing errors and Cyclospora outbreaks concerning.",
+      "summary": "Poison control calls in the United States involving semaglutide (Ozempic and Wegovy) have soared, primarily linked to accidental dosing mistakes such as daily instead of weekly injections or starting with high doses. Health officials in Georgia are warning residents about the seasonal risk of Cyclospora infections, as thousands of cases are being reported nationwide, with the state seeing its highest numbers during warmer months. Other areas like New York City and Michigan are also experiencing significant outbreaks of cyclosporiasis.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Experienced a dramatic surge in poison control calls related to semaglutide due to accidental dosing mistakes."
+        },
+        {
+          "name": "Atlanta, Georgia, United States",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "Georgia health officials are reminding residents about the seasonal Cyclospora risk as cases rise statewide."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Nearly 300 cases of cyclosporiasis have been reported by health officials."
+        },
+        {
+          "name": "Michigan, United States",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "The cyclosporiasis outbreak in Michigan has grown to nearly 1,000 cases in two weeks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF cuts global growth forecast amid Mideast conflict fallout.",
+      "summary": "The International Monetary Fund (IMF) has cut its 2026 global growth forecast to 3.0%, down from 3.1%, citing the \"lingering effects\" of the energy shock caused by the US-Israel war on Iran. The closure of the Strait of Hormuz has led to soaring energy prices and global consumer prices are expected to increase 4.7% in 2026, indicating stalled progress against inflation. While AI-driven demand partly offsets the energy shock, the outlook remains uneven, with downside risks from renewed conflict and potential trade fragmentation persisting.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The IMF reduced its 2026 global growth forecast to 3.0% due to ongoing conflicts and energy shocks."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28.5,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The ongoing war and energy shock in the region are major contributors to the downgraded global economic outlook."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "red",
+          "detail": "Involvement in conflict and the initial shutting down of the Strait of Hormuz caused an energy shock."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Disruptions to this critical shipping route significantly impacted global oil and gas prices."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The IMF maintained its 2026 U.S. growth forecast at 2.3%, but the country is involved in the Middle East conflict affecting global economy."
+        },
+        {
+          "name": "Eurozone",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "The Eurozone's 2026 growth forecast was lowered to 0.9% from 1.1%."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Maine Senate race rocked by sexual assault allegation.",
+      "summary": "Democratic U.S. Senate candidate Graham Platner announced plans to withdraw from the Maine Senate race following a sexual assault allegation, despite denying the claim. This development creates significant political dysfunction for Democrats, who had viewed Maine as a critical opportunity to gain a Senate seat. Republicans are now reassessing their national strategy, seeing a more favorable political map to maintain their Senate majority.",
+      "regions": [
+        {
+          "name": "Maine, United States",
+          "lat": 45.3672,
+          "lng": -68.9722,
+          "severity": "yellow",
+          "detail": "The U.S. Senate race is in turmoil after Democratic candidate Graham Platner decided to withdraw due to a sexual assault allegation."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The unexpected withdrawal in Maine is impacting national Democratic efforts to gain control of the U.S. Senate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid efforts strained in Gaza, Sudan, and Venezuela.",
+      "summary": "Humanitarian operations in the Occupied Palestinian Territory remain critical, with significant displacement in Gaza and only about a quarter of the $4.1 billion needed for aid operations secured this year. In Lebanon, the humanitarian situation is fragile with major protection concerns and gaps in essential services despite reduced hostilities. The UN humanitarian chief pressed leaders of Sudan's Rapid Support Forces for safe access for aid workers and civilians amid escalating violence in regions like El Obeid, where child casualties are mounting. Additionally, CARICOM's humanitarian aid package for Cuba was finally cleared after facing sanctions-related banking hurdles, and Vietnam provided $300,000 in emergency aid to Venezuela following devastating earthquakes.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Occupied Palestinian Territory",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "People continue to be displaced, and only a quarter of needed aid funding has been secured."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "The humanitarian situation remains critical with major protection concerns and service gaps despite a ceasefire."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1595,
+          "lng": 30.2227,
+          "severity": "red",
+          "detail": "Escalating hostilities and drone strikes have led to mounting child casualties, prompting calls for aid access."
+        },
+        {
+          "name": "Venezuela",
+          "lat": 8,
+          "lng": -66,
+          "severity": "yellow",
+          "detail": "Vietnam provided $300,000 in emergency humanitarian assistance following devastating twin earthquakes."
+        },
+        {
+          "name": "Cuba",
+          "lat": 21.5218,
+          "lng": -77.7812,
+          "severity": "yellow",
+          "detail": "CARICOM's humanitarian aid package was cleared for delivery after funds were previously rejected due to sanctions."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7487,
+          "lng": -73.9683,
+          "severity": "yellow",
+          "detail": "The UN is appealing for $34 billion to assist 252 million people in crisis globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERJhKdiWyNo3UUElVCK-QcLqWzKDsIm0QibAXuDY0YsKZzQei9KzqLWbJ3aUSk2C83SmN7Sz3vTqidHK3TCvUx5S6mt2UFDi7VgNwKdHM8syXb962nstzCe6nulwpupFM5fkdS3wQToB1hFlj6GDxaiZpqPbgGI11lH7IzL7tF-G_bF1gCqw=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6f1OPKDVVbYvgiiUMvh4LRk-QUi70p4rEmAxiL9-ZxGQAMwua3JU3A4xWu01Rk8EZ_clPx7eDRDnXAhuqEt1rWuwoa9_Ierw5RUfQZgiNsxvM8VgCOOtm0kIMg5Tca-59Oq101gYxoHr1KwwDSujqxSHepWY9j9N_FCqb6NFaX8J_Ggk-nWFNNVW2vEfpv73fckDGkq2RD_AdhiPmkOJKxoMK7j4_qN38ivE9IH_ALv8ufuZVeJ7hyNm2gc9jHJexqLXajU4tpVXX8JpihCdEkMLc7rnfu3uv9-fAD6XYYVInHGeJuPTv3sl6B0dvqNSUQ=="
+        },
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuP_If0DY7tWDelIp6rLuGWDKWMeb3UpmWGNH9LntJeryN_H_CphKDxEAc6o9GC5wJoXvJdA6FLnXbjD92MBvk6LNALRIZ_h9UFYxBCvypuRFDyWHW1se-eTQxo9S19NmgSOQGJQ5Pc-klplhkBlCNDuGKpeMP8NR2qtcPxUfXbdjCpteNFM4KCTkmQ=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcdNVg_w90vtbyE-zhAtdCf5JqycSx6VVCk7Mno49R8l4UG3jQVSkxPodSpDGHy-cb_szxDBqd3OTSb3X5KbHEyHx0d2BVUAfbxJt30MCmLurbWcbVzbrhADFA4I1mcWKUKO8WCrqjazgCdGhrWkdEovZW36XF47OHj8Ome6Yn__ezq5MNz1gvL2AbkC1zSQSx50o6VmDjVhFONhGAkfOpw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Y4vqEa3c-0j9F0kFoC2FdmhtUj4S6AuGjtX7sHMIdHb5RqKyOdZ3hwyQodgtWma27FJECkjNrVJHlIQxYvNb6eMDSsYuA57qq3rwO5iwyoHhW_6dS9D3PQRSFXAXxMDxoU3_mTw-"
+        }
+      ]
+    }
+  }
+}
