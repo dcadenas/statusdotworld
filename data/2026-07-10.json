@@ -1,0 +1,517 @@
+{
+  "date": "2026-07-10",
+  "timestamp": 1783667160412,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran Conflict Escalates; Sudan Peace Efforts Stalled",
+      "summary": "The US has renewed military strikes against Iran in the Strait of Hormuz after President Trump declared a ceasefire over, following Iranian attacks on commercial tankers. Iran has responded with drone and missile attacks on US and allied targets in the region, prompting Israeli threats of further retaliation. Meanwhile, efforts to establish peace in Sudan are hindered by the army's demand for a full withdrawal of the Rapid Support Forces from cities.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping has halted due to renewed US military strikes against Iranian targets and Iranian attacks on commercial vessels, escalating regional tensions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran threatens retaliation after US strikes, and has reportedly launched drones and missiles at US interests in the Middle East."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US government has renewed strikes on Iranian targets after President Trump declared a ceasefire over, citing Iranian attacks on commercial vessels."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "yellow",
+          "detail": "The Sudanese army insists on a full withdrawal of the Rapid Support Forces from cities as a condition for a US peace plan, stalling efforts."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "yellow",
+          "detail": "Sirens have sounded, and incoming drone and missile strikes from Iran have been reported, as regional tensions are renewed."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "yellow",
+          "detail": "Kuwait's military shot down ballistic missiles, a cruise missile, and drones, with falling debris wounding one person."
+        },
+        {
+          "name": "Doha, Qatar",
+          "lat": 25.2854,
+          "lng": 51.531,
+          "severity": "yellow",
+          "detail": "Missiles have targeted Qatar, and regional mediators including Qatar are working to de-escalate tensions between the US and Iran."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel has threatened to strike Iran with \"greater force\" amid the escalating conflict in the Middle East."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI/Digital Rights Legislation Advances; Data Breaches Reported",
+      "summary": "Legislative efforts to regulate AI chatbots for privacy and safety are progressing in the US, with Illinois enacting a safety act and federal bills introduced. The US House passed a child online safety act with age-verification provisions, though privacy concerns remain. However, new reports detail significant data breaches affecting millions of individuals, and human rights violations continue in Iran and for former child soldiers in Nepal.",
+      "regions": [
+        {
+          "name": "Springfield, Illinois, United States",
+          "lat": 39.799,
+          "lng": -89.6437,
+          "severity": "green",
+          "detail": "Illinois Gov. Pritzker signed the state's AI Safety Measures Act, requiring independent third-party safety audits of large AI models."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US House passed the KIDS Act for child online safety, and federal legislation on AI chatbot safety and privacy was introduced, while the FTC signaled intent to regulate AI systems for deception."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Widespread human rights violations are reported, including the sentencing of a Christian woman to 10 years and the killing of demonstrators."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York passed a kids chatbot safety bill and an AI training data transparency act, while the New York Times-led group asks for sanctions against OpenAI over copyright dispute."
+        },
+        {
+          "name": "Westland, Michigan, United States",
+          "lat": 42.3167,
+          "lng": -83.4099,
+          "severity": "green",
+          "detail": "The city will remove its Flock Safety license plate-reading cameras due to resident and city leader concerns over privacy."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "A European Commission survey revealed children desire stricter rules on digital fairness, influencing the upcoming Digital Fairness Act."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "The Supreme Court has challenged the state to uphold the dignity of former child soldiers and provide comprehensive compensation and rehabilitation."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "An international human rights group expressed concern to the UN Human Rights Council regarding discrimination against members of Shincheonji Church of Jesus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Super Typhoon Bavi Threatens China; El Niño Worsens Global Extremes",
+      "summary": "China is bracing for catastrophic storms, including the imminent arrival of Super Typhoon Bavi and up to six typhoons expected in July, intensifying due to El Niño. Globally, El Niño is exacerbating heat waves, droughts, and storms, leading to increased food insecurity and economic losses, with Europe experiencing its most severe heatwave on record.",
+      "regions": [
+        {
+          "name": "Guangxi, China",
+          "lat": 23.8298,
+          "lng": 108.7946,
+          "severity": "red",
+          "detail": "Southern China is experiencing floodwaters, and the region is bracing for the arrival of Super Typhoon Bavi, following Typhoon Maysak which caused havoc."
+        },
+        {
+          "name": "Rota, United States",
+          "lat": 14.1569,
+          "lng": 145.2016,
+          "severity": "red",
+          "detail": "Super Typhoon Bavi briefly made landfall here with winds exceeding 290 kph before heading towards China."
+        },
+        {
+          "name": "France",
+          "lat": 46.2276,
+          "lng": 2.2137,
+          "severity": "red",
+          "detail": "France is experiencing a heat wave, shattering temperature records as extreme heat grips Europe."
+        },
+        {
+          "name": "Caribbean",
+          "lat": 15,
+          "lng": -70,
+          "severity": "yellow",
+          "detail": "The effects of El Niño are evident through ongoing drought, water shortages, extreme heat, and disease outbreaks."
+        },
+        {
+          "name": "Pacific Northwest, United States",
+          "lat": 45.5,
+          "lng": -120,
+          "severity": "yellow",
+          "detail": "Drought prospects are dire this year, characterized by normal winter precipitation but below-normal snowpack."
+        },
+        {
+          "name": "Estonia",
+          "lat": 58.5953,
+          "lng": 25.0136,
+          "severity": "green",
+          "detail": "Estonia tops the Environmental Performance Index for its significant reduction in greenhouse gas emissions."
+        },
+        {
+          "name": "Laos",
+          "lat": 19.8563,
+          "lng": 102.4955,
+          "severity": "red",
+          "detail": "Laos is at the bottom of the Environmental Performance Index, indicating significant challenges in environmental stewardship."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola Spreads in Congo; Venezuela Quake Zones Face Health Crisis",
+      "summary": "The Ebola death toll in Congo has reached 600, with new suspected cases in previously unaffected regions, marking the fastest-growing outbreak on the continent. In Venezuela, earthquake-hit communities are experiencing a surge in chronic illnesses and diarrheal diseases due to crowded living conditions and poor sanitation.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "New suspected cases of Ebola have been reported in previously unaffected parts of Congo, including Tshopo and Haut-Uele provinces, with the death toll reaching 600."
+        },
+        {
+          "name": "Catia La Mar, Venezuela",
+          "lat": 10.6074,
+          "lng": -67.0396,
+          "severity": "red",
+          "detail": "A surge in skin conditions, diarrheal diseases, and requests for chronic illness medications are reported in earthquake-hit communities."
+        },
+        {
+          "name": "Boston, Massachusetts, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "The first West Nile virus detection of the summer in a mosquito sample was made in Jamaica Plain, though no human cases are confirmed."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya is receiving $14.5 million in US support for Ebola Virus Disease preparedness, strengthening its ability to prevent and respond to outbreaks."
+        },
+        {
+          "name": "Oxford, England, United Kingdom",
+          "lat": 51.752,
+          "lng": -1.2577,
+          "severity": "green",
+          "detail": "Sir Adrian Hill and his team at the University of Oxford won the European Inventor Award 2026 for their malaria vaccine, which has saved thousands of lives."
+        },
+        {
+          "name": "Yorkshire, England, United Kingdom",
+          "lat": 53.98,
+          "lng": -1.25,
+          "severity": "green",
+          "detail": "A new AI-powered blood test for womb cancer, trialled here, showed 99% accuracy in detecting gynaecological cancers."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The AMA continues to advocate for Medicare physician payment reform and has responded to HHS on the chronic disease of addiction."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF Maintains Growth Forecasts Amid Middle East Conflict, AI Boom",
+      "summary": "The International Monetary Fund has maintained its global growth forecasts for 2026 and 2027, citing resilience due to a technology-driven investment boom in AI, despite the lingering effects of the Middle East conflict. However, global headline inflation is projected to rise to 4.7% in 2026, and the conflict continues to drive up energy prices, with shipping halted in the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF, based here, projected global growth at 3.0% for 2026, acknowledging the offsetting forces of Middle East conflict and AI investment."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping has halted due to the renewed US-Iran conflict, posing a threat to global crude supplies and energy prices."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "El Niño and the prolonged Middle East war are expected to keep Philippine inflation elevated."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -10,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "The IMF forecasts Sub-Saharan Africa to expand by 4.3% in 2026, but notes a widening divide between commodity-exporting and commodity-importing economies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Judicial Independence Under Scrutiny; Philippines Democracy Debated",
+      "summary": "In the United States, retired judges are actively campaigning to defend judicial independence and the rule of law amidst declining public confidence and repeated questioning of the judicial system by President Trump. Meanwhile, in the Philippines, there's an ongoing debate regarding the integrity of impeachment and the broader health of democratic institutions.",
+      "regions": [
+        {
+          "name": "Ohio, United States",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "yellow",
+          "detail": "Retired federal and state judges are barnstorming to defend judicial independence and bolster trust in courts, as confidence in the system has dipped."
+        },
+        {
+          "name": "Pennsylvania, United States",
+          "lat": 41.2033,
+          "lng": -77.1945,
+          "severity": "yellow",
+          "detail": "Judges are touring the state to address concerns about the rule of law and the fairness of the judicial system."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Discussions are ongoing about whether constitutional institutions can discover truth, hold officials accountable, and administer impartial justice, as democracy's integrity is questioned."
+        },
+        {
+          "name": "Augusta, Maine, United States",
+          "lat": 44.3105,
+          "lng": -69.7801,
+          "severity": "yellow",
+          "detail": "The Maine Democratic Party plans a convention to replace a US Senate candidate who withdrew after sexual assault allegations, unsettling a crucial race."
+        },
+        {
+          "name": "Tirana, Albania",
+          "lat": 41.3275,
+          "lng": 19.8187,
+          "severity": "yellow",
+          "detail": "Protests against a Kushner-Trump luxury resort, dubbed the \"Flamingo Revolution,\" could potentially lead to the downfall of the government."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Venezuela Quake Aid Efforts Ongoing; Gaza Displacement Site Needs High",
+      "summary": "Caritas has delivered nearly 15,000 tonnes of humanitarian aid to Venezuela following last month's devastating earthquakes, which killed over 3,800 people and left 1.3 million in urgent need. The UN has launched a $300 million appeal for assistance, as quake-affected communities face surging chronic illnesses and diarrheal diseases. In Gaza, a virtual diplomatic visit highlighted pressing needs for water and cash-for-work opportunities at displacement sites.",
+      "regions": [
+        {
+          "name": "La Guaira, Venezuela",
+          "lat": 10.596,
+          "lng": -66.9317,
+          "severity": "red",
+          "detail": "This region was severely impacted by last month's earthquakes, leading to a surge in health issues and a high demand for humanitarian aid and medical supplies."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "Caritas Venezuela activated its network here and in other hard-hit communities to assist with aid distribution and relief operations."
+        },
+        {
+          "name": "Al Mawasi, Khan Younis, Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.283,
+          "severity": "red",
+          "detail": "A virtual diplomatic visit to this displacement site highlighted urgent needs for sustainable water services and cash-for-work opportunities for displaced people."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The United Nations, with offices here, launched a $300 million appeal to assist 1.3 million people in urgent need in Venezuela."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "International humanitarian organizations are coordinating relief efforts and appeals for funding to address the crises in Venezuela and Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "foxnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE657jP4Gsdv9wUJo2VBRNH1TlJe7PzML1tZMdOALJSlZYqRSPz7caRod-LKD0cb1a9hiAK0QVdlkQrcI8DR0gbeLwcxeCtkmqdpGRJy4wFZibVBxr28fP9RT3QiZowT08cNpfqbQYWiWOvRHJ2TKhXEXCEOkx1vDO9b3ZJHkv71wcHiyrZf98BErg="
+        },
+        {
+          "title": "jamaica-gleaner.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHKwP3YWO9vk8KMdOjYrLEzvLjxRCmHOhHsiUTduterxuFTJ9A8U_c9U3WR7BumOHASfqZ7fupOct_P9e6iKcTByuFs8fsVZgso4HfK7u9Zenq-kqv6kfhkNnvNvAyF-fp4t5EH82pQyrjIiLNC-pe5qrruNH2wHjt6GB8KCaU1Vmq2BBAyjNF-Ruh5XaZ65nSwFYxpw=="
+        },
+        {
+          "title": "arabnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJcc7ucBr1WkN-G0bt9OPIFJFaunkOysMnkvHqCiFNFutCe-VaCSyGKMWD4fbRpfwqfLEqLSMssVoylgyzs01z2XKNi0U6To1S9zxH_MI5CQJBsty3zFVmGrnFO77ajHf5vcKbqkh9Mw=="
+        },
+        {
+          "title": "jewishrhody.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdQnpJj0RlMwj8PUvd_QBSvnmhJJY1Ux6_1E761DGOB_RhmEAIRFLg7H4c2H8bN6xOhYMQBs6c9r1JP_Lp3TSxDLNd987ilbUSZ1GvcgbktCB2gEh12XvtcOSJTO7GH5nAsh9Zl0AefWOgzmgddKBCSHLcHEiv1au4zzw2YLzK9eZL_FVOXGIYtGILPYEnE8CMmQjc2Jzn-pWdxlDGXQqpV6DAfBLXs11Gi5pToNNG0urATrm4vcEIL-ZZYuqCEc="
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLJPhqSuHfPpe56IsaU0VVLqIpxAS26VHkIrBntJbDn9wNEnncM1daFdtCfGmvZS-wJtPNoOEfnY9z4gZKwg4P2s-NHqtCapAueT8OifFTW7T0Ze7zo8nIJq2fjkiTINdADFLFGH44jelnrghtVvCv5bctk6b"
+        }
+      ]
+    }
+  }
+}
