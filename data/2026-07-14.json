@@ -1,0 +1,475 @@
+{
+  "date": "2026-07-14",
+  "timestamp": 1784011231733,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US and Iran exchange strikes; UN warns of devastating global impact.",
+      "summary": "Tensions between the US and Iran escalated with US strikes against Iran and retaliatory Iranian missile attacks on oil tankers in the Strait of Hormuz, resulting in casualties. The UN Secretary-General warned of potentially devastating consequences for global peace, security, and the economy if the conflict broadens. Iran also reported targeting US military facilities in Bahrain and an airbase in Jordan.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian missiles struck oil tankers in the Strait of Hormuz, and Iran claimed to have targeted US facilities."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US launched fresh strikes against Iran, indicating an escalation of hostilities."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iranian missiles struck oil tankers, killing one Indian sailor and wounding others."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "yellow",
+          "detail": "Iran claims to have destroyed US military facilities in Bahrain."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "Iran claims to have targeted a US Air Base in Jordan."
+        },
+        {
+          "name": "Shusha, Azerbaijan",
+          "lat": 39.7583,
+          "lng": 47.5,
+          "severity": "green",
+          "detail": "Azerbaijan's President expressed hope for an early end to the conflict in the Middle East."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Myanmar abuses, Libya refugee crisis, and AI safety dominate human rights news.",
+      "summary": "A report detailed severe human rights violations in Myanmar's Kachin State by the military junta, including forced displacement and killings. Germany's Human Rights Commissioner is addressing the refugee crisis in Libya. Meanwhile, civic groups in Taiwan expressed concerns about human rights under China's new law. Globally, discussions on AI safety and children's digital rights continued, with new methods to detect CSAM in AI models and legislative debates on social media regulation.",
+      "regions": [
+        {
+          "name": "Kachin State, Myanmar",
+          "lat": 25.5,
+          "lng": 97.5,
+          "severity": "red",
+          "detail": "A new report exposed severe human rights violations by the military junta, including killings and forced displacement."
+        },
+        {
+          "name": "Tripoli, Libya",
+          "lat": 32.8872,
+          "lng": 13.1913,
+          "severity": "yellow",
+          "detail": "Germany's Human Rights Commissioner is in talks regarding the situation of refugees."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Civic groups urged the government to establish an asylum system due to concerns over China's new law."
+        },
+        {
+          "name": "San Francisco, United States",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Protesters marched against the development of advanced AI, citing safety and job concerns."
+        },
+        {
+          "name": "Cambridge, United States",
+          "lat": 42.375,
+          "lng": -71.1061,
+          "severity": "green",
+          "detail": "MIT scientists developed a new method to audit AI models for the production of CSAM."
+        },
+        {
+          "name": "Boston, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "The Massachusetts Senate passed a social media bill impacting minors' digital rights."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU's Special Panel on Child Safety Online released a report on harmful social media designs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record heat, severe storms hit US; global climate impacts escalate.",
+      "summary": "Dangerous and record-breaking heat waves are peaking across the western and north-central United States, with several cities experiencing historic temperatures, leading to heat advisories and air quality warnings. A fast-moving thunderstorm caused damage and power outages in Florida. Globally, climate dynamics are causing structural volatility in supply chains for Latin America, and environmental groups warn against deep seabed mining due to its irreversible climate and biodiversity impacts.",
+      "regions": [
+        {
+          "name": "Billings, Montana, United States",
+          "lat": 45.7833,
+          "lng": -108.5,
+          "severity": "red",
+          "detail": "Shattered its all-time temperature record due to a dangerous heatwave."
+        },
+        {
+          "name": "Salt Lake City, Utah, United States",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "red",
+          "detail": "Tied its second-highest temperature ever recorded."
+        },
+        {
+          "name": "Ocala, Florida, United States",
+          "lat": 29.1872,
+          "lng": -82.1401,
+          "severity": "yellow",
+          "detail": "Hit by a fast-moving thunderstorm causing damage and power outages."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Under an Air Quality Health Advisory for ozone due to increased heat."
+        },
+        {
+          "name": "Detroit, Michigan, United States",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "yellow",
+          "detail": "A heat advisory is in effect as dangerous heat returns."
+        },
+        {
+          "name": "Boston, Massachusetts, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "Issued a heat advisory with high heat indices."
+        },
+        {
+          "name": "Pittsburgh, Pennsylvania, United States",
+          "lat": 40.4406,
+          "lng": -79.9959,
+          "severity": "yellow",
+          "detail": "Cooling centers activated due to forecasted temperatures exceeding 90 degrees."
+        },
+        {
+          "name": "Andean Region, South America",
+          "lat": -9.19,
+          "lng": -75.015,
+          "severity": "yellow",
+          "detail": "Experiencing higher rainfall potentially impacting infrastructure and crops."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Pesticide dangers for children, US illness outbreak raise health alarms.",
+      "summary": "A UNICEF report revealed alarming global exposure of children to pesticides, impacting their health, while an outbreak of cyclosporiasis, an intestinal illness, is spreading across the United States, with significant cases in Ohio. Locally, Philadelphia is undertaking mosquito control measures to combat West Nile virus. Additionally, a health system in West Virginia settled allegations of controlled substance violations.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "UNICEF report highlights widespread pesticide exposure affecting children's health."
+        },
+        {
+          "name": "Cleveland, Ohio, United States",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "yellow",
+          "detail": "An outbreak of cyclosporiasis has been identified with 18 cases."
+        },
+        {
+          "name": "Fort Mifflin, Philadelphia, Pennsylvania, United States",
+          "lat": 39.8767,
+          "lng": -75.1878,
+          "severity": "green",
+          "detail": "The Health Department is spraying to control mosquitoes carrying West Nile virus."
+        },
+        {
+          "name": "Morgantown, West Virginia, United States",
+          "lat": 39.6295,
+          "lng": -79.9559,
+          "severity": "green",
+          "detail": "WVU Health System settled allegations of controlled substance violations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF downgrades global growth amid US-Iran tensions, market volatility.",
+      "summary": "The International Monetary Fund slightly downgraded its 2026 global growth forecast, attributing it to ongoing conflicts and technology market shifts. Global financial markets are experiencing heightened volatility, primarily driven by escalating US-Iran tensions and a significant surge in oil prices. India's stock markets reacted cautiously to these geopolitical and energy price risks, while the IMF also noted concerns about slower trade growth and higher inflation.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF released its downgraded global growth forecast from here."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Escalating US-Iran tensions in this critical waterway caused oil price surges and market volatility."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Indian stock markets made a cautious start due to US-Iran escalation and oil price risks."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "SK Hynix, a leading memory maker, experienced a sharp decline amidst fragility in the AI investment trend."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "IMF's global growth forecast downgrade affects the global economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US lawmakers debate AI/digital rights; Taiwan concerned over China law.",
+      "summary": "In the United States, bipartisan discussions among lawmakers focused on regulating artificial intelligence and ensuring online child safety, highlighting a balance between protection and individual rights. The Massachusetts Senate passed a social media bill that aims to protect minors while avoiding infringements on First Amendment rights. Meanwhile, civic groups in Taiwan expressed concerns about potential threats to democratic freedoms and human rights stemming from China's new Ethnic Unity and Progress Promotion Law, calling for an asylum system.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Young lawmakers discussed AI policy and online child safety; CRS reported on an executive order for AI."
+        },
+        {
+          "name": "Boston, Massachusetts, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "The Massachusetts Senate passed a bill on social media use by minors, focusing on balancing rights."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Civic groups urged an asylum system due to concerns about China's new law impacting human rights and democratic freedoms."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The UN Human Rights Council is holding a meeting on the rights of indigenous peoples."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Venezuela earthquake aid, Gaza access issues, Bangladesh floods persist.",
+      "summary": "South Korea pledged an additional $3.5 million in humanitarian aid to Venezuela to support recovery efforts after last month's devastating earthquakes, which caused thousands of casualties. In Gaza, the UN World Food Programme is calling for greater access, reporting severe restrictions, ongoing violence, and disruptions to aid delivery, with Hamas being accused of hindering distribution. The Bangladesh Army continues providing assistance to flood-affected regions.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "South Korea is providing additional humanitarian aid for earthquake recovery."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Aid deliveries are severely restricted, and distribution is being disrupted amidst ongoing violence."
+        },
+        {
+          "name": "Chattogram, Bangladesh",
+          "lat": 22.3569,
+          "lng": 91.7805,
+          "severity": "yellow",
+          "detail": "The Bangladesh Army continues humanitarian assistance in flood-affected areas."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A new commission was launched to improve the effectiveness of US foreign assistance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIsBECYJiLFn627DAOrKtZfzxQEuj8fC7c6gvSBtTbspSPbkuQ2R4xvIiIOL7Yxw_LS87VLC8zlS5tRfb9WJdPz59GpVSjjtywLNZwP01gPqdKb1w7NG_gPUxVpyyftAuFXI0vNWJBLTCVTCmGGnr9zYvlrNNJY_WJG45RI42tUVznOe6SfZl622lPcuhXVfyXYiIO7OUZLNQoDTYAYquBk4eIWMqLkLjIk0CLtuxlQ2ksahO83UZ8JfLDYMPfj--Z8E0HxyXz9Qpp6Y38SaCl8PnVRYLGM_djfPRsm4gz09IRze_emyXkIpRCxMHGTWKowwNzil"
+        },
+        {
+          "title": "sharecafe.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonvGbtngbwd4uF8_f_7okJ8QotdxAQwPMR6CibWGxjjf4C91Yr2_xJM-4UNNgLhckumR1vga4A5eEhsIfQIKqO8saX6WFR0tf9abj9PD4j3rvK_iIfiOh0gYJuDFSncoSkWosrzqGLY1bFlMPr5hZjTjGbZKt5p3XWzpxdSH5i3ChwCU-qOEukD8="
+        },
+        {
+          "title": "thesun.ng",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTQ6WaI3stDRXjlCc0poUyhyqwjFuXi7-p1M5mBkz6ERl9J2QYXZ-dr7NYfsrP2ThjwAiF-gWx7z70iFC4A7d8G7U-eAz7a-sM9BpfWmD7e3ibStTnbWdNrWeo-WIxF_P5lRMOLDwFjcR919G7P6TWY1PRP3127ACspcACkdJXhmNpxSDygWiPldlzIt3MbtKLuI8Rj5btdLw"
+        },
+        {
+          "title": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7emLFssD0bFNq1FjBciCn6RJB1xeUFdE2Rjmau_FWGXKCIyyTfvc-MBJOtqqFies-rPdagS9awvfQf5BSlNyKHEd8Ng6B_we6dl_XlUSo8VolMvFuHqJYEfRQHQePrn7rD6OBDercG-a6Knh1FqsWDHNerQs4uZRHPa_uoPblksw9zd3A5Vi2e3u3xySSR-P2-wXeZY8ok3Dmoujde85rPPh9IDFARVZ7AaIelvVZFnHqheb-Q7Nbjhet2D7xRmyk-LM-V5o8ha9V1U0kyw="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh90a1S-kipL-T4-_dbpmVOw0Wzcxs9lxeK-4-DQrL0DvQEb1sDhExDU1pAySLoH2_943b1pceSoYiO_7gNF7HhKRPQi5m3eiOWfKSqls7A07Mub5An3gP6mvoVdH3TZje-NxsxMUmWaWxW2L7Z7c3yG_CggyvFH4GOCWsw4JoGETKpVLEgY0iIh2zA0q7t3-gd8f7oJL7MtNBch0Lu1PZqYX2KWl96XvoQ_oMW2L0bw_z2oHTGOLthNQPd8X9e7aZKITvtGl13dg_bHJpfcj0RGod2TA5OJ6q2zFNAUVxzc3YbuB_a7Q_KPOJv9tj4fah2M2MVNo="
+        }
+      ]
+    }
+  }
+}
