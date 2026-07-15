@@ -1,0 +1,489 @@
+{
+  "date": "2026-07-15",
+  "timestamp": 1784097677500,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates with strikes and naval blockade",
+      "summary": "On July 15, 2026, the US-Iran conflict escalated with US airstrikes on Iranian military targets and Iran's retaliatory strikes on US bases in the Gulf region, specifically in Bahrain, Kuwait, and Jordan. The US has reimposed a naval blockade on Iranian ports, leading to increased oil prices and a near standstill in shipping through the Strait of Hormuz. President Trump has also threatened further strikes on Iranian power plants and bridges if negotiations do not resume.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian forces conducted retaliatory strikes on US bases in the Gulf region."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "IRGC claimed to have destroyed the US Fifth Fleet's command center and support facilities."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "IRGC claimed to have targeted a major US military logistics hub; Kuwaiti air defenses intercepted drones and a naval vessel was hit."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9454,
+          "lng": 35.9284,
+          "severity": "red",
+          "detail": "Jordanian military intercepted Iranian ballistic missiles that breached its airspace."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US carried out strikes against Iran and reimposed a naval blockade."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping is at a near standstill due to the conflict, impacting global energy supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "US detention abuse, Peru justice bill, and tech privacy concerns",
+      "summary": "A report by Human Rights Watch and the ACLU exposes severe abuses, neglect, and deaths in the Fort Bliss immigration detention camp in El Paso, Texas. Separately, Peru is facing international scrutiny over a proposed bill expanding military justice, which human rights groups warn could enable impunity for violations by security forces. Concerns also arise in the US regarding government surveillance via license plate readers in Cleveland and New York's moratorium on data centers highlights debates on AI infrastructure's environmental impact and tech privacy.",
+      "regions": [
+        {
+          "name": "El Paso, United States",
+          "lat": 31.7619,
+          "lng": -106.485,
+          "severity": "red",
+          "detail": "A report revealed serious abuse, neglect, and deaths in the Fort Bliss immigration detention camp."
+        },
+        {
+          "name": "Lima, Peru",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "severity": "yellow",
+          "detail": "Human Rights Watch calls on Peru's president to veto a bill expanding military justice, fearing impunity for human rights violations."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The Philippines advocated for a UN treaty to protect the rights of older persons during a UN Intergovernmental Working Group session."
+        },
+        {
+          "name": "Cleveland, United States",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "yellow",
+          "detail": "City Council is debating an extension for Flock license plate reader cameras, raising privacy concerns."
+        },
+        {
+          "name": "Albany, United States",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "New York imposed a moratorium on large data center construction due to energy, climate, and environmental concerns related to AI."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "DHS announced that all ICE arrest teams will be equipped with body cameras following fatal shootings by agents without them."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Extreme weather intensifies globally; climate impacts threaten infrastructure",
+      "summary": "Extreme weather events are intensifying globally, with the UK reporting significantly hotter and sunnier conditions and the Western US experiencing a severe heat dome causing record temperatures. Wildfire smoke from Canada is affecting air quality in New York, while Vietnam and parts of Texas face threats of flash floods and heavy rainfall. Power grids are under strain from increased demand due to heat, and even the 2026 World Cup stadiums are projected to face dangerous heat in coming decades.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK Met Office reported that the UK climate is significantly hotter and sunnier, with more frequent extreme events."
+        },
+        {
+          "name": "Montana, United States",
+          "lat": 46.8797,
+          "lng": -110.3626,
+          "severity": "red",
+          "detail": "A heat dome is causing record-breaking temperatures across the Western US, including Montana, Utah, and Wyoming."
+        },
+        {
+          "name": "New York State, United States",
+          "lat": 43,
+          "lng": -75,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory was issued due to smoke from Canadian wildfires."
+        },
+        {
+          "name": "Northern Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "yellow",
+          "detail": "Experiencing localized heavy rain, thunderstorms, and lightning with risks of flash floods and landslides."
+        },
+        {
+          "name": "Austin, United States",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "City and county officials declared disaster declarations due to forecasted heavy rainfall and flooding threats."
+        },
+        {
+          "name": "East Rutherford, United States",
+          "lat": 40.8136,
+          "lng": -74.0617,
+          "severity": "yellow",
+          "detail": "The 2026 World Cup final venue and other host stadiums are projected to face dangerous heat periods in coming decades."
+        },
+        {
+          "name": "Albay, Philippines",
+          "lat": 13.25,
+          "lng": 123.75,
+          "severity": "yellow",
+          "detail": "Mayon Volcano produced a spectacular series of explosive Strombolian eruptions with increased volcanic gas emissions."
+        },
+        {
+          "name": "Utah, United States",
+          "lat": 39.5,
+          "lng": -111.5,
+          "severity": "red",
+          "detail": "Experiencing extreme heat and wildfires, along with Colorado."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola spreads in Congo; US faces record cyclosporiasis outbreak",
+      "summary": "Public health is severely impacted by a rapidly spreading Ebola outbreak in eastern Congo, where 80% of new cases have unknown transmission chains and deaths have passed 700. Simultaneously, the United States is grappling with a nationwide surge in cyclosporiasis cases, reaching record numbers across over 30 states. Globally, childhood immunization coverage shows slow progress, with 57 countries reporting significant measles outbreaks in 2025.",
+      "regions": [
+        {
+          "name": "North Kivu, DR Congo",
+          "lat": -0.5,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Ebola is spreading faster than it can be tracked, with over 700 deaths."
+        },
+        {
+          "name": "Michigan, United States",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "red",
+          "detail": "Facing a nationwide surge in cyclosporiasis cases, with 3,309 confirmed cases."
+        },
+        {
+          "name": "Ohio, United States",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "red",
+          "detail": "Reported 364 cases of cyclosporiasis, with Akron investigating 41 potential cases."
+        },
+        {
+          "name": "Finland",
+          "lat": 64,
+          "lng": 26,
+          "severity": "green",
+          "detail": "Declared the end of a major Salmonella outbreak that affected 11 countries."
+        },
+        {
+          "name": "Baltimore, United States",
+          "lat": 39.2904,
+          "lng": -76.6122,
+          "severity": "yellow",
+          "detail": "A Code Red Extreme Heat Alert was issued due to forecasted high heat index."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Stagnant measles vaccination rates led to 57 countries reporting large measles outbreaks in 2025."
+        },
+        {
+          "name": "Philadelphia, United States",
+          "lat": 39.9526,
+          "lng": -75.1652,
+          "severity": "green",
+          "detail": "The Public Health Department is spraying for mosquitoes in a park due to West Nile virus concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global stocks rise amid cooling US inflation, but oil prices surge on US-Iran tensions",
+      "summary": "Global stock markets saw gains on July 15, driven by softer-than-expected US inflation data that eased concerns about near-term interest rate hikes. Conversely, crude oil prices surged significantly, with Brent Crude trading near $86 per barrel, due to the escalating US-Iran conflict and the reimposition of a US naval blockade on Iranian ports. The International Monetary Fund had previously warned about the risks of this conflict extending beyond mid-July to the global economy.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street rallied on cooling inflation, but IBM shares plunged due to a shift in enterprise spending towards AI infrastructure."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global stock markets rose, but oil prices surged due to geopolitical tensions, posing risks to the global economy."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping disruption and rising oil prices from the US-Iran conflict significantly impact global energy supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "No major democratic erosion reported globally",
+      "summary": "As of July 15, 2026, there were no major new developments directly indicating global democratic erosion or significant electoral crises. However, the Trump administration's revocation of Bears Ears National Monument protections sparked a legal challenge from tribal leaders, highlighting ongoing debates over indigenous sovereignty and land rights within a democratic framework.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration revoked protections for Bears Ears National Monument, leading to a legal challenge from tribal leaders."
+        },
+        {
+          "name": "Bears Ears, United States",
+          "lat": 37.58,
+          "lng": -109.95,
+          "severity": "yellow",
+          "detail": "National Monument protections were revoked, sparking a legal fight over culturally significant lands."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "US boosts global nutrition aid; Venezuela earthquake, Sudan, South Sudan crises persist",
+      "summary": "The United States announced a $100 million partnership to provide life-saving nutrition assistance globally, aiming to combat child malnutrition. This aid comes as existing humanitarian crises continue, including the rising death toll from the June earthquakes in Venezuela (4,734 dead, 17,907 homeless) and immense, increasing needs in conflict-affected South Sudan. G7 foreign ministers also urgently called for de-escalation and unimpeded aid access in Sudan, citing severe human rights and humanitarian law violations.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "The US committed $100 million over two years to Operation End Starvation for global nutrition assistance."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The death toll from June earthquakes rose to 4,734, with thousands injured and displaced; relief operations are ongoing."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Humanitarian needs remain immense due to conflict, with a significant increase in wounded patient evacuations."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "G7 foreign ministers called for de-escalation and unimpeded humanitarian access due to severe violations of international law."
+        },
+        {
+          "name": "Kordofan, Sudan",
+          "lat": 13,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Reports of severe violations of international humanitarian and human rights law."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Reports of severe violations of international humanitarian and human rights law."
+        },
+        {
+          "name": "Blue Nile, Sudan",
+          "lat": 11.5,
+          "lng": 34,
+          "severity": "red",
+          "detail": "Reports of severe violations of international humanitarian and human rights law."
+        },
+        {
+          "name": "Euregio Meuse-Rhine",
+          "lat": 50.78,
+          "lng": 5.86,
+          "severity": "green",
+          "detail": "The Marhetak project improved cross-border crisis management five years after severe floods."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6ajAhM0LotVUxEn-5LdqBZk6ykXiZg99m_ZSuwLjX7SAgPAvrGNkW27kHDaRDB4McHmv_AF94yUoQxwMGlZ44p-iAZSveVQAuVju91chAC6nQ4NZNnJb9NBuRcTdInrQdFcrduOLKqopRxpu6C9oLpvD_rOHMuk5NVwRnotVbPytvftD_Kig0mOP76ih1vNiicSFB6jnhdvv3a--Fzg140xJrOg="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0B8FcOYESrR9oVhaqXlx7kIFCVJeo3tU5Zb9AAY1lJrOdx4HokvSxMrImZ6f01RsU5gNeUEkPVldDz0J5lvdA7Mij-Ym-2toALSbsCB8CJMfsJ2feloOMJRsu_2QVL0uLgmVxEfRCX6sk98FqbjiV5RCSBgpYQY_rT4nAUOXVY_ArytbEBUg10BI_kBSWTx6FrOBzC9xwZnMDzOxc5lmFTxw32dTegNQypCisj6-MUUCI4LveSsr0malQaLMxN36IwGAg3uaC0AB8mYJVaMCFzeOfXGjifsqQabiSeu0eyKl-MQ=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-3dTlZtWBtwj_ISojlo4hkn40IaK4S6EB0BR1j1M7afR10seMxw_qPx0ul63Pe4epJSehsscmVTcHk6-kC4Mnmi1whhYuP2iXlyFPEBLhmUqMAok46WixpTgH6AQTb0r2rGBBCu4zoZ6ucKLcadrhYnjAK1WJADVsrvGqBsRjhEBKSl1w2cdS19A2IW8QCRejQC8Oc1FEKKGuklJU0-6SPdUgB7DjAJAr33t9_HUSyMOofd4ZoaFN6gcHakUnTlvkIpLotTWxPuMk42p898farWqdiz3DquTKmZkxrGpMbdHhzj1zU_U09k4AmKAdaFreu8_j6o="
+        },
+        {
+          "title": "timesnownews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsMtJmH3D_RazqfpC_R94d45IALvLGSfeYoZU7qT25kV7uqarRbpjRFXogZiLpbpbnO_cFM3OhorSPwRPm07Vf-l8g3UxKsqG4V9BJT6vJG8xyyAK744Ez094dT_IQNGQispI0o2_8jLgqH7H52qQfiSrHVKxPkkTpaYzC4VYU36yBIuJvC5Py06HRjAaNAfRfpPWjHcQSI5r0Tj2TkipC77FSpM5o5RcijWBD4gdKdxbODIsjEvHOl_oiDAoomvJkPAVG77M-tLMf7VZC7qlNS0Gy7lOxudXdbpgmI4="
+        },
+        {
+          "title": "cyprusshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HRyVjR8zErogX15BaFLW28mHaph7MUr-xJOAYm8PoIo4MHF89vK1iGdVrxfvnJlJrKriwxxkcvQbl4HJ_BHn0eGZpqwPnz1oxx5ij6i2Hu6LCK95m-k1nbHMEpd_E4q_2ypuUUYKv5rYId5y3Lj5lxlzozcoENPGGKqzr95--bFsssy-gxQds5e2TFh5-R0lFL7OPdOX-DeNQ2Wj8StryBmT"
+        }
+      ]
+    }
+  }
+}
