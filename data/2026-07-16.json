@@ -1,0 +1,454 @@
+{
+  "date": "2026-07-16",
+  "timestamp": 1784184344146,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US and Iran exchange fresh attacks as Middle East tensions escalate",
+      "summary": "The Middle East is experiencing escalating hostilities with reports of the US and Iran exchanging fresh attacks, threatening oil shipments through the Strait of Hormuz and impacting the global economy. The ongoing conflict has significant regional and international repercussions.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Islamic Revolutionary Guard Corps (IRGC) reported retaliatory attacks on US bases in the region using drones and missiles."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US Central Command (CENTCOM) reported fresh strikes on several targets in Iran, citing the aim to degrade Iran's ability to threaten commercial vessels."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The conflict has choked the Strait of Hormuz, threatening to disrupt global shipments of oil, natural gas, and other cargoes."
+        },
+        {
+          "name": "Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Iran's IRGC claimed to have targeted a US early-warning radar system at the Ali Al Salem air base in Kuwait."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.9139,
+          "lng": 95.9563,
+          "severity": "red",
+          "detail": "More than 500 Rohingya refugees are feared dead after two boats capsized, highlighting an ongoing humanitarian crisis likely stemming from conflict and repression."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Reports detail AI risks to children, ICE abuses, and EU-Tunisia migration deal violations",
+      "summary": "A new report found Google Search AI features pose an \"unacceptable risk\" to children, failing to detect suicide risks and providing deepfake instructions. Human rights groups also reported detainees at a Texas ICE facility were beaten and abused, and the EU-Tunisia migration deal is worsening human rights violations.",
+      "regions": [
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "red",
+          "detail": "A report from the Youth AI Safety Institute at Common Sense Media, based in California, found Google Search AI features pose an \"unacceptable risk\" to children."
+        },
+        {
+          "name": "El Paso, Texas, USA",
+          "lat": 31.7619,
+          "lng": -106.485,
+          "severity": "red",
+          "detail": "Detainees at the Camp East Montana ICE facility reported routine beatings, excessive force, malnutrition, and unsanitary conditions."
+        },
+        {
+          "name": "Tunis, Tunisia",
+          "lat": 36.8065,
+          "lng": 10.1815,
+          "severity": "red",
+          "detail": "The EU-Tunisia migration deal is reportedly worsening human rights violations against migrants and refugees."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Union is urged to publicly denounce human rights violations in Tunisia and cease funding abusive migration control activities."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan has revised its AI policy guidelines to bolster cybersecurity, calling for strengthened measures against cyberattacks due to risks from cutting-edge AI models."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The 2026 Digital Rights Asia-Pacific Assembly addressed digital repression and the military junta's ongoing online surveillance in Myanmar."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Wildfires impact air quality in North America, Arctic warming highlighted",
+      "summary": "Wildfire smoke from northeastern Minnesota and Ontario is significantly affecting air quality and public health. Meanwhile, global attention is drawn to the Arctic, which is warming nearly four times faster than the rest of the planet, underscoring the urgency of climate action.",
+      "regions": [
+        {
+          "name": "Ely, Minnesota, USA",
+          "lat": 47.9046,
+          "lng": -91.867,
+          "severity": "yellow",
+          "detail": "Smoke from multiple wildfires in northeastern Minnesota and Ontario blanketed the region, reducing visibility and degrading air quality."
+        },
+        {
+          "name": "Ontario, Canada",
+          "lat": 51.2538,
+          "lng": -85.3232,
+          "severity": "yellow",
+          "detail": "Wildfires burning across Ontario are contributing to poor air quality in both Canada and the United States."
+        },
+        {
+          "name": "Churchill, Canada",
+          "lat": 58.769,
+          "lng": -94.1661,
+          "severity": "yellow",
+          "detail": "Polar Bears International highlighted Arctic warming and its impact on polar bears during Arctic Sea Ice Day."
+        },
+        {
+          "name": "Helsinki, Finland",
+          "lat": 60.1695,
+          "lng": 24.9354,
+          "severity": "green",
+          "detail": "The International Conference on Climate Change and Humanity is scheduled, bringing together researchers to discuss aspects of climate change."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "green",
+          "detail": "The International Conference on Climate Change and Global Warming is taking place, fostering discussions on climate science."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Multi-state Cyclospora outbreak sickens hundreds; global public health summit underway",
+      "summary": "A growing Cyclospora outbreak has sickened over 400 people across four US states, with health officials still investigating the source. Concurrently, the 6th Global Summit on Public Health is being held virtually, bringing together experts to discuss advancements and solutions for global health challenges.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "A widespread Cyclospora outbreak has sickened hundreds across at least four Midwestern states, prompting CDC investigation."
+        },
+        {
+          "name": "Illinois, USA",
+          "lat": 40.6331,
+          "lng": -89.3985,
+          "severity": "green",
+          "detail": "The Illinois Department of Public Health is holding a Lyme Disease Task Force meeting to address ongoing concerns."
+        },
+        {
+          "name": "Virtual (Global)",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "The 6th Global Summit on Public Health is taking place virtually, bringing together professionals to discuss innovative solutions for healthier communities worldwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF warns of uneven global growth amid Middle East war and stalled disinflation",
+      "summary": "The IMF's July 2026 World Economic Outlook update projects global growth at 3.0% but highlights an uneven outlook due to the Middle East war's impact on energy importers, partially offset by AI-driven technology. Global headline inflation is expected to rise to 4.7% in 2026, indicating a stall in the disinflation trend.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Ongoing conflict is weighing heavily on energy importers and disrupting global supply chains through the Strait of Hormuz."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF, based in D.C., released its World Economic Outlook Update, forecasting global economic trends and challenges."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "European airlines are facing a potential shakeout due to rising fuel prices caused by the Iran war, impacting the aviation industry."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0625,
+          "lng": 45.3453,
+          "severity": "yellow",
+          "detail": "Fuel prices have more than doubled, increasing the cost of essentials and humanitarian assistance due to Middle East tensions."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's 2026 growth is projected to slow due to higher global oil prices and protracted uncertainty."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns persist with planned march and summit; global backsliding reports issued",
+      "summary": "A March for Democracy is planned in Washington, D.C. to address voting rights concerns following a Supreme Court decision, coinciding with a summit in Philadelphia reflecting on American democracy. Globally, reports highlight democratic erosion in various countries, including Hungary, Mexico, South Africa, India, Japan, South Korea, and Taiwan, indicating a challenging environment for democratic governance.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A coalition plans a 'March for Democracy 2026: Defend the Vote' in response to a U.S. Supreme Court decision on voting rights."
+        },
+        {
+          "name": "Philadelphia, Pennsylvania, USA",
+          "lat": 39.9526,
+          "lng": -75.1652,
+          "severity": "green",
+          "detail": "The 'Promise of Democracy' summit is convening to celebrate the 250th anniversary of the United States and discuss strengthening its democratic future."
+        },
+        {
+          "name": "Hungary",
+          "lat": 47.1625,
+          "lng": 19.5033,
+          "severity": "yellow",
+          "detail": "New case studies from the Lowy Institute examine a constitutional power grab in Hungary as an example of democratic erosion."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "Mexico's cartel-weakened institutions are cited in a report on democratic backsliding."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India's communal violence is highlighted as a factor in democratic erosion in a recent report."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "South Korea, along with Japan and Taiwan, faces growing pressures threatening its political foundations, as discussed in the Journal of Democracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Rohingya refugee tragedy and Middle East conflict threaten millions of children with poverty",
+      "summary": "A dire humanitarian situation is unfolding with the capsizing of two boats carrying Rohingya refugees, leading to over 500 presumed deaths. Separately, a UNICEF analysis warns that the ongoing Middle East conflict could push up to 23.4 million additional children into monetary poverty by the end of the year, severely impacting access to essential services in vulnerable regions.",
+      "regions": [
+        {
+          "name": "Bay of Bengal",
+          "lat": 15,
+          "lng": 89,
+          "severity": "red",
+          "detail": "Over 500 Rohingya refugees are feared dead after two boats capsized, marking a significant loss of life in a desperate humanitarian crisis."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0625,
+          "lng": 45.3453,
+          "severity": "red",
+          "detail": "Fuel price surges due to the Middle East conflict have more than doubled, severely increasing the cost of food, water, and humanitarian aid."
+        },
+        {
+          "name": "Ethiopia",
+          "lat": 9.145,
+          "lng": 40.4897,
+          "severity": "red",
+          "detail": "Disruptions linked to the Strait of Hormuz have driven up fuel costs, leading to a 50-70% increase in humanitarian fuel costs and hindering aid delivery."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "red",
+          "detail": "The economic shocks from the Middle East conflict are exacerbating existing poverty, putting more children at risk."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UNICEF released an analysis from New York highlighting the global impact of the Middle East conflict on child poverty, urging protective actions from governments."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwDJ_alIlkU0sVLaZ3ZGTsINhL2Ge5B3FWBcVjePy7buGhzzIXAdq1Tt3eFS-RX1qAYel1upmc_iv0W9ayRpDhehok0zFhXHNs7iE553OTs9-s6zQ03BCZyS0SIy4avhOkZ9jV_HWdkUREuu_5hl-aYyPvRuRQDfQeAFQ5b6FzWqo66n00eW6IyvnWHrg5xA=="
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3d8m817mXGhXfs-M7WVLVnLuSk-x0gnXIPc803cw6ms4M_jvhGoLpFiqzAIx4cCtS6IKUCtAcFH1MDyDW9jAs2zeIeASf7C0CzPZ-DUxBblecAXjoJC3ZES4hJj5i48LtQnFamDedTesD_KDn2f0n-VhIvEUAsRPKsvv0cQ3AkWxNwdgLDvpvnp3Fzm6qhPogp_5BRHOCPYK5HC20yl1qEuz7RL9IV7-"
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6V1BJs_PRxn69svon6yK1AN2HYBmT2Yjz35SW7DsFud3cFIpniXs_7U5Ka6Li9Qo64IjQQ8yYZTz_fhmYoaJ48nuPS0QjhtuFkaTr249Wn1t1xksBNG9xY8l6QPB4BNcq75koOX_ozk7mBrS4vE0hRZMdYhbTBGJtUieXbpUDQGqx8Lvk8oe9TwMJRQCpUHsjxKSvdKtN"
+        },
+        {
+          "title": "energyconnects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHSi9InIDbhIH1P198X00fFKHerkxfCAiMvxHXiAJSmSeZ_fIcxc0s-as76qknfdug7PSwR4QLzSztIPvPa01DMzan3DnKNC48sT2sNY7_AlPNzmd9OKyr08Dj4PqoVBTYuVQakT2ztPgKFr1rDIKAqGXTJ4cdBavZ0_lUSeVgBuU7SopxvsI9OALI2pSga_8iy4mwt9soI0saSmjsZI44Bojuq4_DMPTNo-qKB1Q="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGmFIw27bBvW7yftYUOFgl70qK6dq-uFDJJZfIaH2A23ns6vyBOOutykLgGRTv_Goc6GCp77PAVsfcjKNRp10ifJQJ3t8ENrtZdyQ88Rm4B9p-lsx7fLaZ_PdFIdol16_PhZf6R23DGVmkWKXHtX8Imd2ji-ma-1m99coiOlM8dXU62w6SH17yx4ZJ3BgX6IusuHUeSI27rKia_wZSFigOWS4PWhJiWg=="
+        }
+      ]
+    }
+  }
+}
