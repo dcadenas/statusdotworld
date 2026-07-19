@@ -1,0 +1,545 @@
+{
+  "date": "2026-07-19",
+  "timestamp": 1784443688634,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Renewed conflicts in Middle East, Sudan, and Myanmar; border tensions in SE Asia.",
+      "summary": "Renewed fighting continues in the Middle East, with US and Iran exchanging fresh strikes over an attack that killed US troops in Jordan, exacerbating regional instability. In Sudan, fears are rising that El-Obeid could become the next El-Fasher amidst rapidly deteriorating humanitarian conditions, while heavy fighting persists in Myanmar. The Global Peace Index 2026 also indicates a worldwide deterioration of peacefulness with increasing active state-based conflicts.",
+      "regions": [
+        {
+          "name": "Gulf Region, Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "The Gulf region is embroiled in renewed conflict as the US and Iran exchange strikes following attacks on US troops in Jordan."
+        },
+        {
+          "name": "El-Obeid, Sudan",
+          "lat": 13.1802,
+          "lng": 30.2227,
+          "severity": "red",
+          "detail": "Concerns are growing that El-Obeid faces mass atrocities and rapidly deteriorating humanitarian conditions similar to El-Fasher."
+        },
+        {
+          "name": "Myawaddy, Myanmar",
+          "lat": 16.6854,
+          "lng": 98.5034,
+          "severity": "yellow",
+          "detail": "Heavy fighting is ongoing between the junta army and an alliance of revolutionary forces led by the Karen National Union."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Chinese President Xi Jinping offered to facilitate peace talks between Thailand and Cambodia to resolve an existing border conflict."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9282,
+          "severity": "yellow",
+          "detail": "Cambodia is involved in a border conflict with Thailand, with China offering to mediate peace talks."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran has been targeted by US airstrikes, impacting its coastal surveillance, air defense, and military assets."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "red",
+          "detail": "US strikes against Iran were launched in response to an attack that killed American troops in Jordan."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "At least 7 people were injured in Kyiv due to a Russian ballistic missile barrage."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Civil, digital rights concerns rise globally amid AI laws and surveillance.",
+      "summary": "Concerns regarding the rollback of civil rights persist in the United States, as highlighted by advocacy groups. Simultaneously, new legislation on AI safety and digital privacy is being enacted in various US states, alongside ongoing issues like tech firms violating the Take It Down Act and increased surveillance. The UN Human Rights Council discussed urgent global issues, with warnings about human rights defenders.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House launched the 'GOLD EAGLE' initiative for cybersecurity vulnerability coordination, leveraging AI innovation."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.7817,
+          "lng": -89.6501,
+          "severity": "green",
+          "detail": "Illinois enacted the Artificial Intelligence Safety Measures Act, imposing governance and transparency obligations on AI developers."
+        },
+        {
+          "name": "Albany, New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "Legislators passed bills on kids chatbot safety, AI training data transparency, and a ban on AI-assisted surveillance pricing."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council opened its 62nd session, addressing global human rights issues and concerns for mandate holders."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1751,
+          "severity": "yellow",
+          "detail": "UK aid to Afghanistan is questioned amid concerns it risks subsidizing Taliban rule and worsening repression, particularly for women."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "The 'Good Trouble Lives On' weekend of action is taking place to commemorate John Lewis and address civil rights rollbacks."
+        },
+        {
+          "name": "Seneca Falls, New York, USA",
+          "lat": 42.9037,
+          "lng": -76.8833,
+          "severity": "green",
+          "detail": "Women's Rights National Historical Park is hosting Convention Days 2026 to commemorate the 1848 Women's Rights Convention."
+        },
+        {
+          "name": "Kochi, India",
+          "lat": 9.9312,
+          "lng": 76.2673,
+          "severity": "yellow",
+          "detail": "Police are increasing surveillance at FIFA final streaming venues in Kochi."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Wildfires rage in Canada, affecting US air quality; UN eyes 'in danger' sites.",
+      "summary": "Intensifying wildfires in Canada are causing evacuation orders and compromising air quality, leading to an Air Quality Health Advisory in parts of New York State. The UN is considering listing several world heritage sites as 'in danger' due to war and climate change, with a meeting in South Korea to finalize these decisions. Community preparedness forums are being held to address local climate risks.",
+      "regions": [
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada is experiencing a new wave of intensifying wildfires, leading to air quality concerns."
+        },
+        {
+          "name": "St. Paul, Minnesota, USA",
+          "lat": 44.9537,
+          "lng": -93.09,
+          "severity": "yellow",
+          "detail": "Smoke from Minnesota wildfires is contributing to air quality health advisories in New York."
+        },
+        {
+          "name": "Albany, New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory for fine particulate matter was issued due to wildfire smoke impacting Western and Central New York."
+        },
+        {
+          "name": "Torquay, Australia",
+          "lat": -38.3317,
+          "lng": 144.3167,
+          "severity": "green",
+          "detail": "A new community forum focused on climate risks and emergency preparedness is being held on the Surf Coast."
+        },
+        {
+          "name": "Busan, South Korea",
+          "lat": 35.1796,
+          "lng": 129.0756,
+          "severity": "green",
+          "detail": "UNESCO is holding a meeting to cast votes on new additions to its World Heritage and 'World Heritage in Danger' lists."
+        },
+        {
+          "name": "Lake Baikal, Russia",
+          "lat": 53.5333,
+          "lng": 108,
+          "severity": "yellow",
+          "detail": "Russia's Lake Baikal is under scrutiny for mounting ecological damage, potentially leading to an 'in danger' listing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Cyclospora outbreak linked to lettuce in 5 US states; air quality alerts issued.",
+      "summary": "A widespread cyclospora outbreak linked to lettuce from Mexico has affected over 1,600 people across five US states, leading to hospitalizations and a voluntary removal of products from the market. Air quality health advisories were issued for parts of New York due to wildfire smoke, impacting respiratory health. Biosecurity New Zealand is also maintaining surveillance for bird flu.",
+      "regions": [
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "Lettuce from central Mexico has been identified as the source of a widespread cyclospora outbreak in the US."
+        },
+        {
+          "name": "Indianapolis, Indiana, USA",
+          "lat": 39.7684,
+          "lng": -86.1581,
+          "severity": "yellow",
+          "detail": "Indiana is one of five US states affected by the cyclospora outbreak linked to contaminated lettuce."
+        },
+        {
+          "name": "Albany, New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "An Air Quality Health Advisory was issued for Central and Western New York due to fine particulate matter from wildfire smoke."
+        },
+        {
+          "name": "Wellington, New Zealand",
+          "lat": -41.2865,
+          "lng": 174.7762,
+          "severity": "green",
+          "detail": "Biosecurity New Zealand continues its well-established surveillance program for bird flu."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "The CDC is collaborating with state and local partners in the investigation of the multi-state cyclospora outbreak."
+        },
+        {
+          "name": "Orlando, USA",
+          "lat": 28.5383,
+          "lng": -81.3792,
+          "severity": "green",
+          "detail": "An international symposium on public health is scheduled to take place in Orlando later this year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict threatens global logistics; cybersecurity breaches widespread.",
+      "summary": "Military escalation in the Middle East, particularly around critical maritime chokepoints like the Strait of Hormuz, is exposing deep vulnerabilities in global logistics, food trade, and human security. Numerous significant cybersecurity breaches have occurred in 2026, impacting various sectors and exposing employee and user data. The Global Peace Index noted that preventing conflicts could yield significant economic benefits.",
+      "regions": [
+        {
+          "name": "Gulf Region, Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Military escalation and threats to maritime chokepoints are exposing vulnerabilities in global logistics and supply chains."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Ongoing conflict involving Iran is impacting regional economic stability and global energy markets."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The White House's 'GOLD EAGLE' initiative aims to enhance cybersecurity vulnerability coordination for critical infrastructure."
+        },
+        {
+          "name": "Luxembourg City, Luxembourg",
+          "lat": 49.6117,
+          "lng": 6.1319,
+          "severity": "yellow",
+          "detail": "RTL Group, headquartered in Luxembourg, is investigating a data leak that exposed 27,000 employee records."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "yellow",
+          "detail": "The Vida Y Salud breach affected over 34,000 Texans, highlighting ongoing cybersecurity risks."
+        },
+        {
+          "name": "Salt Lake City, Utah, USA",
+          "lat": 40.7608,
+          "lng": -111.891,
+          "severity": "yellow",
+          "detail": "Edtech giant Instructure, headquartered here, was a victim of one of the biggest data breaches of the year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US democracy sees 'unprecedented' backsliding, gerrymandering, and civil rights rollbacks.",
+      "summary": "The V-Dem Institute reports an 'unprecedented' speed of democratic dismantling in the United States, with significant declines in liberal democracy, executive overreach, and suppressed media. The 2026 State of Black America report highlights a 'deliberate dismantling' of civil rights protections, while aggressive gerrymandering is projected to cause a 30% jump in partisan distortion. President Trump continues to sow doubt in election integrity.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns over democratic backsliding and executive overreach are central to discussions about the erosion of US democracy."
+        },
+        {
+          "name": "Nashville, Tennessee, USA",
+          "lat": 36.1627,
+          "lng": -86.7816,
+          "severity": "red",
+          "detail": "Protests against new congressional maps, labeled 'Jim Crow 2.0', occurred in the Tennessee House, leading to arrests."
+        },
+        {
+          "name": "Springfield, Illinois, USA",
+          "lat": 39.7817,
+          "lng": -89.6501,
+          "severity": "yellow",
+          "detail": "Illinois is cited as a state where aggressive legislative maps contribute to increased partisan gerrymandering."
+        },
+        {
+          "name": "Albany, New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "New York is mentioned as a state that has implemented aggressive legislative maps, though some were struck down."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "yellow",
+          "detail": "The V-Dem Institute, based here, published a report detailing the unprecedented speed of democratic dismantling in the US."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "Brazil is identified as one of the countries continuing its democratization processes."
+        },
+        {
+          "name": "Warsaw, Poland",
+          "lat": 52.2297,
+          "lng": 21.0122,
+          "severity": "green",
+          "detail": "Poland is among the nations noted for continuing their democratization processes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan and Afghanistan face dire humanitarian crises, global aid underfunded.",
+      "summary": "Sudan faces a severe humanitarian crisis with two-thirds of its population in need of aid and growing fears of mass atrocities in El-Obeid. In Afghanistan, UK aid is critically needed but raises concerns about potentially subsidizing Taliban rule amid worsening repression. Globally, the UN High Commissioner for Human Rights warned that 2026 humanitarian needs equal just three days of military spending, underscoring a significant funding gap.",
+      "regions": [
+        {
+          "name": "El-Obeid, Sudan",
+          "lat": 13.1802,
+          "lng": 30.2227,
+          "severity": "red",
+          "detail": "The city faces a high risk of mass atrocities and rapidly deteriorating humanitarian conditions, with millions needing aid nationwide."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1751,
+          "severity": "red",
+          "detail": "UK humanitarian aid to Afghanistan is being provided, but there are concerns it may indirectly support the Taliban regime amidst ongoing repression."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7408,
+          "lng": 96.1317,
+          "severity": "yellow",
+          "detail": "The National Unity Government (NUG) is allocating humanitarian aid, while Starlink deactivations negatively impact aid procedures."
+        },
+        {
+          "name": "Gulf Region, Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Military escalation threatens global logistics networks for humanitarian aid shipments due to chokepoint blockades."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "A Venezuelan NGO is preparing a large cake to encourage children affected by recent earthquakes, and a second aid flight from Uruguay arrived."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UN High Commissioner for Human Rights warned that global humanitarian needs for 2026 are severely underfunded."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "As home to UN OCHA, New York remains a hub for global humanitarian coordination and fundraising discussions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbc.ca",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzMwhdKAXPDgyKCwD1AH0rYQ23tuqOXsbQWHk1-nkRNht_OjyyiQqSrCSPrusdkMNgXzVfivguNFQJXRWv2NMuFj2zMeUexxOBkVfFQvG95vNbxGeJC4s_PRbQqpDRtpwroDyqu6EqeUMyfxzcUDDNHkaNHxYIn6I8h84S-G6c1JRvKI_"
+        },
+        {
+          "title": "mizzima.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCRQW4xnz7bU6sagvRT93zkFqhrB8koiYi_0eRu10b8_5Gnx8qX2YgdLuw8BgPIK5fW0Lw8zx4J3uVm_ZWgKWbLNrEyZpUuGwo2T0tSUbehisLw7Ljcw8Kriz8z4UPf3eJ4Y="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ozupjw3VyzRTwIYTuUbAptLQHEC41XuRG1z2zCeW0lLJxvV3YI5rDlPwkzUEWXZCPyedh90XAreg5iPdc3afdmRTAl_YHggVcLsBwsP0zU4jRE_PggxrRKxwVWkFKtujSJM7AbEvpZ-6e979VYpDKlpDIpqiQDp3Qgy_OJyuWEmjTtiCuaPhK60evlACE6yRGG1c"
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaNB520-i3oept3RFcse8F_7PuGa9IkqFirlEdCzYtmdnphPyUr14ELwPS_hGpS4L5Vl_D3ddGbIfUb_rMRZm9aspl63qOh_LKI44Kf3iafIvJvaVghJ-jvGzvptbPjayo2TiABbDhC5GUeKRvYqOeUg=="
+        },
+        {
+          "title": "coasttv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7xjeb3JU693tZZm3jTPKLabvbzwZV77fgCpQ00rcz3tLS6IylOx9hUapIs2tNfeSQotQgM0hB9OgKr5ogPiNVKfY-Px7ahtwkqGRSP_joBWpIlxN_FB1fUUbQGx7_ZHfkyuTJbwXTlIUeUevYx23PDacrmqd8gch8z3LG3GHr7LNp2vE1uVoBu6GSYwYThVtb3Wud_gwGQCbant96Mtnzt8N28bM85STC0yDiurxiG1RTb3rwFUkpgHvxryzxX9z-64_xKMRNLv92XnUyGc636Vgj6dGyCw4mY3ircUYPgsZer_iMg=="
+        }
+      ]
+    }
+  }
+}
