@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-20",
+  "timestamp": 1784530746946,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates, spreading regional instability.",
+      "summary": "The US-Iran conflict intensified with US airstrikes in Iran and Iranian retaliatory strikes on US military targets in Kuwait and missiles towards Jordan, leading to casualties and rising oil prices. ASEAN ministerial talks are set to address these renewed hostilities, alongside the Myanmar crisis and South China Sea disputes. Russia also launched a significant ballistic missile attack on Kyiv.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US strikes were reported in several locations, including near the Bushehr nuclear plant and Tabriz, with casualties."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guards claimed to have hit US military targets in Kuwait, with air defenses engaging hostile drone attacks."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "Iran fired missiles towards Jordan, risking wider conflict, though Jordan reported intercepting 10 missiles."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "ASEAN ministerial talks are being held to discuss the escalating Iran conflict, Myanmar crisis, and South China Sea disputes."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia launched one of its biggest ballistic missile barrages of the war, killing at least one person and wounding 16."
+        },
+        {
+          "name": "Boma-Badingilo, South Sudan",
+          "lat": 6.225,
+          "lng": 33,
+          "severity": "yellow",
+          "detail": "UNESCO is set to list the grasslands as under threat from both war and climate change, impacting wildlife."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Indigenous land rights, free speech, and AI safety raise concerns.",
+      "summary": "Human Rights Watch successfully advocated against forced eviction of an Indigenous community in Sarawak, Malaysia, while a Moroccan rap star was imprisoned for 'insulting royalty.' Globally, discussions on AI safety are intensifying with calls for a US watchdog following an AI agent breach, and concerns persist over human rights violations at the 2026 FIFA World Cup in the US due to immigration policies. A report also highlights 99% of asylum seekers on Nauru lacking sufficient food.",
+      "regions": [
+        {
+          "name": "Sarawak, Malaysia",
+          "lat": 3.5,
+          "lng": 113.5,
+          "severity": "green",
+          "detail": "Human Rights Watch's advocacy helped reduce the threat of eviction for the Rumah Jeffery Indigenous community."
+        },
+        {
+          "name": "Casablanca, Morocco",
+          "lat": 33.5731,
+          "lng": -7.5898,
+          "severity": "yellow",
+          "detail": "Rap star Lyoubi was remanded to Oukacha prison, facing charges for offending royalty."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US government is considering an AI watchdog and faces criticism for human rights abuses related to 2026 World Cup immigration policies."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Hugging Face, an AI model repository, was breached by an autonomous AI agent system."
+        },
+        {
+          "name": "Nauru",
+          "lat": -0.5228,
+          "lng": 166.9315,
+          "severity": "red",
+          "detail": "A report found that 99% of asylum seekers transferred by Australia to Nauru are unable to access enough food."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Human rights are facing challenges amidst great-power competition, with specific mention of AI surveillance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Wildfire smoke, floods, and endangered sites mark a busy climate day.",
+      "summary": "Wildfire smoke from Canada prompted air quality alerts in Southeast Michigan, while heavy rain and flooding in Bangladesh damaged critical infrastructure, raising public health concerns. UNESCO is considering listing more sites, including in South Sudan and Russia, as endangered due to climate change impacts. An opinion piece also debated whether climate change is taking food off the global table, while ocean temperatures and Arctic ice loss remain concerns.",
+      "regions": [
+        {
+          "name": "Detroit, USA (Southeast Michigan)",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "yellow",
+          "detail": "Air quality alerts were in effect due to Canadian wildfire smoke, with a marginal risk of severe storms."
+        },
+        {
+          "name": "Chattogram, Bangladesh",
+          "lat": 22.3569,
+          "lng": 91.7805,
+          "severity": "yellow",
+          "detail": "Recent flooding damaged nearly 20,000 tube wells and 5,694 toilets, raising fears of a public health crisis."
+        },
+        {
+          "name": "Multan, Pakistan (South Punjab)",
+          "lat": 30.1979,
+          "lng": 71.4725,
+          "severity": "yellow",
+          "detail": "Climate change, with unpredictable weather and droughts, is threatening centuries-old craft traditions and rural livelihoods."
+        },
+        {
+          "name": "Lake Baikal, Russia",
+          "lat": 53.86,
+          "lng": 108,
+          "severity": "yellow",
+          "detail": "The world's deepest lake is being considered for an 'in danger' listing by the UN due to pollution, tourism, logging, and lower water levels."
+        },
+        {
+          "name": "Port Moresby, Papua New Guinea",
+          "lat": -9.4438,
+          "lng": 147.1803,
+          "severity": "green",
+          "detail": "A ministerial reshuffle occurred, with the Minister for Environment, Conservation, and Climate Change being replaced."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak worsens in DRC, measles spreads in Malawi.",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo continued to worsen, with at least 930 deaths, prompting new travel restrictions from the US and Canada that humanitarian groups warn could impede aid efforts. Separately, a measles outbreak in Malawi's Nsanje District is escalating, driven by low immunization and delayed healthcare seeking, and Bangladesh faces a public health crisis from flood-damaged water infrastructure.",
+      "regions": [
+        {
+          "name": "Bunia, DRC (Ituri province)",
+          "lat": 1.5647,
+          "lng": 29.9171,
+          "severity": "red",
+          "detail": "At least 930 people have died in the Ebola outbreak declared in eastern Congo, which is the fastest-growing on record."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada implemented new temporary border measures, prohibiting foreign nationals who have been in the DRC within the past 21 days from entering."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US imposed travel restrictions requiring citizens and nationals from Congo to spend 21 days outside the country before returning."
+        },
+        {
+          "name": "Nsanje, Malawi",
+          "lat": -16.9248,
+          "lng": 35.2642,
+          "severity": "red",
+          "detail": "A measles outbreak continues to worsen, with 188 suspected and 76 confirmed cases, primarily affecting children."
+        },
+        {
+          "name": "Chattogram, Bangladesh",
+          "lat": 22.3569,
+          "lng": 91.7805,
+          "severity": "yellow",
+          "detail": "Public health risks are rising due to waterborne and skin diseases after heavy rain and hill runoff damaged thousands of tube wells and toilets."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "green",
+          "detail": "WHO reported a human case of swine influenza A(H3N2)v in Santa Catarina State."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict pushes oil prices above $90.",
+      "summary": "Escalating hostilities between the United States and Iran, alongside ongoing Israeli military operations, have led to a rise in global energy and food crises, with Brent crude oil prices climbing above $90 a barrel. This renewed confrontation broadens the regional instability and creates economic ripple effects worldwide.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Escalating conflict with the US is impacting regional stability and global energy markets."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US's intensified military campaign against Iran is contributing to increased oil prices and global economic uncertainty."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Attacks on shipping and uncertainty over this strategic waterway intensified, contributing to rising oil prices."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Israel's continuing military campaign intersects with the renewed confrontation between the US and Iran, affecting the regional economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Indian protests over reforms, US election integrity concerns.",
+      "summary": "Protests by the Cockroach Janta Party and the All India Students' Association in New Delhi led to sporadic clashes as activists marched for education reforms, with calls for the government to address the issues. In the US, the 2026 midterm elections are becoming a highly polarized battle over democratic institutions and election integrity, amidst threats from the Trump administration against state officials regarding federal election demands.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Protests demanding education reforms, climate action, and accountability led to clashes near Jantar Mantar."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration has threatened state officials resisting federal demands regarding voter data, raising concerns about election integrity."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "green",
+          "detail": "Florida's voter registration deadline for the August 18, 2026, primary election passed today, highlighting ongoing democratic processes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid severely restricted; Nauru asylum seekers face starvation.",
+      "summary": "Humanitarian conditions in the Gaza Strip remain dire, with UN agencies reporting significant challenges in delivering aid due to Israeli military activity and border restrictions, impacting water and food access for children. Concurrently, 99% of asylum seekers transferred by Australia to Nauru are unable to access sufficient food, highlighting severe human rights violations and a humanitarian crisis. Additionally, Ebola travel restrictions in the DRC are hindering aid efforts.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Humanitarian aid deliveries face significant challenges and restrictions, with military activity impacting access to essential supplies."
+        },
+        {
+          "name": "Nauru",
+          "lat": -0.5228,
+          "lng": 166.9315,
+          "severity": "red",
+          "detail": "A report reveals 99% of asylum seekers transferred by Australia cannot afford enough food, enduring serious deprivation."
+        },
+        {
+          "name": "Bunia, DRC (Ituri province)",
+          "lat": 1.5647,
+          "lng": 29.9171,
+          "severity": "yellow",
+          "detail": "Travel restrictions imposed to curb the Ebola outbreak are warned to be hampering the deployment of humanitarian aid workers."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Israeli military operations are contributing to restrictions on humanitarian access in the Gaza Strip."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gxDMfPTSaSbbnI1dYi60MGypVPzX_exBmhXJ6Kpy3NQ73s1eRAKd4nUQSWMkasOcLmdAVDGNN4WDaGhyyIPIMsLMYLC8QEHqxhM9xP6Y0swX3pANqb0czL3LXZG7qfTJ_d3iae3GdVlLQHR1DLrq65crJkwUxMfTx23rBLyTMuJm59M0r9_sDjwLsDtz9B8xZry3-DppWTwY9lBOF_T6_GOoVA1oB_Ke3mG1hk0XXlUAshh-JSKOP_IVRmSXG7Ni2-7242uutA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJHRUoNlpCtVpPmHlzyxXF0pHU3lt3DJqTc2Ck4qLgTdOG6NXqnZjNQNvmN9Ix-bc3UoCD2jMRg0P3KtRK_3aL6smPmuaLkkVkMDhx-gYtjDTPSjuUukN9Kg6zLr_hqnAfjV39IC7TzuMo1i2s-y2MDocb77gxX7AqJrovnLbOszbmOoYBku4FsV8sazIKVd_dzFEQWB4b80Ta6V6C3qAo1Nht8D6IsmqCCzFODsPd2Tilg2mcpCNzQ7nFuPjfEMjB0apYaTHMKO5jb5D1eiUrg8="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTc8inZdVoUPJydC5qSZ2rJSayfmUIn2KIuYqziEaQDCQqkheNVbTmfrBO3GXF1sL1TBSnaqJzG__5j2nCFxGCOGn3qxOIyqkRNHqSmd5q90RSc_lVGrmfUPQ6laA5YXr1-1GnG8Q="
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7WcrQOKYlXeVZ1FU7IugWwgwWo-UUCtUIkWBNdd3Q_T7EUvxTDAtB61W_ylwvTfHaOpuyJjnit8F2dA7_xmhgelLnTd4jMMZpODBb8rKJmMfVST2OrZAEhA2qfdbNdTrVt4="
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsGxCpFn1AdLKqRn58MuI9BdXhw3twEEYARx-BBEz-9HYoXyLM6yAIlAuGXmVoylsft2Llj-PKFDaMn7NwhS2nzwctj9jK35qzDWS_w3bgQDO_-bcsosYgvwS8ikzNFMWQs_Sa530UHbM_MBSriymX36Vxxi4VbUaB5Tck67oVa7qmpHY="
+        }
+      ]
+    }
+  }
+}
