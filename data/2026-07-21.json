@@ -1,0 +1,391 @@
+{
+  "date": "2026-07-21",
+  "timestamp": 1784616437240,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Sudan conflict escalates, US military involvement in Iran and Venezuela noted.",
+      "summary": "Escalating violence in Sudan's North Kordofan region has led to emergency levels of food insecurity for nearly 400,000 displaced people, highlighting an ongoing humanitarian disaster. The United States also continues to be militarily involved in an ongoing 'Iran War,' and had earlier launched a military operation in Venezuela to capture Nicolás Maduro, although July 21st news there focuses on a democratic transition.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Escalating violence continues to deepen the humanitarian disaster, with nearly 400,000 displaced people facing emergency levels of acute food insecurity in North Kordofan."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The Pentagon reportedly withheld dozens of U.S. military injuries in an ongoing Iran War."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US has been involved in an Iran War, with the Pentagon withholding injury details, and initiated a military operation in Venezuela earlier in the year."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Following an earlier U.S. military operation to capture Nicolás Maduro, a democratic transition process is set to begin in early August."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Global efforts push AI safeguards; US Supreme Court expands digital privacy.",
+      "summary": "Concerns over AI-enhanced surveillance are growing globally, with the U.S. Department of Homeland Security increasing its use, potentially chilling social progress. In response, a U.S. lawmaker is pushing for new AI safeguards for children and civil rights, while New York and California have enacted new laws concerning AI transparency and chatbot regulation. The US Supreme Court also expanded privacy rights to better encompass digital footprints.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A U.S. lawmaker is advocating for AI safeguards for children and civil rights, and the Supreme Court expanded digital privacy rights."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York has enacted AI transparency requirements for advertising and strengthened right of publicity protections for deceased performers."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California has imposed comprehensive safety requirements on AI companion chatbots, effective since January 1, 2026."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Civil society groups are calling for an investigation into the Information Commissioner's Office regarding eVisas and concerns about AI in asylum decisions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Compound disasters challenge US states amid climate change.",
+      "summary": "The United States is facing compound events, including Canadian wildfire smoke affecting the Midwest and Northeast, extreme heat along the East Coast, and catastrophic flooding in Texas. Experts warn that climate change is making these overlapping disasters more likely, with the situation further complicated by cuts to federal disaster preparedness.",
+      "regions": [
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "red",
+          "detail": "Catastrophic flooding has disrupted daily life and put people's health at risk."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The Northeast experienced Canadian wildfire smoke and extreme heat, part of a series of compound disasters."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration's cuts to disaster work are further complicating states' ability to cope with increasing compound climate events."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Wildfire smoke from Canada has impacted the Midwest and Northeast U.S., contributing to compound disasters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Legionnaires' deaths in NYC; Ebola persists in Congo; Measles cases in Tennessee.",
+      "summary": "A Legionnaires' disease cluster on the Upper East Side of Manhattan has resulted in three confirmed deaths, while the ongoing Ebola outbreak in Congo has claimed at least 930 lives. Meanwhile, Tennessee has confirmed its first measles cases of 2026, leading to public health alerts about potential exposure locations.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Three deaths have been confirmed in a Legionnaires' disease cluster on the Upper East Side of Manhattan."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "At least 930 people have died in the country's ongoing Ebola outbreak."
+        },
+        {
+          "name": "Nashville, Tennessee, USA",
+          "lat": 36.1627,
+          "lng": -86.7816,
+          "severity": "yellow",
+          "detail": "The Tennessee Department of Health confirmed the first two measles cases of 2026, with potential public exposure locations."
+        },
+        {
+          "name": "Raleigh, North Carolina, USA",
+          "lat": 35.7796,
+          "lng": -78.6382,
+          "severity": "green",
+          "detail": "The North Carolina Health Care Affordability Commission held its first meeting today to develop solutions for surging healthcare costs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US imposes 50% tariffs on Canada amidst ongoing trade talks.",
+      "summary": "The United States has imposed new 50% tariffs on Canada amidst ongoing USMCA trade talks, signaling escalating trade tensions between the two North American neighbors. This development could have significant implications for bilateral trade relations and regional economic stability.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. imposed new 50% tariffs on Canada amidst USMCA trade talks."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada is facing new 50% tariffs imposed by the United States during ongoing trade negotiations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Venezuela's democratic transition to begin; US seeks to install new leadership.",
+      "summary": "U.S. Secretary of State Marco Rubio announced that Venezuela's democratic transition process will begin in early August, following an earlier U.S. military operation to capture Nicolás Maduro and install Delcy Rodríguez as acting president. Discussions are ongoing between the interim government and representatives of the 2015 national assembly, the last democratically elected body recognized by the United States.",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "A democratic transition process is set to begin in early August, with talks between the interim government and opposition."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. Secretary of State Marco Rubio announced that the process of democratic transition in Venezuela will begin in early August, following earlier US intervention."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Sudan food crisis worsens; aid delivered to South Sudan and Venezuela.",
+      "summary": "Nearly 400,000 displaced people in Sudan's North Kordofan are facing emergency levels of acute food insecurity due to escalating violence, with the UN's humanitarian response plan severely underfunded. Meanwhile, China delivered over 3,000 metric tons of food aid to South Sudan, and DP World partnered to deliver over 27 tons of emergency supplies to earthquake-affected communities in Venezuela.",
+      "regions": [
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1751,
+          "lng": 30.2241,
+          "severity": "red",
+          "detail": "Nearly 400,000 displaced people in North Kordofan are facing emergency levels of acute food insecurity, exacerbating a humanitarian disaster."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "yellow",
+          "detail": "China delivered 3,256 metric tons of food aid, assisting a nation with chronic dependency on international humanitarian assistance."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Over 27 tons of emergency supplies were airlifted to earthquake-affected communities."
+        },
+        {
+          "name": "Sibolga, Indonesia",
+          "lat": 1.7483,
+          "lng": 98.7847,
+          "severity": "green",
+          "detail": "HMAS Choules arrived for Exercise Pacific Partnership 26, strengthening humanitarian assistance and disaster relief capabilities in the Indo-Pacific."
+        },
+        {
+          "name": "Punta Cana, Dominican Republic",
+          "lat": 18.5714,
+          "lng": -68.369,
+          "severity": "green",
+          "detail": "DP World's Air Cargo Hub facilitated the delivery of over 27 tons of humanitarian aid for Venezuela."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China is providing humanitarian assistance and food security efforts to South Sudan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "elpais.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHQ1I5eW73iSGhf7gMRfQ5W-jap75w-KBQMX03Y10yvHtHXtQ1XNPXElp46sdg9WqdFZ8HyAeRdJpf0FHnYGmXWpNT_4i6R3v-xlMVLlQofmKinShrrucAsE3HuVBHUH_o3vabbG5OgOYbuQ3Rge0vEhJxbVnFPacLj6ux2VMX7MdRhLPiLRjaUQncsP8DT-qxIc1FRQ_u_xKf8FwVvGoFYteuKslRIyiSMj5NPTTu7uy4CpAT2lzlErP9rk5Kg2T"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3l8Vu5F-s99Xf6Pq2UFyz9vASQC6xDnuBJCiIzLoEa8OYdVC4ea5micWzuGqP_HWc28EI19usnfljREtRmebtKwgPeVB-BYQjctgsO6cKKDF64ZYrKiGAF1RA1iRPMMDNRw=="
+        },
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42rHxfqAZ648WKMe0JbJcdUoQ3BRaZMrUTRFfBbruwULSIL0lCJXLxo7L89lEF97jXuBCK7pyPZxHsV6uk5lBHtbLZYOFhT24vNEZo3aan39gQDnX6wQphuqy3c8CwxL3F7HWMRoAb9f8iTPFPdFM5nlKViRDkz4AbSrG9hwxPwtXzBrxjrXYunYx_bU="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9l-bEBABAj0ufac6zuF_aO3e2VP_D3ESNmP7OjgMpfcqGJBj5MHfzJ0n7mHLHYxbFqtsQGOBR0CgYAsscGjTHGtqge58lqN6W4lX4KPtcUbXMZzKPcyKL_Sm5-6k-ALyqTwhFv0-iL5bIRhq2LgZ7capk3AjZ6BJWRlT0C17GSAIjJfcCpUs="
+        },
+        {
+          "title": "biometricupdate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWS7mLKrJOM7gvUJ4b6EWSyqJBcmplL_SRozALno806VlSwtoKZKWM37rnSBDVuh44W4BFowzV6zcnzJUm0ItR0YqvzLQCWjOjp57WJpEkcAcKFYk5mkpmBBYXIbmu8VhJDY0R0mgPodWJ-oXtPhflz7KpLkTShrmhOkaW_NLJTW5GjnXns-LLW0A3sRLzfM50aboInsfX6-KNliPscUY"
+        }
+      ]
+    }
+  }
+}
