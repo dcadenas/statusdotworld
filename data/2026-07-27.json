@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-27",
+  "timestamp": 1785135713571,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict pauses; escalations in Gaza and Ukraine reported.",
+      "summary": "A pause in US and Iranian attacks signals potential de-escalation efforts, with both sides halting strikes amidst calls for negotiation. However, significant military escalations and casualties are reported in the occupied Palestinian territories and Ukraine.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Top US officials urged restraint as President Donald Trump weighed escalating the war with Iran."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran halted its attacks after the US paused its bombing campaign, but the army warned of conflict expansion if US attacks resume."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israel will allow a multinational security force into Gaza as part of a ceasefire plan, but humanitarian challenges and military activity persist near the 'Yellow Line' in Rafah."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 31.9037,
+          "lng": 35.2035,
+          "severity": "red",
+          "detail": "Raids, arrests, and home demolitions escalated as Israeli troops and settlers intensified operations around Nablus, Ramallah, Hebron, and Jerusalem."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian ballistic missiles struck Kyiv, igniting fires and wounding at least three civilians."
+        },
+        {
+          "name": "Horlivka, Ukraine",
+          "lat": 48.2981,
+          "lng": 37.9427,
+          "severity": "red",
+          "detail": "A Ukrainian drone strike reportedly killed four civilians in Russian-occupied Horlivka."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Iran's Islamic Revolutionary Guard Corps Navy stopped six vessels attempting to cross without authorization."
+        },
+        {
+          "name": "Southern Red Sea",
+          "lat": 13,
+          "lng": 43,
+          "severity": "yellow",
+          "detail": "An unidentified projectile landed near a tanker in the southern Red Sea."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Pollution risks in DR Congo, political prisoners in Vietnam, and immigration rule changes in US.",
+      "summary": "Human Rights Watch highlighted severe health risks from oil company pollution in DR Congo and called for the release of ailing political prisoners in Vietnam. A new US immigration rule raised concerns about its impact on immigrants with disabilities.",
+      "regions": [
+        {
+          "name": "Muanda, DR Congo",
+          "lat": -5.9329,
+          "lng": 12.3592,
+          "severity": "red",
+          "detail": "Pollution linked to Perenco oil company operations, including gas flaring and oil spills, poses grave health risks to nearby communities."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "yellow",
+          "detail": "Human Rights Watch called for Vietnam to release ailing political prisoners, citing the case of Can Thi Theu, who is suffering in prison."
+        },
+        {
+          "name": "Quezon City, Philippines",
+          "lat": 14.65,
+          "lng": 121.03,
+          "severity": "yellow",
+          "detail": "Amnesty International Philippines gave President Marcos Jr. a 'failed' mark for his administration's human rights record."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A new Trump administration rule may have a 'chilling effect' on immigrants with disabilities by restricting those likely to need government benefits."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Typhoons, wildfires, and record ocean temperatures highlight global climate crisis.",
+      "summary": "The climate crisis intensified with a typhoon in Southern China displacing hundreds of thousands, raging wildfires in France and Spain, and extreme weather threatening the Philippines' rice terraces. Record ocean surface temperatures were also reported.",
+      "regions": [
+        {
+          "name": "Southern China",
+          "lat": 23.13,
+          "lng": 113.26,
+          "severity": "red",
+          "detail": "Typhoon Noul made landfall, prompting the evacuation of over 340,000 people."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Wildfires raged across France, forcing more than 250,000 people to flee their homes."
+        },
+        {
+          "name": "Barcelona, Spain",
+          "lat": 41.3879,
+          "lng": 2.1699,
+          "severity": "red",
+          "detail": "Thousands fled wildfires in Spain during a significant heatwave."
+        },
+        {
+          "name": "Ifugao, Philippines",
+          "lat": 16.9206,
+          "lng": 121.1278,
+          "severity": "red",
+          "detail": "Climate change and extreme weather, including a Super Typhoon Fung-wong, threaten the UNESCO World Heritage rice terraces."
+        },
+        {
+          "name": "Arctic Ocean",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "The Arctic Ocean may have passed a crucial tipping point due to sea ice loss, impacting food webs and worsening climate change."
+        },
+        {
+          "name": "Global Oceans",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Ocean surface temperatures hit a record high in June, fueling fears of more dangerous heat waves."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "yellow",
+          "detail": "A June heatwave in the UK led to 'mass sleep deprivation' according to a poll."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola crisis worsens in DR Congo; pollution poses health risks.",
+      "summary": "The 17th Ebola outbreak in DR Congo escalated significantly, with cases rising to 3,200 and 1,405 deaths. Pollution from oil operations in the country also presents serious health threats to local communities.",
+      "regions": [
+        {
+          "name": "Ituri Province, DR Congo",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Ebola cases surged to 3,200 with 1,405 deaths, with nearly 90 percent of cases recorded in this province."
+        },
+        {
+          "name": "Muanda, DR Congo",
+          "lat": -5.9329,
+          "lng": 12.3592,
+          "severity": "red",
+          "detail": "Pollution from the Perenco oil company, including gas flaring and oil spills, poses serious health risks to nearby residents."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization (WHO) reported on the escalating Ebola crisis in DR Congo, noting the spread to five provinces."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices slide as US-Iran tensions ease; global economic outlook mixed.",
+      "summary": "Oil prices fell as the US and Iran paused strikes, impacting global markets. The global economic outlook for July 2026 indicates resilient US conditions but weaker growth in Western Europe, amidst ongoing debates on monetary policy.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US financial markets showed stability as the FOMC was expected to keep the funds rate steady, with Q2 GDP growth projected at 2.1% SAAR."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Brent crude, the international benchmark for oil, fell over 5% to $91.68 a barrel following the pause in US-Iran conflict."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "The Reserve Bank of India is expected to hold rates through 2026, prioritizing growth over inflation concerns."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A new national poll found that voters see child care costs as a major driver of affordability challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Diplomatic spat between Brazil and Argentina; India addresses exam system integrity.",
+      "summary": "Brazil recalled its ambassador from Argentina following highly critical remarks by President Milei, indicating a diplomatic rift. In India, a new panel was announced to overhaul the exam system amidst public protests over paper leaks.",
+      "regions": [
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Brazil recalled its ambassador to Argentina after President Javier Milei's critical speech."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "yellow",
+          "detail": "President Javier Milei's speech at the Liberal Party convention led to Brazil recalling its ambassador, sparking a diplomatic incident."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Prime Minister Modi announced a task force to overhaul India's examination system following protests about exam paper leaks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid challenges persist; Ukraine winter response launched; DR Congo Ebola support.",
+      "summary": "Humanitarian aid delivery in the Gaza Strip faces significant challenges due to military activity and resource scarcity. UN partners launched a winter response plan for 2.1 million people in Ukraine, while aid efforts continue for the escalating Ebola crisis in DR Congo.",
+      "regions": [
+        {
+          "name": "Rafah, Gaza Strip",
+          "lat": 31.2984,
+          "lng": 34.2588,
+          "severity": "red",
+          "detail": "Humanitarian aid efforts face significant challenges near the 'Yellow Line' due to intensified military activity and disruptions to services."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "UN partners launched a Winter Response Plan, seeking $358.4 million to help 2.1 million people affected by the ongoing Russian invasion."
+        },
+        {
+          "name": "Ituri Province, DR Congo",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "The UN Humanitarian Air Service continues to transport medical teams and emergency responders to areas affected by the escalating Ebola outbreak."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Z2J2N3NVVcVTTcy76cAgO1wH__5OYdGddQmhraVQ-VD08xwH-t66WFg5ipSGOYzohRWOVHQZO0zMPOLYfwP_HdiM2aRyoZxha4vXYuIOGNP5OaBOkjXcLwGFUsT3YGUxhP5HenB0spiEHuHX7Whu0lD-1-b18c-MxTjtsRY="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_FlAt_bWUa1jD5-DKPr3-XKLgHRnrBtpCwvrJ2GC_FwbNX6Vi9Ewg_VH900gb9yvFBu0I6I7q2m7-XZG_vtphmOGsb8kbOEkZlVcnM1Ur-2z_u_qNz-_6tJO2H43o5aOV47KG1voZjO4oz8UEuXY4Opw3WDrgbEdbht8U2IeSlnL8Jj-PxBG--Ek6MsHj_UxVwPt"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xCgDX-iAOSe-3fnwJ1rw1q3KI7jK0QakgH6zsMYQ0a_wVgHiOKUQKxy1GshMsgBuW3Hrcv69yo7UFMic0MMnPaJMEZunATUfnq-5L4oBJG0HF2ZHFqCp5yWjN50ZcrLRZ5SshasjzYRFz3gGWY_rMUM8fMHS6GF9s2ESfWNIFjWgF2goeAJv8a6OyBL67s4uEJRBGdt24JbZQVFnyp5gFDaGUQyu8s8YIAeSsRh1bKPN"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqz7rp2sW1PUGQHffrJyaTqPWgHwyIl17wsfN_egHl69p8MzTaebLSJu4bpCZBJ8bKzeixJpB2BuWcoOkYvmpohXUfv3kLTErKfFMnu1ZA0aQ5ifbJVRe9RI0M8Ts7IQu6dXv03it3c-rWRS-Lj9QC3XkU4HI984JXWqZDvX6qDd8CgNR3cZfK1tRzj0YHYw8kDzXXjQxwp9KFwy_pA9CtOYdhKz4C3kvih-L3R75SGuCjoA=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZMOQzFMm1YD83eAhy5ltfIUoj0Vzwusp_ijzfC21MQf-nOHTMT7lrIEuT3pz8NU146H9Y72lL7bk6yeVZBMqwjyZDnEF1Z2Gjt991SCOje8UhWMM3CSlvPix_0x0-xc5dJ8qzhEDEU2iZFsxaX6OyAU7-qRtWjHvxl7onQcNVI61zM5MsA-KjQwgWx2OlMTNetRDFeSzyWlg6iCFFXDrskXhmUgRgIZjooC-nOUCi-FLr9ZiKlCT7UYoeRdtVPgUnMG7qPondcPG5ql7lwLF69z7Aiv8f6-krZUZFXm_45tlQBs="
+        }
+      ]
+    }
+  }
+}
