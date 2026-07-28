@@ -1,0 +1,384 @@
+{
+  "date": "2026-07-28",
+  "timestamp": 1785221315170,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East tensions escalate with drone attacks; peace talks planned.",
+      "summary": "Escalating tensions in the Middle East have led to significant oil price hikes as a conflict enters its fifth month. Saudi Arabia has reported drone attacks from Iran-backed militias in Iraq, while the UN rights chief documented potential Israeli war crimes in Lebanon. US-led talks are scheduled between Israel and Lebanon next week in Rome, with hopes for a deal with Iran.",
+      "regions": [
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia reported interception of drones targeting oil facilities, attributed to Iran-backed militias from Iraq."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "yellow",
+          "detail": "Saudi Arabia called on Iraq to prevent its territory from being used as a launching point for attacks."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran is implicated as backing militias responsible for drone attacks on Saudi Arabia, though US President Trump sees a 'good chance' for a deal."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "The UN human rights chief stated that Israeli violations of international humanitarian law in Lebanon may amount to 'war crimes'."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is accused by the UN rights chief of large-scale violations of international humanitarian law in Lebanon."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "green",
+          "detail": "US-led talks between Israel and Lebanon are scheduled to take place next week in Rome."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Act governance lags; war crime allegations in Lebanon.",
+      "summary": "The UN rights chief reported that Israeli violations in Lebanon may amount to war crimes, with significant casualties since March. In Iran, women arrested during the January 2026 uprising continue to face prison terms. Globally, a new report shows that while the EU AI Act influences AI governance, fundamental human rights impact assessments are widely neglected by companies, creating significant legal exposure. Chad's decision to withdraw from the ICC also raises concerns about international justice.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "UN rights chief documented large-scale violations of international humanitarian law by Israel, potentially amounting to war crimes."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Women arrested during the January 2026 uprising are facing ongoing prison sentences and prolonged detention."
+        },
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1064,
+          "lng": 15.0444,
+          "severity": "yellow",
+          "detail": "Chad announced its withdrawal from the International Criminal Court, raising concerns about accountability for human rights."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU AI Act is influencing global AI governance, but many companies, including those outside the EU, are not disclosing human rights impact assessments."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States is a significant source of non-EU companies engaging with the EU AI Act but lagging in human rights impact assessments for AI systems."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "green",
+      "headline": "World Conservation Day highlights environmental protection.",
+      "summary": "No major new climate events or crises were reported today. The annual observance of World Nature Conservation Day on July 28th serves to raise global awareness about the importance of protecting natural resources for a healthy environment.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "World Nature Conservation Day is observed internationally to raise awareness about environmental protection and sustainable resource use."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Hepatitis vaccine rollback, FMD concerns in Asia.",
+      "summary": "World Hepatitis Day is observed, but in the US, an administration rollback of federal policy has ended the longstanding recommendation for newborn hepatitis B vaccinations, sparking public health concerns. Simultaneously, the 28th SEACFMD Sub-Commission Meeting in Mongolia is addressing the ongoing global and regional Foot and Mouth Disease situation, including the spread of new serotypes.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "An administration rollback of federal policy has ended the longstanding recommendation for all newborn hepatitis B vaccinations, raising public health concerns."
+        },
+        {
+          "name": "Ulaanbaatar, Mongolia",
+          "lat": 47.919,
+          "lng": 106.918,
+          "severity": "yellow",
+          "detail": "The 28th SEACFMD Sub-Commission Meeting is being held to address the global and regional Foot and Mouth Disease (FMD) situation, including emerging risks."
+        },
+        {
+          "name": "Southeast Asia",
+          "lat": 10,
+          "lng": 105,
+          "severity": "yellow",
+          "detail": "The region is a focus of efforts to control Foot and Mouth Disease (FMD) and manage emerging serotype risks, discussed at the meeting in Mongolia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices jump due to Middle East; US tariffs on forced labor.",
+      "summary": "Global oil prices have seen substantial increases, particularly in the Philippines, driven by escalating tensions in the Middle East. The US also implemented new tariffs on imports from 60 economies over forced labor concerns, although Mexico maintains preferential access for USMCA-compliant goods.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Motorists are facing another hefty increase in oil prices due to escalating tensions in the Middle East."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Escalating tensions and ongoing conflict are significantly driving up global oil prices."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Office of the U.S. Trade Representative imposed additional tariffs on imports from 60 economies over forced labor allegations."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "green",
+          "detail": "Mexico retains preferential access under USMCA for compliant products despite new US tariffs, but non-preferential goods face a 10% tariff."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Chad leaves ICC; Iran suppresses dissent.",
+      "summary": "Chad announced its withdrawal from the International Criminal Court, raising international concerns about accountability and the rule of law. In Iran, women involved in the January 2026 uprising are facing ongoing prison sentences and detentions, indicating continued suppression of democratic rights.",
+      "regions": [
+        {
+          "name": "N'Djamena, Chad",
+          "lat": 12.1064,
+          "lng": 15.0444,
+          "severity": "yellow",
+          "detail": "Chad's announcement of its withdrawal from the International Criminal Court raises concerns about international justice and democratic accountability."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Women arrested during the January 2026 uprising continue to face prison terms and detentions, indicating suppression of dissent."
+        },
+        {
+          "name": "Atlanta, Georgia, United States",
+          "lat": 33.7488,
+          "lng": -84.3877,
+          "severity": "green",
+          "detail": "Primary runoff election results are being reported in Georgia."
+        },
+        {
+          "name": "Pierre, South Dakota, United States",
+          "lat": 44.3683,
+          "lng": -100.351,
+          "severity": "green",
+          "detail": "Primary runoff election results are being reported in South Dakota."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Lebanon faces severe humanitarian crisis; trafficking highlighted.",
+      "summary": "Lebanon is experiencing a severe humanitarian crisis, with over 4,300 killed and 12,200 injured since March 2, including healthcare workers and journalists, due to ongoing violations of international humanitarian law. Globally, July 28th marks World Day against Trafficking in Persons, drawing attention to this persistent humanitarian challenge.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "More than 4,300 people have been killed and 12,200 injured since March 2, including over 135 healthcare workers, highlighting a dire humanitarian situation."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "World Day against Trafficking in Persons is observed annually, raising awareness about this significant global humanitarian issue."
+        }
+      ],
+      "sources": [
+        {
+          "title": "inquirer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE4-o_0QGUsHFrJUKVxZjiLNk4bGtZqF0S4CoI3pIF5Epvawx1CxwR8hgMDDw6lxvvf8NVoXDL8OezuFCYLkQ0mWe-yqiYqT8JaYA-t-0pCxta5txG42dBkFB2MeVp1B4O5W54Mhlg-EQsKgDW2smVa4UJEY_29K6DaI51uH6gLrzjA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkwmLSYze8od41ee1R4bgrAgIho6_BfXO3N0_4JszvDE_j2SQBkfK8oZQXXgns8vLMoxCIuDw3HtDkIa_Z6xgkpKkpQxz3njhXdKTIKbI2nUQNIL75UmO-1WibgBeO_h2SCj_EPyZ3NDIzx-n5a_pHGE_JPfUv1bz7gENqVw1o"
+        },
+        {
+          "title": "ncr-iran.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZQa1Dcocswu1eOepqg5E32o8629kFyORihEMoZ8h5pc6TKhaCzCETKzCfVxiIZjppoNf2xdTNpcvNlTCiENLMXtt05LKURgJvQENEMrucEhE8yVdykdVw19m-LkZWhDL-V7om--f9mrQcUxqxJ8ITmwC2obEQFrVwLb_w7QH9jL7mln4YRmCu4ptk7-KzM31NmrS"
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJeMnp_PABhQP-HZmeWB3x2rk5vUfTn3IfdgK-SYbgRvEgewvDmxvMJ4Ao87Dt_Vklia1cQ0sbGgpm8ifIrf2B7XMa88HXLTChoOITLcmT9SExS9bnQPiiaFHhoNuPN5cjQnQHY3ujr2ouSWZrjYR3mOEj12ZCIVmCI9e0vLTv87k4c7mRVVF7zY="
+        },
+        {
+          "title": "ediseed.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpG5elOVBMpsFiCiaAO8jNwrW2bCki-HRmCqoD2X3mRv9yhxRLpPHNbuGAZIuBGsixTlyWE3mNNPxB6YSFfebUYUM05v6Nycx4YgDtIZ78GrAlhVl6eGUzI6VfMJRcSno4zBnJGg7HH5dgfZbYAYo9sO9fiiBHsw=="
+        }
+      ]
+    }
+  }
+}
