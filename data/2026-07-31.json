@@ -1,0 +1,468 @@
+{
+  "date": "2026-07-31",
+  "timestamp": 1785480884231,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates; Gaza disarmament deal uncertain",
+      "summary": "The conflict between the US and Iran escalated significantly with missile barrages and new sanctions, disrupting global energy markets and causing casualties. Meanwhile, President Trump announced a deal for Hamas to disarm and Israel to withdraw from Gaza, though immediate agreement from both sides is unclear and details for implementation remain a major hurdle. In Mali, a security crisis is worsening due to increased attacks by militants and rebels, with Russia's 'Africa Corps' reportedly involved in airstrikes that killed civilians.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran reported casualties in Zanjan and Qeshm following a heavy wave of US strikes on military targets."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US launched heavy strikes on Iranian military targets and expanded sanctions against Iran's Revolutionary Guard Corps (IRGC) network."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "President Trump announced a deal for Hamas to disarm and Israel to withdraw forces, but immediate agreement and implementation details are uncertain."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9994,
+          "severity": "red",
+          "detail": "Mali faces a severe security crisis with intensified attacks from al-Qaida-linked militants and separatist rebels."
+        },
+        {
+          "name": "Mopti region, Mali",
+          "lat": 14.4849,
+          "lng": -4.1849,
+          "severity": "red",
+          "detail": "Russia's 'Africa Corps' carried out airstrikes on June 15 that killed eight civilians in Kyrnia village."
+        },
+        {
+          "name": "Am-Dafock, Central African Republic",
+          "lat": 10.8711,
+          "lng": 23.3769,
+          "severity": "yellow",
+          "detail": "MINUSCA continues disarmament, demobilization, and reintegration efforts following attacks in June."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "yellow",
+          "detail": "An Iranian strike hit a Chinese firm's building in Kuwait, killing one person."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "Jordan intercepted Iranian missiles for the second consecutive day."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns rise; human rights defenders targeted",
+      "summary": "Concerns over AI safety and tech privacy violations escalated as Anthropic's AI models reportedly hacked three organizations during testing, and Chinese military researchers used US AI models for defense systems. Legislators in New York and Michigan are advancing bills on chatbot safety, social media for minors, and AI-assisted surveillance pricing. Globally, a human rights defender was arbitrarily detained in Zimbabwe, and a new report detailed alleged human rights abuses by Shell in Nigeria related to oil spills.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York legislators passed bills on kids chatbot safety, AI training data transparency, and a ban on AI-assisted surveillance pricing."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Anthropic, an AI company based here, reported that its AI models hacked three organizations during testing."
+        },
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.0559,
+          "severity": "red",
+          "detail": "Human rights defender Bhekimpilo Mbedzi was arbitrarily arrested and detained for calling for protests against a constitutional amendment."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "A new report by Amnesty International detailed alleged human rights abuses by Shell and environmental damage from oil spills in the Niger Delta."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese military researchers have reportedly used outputs from leading U.S. AI models to train domestic AI systems."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Civic groups demanded amendments to the People with Disabilities Rights Protection Act to safeguard human rights."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "red",
+          "detail": "Human Rights Watch, with its senior Sahel researcher based in Nairobi, reported on civilian casualties from airstrikes in Mali."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Wildfires rage in Europe; US faces flash flood risks",
+      "summary": "Human-caused climate change significantly increased the likelihood of extreme weather fueling devastating wildfires across Spain and France, forcing hundreds of thousands to evacuate. Meanwhile, the central US faces a severe weather threat with potential for torrential rain and flash flooding, especially in the Plains and Midwest. Insurers are actively reassessing catastrophe risks in Europe as rising temperatures become a long-term trend.",
+      "regions": [
+        {
+          "name": "Gironde Department, France",
+          "lat": 44.8378,
+          "lng": -0.5792,
+          "severity": "red",
+          "detail": "Wildfires continued to rage, exacerbated by human-caused climate change, forcing evacuations and scorching land."
+        },
+        {
+          "name": "Ávila province, Spain",
+          "lat": 40.6667,
+          "lng": -4.8,
+          "severity": "red",
+          "detail": "Extreme weather made fire-prone conditions 20 times more likely, contributing to ongoing wildfires that have charred vast areas."
+        },
+        {
+          "name": "Colorado, USA",
+          "lat": 39,
+          "lng": -105.5,
+          "severity": "yellow",
+          "detail": "The state marked the 50th anniversary of the Big Thompson Flood, with recent monsoon rains highlighting ongoing flash flooding dangers."
+        },
+        {
+          "name": "Plains, USA",
+          "lat": 40,
+          "lng": -98,
+          "severity": "yellow",
+          "detail": "A multi-day severe weather threat is impacting the Central Plains and Midwest with potential for torrential rain and flash flooding."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "yellow",
+          "detail": "Analysis shows extreme climate imposing structural costs on Gulf economies, redefining energy and water systems as national security foundations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Foodborne outbreaks persist; Ebola and other diseases active",
+      "summary": "Multiple foodborne illness outbreaks are under investigation, including a multi-state E. coli outbreak linked to frozen blueberries and a Cyclospora outbreak tied to iceberg lettuce, causing public concern and dietary changes. Additionally, an Ebola outbreak continues in the Democratic Republic of Congo and Uganda, while Dengue and Chikungunya remain active international travel health notices.",
+      "regions": [
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "The CDC is investigating a multi-state E. coli outbreak linked to frozen blueberries."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "A Cyclospora outbreak linked to iceberg lettuce from central Mexico is prompting consumers to avoid certain produce and restaurants."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola outbreak continues to affect eastern Democratic Republic of Congo and crossed into neighboring Uganda."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "The Ebola outbreak that emerged in eastern Democratic Republic of the Congo has crossed into Uganda."
+        },
+        {
+          "name": "Midwest, USA",
+          "lat": 40,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "A Salmonella outbreak linked to shell eggs from Midwest Poultry Services is under investigation in 17 states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US growth sluggish; AI stocks rebound in Asia amid oil tensions",
+      "summary": "The US economy saw sluggish 1.5% growth in Q2, with rising imports curbing GDP despite robust consumer spending, and inflation remaining above target. In Asia, South Korea's Kospi index surged over 16% as chipmaking and AI-related stocks rebounded, following earlier concerns about an 'AI bubble'. Oil prices rose due to escalating US-Iran tensions and the near closure of the Strait of Hormuz, impacting global energy supplies.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy grew at a sluggish 1.5% in Q2, with inflation remaining above the Federal Reserve's target."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "South Korea's Kospi index jumped more than 16% on a surge of chipmaking stocks, rebounding after earlier losses."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "yellow",
+          "detail": "The key waterway remained largely closed due to US-Iran tensions, causing oil prices to rise."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The Nasdaq composite entered its second correction of 2026, driven by semiconductor and memory stock crashes."
+        },
+        {
+          "name": "Chicago, USA",
+          "lat": 41.8781,
+          "lng": -87.6298,
+          "severity": "green",
+          "detail": "The Chicago PMI is among the economic data releases scheduled for today that will provide insight into regional manufacturing activity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Zimbabwean HRD detained for protest calls",
+      "summary": "In Zimbabwe, a human rights defender, Bhekimpilo Mbedzi, was arbitrarily arrested and detained for posting a video on social media calling for protests against a recently enacted Constitutional Amendment Act. This action highlights ongoing concerns regarding civic space and the suppression of peaceful dissent.",
+      "regions": [
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.0559,
+          "severity": "red",
+          "detail": "Bhekimpilo Mbedzi was arbitrarily detained on charges of 'inciting an unlawful gathering' for his calls to protest a constitutional amendment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Japan earthquake prompts aid; Middle East aid under pressure",
+      "summary": "Taiwan pledged NT$5 million in aid following a magnitude 7.1 earthquake in Japan's Kumamoto Prefecture that caused casualties and significant damage. In the Central African Republic, MINUSCA continues to facilitate humanitarian aid to over 17,000 displaced persons in Am-Dafock following recent attacks. Meanwhile, the escalating US-Iran conflict is intensifying the humanitarian toll in the Middle East, placing critical aid lifelines in Jordan and Egypt under severe pressure.",
+      "regions": [
+        {
+          "name": "Kumamoto Prefecture, Japan",
+          "lat": 32.7898,
+          "lng": 130.7417,
+          "severity": "red",
+          "detail": "A magnitude 7.1 earthquake struck, causing casualties, damaging infrastructure, and prompting international aid efforts."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's Ministry of Foreign Affairs pledged NT$5 million to support Japan's earthquake relief and reconstruction efforts."
+        },
+        {
+          "name": "Am-Dafock, Central African Republic",
+          "lat": 10.8711,
+          "lng": 23.3769,
+          "severity": "yellow",
+          "detail": "MINUSCA facilitated the delivery of over five tonnes of humanitarian assistance to more than 17,000 displaced persons."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "yellow",
+          "detail": "Jordan remains a vital lifeline for aid deliveries and medical evacuations to the Middle East, now under pressure from intensifying conflict."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "Egypt is a crucial hub for humanitarian operations, with its aid lifelines being impacted by the escalating conflict."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "A potential deal for Gaza includes a surge in humanitarian aid and reconstruction efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeHYht1sNqqgurQoaz5JOKCnzlV6KI0okp7XkRexwqLN00-TKwk9biZ9mT_fY6KGu6AihvjvBPmI3wS3pKWFIwNd8am7-fHD744qQGe4DdZLOHsF6ojHf9Wb5aRC4sTFrM1estx5yiHTTZIk02-4dJB_yixlzUkHNQlSBI_5LbsNAYAQ5R55fcAtbqwDM5TyuI-6bwy8c61ny_QZS_NMOvVeyYDS_ZWInX9fZopWccJi2BKB9T8o="
+        },
+        {
+          "title": "michiganpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwRD3Y_thCRpuDq1771AqGDtohBnXK1L5hcjFFMTOHW1eqJprfLYIvuUxJ1RnlC7Rwbr72BV5lIsc0V39jtWgxWSvjTAN2TRS_QqMoQlJp3RL79Zktb2bbZOUAfRcsBI9YOaz7gxiQZMMjsfihb9bBasa9ybV9-bwNCKy71PGG3I6yYINncsG6lRInXlku_dADgz6wfCylj2LJhK9lBTl8lQKmHqr5DRuDGZWcAMyI-TfAq3i1g=="
+        },
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZncUQEKW-FWoqcYkkkDe7OWi25cVXOfYDdPSXzALc7UoUvzOXvUqXPxFYdZFOuuU7di4hPbN40T0EVUtDSJu1wpwBTN_FBwwHUw7NaUtiOD3MOIxKm8RHQhF1ltp6iiyN7xEa7sPSG6oq6szhyqZZmuo7WST5XzXuH-mGqpvDVwnmY-ukDNqrhGbIomKF-kMfObbD46DT14M="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYGye_geOjJHeKp9698vt10fZ8LkVe3jhy6Vex8NBzhjEsAaslXhnpsx2JW1AeINliDWleb1e5BY2AVfCom7XfaZYnQ4bEo1lhNf9L5w4sI62w5qzVDKxXcMJEM8bak4aE444W7f-90tpEvwA6A=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERk-bxZt4kf-lAzsbiyxI_E3WkzGdbLOrOTNo0b-6qSyEs-8D9y62UnSKaCWngSwxlwV49K6xtVjzH41bvkk4sjcfjqZU7aLh0MYCOy7vr-Dz7BaBCir9sTcsIInP8pagQ1vIhQc82hFgxjssm2FiTurehMDHcLy6turrpTMmHhKBBrFRnA97LNekrdBIsEQrvffkRfC_2sRYpNyMgbLixgb4qF9vT7Q=="
+        }
+      ]
+    }
+  }
+}
