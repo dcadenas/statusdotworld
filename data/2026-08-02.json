@@ -1,0 +1,461 @@
+{
+  "date": "2026-08-02",
+  "timestamp": 1785653520904,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US halts Iran strikes for peace talks amid Middle East, Ukraine clashes.",
+      "summary": "US President Trump announced the cancellation of planned strikes on Iran to pursue a peace deal, with Israel reportedly on board to pause attacks. This development comes amidst heightened tensions, with Kuwait intercepting Iranian drone attacks, Houthi rebels blockading Saudi shipping in the Bab el-Mandeb strait, and continued Israeli airstrikes in Gaza causing casualties. Separately, Russia launched deadly missile attacks on Kyiv, Ukraine, and Iran accused Ukraine of an attack in the Caspian Sea, signifying persistent global conflicts.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "US canceled planned strikes and seeks a peace deal, but Iran accuses US of escalating tensions and warned of retaliation."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump announced the cancellation of planned strikes on Iran and aims for a peace deal."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is reportedly committed to holding off attacks on Iran, but its forces continued strikes in Gaza."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli airstrikes killed at least eight people in multiple residential buildings."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "yellow",
+          "detail": "Kuwait's military intercepted Iranian drone attacks."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3547,
+          "lng": 44.2068,
+          "severity": "yellow",
+          "detail": "Houthi rebels imposed a blockade on Saudi shipping in the Bab el-Mandeb strait."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian missile strikes killed 10 people and wounded dozens, with Ukraine sinking a Russian container ship."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia continued missile attacks on Kyiv, escalating long-range strikes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "EU AI Act enforces transparency; Saudi Arabia executes migrants.",
+      "summary": "The European Union's AI Act came into effect, enforcing transparency obligations for AI systems, requiring disclosure for human interaction and labeling of AI-generated content, including deepfakes. This marks a significant step for digital rights and AI safety. However, severe human rights concerns persist globally, with Human Rights Watch reporting continued executions of Ethiopian migrants in Saudi Arabia for drug offenses, and a new documentary highlighting conflict-related sexual violence in Myanmar.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU AI Act's transparency rules became enforceable, requiring AI systems to declare themselves and label AI-generated content."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Human Rights Watch reported ongoing executions of Ethiopian migrants for drug offenses, violating international law."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "red",
+          "detail": "Ethiopian migrants are being executed in Saudi Arabia, often having fled hardship from regions like Tigray."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7634,
+          "lng": 96.1307,
+          "severity": "yellow",
+          "detail": "A documentary highlighted conflict-related sexual violence in Myanmar's conflict zones, calling for justice and accountability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Europe battles wildfires amidst heatwaves; US pushes for environmental monitoring.",
+      "summary": "Europe continues to grapple with extensive wildfires in France and Greece, fueled by persistent heatwaves and strong winds, raising concerns about increasing difficulty in containment. In the US, local governments are focusing on environmental monitoring at landfill sites and activating cooling centers due to high temperatures. Globally, there's continued advocacy for climate action, with warnings about India's monsoon and the overall state of the planet.",
+      "regions": [
+        {
+          "name": "Bordeaux, France",
+          "lat": 44.8378,
+          "lng": -0.5792,
+          "severity": "red",
+          "detail": "France is battling 'megafires,' with residents returning to devastation."
+        },
+        {
+          "name": "Crete, Greece",
+          "lat": 35.2401,
+          "lng": 24.8093,
+          "severity": "red",
+          "detail": "Three firefighters were killed in Greece as Europe battles wildfires."
+        },
+        {
+          "name": "West Hollywood, California, United States",
+          "lat": 34.0901,
+          "lng": -118.3758,
+          "severity": "yellow",
+          "detail": "A cooling center was activated due to high heat advisories in Southern California."
+        },
+        {
+          "name": "Salisbury, North Carolina, United States",
+          "lat": 35.6696,
+          "lng": -80.4734,
+          "severity": "green",
+          "detail": "County officials are considering additional funding for environmental monitoring at local landfill sites."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India's monsoon rains are reported to be in danger, coinciding with global warnings about climate crisis."
+        },
+        {
+          "name": "Chaco Culture National Historical Park, New Mexico, United States",
+          "lat": 36.0601,
+          "lng": -107.9575,
+          "severity": "yellow",
+          "detail": "Diné leaders are urging the Interior Department to preserve a buffer zone around the park from oil and gas leasing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Record Ebola outbreak intensifies in DRC; Ohio sees third measles outbreak.",
+      "summary": "The Democratic Republic of Congo is facing its largest Ebola outbreak on record, with over 3,600 confirmed cases and 1,500 deaths, prompting health protection measures in areas like Virunga National Park. Concurrently, Ohio has reported its third measles outbreak of 2026, affecting unvaccinated individuals. A Legionnaires' disease outbreak in New York City has claimed a seventh life, though the outbreak appears to be subsiding.",
+      "regions": [
+        {
+          "name": "Bunia, Democratic Republic of the Congo",
+          "lat": 1.5667,
+          "lng": 30.25,
+          "severity": "red",
+          "detail": "Ebola cases continue to emerge, and Virunga National Park is strengthening health measures to protect communities and gorillas."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.325,
+          "lng": 15.3222,
+          "severity": "red",
+          "detail": "The Ebola outbreak has expanded to five provinces, with over 3,600 confirmed cases and 1,500 deaths nationwide."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Uganda faces a high risk due to confirmed cross-border spread of Ebola."
+        },
+        {
+          "name": "Ashtabula, Ohio, United States",
+          "lat": 41.8711,
+          "lng": -80.7962,
+          "severity": "yellow",
+          "detail": "Ohio reported its third measles outbreak of 2026, with three unvaccinated people infected here."
+        },
+        {
+          "name": "Tuscarawas County, Ohio, United States",
+          "lat": 40.4806,
+          "lng": -81.3917,
+          "severity": "yellow",
+          "detail": "One unvaccinated person was infected in Ohio's third measles outbreak of 2026."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A seventh death was reported in a Legionnaires' disease outbreak, although new cases have ceased."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mixed global economic signals; cryptocurrency market cautious.",
+      "summary": "The global economy shows mixed signals, with the eurozone experiencing modest growth and Mexico reporting a trade surplus, while China's growth rate disappointed. The cryptocurrency market enters August with cautious equilibrium despite a strong July, facing uncertainty from Federal Reserve rates and ongoing geopolitical risks, including the impact of the Middle East war on fuel prices. Major tech companies like Apple and Microsoft continue to drive market movements.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium (Eurozone)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The eurozone grew by 0.2% in Q2 2026, but year-over-year growth remains uninspiring."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "green",
+          "detail": "Mexico's trade balance swung into a significant surplus in Q2 2026."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's Q2 2026 growth disappointed at 4.3%, its slowest pace since late 2022."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Uncertainty around Federal Reserve rates continues to influence global market trajectory."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Ongoing Middle East tensions disrupt shipping and cause dramatic rises in fuel and lubricant prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Global democracy generally stable, no major erosion reported.",
+      "summary": "On August 2, 2026, there were no specific reports indicating significant democratic erosion or major threats to democratic institutions worldwide. The global democratic landscape appears relatively stable, with political processes continuing without widespread disruption or severe challenges to electoral integrity or governance.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "green",
+          "detail": "No major incidents of democratic erosion or significant threats to democratic institutions were reported globally on this date."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "DRC Ebola outbreak escalates; migrants face execution, sexual violence persists.",
+      "summary": "The Democratic Republic of Congo is grappling with its largest-ever Ebola outbreak, a declared Public Health Emergency of International Concern, necessitating urgent humanitarian aid to combat widespread transmission and high mortality across five provinces. Concurrently, human rights organizations are advocating for Ethiopian migrants facing execution in Saudi Arabia after fleeing dire conditions, and for survivors of conflict-related sexual violence in Myanmar who require comprehensive support and justice.",
+      "regions": [
+        {
+          "name": "Bunia, Democratic Republic of the Congo",
+          "lat": 1.5667,
+          "lng": 30.25,
+          "severity": "red",
+          "detail": "The intensifying Ebola outbreak in eastern DRC requires significant health and humanitarian intervention."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.325,
+          "lng": 15.3222,
+          "severity": "red",
+          "detail": "The largest-ever Ebola outbreak in the DRC is spreading across five provinces, with high fatality rates."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Ethiopian migrants face execution, highlighting a severe humanitarian concern regarding legal aid and protection for vulnerable populations."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0192,
+          "lng": 38.7525,
+          "severity": "red",
+          "detail": "Migrants from Ethiopia, often fleeing hardship, are at risk of severe human rights violations abroad, requiring international protection and aid."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7634,
+          "lng": 96.1307,
+          "severity": "yellow",
+          "detail": "Conflict-related sexual violence in Myanmar's conflict zones demands humanitarian support for survivors' medical, psychological, and legal needs."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3547,
+          "lng": 44.2068,
+          "severity": "yellow",
+          "detail": "Ethiopian migrants reportedly fled hardship from Yemen before facing issues in Saudi Arabia, indicating ongoing regional crises contributing to migration."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaZ-BcKSZNCI4vtmKUrkk32ApR7v_3BSOVbzatHCAtJb_nT54PBH4Up5bMExUmQSyNnhggAnTGT3UAch2P8N-YrNcHOSg4nSrYUG6O5COytUO10l1rbkjal_v4HQrBZQEki5x_UP5dOtUbSHCbYGQJmwB7_CQefmYn1gb_Xt-vF4NZf7CqpMx5tE2y8ejay3a0EGBSNwkGRxY-YSQhfQwx33P1ld3XbM="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1MklFolqGjn6ic21PAfV3Am69jeusQnZePU1ZJcV55nqelyM9kVhRrEOwp9O2tDXW_4wzbIBa71BOJoXFKNTCo0SIrkJvgNVjpOJy4EM0ZTG5kFux2np0Wr3DhWG-fOye-pvD90kkqUpfb-Kq83mjuef_1BUfgUl-dUthq-v6IXmTEMXygGkMorIUpjMb-QSMdSA4cVJNF1n"
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY-hZIafCxfk_w0THQWn7yGsdpWaXzXEzuBrVHqnPibq4wYq9eTypSiU76tbQLOJ19Z3U5LlYMJpxmyjtf-g7dgWVWm3LLaMo9Q6ikIlUoKGkKIEr8ocO_2T4yaCsjodP1QG-yi_hG1Rd0as92soR167FIL1MLJVuuvk1Az6GC6dGWbgLMVr_PvZiMjm33SDGjPxj3SYTwoJ-t_bWd9K_oAt1J1SrNa0aLcRuR4MaHQpKtevc_Vyv1a_vOr-jX8OoPew="
+        },
+        {
+          "title": "theintelligencer.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7cTydKIhv6_rdihj_X7b9U3LsPzfkGlkT6zbZwnyyY7lXh7Bv-ADDexT-PFOmwNkb56pjJachzYYLK2y9B_brEbZKIRaNJ44IfReOHS8_3b0FwoGTGgyZrsZcweG-cXvNluolMrf1Y49MUEeOmvSq1hAifw3t_lCfm_RpgCxglH6dY7NtFrpaS-_-A7oF8kO8oQFylHp_Q_xv0ICABNDEEKKuM1LiVvim3aEivv5a4vJ_Gux6dQ7_hoQL_e0DrkKGMNWwMrmg7uKPd_L2m8g6iCMQIULFyjItKdU="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzR7uLra_DxjYBtoJGr_T4zGAeqWY8AXqIVEqX7-8ahpBxc7vlfwiamqslTXbVizaEgjW-ltWJh5AWusMJ8ZkmbBD2IH6bk8ykpdSU0nH00nZtCEGaqmXG9VAaQX2nwdbP4dHWUA9q-wGLqDNRPu5t"
+        }
+      ]
+    }
+  }
+}
