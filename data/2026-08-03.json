@@ -1,0 +1,489 @@
+{
+  "date": "2026-08-03",
+  "timestamp": 1785740451800,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple active conflicts and rising geopolitical tensions globally",
+      "summary": "Geopolitical tensions remain high with ongoing conflicts in the Middle East, particularly between Israel and Gaza, and border clashes between Ethiopia and Tigray forces spilling into Sudan. Additionally, Belarus is forming an airborne assault brigade near its border with Ukraine, indicating potential escalation in that region.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli strikes have continued, resulting in civilian deaths and destruction of medical supplies, raising the death toll since October 2023 to 73,356."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.3667,
+          "lng": 35.5333,
+          "severity": "red",
+          "detail": "Five Lebanese soldiers were wounded in an Israeli attack, despite an earlier ceasefire agreement."
+        },
+        {
+          "name": "Quneitra province, Syria",
+          "lat": 33.109,
+          "lng": 35.856,
+          "severity": "yellow",
+          "detail": "Israeli forces carried out a new incursion and set up a temporary checkpoint to search civilians."
+        },
+        {
+          "name": "Sudan-Ethiopia border",
+          "lat": 12.8,
+          "lng": 35,
+          "severity": "red",
+          "detail": "Projectiles from clashes between Ethiopian government forces and Tigray fighters hit refugee camps, killing and injuring several Ethiopian refugees."
+        },
+        {
+          "name": "Belarus-Ukraine border",
+          "lat": 51.5,
+          "lng": 30.5,
+          "severity": "yellow",
+          "detail": "Belarus is forming an airborne assault brigade near its border with Ukraine, indicating heightened military activity."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "US President Donald Trump announced talks with Iran regarding the Strait of Hormuz and Iran's denuclearization, after shelving a planned strike."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "yellow",
+          "detail": "Iran-backed Houthi rebels have targeted oil facilities and tankers in the Red Sea, opening a new front in the conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Taliban's assault on rights deepens; AI safety concerns rise",
+      "summary": "The Taliban's rule in Afghanistan continues to systematically dismantle human rights, especially for women and girls, with new repressive laws. Globally, the rapid integration of AI agents is raising significant concerns about AI safety and the potential for autonomous exploitation.",
+      "regions": [
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.709953,
+          "severity": "red",
+          "detail": "The Taliban has codified repression with new laws, including a criminal procedure code that defines Muslims exclusively as Hanafi adherents and restricts women's rights further."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.913965,
+          "lng": 95.956223,
+          "severity": "yellow",
+          "detail": "Detained former leader Aung San Suu Kyi had a rare meeting with the International Red Cross, but critics argue it doesn't address underlying human rights issues."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "yellow",
+          "detail": "Human Rights Watch highlighted an ongoing case of police abuses in the Brazilian Amazon from 2020, with calls for accountability and protection for victims."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "A Women Peace Network statement expressed deep concern over potential forced deportations of Rohingya refugees from Malaysia and Bangladesh."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "The Women Peace Network expressed deep concern over potential forced deportations of Rohingya refugees from Bangladesh and Malaysia."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Tibetan and human rights activists protested China's new ethnic unity law outside the Bank of China, calling for resistance against authoritarian rule."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "El Niño intensifies global climate crisis; Western US wildfires worsen",
+      "summary": "The UN Secretary-General has warned that El Niño is intensifying the global climate crisis, bringing hotter-than-normal conditions and increasing the risk of record temperatures and severe impacts worldwide. In the Western United States, wildfires have forced mass evacuations and destroyed hundreds of structures, stretching emergency response capabilities.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "UN Secretary-General António Guterres warned that El Niño is intensifying the global climate crisis, leading to extreme heat and worsening impacts."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UN Meteorological Organisation warned that El Niño will intensify, adding to a planet already experiencing scorching heat, wildfires, and record hot seas."
+        },
+        {
+          "name": "Spokane, Washington, United States",
+          "lat": 47.6588,
+          "lng": -117.426,
+          "severity": "red",
+          "detail": "Wildfires have forced 60,000 evacuations and destroyed at least 600 structures in the Spokane area."
+        },
+        {
+          "name": "Western United States",
+          "lat": 39.5,
+          "lng": -111.6,
+          "severity": "red",
+          "detail": "A blistering heatwave continues to sweep across the region with record temperatures, increasing risks of heat-related illness and wildfires."
+        },
+        {
+          "name": "Mandaue City, Philippines",
+          "lat": 10.334,
+          "lng": 123.943,
+          "severity": "yellow",
+          "detail": "The DSWD's Central Visayas Field Office is preparing relief aid amid flooding in Mandaue City."
+        },
+        {
+          "name": "Eastern France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "yellow",
+          "detail": "Authorities ordered 30,000 people indoors after a fire at an industrial site released toxic substances."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreaks persist in Ohio; Yemen faces measles emergency",
+      "summary": "Ohio is experiencing its third measles outbreak of 2026, with four new confirmed cases in Ashtabula and Tuscarawas counties, all among unvaccinated individuals. Separately, Yemeni authorities have declared a health emergency in Marib governorate to contain a measles outbreak, with 12 deaths and over 1,600 infections recorded this year.",
+      "regions": [
+        {
+          "name": "Ashtabula County, Ohio, United States",
+          "lat": 41.8725,
+          "lng": -80.7588,
+          "severity": "yellow",
+          "detail": "Three unvaccinated individuals were confirmed with measles as part of the state's third outbreak of 2026."
+        },
+        {
+          "name": "Tuscarawas County, Ohio, United States",
+          "lat": 40.4285,
+          "lng": -81.4243,
+          "severity": "yellow",
+          "detail": "One unvaccinated individual was confirmed with measles, contributing to Ohio's third outbreak this year."
+        },
+        {
+          "name": "Marib, Yemen",
+          "lat": 15.4744,
+          "lng": 45.3408,
+          "severity": "red",
+          "detail": "Yemeni authorities declared a health emergency due to a measles outbreak, recording 12 deaths and 1,624 infections this year."
+        },
+        {
+          "name": "Denver, Colorado, United States",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "yellow",
+          "detail": "The Red Cross has declared a national blood crisis due to extreme heat, poor air quality, and widespread foodborne illnesses, urging immediate donations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions impact global economy; Japan-US intervene on yen",
+      "summary": "The ongoing Middle East conflict is significantly impacting the global economy, with the IMF cutting global growth forecasts and the World Bank noting growth below pre-pandemic norms due to geopolitical uncertainty and inflation risks. Japan and the United States conducted a coordinated yen-buying intervention to halt the yen's slide and prevent global economic spillovers.",
+      "regions": [
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "yellow",
+          "detail": "Japan and the U.S. intervened in the currency market to prop up the yen, which had slid to fresh 40-year lows."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "The U.S. collaborated with Japan on a yen-buying intervention to stabilize the currency and global markets."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "Pakistan's GDP growth for FY26 was 3.7%, below target, with the Finance Minister blaming the Middle East conflict for disrupting economic trajectory."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "China is energetically defending its economic policy that favors advanced industries, ahead of looming trade talks with Europe and the United States."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "yellow",
+          "detail": "WestJet flight attendants went on strike over pay, impacting 250,000 flyers and causing flight cancellations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns over democratic processes in several regions",
+      "summary": "In Myanmar, the military-backed government's allowance of a rare meeting for Aung San Suu Kyi does not alleviate concerns about the country's broader democratic erosion. Additionally, India criticized Pakistan's holding of Legislative Assembly elections in Pakistan-administered Jammu and Kashmir, labeling them a 'cosmetic electoral exercise' and citing ongoing human rights violations.",
+      "regions": [
+        {
+          "name": "Myanmar",
+          "lat": 21.913965,
+          "lng": 95.956223,
+          "severity": "yellow",
+          "detail": "Aung San Suu Kyi's meeting with the Red Cross is seen by some as not addressing the fundamental issues of democratic erosion since the 2021 military seizure of power."
+        },
+        {
+          "name": "Pakistan-administered Jammu and Kashmir",
+          "lat": 34,
+          "lng": 73,
+          "severity": "yellow",
+          "detail": "India criticized Pakistan for holding Legislative Assembly elections, calling them a 'cosmetic electoral exercise' amid alleged human rights violations."
+        },
+        {
+          "name": "Guyana",
+          "lat": 4.8604,
+          "lng": -58.9302,
+          "severity": "green",
+          "detail": "The Caribbean Court of Justice rejected challenges to Section 145 of the Constitution, granting a legal victory to the incumbent Government."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "green",
+          "detail": "The UK's new Prime Minister Andy Burnham has indicated support for a written Constitution, aiming to replace the current uncodified system."
+        },
+        {
+          "name": "Sao Paulo, Brazil",
+          "lat": -23.5505,
+          "lng": -46.6333,
+          "severity": "green",
+          "detail": "The Brazilian Workers' Party (PT) officially nominated President Luiz Inacio Lula da Silva as its candidate for the 2026 presidential election."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid flows to Lebanon; migrant crisis in Ceuta deepens",
+      "summary": "The Cypriot government has shipped €200,000 worth of humanitarian aid, including pharmaceuticals and consumables, to Lebanon, bringing its total aid this year to €840,000. Meanwhile, the migration crisis at the Spanish enclave of Ceuta has deepened, with the death toll rising to 72 and the US escalating its travel warning due to unpredictable and dangerous security situations following a mass entry of migrants.",
+      "regions": [
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "green",
+          "detail": "Cyprus sent €200,000 worth of humanitarian aid, primarily pharmaceuticals, to Lebanon, with the ship already arriving in Beirut."
+        },
+        {
+          "name": "Limassol, Cyprus",
+          "lat": 34.6793,
+          "lng": 33.0478,
+          "severity": "green",
+          "detail": "A shipment of 31 containers of humanitarian aid departed from Limassol port for Lebanon."
+        },
+        {
+          "name": "Ceuta, Spain",
+          "lat": 35.8906,
+          "lng": -5.3197,
+          "severity": "red",
+          "detail": "The death toll from the migration crisis has risen to 72, and the US has issued a Level 3 travel warning due to escalating instability."
+        },
+        {
+          "name": "Morocco",
+          "lat": 31.7917,
+          "lng": -7.0926,
+          "severity": "red",
+          "detail": "Approximately 60,000 migrants attempted to reach Ceuta from Morocco, resulting in 11 deaths and a worsening humanitarian situation."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "yellow",
+          "detail": "Operation Chivalrous Knight 3 by the UAE has marked 1,000 days of continuous humanitarian support, providing over $3.89 billion in aid to Palestinians."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.709953,
+          "severity": "red",
+          "detail": "Afghanistan's humanitarian crisis has deepened due to reduced donor assistance, with over 17 million people facing acute food insecurity."
+        },
+        {
+          "name": "Bangladesh",
+          "lat": 23.685,
+          "lng": 90.3563,
+          "severity": "yellow",
+          "detail": "More than 15 million people are facing acute food insecurity, with the situation projected to deteriorate later this year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddinuMqeFPqWsJ1Fq5umMUwqhFLgXuzu3Ig0hqJgheYs0hlO1aTceymt6dOuNErKIiXQjW-X7HTdnENSI38lutNzpFWV46K2lj09CSIAzlWpHo2WeWeB9o4tUL7mbp5IwnpXHq-HymNlY5D7DImE_xezT8e-_1F4jlV6r"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyG50xJoyQHMYD9m5cT1Jci1IZ2XYY9k0w0jrqB-fw0aYKO8QeF4ijS6drUan0CZWdbfESLOMdtc_0zurIP67fxQJ52Y1LzEVd-cpVouxLaIa1VIWUl0FafXAmQT9pdHW"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8CSTKZ4lCLfqNfGjdpXDsHmV7cL8kNVz9i1XGZ5_bhxXZrzjnTcf2fXY-8s0oIvzgx2kv-JC-fjwt2hkNfCXe2IqtJqhp6yPRc4aBM5UOy8TEbutONR4w8rf6mtZ3wRqz9KfrzDCAIz-Udamz_tqeO043inB1hhPpDNpm1vC06fXIGv-_a34wnTWJRX4RESxO2vpAXdTTTCL9"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtWfRXuKsvE7vLG2AvM07K3lVriNwsyaWf1M1lTuNjNOzcU0wFQJWYQBhjS-90GEtgQm1hc87WNtgej7dSlZuFWV1RzkgwmyjSFG58Zm3w0dAIjwJWFjmkKYDKcxLgez1vzO0sNVpj-hQ7vUhg7hbwty3wzeasHGlmJNToxJW1IZw_Q5a1kighluHVkNvWyu7vWpb47HPcbe3q_HjB_HAF3oVTDSZa_XaQ3xUbjJSpre69FFnHMVZ9fpq923D3Np1-uljX-R37-tYpWPPAexU"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEnlBke6rgGFbEA-hk6raPWzIs7ekd2649L7Zik7TFGy0Tq0DZJny34BM-hHz7mOMRPe_IFJewuvLt8vkGThiuF692L0ZlsZcT2zOymwEH--_GAcrGB252Q1IX9h6dK0-jGixtrUtvXSR9UhZI1NBJCvk824T2uIHpJav1VNw_Ac9zRfyyuypMG69UxtsamylsR2--y_cBb6arp-jCzBq5JGUWLREnC_P03iIxb4xBEjz4rbszQ=="
+        }
+      ]
+    }
+  }
+}
