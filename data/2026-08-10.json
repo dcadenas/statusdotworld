@@ -1,0 +1,496 @@
+{
+  "date": "2026-08-10",
+  "timestamp": 1786343020180,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Gaza conflict continues; Ukraine war civilians bear heavy toll",
+      "summary": "The conflict in Gaza remains active, with Israeli Prime Minister Netanyahu rejecting a peace plan that includes troop withdrawal before Hamas disarms. Meanwhile, civilians in Ukraine continue to endure severe consequences from the ongoing Russia-Ukraine war, including recent fatal attacks in major cities.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli Prime Minister Benjamin Netanyahu rejected a peace plan for the Gaza Strip, insisting on Hamas's full disarmament before troop withdrawal."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israeli Prime Minister Benjamin Netanyahu reiterated his rejection of a peace plan for Gaza, emphasizing no withdrawal until Hamas is disarmed."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Recent strikes on Kyiv resulted in at least 30 deaths and sent thousands into shelters, highlighting the severe civilian toll."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "red",
+          "detail": "Kharkiv experienced further deadly attacks, underscoring the ongoing humanitarian crisis in Ukraine."
+        },
+        {
+          "name": "Donetsk, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "red",
+          "detail": "Donetsk also faced deadly attacks, with civilians continuing to bear the heaviest toll of the conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Oil prices rose due to uncertainty over the reopening of the Strait of Hormuz, with Iran stating conditions for its reopening."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration is reportedly undeterred by Netanyahu's rejection of the Gaza plan, viewing it as part of Israel's political campaign."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "Egypt's Foreign Minister called for a full Israeli withdrawal from Gaza and sustained humanitarian aid delivery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns rise; Zambia election repression noted",
+      "summary": "OpenAI paused some development on its Astra AI model due to concerns over its critical cybersecurity capabilities, highlighting broader AI safety discussions. Concurrently, Amnesty International reported an escalating crackdown on human rights in Zambia ahead of the August 2026 general elections, impacting freedoms of assembly, association, expression, and media.",
+      "regions": [
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "Amnesty International reported an escalating crackdown on human rights, including restrictions on freedoms of assembly, association, expression, and media, ahead of general elections."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU's AI Act began enforcement on August 2, 2026, with transparency obligations for AI-generated content taking effect, aiming to protect fundamental rights."
+        },
+        {
+          "name": "Redmond, Washington, United States",
+          "lat": 47.6739,
+          "lng": -122.1215,
+          "severity": "yellow",
+          "detail": "OpenAI, a major AI developer, paused some work on its upcoming Astra model due to concerns about its critical cybersecurity capabilities and potential for autonomous exploits."
+        },
+        {
+          "name": "Mountain View, California, United States",
+          "lat": 37.3861,
+          "lng": -122.0839,
+          "severity": "yellow",
+          "detail": "Google's DeepMind Chief AI Readiness Officer raised concerns about the non-zero risk of AI contributing to human extinction, urging focus on current harms."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "A study from the University of Sydney raised alarm over men using smart glasses to discreetly record women, leading to privacy violations."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The Committee on the Elimination of Racial Discrimination (CERD) began its 118th session to consider periodic reports from various countries."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "green",
+          "detail": "Synology launched 'Surveillance365', a cloud video surveillance solution for businesses, with features for rapid deployment and on-camera AI analytics."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "A parliamentary panel recommended an integrated security and surveillance framework for tourist spots in Jammu and Kashmir following a terror attack."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Europe suffers extreme heat impacts; ASEAN warns of regional risks",
+      "summary": "Western Europe is experiencing record-breaking heatwaves, droughts, and wildfires this summer, leading to significant economic disruptions across various sectors. The ASEAN secretary-general has also issued a warning regarding climate risks to the Southeast Asian region.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Drought conditions persist in London amidst record heatwaves across Western Europe."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Paris experienced temperatures of 42 degrees Celsius during a heatwave in July, contributing to Europe's record heat."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "The Danube river receded to historically low water levels due to drought conditions across Europe."
+        },
+        {
+          "name": "Correns, France",
+          "lat": 43.4833,
+          "lng": 6.0833,
+          "severity": "yellow",
+          "detail": "Wildfires continue to impact southeastern France, exacerbated by extreme heat."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "The ASEAN secretary-general sounded an alarm on climate risks facing the Southeast Asian region."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.69096,
+          "lng": 9.17646,
+          "severity": "yellow",
+          "detail": "Record temperatures, droughts, and wildfires are imposing significant economic costs across the continent."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "HIV service disruptions in US; Ketamine shortage addressed",
+      "summary": "A nationwide survey revealed widespread HIV service disruptions across 47 US states and Puerto Rico, leading to vulnerable patients falling out of care. In a positive development, the FDA completed its first-cycle review of a preservative-free ketamine application, aiming to address the current shortage and strengthen domestic supply.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "A nationwide survey documented life-threatening HIV service disruptions across 47 states and Puerto Rico, driving vulnerable patients out of care."
+        },
+        {
+          "name": "Miami, Florida, United States",
+          "lat": 25.7617,
+          "lng": -80.1918,
+          "severity": "green",
+          "detail": "The FDA completed a first-cycle review of preservative-free ketamine, with no major drug-related deficiencies, aiming to address a national shortage."
+        },
+        {
+          "name": "Lahore, Pakistan",
+          "lat": 31.5204,
+          "lng": 74.3487,
+          "severity": "green",
+          "detail": "IPH and Jhpiego USA are partnering to strengthen public health systems in the region."
+        },
+        {
+          "name": "Michigan, United States",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "green",
+          "detail": "A Cyclospora outbreak appears to be slowing in Michigan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "China factory output strong, domestic demand weak; Europe climate impact",
+      "summary": "China is experiencing a two-speed economy with strong factory output and exports but weak domestic demand, prompting leaders to pledge accelerated fiscal spending. Concurrently, climate change is imposing hundreds of billions of euros in economic costs on Europe through extreme weather events, affecting various sectors.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's leaders pledged to bolster economic growth by accelerating fiscal spending on infrastructure projects due to strong factory output but weak domestic demand."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.69096,
+          "lng": 9.17646,
+          "severity": "yellow",
+          "detail": "Extreme heatwaves, droughts, and wildfires are inflicting hundreds of billions of euros in economic damage across Europe."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "green",
+          "detail": "Mixed labor market data in the US shows a static job market with job losses offset by hires, and economic growth around 1.5% GDP."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5453,
+          "lng": 56.4907,
+          "severity": "yellow",
+          "detail": "Oil prices rose on uncertainty over the reopening of the Strait of Hormuz, with Iran stating conditions for its reopening."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Philippines is facing challenges in the global race for resources, driven by technology, geopolitics, and climate change."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Zambia elections raise human rights concerns; US social media rules sought",
+      "summary": "Amnesty International has highlighted a growing pattern of authoritarian practices in Zambia, threatening human rights and potentially eroding democratic participation ahead of the August 2026 general elections. In the United States, a bipartisan majority of Americans are demanding tougher government rules for social media companies, including age verification tools, reflecting ongoing concerns about digital governance and its impact on society.",
+      "regions": [
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "Amnesty International warns of an escalating crackdown on human rights, curtailing participation ahead of the August 2026 general elections."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A Reuters/Ipsos survey shows a bipartisan majority of Americans support tougher government rules for social media companies."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "green",
+          "detail": "Russia enacted a new Federal Law on Digital Currencies and Digital Rights, establishing a legal framework for digital asset circulation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The UN Working Group on Arbitrary Detention is scheduled to hold its 106th session from August 31 to September 4."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Reporters Without Borders stated the Taliban have issued over 20 directives to restrict press freedom in five years, weaponizing the legal system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ukraine conflict continues to drive displacement; US pledges aid",
+      "summary": "Four years after the escalation of the Russia-Ukraine armed conflict, civilians continue to bear the heaviest toll, with millions internally displaced or having fled overseas, and acute needs remaining unmet. In a significant move, the United States announced nearly $2 billion in health and humanitarian assistance to faith-based organizations globally.",
+      "regions": [
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "red",
+          "detail": "The ongoing conflict continues to result in lost lives, homes, and loved ones, with 3.7 million internally displaced and 5.9 million having fled overseas."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Egypt called for full and sustained humanitarian assistance to Gaza amidst ongoing conflict."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The U.S. Mission to International Organizations announced nearly $2 billion in health and humanitarian assistance to faith-based organizations globally."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "green",
+          "detail": "The United States announced a historic $2 billion in health and humanitarian assistance to faith-based organizations, strengthening global aid efforts."
+        },
+        {
+          "name": "Philippines",
+          "lat": 12.8797,
+          "lng": 121.774,
+          "severity": "red",
+          "detail": "Journalistic ethics debated in the Philippines regarding sponsored trips to conflict zones, raising concerns about whitewashing war crimes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "redcross.org.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFlJrN_muuPTT4sECY0RELdGtgMAcboKH3SHmB6us3675IaLdsrqXncVwN5QJTfc9uHtoxfJZS0jr9VEBlAUfTbFvkQKZDpSTv3O86IGO8E7bstloZForRwgxIaR-G5O9crxFi04ZBILM83z9muo_GPwOma7TUVt_OUkoUc2DX9PAYX9ZVB9XyZDvLMUyO4FxssjxpmHfUle79ZpjSt3m77JjKwsRYW1SYdIQVKVw9fIDIUHRl"
+        },
+        {
+          "title": "tempo.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2tF46dRlAtsT-2tXOZp10bPAj5fFlsGzazuWvNGzh8EoF9Lzh2UgAY6PewznskD1o8_IRpnnoylGqmrceI6sCK6sP_93GbpXX4Psr7k7BDKkrg6xUwRDS8sIOQD3ZNU7E68ex4mh8TPE82b4aq5S0smhDoiJHX5dvWND-YTgippRVx45n_2XCmbeaRcRZ"
+        },
+        {
+          "title": "thenewdaily.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Pl9IJcOWvr-_4lMVDKvoT6Mxw7y6DTBKWJ_tOM4ITYkfAiqFjnXNDlZQdIqEalmHcxuf71HzrcGD02qGrX-AzxWtsmVNpFuo7I9ncPZHQH9a1rO7IQ6BPIvUv0E9-JSKMgHKXVJRcuDoQHsqz81-Yr2tgJQND_otglgLTxP1KwvdxFevBXZLj-LHzlGImqVu"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUZZyNUYxAp0P6CmNrMJr3ySt3pvF5gBs_hPr4py8cPldRKVyBwlJAOzVlXwunfCU8bzlHHhmqph6kwRA4nLHpyT102kf46d2NKp6mJ5J3ubOO8lGQ-BUIsCRzjiGkj_yo2q1CAg2Ks9NAMdLFkOduudsNMI6rGu8tt8vzBc="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhz880wUY5xMdHOqr6QQjb1x-GGrfBPi2tgnf5Rt9WixDXMAyHC9UpBYVqNCpcYn4aT4eufd21wi18D3zqoB5NZadUYnWeZswoGnCeMpTF13XUOmrhaVTWTO4qzZeDYfgUnHRbDFHZcVjilayToEqkwefNdisJHa7daF7K3XxKaxtaaR1CA4k1hvvheckZcPEZBaKoVuRWx099wg=="
+        }
+      ]
+    }
+  }
+}
