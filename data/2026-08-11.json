@@ -1,0 +1,482 @@
+{
+  "date": "2026-08-11",
+  "timestamp": 1786428940955,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate, Ukraine conflict persists.",
+      "summary": "Geopolitical tensions in the Middle East have significantly escalated with US President Trump demanding compensation from Iran, which is complicating efforts to reopen the Strait of Hormuz. Israel has also rejected a US-brokered Gaza peace plan, while Yemeni Houthi rebels attacked a port. Meanwhile, Russia continues its massive airstrikes on Ukraine, impacting humanitarian aid operations.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US President Trump demanded compensation from Iran, escalating tensions and jeopardizing peace negotiations."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Prime Minister Netanyahu rejected a US-backed Gaza peace plan, insisting Hamas must be disarmed before any Israeli withdrawal."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Yemen's Houthi rebels attacked the government-held port city of Mocha, deepening fears of regional conflict and threats to shipping routes."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine experienced renewed, massive Russian airstrikes, resulting in civilian casualties and damage to infrastructure."
+        },
+        {
+          "name": "Sumy, Ukraine",
+          "lat": 50.9079,
+          "lng": 34.7981,
+          "severity": "red",
+          "detail": "Humanitarian aid offices, including Save The Children, were damaged by aerial bombs, highlighting risks to aid operations."
+        },
+        {
+          "name": "Dnipro, Ukraine",
+          "lat": 48.4647,
+          "lng": 34.9668,
+          "severity": "red",
+          "detail": "A WHO warehouse storing humanitarian supplies was severely damaged following air strikes."
+        },
+        {
+          "name": "Yerevan, Armenia",
+          "lat": 40.1776,
+          "lng": 44.5126,
+          "severity": "green",
+          "detail": "Armenia and Azerbaijan, with US support, hailed progress toward lasting peace in the South Caucasus a year after a summit."
+        },
+        {
+          "name": "Baku, Azerbaijan",
+          "lat": 40.4093,
+          "lng": 49.8671,
+          "severity": "green",
+          "detail": "Azerbaijan and Armenia celebrated a year of progress towards peace and normalization of relations in the South Caucasus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "West Bank demolitions continue; digital rights concerns rise.",
+      "summary": "Israeli occupation forces demolished a Palestinian home and issued demolition orders in the occupied West Bank and Jerusalem, displacing a family. Concerns about digital rights and surveillance are growing in the US, with local communities challenging the use of surveillance cameras. Cambodia has launched new guidelines for identifying human trafficking victims amid ongoing UN concerns.",
+      "regions": [
+        {
+          "name": "Hebron, Palestine",
+          "lat": 31.5303,
+          "lng": 35.0974,
+          "severity": "red",
+          "detail": "Israeli forces demolished a Palestinian home and a sheep barn in Khallet al-Farra, displacing a family."
+        },
+        {
+          "name": "Jerusalem, Palestine",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israeli authorities issued new demolition orders for several Palestinian homes in Wadi al-Hummus and Sur Baher."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.922,
+          "severity": "yellow",
+          "detail": "Cambodia launched guidelines for identifying human trafficking victims, though a UN rapporteur expressed concerns about their effectiveness."
+        },
+        {
+          "name": "Akron, USA",
+          "lat": 41.0814,
+          "lng": -81.519,
+          "severity": "yellow",
+          "detail": "Akron's extensive network of Flock surveillance cameras is part of a controversial national network, raising privacy concerns."
+        },
+        {
+          "name": "Henderson County, USA",
+          "lat": 35.313,
+          "lng": -82.47,
+          "severity": "yellow",
+          "detail": "Citizens are protesting against the proliferation of Flock surveillance cameras, citing privacy violations and potential misuse."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Supreme Court concluded oral arguments on foreign divorce, with a justice asserting that the choice of who to love is a human right."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Civil society groups urged the National Assembly to withdraw a proposed Foreign Aid Bill, warning of potential democratic decline and erosion of constitutional freedoms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global heat records broken; Europe and US face climate crises.",
+      "summary": "The contiguous United States has broken its hottest month record this summer, with intense drought and fire conditions consistent with climate change. Globally, the world's seas hit their hottest temperature on record for July, contributing to marine heatwaves. Europe is experiencing severe heatwaves causing economic losses and disrupting logistics, while Washington state declared a public health emergency due to wildfires.",
+      "regions": [
+        {
+          "name": "Contiguous United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "The contiguous US broke its hottest month record, driven by extremely high temperatures and intense drought."
+        },
+        {
+          "name": "Washington State, USA",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "red",
+          "detail": "The HHS Secretary declared a public health emergency in Washington state due to ongoing wildfires."
+        },
+        {
+          "name": "Western Europe",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "red",
+          "detail": "Devastating heatwaves in western Europe are causing logistics disruptions, productivity declines, and significant economic losses."
+        },
+        {
+          "name": "Pacific Region",
+          "lat": -18.125,
+          "lng": 178.4419,
+          "severity": "yellow",
+          "detail": "Pacific voices are leading discussions on climate adaptation and finance, exploring locally led solutions."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "yellow",
+          "detail": "Warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for disease control."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US vaccine policy changes; Indonesia battles VPD outbreaks.",
+      "summary": "US President Trump signed an executive order promoting a discredited theory of spacing out childhood vaccines, which public health experts warn could increase the risk of vaccine-preventable diseases. In Indonesia, there are ongoing outbreaks of vaccine-preventable diseases like measles, diphtheria, and pertussis, despite efforts to strengthen surveillance. Additionally, climate change is reshaping malaria risk patterns across Africa, posing new challenges for public health.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump signed an executive order advocating for spacing out childhood vaccines, contradicting scientific consensus."
+        },
+        {
+          "name": "Washington State, USA",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "yellow",
+          "detail": "A public health emergency was declared for wildfires, impacting public health through smoke and heat."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia continues to experience outbreaks of vaccine-preventable diseases like measles and pertussis."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "yellow",
+          "detail": "Climate change is altering malaria transmission patterns, making some areas more suitable for the disease."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East tensions hit oil prices; Europe's economy suffers from heatwaves.",
+      "summary": "Asian markets experienced a muted open as Middle East tensions caused oil prices to rise significantly, adding to global inflation concerns. Europe's economy is being severely impacted by heatwaves, leading to logistics and water transportation disruptions, reduced productivity, and fears of growth contraction. Australia's central bank held its key interest rate to counter elevated inflation pressures, indicating ongoing economic challenges.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "Ongoing US-Iran stalemate and threats to the strait are driving up oil prices and causing market uncertainty."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Heatwaves across Europe are severely impacting the economy through disruptions in power, shipping, and public health systems."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "The Reserve Bank of Australia kept its key interest rate unchanged to combat persistent inflation pressures."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Asian markets had a muted opening due to ongoing Middle East tensions and concerns over global inflation."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "JPMorgan raised its S&P 500 target to 8000, citing AI spending as a positive economic factor."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Nigeria's aid bill raises democracy concerns; US primaries highlight divisions.",
+      "summary": "In Nigeria, 90 civil society groups are urging the National Assembly to withdraw a proposed Foreign Aid Bill, warning that its passage could accelerate democratic decline and erode constitutional freedoms. In the United States, primary elections in Wisconsin and Minnesota are showcasing a persistent ideological divide within the Democratic Party.",
+      "regions": [
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "A proposed Foreign Aid Bill is facing strong opposition from civil society groups concerned about its impact on democratic freedoms."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "The Democratic Party's internal battle between moderate and progressive candidates is playing out in the US Senate primary."
+        },
+        {
+          "name": "Madison, USA",
+          "lat": 43.0731,
+          "lng": -89.4012,
+          "severity": "yellow",
+          "detail": "Wisconsin's gubernatorial primary features a progressive candidate, reflecting ongoing ideological clashes within the Democratic Party."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Parliament is supporting a new category in the London International Awards to recognize creative work promoting democracy and human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid under attack in Ukraine; Yemen faces severe water crisis.",
+      "summary": "Humanitarian aid warehouses in Ukraine have come under attack amidst renewed Russian airstrikes, severely disrupting relief efforts. In Yemen, geopolitical conflict is exacerbating water scarcity, threatening humanitarian access to water and deepening the ongoing crisis. The World Food Programme continues to respond to the aftermath of earthquakes in Venezuela, highlighting persistent needs.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ongoing Russian airstrikes are impacting humanitarian aid operations and the safety of aid workers."
+        },
+        {
+          "name": "Sumy, Ukraine",
+          "lat": 50.9079,
+          "lng": 34.7981,
+          "severity": "red",
+          "detail": "An NGO office was damaged by an aerial bomb, marking a direct hit on humanitarian facilities."
+        },
+        {
+          "name": "Dnipro, Ukraine",
+          "lat": 48.4647,
+          "lng": 34.9668,
+          "severity": "red",
+          "detail": "A WHO warehouse suffered severe damage following air strikes, threatening the distribution of vital supplies."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Geopolitical conflict is severely threatening humanitarian access to water, exacerbating an already critical water scarcity issue."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The World Food Programme is actively responding to the humanitarian needs following recent earthquakes."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Civil society groups expressed concerns that a proposed Foreign Aid Bill could negatively impact humanitarian organizations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUz8homd26STCv7Js6-uOlf8QMwPSquQCfrABEKSslboOOlIZcuI04PeE9_J9RUuh3uyZpjPNxmre_dn67A24-S1P8C8vhRyjCL4wCJzfmPRbwYELIjVR8_Tlcl7MplFI8mkLcla9BH92XUD7HtdX09heGWj56yBNG0z37F2gZrL1C6CcA4HaeK2AQBYSN4nTbltql6Lq_eZc47M3dVz0rCdc1L5g8hRjwg=="
+        },
+        {
+          "title": "tribune.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsseHdy8AXJfkwooXuszYOuPxtFEeVI0WnL8rZxF4MggZL4J_8UTAOyNlxTKhd2KmNxFFv4HpzOwY3c95rJgopUla1ye-zdLy6_CvIFvj2yZOMwF-SpFIU_0qcXDQHJu1UlffDE2vjDxVymBCXXhupBCrAYsnJfCkEnAj88OVq88c="
+        },
+        {
+          "title": "manilatimes.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MLfgSvbAKztVZUEi5w4mRIlTtQ0QTs40Q7fEeroSSfbpHYlWVdER8DX7WZxrio2YRelUh1pB8BrPf7sWpXlSGnrY5aKOyd6Pt_jdrO1EhBYTDZpQw9P8hFiOZUSosciSJvkz29uGdnq7DKA2yUsS6Bl_VOUEl2o_g7SLD0wjx4jaX0lVAaimyulmUUeuy2CiaRqAvfdslOXQjozRy5Jl70I="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOwAiKXucc-kTqkAoZkCnDWBwGwMSXnl3bbE98qyZrcOMApv8niAA_NZLfvlR8MdH3QQSKz_EpgYVUuy5JYNZKw2dkhzsxw2-AKxIPVPWvAnKOFVPZasM7ajomYNA48-Fu02WWiyeAmCw7_r3AYN78AC4anZEKi3sJmf8EFqPLuDEonKD_20LOH8joe26dbRCQCnWQLI0Lsg6Ei6l3nbe7ib28g=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ4QYpxURE-4sbd5X2YNiVhMsggbXOh18vjyrKnd5t9nfJ9vl3G4Hf7JVDKCLOfPGPnfc5JWnT11dhOuDKTOr83KPPnM5jCXtSyWnBtEP3ah19UUWcNvbrKzYIbzQ2V8-evmkQ8MgPnNbp8wl7fb4QxtZB3H-1Y5xu6HybYuTdxI2E-0zT8b4Q_EPPBQNI3ds8x4mobDp2QzxwLxHDyVtQDMEpeOfVXP2V-OsC7Qx8oUMHEeaOHUR1aeAzHjM1MFcH0o-g_g=="
+        }
+      ]
+    }
+  }
+}
