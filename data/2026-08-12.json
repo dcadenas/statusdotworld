@@ -1,0 +1,482 @@
+{
+  "date": "2026-08-12",
+  "timestamp": 1786515948335,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global Conflicts Escalate; US Engages Iran, Ukraine War Widens",
+      "summary": "Military actions continue between the US and Iran, with the US disabling a ship violating a naval blockade and Iran claiming victories. Concurrently, the conflict in Ukraine has intensified, leading to increased civilian casualties a year after failed peace efforts. Attacks on humanitarian workers are surging in conflict zones, severely hindering aid delivery.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Foreign Minister asserted the country's strength in the ongoing conflict against the US and Israel."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US military disabled a ship attempting to violate a naval blockade on Iranian ports, marking ongoing military engagement."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The conflict in Ukraine has escalated a year after diplomatic initiatives failed, leading to more civilian deaths."
+        },
+        {
+          "name": "East Darfur, Sudan",
+          "lat": 10.95,
+          "lng": 27.2833,
+          "severity": "red",
+          "detail": "A drone attack on Ed-Dain Teaching Hospital reportedly killed at least 64 people, including children and healthcare workers."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "yellow",
+          "detail": "A US peace plan for Gaza is still operative amidst ongoing regional tensions."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "red",
+          "detail": "Israel initiated a war against Iran last year to degrade its nuclear and ballistic missile programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "ICC Sanctions Spark Lawsuit, AI & Surveillance Risks Grow Globally",
+      "summary": "Several US human rights groups have sued the Trump administration over sanctions targeting the International Criminal Court, arguing they unlawfully restrict justice for war crimes. Concerns about digital rights and privacy are intensifying as ordinary WiFi can identify individuals with near-perfect accuracy, and AI safety risks, including models creating viruses, prompt calls for development freezes. A major data breach affecting 3.8 million individuals also highlights significant tech privacy violations.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Human rights groups filed a lawsuit challenging US sanctions on the International Criminal Court, citing violations of laws including First Amendment free speech protections."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "yellow",
+          "detail": "The International Criminal Court is the target of US sanctions, impacting its ability to pursue justice for war crimes."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Senator Bernie Sanders urged leading AI companies to freeze development, warning of disastrous consequences from uncontrolled models."
+        },
+        {
+          "name": "Karlsruhe, Germany",
+          "lat": 49.0069,
+          "lng": 8.4037,
+          "severity": "yellow",
+          "detail": "Researchers demonstrated that ordinary WiFi networks can become powerful surveillance tools by identifying people with near-perfect accuracy."
+        },
+        {
+          "name": "Cleveland, USA",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "yellow",
+          "detail": "The city is embracing police surveillance technology including license plate readers, gunshot detection, and drones, raising privacy concerns."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "A new federal law on digital currencies and digital rights establishes a legal framework but also allows for restricting money transfers and payments for unlawful circulation."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "The SFC took enforcement action against a firm for cybersecurity deficiencies, highlighting ongoing digital security issues."
+        },
+        {
+          "name": "Montgomery, Ohio, USA",
+          "lat": 39.2662,
+          "lng": -84.3499,
+          "severity": "red",
+          "detail": "Unlimited Technology Systems is notifying over 3.8 million individuals of a data breach that exposed personal and health insurance information."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record Heatwaves Scorch Europe and US Amid Accelerating Climate Crisis",
+      "summary": "Extreme heat is becoming more frequent and intense globally, with Europe enduring its fifth heatwave this summer, marked by drought, wildfires, and record temperatures. The US also experienced its hottest July in 132 years, signaling a worsening climate crisis. A prolonged drought in Somalia continues to displace thousands and deepen hunger, exacerbated by shrinking humanitarian aid.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UN weather agency reported that periods of extreme heat are becoming more frequent, intense, and longer-lasting as the planet warms."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Western Europe experienced its hottest June-July on record, driven by successive heatwaves and scorching temperatures."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Americans just endured the hottest month in 132 years in July, with average temperatures significantly above the 20th-century average."
+        },
+        {
+          "name": "Baidoa, Somalia",
+          "lat": 3.1167,
+          "lng": 43.65,
+          "severity": "red",
+          "detail": "Thousands of people are fleeing years of drought, conflict, and economic pressures, leading to a deepening humanitarian emergency and rising hunger."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "red",
+          "detail": "Parts of Europe are enduring their fifth heatwave of a summer marked by drought, wildfires, and record-breaking temperatures."
+        },
+        {
+          "name": "Lisbon, Portugal",
+          "lat": 38.7223,
+          "lng": -9.1393,
+          "severity": "red",
+          "detail": "Europe is warming twice as fast as any other continent, with tens of thousands of heatwave deaths this summer."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola Outbreak Fastest Spreading, US Vaccine Policy Raises Concerns",
+      "summary": "The Democratic Republic of Congo is grappling with its fastest-spreading Ebola outbreak on record, with confirmed cases surpassing 4,000 and over 2,000 deaths. In the US, a new vaccine order by President Trump, advocating for separated and spaced-out childhood immunizations, has drawn criticism from doctors who warn it will raise fears, cause confusion, and endanger children. Efforts are underway in Texas to combat the West Nile Virus with ground spraying in affected areas.",
+      "regions": [
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Democratic Republic of Congo is experiencing its fastest-spreading Ebola outbreak on record, with over 4,000 cases and 2,000 deaths."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Doctors are warning that President Trump's new executive order on vaccines will raise fears and endanger children."
+        },
+        {
+          "name": "Arlington, Texas, USA",
+          "lat": 32.7357,
+          "lng": -97.1081,
+          "severity": "yellow",
+          "detail": "The City of Arlington is conducting targeted ground spraying to reduce West Nile Virus-infected mosquito populations after positive samples were found."
+        },
+        {
+          "name": "Cleveland, Ohio, USA",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "yellow",
+          "detail": "A new study reveals that social disadvantage significantly amplifies the risk of mortality in women with early menopause."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "China Deflation Woes, Global Youth Unemployment Rises, US Inflation Policy Dilemma",
+      "summary": "China is struggling with deflation, as consumer price growth slowed for the third consecutive month, impacting manufacturers' profit margins. Globally, youth unemployment rates rose last year, with significant increases in North Africa, North America, and parts of Europe, highlighting persistent labor market challenges. In the US, the economy faces a policy dilemma with stalled employment growth conflicting with rising oil prices and inflation pressures from tariffs, fiscal deficits, defense spending, and AI investment.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's consumer prices rose just 0.5% in July, the slowest pace in six months, indicating a faltering battle against deflation."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US economy is navigating conflicting signals of stalled employment growth and rising inflation pressures from various factors including AI investment and defense spending."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN reported a rise in the world youth unemployment rate last year, with particular increases in several regions."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japanese media criticized a joint US-Japan market intervention to counter the weak yen, labeling it a 'currency defeat'."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Europe is noted as a region with increases in youth unemployment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Admin Faces Lawsuit Over ICC Sanctions, Challenging Rule of Law",
+      "summary": "Four American human rights organizations have filed a lawsuit against the Trump administration, challenging its sanctions on the International Criminal Court. They argue these measures constitute an unlawful abuse of power and a direct attack on the rule of law, undermining the ability to pursue justice for war crimes. This legal action highlights significant concerns regarding executive authority and the independence of international judicial bodies.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A lawsuit was filed here by human rights groups against the Trump administration over its sanctions targeting the International Criminal Court."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration's executive order authorizing sanctions on ICC officials is at the center of a legal challenge regarding the rule of law."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "yellow",
+          "detail": "The International Criminal Court's work is being impacted by US sanctions, which human rights groups are fighting in court."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Union previously urged the US to reverse penalties against ICC officials."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid Worker Attacks Soar, Somalia Drought Deepens, Colombia Quake Response Ongoing",
+      "summary": "Attacks on humanitarian workers are surging globally, driven by new armed conflict tactics including drone threats, severing life-saving aid to children in regions like Sudan and Ukraine. In Somalia, a years-long drought is pushing millions into emergency levels of food insecurity as humanitarian funding dwindles. Meanwhile, the response to a deadly 7.4 magnitude earthquake in Colombia continues, with thousands injured and displaced, and significant needs for supplies.",
+      "regions": [
+        {
+          "name": "East Darfur, Sudan",
+          "lat": 10.95,
+          "lng": 27.2833,
+          "severity": "red",
+          "detail": "A drone attack on a hospital killed dozens, highlighting the severe risks faced by humanitarian operations in conflict zones."
+        },
+        {
+          "name": "Baidoa, Somalia",
+          "lat": 3.1167,
+          "lng": 43.65,
+          "severity": "red",
+          "detail": "Thousands are fleeing drought conditions and facing emergency levels of food insecurity as humanitarian aid shrinks."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "red",
+          "detail": "A deadly 7.4 magnitude earthquake has caused widespread damage, killing hundreds and injuring thousands, with ongoing humanitarian needs."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Humanitarian access and aid worker safety are being challenged by changing conflict tactics, including the use of drones."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "World Vision is calling for greater protection and accountability for aid workers amid new conflict tactics."
+        },
+        {
+          "name": "Cali, Colombia",
+          "lat": 3.4516,
+          "lng": -76.532,
+          "severity": "red",
+          "detail": "The earthquake caused significant damage, including the collapse of a hospital wing, disrupting healthcare services and increasing needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuQDjz4BpajiL2k8iwwyex9rs2gkFsnTM3lJt5SdCaeR-0vxm2M_uHGXMXmvGu9o6gaynj71TNn1GTxlXMpc_MsGbMo_UazM6qcSLOqDzBwkRE78imq4bD82ks8AahAsKnvBbA7NM6to5JAzQ-avof7CRGaR7-tkn7VxFP5TA795JsQUOcDxWg1e7uBXa3TumgUKlSnSbVwvtLRU="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKVok7ksJzEwMUfbbFDkCHhe26cNU2FRlCyb8IUyux2fM0Pa12KuZufxPQkWxXsyhChXfd0vgJB242NzqpU2UdouoQ-tvUvhhE-bgNcq9cs8a9SycEzQA1ykXCuk00VuWsXIPwjD1e2RTkDS3yzgFfnE-F5fbOZfaT6nG_nyTG3rYv9GQZe0PpEJEzvBzsLVSqCIwOl_w9EuirxKYN-cslwQ="
+        },
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsGr0rSmoU-bqXHbK8haBr3tzKP9XM3xMT4pu7odOEgCNmHwQTM1t4pvNBGtDYws2T-7awiFLEvs7nPdDkm09E6p--DZ6s6QBZ3x9KY19bSkE9Yktg2nuldMwNidE8L2kzRTpGz_6q-pk06ntWz9TUH-8lyGP_f_lgEX6QxhnriAKEUautKjU5xFxxv-rxqR57jzhlFBLcK3eHpLS6JIgscEc746GKdl8gxlMqn9KbSo-pJTptaT3ktoZtntVcdGdCjQF-vQ8-UVRhlescmRN-X0sW8qEOg=="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw9g8uDCgM3J9qNimFPvMzrV3bKxEnNr7dCI3lXf4wwWqZRSU_MjUf_bkJlMxZBwjeZrm8oF6wOyQgbeMnt2DFeFDH4T_KMrhTydzKyq_8iwViXtkrCajApd-vBqGhzi6a_afxEfQMD50u_wyTnPiyA3-IUyOhQdOgJfKgyfu1cvXRhTxGUuebwEczbkeuGY_f2oo1rgKhPJRvh4QRXWyLQUwzCpjwFdEacVrWT1zvLS4KQtO8nyNTIvVwXET6m7828Ac1RRLc-g3ngw=="
+        },
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtbl-mPe3DzMjahKiv24_z7Nnn3cMD6xPDsHS6jp3Csxy-YE2m_b4QKgNrmCo7Zg6FKkkhibREGEhjdnNrVzRq1Gilkv9PN0zYd9WxJHda1N6j8-vkQT55boMCSIft06GRwiPXyFiO7MQt18KxagVesaNu2Qgpp6vRWBK7KidrfGUTJVPtrCxVwbRXlGQHz84Lg=="
+        }
+      ]
+    }
+  }
+}
