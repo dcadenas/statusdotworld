@@ -1,0 +1,391 @@
+{
+  "date": "2026-08-13",
+  "timestamp": 1786602406392,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Geopolitical Tensions Escalate in Middle East, Ukraine Gains Territory",
+      "summary": "Geopolitical tensions in the Middle East remain high with ongoing conflict in the Strait of Hormuz and Red Sea, alongside Israeli military presence in Lebanon, Syria, and Gaza. Meanwhile, Ukrainian forces have reported recapturing significant territory from Russian-occupied land in a key sector.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US maintains control over the Strait of Hormuz amidst an ongoing conflict with Iran, impacting global shipping."
+        },
+        {
+          "name": "Red Sea",
+          "lat": 19.6,
+          "lng": 39.5,
+          "severity": "red",
+          "detail": "Six people were killed on a vessel in the Red Sea due to attacks by Iran-backed Houthi rebels."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.83,
+          "lng": 35.17,
+          "severity": "yellow",
+          "detail": "Ukrainian forces have recaptured 745 sq km of Russian-occupied land in a key sector, including parts of the Zaporizhzhia region."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "Israel's Defence Minister vowed troops to stay in Lebanon, Syria, and Gaza, while Lebanon condemned 'systematic' Israeli destruction in the south."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "Israeli Defence Minister affirmed troops would remain in Gaza, amidst ongoing conflict in the broader region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "US Civil Rights Enforcement Gutted; AI-Assisted Cyberattacks in Taiwan",
+      "summary": "A Human Rights Watch report reveals that the Trump administration has severely undermined federal civil rights enforcement in the United States, dismantling agencies and leaving discrimination victims without adequate remedies. Concurrently, Taiwan has reported AI-assisted cyberattacks on government agencies, raising concerns about digital rights and state-sponsored surveillance.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Federal civil rights enforcement agencies in the United States have been gutted under the current administration, impacting protections for various communities."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan detected AI-assisted cyberattacks on government agencies originating from overseas, posing a new kind of digital threat."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "yellow",
+          "detail": "Over 30 nations, including France, condemned Iran's use of capital punishment against protesters, while Iran's Foreign Minister accused France of hypocrisy."
+        },
+        {
+          "name": "West Papua, Indonesia",
+          "lat": -4,
+          "lng": 137,
+          "severity": "yellow",
+          "detail": "West Papuans continue to face oppression, arrests, and intimidation for protesting human rights abuses under Indonesian rule."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Oil Spill Reaches Oman Coast, Highlighting Environmental Risk",
+      "summary": "An oil spill from a grounded tanker has reached the coastline of Oman, endangering nearby islands and beaches. This incident underscores the ongoing environmental risks associated with global shipping and fossil fuel reliance, despite no major new extreme weather events being reported globally today.",
+      "regions": [
+        {
+          "name": "Oman Coast",
+          "lat": 20,
+          "lng": 58,
+          "severity": "red",
+          "detail": "Oil leaking from the sanctioned tanker Caroline Bezengi, believed to be part of Russia's 'shadow fleet', has reached Oman's coastline."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola Outbreak Worsens in DRC; US Cuts Childhood Vaccine Recommendations",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo is on track to become the deadliest ever, with over 4,300 cases and 2,000 deaths reported, primarily due to the untreatable Bundibugyo species. Simultaneously, public health officials in the US are raising concerns after the President signed an executive order lowering the number of recommended childhood vaccines, potentially increasing disease risk.",
+      "regions": [
+        {
+          "name": "Bunia, DR Congo",
+          "lat": 1.5667,
+          "lng": 30.2,
+          "severity": "red",
+          "detail": "The Ebola outbreak in the Democratic Republic of Congo is escalating, with health workers only reaching about 30% of cases in affected regions like Bunia."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US President signed an executive order lowering the number of recommended childhood vaccines, drawing concerns from public health officials."
+        },
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.979,
+          "lng": -77.6415,
+          "severity": "yellow",
+          "detail": "Public health officials in Pennsylvania are concerned about the federal order to reduce recommended childhood vaccines, stating their guidance will remain based on medical science."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8053,
+          "lng": 96.1561,
+          "severity": "yellow",
+          "detail": "A diarrhea outbreak has hit six townships in Yangon, leading to temporary closures of roadside food stalls and rising patient numbers."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The FDA is tracking 17 active foodborne illness outbreaks across the United States, accounting for over 7,300 illnesses."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Markets Mixed Amid Geopolitical Concerns; US Inflation Eases",
+      "summary": "Global stock markets showed mixed performance, with Asian markets trading higher while US futures were mixed, influenced by ongoing geopolitical uncertainties, particularly the US-Iran conflict. However, US inflation data for July 2026 came in line with expectations, with the annual inflation rate slowing, providing some relief to concerns about interest rate hikes.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "US stock futures traded mixed despite a softer-than-expected CPI inflation reading for July 2026."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "green",
+          "detail": "India's Nifty index was slightly down, while Sensex was marginally up in early trade, with overall Asian markets showing positive cues."
+        },
+        {
+          "name": "South Korea",
+          "lat": 35.9078,
+          "lng": 127.7669,
+          "severity": "green",
+          "detail": "South Korea's Kospi surged by nearly 5% following a benign US inflation print, leading a rally across Asian markets."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Elevated crude oil prices due to the unresolved US-Iran standoff in the Strait of Hormuz continue to impact global investor sentiment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Concerns Over US Democracy Decline & Taiwan's Internal Political Crisis",
+      "summary": "Human Rights Watch highlights a decline in US democracy under the Trump administration, citing efforts to gut civil rights enforcement and undermine the Justice Department. Meanwhile, The Economist warns that opposition politicians are 'taking Taiwan's democracy hostage' through legislative obstruction, raising concerns about internal political stability amidst external threats.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported on the decline of US democracy, with federal civil rights enforcement being severely weakened."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "The Economist warned that opposition politicians are creating a 'rolling constitutional crisis' by obstructing governance, potentially weakening Taiwan's democratic resilience."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "green",
+          "detail": "Democrats are gathering in Austin to finalize their 2028 presidential primary calendar, amidst internal party turmoil and ahead of crucial midterm elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid Response to Colombia Earthquake; USAID Cuts Impact Nepal",
+      "summary": "International humanitarian aid is being mobilized for Colombia following a devastating earthquake that killed over 200 and injured 2,500 people, with countries like South Korea and Mexico providing assistance. Concurrently, reports indicate that US foreign aid cuts have led to increased pregnancy complications and deaths in rural Nepal due to disruptions in health programs.",
+      "regions": [
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "red",
+          "detail": "Colombia is receiving international humanitarian assistance, including from South Korea and Mexico, following a devastating earthquake that caused significant casualties and damage."
+        },
+        {
+          "name": "Gaur, Nepal",
+          "lat": 26.7758,
+          "lng": 85.2766,
+          "severity": "yellow",
+          "detail": "US foreign aid cuts have disrupted nutrition and reproductive health programs in rural Nepal, leading to increased pregnancy complications and deaths."
+        },
+        {
+          "name": "Amhara, Ethiopia",
+          "lat": 11.6967,
+          "lng": 37.9575,
+          "severity": "yellow",
+          "detail": "A new IRC program launched in partnership with the LEGO Foundation aims to provide education to over 150,000 conflict-affected children in Ethiopia's Amhara and Tigray regions."
+        },
+        {
+          "name": "Tigray, Ethiopia",
+          "lat": 13.5228,
+          "lng": 39.0689,
+          "severity": "yellow",
+          "detail": "Children in Tigray, impacted by conflict and poverty, will benefit from a new educational program designed to support their learning and development."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXjNrv_JIBYCUuA_8q9idRztUqWxJYr_tOdZENHWzyKiaoFRcQMgJmaVSqupmTGELTa3hItmKJSkPC77gpv1xmFuv4GTbpOJ4kvKn4L997N7Rj756sYVhbx-Wm-ujutoqD4Otew0UgklTpYLgzV063T6-m-omLOfS9PnXHTkSMmsOjQq4ThHdGAIsWH7Rqf7-kpu9BVP_wfmDPPGlTww9ZJ6OXWfOnLuTfahgWQZHTbwQyz2dm7BSv"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_JEnBCdDNzkYO2xbAaA7D3HUfePeIJGMfWbwEUn_MG9181OVnB8NFqJ5mJ-lrIrCH0dmL1pcV6uvggkN2wrr7ELV23TCcaLzqiAnqd0xO8cnWx9phqGUAAgdpK94_cS-b5FJFTidearmHToVlwWGgQBUFUpxxH-g1it2L9ii_Bn15VqfwQLcSVeC5uqEGkFvU9j8OwdzPYB-bDE-44qsbP-VWwlEVw5w4Q=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTX6pwo0cnMk4uALqXJmmDd-klzKLJ9P77VOC9uM8F2su3PjW0c-mSSeK88R1kh1_9gbQeMb6gO1FzCsI2iEl76I8e_uli3Ao8jUXDquPFP2p4hPU_xC_ZhNmgJbGdFv5ZXpVTYunge3XKFTdyFh3sL6T550sP8BQSDaMBn6nVVN-MLHeJEQu8LqkeOZhWt-YaSgcXAORQrflzsD4QZELoweRn1JjGI8HsLMJgDnYkaB6bYGC1hKfDLw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAA8xLeVLZF8ByoF5vp6TZ52Taagjgyqkq8srA7xrGb6ZToNopPmaoKC4c1-qbkYpebms-_tSFMtYwHobCElYo2N5ATSMbIZWnf5X3rfmwewJxIArC1Vrx4Ar5isxvIPCQwsJv9-tSM-CbI0P_kgY3Y0oZfriWHmoTSHqM39dtx8yAtvFuKIi0F0QZKPrIVWG--sW8Wtw5LLPNDJxN"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEv2nAQj9VOXMiGOTD5bVZXsQYx9UTzTp5osi6hryfSaC3M2k4WqHp2JP4DM4yxIA_66ldwaO-LtvvqMUbwrRsSqZggxikxw_M3NrPO2iVZlCgWj7o9EnTOOs0BHERRIVKYbkP7Vh-kjNZVl8oEQpuw7oNO4w6m4kVyJtHVrK5ZM05IDxMMEJkiC1NmCLqT04sc2DLhTE5okVJ6yWaBeD4VrX2_IFaVLn3OmFyqMFEKxh7ZH1Wo4lweMhraCUE2UEyLUvtcw-f2KPtbcLCzNTcS1Ss3NXIXiSGKoe8TyJp7MOIMs5qY4OcjR9CfhazXcshKb1DwRaJ_eUkNjH-n3bJGxKZRPg8nkEpw=="
+        }
+      ]
+    }
+  }
+}
