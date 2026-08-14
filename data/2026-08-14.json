@@ -1,0 +1,524 @@
+{
+  "date": "2026-08-14",
+  "timestamp": 1786688786146,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US threatens Iran naval blockade; conflicts escalate in Gaza, Yemen, Sudan, and Pakistan.",
+      "summary": "The global situation is marked by escalating tensions, particularly with the US threatening an indefinite naval blockade of Iran amidst failed ceasefire talks and attacks on oil vessels in the Strait of Hormuz. Conflicts continue in the Gaza Strip with an Israeli drone strike and West Bank curfews, in Yemen with Houthi attacks, and in Sudan with ongoing clashes. Pakistan also faces severe terrorism, partly linked to regional instability and the 2026 Pakistan-Afghanistan war.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Iran/UAE",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US threatens an indefinite naval blockade, and attacks on two oil vessels have occurred, significantly impacting global oil supply and raising regional tensions."
+        },
+        {
+          "name": "Khan Younis, Gaza Strip, Palestine",
+          "lat": 31.3283,
+          "lng": 34.3044,
+          "severity": "red",
+          "detail": "An Israeli drone strike killed a Palestinian despite an existing truce, exacerbating the humanitarian and security situation."
+        },
+        {
+          "name": "Qusra, West Bank, Palestine",
+          "lat": 32.1281,
+          "lng": 35.2917,
+          "severity": "yellow",
+          "detail": "The Israeli army imposed a curfew on the town amidst mounting tensions and continued siege of Palestinian families by Israeli occupiers."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "A Houthi drone attack on a military camp killed two people and injured 15, highlighting the ongoing civil war and instability."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Conflict between the Sudanese Armed Forces and Rapid Support Forces continues to be a primary driver of acute food crises and widespread displacement."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Five years after the Taliban takeover, the country faces record humanitarian needs, partly due to the ongoing Pakistan-Afghanistan war."
+        },
+        {
+          "name": "Kramatorsk, Ukraine",
+          "lat": 48.7391,
+          "lng": 37.5849,
+          "severity": "red",
+          "detail": "The battle for this city will likely decide the end of Russia's invasion of Ukraine, with fighting continuing five years into the war."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "Pakistan is experiencing one of its deadliest years for terrorism-related deaths, exacerbated by regional conflicts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety, digital rights, and tech privacy under intense global scrutiny.",
+      "summary": "Significant developments in human rights on August 14, 2026, include the UK clearing an AI safety bill, and a Google DeepMind pioneer advocating for an independent AI safety body to set standards. Tech privacy remains a concern with Taiwan targeted by an AI-driven hacking campaign, a surveillance company (Flock Safety) making changes due to privacy concerns and misuse, and Meta facing multiple state lawsuits over addictive app designs and harm to young users.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK's AI Regulation and Safety Bill cleared the House of Commons, formalizing powers to inspect foundation AI models for safety."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Government agencies were targeted in an AI-driven hacking campaign that compromised user accounts and extracted personnel records."
+        },
+        {
+          "name": "Richmond, Virginia, USA",
+          "lat": 37.5407,
+          "lng": -77.436,
+          "severity": "yellow",
+          "detail": "Flock Safety, a surveillance technology company, announced changes to its license plate reader network to address privacy concerns and documented abuses by law enforcement."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House is inviting AI companies to review its new AI safety framework for voluntary submission of frontier models for testing."
+        },
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "Crypto firm Trezor announced a data breach affecting thousands of clients in several countries, exposing personal information."
+        },
+        {
+          "name": "Menlo Park, California, USA",
+          "lat": 37.4529,
+          "lng": -122.1817,
+          "severity": "yellow",
+          "detail": "Meta (headquartered here) faces a major lawsuit from 29 states over allegations that its apps are addictive and have harmed young users."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Historic El Niño, record heat, and deadly floods grip the globe.",
+      "summary": "August 14, 2026, marks a day of severe climate impacts globally, with record rainfall causing four deaths and stranding thousands in Japan's Chiba prefecture. Experts warn of a 69% chance of a historic El Niño event set to intensify, contributing to 2026 likely being the hottest year on record, while Western Europe has already experienced its hottest summer. Additionally, India faces severe monsoon floods, Romania's Danube River is at a record low due to drought, and Nigeria is experiencing floods and landslides.",
+      "regions": [
+        {
+          "name": "Chiba, Japan",
+          "lat": 35.6049,
+          "lng": 140.1235,
+          "severity": "red",
+          "detail": "Record rainfall killed at least four people, stranded thousands, and left over 22,000 households without power during a busy holiday week."
+        },
+        {
+          "name": "Eastern Tropical Pacific Ocean",
+          "lat": 0,
+          "lng": -120,
+          "severity": "red",
+          "detail": "The US Climate Prediction Center reports a 69% chance of a historic El Niño event building in the Pacific, expected to intensify and bring widespread extreme weather."
+        },
+        {
+          "name": "Western Europe",
+          "lat": 50,
+          "lng": 5,
+          "severity": "yellow",
+          "detail": "The summer of 2026 has been confirmed as the hottest on record in Western Europe, with June and July experiencing exceptionally high temperatures."
+        },
+        {
+          "name": "Guwahati, Assam, India",
+          "lat": 26.1445,
+          "lng": 91.7362,
+          "severity": "red",
+          "detail": "India's severe monsoon season has caused widespread flooding and over 100 deaths since July, with more than 2,600 villages flooded in Assam alone."
+        },
+        {
+          "name": "Braila, Romania",
+          "lat": 45.2818,
+          "lng": 27.9647,
+          "severity": "yellow",
+          "detail": "The country's last nuclear reactor was shut down as the Danube river dropped to a record low due to drought."
+        },
+        {
+          "name": "Calabar, Nigeria",
+          "lat": 4.9664,
+          "lng": 8.3248,
+          "severity": "red",
+          "detail": "Weeks of continuous, unprecedented torrential rainfall have triggered devastating landslides and severe flooding across multiple locations."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California continues to experience persistent challenges with drought conditions and an elevated risk of wildfires."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak spreads in Congo; US vaccine policy sparks controversy.",
+      "summary": "Public health faces significant challenges on August 14, 2026, including Congo's fastest-growing Ebola outbreak spreading to a sixth province with over 2,100 deaths. In the US, President Trump's executive order to overhaul childhood vaccinations, separating combination shots and affecting exemptions, draws strong condemnation from health experts amidst a returning measles epidemic and the largest-ever cyclosporiasis outbreak. On a positive note, a Lyme disease vaccine candidate was validated by the European Medicines Agency.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country's fastest-growing Ebola outbreak has spread to a sixth province, Bas-Uele, and has killed over 2,128 people out of 4,566 confirmed cases."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump signed an executive order aimed at major changes to federal vaccine policy, including separating combination shots, drawing condemnation from public health experts."
+        },
+        {
+          "name": "United States (general)",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The largest known cyclosporiasis outbreak has expanded to 15 states, sickening 6,358 people with two deaths, and a measles epidemic is returning."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "Public and private studies indicate that rising healthcare costs, driven by hospital, physician, and specialty drug prices, are threatening retiree health insurance benefits."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "Gavi, the Vaccine Alliance, headquartered here, welcomed a recommendation to include the existing Ebola vaccine in clinical trials for Bundibugyo virus disease."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran blockade threat, oil supply concerns, and regional economic challenges.",
+      "summary": "The global economy faces significant strain due to the US threatening an indefinite naval blockade of Iran amidst failed ceasefire talks and attacks on oil vessels in the Strait of Hormuz, causing a projected 4% drop in global oil supply. Lebanon and Syria are attempting an economic reset as Lebanon grapples with multiple crises exacerbated by the US-Iran conflict and global economic deterioration. Trade tensions also rise with the US weighing penalties against India and China over tariff evasion.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Iran/UAE",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US threat of an indefinite naval blockade and attacks on oil vessels here are significantly impacting global oil supply and shipping traffic."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Engulfed in a cycle of crises, Lebanon needs vast capital to rebuild its devastated south and relaunch its gutted economy, disproportionately affected by the US-Iran war and global economic deterioration."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.513,
+          "lng": 36.2916,
+          "severity": "yellow",
+          "detail": "Syria and Lebanon have agreed on measures to revive economic ties, with a bilateral investment conference planned for the autumn."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House is weighing anti-transhipment penalties, claiming it's losing billions annually due to India helping China evade US tariffs."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US Retail Sales data for July was among the key economic releases for today, influencing global financial markets."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU GDP 2nd Estimate for Q2 was released today, providing insights into the economic health of the European Union."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Fitch's credit rating review on the UK was a scheduled event today with genuine tail risk for gilts and sterling."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democratic health challenged by conflict, instability, and authoritarian policies.",
+      "summary": "Democratic health globally is challenged by persistent conflicts and political instability, with Afghanistan entering its fifth year under Taliban control, leading to severe humanitarian needs and denial of girls' education. Sudan continues to be destabilized by the conflict between its armed forces and rapid support forces, while in Myanmar, ongoing conflict and funding shortfalls for aid highlight governance issues. Lebanon also struggles with political deadlock, hindering crucial reforms, and concerns about democratic freedoms persist in places like Hong Kong.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Five years since the Taliban took control, nearly half the population is in crisis, and more than 2.6 million girls have been denied a secondary education."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The ongoing conflict between the Sudanese Armed Forces and Rapid Support Forces continues to destabilize the country and impact governance."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "yellow",
+          "detail": "Ongoing conflict and UN reports of severe funding shortages affecting local aid groups highlight persistent governance issues."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Political deadlock continues to hinder crucial reforms, preventing the country from attracting needed capital investments."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Concerns about the erosion of democratic freedoms and autonomy persist under national security laws."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "The country is grappling with high-volume, high-fatality terrorism attacks, testing the capacity of the state."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid cuts deepen crises in Afghanistan, Sudan, Gaza amid rising needs.",
+      "summary": "Humanitarian crises are escalating on August 14, 2026, with Afghanistan facing record-high needs five years after the Taliban takeover, but global aid cuts are forcing organizations to scale back crucial services. Sudan is at a breaking point, with nearly 39,000 displaced children and alarming rates of malnutrition, while the Gaza Strip faces mounting operational challenges for aid delivery amidst prolonged shortages and significant casualties. Furthermore, a developing El Niño threatens millions across Africa, Asia, Latin America, and the Middle East with worsening hunger and displacement.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Five years after the Taliban takeover, nearly half the population is in crisis, and global aid cuts have forced the IRC to scale back nutrition and maternal health services."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1754,
+          "lng": 30.2227,
+          "severity": "red",
+          "detail": "Nearly 39,000 displaced children have arrived in the city in six months, with a significant increase in child malnutrition and severe food and water shortages."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "UNRWA and other humanitarian actors face mounting operational challenges, including prolonged shortages of essential supplies, affecting critical service delivery amid high casualties."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8409,
+          "lng": 96.1735,
+          "severity": "red",
+          "detail": "The EU is providing an additional €10.5 million in humanitarian aid for conflict-affected people, but UN reports highlight severe funding shortages for local aid groups."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Norway has allocated NOK 10 million in humanitarian aid to support local earthquake response efforts."
+        },
+        {
+          "name": "Sahel Region, Africa",
+          "lat": 16,
+          "lng": 5,
+          "severity": "red",
+          "detail": "Millions across Africa, Asia, Latin America, and the Middle East face worsening hunger, disease outbreaks, and forced displacement due to a major developing El Niño."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDBhh2OosbYvuZek2hsORuTLwu7B09NgVNQtNLhOBVAkCHmilJG-RkA2S1iRr2UyJD-qeSzt9m5KqjEjB29UIYLGHZd4NpHek2Un4NfUDsLApA2aSJ-Iml10WqJ1Dd5F-9jePODUJwmrSvEhJig-doRt2kzXqyRSQK8sh2LU5aZeYoelAcJE38UEoWPS2JWnmC61SBxGTC3VyOc2g_Jbng71tw8yAgRSm0e8K81ghBvbSvg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwjNcaod5I6b9C58an7yeBRPUjAqQhCwGi2WKjUHzdrG-FxGH2u3OL7ct0OlhIzNOVXZdGm3kRJ4WcnAUyQ-rDHH_NnvDI_AAoIGyJmWHKqnujYr_i6tYvfSofKovDZuaIxefpEi797lLbgPxorncxorFH--mAmf5sZOrqtXA="
+        },
+        {
+          "title": "securitycouncilreport.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrNgOMIHHETNXop1MrlKKHiIHRTwukkJ2W7oumUJSOEwPl1Hgel91dgq3gWHKRIQd4zDEQohE4S-j37FaO2dfXqjOfLzLg9bENeutxGF4AmrOOkTHfXlGlFR1qv-j68-uyHz6SWI1jq3CjtGt1k2yPH4c2wbQcgs8u45g3fnmOjIqiiC_NJUpks5WDi8VlDZ6GOYAy_KvY38AFI4="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgMmcI14dgI40-AmQuxxQgWM0hE8swuf-0ZtRC-TuBES1c8ERv_2Eg2TvPf82T2EsfnTvJTOsAiSsJbYLlU7vH1WyRc3csyN95uFrrr7Qd84obqDCUr9eKmmBzHw_QKl7IWJGCPGGjpoF03cnA9fJog=="
+        },
+        {
+          "title": "rescue.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFRhNjJRTBIF6dGJcoS7IXe1nSWe4OUJ5ANxhaFwJXdjP_t1vJ23OohtqRH6rzUzNpVDu_mJ4glJX9RC_P_NugKnF7fF9SWQe1wpa-84opzloFHywCMDZ40Bx2gxHKNux4MoJiepCoJh5kJaXmdb-wCrFNewQ8x8dcORHmE1D8ugMKMhgAlImfnNsb-_OCxiWIwckt9Bnf9p0l3_AAg6fbRU-Ob2ocGE1XJmSUZUxM8DE"
+        }
+      ]
+    }
+  }
+}
