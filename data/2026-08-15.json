@@ -1,0 +1,433 @@
+{
+  "date": "2026-08-15",
+  "timestamp": 1786773865521,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally; Middle East, Ukraine, Yemen see heightened tensions.",
+      "summary": "Active conflicts in the Middle East, Ukraine, and Yemen show significant escalation. The Strait of Hormuz is a flashpoint with US-Iran tensions and attacks on commercial shipping. In the West Bank, settler violence and Israeli military actions continue to impact Palestinian civilians.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3472,
+          "lng": 44.2069,
+          "severity": "red",
+          "detail": "Houthi attacks continue, with ballistic missiles fired at Mocha, killing four civilians."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "US-Iran tensions escalate with blockades and attacks on commercial vessels, impacting oil tanker traffic."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine and Russia continue attacking commercial ships in the Black Sea, threatening food supplies."
+        },
+        {
+          "name": "Ramallah, Palestine",
+          "lat": 31.9038,
+          "lng": 35.2034,
+          "severity": "red",
+          "detail": "Settler violence and Israeli military actions near Beit Fajar injure Palestinians in the West Bank."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Japanese defense minister's visit to Yasukuni Shrine sparks regional tensions."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korean President calls for peaceful coexistence and dialogue with North Korea to replace the armistice."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "US civil rights enforcement declines; Afghanistan and Sudan face crises.",
+      "summary": "A Human Rights Watch report highlights a significant reduction in civil rights enforcement in the US under the current administration, impacting various groups. Afghanistan marks five years under Taliban rule with a severe human rights crisis, especially for women and girls. Sudan sees a journalist detained under a cybercrime law, raising press freedom concerns.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Federal agencies have reduced civil rights cases and staffing, suspending cases involving sexual harassment and transgender rights."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Five years under Taliban rule marks one of the gravest human rights crises, particularly for women and girls."
+        },
+        {
+          "name": "Berber, Sudan",
+          "lat": 17.9944,
+          "lng": 33.987,
+          "severity": "yellow",
+          "detail": "Journalist Gurashi Awad was detained under a cybercrime law following a complaint by an intelligence officer."
+        },
+        {
+          "name": "Nablus, Palestine",
+          "lat": 32.2201,
+          "lng": 35.2625,
+          "severity": "red",
+          "detail": "UN reports growing restrictions on humanitarian aid access and over 1,430 incidents of colonizer violence in 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Western Europe endures hottest summer; global warming accelerates.",
+      "summary": "Western Europe has experienced its hottest summer on record with massive wildfires, droughts, and critically low water levels in major rivers. Globally, oceans are at record high temperatures, and the current El Niño is expected to make 2027 the hottest year on record, with clear evidence of accelerating global warming since 2015.",
+      "regions": [
+        {
+          "name": "Bordeaux, France",
+          "lat": 44.8378,
+          "lng": -0.5792,
+          "severity": "red",
+          "detail": "Massive wildfires continue to rage, contributing to Western Europe's hottest summer on record."
+        },
+        {
+          "name": "Jefferson Parish, United States",
+          "lat": 29.9075,
+          "lng": -90.252,
+          "severity": "red",
+          "detail": "An extreme heat warning has been issued with heat index values expected to reach 110-115 degrees Fahrenheit."
+        },
+        {
+          "name": "Rhine River, Germany",
+          "lat": 50.9375,
+          "lng": 6.9603,
+          "severity": "red",
+          "detail": "Major waterways like the Rhine are experiencing historically low water levels due to drought and heatwaves."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "The Great Barrier Reef shows resilience but continues to face risks from climate change and repeated marine heatwaves."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China expands clean energy but also its coal-to-chemicals industry, not on track for its 2030 climate pledge."
+        },
+        {
+          "name": "Minneapolis, United States",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Northern Minnesota is experiencing fires, indicating the reality of climate change impacts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak surges in DR Congo; US tackles measles and salmonella.",
+      "summary": "The Democratic Republic of Congo is grappling with its fastest-growing Ebola outbreak, leading to significant fatalities and challenging contact tracing efforts, prompting calls for urgent vaccine deployment. In the United States, a multi-state Salmonella outbreak linked to jalapeños is under investigation, alongside a high number of measles cases and new outbreaks in 2026.",
+      "regions": [
+        {
+          "name": "Nizi, Democratic Republic of Congo",
+          "lat": 1.968,
+          "lng": 30.222,
+          "severity": "red",
+          "detail": "The Ebola outbreak has killed over 2,200 people out of more than 4,700 cases, with the surveillance system struggling to keep pace."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31.9686,
+          "lng": -99.9018,
+          "severity": "yellow",
+          "detail": "A multi-state Salmonella outbreak linked to jalapeño peppers has sickened 345 people, with recalls in Texas and Louisiana."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The CDC reports 2,566 confirmed measles cases and 38 new outbreaks in the United States in 2026."
+        },
+        {
+          "name": "Los Angeles, United States",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "green",
+          "detail": "Citizens Commission on Human Rights International released a white paper on the public health concerns of antidepressants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces uncertainty; US-Iran conflict raises fuel prices.",
+      "summary": "The global economy is grappling with uncertainty driven by geopolitical tensions, particularly the US-Iran conflict impacting the Strait of Hormuz and raising fuel prices. India, however, is expanding its global economic footprint through new trade agreements and domestic manufacturing growth. In the US, public anxiety over the cost of living and the Iran war is affecting voter perception of the economy.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "US-Iran conflict causes blockades and attacks, disrupting oil traffic and contributing to high fuel prices."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "Prime Minister Modi announced Free Trade Agreements with 40 countries, bolstering India's global trade position."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's economic messaging struggles with voter anxiety over living costs and the Iran war."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Economic uncertainty and technological acceleration are impacting family businesses and global trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democrats prepare for 2028 primaries; India faces democratic challenges.",
+      "summary": "In the United States, Democrats are finalizing their 2028 presidential primary calendar, emphasizing diverse voter bases. Meanwhile, India grapples with democratic challenges, including concerns about political discourse, institutional impartiality, and social divisions as it marks 80 years of independence. Sudan also faces issues with press freedom due to a journalist's detention under cybercrime laws.",
+      "regions": [
+        {
+          "name": "Austin, United States",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "green",
+          "detail": "Democrats are meeting to set the 2028 presidential primary calendar, prioritizing diverse voters."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India faces internal challenges to its democratic institutions and social cohesion as it marks 80 years of independence."
+        },
+        {
+          "name": "Berber, Sudan",
+          "lat": 17.9944,
+          "lng": 33.987,
+          "severity": "yellow",
+          "detail": "A journalist was detained under a cybercrime law, raising concerns about press freedom."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Colombia earthquake devastation; DR Congo Ebola crisis worsens.",
+      "summary": "Colombia is reeling from a devastating 7.4 magnitude earthquake that has caused significant casualties and widespread destruction, prompting substantial international humanitarian aid. Simultaneously, the Democratic Republic of Congo faces a rapidly worsening Ebola outbreak that has claimed over 2,200 lives and requires urgent funding and vaccine deployment. In the West Bank, aid operations are severely hampered by Israeli restrictions, and in Sudan, an RSF attack has displaced hundreds of families.",
+      "regions": [
+        {
+          "name": "Pereira, Colombia",
+          "lat": 4.8091,
+          "lng": -75.698,
+          "severity": "red",
+          "detail": "A devastating earthquake killed at least 285 people, injured thousands, and destroyed infrastructure; the US provided $26.5 million in aid."
+        },
+        {
+          "name": "Nizi, Democratic Republic of Congo",
+          "lat": 1.968,
+          "lng": 30.222,
+          "severity": "red",
+          "detail": "A rapidly spreading Ebola outbreak, with over 2,200 deaths, prompts $30.5 million in UN emergency funding."
+        },
+        {
+          "name": "Nablus, Palestine",
+          "lat": 32.2201,
+          "lng": 35.2625,
+          "severity": "red",
+          "detail": "UN partners report growing restrictions and delays on humanitarian aid access to trapped families due to Israeli obstacles."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1784,
+          "lng": 30.2259,
+          "severity": "red",
+          "detail": "An RSF attack on Um Arada killed 18 civilians and forced over 300 families to flee to El Obeid."
+        },
+        {
+          "name": "Trelawny, Jamaica",
+          "lat": 18.39,
+          "lng": -77.63,
+          "severity": "red",
+          "detail": "Mass demolition of 25 homes at Cooper's Pen was declared a 'humanitarian crisis' by the Prime Minister."
+        }
+      ],
+      "sources": [
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshpSa1OxuC91h0ST_NVGweZiU-VeiapIeLYAgMlbejRr5hbriGkNeHLoSASFc0fOAiEkJEnEJeAqLYSKIBOGD42FqjkqGYgKyGqCvjJf_IrDxznCB-2kNPvGHoiFI4lrJ00qfhOGHwwt_srEZaSq5sU0Lqa9q9xy5rJ4q4WdRO56S__O9"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeM6aPGc20t6rUista9pBqHerQYVoPQ7pvOF3VBHDpIPvCWh3JvgExJ48HqukgbmlBqCGjm12Kwsx_DN1fjaS0s67qHcbmw5GmNIDGIpRy0sy5yznH2tRThWkfushSKCf_3wDul3wDXrhvsobfmjk8qxZbf7Z1L8ESiaCiPE1w7jfHotQZ7a8SiQql4m2ojpGH4-leVqcMrmDNBbMCq16adQotz3OWuBil"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV3YJkYJBEUeW8ARcQaGnYhNL2Lt-n473nl4vb4L7JX8DUHLW0X7izY9WQOTl7yBwL9D4Fj2lae72-HhZiin7iFvjf9SrNMzMQ2aSp-UAgUVrbREYfQi7UFxV1Wm3Q28gPbcEzMwFGA-VZv81OKWi1ytD47RKfQNwlBuj6SDIg2VkUxFotcR11TxUqnEgZv3_MyxBzRZCIy3KsP98r5jB1gohsLoF_-T3efqWhL-VV6VkP7SdVaN3gC7SVB2bNDBEoTthHWz0kPNY0Kfp0EJ-eda9E-pAFloukLgSCiwltE1fZK0OW5eY4gDbPiBXy05tI8B8GtsXQK15PPvvYQsXvPHY="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYt7HHCmMABmR-WDiYktLEzMLXGXlq3pdtcRNcDJc8JEXhqn0kBqffwAiGTQ0jYaHXchPJblLLxK9QRgpo56sAzWJO3tnXb_yEIwXaGnbRSTNBA75Krf14-XFdzngpRO_ZWRWSis-48g_V5RWl2UQTGH2lkOuiYP2oPtmMdzBiER8beB8XbNHJGHk6Sv6ph6Jemq3kURQhkBLsRGpVgIjqt-E7mcUr0AB8u-wN3Ri1qMmlhYnnnXTAaUxKhYyYathXiM4636TlSa_04J5n71p-uBZi1r2TLhhiEwr2GtgqdY7EF509rg=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1NBAH2d4otzz25dv55qw8ZEGbP0E2eVh4jn5Qzv9zh4_5YUMktPd05ui_wsDNy6qNThyK18ZnQEKwCHDbcoeFNbrSSW4mfiJZRnSsTc53kd9P7-3za-XquLtBNppwfHkPzJ8snzZSw4F63pN9zza9H3dHWD4pABmVc6jA9EOjPpLw7eF5RWNXqbbaKd742V8QoH-IBgd5lgTLcS3GI8tdPzWX9fJurvs5F65IU5R2jdYilxksMnlyblrMwamG3XuCLqrZpoFdPTar5ERMXPeLg=="
+        }
+      ]
+    }
+  }
+}
