@@ -1,0 +1,496 @@
+{
+  "date": "2026-08-19",
+  "timestamp": 1787119569447,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran tensions escalate over Strait of Hormuz; Gaza violence persists.",
+      "summary": "Geopolitical tensions are high with continued US-Iran standoff over the Strait of Hormuz, where the US has strengthened its control and Iran's grip is slipping as more ships use a UN-authorised Omani route. President Trump has threatened Oman and rejected peace talks with Iran, while an ongoing war fallout is affecting global growth. Concurrently, Israeli airstrikes in Gaza killed six people, and Houthi rebels launched attacks in Yemen and Saudi Arabia.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.25,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The Strait remains a critical focus as US control strengthens and Iran's grip weakens over it, with 80% of vessels now preferring an Omani route."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is involved in a standoff with the US over the Strait of Hormuz, with peace prospects dimming."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration is engaged in a standoff with Iran and has rejected a truce extension, with President Trump threatening Oman."
+        },
+        {
+          "name": "Muscat, Oman",
+          "lat": 23.588,
+          "lng": 58.3829,
+          "severity": "yellow",
+          "detail": "Oman is facilitating a UN-authorised shipping route through the Strait of Hormuz, and President Trump has threatened the country."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "An Israeli strike hit Gaza City, killing six people, including a child, and wounding 14 others."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Iran-backed Houthi rebels in Yemen claimed they fired drones at an oil refinery in Saudi Arabia and attacked ships in the Red Sea."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "An oil refinery run by Saudi Aramco was reportedly targeted by Houthi drones."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Discussions occurred regarding the potential disarmament of Hamas, though Israeli Prime Minister Netanyahu rejected aspects of the peace plan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Aid worker violence at record levels; concerns over Bangladesh, ICC sanctions, West Papua.",
+      "summary": "Aid workers globally face historically high violence, with 82 killed and 97 injured so far in 2026, driven by drone warfare and conflict in regions like Sudan and Ukraine. Concerns are rising over a new draft law in Bangladesh that may weaken the independence and mandate of its National Human Rights Commission. The United States also imposed sanctions on the ICC President and a senior lawyer, escalating its campaign against the court over Israeli-related prosecutions. Additionally, West Papuan demonstrations were met with violent responses from Indonesian police, resulting in injuries and arrests.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Continued intense conflict drove up fatalities for aid workers for the fifth year in a row, with a record 71 killed in 2025."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Aid workers are under fire, and drones killed 80 civilians in April 2026."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "A draft 2026 law for the National Human Rights Commission reportedly deletes protections against ministerial subordination, raising concerns about its independence."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0787,
+          "lng": 4.2982,
+          "severity": "yellow",
+          "detail": "The ICC, based here, has been targeted by US sanctions against its President and a senior lawyer."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US imposed sanctions on ICC President Tomoko Akane and a senior trial lawyer, escalating its campaign against the court."
+        },
+        {
+          "name": "Jayapura, Indonesia",
+          "lat": -2.5333,
+          "lng": 140.7,
+          "severity": "red",
+          "detail": "West Papuan demonstrations marking the anniversary of the 1962 New York agreement were met with violent responses from Indonesian police."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.85,
+          "lng": 31.6,
+          "severity": "red",
+          "detail": "Humanitarian staff and contractors face growing threats, with 36 killed since January, surpassing the total for 2025."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate damage stresses European finances; Asian crops hit by heatwave.",
+      "summary": "Europe is experiencing increasing financial burdens from climate damage, with extreme weather events like wildfires and floods leading to substantial economic losses that are largely uninsured, pushing the cost onto public finances. Spain and Germany have seen severe flooding in recent years, and this year's wildfires in southwestern Europe further illustrate the rising costs. Additionally, a record heat wave has destroyed crops in parts of Asia.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Europe's public finances are under pressure due to increasing climate damage, with a quarter of EU economic losses from 1980-2024 occurring in the last four years."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spain experienced Europe's worst flooding event in five decades in 2024, with reconstruction costs estimated at 0.7% of output."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Germany was affected by severe flooding in 2021, contributing to rising climate-related costs in Europe."
+        },
+        {
+          "name": "Yanggu County, South Korea",
+          "lat": 38.0707,
+          "lng": 127.994,
+          "severity": "yellow",
+          "detail": "A record heat wave destroyed potato crops in this area, representing broader crop damage in Asia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US public health infrastructure weakened; cyclospora outbreak persists.",
+      "summary": "Concerns are rising in the United States over a new executive order that reshapes childhood vaccine recommendations and the weakening of public health infrastructure, potentially creating new barriers to immunization and increasing disease risk. Meanwhile, a multistate cyclospora outbreak linked to iceberg lettuce from central Mexico continues to be investigated, with over 9,481 illnesses reported and two deaths. The EU has also provided emergency humanitarian funding to curb a cholera outbreak in West and Central Africa.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A White House executive order is changing federal childhood vaccine recommendations, drawing strong criticism from public health experts."
+        },
+        {
+          "name": "Philadelphia, USA",
+          "lat": 39.9526,
+          "lng": -75.1652,
+          "severity": "green",
+          "detail": "The Department of Public Health's Vector Control staff will apply treatments to control adult mosquitoes in Overbrook due to West Nile virus risk."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "Iceberg lettuce sourced from central Mexico is linked to a multistate cyclospora outbreak in the US."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU is providing €2.3 million in emergency humanitarian funding to curb a cholera outbreak in West and Central Africa."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Part of the West and Central Africa region affected by a cholera outbreak receiving EU emergency funding."
+        },
+        {
+          "name": "Accra, Ghana",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "severity": "yellow",
+          "detail": "Part of the West and Central Africa region affected by a cholera outbreak receiving EU emergency funding."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global bond yields at decade highs; China's surplus impacts trade.",
+      "summary": "Global bond yields are near decades-high levels, driven by fears over swelling sovereign debt and rising inflation, which is rattling stock markets worldwide and complicating policy. China's growing manufacturing surplus, fueled by expanding capacity and weak domestic demand, poses a new challenge for the global economy as it leads to falling prices and rising trade barriers in industries like electric vehicles and steel. Meanwhile, the US paused new tariffs on Canada for three days as trade deal talks continue, but tensions remain.",
+      "regions": [
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "Global bond yields hovered near their highest for decades, with the U.S. long bond hitting its highest in nearly 20 years."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's manufacturing surplus poses new tests for the global economy due to rising trade barriers and weak domestic demand."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is engaged in tariff negotiations with Canada, with President Trump pausing new tariffs for three days."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada is in trade negotiations with the US, facing potential 50% tariffs on Canadian goods."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Long-term borrowing costs in Europe, including the UK, are at their highest levels in years or decades due to ballooning government debt."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "The Japan-US yen intervention highlights the need for the Bank of Japan to raise rates more quickly as the 10-year yield approaches 3%."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "The 10-year and 30-year bund yields hit their highest since 2011, reflecting global concerns over sovereign debt."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns amid Trump's actions; Florida primary upset.",
+      "summary": "In the United States, concerns about democratic erosion persist, with ongoing discussions around President Trump's actions and calls for impeachment, particularly regarding his administration's controversies and declining approval ratings. Additionally, Florida's Democratic Senate primary saw an upset victory for progressive state representative Angie Nixon, who defeated former national security official Alex Vindman, highlighting internal party dynamics ahead of the general election.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Discussions around President Trump's conduct and calls for impeachment continue to reflect concerns about American democracy."
+        },
+        {
+          "name": "Miami, Florida, USA",
+          "lat": 25.7617,
+          "lng": -80.1918,
+          "severity": "green",
+          "detail": "Angie Nixon, a progressive, won Florida's Democratic Senate primary in a stunning upset."
+        },
+        {
+          "name": "New Ulm, Minnesota, USA",
+          "lat": 44.3129,
+          "lng": -94.4608,
+          "severity": "green",
+          "detail": "Democratic nominee for Minnesota's 1st Congressional District, Jake Johnson, held a town hall to engage with the community."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid workers face record violence globally, funding critically low.",
+      "summary": "Humanitarian aid workers are confronting a severe global crisis, with record levels of violence and threats to their safety, particularly in South Sudan, Sudan, Ukraine, and Haiti. So far in 2026, 82 aid workers have been killed, 97 injured, and 39 kidnapped, marking a historically high toll exacerbated by drone warfare and conflict. Funding for humanitarian responses is critically low, as exemplified in South Sudan where 10 million people require assistance but the response is only 35% funded, threatening food assistance pipelines.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.85,
+          "lng": 31.6,
+          "severity": "red",
+          "detail": "Since January, 36 humanitarian staff have been killed, and 10 million people require assistance amidst renewed conflict and funding shortfalls."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Continued intense conflict drove up fatalities for aid workers for the fifth year in a row, with armed drones responsible for 80% of civilian deaths in early 2026."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Aid workers are under fire, and drones killed 80 civilians in April 2026."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3075,
+          "severity": "yellow",
+          "detail": "Haiti is listed as a high-insecurity context for aid workers in 2025."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.4167,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "Humanitarian workers face record attacks amidst ongoing conflict."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "green",
+          "detail": "World Humanitarian Day is observed on August 19, marking the anniversary of the 2003 bombing of the Canal Hotel in Baghdad where 22 UN staffers died."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe9ckcbg17odrvbN0yzERkYxYc8dODIuGYOMM3GKbQZ0lnCa97gBhBap7rXN1wawI8UeGQwd7tnAJ5-fjjklMcOWCYBYCwcUuR4L8nqIwXc_IYZzWoeapZxwypLySf4RaWqHJSk3XNS4IPodcrP7T8kkwPo9--wR0LNPlet8CsFwQFCJSvhWCRm64tH3SGJssojPcacH-eRv7ldNlOBV3lE6BRWaLclgdw"
+        },
+        {
+          "title": "menafn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZKVgkig3tX_MM2oRaLUKBEhv7DdbibB8wrw0-7M7bkTxBmP8HiVrriTiROBaWSFr5hva_SkiveyIsjJpB_vsr-5GhSVN4BQFKodWFjFbIOSCE3BihJOMxiKO8Yz8v_-IVcg3QUvvhNGTGp-ZtQH9Bx8ps8pd4pwchEnW-cpMtEC-0htXO_RoLe6HbtozXxRKa8T97z9Z-2NPsX7wR2ZMftPQrkYt2oZ3u3ipGrsBV5ludQigVPCyTIWcClJcq7fTOfxrtECC8UkKIaXJ7ufRsmA_AWldsZXxs--a6F6HU2SELGXF4EPj5RpoQHk1TFlRxvGu20x9"
+        },
+        {
+          "title": "nab.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEQ2T3Pe-NBI__N284xgqmtNe_UcG9rEi5SGvdP_U0IZJliEFyJB-g1KKQ4BvUrKFMBp4SjlJIxmonHgTs-CRS7fUGOWfLg4SU2c8_S8-Z4AjBcyI-H0cRtuurnz5FpfluO0_zdS-aPujqKdNmuHs-F6rsi68PTITPlGWDh3EtYX6T_QSYHXtXeWRKx2zicIXpQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK47iUPDhLdSPA4swv8zL7zY0Exfxx9vm8AhbJJbuafbEschEiDUCPq_ak8EDODV85lFFl4ZckxF6HcHDFOKLEbzExO9uQ7Z_FbCM4QxQp44WV1npj4yluFL2FYGKFMCeLJRtXNY79op4GTn214icAKqZXw6tGcHo4dExha0M-ww=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1iyOev4ogN4ALJa2MlF2u6whTihIL1vM8sKrc5yuR2xr9hePcSYAze2_TiFl79tPEYCbOW1cpBy5vg9ekFeE6Qp0OPUUCb3MiSIygi1fDRC18KLHnmXQUuaD_6_YKF5Lc2Bg3_9U2pvtAZ5zb_ZdATrZpbj31OtVCk4GZlS6zz_2ur_oVavGoLObZTQxqBQQ4d6uiMJaRF-SEg=="
+        }
+      ]
+    }
+  }
+}
