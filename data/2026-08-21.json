@@ -1,0 +1,468 @@
+{
+  "date": "2026-08-21",
+  "timestamp": 1787292435434,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple global conflicts escalate, displacing thousands and raising tensions.",
+      "summary": "Today, August 21, 2026, several regions saw significant conflict developments. North Korea launched a suspected ballistic missile amidst US-South Korea drills, while the US-Iran conflict continues to fuel instability with the UAE cutting economic ties with Iran. Humanitarian crises are deepening in Sudan due to worsening security, and Israeli military actions persist in the West Bank and Syria.",
+      "regions": [
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.03,
+          "lng": 125.75,
+          "severity": "red",
+          "detail": "North Korea launched a suspected ballistic missile, escalating regional tensions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.69,
+          "lng": 51.39,
+          "severity": "red",
+          "detail": "The US-Iran conflict continues with calls for tougher sanctions, and the UAE has cut economic ties with Iran."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.46,
+          "lng": 54.37,
+          "severity": "red",
+          "detail": "The UAE cut economic ties with Iran following missile incidents targeting its territory."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15,
+          "lng": 30,
+          "severity": "red",
+          "detail": "Nearly 14,000 people were displaced from Qaisan and Kurmuk localities due to worsening security."
+        },
+        {
+          "name": "Jenin, West Bank",
+          "lat": 36.63,
+          "lng": 35.29,
+          "severity": "red",
+          "detail": "The Israeli army killed a Palestinian near Jenin during a West Bank raid, and European nations urged Israel to halt settlement expansion."
+        },
+        {
+          "name": "Mali (general)",
+          "lat": 17.57,
+          "lng": -3.99,
+          "severity": "red",
+          "detail": "Russia's 'Africa Corps' was reported to have massacred villagers on August 20, 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights and political freedoms challenged globally.",
+      "summary": "Human rights faced notable challenges today, including a humanitarian and rights crisis in Ceuta, Spain, and convictions of Tiananmen vigil organizers in Hong Kong under national security law. A lawsuit was filed in the US against a tech company for allegedly enabling Russian battlefield communications used in drone attacks on Ukrainian civilians.",
+      "regions": [
+        {
+          "name": "Ceuta, Spain",
+          "lat": 35.89,
+          "lng": -5.31,
+          "severity": "red",
+          "detail": "A humanitarian and rights crisis persists for migrants, with concerns over reception conditions and access to asylum."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.31,
+          "lng": 114.17,
+          "severity": "red",
+          "detail": "Two organizers of Hong Kong's Tiananmen vigils were convicted of inciting subversion under the national security law."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "yellow",
+          "detail": "A lawsuit in the US accused Ubiquiti of enabling Russian battlefield communications used in drone attacks on Ukrainian civilians."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "yellow",
+          "detail": "President Marcos Jr. identified disinformation and distrust as significant threats to Philippine democracy."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "The UN General Assembly's reappointment of the High Commissioner for Human Rights faced dissent, including from the USA, highlighting challenges to the global human rights system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme heat and drought impact Europe and US, as El Niño risks loom.",
+      "summary": "Extreme heat waves are scorching Europe, leading to severe drought conditions in Hungary with record-low water levels. In the US, an extreme heat warning was issued for parts of Louisiana and Texas, while the East Coast anticipates severe storms. El Niño conditions are expected to intensify, posing heightened risks for Mexico and Central America during an above-normal hurricane season.",
+      "regions": [
+        {
+          "name": "Nagymaros, Hungary",
+          "lat": 47.78,
+          "lng": 19.98,
+          "severity": "red",
+          "detail": "Hungary is experiencing severe drought and record-low water levels in the Danube River and Lake Velence due to extreme heat."
+        },
+        {
+          "name": "Lake Charles, Louisiana, USA",
+          "lat": 30.22,
+          "lng": -93.22,
+          "severity": "red",
+          "detail": "An Extreme Heat Warning was issued for portions of south-central and southwest Louisiana, with heat index values up to 113."
+        },
+        {
+          "name": "Philadelphia, Pennsylvania, USA",
+          "lat": 39.95,
+          "lng": -75.16,
+          "severity": "yellow",
+          "detail": "The US East Coast is facing severe weather threats and potential travel disruptions, with the Philadelphia region preparing for another storm and flood risks."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.98,
+          "lng": 23.73,
+          "severity": "green",
+          "detail": "Recent studies from Greece demonstrate immediate health benefits from reducing coal use and air pollution."
+        },
+        {
+          "name": "Cambridge, Massachusetts, USA",
+          "lat": 42.37,
+          "lng": -71.11,
+          "severity": "green",
+          "detail": "Harvard received a grant to develop a clean energy consortium for shared power grids in multiple Massachusetts towns."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.43,
+          "lng": -99.13,
+          "severity": "yellow",
+          "detail": "El Niño conditions are intensifying, and an above-normal Eastern Pacific hurricane season poses heightened risks for Mexico and Central America."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak expands in DRC; elderly care initiatives in China.",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to expand, with over 5,200 cases and nearly 2,500 deaths reported as of August 18, 2026. Meanwhile, China is actively expanding its 'silver economy' with policies aimed at improving elderly-care services through digital tools and new technologies.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.44,
+          "lng": 15.26,
+          "severity": "red",
+          "detail": "The Ebola outbreak continues to grow, recording over 5,200 cases and nearly 2,500 deaths as of August 18."
+        },
+        {
+          "name": "Shanghai, China",
+          "lat": 31.23,
+          "lng": 121.47,
+          "severity": "green",
+          "detail": "Local implementation of national policies is expanding elderly-care services, leveraging demand-driven community platforms and digital tools."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.98,
+          "lng": 23.73,
+          "severity": "green",
+          "detail": "Studies from Greece indicate immediate health benefits to local communities when air pollution is reduced."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US dollar wobbles amid bond market turmoil, global borrowing costs surge.",
+      "summary": "The US dollar is on shaky ground as Treasury bond buybacks fail to reassure markets, with US debt surpassing $40 trillion on August 19, 2026. This has contributed to global borrowing costs surging to decades-high levels, impacting the UK, France, Germany, and Japan. Additionally, Japan's accelerating inflation in July signals potential rate hikes.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "The US dollar wobbled as Treasury bond buybacks failed to reassure markets amidst rising national debt."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.68,
+          "lng": 139.69,
+          "severity": "yellow",
+          "detail": "Japan's core consumer inflation accelerated in July, strengthening the case for a central bank rate hike."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5,
+          "lng": -0.12,
+          "severity": "yellow",
+          "detail": "UK 10-year bond rates are near their highest since 2008 due to global bond market turmoil."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9,
+          "lng": 116.4,
+          "severity": "yellow",
+          "detail": "China's rare earth truce with Washington is nearing expiration, with new restrictions on foreign companies raising concerns about trade tensions."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.74,
+          "lng": 28.22,
+          "severity": "green",
+          "detail": "South Africa and Zimbabwe held a Bi-National Commission to discuss strengthening trade and economic development."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy faces challenges from disinformation, national security laws, and AI impact.",
+      "summary": "Democratic principles are under pressure today, notably in Hong Kong where two Tiananmen vigil organizers were convicted of inciting subversion under national security law. In the Philippines, President Marcos Jr. highlighted disinformation, division, and distrust as key threats. Emerging concerns in the US include the weaponization of AI data centers in midterm elections, and the UN's human rights chief reappointment faced significant political dissent.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.31,
+          "lng": 114.17,
+          "severity": "red",
+          "detail": "Two former leaders of the Hong Kong Alliance were convicted of inciting subversion, marking further erosion of democratic freedoms."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.59,
+          "lng": 120.98,
+          "severity": "yellow",
+          "detail": "President Marcos Jr. cautioned against disinformation, division, and distrust as threats to the nation's democracy."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9,
+          "lng": -77.04,
+          "severity": "yellow",
+          "detail": "The issue of AI data centers is becoming a politically 'toxic' topic in US midterm elections, with candidates weaponizing it against opponents."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.71,
+          "lng": -74,
+          "severity": "yellow",
+          "detail": "The US voted against the reappointment of the UN High Commissioner for Human Rights, citing 'classic UN cronyism,' reflecting ongoing challenges to international democratic norms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens; global humanitarian needs outpace shrinking resources.",
+      "summary": "Today, August 21, 2026, humanitarian aid efforts face severe challenges globally. In Gaza, aid distribution is critically hampered by a lack of engine oil and spare parts for lorries, despite increased deliveries. Globally, 252 million people are in need of assistance, but funding has seen steep cuts, severely impacting response efforts in places like Yemen and Afghanistan.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Aid distribution is facing significant difficulties due to the absence of essential engine oil and spare parts for transport vehicles."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.71,
+          "lng": -74.07,
+          "severity": "yellow",
+          "detail": "Humanitarian assistance from India arrived following a severe earthquake on August 10, supporting ongoing recovery operations."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.35,
+          "lng": 44.2,
+          "severity": "red",
+          "detail": "Yemen's ongoing conflict leaves 22 million people requiring humanitarian assistance, with the 2026 response plan severely underfunded."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.52,
+          "lng": 69.17,
+          "severity": "red",
+          "detail": "An estimated 21.9 million people in Afghanistan require humanitarian assistance, with over 17 million facing acute food insecurity."
+        },
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.98,
+          "lng": -79.51,
+          "severity": "yellow",
+          "detail": "UNICEF highlights a 55% funding gap for disaster preparedness and response in Latin America and the Caribbean, amid intensifying El Niño and hurricane risks."
+        },
+        {
+          "name": "Chicago, Illinois, USA",
+          "lat": 41.83,
+          "lng": -87.69,
+          "severity": "yellow",
+          "detail": "The US Small Business Administration is offering low-interest disaster loans for residents and businesses impacted by severe storms in Cook County."
+        },
+        {
+          "name": "Gary, Indiana, USA",
+          "lat": 41.6,
+          "lng": -87.34,
+          "severity": "yellow",
+          "detail": "Disaster relief funds and SNAP replacement benefits are being distributed to Indiana residents affected by recent destructive storms."
+        },
+        {
+          "name": "Saipan, Northern Mariana Islands",
+          "lat": 15.18,
+          "lng": 145.75,
+          "severity": "yellow",
+          "detail": "Today is the deadline to apply for physical disaster loans following Super Typhoon Sinlaku."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3m3jP0ghPjyqiCVq8AS8Bgmt2w3XTPC2BBHVUOlcZdgt5nxifq5WW1N6Z4jjUmi7YjsP26Ly-NTakLSIM4zaR2JKVZw9FXuPogcKjo6H1r5Td-9LVcuSRuqdFx6p4q4AegPYyssdF2u7hykiCtpYDeoIbpE5yKHZuOvoimw="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRpnlo14bYhByytSA7pqHCv-XXHzXv3zx_hzqwvT5feVCEtmTUrsw0BfM83dBZ3-n7UZNgHq7-ALOcgmMDf084KoP-HaG8DsEzZlqdFfKCAz7Ffm7oO07hwzhvP-Iv2eVrSUr4AZmwo58CfV51i33TyXKId_19f-MUIHQcwpCT1LPuF06i9kft-XoV8XNON5gKhrhbEFh4B5nfdVVD3lHfKyogj02OPO0g0xIk5BqIpLZhN58vFVMitB_LuYDzrpoeJDlLS9Fre3G6WBgeh2y7c6NqavHfm_H4ItW2hlZLxlNTqJkqlEKI-Gm1-xKC1YV1EZD-Q-BnVSBk61p"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsq9h6jyfyPeRs2vsWMk00kJSMAaRpxZFsPXYcitSrBUKGNJNV0HP9YvXJ2g6hlDL-MvN_WMYuuGkCwanzlbWqgUkxH54jDUeRACt2aCNUPTi9H1oBMiy1uR2MZUY6MPuH1l8OhYTmwaQDrJr-B-ZcJkhyhLWXZP_QVHoeyh0NJ2pzmoOoVyXeVlHTI-OvGmEI_UlQtPdj4E4XFaJEsyPmBBCyKQ=="
+        },
+        {
+          "title": "columbia.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTo5x55XKT09TpU6a7rzbyub3mQcG7olrCNpyL_Pq80rWrZXo5ZM_tWqkL6uekd-m1VrpbTh1xVP4PJS0ArC1EsnTtFZSUlmWE3Ju3WqNhXFyNc1k3k78S2lNtVfCvpcXauFWzZF85wpF28jpuOIcTsua_T705_r3R3fDnPRmFOwjcLiJliHcDflAORAAEubMtvfM65QyCvc2ZMz7LTfKMLZU="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGABX99JpQxCSRHLQDEoCcNrf__cdNkCUa9hBkS-sX-ZAy3fvfZaCKbavZZyY2HLFesolQokYOaLPvuAI5jT3ZUPWllUrTBV9yTcKdGUy6R"
+        }
+      ]
+    }
+  }
+}
