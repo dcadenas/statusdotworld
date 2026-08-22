@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-22",
+  "timestamp": 1787378675169,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran tensions escalate; Israel-Palestine conflict continues.",
+      "summary": "Tensions between the US and Iran are high, with the US maintaining a naval blockade and President Trump stating Iran is not ready for a deal. Simultaneously, Türkiye has condemned Israel's settlement policies and violence against Palestinians. An explosion at a weapons depot in Libya also indicates regional instability.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5833,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The US blockade of Iranian ports in the Strait of Hormuz continues, with commercial vessels being redirected and some boarded."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "US President Trump stated that Iran is not ready to make the 'right deal' amidst tightening economic pressure."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Türkiye condemned Israel's Prime Minister's Office for remarks and its unlawful settlement policies in Palestinian territories."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "Violence by Israeli settlers against Palestinians in the territories was condemned by Türkiye."
+        },
+        {
+          "name": "Tripoli, Libya",
+          "lat": 32.8872,
+          "lng": 13.1913,
+          "severity": "yellow",
+          "detail": "An explosion rocked a weapons depot in northwestern Libya, with reports of ammunition and rockets propelled into surrounding areas."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0333,
+          "lng": 125.75,
+          "severity": "yellow",
+          "detail": "North Korea continues to ignore South Korea's overtures for peace, despite Seoul's efforts to reconnect rail networks."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "South Korea is pursuing a 'lonely push for peace' with North Korea, with efforts like restoring abandoned train stations as symbols of reconciliation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Argentina's AI surveillance raises alarm; TikTok fined for child privacy.",
+      "summary": "Amnesty International has raised severe concerns about Argentina's expansion of AI-driven surveillance, labeling it 'techno-authoritarian' and warning of its impact on fundamental rights. Separately, TikTok reached a $400 million settlement with the US Justice Department over violations of children's privacy laws. Human Rights Watch also highlighted ongoing humanitarian and rights issues for migrants in Ceuta, Spain.",
+      "regions": [
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "red",
+          "detail": "Amnesty International accused Argentina of building a techno-authoritarian surveillance infrastructure, expanding state monitoring powers over citizens."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "TikTok agreed to pay $400 million to settle a lawsuit with the US Department of Justice over claims it violated federal children's privacy laws."
+        },
+        {
+          "name": "Ceuta, Spain",
+          "lat": 35.8899,
+          "lng": -5.3162,
+          "severity": "yellow",
+          "detail": "Human Rights Watch warned of a humanitarian and rights crisis in Ceuta affecting migrants and asylum seekers awaiting food distribution."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council had previously warned that digital and AI-assisted surveillance posed a growing threat to civil society."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record-breaking El Niño to fuel extreme global weather.",
+      "summary": "A 'super El Niño' is developing in the Pacific, predicted to be the strongest in modern history, set to intensify global extreme weather and potentially make 2027 the hottest year on record. This comes as Europe has already experienced a scorching summer with record heat, and other regions have faced severe typhoons, floods, and heatwaves throughout 2026.",
+      "regions": [
+        {
+          "name": "Eastern Pacific Ocean",
+          "lat": 0,
+          "lng": -120,
+          "severity": "red",
+          "detail": "A strengthening El Niño event centered here is forecast to become the strongest cycle in modern history."
+        },
+        {
+          "name": "Florida, USA",
+          "lat": 27.6648,
+          "lng": -81.5158,
+          "severity": "yellow",
+          "detail": "A historic strength El Niño event could lead to an increased risk of severe weather during the winter months."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "The continent experienced a scorching summer with record heatwaves and wildfires."
+        },
+        {
+          "name": "Rizal, Philippines",
+          "lat": 14.58,
+          "lng": 121.1,
+          "severity": "yellow",
+          "detail": "Residents were evacuated to higher ground due to super typhoons bringing destruction in August 2026."
+        },
+        {
+          "name": "Marrakech, Morocco",
+          "lat": 31.6295,
+          "lng": -7.9811,
+          "severity": "yellow",
+          "detail": "Parts of North Africa, including Morocco, have faced back-to-back heatwaves on top of drought, with temperatures reaching 44 to 46°C."
+        },
+        {
+          "name": "Chiba Prefecture, Japan",
+          "lat": 35.6047,
+          "lng": 140.1234,
+          "severity": "yellow",
+          "detail": "Unprecedented heavy rain claimed lives, left thousands stranded, and cut power to many households."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "DRC Ebola outbreak grows exponentially, becoming deadliest ever.",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo is rapidly escalating, with over 2,500 deaths recorded and spreading exponentially, becoming the deadliest in the nation's history. The Bundibugyo strain involved lacks a specific vaccine, posing a significant challenge to control efforts despite international support and vaccine allocations.",
+      "regions": [
+        {
+          "name": "Bunia, Ituri, DR Congo",
+          "lat": 1.5647,
+          "lng": 30.2783,
+          "severity": "red",
+          "detail": "The Ebola outbreak is growing exponentially, with more than 2,500 deaths recorded, half of them in the past 20 days."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The outbreak is already the largest in the country's history and is spreading faster than any Ebola outbreak on record."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "yellow",
+          "detail": "An Ebola outbreak was confirmed in Uganda in May 2026, alongside the Democratic Republic of Congo."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Coordinator on Ebola reported on the exponential growth of the outbreak from Geneva."
+        },
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "lat": -22.9068,
+          "lng": -43.1729,
+          "severity": "green",
+          "detail": "The AIDS 2026 conference showcased promising scientific progress in HIV/AIDS prevention and treatment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Moderate global growth with inflation concerns; Iran faces severe crisis.",
+      "summary": "The global economy is experiencing moderate growth, bolstered by technology investment, but faces rising inflation, particularly due to supply shocks in oil, gas, and other commodities linked to ongoing Middle East tensions. Meanwhile, Iran is grappling with a staggering budget deficit and hyperinflation, leading to warnings of potential social unrest.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5833,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The closure of the Strait of Hormuz for over 15 weeks has driven a supply shock in oil and gas, impacting global inflation."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian officials conceded a staggering 960 trillion toman budget deficit and an inflation rate exceeding 90%."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US GDP growth is projected at 1.5-2.0% for 2026, with inflation outlook rising due to global supply shocks."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Global growth forecasts are being influenced by various factors including geopolitical tensions and technology investment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy faces continued erosion concerns ahead of midterms.",
+      "summary": "Concerns about the erosion of democracy in the United States persist, with experts noting that the nation's democratic health is at its lowest in decades due to executive overreach and efforts to manipulate elections. While some signs of a partial rebound are observed, the upcoming November midterm elections are seen as crucial in determining the future trajectory of democratic norms.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US democracy is reported to be at its worst in 60 years, with concerns over executive power and election integrity."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "Democrat Aisha Wahab won a special election to fill a vacant seat in the U.S. House of Representatives."
+        },
+        {
+          "name": "Gothenburg, Sweden",
+          "lat": 57.7089,
+          "lng": 11.9746,
+          "severity": "green",
+          "detail": "The V-Dem Institute, located here, published a report indicating a significant decline in liberal democracy in the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian crises deepen amid rising threats to aid workers.",
+      "summary": "Global humanitarian needs are severely escalating, with Afghanistan facing a dire crisis where 21.9 million people require assistance and food insecurity is rampant, exacerbated by returns and aid cuts. Concurrently, aid workers worldwide are encountering increasing violence, particularly from drone warfare, along with reduced funding and restricted access, making their vital work more perilous.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1723,
+          "severity": "red",
+          "detail": "An estimated 21.9 million people require humanitarian assistance, with over 17 million facing acute food insecurity."
+        },
+        {
+          "name": "Bunia, Ituri, DR Congo",
+          "lat": 1.5647,
+          "lng": 30.2783,
+          "severity": "red",
+          "detail": "The ongoing Ebola outbreak is occurring within a challenging humanitarian crisis context."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN warned that aid workers face deadly and evolving threats, with 907 victims of violence reported last year."
+        },
+        {
+          "name": "Ceuta, Spain",
+          "lat": 35.8899,
+          "lng": -5.3162,
+          "severity": "yellow",
+          "detail": "A humanitarian and rights crisis exists for migrants and asylum seekers in Ceuta."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "International humanitarian organizations are coordinating responses to escalating global needs and threats to aid workers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1N-5eprjs8bqFLz6UC5ZMe12d8dzqpfyVe4uZfYOgAr5T866WgYM6q7qh_TS7ENmNpohA8n789GHJviFSGj9D7v65OaHInH3aQDgfSN5Zr4XjOmFjrkSV1n97g9Djig7LQlL8DT3dFxwBNNEKc-ksA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvzmPDl_GXNHDZ0inw9f1Qu6fXNnfMMLFHSQzZZR9t_uCtzrBqr5PtOm0LlNUkLiKOe9GkhlTDDkKCoSFLWD1Eeap5iUp6kuw0RiKzNmeyBgYC7VSaR14vhyydO-5FzaVcqKkU7-tSpNdlMS8lFlYcHlvieqOe5v0Gq2p5_X5ZA=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQtYQxn3A6uMhFVR-G4ImWJBnre2GBNnZKz4jV-rzPVFGQxVt6ZP1d30jH6uBMxZmj7G0m3LZuxg-ZmuEFoy1071inDsdr1oJsPwngpGpCzJ5YxzpS1Z4T4N29UJXtcO0en7Ia1r4PP9WRpm-qlrvOHnpZOqI73YAO64ZaOl6cw=="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLpZ82LjTSPUCkJ0Bccy-zUMnZdQfT6M_ENsac6sJRoa1bBIcn43VytmHVN9slVpm77VF8U_mJTNt4FepejTBs1Fi3v7jG143aTu42Dp-Tqq9qLqweXCxHIwD8HyzrKAt7Q0NXmM51z5eChoF7fmtEf3UgEiurrYxxU4YYlDzO_jrMZ75kOxyUVag1BPxDTprAXxfEVWchgF6H2FvOiIYi8n-tFJoMS3QqLBRQJWdxPAcT-GjrVeuyotgOTs="
+        },
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG63DQtUizYAmsKwP5nzwcbVozXEmt900Qc_TFoLPS6pkXEX9C4L_IlaJZEnT09VmzJI5bd-aEZYoAE2iZfxO67Olu_mD7tih5LQO-lVelZq8bJp5XfhrBVxv09aAVSzNkZRzqHYwbih-p915SAsAeLnw3VwSs_669CH43SqThKEJFQMvxD5-O5VOomOQOoDo4ja0trfF1FlvrCetLeXuS-aXzq6h61p7RM8hrJdEs="
+        }
+      ]
+    }
+  }
+}
