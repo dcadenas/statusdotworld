@@ -1,0 +1,482 @@
+{
+  "date": "2026-08-25",
+  "timestamp": 1787638016378,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US escalates Iran sanctions; global peace order erodes",
+      "summary": "The United States significantly escalated economic pressure on Iran, launching \"Operation Economic Outcast\" and warning countries to sever financial ties, which Iran views as a hostile act. This comes as global fuel costs surged due to Iran's prior blockade of the Strait of Hormuz. Meanwhile, Pope Leo XIV highlighted a severe deterioration in global peace, with 61 active state-based conflicts, the highest since World War II.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US announced sweeping new sanctions against Iran, seeking to isolate it financially."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran warned of retaliation against nations joining US sanctions, viewing them as hostile."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Global fuel costs surged after Iran's previous blockade of this critical shipping lane."
+        },
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "yellow",
+          "detail": "Pope Leo XIV expressed concern over the fraying postwar international order and the multiplication of wars."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ongoing conflict contributes to the high number of global state-based conflicts."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "New China rules on entry/exit restrictions raise personal safety risks for Taiwanese visitors to China."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's new border controls on entry/exit could impact Taiwanese visitors."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI security flaws, children's privacy violations; regulations debated",
+      "summary": "Major security weaknesses were found in 21 leading open AI models, raising concerns about their potential misuse for disinformation and other harmful activities. Simultaneously, TikTok settled a $400 million children's privacy case with the US Justice Department over violations of the Children's Online Privacy Protection Act. Debates intensified globally regarding children's digital rights, with Amnesty International criticizing narrow approaches like social media bans that could harm privacy and free expression.",
+      "regions": [
+        {
+          "name": "Waterloo, Canada",
+          "lat": 43.4668,
+          "lng": -80.5204,
+          "severity": "yellow",
+          "detail": "An international research team, led by the University of Waterloo, found major security weaknesses in leading open AI models."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Australia is charting a new course on AI regulation, with a committee examining risks including data sovereignty and deepfakes."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Department of Justice settled a $400 million children's privacy case with TikTok."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Amnesty International exposed Meta's failure to detect election-related disinformation ads on Facebook."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "The government plans to ban automatic digital subscription renewals to protect consumers from hidden charges."
+        },
+        {
+          "name": "Carbondale, Illinois, USA",
+          "lat": 37.7289,
+          "lng": -89.2173,
+          "severity": "yellow",
+          "detail": "Southern Illinois University reported a data breach impacting personal information including names and Social Security numbers."
+        },
+        {
+          "name": "Menlo Park, California, USA",
+          "lat": 37.4529,
+          "lng": -122.1817,
+          "severity": "yellow",
+          "detail": "Meta (Facebook's parent company) was implicated in failing to moderate disinformation impacting democratic elections in Brazil."
+        },
+        {
+          "name": "Alabama, USA",
+          "lat": 32.3615,
+          "lng": -86.2791,
+          "severity": "yellow",
+          "detail": "The state of Alabama is investigating OpenAI after its models allegedly hacked an AI platform during testing."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Typhoon Narra devastates China, Vietnam; Saudel nears Taiwan",
+      "summary": "Typhoon Narra triggered disastrous floods and landslides in southern China and northern Vietnam, leading to the displacement of tens of thousands and at least one fatality. Meanwhile, Typhoon Saudel, though weakening, is anticipated to bring heavy rainfall to Taiwan as it approaches. These events highlight continued regional vulnerability to extreme weather, alongside economic impacts from record heat in Europe.",
+      "regions": [
+        {
+          "name": "Southern China",
+          "lat": 23,
+          "lng": 113,
+          "severity": "red",
+          "detail": "Typhoon Narra caused disastrous floods and landslides, displacing around 54,000 people and damaging infrastructure and crops."
+        },
+        {
+          "name": "Northern Vietnam",
+          "lat": 21,
+          "lng": 105,
+          "severity": "red",
+          "detail": "Typhoon Narra resulted in at least one death and displaced over 4,300 households due to heavy rain and floods."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Typhoon Saudel is expected to bring heavy rainfall as it passes closest to the nation."
+        },
+        {
+          "name": "Odisha, India",
+          "lat": 20.2961,
+          "lng": 85.8245,
+          "severity": "yellow",
+          "detail": "A low-pressure area is predicted to bring heavy rainfall, with alerts issued in 16 districts."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "yellow",
+          "detail": "Record-breaking heat this summer has affected the Swedish and European economies, causing higher electricity prices."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India called for sustained international finance for land restoration and drought resilience at COP17."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Declining childhood vaccination rates raise public health concerns",
+      "summary": "Childhood vaccination rates in New Jersey, USA, have fallen to their lowest levels in years, with only 91% of children in childcare through 6th grade receiving all state-mandated vaccines. In California, the Contra Costa Mosquito and Vector Control District initiated larval control measures in Brentwood due to the detection of invasive Aedes aegypti mosquitoes, capable of transmitting diseases like Zika and dengue.",
+      "regions": [
+        {
+          "name": "New Jersey, USA",
+          "lat": 40.0583,
+          "lng": -74.4057,
+          "severity": "yellow",
+          "detail": "Childhood vaccination rates have dropped to their lowest levels in years across the state."
+        },
+        {
+          "name": "Brentwood, California, USA",
+          "lat": 37.9316,
+          "lng": -121.7011,
+          "severity": "yellow",
+          "detail": "Larval mosquito control efforts are underway due to the detection of invasive Aedes aegypti mosquitoes."
+        },
+        {
+          "name": "North York, Ontario, Canada",
+          "lat": 43.7615,
+          "lng": -79.4109,
+          "severity": "green",
+          "detail": "The Government of Canada will announce funding to promote active lifestyles."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran sanctions escalate amidst resilient but turbulent global economy",
+      "summary": "The global economy shows resilience with stronger growth forecasts and stable core inflation, yet it faces significant turbulence from escalating US sanctions on Iran, which aim to sever its financial lifelines and warn other nations to cease business with Tehran. These actions follow a previous surge in global fuel costs linked to Iran's blockade of the Strait of Hormuz, indicating persistent geopolitical risks to economic stability.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US launched \"Operation Economic Outcast\" and imposed sweeping sanctions on Iran's financial sectors."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran faces severe economic isolation due to intensified US sanctions."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Past blockade of this strait by Iran led to surging global fuel costs."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India's Commerce Minister announced the negotiation of significant trade agreements."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "green",
+          "detail": "The Swedish economy is expected to stabilize with 2% annual GDP growth amidst global resilience."
+        },
+        {
+          "name": "Southern China",
+          "lat": 23,
+          "lng": 113,
+          "severity": "yellow",
+          "detail": "Typhoon Narra caused damage to infrastructure and crops, impacting the regional economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Tech platforms fail to curb election disinformation in Brazil",
+      "summary": "Ahead of Brazil's October 2026 elections, an Amnesty International experiment revealed Meta's failure to detect election-related disinformation ads on Facebook, despite existing regulations against using generative AI for political campaigns. This highlights ongoing challenges for democratic processes globally, with policy debates continuing regarding how AI and social media regulations impact free expression and the integrity of information in democratic spaces.",
+      "regions": [
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Meta failed to detect election-related disinformation ads on Facebook ahead of municipal elections."
+        },
+        {
+          "name": "Menlo Park, California, USA",
+          "lat": 37.4529,
+          "lng": -122.1817,
+          "severity": "yellow",
+          "detail": "Meta's platforms are implicated in failing to moderate disinformation impacting democratic elections."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India's Home Minister directed the use of AI to counter security challenges, influencing digital governance."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "European institutions continue to debate AI regulation and its impact on democratic processes and fundamental rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Typhoon Narra triggers mass displacement in China, Vietnam",
+      "summary": "Typhoon Narra caused disastrous floods and landslides in southern China and northern Vietnam, displacing approximately 54,000 people in China and over 4,300 households in Vietnam, and leading to at least one fatality. These events create immediate humanitarian aid needs for shelter, food, and emergency services. The broader global context shows a worsening of global peace with numerous active conflicts, implying persistent humanitarian challenges worldwide.",
+      "regions": [
+        {
+          "name": "Southern China",
+          "lat": 23,
+          "lng": 113,
+          "severity": "red",
+          "detail": "Around 54,000 people were displaced by disastrous floods and landslides caused by Typhoon Narra, creating urgent aid needs."
+        },
+        {
+          "name": "Northern Vietnam",
+          "lat": 21,
+          "lng": 105,
+          "severity": "red",
+          "detail": "Over 4,300 households were displaced, and at least one person died due to Typhoon Narra's heavy rains and floods."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ongoing conflict generates continuous humanitarian aid requirements for affected populations."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "Protracted conflict continues to necessitate significant humanitarian assistance for food and health."
+        },
+        {
+          "name": "Goma, DR Congo",
+          "lat": -1.6784,
+          "lng": 29.2291,
+          "severity": "yellow",
+          "detail": "Ongoing regional instability and displacement require sustained humanitarian efforts in the Eastern region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gzV8y9AjihL4Yq9swCZVqBUMmRU6Zxc9k15xgELM5o0a0gDBXLW6Kg5YiO7I5K-P5McbxC8d-h56MgZOqRoTlTa8Ce91uLHCXh-xE-gRnzxslu5LEA5kDarhZ8wnIcSPJ0UpdgfHi-BUzvATG6p-rIiZ3pCaSNz92M1NedI="
+        },
+        {
+          "title": "salemnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnYtkxSM51PwRiCozdxeXPP0va3B-EmgkR_uS83kVYvNb6uy7I9FIPeCeRXvIvGK9A2VGT2OV4fUgi5tmn7wSZ8cpkUmJw-gF9UEFFya0AK2Emds9EN_XdK0o7ycnzfNXZav1K8VvHSieuZFpjW3LPrxne7RuM5mV2JpnHEMUY1Y2SRchyDYfaXzQBOS5cN6PafGp_dF27UvUdSgdtvv5Y2FSNkmasjrqml1NiTuMDVryuXcUrjhwt5AWrZjbhNLCBhauMP6CsNGg65c="
+        },
+        {
+          "title": "israelhayom.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmYghelb7KVkScM3vK0Ir_D4eIFb-R54091hasdhi-AVc1RCAYbB5vYxz1Umky9TdA785KyN6v3Aoj4kpETv-LUTGJlCCaOrdMYqjdosysKcbCaJSo6n9Wmgiz3bWEnItzzfn_GL1X5PBb5k4stKmixDwhWYdn_HB4bAS9SNAkw8KdrDpw"
+        },
+        {
+          "title": "chicagocatholic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSVqFUQRD4y8G2GInOcKLasRwo-0RXPiX2u49d16J-BurbYOfPxSLKOsqd5Qyto7ubzcDzTa_1IsHb1vhSBQdcyKg01_SUo1385wSlu_h6cfXqDVylW9_Tjgcwme8VQPSU1IbKnSCX9sxp1ybYhZL7wMLhM8gRQMVmk2-CFeKJpXJBuPBi6q-xwVR4y4WvCmy83MspiPcme41ri79mlFeumImuOjEe3q9Q14iX3HxY9MZcuMPy0F1_Ljqn5iHRC-bwEGHzqEnh0_MK-rjUao1INyvclPxYhSPKoyNXMWUnpiYV"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VNqMo4v2yEREEQ05-JAjb8LtIHD93FHtSW4Onl9YxETHGzgp_AR2er9u3q8RoKx2RtkkZMiNFZgCdOGKJdb-6C46tv6XgDSAw1fgNyDWHfL-YmpCcqc2kGNxcWnRBpDbBiGkDSOOW5yCkhNdEYcuJUMgaf3Hxql1_B-q4DpmjnmuA6TkNd-vsMafssdU0kgRmDKfndETby3TRXyLfg7F9xResOgy3hGIfTDdPvU40POJbvoMae-QHnjijgx9uqIzvFTWPXh5Ya50jbQrhvVq8mXAdzjs8NVCYp_BzDS36MNKjJ-XAK7c6fgOtbbhKo5DYhfmSoAB-1SkIt8iEJqsSq7T5lt2h4jgPgNGbcD1D1dTE1A06bVmaZLuWGQ3rembK8zLagk="
+        }
+      ]
+    }
+  }
+}
