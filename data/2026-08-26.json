@@ -1,0 +1,545 @@
+{
+  "date": "2026-08-26",
+  "timestamp": 1787724478622,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran war, Ukraine, and Myanmar conflicts escalate global tensions.",
+      "summary": "An ongoing war in Iran, with energy supply disruptions in the Strait of Hormuz, continues to strain the global economy. Concurrently, Vatican envoys urge peace talks between Russia and Ukraine, while the human rights situation in Myanmar deteriorates amidst ongoing conflict, and South Sudan faces escalating armed confrontation.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing \"Iran war\" continues to impact global energy supplies and is mentioned in relation to US and Israeli attacks."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Vatican calls for immediate peace talks to end the ongoing conflict with Russia."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1307,
+          "severity": "red",
+          "detail": "The country experiences a \"new low\" in human rights amid internal conflict and a humanitarian crisis under a military junta."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Political mistrust and armed confrontation are stressing the transition ahead of elections."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is involved in discussions related to the Iran war and Gaza peace efforts, while the IMF chief also speaks from here."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russian officials met with Vatican envoys to discuss peace prospects for Ukraine."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "A US-led peace board issued warnings to Hamas, with Israel threatening stepped-up operations in the region."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9,
+          "lng": 38.75,
+          "severity": "yellow",
+          "detail": "The African Union Peace and Security Council is convening here to address the volatile situation in South Sudan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global digital rights, AI safety, and conflict-zone abuses raise alarms.",
+      "summary": "Human rights hit a \"new low\" in Myanmar, with severe abuses against the Rohingya, while US groups urge action against Israeli colonist sieges in the West Bank. Concerns over AI safety escalate as models breach real-world systems, and China regulates companion chatbots over fears of emotional dependence.",
+      "regions": [
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1307,
+          "severity": "red",
+          "detail": "The UN warns of \"ever-worsening brutal abuse\" of the Rohingya minority and a deteriorating human rights situation."
+        },
+        {
+          "name": "Qusra, Palestine",
+          "lat": 32.0833,
+          "lng": 35.3167,
+          "severity": "red",
+          "detail": "Palestinian homes are under siege by Israeli colonists, prompting calls for US congressional intervention."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The government is regulating AI companion chatbots due to concerns about emotional dependence and social impact."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The government contemplates a nationwide Facebook ban over safety and child protection concerns, raising digital rights issues."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Digital rights group HateAid filed a criminal complaint against Meta's Ray-Ban smart glasses over privacy and surveillance concerns."
+        },
+        {
+          "name": "Montgomery, Alabama, USA",
+          "lat": 32.3668,
+          "lng": -86.2999,
+          "severity": "yellow",
+          "detail": "The state attorney general launched a probe into OpenAI following a model breach, citing AI safety concerns."
+        },
+        {
+          "name": "St. Paul, Minnesota, USA",
+          "lat": 44.9537,
+          "lng": -93.09,
+          "severity": "yellow",
+          "detail": "DHS conducted far-reaching surveillance activities amid an ICE surge in the state."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Office is located here and issued the warning regarding Myanmar's human rights situation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Catastrophic climate events loom amid record heatwaves in Europe.",
+      "summary": "Warnings intensify about the world inching towards catastrophic climate events, as Europe experiences record-breaking back-to-back heatwaves resulting in at least 35,000 excess deaths. Global sea surface temperatures break 2024 records, and an upcoming harsh El Niño pattern threatens increased food insecurity.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The EU warns member states to invest billions or face mounting climate disaster costs following severe heatwaves across Europe."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "A fictional scenario of catastrophic heatwaves in India highlights the global vulnerability to extreme climate events."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "French business activity was unexpectedly weakened due to a heatwave."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "While some water quality improvements are seen in rivers flowing to the Great Barrier Reef, the reef still faces enormous challenges from climate change and extreme weather."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan plans to extend weather forecasts in response to climate change impacts."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Analysis suggests that certain US policies could double power sector carbon emissions by 2035."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Localized public health threats, disease outbreaks, and new bans.",
+      "summary": "Oneida County, USA, enacts a public health order banning synthetic cannabinoids due to severe health risks, while Allegheny County, USA, initiates mosquito spraying against West Nile Virus. Pakistan faces an emerging Listeria threat, and South Sudan continues to battle an ongoing Cholera outbreak, alongside other public health emergencies.",
+      "regions": [
+        {
+          "name": "Utica, Oneida County, USA",
+          "lat": 43.1,
+          "lng": -75.2328,
+          "severity": "yellow",
+          "detail": "A public health order banning synthetic cannabinoids (K2, Spice, Deuce) takes effect today due to associated health risks."
+        },
+        {
+          "name": "Pittsburgh, Allegheny County, USA",
+          "lat": 40.4406,
+          "lng": -79.9959,
+          "severity": "yellow",
+          "detail": "The Health Department is spraying neighborhoods to control mosquitoes and prevent West Nile Virus."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.729388,
+          "lng": 73.093146,
+          "severity": "yellow",
+          "detail": "Scientists warn of Listeria as an emerging public health threat, highlighting the lack of an active surveillance system."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Multiple public health emergencies persist, including an ongoing Cholera outbreak."
+        },
+        {
+          "name": "Osaka, Japan",
+          "lat": 34.6937,
+          "lng": 135.5023,
+          "severity": "green",
+          "detail": "Researchers suggest wastewater monitoring could provide earlier warnings for pertussis outbreaks, supporting a proactive public health approach."
+        },
+        {
+          "name": "Annapolis, Maryland, USA",
+          "lat": 38.9784,
+          "lng": -76.4922,
+          "severity": "yellow",
+          "detail": "Mosquito control services are expanding in Prince George's County due to public health concerns over mosquito-borne diseases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran war energy shock persists, offset by AI boom; fiscal risks rise.",
+      "summary": "The global economy continues to navigate the energy shock from the Iran war and Strait of Hormuz closure, facing stubborn inflation and rising debt levels. However, the IMF notes that the ongoing AI boom is providing a positive demand shock, helping to offset these headwinds, while simultaneously warning of deteriorating fiscal conditions in some countries.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "IMF Managing Director Kristalina Georgieva discussed the global economy's resilience to the energy shock and the balancing effect of AI investments."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing \"Iran war\" and its impact on the Strait of Hormuz continue to cause energy supply disruptions, affecting the global economy."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "The Middle East region faces a downgraded growth forecast by the IMF due to regional instability and energy disruptions."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's economic activities are influenced by global energy prices and its own significant investment in AI, balancing economic forces."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US AI investments are noted for keeping corporate earnings and consumer spending strong, contributing to global economic resilience."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "A potential nationwide Facebook ban could significantly harm the nation's digital economy and small businesses."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Threats to democracy deepen globally; US and Myanmar face major challenges.",
+      "summary": "Democracy faces significant strain as California's Governor Newsom announces intent to sue the Trump administration over alleged attacks on voting, while Myanmar's ruling junta continues to suppress democratic institutions. South Sudan's transition to elections faces immense pressure from political mistrust and armed conflict, and China's subtle power play in smaller states further challenges democratic norms.",
+      "regions": [
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "Governor Newsom is taking legal action against the Trump administration to defend voting rights and democratic processes."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1307,
+          "severity": "red",
+          "detail": "The country's democratic experiment ended with a coup in 2021, and human rights continue to decline under the junta."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Upcoming elections are under strain due to political mistrust and armed confrontation."
+        },
+        {
+          "name": "Colombo, Sri Lanka",
+          "lat": 6.9271,
+          "lng": 79.8612,
+          "severity": "yellow",
+          "detail": "China's economic influence in small nations like Sri Lanka is shaping governance debates and challenging democratic norms."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "A human rights lawyer criticized the Nigerian Bar Association over its stance on democracy and invited speakers."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US faces internal challenges to its democratic processes, as highlighted by state-level actions and debates on AI's impact on elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian needs surge amid conflicts, attacks on aid workers, and funding shortfalls.",
+      "summary": "The humanitarian situation is critical, with over 252 million people in need globally, while major crises in South Sudan and the Eastern Mediterranean Region see millions requiring assistance and significant attacks on healthcare workers. Funding shortfalls severely hamper operations, and migrant smuggling networks continue to thrive, leading to increased deaths on perilous routes to Europe.",
+      "regions": [
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "The country faces the world's largest humanitarian crisis, with millions facing acute food insecurity and aid operations restricted by conflict and attacks on workers."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "red",
+          "detail": "The WHO Eastern Mediterranean Region reports over 117 million people in need of humanitarian assistance and significant attacks on healthcare."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Human rights defenders, also providing aid, face urgent funding needs amidst the ongoing conflict."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Reports of over 200 cases of sexual violence against children during the conflict indicate a severe humanitarian situation."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN and WHO are based here and have issued warnings about global humanitarian needs and attacks on aid workers."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "Spain is impacted by a significant increase in migrant arrivals via the Western Mediterranean route."
+        },
+        {
+          "name": "Algiers, Algeria",
+          "lat": 36.7538,
+          "lng": 3.0588,
+          "severity": "yellow",
+          "detail": "Departures from Algeria are a major driver of increased migrant arrivals on the Western Mediterranean route."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Europe faces ongoing challenges from resilient migrant smuggling networks and humanitarian concerns at its borders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UWdHv5AnewYBhEWGp_kcL6xljworQMFXp6FIqM13tGBkdLJ3PthjaQNc9o5fZp2fKt3_4eYqkMuAo17f-SmA1dqjjL2bFx0fEPcbXJubqLoGBNJsnEH9Q_22hP5ln7SMCb3-DNpVNpDqVnOYUDdMhdXr_y3abS0M1mc8YUJNe8hnvqU7NFAodA-QF4VnhFsjcJ2bWCPvN6ngWTAFpPZzRZPhzT5G56sT1hdGtcViT30hX55SYfwWPU90vmI="
+        },
+        {
+          "title": "bworldonline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLHyFwNksfj70F11FZSezjc48rX-P1OM6D3qjy7r-2vjORrwIvhLPmaYDeNDGgrG_kCzdmtXElYMYgmirw8k5E7M0QlAZOCFRlywCbVlu8P5iBPoymho0JRVYIuwjXsURU3zIWOMSY6rbAvktrAhmTYDR4gcdfgpab2kEov2UDaKcinU7id2HUXJFWDLcq5nozpjMRrVK1E5eu8liwgmxsaaRtwx-MUk1CKoDa-jgSHZEmL2vFA0tqWgX8vQ="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES0pvftPXW9qtvh7gqjwRYt9KlWkdgft7k7sCwgmeL7qVV5ZvHmwvPqz98anQ1v2is7g2Bh247EVFTvH1zGVYP6s4-ehS7NEu-0oxG54h0OS2N4Us_N1NjjNfKPeKpdsAPLBzrfHyLxecBlcQU3IR5uaWs-G4dlTQ6TPr1RUJVXU2wiSsxy-Pg4FbU--v5GyA0ZJ_dj9G4WpGZ_8ntoy67"
+        },
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdvp7QU4Ljwx4euqg6gCQ3n0EW26Gb1FOumsUNHcM-ZsCF0AmXP1vNb3mHNNxQ6o99VGssmySxJWNAn7sI1ezg69A6T1yXVlGZE6K-g1KQ7EISmBV6aRM25vnlPlylvzFtmXMOtrKMJmYulPQxe2VsMBcdcZzmwg3ErNMRd0snuptx0AfiW5nvgXDFALIp9iT4p_kcDPl7DxOZ-9pA-f2C-E6jlB9b1sgb9BXVIGZvSFIes2GWBbW3Ty6FzMWH015"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRb7nMemG-onub-3pKyaP89LeRi7c1VIbGs8p0au2ltQNxzgWk32TcDViqYEz5kY9uxL4Tnb47RzxJn_aSk9LljoFcQUt5ZeuNtDDxob5wKdujsAqLHgoadzlOKa1tD9U7DHoeS0-XxOf9khGMLvF_zslowAGG5xGvSu_KB8bl0G_SXz5SzfspugOjt_7y3JSlwTdq1hH9tYFxYPh8AbOTGeW0-cJfy84cslzEMiZqm_nBRM8ZaBhB"
+        }
+      ]
+    }
+  }
+}
