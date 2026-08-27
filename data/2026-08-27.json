@@ -1,0 +1,517 @@
+{
+  "date": "2026-08-27",
+  "timestamp": 1787821181658,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East tensions high; China calls for Gaza peace.",
+      "summary": "Tensions remain elevated in the Middle East with ongoing conflict in Gaza and an \"Iran war\" impacting the Strait of Hormuz. China has urged efforts for lasting peace in Gaza and to curb West Bank violence, criticizing Israel's escalation. There are reports of a tanker hit by an \"unknown projectile\" in the Strait of Hormuz, further highlighting regional instability.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.466667,
+          "severity": "red",
+          "detail": "Ongoing conflict and Israeli attacks continue to undermine the fragile situation in Gaza."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35.25,
+          "severity": "yellow",
+          "detail": "Efforts are urged to curb violence and prevent further harm to the Palestinian people."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "A tanker was hit by an 'unknown projectile,' and Iran has effectively blockaded the Strait since February."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran is involved in discussions with Oman regarding reopening the Strait of Hormuz but demands the US lift its naval blockade."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US launched a war on Iran, and Washington has been weaponizing its economic power with sanctions."
+        },
+        {
+          "name": "United Nations, New York, USA",
+          "lat": 40.7489,
+          "lng": -73.968,
+          "severity": "green",
+          "detail": "A Chinese envoy called for efforts to achieve lasting peace in Gaza, while Iran criticized the Security Council's failure to condemn US sanctions."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "yellow",
+          "detail": "Tensions are rising in the Aegean Sea, with Greece accused by Turkey of forging strong military alliances with Israel and Cyprus."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "yellow",
+          "detail": "Turkey accused Greece of using a period of calm to forge military alliances, which Ankara views as a national security threat."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Meta settles child safety lawsuit; AI ethics in focus.",
+      "summary": "Meta has agreed to a significant settlement with multiple US states over child safety practices on its platforms, leading to changes for teen users. Discussions continue on the ethical implications of AI, with Pope Leo XIV emphasizing \"Disarming Technology, Serving Peace\" and warning against AI in military decisions. France's top court struck down a social media ban for under-15s, citing freedom of expression concerns.",
+      "regions": [
+        {
+          "name": "Oakland, California, USA",
+          "lat": 37.8044,
+          "lng": -122.2712,
+          "severity": "yellow",
+          "detail": "Meta reached a nearly $17 billion settlement with a group of states over its child safety practices, ending a landmark trial here."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York is among the states that passed laws aimed at restricting kids' social media use and is part of the Meta settlement."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France's top court struck down a law banning social media for under-15s, citing infringements on freedom of expression."
+        },
+        {
+          "name": "Vatican City",
+          "lat": 41.9029,
+          "lng": 12.4534,
+          "severity": "green",
+          "detail": "Pope Leo XIV chose \"Disarming Technology, Serving Peace: Politics as Preventive Responsibility\" as the theme for the 60th World Day of Peace, warning of AI risks in military decisions."
+        },
+        {
+          "name": "Chinautla, Guatemala",
+          "lat": 14.7075,
+          "lng": -90.4903,
+          "severity": "yellow",
+          "detail": "Peace Brigades International-Guatemala accompanied a gathering of people alongside the Peaceful Resistance of the Poqomám People defending their rights and territories."
+        },
+        {
+          "name": "Tegucigalpa, Honduras",
+          "lat": 14.0818,
+          "lng": -87.2068,
+          "severity": "yellow",
+          "detail": "PBI-Honduras accompanied the Camp for Life and witnessed police using tear gas and water cannon against the camp."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "The Democratic Progressive Party (DPP) hosted a human rights and democracy tour for new immigrants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Floods devastate Nepal-Tibet border, rare snow in Atacama.",
+      "summary": "Massive flash floods, potentially triggered by a glacier collapse and earthquake, have hit the Nepal-Tibet border, causing significant casualties and leaving hundreds missing. Canada and Malaysia are providing humanitarian assistance. Meanwhile, rare and widespread snowfall has occurred in Chile's Atacama Desert due to back-to-back winter storms.",
+      "regions": [
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Massive flash floods and landslides killed at least 157 people and left hundreds missing, including foreign tourists."
+        },
+        {
+          "name": "Tibet, China",
+          "lat": 31,
+          "lng": 89,
+          "severity": "red",
+          "detail": "The Nepal-Tibet border area experienced severe flash floods with over 550 people reported missing in Gyirong county."
+        },
+        {
+          "name": "Atacama Desert, Chile",
+          "lat": -24.5,
+          "lng": -69.25,
+          "severity": "yellow",
+          "detail": "Rare and widespread snowfall blanketed parts of the desert due to back-to-back winter storms in August 2026."
+        },
+        {
+          "name": "Colombia",
+          "lat": 4.5709,
+          "lng": -74.2973,
+          "severity": "yellow",
+          "detail": "Canada is providing over $2 million in funding for emergency relief efforts in response to an August 10 earthquake."
+        },
+        {
+          "name": "Somalia",
+          "lat": 5.1521,
+          "lng": 46.1996,
+          "severity": "red",
+          "detail": "The country faces a severe hunger crisis due to drought, aid cuts, and anticipated sweeping floods from an amplified El Niño."
+        },
+        {
+          "name": "United Kingdom",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "severity": "green",
+          "detail": "The Met Office looked back at the 2025/26 storm season, noting a relatively quiet year for named storms but still with significant weather impacts from storms like Amy and Dave."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Pancreatic cancer drug approved, measles outbreaks.",
+      "summary": "The FDA has approved a groundbreaking new drug for advanced pancreatic cancer, offering more effective treatment against one of the deadliest cancers. However, the United States is experiencing its largest measles outbreak in decades, with New Jersey health officials urging vaccination, and millions are expected to contract measles globally in 2026. A new Salmonella outbreak with 84 patients has also been reported, with the source yet to be determined.",
+      "regions": [
+        {
+          "name": "Redwood City, California, USA",
+          "lat": 37.4852,
+          "lng": -122.2363,
+          "severity": "green",
+          "detail": "Revolution Medicines, based here, developed the new pancreatic cancer drug daraxonrasib, which was approved by the FDA."
+        },
+        {
+          "name": "Trenton, New Jersey, USA",
+          "lat": 40.2206,
+          "lng": -74.7669,
+          "severity": "yellow",
+          "detail": "The Health Commissioner urged measles vaccination as the US experiences its largest outbreak in decades, with cases reported nationwide."
+        },
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.9631,
+          "lng": -77.7858,
+          "severity": "yellow",
+          "detail": "The state reported 393 measles cases and the first two US deaths from the disease this year."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The Food and Drug Administration (FDA) approved a groundbreaking new drug for advanced pancreatic cancer."
+        },
+        {
+          "name": "Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Most of the estimated 11 million people globally who will contract measles in 2026 are expected to be in Africa."
+        },
+        {
+          "name": "Asia",
+          "lat": 34.0479,
+          "lng": 100.6197,
+          "severity": "yellow",
+          "detail": "Most of the estimated 11 million people globally who will contract measles in 2026 are expected to be in Asia."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Asian stocks mixed; IMF warns of fiscal concerns.",
+      "summary": "Asian stock markets are mixed following modest losses on Wall Street, with some beneficiaries from the AI frenzy. The IMF chief warns the global economy is \"storm-tossed\" between crises like high inflation and debt, and opportunities from the AI revolution, with concerns about deteriorating fiscal conditions in some countries. The \"Iran war\" and the closure of the Strait of Hormuz have significantly impacted worldwide energy prices.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF chief, Kristalina Georgieva, warned about deteriorating fiscal conditions in some countries and the global economy being 'storm-tossed'."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan's Nikkei 225 slipped, amidst mixed Asian stock market performance."
+        },
+        {
+          "name": "Shanghai, China",
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "severity": "yellow",
+          "detail": "The Shanghai Composite index rose, but growth in industrial profits slowed in July."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korea's Kospi rose, benefiting from the global AI frenzy."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's Taiex index added, also benefiting from the global AI frenzy."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28.5273,
+          "lng": 44.4172,
+          "severity": "yellow",
+          "detail": "The ongoing \"Iran war\" and the closure of the Strait of Hormuz have significantly impacted worldwide energy prices."
+        },
+        {
+          "name": "Davie County, North Carolina, USA",
+          "lat": 35.9185,
+          "lng": -80.3795,
+          "severity": "yellow",
+          "detail": "The county is ending water fluoridation due to Middle East supply chain issues affecting the availability of chemicals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democrats face internal divisions, pro-Israel picks for House.",
+      "summary": "US Democrats are facing internal divisions, particularly over the Israel-Gaza conflict and US aid to Israel, as they head into upcoming elections. Pro-Israel lawmakers have been selected for key roles on the House Foreign Affairs Committee, despite shifting attitudes among Democratic voters. In Taiwan, the DPP hosted a human rights and democracy tour for new immigrants.",
+      "regions": [
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "Democrats are grappling with internal divisions over Israel, antisemitism, and a contentious Senate primary ahead of November elections."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Three pro-Israel Democratic lawmakers were selected for top roles on the House Foreign Affairs Committee, despite shifting voter attitudes."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "The Democratic Progressive Party (DPP) organized a human rights and democracy tour for new immigrants."
+        },
+        {
+          "name": "Oakland, California, USA",
+          "lat": 37.8044,
+          "lng": -122.2712,
+          "severity": "yellow",
+          "detail": "A lawsuit settlement with Meta will lead to changes in child safety practices on social media, impacting digital rights and potentially setting industry standards."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid flows to Nepal flood victims, Somalia faces hunger crisis.",
+      "summary": "Following massive flash floods on the Nepal-Tibet border, Canada and Malaysia are providing humanitarian assistance and relief efforts are underway. Meanwhile, Somalia faces a severe hunger crisis, exacerbated by drought, aid cuts, and the anticipation of sweeping floods due to El Niño, with millions at risk of starvation.",
+      "regions": [
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Humanitarian aid is being deployed and coordinated following massive flash floods that caused significant casualties and left hundreds missing."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "Canada announced over $2 million in funding to support emergency relief efforts in response to an earthquake in Colombia."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "The Malaysian Armed Forces are ready to support humanitarian missions to flood-hit Nepal."
+        },
+        {
+          "name": "Kismayo, Somalia",
+          "lat": -0.3582,
+          "lng": 42.5454,
+          "severity": "red",
+          "detail": "Displacement camps here highlight a hunger crisis at breaking point, exacerbated by drought, aid cuts, and impending floods."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Canada is providing humanitarian assistance to Colombia following an August 10 earthquake that caused tragic loss of life and extensive damage."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The UN Secretary-General confirmed that UN teams are delivering emergency supplies and support staff to affected communities in Nepal."
+        }
+      ],
+      "sources": [
+        {
+          "title": "people.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2xusxj6pvRl3Bp-pNQ-qWazWg5eISzZben447sscD6tkmIGAPi4A4_nCRI-EgGwTwYgiWxMgRzQNPfhvpg_IcqrH-FCbDvUoP72hKxNPYcxgapEevc31gVrZYoe4xFXWh65fz8zcCfIZUrIqcWIX"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CUkbhpYJe-BhPCEoJfRO8FQBADUGtOV1s8MQ2f9e7h1TaO06qBl6-NezOq1iP2EzBytovLA4hymweZDgVSBIUX4BcLHXwo12cagKDYc_7o91rlSzE9rWNhNKDQYv5GvQfsD5Ay6mOk55x2YStpCrnhye3vo-jSJirFtTCV0gkUTRWawVQSY="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhPS3srM3W5i0NnRaY74DrhKdiA1tapRlP6l-nvIqVsqrnXyJc-zQhM_1WJM_lI9Ov93rY3-dumEbuAi8NL7aFvDsypA_WHjM1BNZ0tO8TLQ4EsA4Fx_ZqJxTmR5P9nTZiVKQDZt688gqGLyByVB7RvM9BvUjdJI7zts4wDlk="
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELh3pSNPOITF_g1NtbvlI0mORHXGNZ6-wYYCsUs7fiSEqplaG985ZSp7-6jSjmjQBpEoE2HYkPS6yzi1gT7vPGpKdNfroOL66Q4esf29eWI5MPnZEj543MkWQZI2dpCNF1mcCd4iPfT7YjjEPnTNPa7jQJd-OTlUfUVyQOVAjwqyXk0rNqFzBUDVNXiR2WxlqKhxx6gn9Rd9Gns_-PpEkp"
+        },
+        {
+          "title": "euractiv.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJzN1YagDsBsbO31gCLT33S_kODmobxU_pW4t35-1IKvoRUMAamcEsTKJDffVpVnVmTNx9u9WIdiMNGnNuokwoW8F_IMGgQR1ldzUrKakIN9LtRQG82f6GP_f1vwq-PxHaX50xbVOiyvwpB_bqmcmdeEzKDBsP5Q5e9tx0L11ilrJkIBJTw=="
+        }
+      ]
+    }
+  }
+}
