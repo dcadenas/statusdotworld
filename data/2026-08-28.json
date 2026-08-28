@@ -1,0 +1,475 @@
+{
+  "date": "2026-08-28",
+  "timestamp": 1787907752089,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East conflicts persist; Iran-US tensions, Gaza crisis continue.",
+      "summary": "Reports indicate ongoing conflict between Iran and the US, impacting Arab states, and continued hostilities in Gaza with significant humanitarian consequences. Additionally, diplomatic efforts call for an end to war, implying ongoing conflicts elsewhere.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Ongoing hostilities and Israeli military strikes continue to kill and displace people, with a crisis over Palestinian bodies held by Israel."
+        },
+        {
+          "name": "Israel",
+          "lat": 31.0461,
+          "lng": 34.8516,
+          "severity": "red",
+          "detail": "Ongoing military operations in Gaza contribute to the humanitarian crisis."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Tensions between the US and Iran persist, impacting the broader region."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "yellow",
+          "detail": "A Vatican diplomat urged Russia to end the war, implying ongoing conflict."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.524,
+          "lng": 105.3188,
+          "severity": "yellow",
+          "detail": "A Vatican diplomat met with Russia's Foreign Minister to discuss the ongoing conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights, AI safety, and traditional human rights abuses headline news.",
+      "summary": "Major tech companies face legal challenges over digital rights and child safety, with Meta agreeing to a large settlement and facing EU scrutiny. Concerns about AI safety are also prominent, while Afghanistan sees a severe crackdown on protest rights. Voting rights in the US also remain a point of contention.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Human Rights Watch criticized the Taliban government for a new law banning all protests."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Civil rights groups are protesting changes to voting laws ahead of midterm elections, and a federal judge blocked new mail-in voting rules."
+        },
+        {
+          "name": "Europe",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "The European Commission accused Meta of breaching digital services act over 'addictive design'."
+        },
+        {
+          "name": "Netherlands",
+          "lat": 52.1326,
+          "lng": 5.2913,
+          "severity": "yellow",
+          "detail": "Repro Uncensored initiated legal action against Meta for alleged targeting of LGBTQ+ accounts and abortion access providers."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "A new state law takes effect, allowing residents to request the removal of personal information online."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Catastrophic floods in Nepal-China, extreme heat and storms globally.",
+      "summary": "Catastrophic floods along the Nepal-China border have resulted in hundreds of deaths and thousands missing, with ongoing threats from a swelling barrier lake. Meanwhile, extreme heat and severe thunderstorms are affecting various regions globally, including parts of the US, while a strong El Niño is intensifying.",
+      "regions": [
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Catastrophic floods and landslides, triggered by a glacier collapse, have killed hundreds and left over a thousand missing, with fears of further flooding."
+        },
+        {
+          "name": "China (border with Nepal)",
+          "lat": 29.65,
+          "lng": 86.67,
+          "severity": "red",
+          "detail": "Flooding along the Nepal-China border has led to fatalities and missing persons, with Chinese authorities monitoring a growing barrier lake."
+        },
+        {
+          "name": "Glassboro, New Jersey, USA",
+          "lat": 39.7046,
+          "lng": -75.1121,
+          "severity": "red",
+          "detail": "Severe storms caused intense flash flooding and hail."
+        },
+        {
+          "name": "Boca Raton, Florida, USA",
+          "lat": 26.3587,
+          "lng": -80.0833,
+          "severity": "yellow",
+          "detail": "The region is experiencing an extreme heat index of 109°F and daily thunderstorm threats."
+        },
+        {
+          "name": "Western US (Rockies & Intermountain West)",
+          "lat": 40,
+          "lng": -110,
+          "severity": "yellow",
+          "detail": "Monsoon thunderstorms, heavy rain, flash flooding, and dangerous heat are impacting this region."
+        },
+        {
+          "name": "Western Europe",
+          "lat": 48,
+          "lng": 5,
+          "severity": "yellow",
+          "detail": "Western Europe has experienced record-breaking heatwaves and exceptional wildfires."
+        },
+        {
+          "name": "Indonesia",
+          "lat": -2.5489,
+          "lng": 118.0149,
+          "severity": "yellow",
+          "detail": "The biggest wildfires since the 2015 El Niño are blanketing parts of Southeast Asia in smoke."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "The country is facing its weakest monsoon in two decades."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles resurgence in US, ongoing polio outbreaks in Africa.",
+      "summary": "The United States is experiencing a three-decade high in measles cases, raising significant public health concerns, particularly in New York and Pennsylvania. In Africa, health ministers adopted a framework to sustain polio eradication efforts, despite over 180 polio detections in the region this year. AI shows promise for disease surveillance in Europe, but human oversight is deemed essential.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 43.2994,
+          "lng": -74.2179,
+          "severity": "yellow",
+          "detail": "The state reported 29 measles cases last week, with areas having low vaccination rates."
+        },
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.5908,
+          "lng": -77.2098,
+          "severity": "yellow",
+          "detail": "Over 400 measles cases have been reported, with the Department of Health working to provide information and protection."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "African ministers of health adopted a 10-year plan to sustain polio eradication efforts amidst ongoing outbreaks."
+        },
+        {
+          "name": "Lake Chad Basin, Africa",
+          "lat": 13,
+          "lng": 14,
+          "severity": "yellow",
+          "detail": "This region is one of Africa's critical areas of circulating variant poliovirus transmission."
+        },
+        {
+          "name": "Horn of Africa",
+          "lat": 8,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "This region is also a critical area for circulating variant poliovirus transmission in Africa."
+        },
+        {
+          "name": "Ohio, USA",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "green",
+          "detail": "The state is observing Overdose Awareness Day and has seen a 34% drop in overdose deaths in 2024."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Inflation fears grow, Mideast tensions impact global markets.",
+      "summary": "Global financial markets are bracing for insights from the Federal Reserve's Jackson Hole conference as inflation fears mount, exacerbated by the ongoing Iran conflict. Renewed pressures in the Middle East are also adding uncertainty to global fuel, fertilizer, and food supply chains.",
+      "regions": [
+        {
+          "name": "Jackson Hole, Wyoming, USA",
+          "lat": 43.4799,
+          "lng": -110.7628,
+          "severity": "yellow",
+          "detail": "Central bankers and economists are gathering for a symposium where inflation is a top agenda item."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Renewed pressures linked to regional conflicts are adding uncertainty to global markets and supply chains."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Inflation fears are growing, and the Iran war is putting pressure on the global economy."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "The prospect of US sanctions on Chinese banks is being raised, indicating potential economic tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Voting rights face ongoing challenges in the US.",
+      "summary": "Voting rights in the United States are facing ongoing challenges, including a Supreme Court decision that reinterpreted the Voting Rights Act, and attempts by the Trump administration to impose new mail-ballot rules which are being challenged by multiple states. Civil rights groups are actively protesting these developments.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Civil rights groups are rallying for voting rights amid concerns over recent changes to voting laws."
+        },
+        {
+          "name": "Louisiana, USA",
+          "lat": 30.9843,
+          "lng": -91.9623,
+          "severity": "yellow",
+          "detail": "A Supreme Court decision reinterpreted the Voting Rights Act, impacting congressional map drawing and representation."
+        },
+        {
+          "name": "New Jersey, USA",
+          "lat": 40.0583,
+          "lng": -74.4057,
+          "severity": "yellow",
+          "detail": "New Jersey and other states are challenging new mail-ballot rules imposed by the Trump administration."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Nepal floods prompt major aid response; Gaza food insecurity persists.",
+      "summary": "A significant international humanitarian aid effort is underway for Nepal following catastrophic floods, with Sri Lanka, UAE, Australia, Japan, and the World Food Programme providing assistance. Meanwhile, aid continues to reach hundreds of thousands in Gaza amid severe food insecurity and ongoing hostilities. Emerging El Niño conditions also pose a risk of increased acute food insecurity for millions in Asia and the Pacific.",
+      "regions": [
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Receiving substantial international humanitarian aid following devastating floods and landslides."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Hundreds of thousands are receiving aid amid severe food insecurity due to ongoing hostilities."
+        },
+        {
+          "name": "Asia and the Pacific",
+          "lat": 10,
+          "lng": 120,
+          "severity": "yellow",
+          "detail": "An additional 8.2 million people could face acute food insecurity due to strengthening El Niño conditions."
+        },
+        {
+          "name": "Sri Lanka",
+          "lat": 7.8731,
+          "lng": 80.7718,
+          "severity": "green",
+          "detail": "Providing US$1 million in humanitarian aid to flood-hit Nepal."
+        },
+        {
+          "name": "United Arab Emirates",
+          "lat": 23.4241,
+          "lng": 53.8478,
+          "severity": "green",
+          "detail": "Allocated USD10 million in urgent humanitarian aid to Nepal."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.2744,
+          "lng": 133.7751,
+          "severity": "green",
+          "detail": "Mobilizing $5 million in humanitarian support for communities affected by the Nepal-China floods."
+        },
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "green",
+          "detail": "Providing emergency relief goods to Nepal in response to flash flood damage."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxOUhdRFJVYBknPBOvoG6AooY5_gn9NMoPgNnZsOdG0S5tjUcYQwvo54newWhYcjUzpQBIvnJygOhtfkkNKG4OTgSmN07PW6Kg1J0xtlchD4xPZEMncuk16qCZkFQvOFZuO_dLmU1Edvas9QAZ_kuYhrRgRzhQ3obq9TYUFBRCpENEF4i2QucGTaXmjLBXtXYo367D_MFDrK75E70NTA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObtMtLlYbCqbFmUtuwwjISQjnXTRWOGzab3Gk1LYIlVdAa4GhnXNz9QBk_umInRGOD3yAQwDZvZEy08vXRtfz3ZU7W9RNxKEmXf7yQ2roerORqp90m2pqW3X9DbkpvaWarwPMdympwPucERaPJMoSNrPGq513EJHD5Y8ktvPXQ5OfGeHrbrOiaadFIaxv9PemXqSBqCyHzzptqkvNX4fORUse975erAIasZ4="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61knBR11DXsmThAzTidiUBEP_m-MNYx-kBNwVsLkZYwLDlpd3sZ4JBEnyNUDCaS8Y-8zsXNWPSFRGx2K-emLrG4D30tPFON4XrLCBG4KO50eBAG3V8MH6I4IJuotTqBxuO5xax_H_"
+        },
+        {
+          "title": "religionmediacentre.org.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Kn4srDYNbwszB_QNTaBYNAiO5fCq4osYmh6U0SKYx10EfOZm8mVhl1BBzQ83zYlH6xdvfB-fUp9vxjzFDr7uRY3sY6DhRkxl5wyM8HWqIVsgWlOAn_OUK2Ns-J_JpLCtxFNt6Ysk6cqUVYd8bPqsJ2JKb56QYybQZcQNLn1M0t6xPmsCugk1FT-DADoFS8bB"
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGhPFbyMsN0NTPwM7mL56A93Suc9XOuxgTFMZKW9sT8f7zwy8WWhRi4AItNRhu-bPFey35q_iRvJIOe2QwwRB0PBY1IVFn83cyVxAYYXHLXjKmF-d7wF52N7f1j2iU30L9IijZMj10K5jxz35-ZV_9EUCq21rQ2LbpJbMV"
+        }
+      ]
+    }
+  }
+}
