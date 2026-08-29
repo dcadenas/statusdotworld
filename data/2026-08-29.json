@@ -1,0 +1,461 @@
+{
+  "date": "2026-08-29",
+  "timestamp": 1787983474149,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine, Middle East, and Sudan conflicts intensify with drone strikes, blockades, and casualties.",
+      "summary": "The Ukraine-Russia conflict saw continued drone strikes by Ukraine on Russian oil refineries and warehouses, while Russia targeted the Kyiv region. In the Middle East, the US-Iran war passed its six-month mark with ongoing maritime blockades and an Israeli airstrike in the West Bank. Sudan's internal conflict escalated with the army seizing key towns and conducting cross-border drone strikes into Chad.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian forces resumed drone barrages, damaging apartment buildings and storage depots."
+        },
+        {
+          "name": "Rostov-on-Don, Russia",
+          "lat": 47.2357,
+          "lng": 39.7015,
+          "severity": "yellow",
+          "detail": "Ukrainian forces reportedly struck an Ozon logistics facility and other warehouses in a mass attack on southern Russia."
+        },
+        {
+          "name": "Yaroslavl, Russia",
+          "lat": 57.6261,
+          "lng": 39.8845,
+          "severity": "yellow",
+          "detail": "Ukrainian forces continued repeat strikes against the Yaroslavl Oil Refinery, causing damage and affecting Russia's oil refining volumes."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The US blockade against Iran continued, redirecting 82 commercial vessels and keeping geopolitical risks high for global oil supplies."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9333,
+          "lng": 35.2333,
+          "severity": "red",
+          "detail": "The Israeli military carried out a rare airstrike, killing three militants amid ongoing tensions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's leadership faced economic strain with exports and imports down 35% due to US sanctions and a naval blockade, alongside escalating conflict rhetoric."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "yellow",
+          "detail": "Sudan's army seized key towns on the Khartoum–El-Obeid 'Exports Road', indicating significant advancements in the internal conflict."
+        },
+        {
+          "name": "Ennedi-Est, Chad",
+          "lat": 17.5,
+          "lng": 22,
+          "severity": "yellow",
+          "detail": "The Sudanese army carried out drone strikes targeting a suspected RSF resupply convoy, raising concerns about regional spillover risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Voting rights threatened in US, West Bank settlement plans debated, minority rights still a concern.",
+      "summary": "Civil rights groups in Washington D.C. rallied against Republican redistricting and proposed voting restrictions ahead of midterm elections, citing concerns about eroding representation for Black voters. In the Middle East, Democratic senators urged Israel to halt the E1 settlement plan in the occupied West Bank, warning of further fragmentation of Palestinian territory. Bangladesh continued to address human rights, particularly for expatriates and religious minorities.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Civil rights groups protested against perceived threats to voting rights and racial justice ahead of the midterm elections."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9333,
+          "lng": 35.2333,
+          "severity": "yellow",
+          "detail": "Twenty-nine Democratic US senators urged Israel to halt construction tenders for the E1 settlement project."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "green",
+          "detail": "Human rights organizations discussed expatriate rights and efforts to protect religious and ethnic minorities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Catastrophic floods in Nepal, severe drought in Europe, and extreme heat in US highlight climate crisis.",
+      "summary": "Devastating flash floods in the Nepal-Tibet border region killed over 600 people and left thousands missing following a glacier collapse. Europe continued to battle persistent drought and scorching heat, severely impacting ecosystems and the fish industry across multiple countries. The US Southwest experienced extreme heat warnings with temperatures up to 119°F, while parts of the Northern Great Basin and Rockies faced severe thunderstorms.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "The country's disaster agency reported a death toll of over 600 with thousands missing due to catastrophic flash floods."
+        },
+        {
+          "name": "Hampshire, United Kingdom",
+          "lat": 51.0667,
+          "lng": -1.3167,
+          "severity": "yellow",
+          "detail": "Climate change, including record temperatures and drought, is threatening trout and salmon populations in rare chalk streams."
+        },
+        {
+          "name": "Serbia (Danube River)",
+          "lat": 44.8125,
+          "lng": 20.4611,
+          "severity": "red",
+          "detail": "Persistent drought caused significant recession of the Danube River's water levels, severely impacting ecosystems and local businesses."
+        },
+        {
+          "name": "Hungary",
+          "lat": 47.1625,
+          "lng": 19.5033,
+          "severity": "red",
+          "detail": "Around 99% of the country's lands were under severe or extreme drought conditions, leading to fish deaths and desertification threats."
+        },
+        {
+          "name": "Arizona, USA",
+          "lat": 34.0489,
+          "lng": -111.0937,
+          "severity": "red",
+          "detail": "Multiple counties were under Extreme Heat Warnings with temperatures up to 119°F, alongside a PM10 High Pollution Advisory."
+        },
+        {
+          "name": "Northern Great Basin, USA",
+          "lat": 41.5,
+          "lng": -117.5,
+          "severity": "yellow",
+          "detail": "Widely scattered strong to severe thunderstorms were expected with threats of severe wind gusts and large hail."
+        },
+        {
+          "name": "Ulaanbaatar, Mongolia",
+          "lat": 47.9212,
+          "lng": 106.9185,
+          "severity": "green",
+          "detail": "The UNCCD CoP17 concluded, highlighting the importance of rangeland health for climate resilience, in the context of Mongolia's climate vulnerabilities."
+        },
+        {
+          "name": "Mugu, Nepal",
+          "lat": 29.5694,
+          "lng": 82.25,
+          "severity": "yellow",
+          "detail": "Yarsagumba production, a valuable medicinal herb, has declined due to diminished snowfall in alpine pastures caused by climate change."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Nepal floods cause major public health crisis, US faces extreme heat illnesses.",
+      "summary": "The catastrophic floods in Nepal have created a significant public health emergency, with a large death toll and thousands missing, leading to displacement and urgent needs for relief. Simultaneously, extreme heat warnings across several US states are posing serious health risks and increasing heat-related illnesses.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "The ongoing flood disaster has resulted in a high number of deaths and missing persons, creating immediate public health and humanitarian challenges."
+        },
+        {
+          "name": "Arizona, USA",
+          "lat": 34.0489,
+          "lng": -111.0937,
+          "severity": "red",
+          "detail": "Extreme Heat Warnings are in effect, posing significant risks of heat-related illnesses for the population."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US Fed signals rate hikes amid inflation, Strait of Hormuz disruptions continue, China slows.",
+      "summary": "US Federal Reserve Chair Kevin Warsh indicated potential rate hikes due to stubbornly high inflation, following discussions at the Jackson Hole Economic Symposium. Global oil markets remained volatile with ongoing disruptions in the Strait of Hormuz due to the US-Iran conflict, and Russia's oil refining volumes hit a 20-year low from Ukrainian strikes. China's GDP growth projections were downgraded, and Japan saw accelerated inflation and a weakening yen.",
+      "regions": [
+        {
+          "name": "Jackson Hole, Wyoming, USA",
+          "lat": 43.5843,
+          "lng": -110.8219,
+          "severity": "yellow",
+          "detail": "Federal Reserve Chair Kevin Warsh signaled that rate hikes might be necessary due to persistently high inflation at the annual economic symposium."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump announced a major oil deal with Venezuela, shifting global energy dynamics."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Disruptions continued due to the US-Iran conflict and blockade, impacting global oil supplies and prices."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Three banks downgraded China's GDP growth projections, indicating a deepening economic slowdown."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan's inflation accelerated, and the yen weakened against the dollar, prompting increased speculation of a Bank of Japan rate hike."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The Iranian economy faced severe strain with exports/imports down 35% and annual inflation at 66% due to sanctions and blockade."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "green",
+          "detail": "A historic oil deal with the US was finalized, aiming to secure US control of Venezuelan oil reserves and catalyze the nation's revival."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia's oil refining volumes fell to a 20-year low due to Ukrainian drone strikes on its refineries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights challenged, Iceland votes on EU talks amid geopolitical shifts.",
+      "summary": "In the United States, civil rights groups actively protested and launched legal challenges against Republican efforts to restrict voting rights and reshape congressional maps, particularly affecting Black voters. Concurrently, Iceland held a significant referendum on whether to resume European Union accession talks, a decision influenced by rising geopolitical tensions and economic pressures.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Hundreds rallied on the National Mall to defend voting rights against Republican-led initiatives and Supreme Court decisions."
+        },
+        {
+          "name": "Reykjavik, Iceland",
+          "lat": 64.1265,
+          "lng": -21.8174,
+          "severity": "yellow",
+          "detail": "Voters participated in a referendum to decide on resuming European Union accession talks, reflecting a shift in national political sentiment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Catastrophic floods in Nepal lead to high death toll, thousands missing, urgent aid needed.",
+      "summary": "Catastrophic flash floods in the Nepal-Tibet border region resulted in over 600 deaths and more than 2,400 missing persons, prompting a severe humanitarian crisis. Rescue efforts were hampered by poor weather, while the Nepalese government and international partners, including India, ADB, and the EU, mobilized aid and prepared relief packages to address the widespread devastation.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "The capital city is coordinating massive relief efforts for the hundreds killed and thousands missing due to devastating flash floods."
+        },
+        {
+          "name": "Mugu, Nepal",
+          "lat": 29.5694,
+          "lng": 82.25,
+          "severity": "red",
+          "detail": "Communities in this region were severely impacted by the floods, contributing to the high death toll and missing persons count."
+        },
+        {
+          "name": "Rasuwa District, Nepal",
+          "lat": 28.1667,
+          "lng": 85.3167,
+          "severity": "red",
+          "detail": "Areas like Timure and Syaphrubesi were devastated by a sudden and powerful flood, sweeping away villages and infrastructure."
+        },
+        {
+          "name": "Gyirong County, Tibet, China",
+          "lat": 28.9167,
+          "lng": 85.35,
+          "severity": "red",
+          "detail": "The border crossing and surrounding areas reported major casualties and missing persons due to mudslides and floods originating from a glacier collapse."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "yellow",
+          "detail": "The ongoing conflict continues to generate humanitarian needs, with disruptions to supply lines affecting civilians and traders."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTH65NDUVU7QCQC_T9EAYUbuOpSrSeEK_1F2TsWqVuUQC79Hp3Op7yBqxRnc9cpF5sCdanjhXWU1usVYvfu8lKAj7x_bB_SN2H56FetT73zyXXALGj6F-t-uiDrdmuCCELhkyuyCrtY0pM7HXlC8NT15gfcYq4mjRj2_ZHmkm8qV7DWzlonKd49OXjquD-hsQ-lSj-0Hicm43C5JMS7bCu2RIBg=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP8yIqz0JnGr0ipgseMOYF1cC8aQhAqy_gMDrS-9adBmlJMWVEjokWhVF3jAJw8mLcYLfwwfoNfOX96tsJRMGWETTBTtCC4vMxXwf8GFMMUSS_fv3YyfPyazn1wlylBemteVRSzkj9gdWgWaPMjh9eAI45AeLolMFQ94rx8mZLZWjqECdMFQ9_aVDMRFqj0q0N49FGdYTgL6BuUIxM_qgllQpODTO7EhnZ_TSfwXCGS_JERj2CLKqm1oOOGfmpvsmYLK6_RsRYCOSwljE="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMG9D5A3e5g3z-wX1FqmnT1DTPhPBPD1dw_537PbVQcOPZ1p2SzTM21lXK-dXmzaFkvvUnQEVPeQi2XecJZ30KqNCVleqaDVLjHdGbi2vIYMwuD38Db3ugFy0Vb8ABy8qwafSEhn0Q2AkQXBQ5bcFwA4nFXzNiDOtqCiKzbkrRPms2vZeEyUdN_V33w89-e_eQLqPHmFGzaDZ0-Tx1TNwuA=="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIhKanvHvUV4t4trXNgtmIfPwkZh_GqClIbBEtK3WNSkkKRF56YY0o-UZsbfF2iUcE3dIJw-lAeynNBVSmDvqv9Cii1fV8AgweNaL3XXVfU3JuUudbmBkfI8fgX44AGtbysFQzEta1IGsCBya1mq_NetmBPqw8gfdklpfvYn3lFjIQ56UZlFPW63DE7o5ACIkzgx555ncfPBBgsYH2V-LANgbdSSEuByBQOE9Nlmz4Dlg3QyuxzGK9xsDoYsvOzDH"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5ZVktzGiHhXuX6IKu_BkUcuZm2DcHVBrS7XH74XO23evMCPRezU9Z6H232RN3cj98X8EUXZhThkg1YZewn9dx6lobhG00nIpa1j5-bDAtQtLWDPX2upbOdzd7Tjj_x1UFjm2DYwj60VEsSV5lo1GmaHHut1PLYis-bk0LE0KqpBWy4Z37HngVMAB_iBkkw7V5D4tkkbmhKbfFuHgyYS1_gqZpak-_pCP51MriDRBK2rsi5bPDQ3_lwQqHzABT4wFLRk_DnMCvZRzrUhhF5GnvbZJJsXCfkw21SdWOcKIzFEpFv9wOYIcJDvoyCOLLq-lOBc4BaOEOJ0s2kd0uQ=="
+        }
+      ]
+    }
+  }
+}
