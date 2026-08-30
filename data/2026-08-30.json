@@ -1,0 +1,468 @@
+{
+  "date": "2026-08-30",
+  "timestamp": 1788069887459,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine, Gaza, and US-Iran conflicts see major escalations.",
+      "summary": "A Russian strike on a Kyiv depot killed 37 people, while Ukraine escalated long-range drone strikes on Russia. Meanwhile, Israeli attacks in Gaza resulted in four Palestinian deaths, and the ongoing US-Iran conflict continued to impose significant economic tolls on Iran with intensified US sanctions.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "A Russian strike on a depot killed 37 people."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli attacks resulted in four Palestinian deaths."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian leaders acknowledged the economic toll of war with the U.S. and intensified sanctions."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. intensified sanctions against Iran amid ongoing conflict."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "CIA chief proposed a Trump-Putin-Zelenskyy meeting to discuss peace negotiations for Ukraine."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "Israel is a party in the ongoing conflict with Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Press freedom, forced deportations, and enforced disappearances raise alarms.",
+      "summary": "The Philippines faces significant challenges to press freedom with ongoing red-tagging and a lack of accountability for crimes against media workers. Kenya continues to grapple with persistent enforced disappearances and police killings. The US controversially deported Afghan, Iranian, Nepali, and Nicaraguan nationals to the Central African Republic, raising concerns about asylum and human rights.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Press freedom faces challenges, including red-tagging and impunity for crimes against journalists."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Amnesty International urged the government to address persistent enforced disappearances and police killings."
+        },
+        {
+          "name": "Bangui, Central African Republic",
+          "lat": 4.3946,
+          "lng": 18.5582,
+          "severity": "yellow",
+          "detail": "The US deported dozens of migrants, including Afghans and Iranians, to this country."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "Some deportees were Afghan nationals with security concerns about returning home."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration carried out controversial deportations of migrants to the Central African Republic."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "yellow",
+          "detail": "Reduced US aid led to clinic closures, impacting access to essential medications and raising human rights concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Devastating floods in Asia; Super El Niño threatens global food and resources.",
+      "summary": "Devastating flash floods and landslides in Nepal and China's Tibet region have caused a death toll of 750 with over 3,000 missing, triggered by a melting glacier. An unprecedented 'Super El Niño' is set to continue into next year, threatening severe food shortages, disrupting logistics, and impacting resource production globally, with significant drought damage in tropical countries like Indonesia.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Hit by devastating flash floods and landslides with a rising death toll."
+        },
+        {
+          "name": "Lhasa, Tibet, China",
+          "lat": 29.65,
+          "lng": 91.1333,
+          "severity": "red",
+          "detail": "Affected by severe floods and landslides, contributing to hundreds of deaths and thousands missing."
+        },
+        {
+          "name": "Bhote Koshi River, Nepal",
+          "lat": 27.9333,
+          "lng": 85.95,
+          "severity": "red",
+          "detail": "A melting glacier broke apart, sending a wall of water, mud, and debris down the river."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Experiencing drought due to El Niño, impacting rice production and leading to an expected rise in CPI."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Expected to see a significant rise in its Consumer Price Index due to the drought shock from El Niño."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Monsoon rainfall is expected to fall, threatening damage to rice crops."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles surge in US; Caribbean droughts impact water; local rabies exposure.",
+      "summary": "The U.S. is experiencing its worst year for measles cases in decades, with political disputes over reporting methods diverting attention from the public health threat. Across the Caribbean, repeated drought emergencies are raising concerns about public health due to unreliable access to clean water and heightened vulnerability to disease outbreaks. In North Carolina, a confirmed rabies exposure from baby goats prompted public health notifications.",
+      "regions": [
+        {
+          "name": "Ohio, USA",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "yellow",
+          "detail": "Mortality rate stagnates despite fewer overdose deaths, with chronic diseases being a primary concern."
+        },
+        {
+          "name": "Davie County, North Carolina, USA",
+          "lat": 35.9107,
+          "lng": -80.407,
+          "severity": "yellow",
+          "detail": "Confirmed rabies exposure from baby goats at a petting zoo led to public health notifications."
+        },
+        {
+          "name": "Kingston, Jamaica",
+          "lat": 17.9712,
+          "lng": -76.792,
+          "severity": "yellow",
+          "detail": "Experiencing repeated drought emergencies and water restrictions, raising public health concerns."
+        },
+        {
+          "name": "San Juan, Puerto Rico",
+          "lat": 18.4655,
+          "lng": -66.1183,
+          "severity": "yellow",
+          "detail": "Facing repeated drought emergencies and water restrictions, affecting public health."
+        },
+        {
+          "name": "Port of Spain, Trinidad and Tobago",
+          "lat": 10.6667,
+          "lng": -61.5167,
+          "severity": "yellow",
+          "detail": "Dealing with repeated drought emergencies and water restrictions, impacting public health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran's economy hit by US sanctions; El Niño disrupts global trade; US-Canada tariffs escalate.",
+      "summary": "Iran's economy is severely impacted by U.S. sanctions, with foreign trade shrinking by a third and high inflation, as the U.S. warns other countries against trade with Tehran. An unprecedented El Niño event is expected to continue, causing significant drought damage, affecting food prices in Asia, and impacting global resource production crucial for industries like AI. Escalating tariff disputes between the U.S. and Canada threaten the USMCA trade agreement, with potential negative repercussions for North American trade.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The economy is significantly impacted by U.S. sanctions and war, leading to a third reduction in foreign trade and high inflation."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. intensified sanctions against Iran and is in an escalating tariff dispute with Canada."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Involved in an escalating tariff stand-off with the US, threatening the USMCA trade agreement."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Expected to see rising Consumer Price Index due to El Niño induced drought, impacting the economy."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Expected to see rising Consumer Price Index due to El Niño induced drought, impacting the economy."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Korea Venture Investment Corp. secured an asset management license to boost Korea's venture ecosystem."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Press freedom challenged, indigenous rights contested, and calls for government accountability.",
+      "summary": "Press freedom in the Philippines faces serious challenges, including red-tagging and impunity for crimes against media workers, impacting a functioning democracy. In Kenya, Amnesty International calls for the government to address persistent enforced disappearances and police killings, crucial for upholding constitutional rights. The Trump administration is challenged by Tribal Nations and Native students over its failure to consult on policies affecting Native American education, raising concerns about democratic processes and indigenous rights.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Press freedom is challenged by red-tagging and a lack of accountability for crimes against media workers."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "The government is urged to address persistent enforced disappearances and police killings to uphold human rights and democracy."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration is challenged by Tribal Nations for failing to consult on policies affecting Native American education."
+        },
+        {
+          "name": "Phoenix, Arizona, USA",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "yellow",
+          "detail": "Tribal Nations across the US are challenging the administration for lack of consultation on education policies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Asia flood crisis deepens; reduced aid impacts health in Southern Africa.",
+      "summary": "Devastating floods and landslides in Nepal and China's Tibet region have led to nearly 700 deaths and over 3,000 missing, creating an urgent humanitarian crisis where ground operations are suspended. Separately, in Southern Africa, reduced international aid has led to the closure of clinics, impacting access to essential medications like ARV pills and highlighting a \"quiet crisis\" in health and human rights.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Facing a severe humanitarian crisis due to floods and landslides, with rescue operations hindered."
+        },
+        {
+          "name": "Lhasa, Tibet, China",
+          "lat": 29.65,
+          "lng": 91.1333,
+          "severity": "red",
+          "detail": "Affected by severe floods and landslides, requiring significant humanitarian assistance."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "yellow",
+          "detail": "Reduced US aid led to clinic closures, impacting access to vital antiretroviral pills for patients."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reduction in US aid has impacted health services in Southern Africa, contributing to humanitarian concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFRMWXh1zSAD13ihsKFmdG7OsBjoujDL6GR_rLxhuvkHqIWZBQxXNO7vBLWjQC5BTJZY6fEzCmFXZz6uGhtywU-c0vSDht0bI_d3Sq2-rz_uWAIiZlUthZdWXifFny-D04uUL_bvzrplbCQ8mgSskMCG5Ki69c18E5b_mMaH2OycOpjMibXnA0d51_CA=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYWAMGmupU4Exr_nvMtVU3eat5aWsna9HVjyqdOH9BMs6E59wMrnRdrKurcwWgVmGUKtWlOAY-tX4csxYqkhEKYVG1pmHLxv67pMLipdu_ULWXnCRMHqZdiBJa4AWc5LSJa_9pLFx_niRqUUmjTFlSzCbOJdVGFYF5tHhXmGWFtO9qWr9vEvH8ltTVXKl"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiftFpf6_aDBoA_HPBNdE2Uo4v9ysm3SkInHXmak-X5bkYJh7lXz9k9GKua4D1C9lfvFknur1cuh-VpgsHRVZ9B2hz-3_m071ZJOCfU5SCc_Zk-ru5f_O9-nPDrT0zbMkfsI6FYdabLJCiy8wodijhnhxwayJj34PvtjsYXRc="
+        },
+        {
+          "title": "amnestykenya.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2EXczl6zuwKqx5UzuzhB1hO7xTQ-e0IjywXa9DdSBjioo2RK5nE66XVwTGs5GIE-BgJRAaRvBMb4qYVbQWKqWkJep6mlMwI5TgEPPfzPnDxxXkiW3IRdh3t82Q1_a0oBEJpzruNQRzbWFRGSg6UqncmEvMBTRuebFYroWlzIu4jC8xy0oZa8VRc3IVk6f9gueXpn8q4uB3w3yfZMjgd-XKzz0H4_sDe861l5k4xm8o1PLUJ_nfFGqzx7_8kS9owYtg_TI6fiMjA=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgPaJfQZRORN4YOauT2-jeCLxQKD7FeQBVaeEh6pAo-HQoDQtU0pWnMl2pMGCzlwaLwnmhrTgQMn0l_qcOx87k0_SOoviNugHdy0MSqzbNwchk17PBXDruZyR5ept8E4puYkGlD0-UcB7colp9QlhITTnfsdMPxczLNZEyN-fetw0uZrW-GTWVXCzqwZvsvjGlhAqIhS07XN7jG-voTI="
+        }
+      ]
+    }
+  }
+}
