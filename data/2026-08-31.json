@@ -1,0 +1,426 @@
+{
+  "date": "2026-08-31",
+  "timestamp": 1788156317735,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US and Iran exchange strikes amid heightened tensions in the Strait of Hormuz.",
+      "summary": "The conflict between the US and Iran escalated with US forces striking Iranian rocket launchers on Larak Island, followed by Iran's Revolutionary Guard Corps retaliating with ballistic missile attacks on two US airbases in Jordan. This exchange of fire has led to casualties and continues to impact shipping in the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Larak Island, Iran",
+          "lat": 26.85,
+          "lng": 56.4,
+          "severity": "red",
+          "detail": "US forces reportedly struck Iranian rocket launchers on Larak Island, leading to casualties and further escalation."
+        },
+        {
+          "name": "Jordan",
+          "lat": 31.59,
+          "lng": 36.23,
+          "severity": "red",
+          "detail": "Iran's Revolutionary Guard Corps attacked two US airbases in Jordan with ballistic missiles in retaliation for US strikes on Larak Island."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.77,
+          "severity": "yellow",
+          "detail": "Tanker movement through the Strait of Hormuz has slowed, impacting oil prices and global trade due to ongoing conflict and US sanctions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Global concerns over AI surveillance, digital rights, and China's repression.",
+      "summary": "Concerns over AI surveillance are growing, with Texas blocking funding for Flock AI cameras and a new study proposing Data Rights Associations to counteract AI abuses. Meanwhile, repression in China has deepened, particularly against Uyghurs, with UN calls for addressing allegations of crimes against humanity going unheeded.",
+      "regions": [
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Texas Governor Greg Abbott blocked funding for Flock AI surveillance cameras due to growing backlash over privacy concerns and misuse by law enforcement."
+        },
+        {
+          "name": "Uyghur Region, China",
+          "lat": 40,
+          "lng": 85,
+          "severity": "red",
+          "detail": "Repression in the Uyghur region continues, with widespread abuses and disproportionate sentencing for minorities, four years after a landmark UN report."
+        },
+        {
+          "name": "Germany",
+          "lat": 51,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "A German digital rights group filed a criminal complaint against Meta over its smart glasses, citing concerns about inconspicuous recording and surveillance."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Nurses nationwide protested against Palantir, citing its role in ICE surveillance and increasing footprint in the healthcare industry."
+        },
+        {
+          "name": "Myanmar",
+          "lat": 21.9139,
+          "lng": 95.9562,
+          "severity": "yellow",
+          "detail": "Myanmar human rights activist U Bo Kyi won the Ramon Magsaysay Award for his work monitoring arrests and deaths at the hands of the regime since the 2021 coup."
+        },
+        {
+          "name": "Australia",
+          "lat": -25.2744,
+          "lng": 133.7751,
+          "severity": "yellow",
+          "detail": "The Australian Human Rights Commission warned that data centers, driven by AI investment, pose a threat to human rights, including housing affordability and electricity costs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Deadly flash floods in Himalayas and Grand Canyon; Vanuatu faces food insecurity.",
+      "summary": "Devastating flash floods in the Himalayas, particularly in Nepal, have resulted in hundreds dead and thousands missing, exacerbated by accelerated glacial melting. Simultaneously, Vanuatu is grappling with severe food insecurity due to extreme weather, including drought and cyclones linked to an intensifying El Niño event.",
+      "regions": [
+        {
+          "name": "Himalayas, Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Tragic debris-laden flash flooding has killed hundreds and left thousands missing, with glacial melting and permafrost destabilization increasing risks."
+        },
+        {
+          "name": "Grand Canyon National Park, USA",
+          "lat": 36.1,
+          "lng": -112.11,
+          "severity": "red",
+          "detail": "Flash floods in Bright Angel Canyon and Phantom Ranch areas have left more than 15 people missing and prompted evacuations."
+        },
+        {
+          "name": "Efate Island, Vanuatu",
+          "lat": -17.7333,
+          "lng": 168.3167,
+          "severity": "red",
+          "detail": "Extreme heat, drought, cyclones, and rising sea levels have damaged crops and threatened food security for subsistence farmers."
+        },
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": 180,
+          "severity": "yellow",
+          "detail": "The world's oceans are the warmest on record, fueled by climate change and a rapidly intensifying El Niño event, threatening Pacific island nations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "AI scribe errors raise patient safety concerns; Overdose Awareness Day observed.",
+      "summary": "AI technology used as scribes in medical consultations has shown errors in drug names and diagnoses, raising patient safety concerns in the NHS. Meanwhile, International Overdose Awareness Day is being recognized globally, with Michigan, Connecticut, and Boston highlighting the ongoing opioid crisis and available resources.",
+      "regions": [
+        {
+          "name": "England, UK",
+          "lat": 52.3555,
+          "lng": -1.1743,
+          "severity": "yellow",
+          "detail": "The NHS watchdog, Healthwatch England, warned about AI scribes making errors in patient consultations, potentially compromising patient safety."
+        },
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "Governor Gretchen Whitmer proclaimed August 31, 2026, as Overdose Awareness Day, highlighting efforts to combat the overdose crisis."
+        },
+        {
+          "name": "Connecticut, USA",
+          "lat": 41.5978,
+          "lng": -72.6703,
+          "severity": "yellow",
+          "detail": "Officials reaffirmed their commitment to combating the overdose crisis and bringing attention to addiction and recovery resources."
+        },
+        {
+          "name": "Boston, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "yellow",
+          "detail": "Mayor Michelle Wu and the Boston Public Health Commission joined to remember lives lost to the opioid epidemic and promote resources."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "The Bundibugyo Virus Disease (BVD) outbreak remains active, with UNICEF supporting regional preparedness and response efforts in at-risk countries."
+        },
+        {
+          "name": "Arizona, USA",
+          "lat": 34.0489,
+          "lng": -111.0937,
+          "severity": "red",
+          "detail": "Arizona's first H.R. 1 Medicaid cuts are arriving, impacting refugees, asylees, and other legally present individuals, potentially limiting access to healthcare."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran war impacts global economy; AI sector thrives despite broader strains.",
+      "summary": "The ongoing war with Iran continues to exert an uneven economic toll, with strained growth due to slowed tanker movement in the Strait of Hormuz and increased fuel and travel costs. However, enthusiasm for artificial intelligence is offsetting some of this drag, with significant investment and a federal judge blocking the Pentagon's attempt to blacklist AI company Anthropic.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.77,
+          "severity": "yellow",
+          "detail": "The war has slowed oil tanker movement, leading to increased Brent crude prices and higher costs for consumers."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Washington plans to impose sanctions on another Iranian bank, intensifying economic pressure amid deadlocked truce talks."
+        },
+        {
+          "name": "Basel, Switzerland",
+          "lat": 47.5596,
+          "lng": 7.5886,
+          "severity": "yellow",
+          "detail": "The Bank of England's governor, as chair of the Financial Stability Board, warned that advanced AI models threaten global financial stability through cyber-disruption."
+        },
+        {
+          "name": "Perth, Australia",
+          "lat": -31.9505,
+          "lng": 115.8605,
+          "severity": "green",
+          "detail": "Guardrail Technologies released a report highlighting a significant 'AI Cyber-Disclosure Gap' in S&P 500 companies, indicating a lack of documented cyber risk management for AI."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "OpenAI is advocating for strengthening California's newly passed AI safety law, pushing for stricter monitoring of frontier AI models during training."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights weakened as marches defend democracy; Kenya election ruling.",
+      "summary": "Thousands marched in Washington D.C. to 'defend the vote' amidst concerns that civil rights protections are weakening under the current US administration, particularly after a Supreme Court ruling on congressional districts. In Kenya, a High Court ruling stipulated the next presidential election should be in August 2026, though its declaration of invalidity for an immediate election was suspended.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Thousands marched to 'defend the vote' and advocate for civil liberties, criticizing recent Supreme Court rulings on congressional districts that weaken Black American votes."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.286389,
+          "lng": 36.817223,
+          "severity": "yellow",
+          "detail": "The High Court ruled that a presidential election should be held in August 2026, but suspended its declaration of invalidity to avoid disruption."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.524,
+          "lng": 105.3188,
+          "severity": "yellow",
+          "detail": "The Kremlin continues to tighten its grip on Russian society with expanding repression, frequent internet shutdowns, and draconian social media restrictions amid the war in Ukraine."
+        },
+        {
+          "name": "Poughkeepsie, USA",
+          "lat": 41.7003,
+          "lng": -73.9209,
+          "severity": "green",
+          "detail": "Hundreds of people formed a human chain for democracy, stretching the length of the Walkway Over the Hudson."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Nepal floods cause massive humanitarian crisis; aid destroyed in Gaza attacks.",
+      "summary": "Nepal is facing a severe humanitarian crisis following deadly flash floods along the Himalayan border, with nearly 900 dead and thousands missing, prompting international aid pledges. In Gaza, separate attacks have killed four children and destroyed crucial humanitarian aid supplies, exacerbating an already dire situation.",
+      "regions": [
+        {
+          "name": "Nepal-China Border Region",
+          "lat": 28.3,
+          "lng": 85,
+          "severity": "red",
+          "detail": "Devastating floods have caused a severe humanitarian crisis, with nearly 900 dead and thousands missing, leading to international aid efforts."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Separate attacks have resulted in the deaths of four children and the destruction of humanitarian aid supplies, as reported by OCHA."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "The US, Canada, and the EU pledged humanitarian assistance for Nepal to support emergency relief efforts, including food and shelter."
+        }
+      ],
+      "sources": [
+        {
+          "title": "abs-cbn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUYc-0ZNUwskXcMQT0DoZobjctiZBnT-R6-tb0IdP8X0pAXWDxkPjeYHw3vHnpaZ_rV13K-kCWvjyYzA--OjAkgnbgq2FepVKmhckrgsXgkBelZ2zJ9lrh_cFZdAz4bnFpuUnESs60-vQjKNY-gT3cuRa8zzWejPLQk_Gd5trcm48NLtf_Ed6LDXjr8257LdipQ7vvmGDo443sozVw1L2RA=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTXa30ebVSgtMlkflOQv84nc_qQAdG_ndf361XcXqAGIwJmvzR5lqlko0LhbSvExiAXDclWLTnHkjAafJXGrjH-ymlOcMP6hU0yxyWO1g1NGP4Zfwjt0noHxPaq1CH7Qd4nh-MVnP7ja0y6CQCh-CO9X_mTUiwkmmS-VoAwKg="
+        },
+        {
+          "title": "lockhaven.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbLy4oIkPdGzmORUjJuK3KU-w3Fu2zB8LRMeo1hm7xQgGT79iosTaZmp2KjYm7cRhz8ZozUiReiwp7sCMCrxHHbRZoElBRBveeEPKrDF6YQE396TUH8Qkwdk6kSqGs1KF05eMo5LDvnU2kBTcmioP6EUdew30_D4Yu6dFHIcHqr_taakVLpZOoRvlwwgkhrn2Xgn6EqkFbOjrmcp-hs9J21pHbBhPR7NeVhy2nBc_BqjTnQ-xVOH517AU1MJ7qTjHWNj_Ytto0Gs="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgezMS2lwd-lEefICAnRklH4W9ZhS7QzSQrcRWxD5plhBEfGt91Bu9Jin-hwwpUlGpIcISiLfdoy78KigdQA35yn7gEQA599VCgvhvJ0rjJYq4GK7i_kYn_bNntodoqzWmU88nnJsucHVtIXXv6PEgrik3cTkXa9T17MGaB_SdVnhzp7PT8ElhEU1DKZmHn60cZ7p-mdB4_JgcegQ_TvDX7Frd8nTXw=="
+        },
+        {
+          "title": "mashable.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtYj_GEH9nc7Es90udde4wMsrcxTbf3ft7UX2xV_de-v4OdeZrC9gNoXlYsJQcpFn9d2s_NDn_ab4BIi3nLKo3ZEDNdxhUFnyzy7v8zHa-pcdYXUo8OxAq27jjsxuAB1LI0bjZgGltEBC1byKHfaZ9QDCayqfzOKQ9ptraXthQeDM9cw57uFCGj-N"
+        }
+      ]
+    }
+  }
+}
