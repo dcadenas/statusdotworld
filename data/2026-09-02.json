@@ -1,0 +1,475 @@
+{
+  "date": "2026-09-02",
+  "timestamp": 1788329103990,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US and Iran escalate conflict with reciprocal strikes and threats.",
+      "summary": "The US launched new airstrikes against Iranian targets, prompting retaliatory attacks from Iran on US bases in Jordan, Bahrain, and Iraq. This marks a significant escalation in the ongoing conflict, with concerns over global oil supplies and heightened regional tensions.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran launched retaliatory missile and drone attacks on US bases in the region following US airstrikes on its territory."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US launched a barrage of airstrikes against Iranian military targets and warned of further action."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "red",
+          "detail": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed a 'heavy' ballistic missile attack on Prince Hassan Air Base in Jordan, targeting hangars and personnel."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Bahrain reported that its air defense systems successfully intercepted and destroyed incoming Iranian drones."
+        },
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.3152,
+          "lng": 44.3661,
+          "severity": "red",
+          "detail": "Iran claimed attacks on US bases in Erbil, Iraq, reportedly destroying a repair facility, warehouses, and a surveillance balloon control system."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The conflict has led to renewed disruption and threats to oil tankers transiting the strategic Strait of Hormuz, with Iran warning it would prevent oil exports."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Tunisia's civil society faces escalating repression; AI safety debates continue.",
+      "summary": "Human Rights Watch reported that the Tunisian government has systematically cracked down on civil society groups, leading to arrests, detentions, and abusive prosecutions. Meanwhile, debates on AI safety and regulation are ongoing, with OpenAI announcing stricter guardrails for a new, highly capable model.",
+      "regions": [
+        {
+          "name": "Tunis, Tunisia",
+          "lat": 36.8065,
+          "lng": 10.1815,
+          "severity": "red",
+          "detail": "Tunisian authorities have intensified pressure on civil society, prosecuting activists and NGO workers, and investigating groups' finances."
+        },
+        {
+          "name": "Windhoek, Namibia",
+          "lat": -22.5594,
+          "lng": 17.0832,
+          "severity": "yellow",
+          "detail": "Angolan women and children displaced by drought into Namibia face serious human rights abuses due to a lack of safe and legal migration pathways."
+        },
+        {
+          "name": "Chapel Hill, North Carolina, USA",
+          "lat": 35.9132,
+          "lng": -79.0558,
+          "severity": "yellow",
+          "detail": "The US hosted a G20 'innovation' meeting, pushing for looser AI regulation."
+        },
+        {
+          "name": "Brussels, Belgium (EU HQ)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission sent information requests to AI companies to ensure compliance with the EU's AI Act."
+        },
+        {
+          "name": "San Francisco, California, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "OpenAI announced its new Astra model requires stronger guardrails due to its advanced capabilities in spotting security vulnerabilities."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A federal judge ruled that the Department of Defense unlawfully retaliated against AI company Anthropic for refusing military use of its technology for mass surveillance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "UN warns of inevitable 1.5°C global warming overshoot; Nepal and Japan face severe floods.",
+      "summary": "A UN report explicitly states that exceeding the 1.5 degrees Celsius global warming target is inevitable, urging accelerated fossil fuel phase-out and carbon removal. Catastrophic flash floods, intensified by a glacial collapse in Tibet, have devastated Nepal with over 1000 confirmed deaths, while central Japan issued mass evacuation orders due to 'unprecedented' heavy rainfall causing rivers to overflow and landslides.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Catastrophic flash floods, triggered by a glacial collapse, have caused over 1000 confirmed deaths and widespread damage, prompting India to send humanitarian aid."
+        },
+        {
+          "name": "Ishikawa Prefecture, Japan",
+          "lat": 36.5945,
+          "lng": 136.6256,
+          "severity": "red",
+          "detail": "Central Japan issued mass evacuation orders after 'unprecedented' heavy rainfall caused rivers to overflow and led to landslides."
+        },
+        {
+          "name": "Toyama Prefecture, Japan",
+          "lat": 36.6952,
+          "lng": 137.2117,
+          "severity": "red",
+          "detail": "Toyama Prefecture also received the highest-level emergency rain warning due to intense rainfall and risk of flooding and landslides."
+        },
+        {
+          "name": "Fukui Prefecture, Japan",
+          "lat": 35.9328,
+          "lng": 136.2201,
+          "severity": "yellow",
+          "detail": "A Level 5 warning for heavy rain was issued, urging approximately 400,000 people to take precautions."
+        },
+        {
+          "name": "Houston, Texas, USA",
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "severity": "yellow",
+          "detail": "Tropical Storm Edouard was downgraded to a tropical depression, but flash flood threats remain for the Upper Texas Coast."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "A new UN report confirms that global warming will inevitably exceed the 1.5 degrees Celsius threshold, emphasizing the need for carbon removal strategies."
+        },
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "yellow",
+          "detail": "An exceptionally strong El Niño event is expected to continue, amplifying marine heatwaves and potentially causing extreme weather globally."
+        },
+        {
+          "name": "Hawaii, USA",
+          "lat": 20,
+          "lng": -157.5,
+          "severity": "yellow",
+          "detail": "Hurricane Lowell, intensifying into a major hurricane, is expected to generate life-threatening surf and rip current conditions for portions of the Hawaiian Islands."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Cholera surges in Sudan, measles outbreak in Pennsylvania, and flu epidemic feared in Taiwan.",
+      "summary": "Sudan is experiencing a surge in cholera cases and displacement amidst ongoing conflict and aid shortfalls. Pennsylvania has reported measles-associated deaths in a politicized outbreak, and Taiwan's CDC warns of an impending flu epidemic.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Persistent insecurity and an escalating cholera outbreak are compounding Sudan's humanitarian crisis."
+        },
+        {
+          "name": "Lancaster County, Pennsylvania, USA",
+          "lat": 40.0381,
+          "lng": -76.3351,
+          "severity": "red",
+          "detail": "Measles-associated deaths have been reported for the first time in over three decades, sparking debate and concerns over public health communication."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan's CDC warns of an impending flu epidemic as medical visits for flu-like illnesses surpass 100,000."
+        },
+        {
+          "name": "Upper East Side, New York City, USA",
+          "lat": 40.7818,
+          "lng": -73.9537,
+          "severity": "yellow",
+          "detail": "The death toll from a Legionnaires' outbreak that struck the Upper East Side last month has risen to 11."
+        },
+        {
+          "name": "Tanna Island, Vanuatu",
+          "lat": -19.5,
+          "lng": 169.3333,
+          "severity": "yellow",
+          "detail": "The National Surveillance Unit declared a watery diarrhoea outbreak, primarily affecting children under five."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "red",
+          "detail": "An Ebola disease outbreak caused by the Bundibugyo virus has rapidly evolved into a large and geographically expanding epidemic with high mortality."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East conflict drives oil prices up, impacting global markets; US stocks volatile.",
+      "summary": "Renewed hostilities in the Middle East have pushed oil prices higher, reviving inflation concerns and supporting the US dollar. US stock futures traded volatilely, with major indices crashing due to rising bond yields and elevated oil prices, reinforcing expectations of a Federal Reserve rate hike.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Ongoing hostilities have significantly impacted global oil prices, leading to increased inflation concerns."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US stock futures traded volatilely, and major indices crashed due to rising bond yields and elevated oil prices."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Expectations for a Federal Reserve rate hike in September have risen to 60-67% due to geopolitical tensions and oil prices."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The US dollar remained resilient, affirming its safe-haven status amidst global market volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Hong Kong activist pleads guilty under security law; German far-right gains in Saxony-Anhalt.",
+      "summary": "Prominent Hong Kong pro-democracy activist Joshua Wong pleaded guilty to conspiracy to collude with foreign forces under Beijing's national security law. In Germany, the far-right Alternative für Deutschland (AfD) is expected to win in Saxony-Anhalt, raising concerns about democratic stability.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "Joshua Wong pleaded guilty to charges under the national security law, further stifling the pro-democracy movement."
+        },
+        {
+          "name": "Saxony-Anhalt, Germany",
+          "lat": 51.95,
+          "lng": 11.7,
+          "severity": "yellow",
+          "detail": "Voters are expected to give the far-right Alternative für Deutschland (AfD) a resounding victory in the upcoming state election."
+        },
+        {
+          "name": "Massachusetts, USA",
+          "lat": 42.4072,
+          "lng": -71.3824,
+          "severity": "green",
+          "detail": "Senator Ed Markey secured the Democratic nomination for his reelection bid, fending off a challenge for generational change."
+        },
+        {
+          "name": "New York, USA (UN HQ)",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The UN General Assembly is set to open its 81st session with a theme of 'Restoring Trust, Managing Transformation.'"
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Sudan faces deep aid shortfall; UN slashes food aid for West Bank and Gaza.",
+      "summary": "Sudan's humanitarian crisis is deepening due to persistent insecurity and an escalating cholera outbreak, compounded by severe funding shortages hampering relief operations. The World Food Programme has been forced to halve food aid to the West Bank due to funding shortfalls, impacting 200,000 people, and is also affected in Gaza.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Persistent insecurity and an escalating cholera outbreak are compounding a humanitarian crisis with deep aid shortfalls."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.96,
+          "lng": 35.24,
+          "severity": "red",
+          "detail": "Lack of funding has forced the World Food Programme to halve food aid to families, impacting 200,000 people."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "A lack of funding is also affecting WFP's operations in Gaza, where conditions remain at crisis levels despite improvements since famine was declared last year."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "India dispatched an 11-member rescue team and 5.5 tonnes of essential medicines to support Nepal after catastrophic flash floods killed over 1000 people."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZH37n_92-dnuZX32ACu9xdTu25maKEqy71Pz9yW9FbkEF-DjwJWYWfPagwp1zDKRLmIo3t4FujloDzRM2dm9iT_ekTV5Fk2dfqGqba_Gyq1a3xCFfuFVy9LG4a895-LPqrl0v4J_qjyzrQy5yikAMkx4_lgavPvKTFPTeH7Y5FOkkijeTnr5hkAu2j7dSEHzJPd-3KPMF7XmBZSC5RLScpBITulwBna4IJ8UOy-UAvTj5rPQL8xDEuCXmJyN80N8zjWxwFk5QtcVnQe5oaM="
+        },
+        {
+          "title": "kathmandupost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDQCLuYs5KSQVf-iabA89KQOs4ep7THlT0w09jZL5fvqNcxCWlYYXaJajfvriCv1l5Ie2kco7ZRUvWPjW-gB5a2iQyjAP2eQhfJj7J44Wp0P7U4Kyg6Nu8xJKRjyoZc6UDwnfDPwxdCyLbWt5V8eRnNiYww5n6_E7z-TtfaV8JnWxlA4XFJxzxVUGyNZmFWzpsFTIgEb-hpwgXngxi38XSmqPbDhAK9_IuDBfHlj7"
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxZtOaaV7xRRvvtxgbDVQDEo5LRCsZBmZ6p1IR3ZvIhO3dnyk1nUPBA3g5Kijeb0aj2hKNPwQm-fYbunxK2HWKaNdZEjmIN81yWsc-EDZ0JgIebxxdhVgmY4bUlyKL84m_9OPQM-B7zzsCiUVjBCkTTpQjvCWgz6_w0sD5jNFKjAdc7NCihCLpmwNwarGnO55ksXB9FgDAepUq_t6IXB72"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpbzuY9ohc0rkqiW4Colc1d_gJjujgcsDDFCuenzWFiSjRGRe8HDUEo3jcEU2RSiFyjJKOjsUrxPN9VDT_sdRQI_CIEQWSn44-aBAIkM1EOY4h3ZygTDrGSqKuW39OzvACvSdfNa804NDvZYoW1g2aBLDA30uJ2XJjQ8w-sbNkyNNn3XPHjGWVJ5qci1xbTr0iGWo6y4btZkykP4LAq5_Zo9IR0OZkIkdzBGTAKfrhMhpmQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ-JfdauFLB-7Xtl2vqtKANUiBHWUkJSeNo9NzGxBOg4Tu3oBzXYlL65Tk3nk0GYMH1bz_SXxY88jiCvePwqIu01gNHG_tG8mSz__0x-CE7cejpJtvhEjXuF1VaHoX3nr8xFTlVDujOrBFyw5Qt3Kms9-EV04aDzJZ-2jf_B8="
+        }
+      ]
+    }
+  }
+}
