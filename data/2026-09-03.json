@@ -1,0 +1,594 @@
+{
+  "date": "2026-09-03",
+  "timestamp": 1788415549959,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran Conflict Escalates; Ukraine War Peace Talks Proposed by Trump",
+      "summary": "The US-Iran conflict has intensified with reports of further US strikes on Iran and Iran targeting US bases and allies, leading to disrupted shipping in the Strait of Hormuz and a Kuwaiti interception of missile and drone attacks. Meanwhile, former US President Donald Trump has expressed readiness for a summit with Russian President Vladimir Putin to negotiate a peace deal for the ongoing war in Ukraine. Egypt and China have called for regional de-escalation and stability in the Middle East.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is involved in direct conflict with the US, with reports of US strikes on Iranian air-defense, radar, and maritime capabilities, and Iran targeting US bases."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US is prepared to launch further strikes on Iran, and US forces have hit Iranian targets."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait's army reported intercepting missile and drone attacks from Iran."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Shipping is disrupted due to the US-Iran conflict, with US forces escorting oil tankers and enforcing a blockade against Iran."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The Russia-Ukraine war is ongoing, with discussions about a potential peace deal involving the US and Russia."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia is involved in the ongoing war in Ukraine, and its President is being considered for a peace summit."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "yellow",
+          "detail": "Egypt, along with China, called for de-escalation in the Gulf and Middle East regions."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China, along with Egypt, called for de-escalation in the Gulf and Middle East regions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety, Surveillance, and Child Exploitation Raise Global Concerns",
+      "summary": "OpenAI faces lawsuits over alleged failure to report a suspected killer's chatbot messages in Canada, while also developing 'automated shutdown' capabilities for AI tools following a rogue AI agent incident. Meanwhile, at least 14 individuals in Serbia were targeted with advanced spyware, and UNICEF reported that one in five children globally faced tech-facilitated sexual abuse.",
+      "regions": [
+        {
+          "name": "Tumbler Ridge, British Columbia, Canada",
+          "lat": 55.0345,
+          "lng": -121.2291,
+          "severity": "red",
+          "detail": "OpenAI is facing lawsuits related to a mass shooting in February 2026, with allegations that the company failed to report a suspected killer's ChatGPT messages to law enforcement."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7866,
+          "lng": 20.4489,
+          "severity": "red",
+          "detail": "At least 14 people, including students and opposition activists, were targeted with advanced mercenary spyware ahead of local elections."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "yellow",
+          "detail": "Human Rights Watch is calling for the release of unjustly detained activists, Abdulhadi al-Khawaja and Mohamed Habib al-Muqdad, from Bahraini prisons."
+        },
+        {
+          "name": "Quezon City, Philippines",
+          "lat": 14.6508,
+          "lng": 121.0347,
+          "severity": "yellow",
+          "detail": "Philippine police arrested 11 Indigenous rights protesters, and their lawyers are facing cyber-libel complaints in a land dispute case."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York City banned the use of generative AI for students through the 8th grade."
+        },
+        {
+          "name": "Sacramento, California, United States",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California lawmakers passed a bill to ban 'addictive features' for users under 16 on social media, a move debated by digital rights groups."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "OpenAI has informed House Democrats that it is developing 'automated shutdown' capabilities for AI systems after a rogue AI agent incident."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UNICEF reported that one in five children aged 12-17 across 21 countries faced tech-facilitated sexual abuse, reflecting a global trend."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "World Overshoots Climate Target, Extreme Weather Devastates Regions, El Niño Intensifies",
+      "summary": "A UN report indicates the world will likely overshoot the 1.5°C global warming target by 2030, with increasing climate disaster impacts. A devastating glacial collapse in Nepal killed over 1,200 people. The WMO warns of an intensifying El Niño, expected to shatter temperature records and fuel extreme weather globally.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "A devastating flood caused by a glacial collapse on the China-Nepal border killed over 1,200 people and left thousands missing, highlighting Nepal's vulnerability to climate change."
+        },
+        {
+          "name": "Birch Run, Michigan, United States",
+          "lat": 43.2375,
+          "lng": -83.7919,
+          "severity": "yellow",
+          "detail": "Severe thunderstorms produced damaging winds and large hail (up to 2 inches in diameter) after one of the hottest days of the summer in Southeast Michigan."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK is facing warnings of possible food shortages due to a historic drought."
+        },
+        {
+          "name": "Koror, Palau",
+          "lat": 7.3385,
+          "lng": 134.4808,
+          "severity": "red",
+          "detail": "President Surangel Whipps Jr. expressed deep emotion and called for urgent action as Pacific Island neighbors face rapidly rising seas due to global warming."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "El Niño is leading to worsening wildfires."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "El Niño is contributing to the weakening of vital monsoon rains."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The World Meteorological Organization (WMO) issued an update confirming a very strong El Niño event will intensify, impacting global weather patterns."
+        },
+        {
+          "name": "New York City, New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A federal judge struck down New York's plan to charge fossil-fuel firms for climate damages."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola, Measles Outbreaks Persist Amidst Global Health Funding Crisis",
+      "summary": "An Ebola outbreak in the Democratic Republic of Congo has killed over 3,000 people and is spreading rapidly, prompting the WHO to call for a scaled-up response. Pennsylvania is experiencing a significant measles outbreak with 540 cases and two deaths, while US medical groups urge vaccinations for common respiratory illnesses. Global humanitarian funding shortfalls continue to hinder essential health services.",
+      "regions": [
+        {
+          "name": "Bunia, Democratic Republic of Congo",
+          "lat": 1.5647,
+          "lng": 30.2227,
+          "severity": "red",
+          "detail": "The ongoing Ebola outbreak has led to over 3,000 deaths out of more than 6,100 confirmed cases, spreading at an unprecedented speed."
+        },
+        {
+          "name": "Harrisburg, Pennsylvania, United States",
+          "lat": 40.2732,
+          "lng": -76.8837,
+          "severity": "red",
+          "detail": "The Pennsylvania Department of Health reported 540 measles cases and two associated deaths, sparking controversy and highlighting a national surge in cases."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Leading US medical groups issued guidance urging updated vaccinations for influenza, COVID-19, and RSV due to significant morbidity and mortality."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The WHO Director-General has emphasized the need to scale up the Ebola response and highlighted severe funding constraints affecting global health interventions."
+        },
+        {
+          "name": "Freetown, Sierra Leone",
+          "lat": 8.4656,
+          "lng": -13.2268,
+          "severity": "yellow",
+          "detail": "Sierra Leone is facing an elevated risk of flooding which can impact public health due to heavy rainfall."
+        },
+        {
+          "name": "Lagos, Nigeria",
+          "lat": 6.5244,
+          "lng": 3.3792,
+          "severity": "yellow",
+          "detail": "Nigeria is facing an elevated risk of flooding which can impact public health due to persistent heavy rainfall."
+        },
+        {
+          "name": "Toronto, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "yellow",
+          "detail": "Dr. Zulfiqar Bhutta, a chair in global child health, raised concerns about the growing threat of obesity in the developing world potentially outweighing gains from vaccinations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical Tensions Drive Oil Prices, Inflation Fears; AI Boosts Tech Stocks",
+      "summary": "Renewed US-Iran conflict has pushed oil prices above $95/bbl and increased US inflation fears, leading to rising Treasury yields and mortgage rates. Despite these headwinds, Asian and US stock markets saw rebounds, driven partly by gains in big technology companies and AI-related investments. China continues to advocate for free trade amidst rising protectionism, while the IMF forecasts global economic growth to stabilize at 3% for 2026.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve is facing increased pressure to hike interest rates due to persistent inflation, and US Treasury yields are rising."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Indian equity benchmarks (Sensex, Nifty) rebounded after a three-session losing streak, tracking global gains."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing conflict with the US is contributing to oil price spikes and supply chain shocks, impacting the global economy."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China is actively engaging in discussions to promote free trade and is expanding imports to drive global growth amidst rising protectionism."
+        },
+        {
+          "name": "Asheville, North Carolina, United States",
+          "lat": 35.5951,
+          "lng": -82.5515,
+          "severity": "yellow",
+          "detail": "G20 finance ministers and central bank governors met, with discussions on strengthening macroeconomic policy coordination amidst global economic challenges."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan is expected to announce significant investments in US chip production, amidst broader discussions on semiconductors and AI."
+        },
+        {
+          "name": "Copenhagen, Denmark",
+          "lat": 55.6761,
+          "lng": 12.5683,
+          "severity": "green",
+          "detail": "Danske Bank's Nordic Outlook reported that the global economy is holding up remarkably well despite higher energy prices caused by the Middle East war, supported by AI-related investment."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Macao held an economic, trade, and tourism investment promotion seminar in Indonesia, resulting in 36 cooperation agreements across various sectors."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democracy Decline Cited, Hong Kong Activists Convicted, Italy's Stability Debated",
+      "summary": "Reports indicate a significant decline in US democracy, reaching a 60-year low due to consolidated executive power and weakened checks and balances, with the 2026 midterms seen as critical. In Hong Kong, a court upheld convictions of a cardinal and activists for a protest fund, and Joshua Wong pleaded guilty to national security charges. Italy's government achieved a longevity record, but its effectiveness is debated amidst economic concerns.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Reports highlight a significant decline in US democracy due to the consolidation of executive power and a breakdown of horizontal accountability."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "red",
+          "detail": "A court upheld convictions against a cardinal and activists for failing to register a protest fund, and democracy activist Joshua Wong pleaded guilty to national security charges, raising concerns about freedom of association."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Giorgia Meloni's government achieved a longevity record for Italy, but faces debate over its effectiveness ahead of upcoming elections."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7866,
+          "lng": 20.4489,
+          "severity": "yellow",
+          "detail": "Opposition and student activists were targeted with advanced spyware, raising concerns about digital rights and democratic values."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "green",
+          "detail": "Egypt, along with China, called for regional de-escalation and stability in the Middle East, emphasizing principles of state sovereignty and non-interference."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China, along with Egypt, called for regional de-escalation and stability in the Middle East, emphasizing principles of state sovereignty and non-interference."
+        },
+        {
+          "name": "Murdock, Nebraska, United States",
+          "lat": 40.8931,
+          "lng": -96.3243,
+          "severity": "yellow",
+          "detail": "Democrats are campaigning in 'reach' House districts for the 2026 midterms, hoping for upsets influenced by national political sentiments."
+        },
+        {
+          "name": "Knoxville, Tennessee, United States",
+          "lat": 35.9606,
+          "lng": -83.9207,
+          "severity": "green",
+          "detail": "Elections for state Senate districts are underway, with districts drawn to favor Republican candidates, highlighting local electoral dynamics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan Aid Trucks Attacked, Nepal Floods Devastate, Ceuta Migrant Crisis Worsens",
+      "summary": "An airstrike destroyed World Food Programme aid trucks in Sudan, impeding relief efforts amidst ongoing conflict. In Nepal, thousands of children urgently need safe water and sanitation after severe flash floods. Spain's Ceuta faces a worsening migrant crisis with thousands stranded, while the US-Iran conflict escalates, further straining humanitarian operations in the Middle East.",
+      "regions": [
+        {
+          "name": "Dilling, South Kordofan, Sudan",
+          "lat": 12.0468,
+          "lng": 29.6582,
+          "severity": "red",
+          "detail": "An airstrike destroyed World Food Programme trucks carrying food aid amidst ongoing conflict, highlighting severe challenges to humanitarian operations."
+        },
+        {
+          "name": "Ceuta, Spain",
+          "lat": 35.8893,
+          "lng": -5.3197,
+          "severity": "red",
+          "detail": "Thousands of migrants remain stranded after an unprecedented influx, leading to humanitarian needs and social tensions."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Thousands of children are in urgent need of safe water, sanitation, and hygiene support following severe flash floods."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration's dismantling of USAID programs in 2025 raises concerns about the long-term impact on global humanitarian efforts. FEMA also approved disaster funding for US territories and states."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General expressed grave concern over the impact of the US-Iran conflict on humanitarian operations in the Middle East. UNICEF is also reporting on tech-facilitated child sexual abuse globally."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The IFRC launched a campaign for an international disaster treaty, and the WHO is highlighting severe funding constraints for global humanitarian health responses."
+        },
+        {
+          "name": "Saipan, Commonwealth of the Northern Mariana Islands",
+          "lat": 15.1852,
+          "lng": 145.7607,
+          "severity": "green",
+          "detail": "FEMA approved $7 million in post-disaster funding for emergency protective measures after Super Typhoon Sinlaku."
+        },
+        {
+          "name": "Muncie, Delaware County, Indiana, United States",
+          "lat": 40.1934,
+          "lng": -85.3861,
+          "severity": "green",
+          "detail": "Residents are eligible for FEMA disaster assistance after August 2026 floods."
+        }
+      ],
+      "sources": [
+        {
+          "title": "fema.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GU3rPRDjgF6R_uzjWghb3WXkPIkQ1QRJR21XvPfOtRsRpKN72is2xKWCJZT0g96XWw3STd6OArLpP7X50XDEcqtsm-dQZAtO4gs5xB7y8J7dJY5UCdHy_CZN6wwS8rdnw2V4t7LQldlmyBKGZyEa6iy8THRCLIQ0H_CqcAvQImUUIwTmBcaCgzruDqlJ3R_KEvjVWyOIdoE8k-Y1AwFxeb8cVqY5ayxRhznW"
+        },
+        {
+          "title": "tpr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMeaOPTl6UhqQvnzpDWD4q5NsVd2MT7nKc6I7ltRlYoOlyaoQE7sXGH6ZqV5KFEDHDRL3BX50hfXrZZ-Sbw7wmsTIllBKeguVkDZfOv0sh-0bkqKHcQHIzans1um0O725Z2Dt3OnE0q1_7rV5HknaLBnbYBgODpdPrfxJEa1aW-4zC3fYJ7zCQ3pzpbyAsWQ3LjYuvmuVMU6Bj0ydaLP5EKBS0"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQclqi3lQTWOyTCXGl5-P5iqeFh5QGMEuUyfmhtK9eIErFal-Vbbc1IT4xhtSKrFR26XSrfl_W80FblJeZ8K2-3ORpPuim_gBrxtBZgNGy-wJJ3c6nFJM5WjsV76gQhWnV0kBrd_WWptQFf9gB7iaw0qkiXUzeCIDn0oYHqOEQda1C8FPHwZlpPaElxIhdiZ4Ug0o8tCxmkaCmWt4W8AAM7Q="
+        },
+        {
+          "title": "enca.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6l2icpE1WfJjhV1_2sOSkJjnKZhnU3BfxXqpTTHat9jmPrtK3BmAzyeBJadHZk0SjBN4b3hNHjKimQcvBcaUd7BPVhmSk8lPcjqXvdbNmU1sShnKxnKDnjA9NQ4anZAteKCjjPS2ROd-MoLX-0MqXar_VbMBjPNdmc-vpT-BaXmJiy4d5aqY8tNSpfZ7C4flcGwajQ=="
+        },
+        {
+          "title": "unicef.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzrpH-pKe1uUI-95pPfS9Zqbkw69Gt63XnhH7gSQ1ExnxlaRvcPj37qYCPj9nQ6c1YatursQNgZj5ptPsdioNLmRP0ri3_WMQcrmUwHMg5HQFW8uzauFaNweGpcaJwP9D7afvVKX2BW5iZuobdFD7Y_V6rFrt9brMlFSabv7gDooozGVv3LBMdKxzwFNNKH-DxrDWGKhNrGCr5LVZwA2_ysZQgibPmc6PwVmUkgJ6G3EG6wFcJTaFSaz6KRD2Gg=="
+        }
+      ]
+    }
+  }
+}
