@@ -1,0 +1,475 @@
+{
+  "date": "2026-09-05",
+  "timestamp": 1788588265389,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran conflict persists; Israeli airstrikes in Lebanon; Ukraine tensions high.",
+      "summary": "The US-Israel conflict with Iran continues, disrupting the Strait of Hormuz and impacting oil prices. Yemeni government forces conducted airstrikes against Houthi rebels near the Bab al-Mandab Strait. Additionally, Israeli airstrikes in southern Lebanon resulted in at least five deaths and 24 injuries, violating a ceasefire agreement. Peace proposals for the Russia-Ukraine conflict are being taken to Kyiv and Moscow, though a Russian drone struck Ukraine's SBU headquarters in Kyiv today.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Ongoing US-Israel conflict with Iran continues to disrupt shipping and impact global energy supplies."
+        },
+        {
+          "name": "Bab al-Mandab Strait, Yemen",
+          "lat": 12.5833,
+          "lng": 43.3333,
+          "severity": "yellow",
+          "detail": "Yemeni government forces launched airstrikes on Houthi rebel positions near the strait."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.5,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli airstrikes caused casualties and violated a ceasefire agreement."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "A Russian drone struck the SBU security service headquarters amidst ongoing peace efforts."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "US envoys Steve Witkoff and Jared Kushner are visiting to present a peace proposal for the conflict in Ukraine."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The US-Iran conflict continues, with President Trump commenting on the war as 'small potatoes'."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is involved in the ongoing conflict with Iran and airstrikes in southern Lebanon."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Gaza blockade challenged; digital evidence concerns raised in ICC.",
+      "summary": "The Freedom Flotilla Coalition launched a new international mission to challenge Israel's blockade of Gaza, with vessels stopping at European ports before attempting to reach Gaza in October. Separately, former Philippine President Rodrigo Duterte's defense team at the ICC is pushing for stricter rules on digital evidence, warning of misinformation risks from open-source and user-generated posts. In South Africa, civil rights groups are calling for a halt to data center construction due to concerns about water, power, and transparency.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "A new international flotilla mission is under way to challenge Israel's blockade of Gaza."
+        },
+        {
+          "name": "Catania, Italy",
+          "lat": 37.502,
+          "lng": 15.087,
+          "severity": "green",
+          "detail": "Activists of the Freedom Flotilla were onboard a ship here, setting sail for Gaza."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "green",
+          "detail": "The International Criminal Court is considering stricter rules for digital evidence in the Duterte case."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "yellow",
+          "detail": "Civil rights groups are urging a halt to data center construction due to concerns over resource use."
+        },
+        {
+          "name": "Jenin Governorate, Occupied West Bank, Palestine",
+          "lat": 32.4667,
+          "lng": 35.2833,
+          "severity": "yellow",
+          "detail": "Israeli authorities issued a military order to immediately seize nearly 7.5 dunams of land in the town of Qabatiya."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "Former President Rodrigo Duterte's defense team is active in the ICC regarding digital evidence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate finance summit in Istanbul; Malaysia declares emergency due to haze.",
+      "summary": "The Istanbul Climate Finance Summit is convening from September 4-5, 2026, to advance skills and build capacity for a climate-resilient transition, ahead of COP 31 in Antalya. Meanwhile, Malaysia has declared a state of emergency in Sarawak's Serian district due to hazardous air pollution levels caused by haze from Indonesian wildfires. Climate Week NYC is also set to occur later this month, focusing on global climate action.",
+      "regions": [
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "green",
+          "detail": "Hosting the Istanbul Climate Finance Summit, aimed at advancing climate action."
+        },
+        {
+          "name": "Serian, Sarawak, Malaysia",
+          "lat": 1.1685,
+          "lng": 110.5693,
+          "severity": "red",
+          "detail": "A state of emergency was declared due to hazardous air pollution from Indonesian wildfires."
+        },
+        {
+          "name": "Kalimantan, Indonesia",
+          "lat": -1.75,
+          "lng": 114,
+          "severity": "yellow",
+          "detail": "Wildfires in this region are causing toxic haze across Southeast Asia, impacting Malaysia."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "green",
+          "detail": "This city will host the 2026 UN Climate Change Conference (COP 31) in November."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Preparations are underway for Climate Week NYC, scheduled for later in September."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Thailand eliminates rubella; New Mexico reports first plague case of 2026.",
+      "summary": "The World Health Organization announced that Thailand has been verified for eliminating rubella as a public health problem, marking a significant milestone in preventing vaccine-preventable diseases. Conversely, New Mexico reported its first human plague case of 2026, with a Santa Fe County woman dying from the disease. There are also ongoing concerns about rabies exposure from animals, as highlighted by a recent incident involving goats at a petting zoo.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "green",
+          "detail": "Thailand has been verified for eliminating rubella as a public health problem."
+        },
+        {
+          "name": "Santa Fe County, New Mexico, USA",
+          "lat": 35.687,
+          "lng": -105.937,
+          "severity": "yellow",
+          "detail": "The county reported its first human plague case of 2026, resulting in a fatality."
+        },
+        {
+          "name": "North Carolina, USA",
+          "lat": 35.7596,
+          "lng": -79.0193,
+          "severity": "yellow",
+          "detail": "A recent incident involving rabid goats at a petting zoo highlighted ongoing concerns about rabies exposure."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization (WHO) is involved in verifying disease elimination milestones."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US jobs report impacts Fed-hike bets; Norway fund cuts US Treasury holdings.",
+      "summary": "US stocks fell as a stronger-than-expected August jobs report fueled expectations that the Federal Reserve might hike interest rates, with the S&P 500 Index down 0.5%. Norway's sovereign wealth fund announced plans to cut its allocation of government bonds, chiefly affecting its holdings of US Treasurys, to diversify risk and boost returns. The ongoing US-Iran conflict has also led to disrupted shipping in the Strait of Hormuz, causing higher oil prices and adding to global inflationary pressures. China, meanwhile, continues to be a stabilizer and growth engine for the global economy, contributing to worldwide development.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US stocks reacted to the August jobs report, impacting Federal Reserve rate hike expectations."
+        },
+        {
+          "name": "Oslo, Norway",
+          "lat": 59.9139,
+          "lng": 10.7522,
+          "severity": "green",
+          "detail": "Norway's sovereign wealth fund plans to reduce its US Treasury holdings to diversify risk."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Disruption due to conflict contributes to elevated oil prices and inflationary pressures."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China is noted as a stabilizer and growth engine for the global economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US states to vote on constitutional rights; ICC grapples with digital evidence.",
+      "summary": "On November 3, voters in nine US states will decide on 13 ballot measures to establish or modify state constitutional rights, covering issues like reproductive freedom, affirmative action, and labor organization. Separately, the defense team for former Philippine President Rodrigo Duterte at the ICC raised concerns about the authenticity and potential misinformation of open-source and user-generated digital evidence in his case. In the US, the Department of Homeland Security is threatening a pro-voting group over its voter registration research, raising concerns about democratic processes.",
+      "regions": [
+        {
+          "name": "Virginia, USA",
+          "lat": 37.4316,
+          "lng": -78.6569,
+          "severity": "yellow",
+          "detail": "Voters will decide on progressive/liberal amendments related to abortion, marriage, and voting rights."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "green",
+          "detail": "The ICC is considering new rules for digital evidence in a high-profile case, with implications for democratic processes."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The DHS is scrutinizing a pro-voting group over its voter registration research, sparking concerns."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "Legal proceedings involving former President Duterte have implications for democratic accountability."
+        },
+        {
+          "name": "Missouri, USA",
+          "lat": 38.4597,
+          "lng": -92.3276,
+          "severity": "green",
+          "detail": "The Missouri Supreme Court blocked a gerrymandered congressional map, impacting democratic representation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Massive international aid for Nepal flash flood victims.",
+      "summary": "The US military has joined humanitarian operations in Nepal after devastating flash floods killed over 1,300 people and left thousands missing, delivering urgent lifesaving supplies. Vietnam also provided $300,000 in emergency humanitarian aid to Nepal, and Malaysia dispatched an 11-member SMART team for search and rescue operations, pledging US$1 million in aid amidst concerns for missing citizens. The UAE has also sent a rescue team and a $10 million aid package to flood-hit Nepal. Civil society groups in Sudan urged the UN to extend an arms embargo nationwide, citing over 1,000 civilian deaths from drone warfare and a critical humanitarian crisis.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "This city is at the center of flood disaster relief efforts, receiving extensive international humanitarian aid."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US military is providing humanitarian aid and search and rescue support to Nepal."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "lat": 21.0278,
+          "lng": 105.8342,
+          "severity": "green",
+          "detail": "Vietnam pledged $300,000 in emergency humanitarian aid to help Nepal overcome natural disaster consequences."
+        },
+        {
+          "name": "Subang, Malaysia",
+          "lat": 3.0763,
+          "lng": 101.5794,
+          "severity": "green",
+          "detail": "Malaysia dispatched its SMART team and pledged US$1 million in aid for Nepal's flood and landslide SAR operations."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "green",
+          "detail": "The UAE has sent a rescue team and a $10 million aid package to flood-hit Nepal."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Civil society groups urged the UN to extend an arms embargo nationwide due to over 1,000 civilian deaths from drone warfare."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "yellow",
+          "detail": "Civil society groups are advocating for the existing arms embargo to be extended beyond this region to cover all of Sudan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "golocalprov.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAxLuPKCF9FZVw0YeaML4bjFDG2rr442gRstND_3W0cpqVWnWxknYholOfX8XloQmBVuxIL9KjfRfm09Aa6X0alf-FQ71Q2bWG5TGMAfEy8-meOLAATOIvyJouFtuxxgZAc26zfoaTAYAOyIFleDLsC_xr_ovlV5Hf-mvtABxLSBHUsfn5s-UvAf3yyRXNIM5wQ=="
+        },
+        {
+          "title": "isa-world.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCRLSz8-5N2pvkAozbCb058DmbIqhdVDFL50fKYMRzuHSGXvQnphJl0wBn7ngCN2XMonP8pI3bq3SRnU5Tspj1DQH-HSZT47M5izZKOzXwSkil4lukAHhVpOhHCCedT-YZtvhXvM3neG5wkmMEAAEWkqh43D_lDjDvFke0_N9_ZRRWtXqXdp6jLBJk2bpZn2oAkbzqOD6QlXyx5ZZGXbuDE8aZzbTuWZT_tW58s8OV7afdJjh"
+        },
+        {
+          "title": "ap7am.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQq06Mnom73yijNRYsXw0mCGuvBSjJPrLWCUziR5e3lpHfSNipzJBVNvl8rMnlct4mba6y2kPV7C1X0aDBOmEC_XkBNK5c3R_6SS5fbjpbVZU8P1_E60pnd0BBXtHK6XH8RF-pfdEI8BTfWQV4Y1U0zaMxK6tqsUD4UxTz3xElz8OVO8PfkMaZCjw2HnUQbqXdZ105x_MQXFovYY64"
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQeMhZB5tpPYkGA4BzJNmsnUd5Dd-O2RjZCctHEEcZMCfYpfW6m6B3IRxA0rJvmHo_c4F-jyRTYAIJAd460TLKh8grKfU1iKIMbo8PcQ_gR24WU32OO5nYJGIxStkQDbC2V23-wr8ysr0WnLsCAZTIepF6e5zrzU1lg=="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHjHz_GFfl1wXD6dD5c3cCgR50LYzS-iC588eySPvuYT79sWJ47qhp25h82ROzcQR_NnoIeqdFSLX6TZyTfZMNR5yWI5-5X4pv49ayArBQuik5VlzTrQ5RpfmcNCGD_iRKbvNaFrr2h51Sbh9qU8nAfoTPdoZlnoi9Z3Ci3mI6HuRsOaqt8wopwyQcWSDSfja5Hwk="
+        }
+      ]
+    }
+  }
+}
