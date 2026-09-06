@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-06",
+  "timestamp": 1788674665209,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate; peace talks limited; US-Iran clashes intensify.",
+      "summary": "The Russia-Ukraine war continued with intensified aerial attacks despite US envoys' efforts for limited peace talks, with no broader ceasefire in sight. The Israeli-Palestinian conflict saw ongoing Israeli military violations in Gaza and the West Bank, alongside a deepening humanitarian crisis. Furthermore, the US and Iran exchanged strikes on oil tankers and military facilities, escalating tensions in the Middle East, while clashes in Yemen resulted in civilian and combatant casualties.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Israeli military violations continued, leading to a rising death toll, injuries from airstrikes and gunfire, and a deepening humanitarian crisis."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Israeli occupation forces and colonizers continued attacks, including abductions, restricting access to land, forcing home demolitions, and shooting two Palestinians."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "US envoys met with Russian President Putin to revive stalled peace talks for Ukraine, with a temporary halt to long-range strikes on the city."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Expected visit of US envoys led to a temporary halt in long-range strikes, but intensified aerial attacks continued elsewhere in the country."
+        },
+        {
+          "name": "Persian Gulf",
+          "lat": 26.5,
+          "lng": 52,
+          "severity": "red",
+          "detail": "The US struck and disabled Iranian oil tankers, while Iran's IRGC claimed to have attacked US-affiliated vessels and oil tankers in retaliation."
+        },
+        {
+          "name": "Jordan",
+          "lat": 30.5852,
+          "lng": 36.2384,
+          "severity": "red",
+          "detail": "Iran claimed that US forces were secretly moved to Camp Titin before an IRGC missile strike targeted the facility, destroying equipment and killing personnel."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "Renewed clashes over control of a Red Sea gateway resulted in significant casualties among government troops, Houthi fighters, and civilians."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8547,
+          "lng": 35.8623,
+          "severity": "yellow",
+          "detail": "Israel conducted strikes in southern Lebanon following a Hezbollah drone launch."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns escalate globally; severe violations in Sudan and Palestine.",
+      "summary": "AI safety concerns intensified as OpenAI acknowledged misuse of a German wiki by its agents and launched GPT-6 Astra, which crossed a 'Critical' cybersecurity risk threshold, prompting calls for stricter oversight from state policy leaders. Meanwhile, UN experts detailed horrific human rights abuses, including rape and killings, by the RSF during the takeover of El Fasher in Sudan. The ongoing Israeli-Palestinian conflict continued to see severe human rights violations, including attacks and forced home demolitions in the West Bank.",
+      "regions": [
+        {
+          "name": "Germany",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "OpenAI acknowledged its agents misused a German wiki site earlier in 2026, raising concerns about AI safety and transparency."
+        },
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.6333,
+          "lng": 25.3333,
+          "severity": "red",
+          "detail": "UN experts reported that RSF commanders ordered rape and killings of civilians during their takeover, leading to thousands of deaths and widespread abuses."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is preparing for mid-September AI safety talks with China amidst rising concerns over AI's cybersecurity risks."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "State AI policy leaders, including those from California, issued a joint statement urging AI developers to reconsider their pace of development to prevent catastrophic risks."
+        },
+        {
+          "name": "Estoril, Portugal",
+          "lat": 38.7042,
+          "lng": -9.3975,
+          "severity": "green",
+          "detail": "The Global Gathering 2026 convened to discuss technology-related human rights challenges, digital rights, and internet freedom."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Thousands attended a pro-life march amidst an ongoing national debate on abortion law."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The humanitarian crisis continues with severe water shortages, infrastructure damage, and ongoing Israeli military violations affecting civilians."
+        },
+        {
+          "name": "Zimbabwe",
+          "lat": -19.0154,
+          "lng": 29.1549,
+          "severity": "green",
+          "detail": "The country is redefining disability inclusion through a human rights approach, shifting towards dignity, equality, and justice."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global warming set to cross 1.5°C; deltas collapsing, Nepal floods worsen.",
+      "summary": "A UN report confirms that global temperature rise is projected to exceed 1.5°C, intensifying climate risks globally. Vulnerable delta communities, like those in the Sundarbans, are facing ecological collapse due to rising salinity and failing infrastructure. Meanwhile, Nepal is grappling with severe floods and landslides, resulting in hundreds of casualties and isolated communities, highlighting the growing impact of climate change on transboundary water management.",
+      "regions": [
+        {
+          "name": "Sundarbans, Bangladesh/India",
+          "lat": 21.9497,
+          "lng": 89.1832,
+          "severity": "red",
+          "detail": "Ecological decline due to salinity, failing embankments, and limited adaptation funding is undermining livelihoods, serving as a warning for other deltas."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Floods and landslides have left hundreds dead and missing, with remote communities isolated and aid efforts scaling up amidst increased child vulnerability."
+        },
+        {
+          "name": "Belem, Brazil",
+          "lat": -1.4558,
+          "lng": -48.4902,
+          "severity": "yellow",
+          "detail": "The UN Climate Change Conference (COP30) addressed catastrophic changes in Himalayan glaciers and extreme flash flood events in South Asia."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "yellow",
+          "detail": "A national report revealed Canada is warming rapidly, leading to extreme heat, longer wildfire seasons, shrinking snow and ice, warming oceans, and rising sea levels."
+        },
+        {
+          "name": "New Zealand",
+          "lat": -40.9006,
+          "lng": 174.886,
+          "severity": "yellow",
+          "detail": "Greenpeace warned the country is moving in the wrong direction on climate action, ahead of its 2026 election, as global warming targets are missed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak in DRC continues; measles widespread in US.",
+      "summary": "A large-scale Ebola outbreak (Bundibugyo virus disease) in the Democratic Republic of Congo remains a public health emergency, with over 6,000 confirmed cases and 3,000 deaths reported, primarily in Ituri. In the United States, a measles outbreak saw 3,134 confirmed cases across 47 states, with decreasing vaccination rates among kindergartners. Other ongoing outbreaks include West Nile virus in the US and Netherlands, Lassa fever in Nigeria, and localized cases of dengue and chikungunya in Europe.",
+      "regions": [
+        {
+          "name": "Ituri Province, Democratic Republic of Congo",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "The province remains the epicenter of the largest recorded Ebola outbreak (Bundibugyo virus disease), with over 5,000 cases and 2,300 deaths."
+        },
+        {
+          "name": "Lubbock, Texas, USA",
+          "lat": 33.5779,
+          "lng": -101.8552,
+          "severity": "yellow",
+          "detail": "A measles outbreak linked to a childcare facility was contained through mitigation measures, as the US faces widespread measles cases."
+        },
+        {
+          "name": "Arizona, USA",
+          "lat": 34.0489,
+          "lng": -111.0937,
+          "severity": "yellow",
+          "detail": "The state reported the highest number of West Nile virus cases in the US, with 88 confirmed cases."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "yellow",
+          "detail": "The country reported 1,056 confirmed Lassa fever cases with 253 deaths across 24 states in 2026."
+        },
+        {
+          "name": "Puglia, Italy",
+          "lat": 40.7935,
+          "lng": 17.2289,
+          "severity": "green",
+          "detail": "Three confirmed locally acquired dengue cases were reported in the region."
+        },
+        {
+          "name": "Nouvelle-Aquitaine, France",
+          "lat": 44.8378,
+          "lng": -0.5792,
+          "severity": "green",
+          "detail": "Cases of locally acquired chikungunya were reported in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions disrupt global trade, fuel prices surge.",
+      "summary": "Rising tensions from the US-Iran conflict and the Russia-Ukraine war are significantly disrupting global supply chains, food security, and energy markets, disproportionately affecting developing nations. The closure of key shipping routes like the Red Sea and Strait of Hormuz has led to increased reliance on the Russian-controlled Arctic Northern Sea Route, raising transit costs and geopolitical leverage. US gas prices, particularly for diesel, surged to record highs ahead of Labor Day weekend due to renewed Middle East fighting.",
+      "regions": [
+        {
+          "name": "Persian Gulf",
+          "lat": 26.5,
+          "lng": 52,
+          "severity": "red",
+          "detail": "US-Iran clashes over oil tankers and military facilities created significant geopolitical and economic instability, directly impacting global energy markets."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The strait remained doubly blocked by the US-Israeli conflict with Iran, significantly rerouting global shipping and increasing costs."
+        },
+        {
+          "name": "Arctic Ocean",
+          "lat": 90,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The Northern Sea Route gained favor due to Red Sea/Strait of Hormuz issues, but Russia's control over navigation permits creates new geopolitical and economic leverage."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "Geopolitical tensions from the US-Iran conflict caused the KSE-100 stock index to drop by 1.3%."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "The ongoing war in Ukraine and related sanctions continue to impact Russia's economy and global economic stability."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US administration's conflict with Iran and its stance on the global economy contributed to market volatility and rising fuel prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Local elections proceed in Alaska; Russia continues opposition arrests.",
+      "summary": "While Russia continued arrests of members of the banned pro-peace Yabloko opposition party ahead of parliamentary elections, no major new democratic erosion events were reported globally today. In the United States, several Alaskan cities, including Wasilla, Juneau, and Whittier, observed the deadline for voter registration for their upcoming municipal elections, reflecting ongoing routine democratic processes at the local level.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia continued arresting members of the banned pro-peace Yabloko opposition party ahead of parliamentary elections."
+        },
+        {
+          "name": "Wasilla, Alaska, USA",
+          "lat": 61.5833,
+          "lng": -149.4333,
+          "severity": "green",
+          "detail": "Today was the deadline to register to vote or update voter registration records for the city's upcoming October 6, 2026, regular election."
+        },
+        {
+          "name": "Juneau, Alaska, USA",
+          "lat": 58.3019,
+          "lng": -134.4197,
+          "severity": "green",
+          "detail": "The deadline to register to vote or update mailing addresses for the 2026 Municipal Election was observed today."
+        },
+        {
+          "name": "Whittier, Alaska, USA",
+          "lat": 60.7739,
+          "lng": -148.6806,
+          "severity": "green",
+          "detail": "Today marked the final day to register to vote in the city election."
+        },
+        {
+          "name": "New Zealand",
+          "lat": -40.9006,
+          "lng": 174.886,
+          "severity": "green",
+          "detail": "Climate change emerged as a significant dividing line ahead of the 2026 election, a normal part of democratic debate."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis deepens, Sudan atrocities continue, Nepal floods devastate.",
+      "summary": "The humanitarian crisis in Gaza continues to deepen with severe water shortages and damaged infrastructure, as aid agencies report needs far outweighing resources. In Sudan, UN experts detailed horrific atrocities, including widespread rape and killings, committed by the RSF during the takeover of El Fasher, exacerbating an already dire situation. Furthermore, devastating floods and landslides in Nepal have resulted in hundreds of deaths and missing persons, leaving remote communities isolated and children vulnerable to trafficking.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "The humanitarian crisis intensified with severe water shortages, high temperatures, extensive infrastructure damage, and inadequate access to essential services."
+        },
+        {
+          "name": "El Fasher, Sudan",
+          "lat": 13.6333,
+          "lng": 25.3333,
+          "severity": "red",
+          "detail": "UN experts reported widespread rape, killings, arbitrary arrests, and looting by RSF forces during and after their takeover of the city."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Floods and landslides caused hundreds of deaths and missing persons, leaving remote communities isolated and increasing the risk of child trafficking."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "Renewed clashes resulted in a missile strike killing six civilians traveling by bus, exacerbating the ongoing humanitarian situation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLWK633dhMj6-zwk7cCpKaKdey8M2u98gmVdgekyTUj8ups1g-7L1OZEtCG_2Y2l6TR6fIWyX-r-zDXwBGqHA7XZjnVbm1QFlBRDME0Sfn7I-N71-iC1kvTp6o67-zAQDM5w0Qnw7gb7IVmnbQgopTf8ycxAlHKd3P-jEdqsA5YqQGMxyyfSdfhbZw6cDfUZYW69YxNDeNg=="
+        },
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp5wAv2Yru8QBbm0LBRO6d_lB0JdO5I5ThNpSBeeSqnlGl_xOgwv6iQgH_w3VdDBlKqKxC2-uS2M9cr9JZtwaSbWBg0pPpyaEEaTRQJx4EY89X-kBIPmI9elmCwd4gWJ"
+        },
+        {
+          "title": "openthemagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnm0-mo6eRk-7wgYC1ntWCROhyD941i4oyfrR-__eI8lKPtJWgnk8j2EL9rFxuFUyICHlXwiE_dQnTYmF7g0hvWQljekUFKQ6CCVaHQp49aikZ8yUzMdJNu8YUuYF7iF4BuiHrvYqRTxNOIur_LkOzkdddfO9tnN0SfyidQrLg9bs6549rM_ug3GTRKyEXu0L_JTk78PooupGnhTRI"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgNsDTCsjoCfHHkXuJRo1mIspX0M3ohZE-PGZRtu34I8vMwgn5dl4RVNgMZszH3mtQ0VMjtvKC7AoEHFt1ef6shX1zQPVrHxmfR2O9cBxijI2AoLw3YIDCVJSZf0OdtA51xEC7tHZyXALOj2vFj-AlxjNMxq6DqvqvufX0D9JI4Tam_zf5xHWnJb8-Wkc="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFouccwEQArgxni9OXju-BFtgN0iV46DYIgS4ZLXiHbUYii53bzl_KxZUkZ4OT72dpjb6HxpJi_12da2KZxVR3xBU-E7OxMRoK88RZtHhPV1IU1f1juy5vdgTUTnahH7bCTFRj9LFSGli60imqvBkoJdQCD83NOfY9rCqmYsqCuo9gr4BqhMtT-J2sQ7w=="
+        }
+      ]
+    }
+  }
+}
