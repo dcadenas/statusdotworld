@@ -1,0 +1,482 @@
+{
+  "date": "2026-09-09",
+  "timestamp": 1788933896505,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflict escalates with retaliatory strikes and threats.",
+      "summary": "A significant escalation in the Middle East saw Houthi attacks on Saudi cities and US strikes on Iranian oil tankers, followed by Iranian missile retaliation against a US base in Jordan. Iran also claimed attacks on US vessels and tankers in the Gulf. Additionally, Russia is intensifying its \"shadow war\" against Europe with various attacks.",
+      "regions": [
+        {
+          "name": "Southern Saudi Arabia",
+          "lat": 18.2167,
+          "lng": 42.5,
+          "severity": "red",
+          "detail": "Houthi attacks targeted four cities, wounding 73 people and setting oil-related installations ablaze."
+        },
+        {
+          "name": "Al Azraq, Jordan",
+          "lat": 31.8893,
+          "lng": 36.8285,
+          "severity": "red",
+          "detail": "Iran retaliated with a ballistic missile attack on a US base, with Jordan reporting interception of 18 missiles."
+        },
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26.5833,
+          "lng": 56.5167,
+          "severity": "red",
+          "detail": "US forces destroyed five Iranian crude oil carriers, and Iran's Revolutionary Guards claimed attacks on US vessels and other tankers."
+        },
+        {
+          "name": "Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported on the recent use of white phosphorus munitions by Israeli forces in southern Lebanon."
+        },
+        {
+          "name": "Borno State, Nigeria",
+          "lat": 11.8333,
+          "lng": 13.15,
+          "severity": "yellow",
+          "detail": "Islamic State West Africa Province continues attacks against Nigerian military forces and civilians."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The ongoing Russia-Ukraine conflict was referenced regarding a cluster munition attack in August 2026."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "A US diplomat warned that any conflict across the Taiwan Strait would have a disastrous global economic impact."
+        },
+        {
+          "name": "Europe (general)",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Russia is escalating a 'shadow war' of violent, quasi-covert coercion against Europe, including drone incursions and sabotage."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Report details rights abuses; digital privacy concerns grow.",
+      "summary": "Human Rights Watch released a report on Israel's use of white phosphorus in Lebanon, while the Palestinian Journalists Syndicate documented numerous Israeli violations against journalists in August. The EU condemned escalating 'colonist terrorism' in the West Bank and implemented sanctions. Additionally, new laws in Bangladesh are seen as weakening human rights safeguards, and global discussions highlight growing concerns over online privacy, cybersecurity, and AI's impact on personal data.",
+      "regions": [
+        {
+          "name": "Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Human Rights Watch reported on Israeli forces' recent use of white phosphorus munitions, calling for new international law to regulate these weapons."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The Palestinian Journalists Syndicate documented 84 Israeli violations against Palestinian journalists in August 2026, including the death of a journalist in prison."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "The European Union condemned escalating 'colonist terrorism' and adopted sanctions against extremist settlers and organizations."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "New human rights bills are criticized for potentially weakening safeguards and politicizing the National Human Rights Commission."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "New legislation addresses AI transparency, employment decisions, privacy practices, and consumer interactions with chatbots."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Human Rights Watch's report on white phosphorus was released from New York, urging action at the UN General Assembly."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather impacts globally; climate action discussions.",
+      "summary": "Nepal is grappling with devastating floods caused by a glacier collapse, prompting international humanitarian aid. The Mont Blanc region in Europe experienced accelerated permafrost melt and increased rockfalls due to record heatwaves, highlighting immediate climate warming impacts. Additionally, a powerful volcanic eruption from Anak Krakatau in Indonesia disrupted air travel and affected air quality.",
+      "regions": [
+        {
+          "name": "Rasuwa District, Nepal",
+          "lat": 28.1667,
+          "lng": 85.3167,
+          "severity": "red",
+          "detail": "Devastating floods and landslides due to a glacier collapse have claimed over 1,350 lives and left thousands missing."
+        },
+        {
+          "name": "Mont Blanc, France",
+          "lat": 45.9237,
+          "lng": 6.8647,
+          "severity": "red",
+          "detail": "Record heatwaves this summer caused severe permafrost melt and a significant increase in rockfalls in the Alpine landscape."
+        },
+        {
+          "name": "Anak Krakatau, Indonesia",
+          "lat": -6.102,
+          "lng": 105.423,
+          "severity": "yellow",
+          "detail": "A booming eruption sent ash and gas high into the atmosphere, disrupting thousands of flights and degrading air quality."
+        },
+        {
+          "name": "Makuhari Messe, Japan",
+          "lat": 35.6482,
+          "lng": 140.0384,
+          "severity": "green",
+          "detail": "DOCOMO's EMS platform for green base stations, which reduces CO2 emissions, was exhibited at Smart Energy Week."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "DOCOMO successfully conducted a demonstration of its weather-forecast-linked lithium-ion battery control technology for green base stations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Global health experts convene; patient safety emphasized.",
+      "summary": "The 18th World Congress on Public Health concluded in Cape Town, South Africa, bringing together global professionals to discuss health equity, inclusion, and sustainable systems. The WHO also hosted a global webinar for World Patient Safety Day, emphasizing safe care for noncommunicable diseases. Humanitarian efforts in Nepal continue to address public health risks following recent floods, particularly safe water access for children.",
+      "regions": [
+        {
+          "name": "Cape Town, South Africa",
+          "lat": -33.9249,
+          "lng": 18.4241,
+          "severity": "green",
+          "detail": "The 18th World Congress on Public Health concluded, focusing on 'Health Without Borders: Equity, Inclusion, and Sustainability.'"
+        },
+        {
+          "name": "Rasuwa District, Nepal",
+          "lat": 28.1667,
+          "lng": 85.3167,
+          "severity": "yellow",
+          "detail": "UNICEF highlighted that 22,000 children urgently need safe drinking water in the aftermath of devastating floods."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO organized a Global Webinar for World Patient Safety Day 2026, focusing on 'Safe care for noncommunicable diseases.'"
+        },
+        {
+          "name": "Lisbon, Portugal",
+          "lat": 38.7223,
+          "lng": -9.1393,
+          "severity": "green",
+          "detail": "The 9th World One Health Congress concluded, fostering discussions on One Health science and policy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions push oil prices up; global trade fracturing.",
+      "summary": "The global economy faces modest growth projections with risks from geopolitical uncertainty and financial fragility. Escalating conflict in the Middle East has driven crude oil prices near $100 per barrel, leading to market volatility in the US and Asia, and intensifying sanctions are impacting Iran's economy. Eighteen shipping nations warned that global trade is fracturing due to conflicts, trade wars, and extreme weather, citing the Strait of Hormuz closure as a major concern.",
+      "regions": [
+        {
+          "name": "Middle East (general)",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Escalating conflict is driving sharp energy price increases, with crude oil trading near $100 per barrel."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The economy is in a deeper crisis due to dwindling oil revenue, a US naval blockade, and soaring inflation over 80%."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US stocks fell on Wall Street as renewed fighting in the Middle East pushed oil prices higher, ahead of key inflation reports."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Indian stock markets tumbled as crude oil prices traded near $100 per barrel, intensifying inflationary pressures."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5833,
+          "lng": 56.5167,
+          "severity": "red",
+          "detail": "The Strait, effectively shuttered by Iran in February, was cited as a stark example of regional conflict's global consequences on shipping."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "A US diplomat warned that a conflict across the Taiwan Strait would have a greater impact on the global economy than World War Two."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "A report highlighted BRICS' growing economic weight and institutional footprint, now accounting for almost 40% of global GDP (PPP basis) in 2024."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "As a member of the Consultative Shipping Group, Singapore warned that global trade is fracturing due to armed conflicts, trade wars, and extreme weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Bangladesh human rights laws spark democratic concerns.",
+      "summary": "In Bangladesh, recently passed human rights bills, including the National Human Rights Commission Bill, 2026, and the Enforced Disappearance Prevention and Redress Bill, 2026, have raised concerns among analysts for potentially weakening safeguards and risking the politicization of the National Human Rights Commission. This development highlights ongoing challenges to democratic governance and independent oversight.",
+      "regions": [
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "New human rights legislation has been criticized for weakening safeguards and risking the politicization of the National Human Rights Commission."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "green",
+          "detail": "Hungary expelled 10 Russian diplomats over activities deemed incompatible with their diplomatic status."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Nepal flood aid surges; Yemen, Gaza crises persist.",
+      "summary": "Humanitarian efforts are accelerating in Nepal following devastating floods, with Japan providing a $3 million grant and the UAE intensifying search, rescue, and relief operations, including dispatching 186 tonnes of aid. The UN has launched a $49.6 million flash appeal to assist over 84,000 people in Nepal, where UNICEF warns 22,000 children lack safe water. Meanwhile, organizations continue to support vulnerable migrants in Yemen, and humanitarian concerns persist in the occupied Palestinian territory and DR Congo.",
+      "regions": [
+        {
+          "name": "Rasuwa District, Nepal",
+          "lat": 28.1667,
+          "lng": 85.3167,
+          "severity": "red",
+          "detail": "The region is receiving significant international humanitarian aid after severe floods, with the UN launching a $49.6 million flash appeal."
+        },
+        {
+          "name": "Lahj Governorate, Yemen",
+          "lat": 13.056,
+          "lng": 44.878,
+          "severity": "yellow",
+          "detail": "The Danish Refugee Council and partners are providing critical assistance to vulnerable migrants along dangerous routes."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian reports highlight children killed by airstrikes and concerns for 2.1 million people in overcrowded conditions approaching the rainy season."
+        },
+        {
+          "name": "Nord-Kivu, DR Congo",
+          "lat": -1.6791,
+          "lng": 29.2274,
+          "severity": "yellow",
+          "detail": "A humanitarian squeeze continues with over 50,000 newly displaced people and rising prices exacerbating vulnerabilities."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "The Government of Japan decided to provide an Emergency Grant of US$3 million to Nepal in response to the flash flood disaster."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "green",
+          "detail": "The UAE continues its humanitarian efforts in Nepal, intensifying search and rescue and delivering 186 tonnes of aid."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-2SW1Z5_ibLBbb8L8Toxs8MdwEOwuO9dSy9zMD0NMs_5BlqaYq2qi3TKjjcTvv6Y3kUigX36Bi-79buxWRldV8mp7zsYu5K-VhP-R7WcOiKQEz_86CCkTJB2g6w5HNNFm8IauRaNDWm4FTHuUUvpeiutuzUCrsS9XutQkMcVcdWJRrsjHr9ZhySIfHAJJ7cm_HANGa-_FSWmisVlUaaCGqnDXtwshZ9V2NnH-NO5-T7lxCkV1mLwbTIQWvwWTmVlsUuvAD552pMOsWgESuY_1-4EYDpSLlH4M-qELg=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDGUv2nWhnUnkgoazqmSDpNbXLTAyaTDRB8x7fy_7IQkpyBiDsZ0a3H7Ll6cE_K8aJzAuUOZ0g1ycF2MWvn7MxzSYnmO6_UWhiRHj4w83jiJwOhTsvu1XXoVEtzo2J9q_HwSZq87PFo2ghqCeifm4MQYRja3lR17XVtdmcL6cLC-pqZRcZsaIJvWCYZwRt-Chovudj7KEBlcQscz6BvnS6q_EpFSGltN_xAqPqECVLoSxmQs="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cAJk66cUIodp6ml6u5oDRVBZRYfM6sy0imOhGmu9XumzNNDsHNtbFGQMUQM4ygDB_sTg9tkGM5iNkPcy-0SOZK45XnzUI4XN9Yi77b0jJWg-O03Ig5WCyUlpvLP9AfwF4xE83Psh1nx4ut4iiF6BWRDN52UceaKpgyp0IjQZaGrHvoMXMGESYTs7zpncDsj0xGHqyKLYyunvV5K3du1VKkOHgwS31RjsumEPYFJDmY0wJf_hxjV5XHhhXAcyfBBdd77LS7WRRfv8p9cIqC1j1SI3iw=="
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9Oi2T81Vnl3EMiYTtXaFHBOEvmstruh7TUOYpOKv3LnmPhqowlM-QBAHTHMtbAre89Dn3u2mnFVcR22r6LpBLUfxHv_oDYavnrFWZyPG9FIQddLEboUg-rijpgZBohuIfHUpwrG7xLIPapzk4BmQXaqQCCEaBMyw_r7nNAIcsL46NJT96Qsjwz1-bJ5P0DYHSQgEJi-OmujP8QzHryGU-z7cxA3syOKN2JwQU_g="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTz7oy4hOIgz002mcGS4iSPx1crz5wk7m6_yBU_rEGZCbJ_wqWDhsMnOAle0IvJZODbIlIPVB46BBiXScYB2AWjHb7fvk2N4dITu_gd3O9fqN2jFirGuv9loS8tiwT-YdUw6HoRcSsXpZXSl3x8iCbQA7829_fWEHcadqzOo_"
+        }
+      ]
+    }
+  }
+}
