@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-10",
+  "timestamp": 1789020307403,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran War Escalates, Affecting Red Sea and Global Economy",
+      "summary": "The ongoing US-Iran war saw significant escalation today with missile strikes and attacks on oil tankers, further impacting global energy markets. Concurrently, the conflict in Yemen, linked to the broader Middle East war, reignited with Houthi rebels and the Saudi-led coalition trading airstrikes, killing hundreds and displacing nearly 20,000 people.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Multiple explosions were reported across Iran's coastal regions as the US-Iran war escalated."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US continued its campaign, 'Operation Economic Outcast,' and its forces struck Iranian oil tankers."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi rebels and the Saudi-led coalition exchanged airstrikes, causing hundreds of deaths and displacing thousands."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Saudi Arabia faced heavy missile and drone attacks from Houthi rebels, targeting oil sites."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "severity": "red",
+          "detail": "Iran launched missile strikes targeting the Muwaffaq Salti Air Base, used by US forces."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The Strait of Hormuz remained a critical point for global energy flows amidst the conflict, with Iran threatening blockades."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan's defense preparations are ongoing, with a security expert noting the signaling to the US rather than China."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General appealed for world leaders to invest in peace, as global conflicts deepen."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety Concerns Rise Amid Warnings and New Regulations",
+      "summary": "Leading AI researchers expressed serious concerns today, with one Anthropic researcher estimating over a 10% chance AI could lead to human extinction within a decade, amid warnings about advanced AI models gambling with human lives. In response to rising concerns, California signed first-in-the-nation AI safeguards, and major tech and education groups announced new privacy standards for schools.",
+      "regions": [
+        {
+          "name": "San Francisco, United States",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Anthropic researchers in the US raised alarm bells about AI's existential risks."
+        },
+        {
+          "name": "Sacramento, United States",
+          "lat": 38.5816,
+          "lng": -121.4996,
+          "severity": "green",
+          "detail": "Governor Newsom signed California's first-in-the-nation AI safeguards to protect citizens."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "AFT, UFT, and Microsoft announced a National AI Safety & Privacy Standard for schools."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "green",
+          "detail": "An independent commission published recommendations to accelerate safe AI adoption in UK healthcare."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme Heat, Floods, and Volcanic Activity Impact Global Regions",
+      "summary": "Extreme heat warnings were in effect across the Central and Southwest U.S. today, with temperatures reaching over 40°C in some areas. Nepal faced devastating floods that began in August, resulting in over 1,300 recovered bodies and 5,100 missing people, with ongoing damage. Additionally, Mount Ibu in North Maluku, Indonesia, erupted again, sending ash columns 600 meters high.",
+      "regions": [
+        {
+          "name": "Death Valley, United States",
+          "lat": 36.505,
+          "lng": -117.07,
+          "severity": "red",
+          "detail": "An Extreme Heat Warning was issued with temperatures forecast at 44–47°C."
+        },
+        {
+          "name": "Las Vegas, United States",
+          "lat": 36.1699,
+          "lng": -115.1398,
+          "severity": "red",
+          "detail": "An Extreme Heat Warning was in effect for parts of southern Nevada, with temperatures up to 43°C."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Devastating floods caused over 1,300 deaths and 5,100 missing persons, impacting infrastructure."
+        },
+        {
+          "name": "North Maluku, Indonesia",
+          "lat": -0.686,
+          "lng": 127.876,
+          "severity": "yellow",
+          "detail": "Mount Ibu erupted again, releasing an ash column 600 meters above the summit."
+        },
+        {
+          "name": "Atlantic Ocean",
+          "lat": 20,
+          "lng": -40,
+          "severity": "green",
+          "detail": "The Atlantic hurricane season reached its climatological peak, with a below-normal outlook but warnings against complacency."
+        },
+        {
+          "name": "San Diego, United States",
+          "lat": 32.7157,
+          "lng": -117.1611,
+          "severity": "red",
+          "detail": "An Extreme Heat Warning was issued for the region."
+        },
+        {
+          "name": "Arkansas, United States",
+          "lat": 34.7465,
+          "lng": -92.2896,
+          "severity": "yellow",
+          "detail": "Heat index values up to 44°C were forecast across parts of the state."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Major Cyclospora and Salmonella Outbreaks Reported in US",
+      "summary": "The US Centers for Disease Control and Prevention reported nearly 20,000 confirmed Cyclospora cases, with a large cluster linked to iceberg lettuce from Mexico, resulting in over 1,000 hospitalizations and two deaths. Separately, a multistate Salmonella outbreak linked to broccoli sprouts sickened 16 people in three states.",
+      "regions": [
+        {
+          "name": "Washington (state), United States",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "yellow",
+          "detail": "A multistate Salmonella outbreak linked to broccoli sprouts sickened 13 people in the state."
+        },
+        {
+          "name": "Idaho, United States",
+          "lat": 44.0682,
+          "lng": -114.742,
+          "severity": "yellow",
+          "detail": "Broccoli sprouts from Evergreen Fresh Sprouts in Idaho were linked to a Salmonella outbreak."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "red",
+          "detail": "Iceberg lettuce from Mexico was implicated as the vehicle for a large Cyclospora outbreak in the US."
+        },
+        {
+          "name": "Atlanta, United States",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "red",
+          "detail": "The CDC reported nearly 20,000 confirmed Cyclospora cases and investigated the Salmonella outbreak."
+        },
+        {
+          "name": "Majuro, Marshall Islands",
+          "lat": 7.117,
+          "lng": 171.183,
+          "severity": "yellow",
+          "detail": "The Marshall Islands reported 46 confirmed dengue cases in Majuro."
+        },
+        {
+          "name": "Yap, Federated States of Micronesia",
+          "lat": 9.516,
+          "lng": 138.15,
+          "severity": "yellow",
+          "detail": "Yap State reported a diarrhoeal outbreak with a cumulative total of 141 clinically diagnosed cases."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "Over 100 health emergency experts from the WHO Western Pacific Region met to strengthen emergency readiness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Stocks Decline Amid Iran War and Persistent Inflation",
+      "summary": "Major global stock markets, including those in the US, Europe, and Asia-Pacific, experienced declines today. The ongoing Iran war, which has seen attacks on oil tankers and disruptions in the Red Sea, continued to push oil prices above $100 a barrel, exacerbating global inflation concerns. The European Central Bank is expected to raise rates due to persistent inflation.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US stock markets (Dow Jones, S&P 500, Nasdaq Composite) experienced declines."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European stock markets, including Germany's DAX, saw sharper declines, and the ECB is expected to raise rates."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "The UK's FTSE 100 declined amid global market turbulence."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan's Nikkei 225 declined, and the Ministry of Finance conducted a liquidity enhancement auction."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The upcoming BRICS summit highlights global economic uncertainty driven by the Middle East war and US sanctions on Iran."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The war in Iran and its impact on oil flows through the Strait of Hormuz directly contributed to economic instability and rising oil prices."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's CSI 300 also declined, and its economy faces soaring production costs due to the Iran war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Grant Program Excludes French Groups Amid Election Concerns",
+      "summary": "A US grant program designed to support Trump administration priorities in Europe will exclude French organizations due to sensitivities over allegations of foreign interference ahead of next year's French presidential election. This decision reflects growing concerns about external influence on democratic processes, particularly as France faces a potential shift towards a far-right party.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "French groups were excluded from a US grant program due to election interference concerns ahead of next year's presidential election."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US State Department's DRL grant program made the decision to exclude French organizations."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The UN Secretary-General urged world leaders to invest in peace, dialogue, and safeguard human rights and dignity for stable democracies."
+        },
+        {
+          "name": "Dallas, United States",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "green",
+          "detail": "US President Donald Trump made remarks about the Iran war potentially ending after the midterm elections, implicitly linking foreign policy to domestic elections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Nepal Floods Devastate, Yemen Conflict Causes Displacement",
+      "summary": "Devastating floods in Nepal, which began in August, have resulted in 1,367 recovered bodies and approximately 5,100 people still missing, with significant damage to homes and infrastructure, prompting community fundraising. Concurrently, the reignited conflict in Yemen has caused the displacement of nearly 20,000 people.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Devastating floods led to significant casualties, missing persons, and widespread damage, prompting fundraising efforts."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The reignited conflict between Houthi rebels and the Saudi-led coalition caused the displacement of nearly 20,000 people."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General appealed for investment in peace to alleviate suffering and address humanitarian needs globally."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "Malaysia condemned calls for forced displacement of Palestinians from Gaza and continued settler violence in the West Bank."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "yellow",
+          "detail": "Malaysia condemned calls for forced displacement of Palestinians from Gaza, highlighting ongoing humanitarian concerns in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SCgU2_cUwIa7dm48-JX6nvF_k1GZEhDlZ77cjTLVqfsnJh04HUHNbL12LoaBuo8OnMihqg4DliOJO_oY6wQJaqXORgVyE60ymSLUH0JHc3SVg5dvagA3O1bh-KMlcA04ycUW-6kLQ0RCTkOa0BUUgksLUKbC--RX4azTWIh_"
+        },
+        {
+          "title": "commbank.com.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvFmslh_JIbvhT49hVnPkc5IaGPnyECYImlH0BVQPleY3-BOckQ8zajthQQ__-3rJUZAWSoE2G4moO5VwUPX-2JwHsJE_F09bB2Cic9SRR_Karr4U7iRBehfCc5HiX2uLwoIJhJCgNPlMuIlUMVDfh0bI_T6EFw75vVqokfZ6dBcFWpDJF9DCPcbWllwT6nJ-km3c269QucQ1gUfTjOw=="
+        },
+        {
+          "title": "bssnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiieSKTy2J7oAh4h5vaRs-1c3SptoQEPWKAI22VMc8twcEylkrusnLMb8TDusKPh4CSHj83_b-9FjZKqSrxZlEmMeMjJFFS1hdC66yeodPLk930DwA8QgYoCK4KWB7ZSZtEpRrWjrF"
+        },
+        {
+          "title": "graincentral.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzAacQpv1QC421w-chHmM79AdXQekZK-l2EaXQJyilN4ts23MNT6uKjmxPSZypUAgBdCf7lNyh48ZFVDD3T_ramdZSnSUZoffOnJHw3Oqlkfol1UJB1SkC9l0gFJF-V4W_peCcC3AbvIFuKr2qGnYpde1Z9KdnEOPldN3HoiMcL77n9Q="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQAv6PcdKooFeZtxCP_CLUZ3bJzUEh7Fc_9d0HpbKEHpv-g0ZM4G82SLuuzMf2x9FRTDuIzcn9cnbbni5bWS6NbGfkHB4kCl12PTZy42EWf34ehs4_ZbcG9gkX11IeAR9oWu5MmX7zxH5T3FnbbX_tJ02XJFnXgwChvLhzUY6ZRXHcdpp4XwCtHh4_VD4x0ObDsdKB7sWY23oXsPMQI-FFdYBIkKQyIf994r96AB-9jBjq0uZJnxN1d3JeJQv7r3nyA=="
+        }
+      ]
+    }
+  }
+}
