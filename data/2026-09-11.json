@@ -1,0 +1,454 @@
+{
+  "date": "2026-09-11",
+  "timestamp": 1789106669785,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran conflict continues, Russia-Ukraine war escalates.",
+      "summary": "The US-Iran conflict has reached its six-month mark, creating significant global uncertainty, particularly regarding energy prices and shipping risks in the Middle East. Concurrently, the conflict between Russia and Ukraine has intensified, with regular strikes on Kyiv and Ukrainian assaults on Russian energy infrastructure, threatening the global economy beyond just fuel prices.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is engaged in an ongoing conflict with Iran, impacting global stability and economy."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran is involved in a six-month-long conflict with the United States, leading to regional security challenges and global economic uncertainty."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia has carried out deadly, regular strikes on the city as the conflict intensifies."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Ukraine has assailed Russia's energy infrastructure as the conflict between the two countries escalates."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "Houthis are threatening Saudi routes and Red Sea chokepoints, expanding the regional conflict."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.55,
+          "severity": "yellow",
+          "detail": "This key waterway faces increased shipping risks and potential escalation due to the US-Iran conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI extinction warnings, 9/11 human rights legacy persist.",
+      "summary": "Significant warnings from Anthropic researchers on September 11, 2026, indicate a greater than 10% chance that advanced AI could lead to human extinction within the next decade, prompting US lawmakers to push for new rules. This comes as the 25th anniversary of 9/11 highlights continued concerns about the balance between security and civil liberties, with Amnesty International noting widespread abuses in the US response. Human Rights Watch also reports ongoing unlawful executions in Iran and the use of cluster munitions by Hezbollah in Lebanon/Israel.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US lawmakers are increasingly calling for new AI safety regulations following dire warnings from researchers."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "red",
+          "detail": "Researchers from AI company Anthropic issued alarming warnings about the potential for advanced AI to cause human extinction."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The 25th anniversary of 9/11 brings renewed focus on the long-term impacts on civil liberties and security policies."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reports an ongoing unlawful execution campaign against protesters in Iran."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Hezbollah's use of cluster munitions in conflicts involving Israel is raising human rights concerns."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1722,
+          "severity": "yellow",
+          "detail": "The human cost of 25 years of US wars post-9/11, including displacement of Afghans, is highlighted."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "August hottest month ever, historic El Niño strengthens.",
+      "summary": "August 2026 was declared the hottest single month ever recorded globally, with ocean temperatures also reaching unprecedented highs, extending a three-month streak of record warmth. The NOAA Climate Prediction Center has raised the probability of a historic-strength El Niño during October-December 2026 to 75%, indicating a very strong event that will increase extreme weather risks into 2027. Heat advisories and warnings are also in effect across parts of California.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "The EU's climate monitor, Copernicus, reported August 2026 as the hottest single month ever recorded globally."
+        },
+        {
+          "name": "Equatorial Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "red",
+          "detail": "Sea surface temperatures set new records, and the strongest El Niño weather pattern in the modern era is rapidly accumulating strength."
+        },
+        {
+          "name": "College Park, Maryland, USA",
+          "lat": 38.9897,
+          "lng": -76.9378,
+          "severity": "red",
+          "detail": "The Climate Prediction Center raised the probability of a historic-strength El Niño for late 2026."
+        },
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "Heat advisories and extreme heat warnings are in effect across Southern California."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "Heat advisories are in effect for the Sacramento and San Joaquin Valleys."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Legionnaires' cluster in NYC; 9/11 health tolls accelerate.",
+      "summary": "The New York City Health Department is investigating a community cluster of Legionnaires' disease in the South Bronx, with five confirmed cases and one death reported. Concurrently, the 25th anniversary of 9/11 highlights the accelerating health toll on survivors, with the number receiving aid for cancer tripling in five years, and experts warning of emerging health risks like early-onset dementia and the long-term impact of toxic exposure.",
+      "regions": [
+        {
+          "name": "Bronx, New York City, USA",
+          "lat": 40.8448,
+          "lng": -73.8648,
+          "severity": "red",
+          "detail": "A community cluster of Legionnaires' disease is under investigation, with confirmed cases and one fatality."
+        },
+        {
+          "name": "Lower Manhattan, New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The health impacts on 9/11 survivors, particularly cancer, continue to accelerate 25 years after the attacks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "High global debt, US-Iran war fuel economic uncertainty.",
+      "summary": "The IMF warns that global public debt is nearing 100% of the world's GDP, the highest since World War II, with further increases expected due to elevated borrowing costs and weaker growth. The ongoing US-Iran war, now in its sixth month, continues to create significant uncertainty for the global economy, contributing to energy shocks and commodity price increases. In the US, a bond selloff is pushing 10-year Treasury yields towards 5% ahead of inflation data, potentially leading to a Federal Reserve interest rate hike.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF has warned that global public debt is nearing a post-World War II record and highlighted economic uncertainty due to the US-Iran war."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "Anticipation of US inflation data could lead to a Federal Reserve interest rate hike, impacting global markets."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "The six-month US-Iran war continues to cause energy and commodity price shocks, affecting the global economy."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "The IMF cited Japan as having high public debt-to-GDP ratios and rising 10-year government bond yields."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The IMF cited France as one of the advanced economies with high public debt-to-GDP ratios and rising 10-year government bond yields."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "9/11 legacy and terror threats challenge global democracy.",
+      "summary": "On the 25th anniversary of 9/11, leaders acknowledge that terror 'still knocks at the door of democracy,' emphasizing the need for renewed solidarity against terrorism while upholding human rights and the rule of law. Experts warn of growing challenges in US counter-terrorism efforts due to diverted resources and complacency, potentially impacting democratic stability. Discussions are also underway in the US about the upcoming 2026 midterm elections and their potential impact on the nation's future.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The legacy of 9/11 continues to shape US democratic institutions and security policies, with ongoing debates on counter-terrorism efforts."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Commemorations of 9/11 serve as a reminder of the ongoing threat of terrorism to democratic values."
+        },
+        {
+          "name": "Notre Dame, Indiana, USA",
+          "lat": 41.7031,
+          "lng": -86.2361,
+          "severity": "green",
+          "detail": "A panel discussion is being held on the upcoming 2026 midterm elections and their impact on American democracy."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "OSCE PA leaders emphasize the need for solidarity against terrorism rooted in democratic values and human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global aid system crumbles amid severe funding cuts.",
+      "summary": "A new report warns that the global humanitarian aid system is crumbling, with funding cuts of 30% between 2022 and 2025 leading to 64 million fewer people receiving aid in 2025. These cuts have disproportionately affected women, children, older, and displaced people, and thousands of aid workers have lost their jobs. The UN also reports that eight UN vehicles were seized in Mokha, Yemen, amid recent developments, further constraining humanitarian operations. World First Aid Day on September 11, 2026, focuses on first aid in migration contexts, highlighting the dangers faced by 304 million international migrants.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) expresses deep concern over the crumbling global aid system and incidents in Yemen."
+        },
+        {
+          "name": "Mokha, Yemen",
+          "lat": 13.3131,
+          "lng": 43.2263,
+          "severity": "red",
+          "detail": "Eight UN humanitarian vehicles were seized, severely constraining aid operations in the city."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The UN team confirms concerns about the humanitarian situation in Yemen, emphasizing the need for more funding and better access."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9686,
+          "lng": 35.2278,
+          "severity": "yellow",
+          "detail": "The World Food Programme has been forced to cut food aid to families by half due to lack of funding, despite increased needs."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli attacks killed four children and destroyed humanitarian aid supplies in Gaza."
+        },
+        {
+          "name": "Chișinău, Moldova",
+          "lat": 47.0167,
+          "lng": 28.8333,
+          "severity": "green",
+          "detail": "European Commissioner Hadja Lahbib is visiting to discuss EU humanitarian and civil protection support."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "yellow",
+          "detail": "Millions of Afghans remain displaced, with 2.9 million pushed back across the border from Iran and Pakistan last year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPGgHBgQdqe9zBbZe5wZRS6HYa3X_ILm1fwQXZh_lqGFnQJNV0uKPVoUGxoQhlAZrue54te63TTMpvPr-iQwknw3AC5U1tg3ceDushgdGSGvIC1G2d54CI6-TjCzlhcsQc-1WHH5x193n2VaOl5lEnPW88qX65eGUh7Ze8YJfPG8U-na0="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkkBn3kdIT9LPKenOttGJSiIn-lmVyPnW4l0dXPWNath9qEiXQJnVnqfXJuj9arxIY9nfovSMS9u2D7H5QZpCNwe7Pe6SmgATly4UZcGBoMcHloOskeABgV1NlG4SHm-k8Ozd9OSZZ3LomkDw87Hy5zYYY1CSgATgxavCelDtgbJ7Pr0Juz5_Y9ovAC_VRGKRAt_lrc-VNUMX-P1N7Q=="
+        },
+        {
+          "title": "morningstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqEyEhlnfxD0scYHzP4GgRZPrY2RY2tVfi-ek-DDgWoO4eisA4sKEJ8-6Maoq_OMeh7L1HC07XcbLUu5QvDdWiNScyCnUWbQPhoLN14_WipThQJyX4CYtisSDqLY1R50DsFeRMX9ty3elN9fE2QcpYB3wqcDJcjb-yQSDQuuSjtAks7wFm_datF9xsvFDQkIhuDhUCxyZ8ocDTrOg7lhpF1s-sUTSNRB5jtgdpaY0vBjrDXS52PYjveZHNcg="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsAvtM-jLCL4i5Fz9DbB9pskW0zWyNV62L5oqBEvikb5ZQtaM5wwucK7-BKCuAhhD0U1ORC-HbpKASGIatJgoqnnFVdIe7gXo2mI1qaShKVq9Irszr4NibyfkuRu0XpIBKGS18ipwJQv9fjOcKUMHSCvLgm3O_yclokZRJzwiBw8jOOC8tnYOITx40OjSOvZCgaGQROyz30gg2vzB--NYPxgMn6JMVlMc="
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7FY3ZpJicNZ_zCISVz3mjRVM9SR7L98CCPk22sqzI475m0WOXXIQ4duhKn050j-3kcugYH71envu9Av_v-Agb_nsZQ0JCyIYDHwnm8SWVvlX2ZHMnRA6mnGs08Ogv_dqdhBy02Xd38ZnB_IzuZpZk6nlNr4kBDSuXJJ7KFRyqpk42Im2gAfCE8g=="
+        }
+      ]
+    }
+  }
+}
