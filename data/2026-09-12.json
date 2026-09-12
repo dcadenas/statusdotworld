@@ -1,0 +1,475 @@
+{
+  "date": "2026-09-12",
+  "timestamp": 1789193069010,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Houthi forces seize Yemen's Red Sea coast amid escalating Iran war.",
+      "summary": "Houthi forces have gained significant territorial control along Yemen's Red Sea coastline and a strategic island, escalating the ongoing Iran war. Saudi Arabia has reacted by suspending its crucial East-West oil pipeline after drone attacks originating from Iraq. Additionally, North Korea launched a ballistic missile, adding to regional tensions.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi forces control most of Yemen, including the capital, amid a flaring civil war."
+        },
+        {
+          "name": "Red Sea, Yemen",
+          "lat": 14.5,
+          "lng": 42.5,
+          "severity": "red",
+          "detail": "Houthi forces seized full control of Yemen's Red Sea coast and the strategic Bab al-Mandeb strait."
+        },
+        {
+          "name": "Saudi Arabia",
+          "lat": 23.8859,
+          "lng": 45.0792,
+          "severity": "yellow",
+          "detail": "Saudi Arabia suspended its East-West oil pipeline after it was targeted by drones launched from Iraq."
+        },
+        {
+          "name": "Iraq",
+          "lat": 33.2232,
+          "lng": 43.6793,
+          "severity": "yellow",
+          "detail": "Drone attacks on Saudi Arabia's pipeline were confirmed to have originated from Iraq."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing 'Iran war' continues to impact the global economy and regional stability."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. is involved in the 'Iran war' and its economic impacts."
+        },
+        {
+          "name": "Wonsan, North Korea",
+          "lat": 39.1578,
+          "lng": 127.4395,
+          "severity": "yellow",
+          "detail": "North Korea launched a ballistic missile off its east coast."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "South Korea's military detected the missile launch after joint drills with the U.S. and Japan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Prison deaths in Tunisia, press freedom in Pakistan raise human rights alarm.",
+      "summary": "At least 23 prisoners in Tunisia have died recently due to extreme heat and overcrowding, prompting human rights groups to demand investigations. In Pakistan, press freedom organizations urged the Prime Minister to address worsening conditions for journalists, including reporting restrictions and internet blackouts. Concerns are also rising over Syria's plans for a former military airport potentially disturbing mass graves.",
+      "regions": [
+        {
+          "name": "Tunisia",
+          "lat": 33.8869,
+          "lng": 9.5375,
+          "severity": "red",
+          "detail": "At least 23 prisoners died due to extreme heat and overcrowding in detention facilities."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "Nine rights groups urged the Prime Minister to address rapidly deteriorating press freedom in the country."
+        },
+        {
+          "name": "Faisalabad, Pakistan",
+          "lat": 31.4187,
+          "lng": 73.0791,
+          "severity": "green",
+          "detail": "Human Rights Focus Pakistan held a consultation to strengthen human rights documentation and advocacy for marginalized communities."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5132,
+          "lng": 36.2913,
+          "severity": "yellow",
+          "detail": "Government plans for Mezzeh military airport raise concerns about disturbing potential mass graves and land claims."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK government rejected proposals for a legal 'kill switch' to disable AI during emergencies."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "OpenAI is pushing for mandatory national AI safety rules, and House Democrats raised concerns about AI risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Historic El Niño strengthens globally; extreme weather impacts Brazil.",
+      "summary": "Intensifying El Niño conditions are predicted to bring exceptionally warm tropical weather to the Pacific Ocean with a high probability of persisting for the next six months, potentially becoming historic. In South America, two tornadoes hit Paraná, Brazil, with an extratropical cyclone also forecast, bringing strong winds and heavy rainfall. Meanwhile, parts of the central USA are anticipating a significant cold front to break a period of extreme heat.",
+      "regions": [
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "yellow",
+          "detail": "The UN weather agency warned of intensifying El Niño conditions bringing exceptionally warmer tropical weather."
+        },
+        {
+          "name": "Paraná, Brazil",
+          "lat": -25.252,
+          "lng": -52.021,
+          "severity": "yellow",
+          "detail": "Two tornadoes were confirmed, and an extratropical cyclone is forecast with strong winds and heavy rainfall."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31.9686,
+          "lng": -99.9018,
+          "severity": "yellow",
+          "detail": "A significant cold front is expected to bring relief from extreme heat."
+        },
+        {
+          "name": "Oklahoma, USA",
+          "lat": 35.4676,
+          "lng": -97.5164,
+          "severity": "yellow",
+          "detail": "A significant cold front is expected to bring relief from extreme heat."
+        },
+        {
+          "name": "Paraguay",
+          "lat": -23.4425,
+          "lng": -58.4438,
+          "severity": "green",
+          "detail": "Taiwan and Paraguay plan a pilot carbon credit project covering five hectares of woodland."
+        },
+        {
+          "name": "Minnesota, USA",
+          "lat": 46.7296,
+          "lng": -94.6859,
+          "severity": "green",
+          "detail": "New rules are being implemented to evaluate air permits in environmental justice communities considering cumulative pollution."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in Atlanta, Legionnaires' in NYC, cyclosporiasis ends.",
+      "summary": "A measles outbreak in an Atlanta daycare has grown to 10 cases, contributing to a national resurgence of over 3,294 cases in the US, the worst since 1991. In New York City, a Legionnaires' disease outbreak in the South Bronx has resulted in one death and four illnesses. Meanwhile, the largest recorded multi-state cyclosporiasis outbreak, linked to contaminated lettuce, has been declared over after sickening nearly 13,000 people and causing two deaths.",
+      "regions": [
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "A measles outbreak at a daycare grew to 10 cases, part of a national resurgence."
+        },
+        {
+          "name": "South Bronx, New York City, USA",
+          "lat": 40.825,
+          "lng": -73.917,
+          "severity": "yellow",
+          "detail": "One person died and four were sickened in a Legionnaires' disease outbreak."
+        },
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "green",
+          "detail": "The state was hardest hit by the now-over cyclosporiasis outbreak, with two deaths."
+        },
+        {
+          "name": "Central Mexico",
+          "lat": 23.6345,
+          "lng": -102.5528,
+          "severity": "green",
+          "detail": "The source of contaminated iceberg lettuce linked to the cyclosporiasis outbreak was identified."
+        },
+        {
+          "name": "Dallas, Texas, USA",
+          "lat": 32.7767,
+          "lng": -96.797,
+          "severity": "green",
+          "detail": "The National Medical Association launched a 'Walks for Peace' public health initiative."
+        },
+        {
+          "name": "Moyie Springs, Idaho, USA",
+          "lat": 48.7491,
+          "lng": -116.1437,
+          "severity": "yellow",
+          "detail": "An investigation is ongoing into a multi-state Salmonella outbreak linked to recalled broccoli sprouts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US inflation high due to Iran war; BRICS seeks global economic reform.",
+      "summary": "US consumer prices remained elevated in August at 3.4% annually, primarily due to soaring energy costs exacerbated by the ongoing Iran war, increasing pressure on the Federal Reserve to hike interest rates. The IMF acknowledged global economic resilience despite the conflict but warned of high uncertainty from energy shocks and public debt. Meanwhile, BRICS nations met in India, advocating for greater representation in global financial institutions and criticizing unilateral trade measures.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US consumer prices remained stubbornly high in August, intensifying pressure on the Federal Reserve to raise interest rates."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "BRICS finance ministers and central bank governors met to discuss global economic patterns and seek reforms."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing 'Iran war' is significantly contributing to high energy prices and global economic uncertainty."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "The Indonesia Stock Exchange Composite index showed recovery signs but remains vulnerable to foreign sell-offs."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Tax revenue surged due to a stock market boom, particularly in AI-related stocks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Civil society pushes democratic values; BRICS seeks global governance reform.",
+      "summary": "Human Rights Focus Pakistan, in partnership with the Taiwan Foundation for Democracy, conducted a consultation in Faisalabad to bolster human rights advocacy and democratic principles for marginalized communities. In Indonesia, civil society groups continue to promote democratic values and good governance despite stigmatization. Globally, the BRICS nations are advocating for reforms in the IMF and World Bank to ensure greater representation for emerging economies, reflecting a desire for a more multipolar and inclusive international system.",
+      "regions": [
+        {
+          "name": "Faisalabad, Pakistan",
+          "lat": 31.4187,
+          "lng": 73.0791,
+          "severity": "green",
+          "detail": "A consultation was held to strengthen human rights documentation and promote democratic values for marginalized communities."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Civil society groups are promoting democratic values and good governance, despite political rhetoric."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "BRICS nations are advocating for reforms in global financial institutions for greater representation of emerging economies."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "US midterm elections are seven weeks away, with persistent inflation being a key concern for voters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Yemen conflict escalates, Tunisia prison deaths, DR Congo school fire.",
+      "summary": "The escalating conflict in Yemen, particularly the Houthi forces' seizure of the Red Sea coast, is expected to exacerbate the already dire humanitarian situation for the Yemeni people. In Tunisia, at least 23 prisoners have died recently due to extreme heat and severe overcrowding, prompting calls for investigations into the harsh detention conditions. Additionally, UNICEF reported that a school fire stampede in DR Congo tragically resulted in 26 deaths.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The escalating conflict is expected to add to the miseries of the Yemeni people, worsening the humanitarian situation."
+        },
+        {
+          "name": "Tunisia",
+          "lat": 33.8869,
+          "lng": 9.5375,
+          "severity": "red",
+          "detail": "At least 23 prisoners died due to extreme heat and overcrowding, highlighting harsh detention conditions."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -2.8896,
+          "lng": 23.6186,
+          "severity": "red",
+          "detail": "A school fire stampede resulted in 26 deaths, as reported by UNICEF."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ_pFn8SfBRztzuCOhrJUJbDW1NfDxh7b5bS8ZHYb6dQv0kkjWTOS_DT9t74F7DquwwlxdRCE2a85CeqUa2OeAJK03hHBp4lDddNvMX40md7VUj0DhV7On_qhqh9TEeD2c2pTJW4t3-12Yu6BNKjiQRTgvLg06IzRxRJSjUIi9xpIxSYWu4uIrnIGueUYLIZMTCn7XMKXGr2FhzLzvuSbnjz48-mAp2jKVyXn0NFCmQ=="
+        },
+        {
+          "title": "vindy.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1AeLWkv6-RUAU96mBqsInk25XMUGb7DIoKgqYyBQx6NbM0BoU3tiGAGSyXChGjx-zQ62Yd21JDZENWNeMX5gSJWkO4XRtmq-Mar_-A4sUiwBl8U85u9uQG4HP1fs8jhlGuU-n7rs0ZiyqWSBYZR0eoGT82rqPGEpgji133CaZWYshATllzvwwwoLvU1bsIzP2L-8-BXnWnQ="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6IwyC8k5bgvW2cN5HdK4glp9-njdx_kFXFyThUNjaZQfRHpjDyKQmGWEK3Ai-MgGzaeVsvCAJMbgo4WZPhlAXvpmEHchDrUqqx1yKszZCz1Ov2WYNAfctC78_cp8yQ42JRLUpIt2y6oAhprhKJuMspPv4cerEvqdqHdTvQlkJKE9tyiEBkyZbaaxjPu1sF7XIriPB_FfGHInm-7tnIfAYNpE5mnsbso1PP3R3zQI-MOoSKUu2BfsLNSN4Wfo="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNwJa6K86x1VW6A6ISHtbGBebvmkFLokDzdurrg16INf5L-zLOdtFS2fdKqmAk6avkKRAOIjobB0l2SuFMYTGTZB8H3NOMA7i7mvcd9Wmy2KEWG00hwOewHF_qn8BG99EtYEvt-u4okc4ha1yQn3bZ0Q2EIDbxfyRAmU3iCrvpMti-X9nvVMGlgcM="
+        },
+        {
+          "title": "theedgesingapore.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeaTAbIKis5-XjQhNt0kOpZRHFQyp5sHkc_tIC_Vc9DjML2CddXvt1B79rFoyLWhjaWugBJTmYH0GBXxfgZkjgoQBeZzKbweccusTF4f4uIyK4euw3GRDFVcRKYmWGD8StIs285FD95EECWi1Lcg5glD9SSOpmkw1LL1hdXHm9Aa5u-YRPdrlQYVKTrAyGD3_MyfC_7RnLsCEVMKMz8LnDdODgBJHEMcuHd7TrJFI="
+        }
+      ]
+    }
+  }
+}
