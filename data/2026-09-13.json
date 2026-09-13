@@ -1,0 +1,440 @@
+{
+  "date": "2026-09-13",
+  "timestamp": 1789279518207,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran conflict escalates; Yemen fighting intensifies; Sudan war ongoing.",
+      "summary": "The US-Iran conflict shows escalation with a vessel struck in the Strait of Hormuz and Iranian blockades impacting shipping. Houthi forces in Yemen have intensified attacks on Saudi bases and seized Red Sea coastlines, leading to displacement and casualties. Separately, negotiations for an end to the war in Ukraine face obstacles, particularly regarding territorial demands in Donbas, while Sudan's civil war continues amid humanitarian concerns.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "A vessel was struck by an unknown projectile amidst heightened tensions and Iranian blockades affecting global energy shipments."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi forces intensified attacks on Saudi bases and seized the Red Sea coast, leading to significant displacement and casualties."
+        },
+        {
+          "name": "Sharurah, Saudi Arabia",
+          "lat": 17.4819,
+          "lng": 47.1128,
+          "severity": "red",
+          "detail": "Houthi fighters claimed ballistic missile and drone attacks on a military base, resulting in two injuries."
+        },
+        {
+          "name": "Mokha, Yemen",
+          "lat": 13.3139,
+          "lng": 43.25,
+          "severity": "red",
+          "detail": "Houthi forces seized this strategic port city, further consolidating control over the Red Sea coast."
+        },
+        {
+          "name": "Djibouti, Djibouti",
+          "lat": 11.8251,
+          "lng": 42.5903,
+          "severity": "yellow",
+          "detail": "Approximately 1,400 people have fled Yemen to Djibouti due to ongoing fighting."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "US Special Envoy Jared Kushner stated that Ukraine's territorial demands in Donbas remain an obstacle to peace negotiations."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The BRICS summit discussed global conflicts, with leaders calling for dialogue and opposing the Israeli war in Gaza."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan's military leader and the British envoy discussed efforts to end the civil war and address a bleak UN rights inquiry."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns mount; Sudan's human rights crisis continues.",
+      "summary": "Major AI developers like OpenAI and Anthropic are grappling with escalating AI safety concerns, with calls for a slowdown in development and independent evaluation to prevent catastrophic risks. Meanwhile, Sudan's human rights crisis persists amidst civil war, prompting the UN Human Rights Council to debate a report detailing abuses and recruitment of foreign fighters. Amnesty International has also condemned Zambia's arbitrary cancellation of passports for political figures as a violation of international human rights law.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman expressed serious concerns about AI safety and the need for slowed development."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council is debating a report on widespread abuses in Sudan, including the recruitment of mercenaries."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Human rights organizations continue to press the UN on the dire situation and chemical weapons allegations in Sudan."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3228,
+          "severity": "yellow",
+          "detail": "Amnesty International criticized the government for arbitrarily cancelling passports, citing human rights violations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Extreme weather batters Europe, Nepal; UN warns of climate's economic toll.",
+      "summary": "Europe is grappling with unprecedented heatwaves, which the UN climate chief warns are causing a 'continent-wide economic security emergency' and risking €180 billion in lost productivity. Nepal is experiencing destructive floods and landslides, with communities picking through debris from a climate crisis they minimally contributed to. In the US, a significant cold front is anticipated to bring relief from extreme heat in the central and southern Plains, while New York City is under a flood watch for heavy rain and potential flash flooding.",
+      "regions": [
+        {
+          "name": "Europe (General)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Experienced unprecedented heatwaves causing an economic and security emergency, with an estimated €180 billion in lost productivity."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Communities are impacted by destructive floods and landslides, highlighting a significant adaptation gap."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Under a flood watch for heavy rain and potential flash flooding, with emergency services advising residents to prepare."
+        },
+        {
+          "name": "Central USA",
+          "lat": 35.4676,
+          "lng": -97.5164,
+          "severity": "green",
+          "detail": "Anticipating a significant cold front to break extreme heat, marking a shift towards more autumn-like temperatures."
+        },
+        {
+          "name": "Auckland, New Zealand",
+          "lat": -36.8485,
+          "lng": 174.7633,
+          "severity": "green",
+          "detail": "Political leaders are discussing sharply different positions on climate change policies at a business conference."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "DRC Ebola outbreak surpasses 7,000 cases; Measles death reported in Pennsylvania.",
+      "summary": "The Democratic Republic of Congo is facing its worst Ebola epidemic ever, with over 7,000 cases and more than 3,400 confirmed deaths, and ongoing geographical expansion of the Bundibugyo strain. The outbreak has been declared a Public Health Emergency of International Concern and is hindered by poor healthcare infrastructure and conflict. In the United States, a measles-related death has been confirmed in Jefferson County, Pennsylvania, serving as a serious reminder of the disease's risks.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country's worst Ebola epidemic has recorded over 7,000 cases, with widespread impact across multiple provinces."
+        },
+        {
+          "name": "Ituri Province, DR Congo",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "This province remains the most affected by the Ebola outbreak, with 5,508 cases and 2,501 deaths as of early September."
+        },
+        {
+          "name": "Jefferson County, Pennsylvania, USA",
+          "lat": 40.942,
+          "lng": -79.035,
+          "severity": "red",
+          "detail": "A 40-year-old woman died from measles-related complications, marking the first such death in the county."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "green",
+          "detail": "Uganda's Ebola outbreak was officially declared over in August 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global inflation fueled by oil surge; ECB warns of longer-lasting shock.",
+      "summary": "Global inflation pressures are intensifying, primarily driven by surging energy costs stemming from the ongoing US-Iran conflict, which is feeding through to consumer and producer prices worldwide. The European Central Bank (ECB) has warned that the current inflation shock will be longer-lasting, necessitating further interest rate hikes. In the US, hotter-than-expected consumer and producer inflation data are strengthening the case for a Federal Reserve rate hike next week.",
+      "regions": [
+        {
+          "name": "Eurozone (Europe)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The ECB predicts longer-lasting elevated inflation due to the Middle East conflict and destruction of refining capacity, leading to interest rate hikes."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve is under pressure to raise interest rates following hotter-than-expected inflation data, with market expectations for a hike next week."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "The BRICS summit discussed economic issues, including local-currency trade and addressing financial risk."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing conflict with the US and blockades in the Strait of Hormuz contribute to global energy price volatility."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "BRICS leaders call for global governance reform and equal participation.",
+      "summary": "BRICS leaders, meeting in New Delhi, unanimously adopted a declaration calling for global governance reform, including a larger UN role for India and Brazil, and greater participation of the Global South in decision-making. South African President Cyril Ramaphosa specifically demanded accountability for the 'ongoing genocide' against Palestinians and renewed calls for fundamental reform of the UN Security Council, criticizing selective application of international law.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "BRICS leaders adopted the New Delhi Declaration, advocating for reforms in global governance and multilateral institutions to ensure more equitable representation."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "yellow",
+          "detail": "South African President Ramaphosa at the BRICS summit demanded accountability for what he described as an 'ongoing genocide' against Palestinians."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Discussions around UN Security Council reforms are ongoing, with Russia urging expanded representation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan and Yemen face severe humanitarian crises with massive displacement.",
+      "summary": "Sudan is grappling with the world's most severe humanitarian crisis, marked by systematic damage to infrastructure, massive displacement of nearly nine million people, and over 19 million facing acute food insecurity. In Yemen, the ongoing conflict has left 22 million people requiring humanitarian assistance, with recent fighting causing significant new displacements and the 2026 response plan severely underfunded at only 24 percent. Concerns about rising refugee numbers from Yemen to Djibouti are also noted.",
+      "regions": [
+        {
+          "name": "Sudan (General)",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Facing the world's largest humanitarian crisis, with widespread displacement and acute food insecurity affecting millions."
+        },
+        {
+          "name": "Yemen (General)",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The ongoing conflict has caused immense humanitarian needs, with 22 million people requiring assistance and significant internal displacement."
+        },
+        {
+          "name": "Djibouti, Djibouti",
+          "lat": 11.8251,
+          "lng": 42.5903,
+          "severity": "yellow",
+          "detail": "Has seen a significant influx of refugees fleeing the escalating conflict in Yemen."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "yellow",
+          "detail": "The BRICS leaders opposed any forced displacement of Palestinians from the Gaza Strip, highlighting ongoing humanitarian concerns."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -2.8,
+          "lng": 23.6,
+          "severity": "red",
+          "detail": "The Ebola outbreak, combined with poor healthcare infrastructure and armed conflict, complicates humanitarian efforts and access to care."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc4xsXfhqWZ09aaQrhp7oZEaPRZWLqMsxnXk6sgVJaIEsr7qMu4UGb4Uee5KbmS_g1U5NsOkKoU46flNUOUgawV8zUnwFAD1QTPp-_pzSgxU7BLQm09ETAvRQA8TqTOz1Wdha-b4eSpVDaf_79Wia1TlW6k1ZscXhcXQhsTdVWmozaiMl_IrPWviZEG0Y0SLlgMw2lHPojycpxrEjJyrNdUmNn_qdoCMLFkxLW7UqFY8LJBA=="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExie2QAWy-5P-k4huHGxr9lx6BgVk5NhHLUsKpinT239I1fX8h0W6Z4xoRHA6u_znoKdriRMhxIehy26WjvZ3xS-MnHzfXpdeJ4lt8X8-RUX2xFNYHZlpU6JoaqgcxB9b0FveGFmxs74Z8LpNGNDPlQEEkuC_RoaJN0tKsDSF2UXFRln9SLkp7cASc9DQ="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0KQBoAcf3VH9HCulShfFg32c_9WhGUK5p9WY1lUfCKM-b6MhRtVSygklUhEVHG_hXEFSzggytN670HxQnTIJYRkdl6jLmtNs911v0d-Q3-Brd91w6xmiMpbbjfhJR5lWwFKOiByVGqhYb7OlhgbaVjAK9blcF8qX1Ti__gIU9F2WbZvBrmhafue9Zrjg2ZKLoQ5Tck0zcdiPSKTTZN9ZuGrcFv8W0RguU-C7t3VYu3MmkBs94UOqGZZRH5gOrxtj9Bj329dXttnSCQXaCIAPwpTU3kMGZhB_XqNTDh4uTHtAW94hoPtY6vgQ3OHzNQ6IOAeEPLWq"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPISUtJm60VZvfCBku5W_ETyMt-wMVQL8aBXwgca_jKRtJyw_vmWMDLHaT3YzENcgZ32ar1iELNCyZBd8TEhPHrZT5JKxjbLxcKbm9sJbB41NqLg_HPPDyImNtd9F0dAzj5iZAiAvAtvK-hsHrbF-C8kEiPRAbKdnIZ6Fg7WiDHc9AKXN9bV4lk0nhxk6aZMs9dVJNgdLBFBuos9fQtzz64_AaI6qiRQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYSetSgAAPQGUweaX0ITIPvk2gs22HRwjRzTFJlFjCKmAH91osVxK8qfTiXCrQkhJ9oVAkwTSttYQq2VStCJmgZKPL1zDchg0na4kDEBbzc6q79kHbGPaA9Do_yGRPkIiFfiKzdtjRI0RKlNxCHem4kD3XAe4kTV00Oxol5KL"
+        }
+      ]
+    }
+  }
+}
