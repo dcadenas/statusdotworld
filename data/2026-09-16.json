@@ -1,0 +1,489 @@
+{
+  "date": "2026-09-16",
+  "timestamp": 1789538665976,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally, threatening stability and peace.",
+      "summary": "The conflict in Gaza continues with the UN Human Rights Chief criticizing the leveling of areas without respecting the dead, while the war between the US/Israel and Iran, now in its seventh month, has spread, causing the Pentagon to admit drained US ammunition stocks. Yemen faces increased violence and displacement, threatening its health system for children, and ongoing conflicts in Sudan and the Sahel continue to cause mass atrocities and record levels of violence respectively.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN Human Rights Chief criticized Israeli bulldozers for leveling areas without respecting the dead, calling for international investigators."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Latest violence threatens to shatter the health system for children, and nearly 12,600 families have been displaced across six provinces."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The devastating conflict has entered its fourth year with mass atrocities, contributing to the world's largest humanitarian and displacement crises."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran prepares for full-scale war scenarios, as the US and Israel's war against Iran stretches into its seventh month, impacting global energy markets."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Pentagon admits the Iran war has drained US ammunition, while President Trump has distanced himself from supporting Saudi Arabia, impacting oil prices."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Despite years of war, resilient laboratories continue to strengthen disease detection with support from the Global Fund."
+        },
+        {
+          "name": "Niamey, Niger",
+          "lat": 13.5117,
+          "lng": 2.1228,
+          "severity": "red",
+          "detail": "The Sahel belt, including Niger, continues to record some of the world's highest terrorism death tolls, with violence linked to Al-Qaida and IS."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Digital rights concerns rise amid ongoing abuses in conflict zones and authoritarian states.",
+      "summary": "Human rights remain under severe threat globally, with the UN Human Rights Chief condemning Israeli actions in Gaza and UN investigators revealing Belarus's criminal justice system is weaponized against opponents. Digital rights and privacy are a growing concern, highlighted by a Gates Foundation pledge to narrow the AI divide while simultaneously acknowledging the risk of widening inequality, alongside growing calls to address digital violence and the misuse of AI technologies.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN Human Rights Chief criticized the leveling of areas without respecting the dead and urged access for international investigators."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "red",
+          "detail": "UN investigators reported that the criminal justice system is systematically used to suppress dissent, with arbitrary arrests and inhumane detention conditions."
+        },
+        {
+          "name": "Quito, Ecuador",
+          "lat": -0.1807,
+          "lng": -78.4678,
+          "severity": "yellow",
+          "detail": "Escalating criminal violence is increasing risks for human rights defenders, coastal communities, and maritime workers due to corruption and judicial interference."
+        },
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "yellow",
+          "detail": "Dozens were detained at a protest amid a crackdown in Turkey, raising concerns over freedom of expression and assembly."
+        },
+        {
+          "name": "Seattle, United States",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "yellow",
+          "detail": "The Gates Foundation pledged $1 billion to narrow the AI divide, while also warning that AI could widen inequality globally."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Union is considering action against 'pervert' smart glasses after secretly filmed footage of women appeared online, highlighting digital privacy concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate crisis intensifies as leaders prepare for UN climate action talks.",
+      "summary": "The global climate crisis has entered a new phase where 'overshoot is now inevitable,' with the UN Secretary-General preparing to convene world leaders for a High-Level Event on Climate Action and the Just Transition later this month. Discussions will focus on accelerating the shift to renewable energy and expanding climate finance, as ongoing impacts such as the El Niño weather pattern are exacerbating food insecurity in regions like Sudan.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General will convene world leaders for a High-Level Event on Climate Action and Just Transition, with discussions on renewable energy and climate finance."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The El Niño weather pattern is compounding food insecurity for 19.5 million people facing crisis levels of hunger."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The Global State of Democracy 2026 Report is being launched, including discussions on how democracies can navigate climate and other challenges."
+        },
+        {
+          "name": "Türkiye",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "severity": "green",
+          "detail": "Türkiye is preparing to host the main UN climate conference (COP) in November 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health systems under strain amid conflict and funding shortfalls.",
+      "summary": "Public health systems in conflict zones like Yemen are facing collapse due to ongoing violence, threatening children's access to vital services. While the Global Fund's 2026 Results Report highlights resilience in protecting essential health services despite challenges, persistent funding shortfalls and issues like toxic products sold online continue to pose significant global health risks.",
+      "regions": [
+        {
+          "name": "Aden, Yemen",
+          "lat": 12.7801,
+          "lng": 45.0238,
+          "severity": "red",
+          "detail": "The latest violence threatens to shatter the already threadbare health system for children, with health facilities damaged and non-functional."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The Global Fund released its 2026 Results Report, highlighting efforts to protect essential health services against HIV, TB, and malaria despite challenging global health conditions."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "yellow",
+          "detail": "Laboratories continue to operate and strengthen disease detection despite relentless attacks and immense pressure on health services due to the war."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "HHS expanded rural and tribal medical residency development and announced significant behavioral health grants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Red Sea conflict and Iran war drive global oil prices and bond yields higher.",
+      "summary": "The global economy is facing severe headwinds as the Houthi grip on the Red Sea and the ongoing Iran war have driven Brent and WTI crude oil prices to their highest levels since May 2026, pushing US Treasury yields to a 19-year high. A new global poll reflects widespread pessimism about economic developments, while Canada actively seeks to diversify its economy amidst escalating trade tensions with the United States.",
+      "regions": [
+        {
+          "name": "Red Sea",
+          "lat": 20,
+          "lng": 38,
+          "severity": "red",
+          "detail": "The Houthi grip on the Bab el-Mandeb Strait has choked oil routes, sending global oil prices soaring to over $108 a barrel."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US 10-year Treasury yield hit peaks not seen since 2007 amid a global bond rout, driven by high oil prices and expectations of Federal Reserve rate hikes."
+        },
+        {
+          "name": "Toronto, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "yellow",
+          "detail": "Prime Minister Mark Carney pitched Canada as an investment haven, seeking to diversify its economy and attract CAN$1 trillion in investments amidst escalating trade tensions with the US."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Ordinary citizens are questioning if democracy hinders prosperity as Communist Vietnam outpaces Indonesia and the Philippines in growth and foreign capital."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's Pinglu Canal is set to significantly cut down time and costs for trade to Southeast Asia, while optimism for the national economy has fallen."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Optimism for the national economy fell by 26 percentage points in a recent global poll."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Democracy faces global decline amid authoritarian consolidation and eroding freedoms.",
+      "summary": "A new report from the International Institute for Democracy and Electoral Assistance finds US democracy at a 50-year low, with the Trump administration undermining the rule of law. Concurrently, Russia's elections are structured to maintain Vladimir Putin's authority, and Belarus's criminal justice system is weaponized to suppress dissent.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "A new report finds US democracy at a 50-year low, with policies harming domestic democracy and weakening global norms."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Elections this weekend are designed to maintain Vladimir Putin's authority, with war fatigue from the Ukraine war impacting public mood."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "red",
+          "detail": "The criminal justice system is systematically used as an instrument of repression to target government opponents."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The International IDEA launched its Global State of Democracy 2026 Report, discussing whether democracy can withstand an age of conflict."
+        },
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "yellow",
+          "detail": "Dozens were detained at a protest, reflecting ongoing concerns about democratic freedoms and crackdowns."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "A 'democratic dilemma' is noted as communist Vietnam outpaces Indonesia and the Philippines in economic growth, raising questions about democratic performance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Critical humanitarian crises deepen in Sudan and Yemen amidst severe funding shortfalls.",
+      "summary": "Sudan faces the world's largest humanitarian and displacement crisis, with 8.6 million internally displaced and 19.5 million people facing food insecurity, and UN agencies warn the entire humanitarian system could collapse due to funding shortfalls. Yemen's latest violence threatens to shatter its health system and has displaced nearly 12,600 families, with the 2026 Humanitarian Response Plan only 20% funded.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The country is in its fourth year of conflict, facing the world's largest humanitarian and displacement crises, with UN agencies warning of a system collapse due to funding shortfalls."
+        },
+        {
+          "name": "Aden, Yemen",
+          "lat": 12.7801,
+          "lng": 45.0238,
+          "severity": "red",
+          "detail": "Latest violence threatens the health system for children and has displaced nearly 12,600 families, while the humanitarian response plan is only 20% funded."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "50-55% of the country's population is projected to need humanitarian food assistance by March 2027."
+        },
+        {
+          "name": "Maiduguri, Nigeria",
+          "lat": 11.8466,
+          "lng": 13.1557,
+          "severity": "red",
+          "detail": "Nigeria is expected to contribute over 10% of total food assistance needs globally, with millions facing food insecurity."
+        },
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The DRC is expected to contribute over 10% of total food assistance needs globally."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5553,
+          "lng": 69.2075,
+          "severity": "red",
+          "detail": "Afghanistan is expected to contribute 5-10% of total food assistance needs globally, following Sudan and Yemen."
+        },
+        {
+          "name": "Seattle, United States",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "yellow",
+          "detail": "The Gates Foundation CEO continues to press Congress and the Trump administration to lead on foreign assistance, despite US international aid cuts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "voi.id",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUgE6nshd_CwNktEShKQZomDS9ZlmIuPryFDpcfOsX7fsJ8LJm-ussfz-O1fyQncOS_NmBGaPtr8HyzkoZuxTOdGYegU6OCK31JOoKvvcpM6PajWN5bYE="
+        },
+        {
+          "title": "savethechildren.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-uiyPyzDUxlVKGb_B6cYU9Jxu7w8nibDtHCGb22hoZgSv0PRyKDl3w-V-qOqkwpHF2Wtfboyc5TqJGde5cgc9NY1vyYzGX2xOaWv6xxyitkxcFD0ZWu4y6Nmd7wxVMQG9uz5z2Cg-d8L7GB7uc-vFuqFbdifNvZ5vSAofQ_kK-wBZPYJvAeacBRQ_Z5MQU7zX6Kz1Y2ovbmXDpIp4HzXayzCG96rd_AK3Tvt5uRhbZw=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF53MVQ8CnGLugwK04DB-fV2vU_-8B2AZn6ynqecj1OriXcpEO4TnuU91ecYbZGrucN_Kh9bnz2K4wLC7IDz6zSsEHIlia4tNg-p3m3LweOY58LsFY-66Wag0wfuj2ed5QKeETPilidpg=="
+        },
+        {
+          "title": "sedaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf14b0gTzq3RF_mIUpfdgen_mxPigVNaIStYPUUqVoEBPlh1PJIjXZDqp57ZnehpGVFByB2jhRyYcxInOkUkww2zp2KTl3If3pchSgjgs80Cktg_JBh9_M0RXIqHQr7tAt9z20jyKhyTIbHVHq0nRLjeWE8wGJdhQJbwuWawMt5UB-VBUkXci3iQaJG32ALsXDkWLHzggry4QQnPg1sUTVi-9n"
+        },
+        {
+          "title": "ictj.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mVOBmSA0xzlC-uiWk2gqHA-34BBpUxruaS29flVHon6nJarZzJ1cnLGF4OVFUgH00DT8hvOFurahGjkQdbW3_IxqdQ29AH_KcMR3G9CUyOHWNA5jwScqvMO7TTTHZdVLHs8MjmExMPWj64xeivZCZY8MfhK8NPzXUHh16e2Qwi8mYnp8HqBmwWG-ALJ_GkegOZR7_iIHxTBg7qWnPXrZcHEpw90XiKLCpj_fjsc="
+        }
+      ]
+    }
+  }
+}
