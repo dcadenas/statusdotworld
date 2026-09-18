@@ -1,0 +1,468 @@
+{
+  "date": "2026-09-18",
+  "timestamp": 1789711467165,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "US-Iran tensions escalate; F-35s to Saudi, tanker seized in Hormuz",
+      "summary": "Tensions between the US and Iran remain high with President Trump considering renewed attacks, while Iran reportedly seized an oil tanker in the Strait of Hormuz, a critical shipping lane. The US also approved a significant F-35 fighter jet sale to Saudi Arabia, further impacting regional dynamics. Meanwhile, the Slovak Prime Minister warned of Europe being on the brink of a wider military conflict due to the ongoing war in Ukraine.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran reportedly struck and detained a Togo-flagged oil tanker, M/T Trend, in the Strait of Hormuz, indicating a direct escalation."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "The US approved a potential $24.3 billion sale of F-35 fighter jets to Saudi Arabia amidst ongoing regional conflicts."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump stated he faces a 'big decision' on whether to resume major military attacks against Iran."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's state news agency IRNA reported the detention of an oil tanker for 'illegal passage' in the Strait of Hormuz."
+        },
+        {
+          "name": "Presov, Slovakia",
+          "lat": 48.9984,
+          "lng": 21.2323,
+          "severity": "yellow",
+          "detail": "Slovak Prime Minister Robert Fico warned that Europe is on the brink of a broader military conflict due to the war in Ukraine."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russian citizens began voting in legislative elections amidst ongoing Ukrainian attacks on oil infrastructure and a crackdown on opposition."
+        },
+        {
+          "name": "East Jerusalem, Palestine",
+          "lat": 31.7769,
+          "lng": 35.2345,
+          "severity": "yellow",
+          "detail": "The Palestinian Presidency condemned Israel's plans to open tenders for 3,401 settlement units in the E1 area."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Indonesia welcomed its first aircraft carrier, the 'Giuseppe Garibaldi', sparking discussions about its military ambitions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Crackdown on free speech in Georgia; disappearances in Colombia, Mexico, Kenya",
+      "summary": "Human Rights Watch reported that Georgian authorities are increasingly cracking down on freedom of expression, jailing and fining citizens for online speech. Concerns were also raised at the UN Human Rights Council regarding persistent enforced disappearances in Colombia, Mexico, and Kenya, highlighting ongoing struggles for accountability and protection.",
+      "regions": [
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.827,
+          "severity": "red",
+          "detail": "Georgian authorities are using vague administrative offenses to jail or heavily fine people for online speech."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Peace Brigades International presented at the UN Human Rights Council regarding enforced disappearances in Colombia, Mexico, and Kenya."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Concerns persist about enforced disappearances linked to conflict, with reports of 99 disappearances between January and July 2026."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "yellow",
+          "detail": "PBI raised concerns at the UN about the forcible disappearance of individuals in Mexico."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya has not yet ratified an international convention against enforced disappearances, with 196 people forcibly disappeared since 2019."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "An exhibition highlighted the Iranian regime's ongoing human rights violations, including executions and imprisonment of protesters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Nepal grappling with flash floods; ocean acidification threatens squids",
+      "summary": "Nepal continues to face severe impacts from climate change, with flash floods in Rasuwa resulting in casualties and disappearances, underscoring the need for stronger climate risk management. Meanwhile, a new study reveals that ocean acidification could significantly reduce squid brain size by the next century, impacting marine ecosystems.",
+      "regions": [
+        {
+          "name": "Rasuwa, Nepal",
+          "lat": 28.1667,
+          "lng": 85.3,
+          "severity": "red",
+          "detail": "Flash floods in the region resulted in casualties and numerous missing persons, highlighting Nepal's climate vulnerability."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "An Academia Sinica study published here revealed that ocean acidification may shrink squid brains by the next century."
+        },
+        {
+          "name": "Mesa County, Colorado, USA",
+          "lat": 39.0647,
+          "lng": -108.2754,
+          "severity": "yellow",
+          "detail": "Fire restrictions were lifted due to improved conditions, but the county still experiences extreme and severe drought."
+        },
+        {
+          "name": "Harvard, Massachusetts, USA",
+          "lat": 42.4834,
+          "lng": -71.5862,
+          "severity": "yellow",
+          "detail": "Residents are petitioning for an updated climate strategy as the local pond watershed is affected by rapid climate change, including drought."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US 'America First' strategy harms global health; EMF RFI issued",
+      "summary": "Physicians for Human Rights reported that the Trump administration's 'America First Global Health Strategy' has significantly undermined efforts to address urgent global public health crises, particularly impacting HIV testing and prevention in several African nations. Concurrently, the U.S. Department of Health and Human Services initiated a public inquiry on the potential health effects of electromagnetic fields and wireless radiation.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The U.S. Department of Health and Human Services issued a Request for Information on potential health effects of electromagnetic fields and wireless radiation."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "PHR highlighted that US foreign aid cuts have damaged HIV testing and prevention services in South Africa."
+        },
+        {
+          "name": "Dar es Salaam, Tanzania",
+          "lat": -6.7924,
+          "lng": 39.2083,
+          "severity": "yellow",
+          "detail": "The 'America First Global Health Strategy' has led to weaker public health services in Tanzania."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Community-based prevention programs have been significantly impacted in Uganda due to changes in US global health policy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mideast tensions impact global oil; US economy slows; NZ GDP down",
+      "summary": "Geopolitical tensions in the Middle East, particularly around the Strait of Hormuz, continue to cause jitters in global oil markets, impacting energy prices and trade. Meanwhile, the US economy is showing signs of slowing with retail sales below expectations, and New Zealand's GDP growth has significantly trailed other developed nations, exacerbated by rising fuel costs.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "The ongoing US-Iran conflict and reported tanker seizure continue to disrupt commercial traffic and raise concerns about global oil supply."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Federal Reserve is expected to cut interest rates, and the US economy shows signs of slowing with retail sales below expectations."
+        },
+        {
+          "name": "Wellington, New Zealand",
+          "lat": -41.2865,
+          "lng": 174.7762,
+          "severity": "yellow",
+          "detail": "New Zealand's GDP grew only 0.2% between April and June, trailing other nations, with the fuel crisis impacting its economy."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "The Bank of Japan reported moderate overseas economic growth, with Japan's economy expected to grow moderately despite crude oil price increases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Georgia cracks down on online speech; EU panel eyes democratic resilience",
+      "summary": "Georgia is seeing a severe crackdown on free speech, with authorities jailing and fining individuals for online comments, a concerning trend for democratic values. In a contrasting development, the European Union has launched a Citizens' Panel on Democratic Resilience in Brussels to address challenges like disinformation and strengthen democratic participation.",
+      "regions": [
+        {
+          "name": "Tbilisi, Georgia",
+          "lat": 41.7151,
+          "lng": 44.827,
+          "severity": "red",
+          "detail": "Authorities are using administrative offenses to jail and fine people for online speech, threatening freedom of expression."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "A European Citizens' Panel on Democratic Resilience kicked off to discuss strengthening democracies against online threats."
+        },
+        {
+          "name": "Cape Town, South Africa",
+          "lat": -33.9249,
+          "lng": 18.4241,
+          "severity": "green",
+          "detail": "Pakistan's National Assembly Speaker addressed the Commonwealth Parliamentary Conference on strengthening democratic institutions."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The Election Commission of India barred two factions of the Trinamool Congress from using the party name and symbol in upcoming bypolls."
+        },
+        {
+          "name": "Lansing, Michigan, USA",
+          "lat": 42.7325,
+          "lng": -84.5555,
+          "severity": "green",
+          "detail": "Hundreds of Michigan Jews pledged their votes for a US Senate candidate, reflecting democratic engagement in a pivotal election."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "Malaysia's king allowed former leader Najib Razak to serve the remainder of his graft sentence under house arrest."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan, DRC, Haiti face severe humanitarian crises; aid efforts fall short",
+      "summary": "The humanitarian crisis in Sudan has escalated to the world's largest, with millions displaced and critical infrastructure targeted by drone strikes. The Democratic Republic of Congo also endures a highly complex and dangerous humanitarian situation, marked by conflict and attacks on aid workers. Meanwhile, Haiti faces challenges with inadequate assistance for deportees from the US, highlighting a global failure in humanitarian architecture to effectively address protracted crises and ensure funding reaches local actors.",
+      "regions": [
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.1557,
+          "lng": 30.2223,
+          "severity": "red",
+          "detail": "The city is experiencing intensifying drone strikes on markets, hospitals, homes, and water infrastructure amid a massive displacement crisis."
+        },
+        {
+          "name": "Goma, Democratic Republic of Congo",
+          "lat": -1.6783,
+          "lng": 29.2291,
+          "severity": "red",
+          "detail": "Humanitarian workers, including a UNICEF staff member, were killed in incidents during the first half of 2026 amid persistent insecurity."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5917,
+          "lng": -72.335,
+          "severity": "red",
+          "detail": "Over 400 Haitian migrants deported from the U.S. since mid-August are facing inadequate assistance and difficult conditions upon arrival."
+        },
+        {
+          "name": "Kumamoto, Japan",
+          "lat": 32.7915,
+          "lng": 130.7661,
+          "severity": "green",
+          "detail": "Taiwan donated US$9.4 million to help rebuild communities affected by a magnitude 7.1 earthquake in late July."
+        },
+        {
+          "name": "South Kivu, Democratic Republic of Congo",
+          "lat": -3,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "Red Cross volunteers were killed, and the region experiences a deteriorating security situation with armed violence and displacement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNljal_hgXw_gDYeSdcr2oghEcu7vqujErH8tpsUFCkj20kGzYCVT7-I0D_l_xeEbEBQpr-4AjhtrNQ3Dq7Li83fBJPdQx5rdn_FJaBUy_IMFMlUrCNa9gA7g6WDEsF2Jt5cHWL9saiK7FEk64ZpG1TRQs5te5LfFN-GqEax911Nrq"
+        },
+        {
+          "title": "straitstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH43zSzhLYw7lt7zHpQbUPYP68ZTqrvuecU7U643Aa6Ek19H1onKhab2AkiG3-eKFSI243jQXcWjenzF3-F1RphCLWpZ4zm-DSYbx_clvqDRr1Pp8LPyr4x0gU_fkWXh6LM5Pf3N1qeSqo4jjCY8UA7WuVb_gdkOSyQLGNLX4oNV6SSyXSRFt5TYG9P-XSurEsawUvwrYtlaazRF70fS2EbgJ8="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21AkhTMktnuGyjYFp-7xhgrVwtIudOwl__GoOCelNdaUOgqWTqVjiy5Snowouo4idX4HnTIB00alFPSR5XaB-YEcdZ7z8RhkNbf41NXUJlfgdKNf6qW8A8LTaMaB3PnSZkCVEhjl2WGwC5KDm9wy-5QFqrP8FcJmx1VCevhz3LiK5XcmwHVT9hxeKAZhFKX_BUcK7LRn6YywYtQo5OA=="
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtgjBrOtvsbLsllAef0M17eIljNn-rv6eE9wjF6VsPsFpQdwn75F-1_kxSUoMLjUtW1qMmpWYMvok2RNyIAzZWmzhHs1U8vt55NzcyA1XzVhUWN0AUjSXD_n2CPulb0AqIskIemQiVlEwfeZmRjiqjWyTH5PXjMjn0tzOhrL84Q=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdet-Y8wt_4vgXcTsvTXpZ3A3AxBCXJqUZpJgSACzusL5kJ4-ad0Fs9_xiBeni-7GY8IKV2c7pM0fYV5xRnq1DGuHX2NatRkifwIYEvPPDU6ZfozdRFQPHh9OwQsqZ9yASXA96kb48TwOyA_lOogd6B9036zE75MkD15aGW9FjMF_PT1hu_sYwK2CFfYWoanYAJaSvaoIRzqGMg0="
+        }
+      ]
+    }
+  }
+}
