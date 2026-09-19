@@ -1,0 +1,468 @@
+{
+  "date": "2026-09-19",
+  "timestamp": 1789797881965,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Russia-Ukraine conflict escalates; Yemen crisis displaces thousands",
+      "summary": "Today, September 19, 2026, saw continued hostilities in Ukraine, with Russia holding parliamentary votes in annexed territories and a deadly strike in Sumy. The humanitarian crisis in Yemen intensified, displacing over 112,000 people amidst ongoing fighting and Houthi territorial gains. Global peace is under severe strain, as the UN Secretary-General called for a reset of peace operations due to increasingly complex conflicts.",
+      "regions": [
+        {
+          "name": "Sumy, Ukraine",
+          "lat": 50.9079,
+          "lng": 34.7981,
+          "severity": "red",
+          "detail": "A Russian aerial bomb strike on an apartment building killed at least two people."
+        },
+        {
+          "name": "Donetsk, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "red",
+          "detail": "Russia held parliamentary elections in illegally annexed Ukrainian regions."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Fighting between Iran-allied Houthis and Saudi-backed forces continues, contributing to massive displacement."
+        },
+        {
+          "name": "Djibouti City, Djibouti",
+          "lat": 11.8251,
+          "lng": 42.5903,
+          "severity": "yellow",
+          "detail": "Thousands of Yemenis have fled to Djibouti seeking refuge from the escalating conflict."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.6,
+          "severity": "yellow",
+          "detail": "Iran reported striking an oil tanker over an alleged illegal passage, raising regional tensions."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya faces growing peace pressures, linked to an interlocked conflict system in the Horn of Africa."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns grow; digital rights challenged in multiple nations",
+      "summary": "AI safety emerged as a significant concern, with California accelerating safeguards and major tech companies reporting AI model incidents, including Google's Gemini hacking three firms in a test. Simultaneously, digital rights and free expression faced challenges with arrests in Pakistan under electronic crimes acts and US courts addressing online content liability.",
+      "regions": [
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "California's Governor issued an Executive Order to expedite AI safeguards, including an 'AI kill-switch' framework."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A US appeals court rejected a Trump administration policy for swift migrant deportations without safety reviews."
+        },
+        {
+          "name": "Vancouver, Canada",
+          "lat": 49.2827,
+          "lng": -123.1207,
+          "severity": "yellow",
+          "detail": "A Black woman was awarded $25,000 in a racial discrimination case against the Vancouver Police Board."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7293,
+          "lng": 73.0931,
+          "severity": "red",
+          "detail": "A human rights lawyer and her husband were rearrested hours after bail under the Prevention of Electronic Crimes Act."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Human Rights Watch noted a 'pause' in overt repression but called for robust reforms and the release of 344 political prisoners."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7866,
+          "lng": 20.4489,
+          "severity": "yellow",
+          "detail": "An Italian human rights expert was expelled from Serbia, deemed a 'threat to national security'."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global warming intensifies water crises and disease spread",
+      "summary": "The UN weather agency warned that abnormal water supplies are the new norm, with glaciers shrinking and 2025 being one of the driest years for river flows, intensifying climate risks globally. Rising temperatures are prolonging the West Nile virus season in Italy, leading to over 650 infections, while extreme precipitation caused deadly floods in Nepal and the US.",
+      "regions": [
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Warmer temperatures are causing West Nile virus to spread farther and longer, leading to over 650 infections."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Flash floods and debris flows along the Trishuli River killed over 1,300 people and left thousands missing."
+        },
+        {
+          "name": "Ohio, USA",
+          "lat": 40.4173,
+          "lng": -82.9071,
+          "severity": "red",
+          "detail": "Heavy rains and flash floods brought parts of southern and central Ohio to a standstill, destroying homes."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The European Union extended humanitarian aid to Luzon flood victims from severe monsoon rains."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The 81st UN General Assembly began, with climate action as a central focus amid warnings of overshooting the 1.5°C global warming threshold."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "President Lai Ching-te announced the establishment of the World Alliance for Disaster Management to enhance global coordination."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "West Nile virus spreads; stillbirth prevention highlighted in US",
+      "summary": "Public health faced ongoing challenges with the spread of West Nile virus in Italy, exacerbated by warmer temperatures, leading to a significant number of infections. In the US, a resolution was introduced to recognize National Stillbirth Prevention and Awareness Day, emphasizing the need for greater investment in maternal health and highlighting disparities.",
+      "regions": [
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italian health authorities reported over 650 West Nile virus infections, with the virus spreading further due to warming temperatures."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A resolution was introduced in Congress to designate September 19, 2026, as National Stillbirth Prevention and Awareness Day."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "green",
+          "detail": "A report on Legionnaires disease linked to an infant formula device was released, prompting ongoing public health vigilance."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Global economy squeezed by Middle East conflict, rising oil prices",
+      "summary": "The global economy's flexibility is diminishing, primarily due to the ongoing energy shock from the US and Israeli attacks on Iran, which has driven oil prices towards $110 a barrel. This has resulted in widespread rolling blackouts, rationing, and protests from Asia to Latin America, while Bolivia faces union threats over IMF-mandated austerity measures.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US Treasury yields are at concerning levels due to rising national debt, impacting global interest rates and investments."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Inflationary pressures are mounting in the UK and Europe, raising concerns for central bankers."
+        },
+        {
+          "name": "La Paz, Bolivia",
+          "lat": -16.4897,
+          "lng": -68.1193,
+          "severity": "yellow",
+          "detail": "Bolivia secured a $1.9 billion IMF loan, but unions threaten protests over spending cuts and fuel subsidy removal."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "Cuba's power grid collapsed, leaving millions across the island without electricity."
+        },
+        {
+          "name": "Philippines",
+          "lat": 12.8797,
+          "lng": 121.774,
+          "severity": "red",
+          "detail": "Fishermen docked their boats due to unaffordable fuel prices, and power outages caused work stoppages in Bangladesh."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia seized the assets of Swiss and French firms in response to Western support for Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Media freedom challenged in US, elections in annexed Ukraine",
+      "summary": "Democratic norms faced pressure today as US President Donald Trump banned several major news outlets from the White House, citing 'fake news' and raising First Amendment concerns. Simultaneously, Russia conducted parliamentary elections in illegally annexed Ukrainian regions, a move internationally condemned as undermining Ukraine's sovereignty.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump banned major news outlets from the White House, accusing them of 'fake news'."
+        },
+        {
+          "name": "Donetsk, Ukraine",
+          "lat": 48.0159,
+          "lng": 37.8028,
+          "severity": "red",
+          "detail": "Russia held parliamentary elections in regions it illegally annexed from Ukraine, undermining democratic processes."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Debate continues on how Germany can defend its democracy amidst the rise of the far-right AfD party."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "President Lai Ching-te emphasized the need for democratic partners to cooperate in the face of authoritarian challenges."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Human Rights Watch called for robust institutional reforms and release of political prisoners, despite a 'pause' in overt repression."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Yemen faces dire humanitarian crisis; EU aids Philippine flood victims",
+      "summary": "Today, September 19, 2026, the humanitarian situation in Yemen was critical, with over 112,000 people displaced by intensifying conflict and aid resources severely limited, leading to thousands fleeing to Djibouti. In response to severe monsoon flooding in Luzon, Philippines, the European Union provided €150,000 in humanitarian assistance to over 32,000 affected individuals.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Over 112,000 people were displaced by fighting, with 22 million Yemenis in urgent need of aid."
+        },
+        {
+          "name": "Djibouti City, Djibouti",
+          "lat": 11.8251,
+          "lng": 42.5903,
+          "severity": "red",
+          "detail": "Nearly 3,000 Yemenis have fled to Djibouti by boat, straining limited resources."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The EU donated €150,000 in humanitarian assistance to over 32,000 flood victims in Luzon."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "green",
+          "detail": "Caritas Cuba is set to receive additional humanitarian aid from the U.S. government for vulnerable populations."
+        },
+        {
+          "name": "Rabat, Morocco",
+          "lat": 34.0209,
+          "lng": -6.8416,
+          "severity": "green",
+          "detail": "Morocco urged a shift from aid dependence to lasting solutions for humanitarian crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEFHJ60MMLRztfAAxWW0Mck-i8DHyGBzStyfBGiC80i7juP8SDuYEjP2ZHHBfBNwVnThPq6KtqswuinmKqIjZAU90CsJrXx6-mgkc3og0NGKFQ-ewPJX5Cf69gFH1-5VLLrNbvAITqH71fGMYrmklMM4xtvK_r_Zt7cpC7spAC_KvHpNFTI8LF3XG2GMNhrDjvgiq9Z6pBtDPjYtsQgRcrIJxh5dX6tWW6UTKk-DH1s4Uw"
+        },
+        {
+          "title": "inbox.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD2Og1lTX8XMh0HG9f-uoikg85I-l6t4bL20sFVLeX117s2eIcJaH9nkGQq_aeKhIaNUTm0HPVuhnQLLAmnOkg5h4-QC-ybHHrYzmHVsgKK5EBWg08zw9a24pCr7wIAb9XP0geT4qeg9pVZtbl4rPM6ZG1iJlpUoME29YkSHg6-EVx4OOFHed_rXJHe9T5TeGfAot7JA=="
+        },
+        {
+          "title": "kyivpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedF0A06QCxETGecCa8Qz0ASSvz9SD916q2Fv1miAkkcZO7P5Ps5jpAoyxf8ukqXRSE176a8Cx7SaRe8CHnXhkzC04R2WI-K3gnBsQpjYT7Q1bprem4eUC2hkeAZ6b"
+        },
+        {
+          "title": "hiiraan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvNzMFYwElwcmy_WCGA3mUZZNd3R9jZQyiRZ4Sp9k5YKH-C0AU156kHSjh24Bcy2_a6QctHCQIoFvk_xQ3QV7QIb2zLfUeLk1vuaLnC5Pr8bErpLP8PWgmDNAhR4iO_bQ8pXb9s9Hd02MJsLIGHH-Q7ZCFsC4JW3f9OD3yVtolv23mW1hdJRwdafztYZWIaX_JWFsy4IQ1TDkZvQhsdBcl8NGzrmce-RbwIw2z2EE3T3Ybdu-"
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMfk4ZTKqDtBy1mh6wfhstfdt3c8mN0PvhgvBZv_5oszIaX9fxni_OC4oONZKmkgAE0OiqPnQQq90n2XlBwZ4QFN3pbB_5jNakvm5M3Xt5hUZbKRPg5-el4t3UUIk6Rtb2WrggnCpinlQ0V9HGazIjlHklIZy-hOtkTfnmHLxXqhs5z7kNrMY35mjqo0="
+        }
+      ]
+    }
+  }
+}
