@@ -1,0 +1,475 @@
+{
+  "date": "2026-09-20",
+  "timestamp": 1789884258612,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global conflicts escalate, UN seeks de-escalation amid widespread violence.",
+      "summary": "Major conflicts persist in the Middle East and Ukraine, with the UN General Assembly addressing widening crises and the rise of AI risks in warfare. Rising hostilities in Yemen have displaced over 100,000 people, and ongoing human rights violations are reported in multiple conflict zones.",
+      "regions": [
+        {
+          "name": "Yemen (Red Sea coast), Yemen",
+          "lat": 13.31,
+          "lng": 43.25,
+          "severity": "red",
+          "detail": "Rising hostilities, including new attacks by Houthis, have displaced over 100,000 people and threatened oil routes in the Red Sea."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "red",
+          "detail": "The ongoing war sees Russia accused of serious violations, including indiscriminate bombing and systematic torture of prisoners of war."
+        },
+        {
+          "name": "Gaza, Occupied Palestinian Territory",
+          "lat": 31.3547,
+          "lng": 34.4697,
+          "severity": "red",
+          "detail": "Israeli armed forces are accused of genocide, ethnic cleansing, and crimes against humanity, killing over 70,000 people since October 2023."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The civil war continues, contributing to a severe humanitarian crisis."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "An ongoing unlawful execution campaign against protesters has been reported."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Hezbollah's use of cluster munitions in the conflict with Israel has raised concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Forced deportations, press bans, and AI risks mark a challenging day for human rights.",
+      "summary": "UN experts urged Pakistan to halt forced removals of Afghans at risk of severe human rights violations, including women, children, and activists. Meanwhile, US President Trump banned several news organizations from the White House, and concerns persist globally about AI safety and surveillance.",
+      "regions": [
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "UN experts warned Pakistan to halt the forced removal of Afghan nationals, citing risks of torture and other serious human rights violations."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1759,
+          "severity": "red",
+          "detail": "Over 127,000 Afghans have crossed back into Afghanistan, with thousands reportedly forcibly removed from Pakistan, facing risks under de facto authorities."
+        },
+        {
+          "name": "Tunis, Tunisia",
+          "lat": 36.8065,
+          "lng": 10.1815,
+          "severity": "yellow",
+          "detail": "Protesters demanded the release of four Global Sumud Flotilla activists, as Human Rights Watch noted increasing use of repressive legislation against civil society."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump banned CNN, MSNBC, and Politico reporters from the White House, citing unfavorable coverage."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Human Rights Watch has documented unjustifiable killings by immigration enforcement agents in the past year, targeting people of color."
+        },
+        {
+          "name": "El Salvador (general)",
+          "lat": 13.6929,
+          "lng": -89.2182,
+          "severity": "red",
+          "detail": "The Trump administration reportedly sent Venezuelan migrants to a prison in El Salvador where they were tortured and sexually abused."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global warming set to exceed 1.5°C threshold; widespread extreme weather.",
+      "summary": "A UN report confirms that global temperature rise will likely exceed 1.5°C within the next few years, leading to intensified extreme weather and irreversible impacts. 2026 has already seen record-breaking heatwaves in Europe and catastrophic floods in Nepal, while protests against climate inaction occurred in Switzerland.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Thousands marched in protest of government inaction on global warming, following a European Court of Human Rights ruling against Switzerland."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Nepal experienced catastrophic floods during one of the globally hottest summers on record."
+        },
+        {
+          "name": "Europe (general)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "Deadly heatwaves swept across the continent during a summer marked by record global temperatures."
+        },
+        {
+          "name": "United States (contiguous)",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US recorded its single hottest July ever and experienced severe droughts and extreme precipitation."
+        },
+        {
+          "name": "Malé, Maldives",
+          "lat": 4.1758,
+          "lng": 73.5093,
+          "severity": "red",
+          "detail": "Small Island Developing States face the threat of submersion due to rising sea levels exacerbated by global warming."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak expands in DR Congo; HIV access improves in Americas.",
+      "summary": "The Democratic Republic of Congo is rolling out an Ebola vaccine for health workers in Ituri province amid the fastest-growing outbreak in history. Meanwhile, PAHO expanded access to lenacapavir for HIV prevention in Latin America and the Caribbean.",
+      "regions": [
+        {
+          "name": "Bunia, Ituri Province, DR Congo",
+          "lat": 1.564,
+          "lng": 30.246,
+          "severity": "red",
+          "detail": "An Ebola vaccine is being rolled out for health workers as the death toll rises in the fastest-growing outbreak in history."
+        },
+        {
+          "name": "Panama City, Panama (Latin America & Caribbean)",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "green",
+          "detail": "PAHO expanded access to lenacapavir for HIV prevention in 14 countries in Latin America and the Caribbean, aiming to reduce access gaps."
+        },
+        {
+          "name": "Laurel, Maryland, USA",
+          "lat": 39.0993,
+          "lng": -76.8488,
+          "severity": "green",
+          "detail": "Mosquito control services were expanded due to public health concerns over potential mosquito-borne diseases."
+        },
+        {
+          "name": "Yambio, South Sudan",
+          "lat": 4.5714,
+          "lng": 27.5095,
+          "severity": "yellow",
+          "detail": "South Sudan reported its first African Swine Fever outbreak, prompting tightened quarantine measures internationally."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump's administration is seeking to bring health-research funding under political control, raising concerns about scientific independence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces slowdown, persistent inflation, and rising debt risks.",
+      "summary": "Global growth is projected to slow to 2.5% in 2026, driven by rising energy prices from the Middle East conflict, renewed inflation, and tighter monetary policies. Tariffs are pressuring corporate profits and consumer prices, while a 'Little I-Shaped Economy' increases social and political fragility.",
+      "regions": [
+        {
+          "name": "London, UK (Global Financial Hub)",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "Global markets are impacted by upward pressure on energy prices and rising sovereign yields, while AI-driven demand and defense spending offer some support."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Tariffs are negatively impacting corporate earnings and consumer prices, and bond market risks are rising due to massive debt issuance and the national budget deficit."
+        },
+        {
+          "name": "Brussels, Belgium (Eurozone)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The Eurozone economy shows resilience, partly due to increased German defense spending, but faces elevated yields and fiscal risks."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The US-China AI race is a major source of competition and a national security priority, influencing global economic trends."
+        },
+        {
+          "name": "Middle East (general)",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Escalating conflicts in the region are driving sharp energy price increases, contributing to global inflation and slower growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US democracy at 50-year low amidst global decline and press freedom attacks.",
+      "summary": "US democracy has reached its lowest point in 50 years, with a report indicating a global pattern of democratic decline where 72% of the world lives under autocracy. President Trump's administration banned major news outlets from the White House and is accused of politicizing government institutions.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "President Trump's ban of several news organizations from the White House and accusations of politicizing the Justice Department highlight a severe democratic crisis."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia is cited as a country less free than 20 years ago, contributing to the global democratic decline."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "red",
+          "detail": "China is also noted as less free than two decades ago, undermining the rules-based international order."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepal's Constitution Day sparked discussions about the nation's constitutional future and calls for reforms."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "The Democratic Party launched a Constitutional Reform Task Force, inviting opposition parties to join efforts for national consensus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian aid system at risk of collapse amid severe crises and funding shortfalls.",
+      "summary": "UN agencies warn that the humanitarian system in Sudan could collapse due to severe funding shortfalls, while the US threatened South Sudan with sanctions over aid obstruction. Widespread crises driven by conflict, climate, and health emergencies necessitate billions in aid, with ongoing forced removals in Pakistan and acute hunger in Palestine.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "UN agencies warned of a potential collapse of humanitarian aid due to severe funding shortfalls in the world's worst hunger and displacement crisis."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "The US warned the transitional government of sanctions for obstructing humanitarian assistance and failing to address the country's severe crisis."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4697,
+          "severity": "red",
+          "detail": "Humanitarian aid groups received significant donations, highlighting ongoing suffering and acute hunger crises in the region."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "Forced removals of Afghan nationals by Pakistani authorities raised concerns about risks of torture and other human rights violations."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.352,
+          "lng": 44.207,
+          "severity": "red",
+          "detail": "Yemen's ongoing conflict has left 22 million people requiring humanitarian assistance, with funding for response plans severely lacking."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Humanitarian aid efforts are ongoing amid conflict and regional instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZf7W0ARNnSu6GYSDzfL52K5hR3P8XTe1Izjrvr_17SXNc7uYECZZdMIwX26iw-DjpdC_P_2gkQF4flm_mTA-z-W-gRcrEFxcVZI5gdm--Rdxupy1A-jQLcRPdAprt7X5ob5IeTw=="
+        },
+        {
+          "title": "whbl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDoE3zbsa2Jy0XWPtlNVz1KCro6GUcdO8alwrmQxzA_m_o-Zot9ZEtuUyi9yHAQzaQyjzvDZw0ib8ZuZtss8qxWaCCKrKeM_WqwRgQcAZNfd8LkrucLjMOH5-5nptROOMq0mrzusW5CYVNQiDhjeP_FEvo1nSm4yCedVuDe_PFu-02thI7oPXcDFxQz4abiCbdRFOFfDM="
+        },
+        {
+          "title": "europa.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Ohb-xKuNve3ekSPAQnHzd7MXQGOFYSYCBhgWOt5qwRlC7jVnGo6eABIQgqyo6hvVcudw-1kTdVVCla_ViQpvZch_vEDnn2BaLYEgihQ1XCL2U0C1-45ewLGeCbiK6hdRGt0_spXMLpYKVW-9SNp8aFk7pAV_YEOL71xD7Qh2LaKPSdLZbT_wLw=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6K_14CTH4wpmxyXfD2VVCls-hEhYzLSLmMo8yRR8KffXX_4L5_oQQ-7LAaqz8EGyYek85hlmOMEy7FOMaruGtclUb3yYcrQ6AAmcCNvTYBB8Vq0w4fG-QDu7szpDuEQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgP9E4cDYLh8qQSWOG9mz5oFfBC0KLLNLTAKy-jPsWzNQuNvB-8Ypmkvl2YAZ_ar-FbE49fiEOkn5kQehj-o74FRF3mi_gX51kS9_P5Q="
+        }
+      ]
+    }
+  }
+}
