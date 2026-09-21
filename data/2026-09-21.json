@@ -1,0 +1,419 @@
+{
+  "date": "2026-09-21",
+  "timestamp": 1789970761356,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Conflicts persist globally; Ukraine, Syria, Sudan see active hostilities.",
+      "summary": "Major armed conflicts continued in several regions. In Ukraine, missile and drone strikes targeted Moscow Oblast, while Russian forces damaged Ukrainian steel plants. Syria experienced powerful explosions at an army site near Aleppo, injuring at least four. In Sudan, thousands fled North Kordofan due to army advances and paramilitary raids. The UN recognized the International Day of Peace amidst global volatility, underscoring the ongoing need for efforts to resolve these conflicts.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukrainian forces conducted missile and drone strikes against strategic targets in Moscow Oblast."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Moscow Oblast was targeted by Ukrainian missile and drone strikes."
+        },
+        {
+          "name": "Aleppo, Syria",
+          "lat": 36.2021,
+          "lng": 37.1356,
+          "severity": "red",
+          "detail": "Powerful explosions occurred at a Syrian army site near Al-Eis, south of Aleppo, injuring at least four people."
+        },
+        {
+          "name": "Hamrat al-Sheikh, Sudan",
+          "lat": 14.8833,
+          "lng": 30.1333,
+          "severity": "red",
+          "detail": "Thousands of civilians fled the town as the Sudan army advanced and the Rapid Support Forces (RSF) raided a gold mine."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Major wars and ongoing civilian suffering were noted in the region, with UN leaders discussing efforts to end them."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's Foreign Minister stated it was not yet time for nuclear talks with the US amidst reports of ongoing conflict in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "US deports Haitians; UNGA urged to protect human rights; AI safety concerns grow.",
+      "summary": "US authorities deported hundreds of Haitians back to their country after ending Temporary Protected Status (TPS), raising concerns about their safety and support. Human Rights Watch urged world leaders at the UN General Assembly to commit to defending human rights globally and counter efforts to undermine accountability for grave international crimes. Discussions at the UNGA also focused on AI safety concerns and the need for a regulatory framework to address potential threats like manipulation of vulnerable individuals and erosion of critical thinking skills.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US authorities deported hundreds of Haitians after ending TPS, raising human rights concerns."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5912,
+          "lng": -72.3364,
+          "severity": "red",
+          "detail": "Haitian deportees face threats to their lives and safety, receiving little to no support upon return."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Human Rights Watch called on world leaders at the UN General Assembly to defend human rights and counter impunity for international crimes."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "US and China discussed AI safety notifications, reflecting shared concerns over AI's potential societal impacts."
+        },
+        {
+          "name": "Armonk, USA",
+          "lat": 41.1118,
+          "lng": -73.704,
+          "severity": "yellow",
+          "detail": "An IBM study released here highlighted concerns about AI eroding critical thinking skills and the lack of clear accountability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "NY climate damage fund struck down; Japan braces for typhoon; Himalayas melting rapidly.",
+      "summary": "A federal judge struck down New York's law to charge fossil fuel companies for climate damages, deeming it an overreach of state authority. Japan braced for Typhoon Dujuan, which brought heavy rainfall and increased risks of landslides to its Pacific coast. The Himalayas continue to face accelerated glacier melt due to climate change, threatening water supplies and causing environmental instability, highlighted by a recent deadly collapse in Nepal.",
+      "regions": [
+        {
+          "name": "Albany, New York, USA",
+          "lat": 42.6526,
+          "lng": -73.7562,
+          "severity": "yellow",
+          "detail": "A federal judge struck down New York's $75 billion plan to charge fossil-fuel companies for climate damages."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Typhoon Dujuan approached Japan's Pacific coast, bringing torrential rain and landslide risks to the Kanto region."
+        },
+        {
+          "name": "Chiba Prefecture, Japan",
+          "lat": 35.6045,
+          "lng": 140.1232,
+          "severity": "yellow",
+          "detail": "Parts of the Izu Islands and Chiba Prefecture received over 300 mm of rainfall as Typhoon Dujuan approached."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Accelerated glacier melt and a massive bedrock and glacier ice collapse in late August killed over 1,300 people in Nepal and neighboring China."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "WHO warns of health workforce gap, inadequate pandemic preparedness.",
+      "summary": "The World Health Organization (WHO) warned of an impending global health workforce gap by the 2030s, with a quarter of doctors nearing retirement. The WHO Director-General also stated that the world remains 'insufficiently prepared' for future pandemics ahead of the UN General Assembly's high-level week. Amidst these concerns, the WHO launched a new online course on primary health care to strengthen health systems globally.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO headquarters, from where warnings about health workforce gaps and pandemic preparedness were issued, and a new primary health care course was launched."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The 81st UN General Assembly is taking place, where pandemic preparedness and global health investments are key discussion points."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Clinical trials for Alzheimer's treatment in Japan and globally face a shortage of participants, slowing progress in dementia therapies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global markets advancing despite US rate hike, China's trade engine roaring.",
+      "summary": "Global stock markets were advancing despite the US Federal Reserve's recent rate hike to curb sticky inflation, with expectations of a December rate cut. US President Trump and Chinese leader Xi Jinping prepared for a summit amidst persistent global trade tensions, with China's export sector continuing to show strong growth. Elevated energy prices, driven by Middle East geopolitical tensions, are pushing crude oil above $100 per barrel, contributing to import price inflation.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Global stocks, including the Dow Jones, S&P 500, and Nasdaq, were advancing."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump and Chinese leader Xi Jinping prepared for a summit to discuss tariffs and technology."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's trade engine continues to roar, impacting global economic dynamics ahead of the summit."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Middle East geopolitical tensions are contributing to elevated crude oil prices, impacting global inflation."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "green",
+          "detail": "Nigeria is expected to resume easing its key interest rate as a firm naira and locally produced fuel blunt inflation impacts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Discontent in Russia post-elections; UN reform efforts face challenges.",
+      "summary": "In Russia, discontent emerged following Ukrainian strikes ahead of the final day of State Duma elections, with initial results showing only a minor increase for the ruling party, short of a sweeping victory. At the United Nations General Assembly, world leaders discussed a wide-ranging reform package to update key institutions like the Security Council, but implementing these reforms faces significant challenges. In Nigeria, ongoing issues like political violence, banditry, and farmer-herder clashes undermine peace and democratic processes.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Discontent was reported among Russians following Ukrainian strikes ahead of the State Duma elections, with the ruling party gaining only a minor increase."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "World leaders at the UN General Assembly discussed reforms to UN institutions, including the Security Council, amidst global challenges to democracy."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Political violence, banditry, kidnapping, and farmer-herder clashes rooted in climate pressure and weak conflict resolution undermine peace and true democracy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid sent to Colombia, Philippines; Tajikistan orphan care, Gaza winter relief.",
+      "summary": "Humanitarian efforts are underway globally, with the UAE delivering critical aid to Colombia following a powerful earthquake. The European Union extended funding for communities affected by severe flooding in the Philippines. In Tajikistan, a project was signed to provide care for 1,200 orphans. UNICEF is also seeking significant funding for winter aid to children and families in Gaza and the West Bank.",
+      "regions": [
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "The UAE delivered critical aid, including food and hygiene kits, to Colombia following a powerful earthquake in August."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The European Union provided €150,000 in humanitarian funding for communities affected by severe flooding across Luzon."
+        },
+        {
+          "name": "Dushanbe, Tajikistan",
+          "lat": 38.5606,
+          "lng": 68.7744,
+          "severity": "green",
+          "detail": "The King Salman Humanitarian Aid and Relief Center signed a joint program for the fourth phase of the Orphan Care Project."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "UNICEF is seeking $97.5 million for winter aid to protect 540,000 children and their families in Gaza and the West Bank."
+        }
+      ],
+      "sources": [
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpB7PdbPhSeRWu8xAP9UQ_DgY1mDij6j4FK2_scvlgXqr8IbQbIAIa-INJ7a7gyJEgpvIIA6h8M02dcAN5tn3CagUWb1iStY9uOMAS_-2DUWGWDDZebmEe10KSF7-2d6ZEBstZftoGnfIUItlDaQa55ZM1yQJgrOAUGcxTOQNwE7Tv5pZON5o-6AjbYIiGjHCNFSFZi9bEa5FVTzDn7JvkoUzzUGA0jCw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0u3E9uG7ppqBGFqpnEK4qYAfgMqKVZ_8UUM4GwKLJnEKRl1DFAWzfwtrmfecuaI2_qnku31prG6mv-HfHLVL-WVPPF3zjhZRvk1Byga56GQ4uaX3-5VXMMolzWmh-I7S2S8qzWx31FLN7GvwU3McMIuXRNkTMBm_yyNr7n6XrjifdViwNafNGqR8PMNMK683dZHh0P6-WfJBWGfcuThrlWtNR8-NI2CUbLvKVxA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4qP7_fdnajr_cJHD6fU9mUkCbbIaFUgI-SwkmcNYFUNys6lu3b8z8NzA1dgOI3L0udJZRFYe4BHWOvkTkvds7xjb0mIa48S0HmXqJTMpeQ6_3kibK10DrM5la5xVglKJ_g=="
+        },
+        {
+          "title": "local10.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-OanLRPLshL81MFI4_adpK94mABP-NLUD0xNEHe2Nk29Uk_U4DGRFW11pybMWRcQUQFzYMZ1-YxYgHkkwKciGL3fSUceU5vYlGDb2XOfgPjFh8idgwY8sznJ1jcZ64zXYqVn_y0qsD70aHiMCcWNGTMdh_ZLV_1dR57wP_D6kAHsj7gTDRkgUbhPfaibTMr8CtgneMlqywDac4E5s4Q5sHoicxn3ObWKb6qimy44hvF75b1f4hX3Qg-Agxg9NIFf13YXEehOwXbGosH7HrY="
+        },
+        {
+          "title": "impriindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM56RZtOhAmgBJeSin5W9FOjb8gsEJ64M926P6Kt9ZbgJUay0QUQxE6pL8F3jTh5wdZ6qOpVa_G0b28i9lvQ-xYQ-MymiitB9mnZh0lOZWdhsNgVVVScmM_3TPoDk4fZuyleIaCihLEvYz7j5_NwJD0CHtv214rTwaPQ=="
+        }
+      ]
+    }
+  }
+}
