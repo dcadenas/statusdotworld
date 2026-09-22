@@ -1,0 +1,468 @@
+{
+  "date": "2026-09-22",
+  "timestamp": 1790057096078,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "UN warns of widening conflicts; multiple major wars persist globally.",
+      "summary": "World leaders gathered at the UN General Assembly today facing a global cloud of wars, with UN Secretary-General Guterres warning that the global situation is deteriorating and divisions are paralyzing the UN Security Council. Major conflicts continue to rage in Iran, Gaza, Ukraine, Sudan, Congo, and Myanmar, with significant humanitarian consequences.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "World leaders are meeting at the UN General Assembly, addressing persistent global conflicts and divisions."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Renewed fighting, particularly by Iran-backed Houthis, is displacing thousands and worsening a dire humanitarian crisis."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia launched 172 drones against Ukraine, while European intelligence warns of potential Russian aggression against NATO."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The 'US-Israel war on Iran' continues, with President Trump having issued threats and the administration seeking to isolate Iran economically."
+        },
+        {
+          "name": "Mekele, Ethiopia",
+          "lat": 13.4967,
+          "lng": 39.4678,
+          "severity": "red",
+          "detail": "A reported drone strike by the Federal Government destroyed a humanitarian aid vehicle in Tigray amid ongoing political crises."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Gaza is identified as a region with major ongoing war during the UN General Assembly discussions."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan is among the countries with major ongoing wars consuming discussions at the UN General Assembly."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety and digital rights concerns rise; tech privacy violations noted.",
+      "summary": "Fears over 'runaway artificial intelligence' threatening humanity are a major focus at the UN General Assembly, with a UN-backed panel calling for stronger AI safeguards after a security breach. Concerns about AI systems amplifying inequalities and violations of digital rights and tech privacy continue to make headlines, including discussions on personalized pricing, children's data, and surveillance technologies.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UNGA discussions highlight fears of runaway AI, and Climate Week NYC includes panels on AI policy and data centers."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN-backed Independent International Scientific Panel on AI called for stronger safeguards due to 'unravelling' firewalls."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US officials are engaging with China on AI and investment, while federal rules on personalized pricing and existing state laws on AI are being evaluated."
+        },
+        {
+          "name": "New York State, USA",
+          "lat": 42.1657,
+          "lng": -74.6543,
+          "severity": "yellow",
+          "detail": "New York enacted AI transparency requirements for advertising, mandating disclosure of 'synthetic performers'."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU Council is charting a course for AI innovation, including provisions for 'regulatory sandboxes'."
+        },
+        {
+          "name": "Washington State, USA",
+          "lat": 47.7511,
+          "lng": -120.7401,
+          "severity": "yellow",
+          "detail": "An activist won $300,000 for exposing Flock camera recording retention issues, highlighting surveillance concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "El Niño exacerbates health risks across Americas; climate week debates solutions.",
+      "summary": "The Pan American Health Organization (PAHO) issued a warning about escalating health risks across the Americas due to an intensifying El Niño, with a high likelihood of a very strong event causing food insecurity and disease outbreaks. Meanwhile, Climate Week NYC is underway, bringing together policymakers and experts to discuss transitioning to renewable energy and phasing out fossil fuels amidst ongoing climate shocks.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "PAHO released a report highlighting the intensifying El Niño phenomenon and its health risks across the Americas."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Climate Week NYC 2026 is hosting discussions on climate action, sustainable investment, and energy transition."
+        },
+        {
+          "name": "Central America Dry Corridor",
+          "lat": 14.6349,
+          "lng": -90.5069,
+          "severity": "red",
+          "detail": "Regions including Honduras, Guatemala, and El Salvador are experiencing severe drought impacting water and food security due to El Niño."
+        },
+        {
+          "name": "Andean Region",
+          "lat": -9.19,
+          "lng": -75.015,
+          "severity": "yellow",
+          "detail": "Colombia and Peru are grappling with wildfires, flooding, and outbreaks of diseases like dengue and malaria exacerbated by El Niño."
+        },
+        {
+          "name": "Amazon Basin, Brazil",
+          "lat": -3.4653,
+          "lng": -58.384,
+          "severity": "yellow",
+          "detail": "Brazil is witnessing declining water levels in the Amazon and poor air quality due to wildfires, linked to El Niño."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Hepatitis A outbreak tied to clams; El Niño threatens health in Americas.",
+      "summary": "An ongoing Hepatitis A outbreak linked to imported black clams from Ecuador is being investigated by the CDC and FDA, having led to 37 infections and 30 hospitalizations. Concurrently, the Pan American Health Organization (PAHO) has warned of escalating health risks, including increased vector-borne diseases and food insecurity, across the Americas due to an intensifying El Niño phenomenon.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "PAHO warns of escalating health risks from El Niño across the Americas and will host Health Ministers for policy discussions."
+        },
+        {
+          "name": "Quito, Ecuador",
+          "lat": -0.1807,
+          "lng": -78.4678,
+          "severity": "yellow",
+          "detail": "The origin of imported black clams linked to a Hepatitis A outbreak in the US is traced to Ecuador."
+        },
+        {
+          "name": "Bronx, New York, USA",
+          "lat": 40.8448,
+          "lng": -73.8648,
+          "severity": "green",
+          "detail": "A new laboratory workflow at Montefiore Medical Center has improved the ordering and diagnostic yield for TB tests."
+        },
+        {
+          "name": "Connecticut, USA",
+          "lat": 41.5978,
+          "lng": -72.7554,
+          "severity": "yellow",
+          "detail": "La Serranita-brand concha negra from Ecuador, potentially contaminated with Hepatitis A, was distributed to retailers and restaurants here."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "red",
+          "detail": "The country's Dry Corridor is experiencing severe drought, impacting water and food security for millions due to El Niño."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF warns of multiple risks; US-China trade tensions persist.",
+      "summary": "The IMF chief warns the global economy faces risks from stubborn inflation, higher debt service costs, and potential for disappointment in AI investments, despite resilience. Meanwhile, US President Trump and Chinese leader Xi Jinping are meeting amid escalating economic and tech competition, with tariffs and restrictions on high-tech products highlighting ongoing trade tensions.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF Managing Director highlighted global economic risks from inflation, debt, and AI investment."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "IMF Chief Kristalina Georgieva spoke at the Qatar Economic Forum, detailing risks to the world economy."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese officials engaged in trade talks with US counterparts in New York to discuss AI, investment, and trade ahead of President Xi Jinping's US visit."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "yellow",
+          "detail": "Problems affecting this crucial maritime route are complicating the movement of energy and goods globally."
+        },
+        {
+          "name": "Bab al-Mandeb Strait",
+          "lat": 12.6,
+          "lng": 43.3,
+          "severity": "yellow",
+          "detail": "This crucial oil conduit is challenged by Houthi attacks, further complicating global energy movement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy at 50-year low; global decline continues amid far-right alignment.",
+      "summary": "A new report finds US democracy at a 50-year low, with declines in freedom of expression, press, credible elections, and effective parliament, while a 'March on Washington' protested undermining democratic rights. Globally, there is a continuous decline in democracy over the past two decades, exacerbated by the behavior of the US under the Trump administration and a growing alignment of far-right forces.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Thousands gathered for the 'March on Washington 2026: Defend the Vote' in response to perceived erosion of democratic rights."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "yellow",
+          "detail": "The International Institute for Democracy and Electoral Assistance, based here, reported the US democracy at a 50-year low."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Europe sees a growing alignment of far-right forces, transcending borders and building networks of support for anti-democratic agendas."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Yemen aid crisis worsens; Ethiopia drone strike destroys aid.",
+      "summary": "Yemen is on the brink of a humanitarian catastrophe, with intense fighting displacing over 85,000 families and aid efforts severely underfunded. In Ethiopia's Tigray region, a reported drone strike destroyed a truck carrying food assistance to displaced people, raising significant concerns about aid delivery.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Renewed fighting has displaced over 85,000 families in Taiz and Hodeidah, pushing the country to the brink of humanitarian catastrophe."
+        },
+        {
+          "name": "Mekele, Ethiopia",
+          "lat": 13.4967,
+          "lng": 39.4678,
+          "severity": "red",
+          "detail": "A reported drone strike by the Federal Government destroyed a truck carrying food assistance in Tigray."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8594,
+          "lng": 31.5713,
+          "severity": "yellow",
+          "detail": "The government is responding to US concerns about obstructing humanitarian assistance, with Washington threatening sanctions."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "34 million of Sudan's 47 million people are in need of humanitarian aid amidst ongoing conflicts."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.513,
+          "lng": 36.2916,
+          "severity": "red",
+          "detail": "15 million of Syria's 25 million people still require humanitarian assistance due to protracted crises."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The dissolution of USAID by the Trump administration has been criticized for devastating impacts on millions globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "risingnepaldaily.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkk4KLtBXYwppOf_CxPJWJRZEvYVa2dXn9ZZV-RyCQcI-B1YAkZw4qDI_8s1_ivOe1vaKkLZ-eg2Z-qK8MSjwdPS3l40iT4phYtXeLPVUXQogGrZtm-WwFPiT-DHilOtqo"
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDfVw5PFpd4aGkRE-FV5p9q3IshnlXmHw_mvSd_pSBDI_1qfee0p9p7M3GTJZ7e6VmNbaLd3bpkV07ARxH6mpery8V4LJxMiIYTvdkF-wDgsd_Kv8JuXWltzcQC1tINgcrYxJI6VExckGPV3v-LBHfjzO9EE2TfsaikCtVEP6hSAouR7ONmiOnBhvTp6SRZQaiGK2eSVSuKYIHAWvi_S9Xr-Go__er7OvRDwAbC1u30ORvh8rbGZsjaYOFWGhQ1qXfiR7vDuOW7vLnXGgHkS-420uf-t74FmAfk4="
+        },
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPc23bxSCrUZRDkzKm0NW44Zdzpgj4YtfCH7WV_O1Uf3rfW9b7fAaDmR4A-2MydzDIWoIQarcfp5ktT6bCKTodsHUSDsKkLJ8BKBrU3CjH7fpoJfQ-hIae9lW3PDk5k5EeuE43GxXuNe2Pgqht6XyJLfb1pzQIcf1d55qNMgqVScLR7rqx2BwVWZ8rl6ipYPd6gFGUF8NWkpACEMFDOGIuHnjLVJwxk3EzAXnjEGk9EvKFADRclY6bR5YvLrnwt0Co7b9NlgHESrU7hm6N57xXgqEEFV44gIB0ePfh0A=="
+        },
+        {
+          "title": "koreatimes.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIVaLdpbbGPBiT6F-_rlHOvzkKwLD8ZsJeI33N-2CdML863keGf0HPsrYVai7RGODbHZeomyr0jpxkNznBuIOtcp57uq9CE3EoCD4Gk4tWxl_UupDTj4Skgfb7F1sLAhoiJK2NXG2HR07qZnhypx-xXkzYs9EGt0Jq6wk6s36S5Adv1ffFVzKtsyyka1MaFg5WI8sxxIdtDSRnxWN4DLMzIA_MK8Hwgwo="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEknzbAjAT5_CzFra69R3N7vhIJpUqTr4MZCb5Nu4qfzoaH1A5R2VAl46_SfMETrpsX8hTzJHOwjkl8DAIGw3gENqX9kAjnQOEmfc8FJEceI6ptsokDxKs7JuKe68lAVKbxcrBx0YzvbvG57ZN9ApE8x7Onayl9n1DhSrVyOzPQpJTGvPCgh7QyM3ZrYazxZAxgSabMnb16sfHfuyPe9eUpKTWO9sp_xFQuieYQIrHEsmjioSzOQ4cMc1IpJWOi"
+        }
+      ]
+    }
+  }
+}
