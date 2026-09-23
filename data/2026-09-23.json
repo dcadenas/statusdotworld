@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-23",
+  "timestamp": 1790143481276,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global Conflicts Escalate Amid Deepening Geopolitical Divisions",
+      "summary": "UN Secretary-General Guterres warned of escalating conflicts and geopolitical divisions, with the number of active state-based conflicts at its highest since WWII. Discussions at the UN General Assembly highlighted ongoing hostilities in the Middle East, particularly Gaza, and Ukraine, alongside renewed US-Iran talks amidst tensions.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "French President Macron denounced inaction on humanitarian aid, while Canadian and UK leaders pledged support and aid for Palestinians."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The Russia-Ukraine war continues, with ongoing diplomatic efforts to end hostilities discussed at the UNGA."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "US President Trump threatened 'annihilation' but also confirmed three-hour talks with Iranian officials on the sidelines of the UN General Assembly."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.6,
+          "lng": 32.5333,
+          "severity": "red",
+          "detail": "Concerns were raised regarding ongoing peace negotiations and the dire humanitarian situation, with calls for accountability for grave crimes."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A Global Peace & Economic Summit was held to promote peace and address ongoing conflicts, with US House Speaker Mike Johnson attending."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety and Surveillance Concerns Rise, Bangladesh Weakens Rights",
+      "summary": "Concerns over AI safety intensified with warnings about its potential harm to children and calls for international oversight, though some nations resist. Privacy issues regarding AI surveillance technologies like automatic license plate readers are prompting bipartisan pushback in the US. Human Rights Watch reported that new laws in Bangladesh have weakened human rights safeguards, notably concerning enforced disappearances.",
+      "regions": [
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "red",
+          "detail": "Human Rights Watch reported that three new laws have weakened human rights safeguards, impacting the National Human Rights Commission and allowing for continued enforced disappearances."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UN General Assembly discussions featured calls from the UN Chief for US-China dialogue on AI safety and UK Prime Minister Burnham pushing for global AI rules."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "California advanced privacy and AI bills, with some child safety and AI oversight measures already signed into law."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "An ACLU expert testified at a Senate hearing on the privacy violations posed by AI surveillance networks, such as automatic license plate readers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate Week NYC Focuses on Finance, Risk, and Transition Strategies",
+      "summary": "MSCI Climate Week NYC and the North America Climate Summit are actively convening leaders to discuss climate risk, investment opportunities, and strategies for industrial decarbonization. Despite these significant gatherings, the UN Secretary-General highlighted the persistent gap in climate adaptation financing for developing countries.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The city is hosting MSCI Climate Week NYC and the North America Climate Summit, drawing leaders to discuss climate finance, risk, and transition strategies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Healthcare Access Supported in Afghanistan, No Major New Outbreaks",
+      "summary": "With funding from Italy, the WHO is supporting essential primary healthcare services in eastern Afghanistan, reaching thousands of people with maternal, child, and mental health care. No new major global public health crises or widespread disease outbreaks were reported today.",
+      "regions": [
+        {
+          "name": "Nangarhar, Afghanistan",
+          "lat": 34.25,
+          "lng": 70.5,
+          "severity": "green",
+          "detail": "WHO, with Italian funding, is providing essential primary healthcare services to over 68,000 people in provinces like Nangarhar."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Economy Stabilizing Amidst Geopolitical Volatility and Rising Costs",
+      "summary": "The World Economic Forum's Chief Economists' Outlook reports a stabilizing global economy, with a majority expecting stable or improved conditions in the year ahead, a significant improvement from May. However, geopolitical conflicts, asset-price corrections, and rising household costs for food, electricity, and transport remain key uncertainties.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The World Economic Forum published its Chief Economists' Outlook, discussing global economic stabilization and ongoing risks from geopolitical volatility and AI investment."
+        },
+        {
+          "name": "South-East Asia",
+          "lat": 0,
+          "lng": 110,
+          "severity": "yellow",
+          "detail": "This region, along with India, is an exception to stagnating or falling real incomes, with over 60% of economists anticipating increases."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democracy Confidence Declines, Election Reforms Debated",
+      "summary": "New polls indicate a worsening perception of U.S. democracy's performance among Americans, with many believing the executive branch holds too much power. Debates around election reform, voter access, and restrictions are ongoing amidst approaching midterm elections and state primaries.",
+      "regions": [
+        {
+          "name": "Maplewood, Minnesota, USA",
+          "lat": 44.9769,
+          "lng": -93.0016,
+          "severity": "yellow",
+          "detail": "A voter fills out paperwork on the first day of early voting, highlighting ongoing electoral processes amidst national concerns about democracy."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 31,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "The state is holding midterm elections with competitive races for U.S. Senate and Governor, reflecting national political trends."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The state is conducting primaries for Governor and U.S. House seats today."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "New Aid Pledges for Crisis-Hit Communities Amid Worsening Situations",
+      "summary": "A €15 million partnership between the European Commission, EIB, and UNDP was launched at the UN General Assembly to support crisis-hit communities in transitioning to sustainable recovery. This comes as Canada pledged $100 million in aid for Palestinians, while leaders at the UNGA highlighted worsening humanitarian conditions and insufficient aid reaching Gaza.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UK Prime Minister and French President highlighted the worsening humanitarian situation and insufficient aid reaching the enclave."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Commission, EIB, and UNDP unveiled a €15 million partnership for crisis-hit communities, part of the EU's integrated approach to fragility."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "Canada pledged $100 million in new aid for Palestinians in Gaza and the West Bank, with a focus on humanitarian assistance and security."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6BkqkiuEt-xkOd6-gU0aBRzRrYgHEsxONSumyRmkWWEcbAbX9BZuJONMdnN6G0NcZ5_DTvyVhe9ezcXpiSFPANkZiNVW5jwatQbKSeIDIpzPlf-VQL0Dv8iYI5HU0eNWWqmAnvgV5Pn2SJBQQbfhYw_sL9bTrYE8uiiPwycUrpJ7wvq9QQiBrGzeBnecgTksqEjJDc4R4UfJ6ta2wsEEPRF7eLP_-lxhtORWTslStfGSlpHrRyJ-9pbG2umjRsjuB2nFcUjDWYCz4UjfTPeZdVODuMRHVdOvWyu1j9f42hpWbQthWXVIPWAjM4l2wcI="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWaNrqa1XgvK5rLw6GzNlfzo5EwYMoGbnmZqY93ryXxxC7JBDcUqBF292QPnYQJJy5-CShrLquEEa1zmOapXHpXeqdjyIbeoSqmmuZXsmVuy3WA0yxhiXATWUdKpkwGZzt6m5pJzfG3Y1-OC8b9J0NygorpLjozQxa25GWrvK2PkfTVxpLiiJeE="
+        },
+        {
+          "title": "bignewsnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TjNdCwdoc_XGkTRvbmqpZz0loHEspGwqYTDLX9brMJaZSxuzr4Fzl0Wl118YV-BjVVsaa_rWSK07i3lCQJ8Gb7S-EgLjEkj7kyYhEJ2_C4sjRICAyR9xxiaQi31rDYYK_AJWW9xRk92Nbl_kMb80riQjPih--5KSIFUVOEYcdwm915BwAYdWFlLixS4mnOIklzC2pm5N1lr_strN-VEiS8TieEeH"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx0XgMNUUVWqqAz8YhToMYkQNk0-wBneY7uFf6oeqFO2UTtTzcDI_T3p5w3G6vOUOaO0zh33jwVSxznQeshsdsE1RaAG4i_QlkBdt6LzKH0Z0juigYCzfG_7-vtco7fbMoJBdA3vSCHQ3G_JBGK77bQ-AE7NEaHc8JA3ye3S018Cj7NZCKN8gCjNNSk5__p1nQSB8WnLxUyuJdTi_oGQMIOgPl"
+        },
+        {
+          "title": "businesstoday.com.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhSTpDgUKkofxCy48lAilB_oFonZOYWgcxAzykCZjgP2CgKfEjmduPNrkDPA3ATXdOFnnOVG4fx2bd-u2lElHnKwhR4NJxwL6NJGBtcSwjzw_PDee-HfF7ev1834shZwpwRBpz4Oo2it5x5Pikgkvq_G5wJmzVJ4duaqQx3FJOyJw6ZC5Mq1G0EWJYu1BwC1H5d8o9jLY1cWk5wmwFg-0gNgAmcpmuBQPXzTPbO-5Pbzb1KXoI5ZFoszclfOXNmNqaA=="
+        }
+      ]
+    }
+  }
+}
