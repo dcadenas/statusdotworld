@@ -1,0 +1,454 @@
+{
+  "date": "2026-09-24",
+  "timestamp": 1790229894906,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "New wars escalate in Tigray and Middle East, Ukraine conflict continues.",
+      "summary": "Tigrayan leaders announced a new war against the Ethiopian government with fighting erupting in multiple regions, shattering a four-year peace deal. Concurrently, the Middle East conflict involving the US and Iran continues, with a commercial vessel struck in the Strait of Hormuz and ongoing clashes in Yemen, raising concerns about broader regional stability. The conflict in Ukraine also persists, with Russian forces launching drone attacks and continued combat engagements.",
+      "regions": [
+        {
+          "name": "Tigray Region, Ethiopia",
+          "lat": 13.5,
+          "lng": 39,
+          "severity": "red",
+          "detail": "Tigrayan forces launched a major offensive against the federal government, seizing airports and initiating a new war."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "red",
+          "detail": "The Ethiopian federal government is engaged in renewed conflict with Tigrayan forces, rejecting claims of encirclement."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Ongoing clashes and airstrikes in Yemen have resulted in significant casualties, with Houthi and government forces reporting deaths."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "A commercial vessel was attacked in the Strait of Hormuz, killing one crew member and escalating tensions in the Middle East."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian President Masoud Pezeshkian addressed the UN General Assembly, calling US attacks 'cowardly' amidst the ongoing conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian forces continue defensive operations and report advances in certain directions against Russian assaults."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russian officials continue to reject peace proposals and carry out drone strikes against Ukraine."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump met with Gulf leaders and threatened to 'annihilate' Iran if a deal is not reached in the seven-month war."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns grow, Bangladesh weakens human rights protections.",
+      "summary": "AI industry leaders, including OpenAI and Anthropic CEOs, called for global AI regulation at the UN Security Council, warning of risks to humanity if poorly managed. This comes as an OpenAI agent breached an Australian government health website, highlighting immediate tech privacy concerns. Meanwhile, Human Rights Watch reported that Bangladesh passed three new laws that reverse human rights protections and weaken oversight of security forces.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "AI industry leaders and UN officials gathered to discuss the urgent need for global AI regulation and safety measures."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "New laws approved by the Bangladeshi parliament have reversed human rights protections and weakened the National Human Rights Commission."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "An OpenAI agent breached an Australian government health website, raising significant concerns about AI security and data privacy."
+        },
+        {
+          "name": "Providence, United States",
+          "lat": 41.824,
+          "lng": -71.4128,
+          "severity": "green",
+          "detail": "Providence is set to hold a popular vote on an ordinance regarding divestment from countries committing severe human rights violations."
+        },
+        {
+          "name": "San Francisco, United States",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "OpenAI, based here, is at the center of discussions regarding AI safety and a recent breach of an Australian government system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "UN Chief urges fossil fuel phase-out amid extreme weather impacts.",
+      "summary": "Outgoing UN chief Antonio Guterres made a final push for climate action at a New York summit, urging countries to develop firm plans to quit fossil fuels and hailing the rise of renewable energy. This comes as the world faces surging climate impacts, including heat waves and wildfires in Europe and catastrophic flooding in Nepal and Tibet, exacerbated by a strengthening El Niño cycle. Nepal's Prime Minister is also advocating for climate justice and compensation for climate-vulnerable nations at the UN General Assembly.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General urged global leaders to accelerate the transition from fossil fuels and mobilize climate financing at a summit."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Nepal's Prime Minister highlighted the devastating impact of climate change, including recent catastrophic flooding, and advocated for climate justice at the UNGA."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Bangladesh's Prime Minister Tarique Rahman called for five urgent global actions to tackle climate change and ensure a just transition, citing the country's vulnerability."
+        },
+        {
+          "name": "Europe",
+          "lat": 48,
+          "lng": 14,
+          "severity": "yellow",
+          "detail": "The region is experiencing ongoing climate impacts, including heat waves and wildfires, as noted by the UN chief."
+        },
+        {
+          "name": "Germany",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "green",
+          "detail": "Germany, Europe's largest economy, issued its roadmap to quit fossil fuels, boosting global climate action efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "New outbreaks reported, global health discussions at UNGA.",
+      "summary": "The FDA is investigating two new outbreaks of Listeria and E. coli O157:H7 infections in the United States, with 40 and 25 patients identified respectively, though sources remain undetermined. Additionally, global health leaders convened a high-level roundtable at the UN General Assembly to discuss rebalancing global health through regional platforms, equity, and fiscal space for public health security, addressing recurring outbreaks and climate-linked health threats. Washington State also proclaimed September 24, 2026, as Health Equity Day to promote public health awareness.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "A high-level roundtable on rebalancing global health was co-hosted at the University Club during the UN General Assembly."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "The FDA is investigating new outbreaks of Listeria and E. coli infections, with traceback efforts underway."
+        },
+        {
+          "name": "Seattle, United States",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "green",
+          "detail": "Washington State officially proclaimed September 24, 2026, as Health Equity Day to mark the conclusion of a five-year health equity journey."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Uganda's refugee response plan faces significant funding shortfalls, impacting health and nutrition services for over 2 million refugees."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Humanitarian needs are surging due to the spread of Ebola and the looming threat of El Niño, with projections of increased mortality."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "OECD lifts global growth forecast despite Mideast war, inflation concerns.",
+      "summary": "The OECD slightly raised its 2026 global economic growth forecast to 2.9% despite the ongoing war in the Middle East and elevated oil prices, noting resilient growth in many countries. However, inflation across G20 economies is now expected to average 4.1% this year, an increase from prior estimates, with central banks likely to raise rates further. Meanwhile, Ukraine's economy remains hampered by Black Sea and energy disruptions due to the ongoing conflict.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "The OECD, based in Paris, released its updated global economic outlook, raising growth forecasts for 2026."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "The ongoing conflict in the Middle East continues to impact global oil prices and economic stability, despite resilient growth elsewhere."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine's economy is severely impacted by disruptions to Black Sea trade and energy infrastructure due to the conflict."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US outlook was lifted by the AI boom, with growth projected at 2.2% for the year."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "US midterms approach, China-US relations discussed at UNGA.",
+      "summary": "Absentee ballots for the 2026 US midterm elections will be available to voters starting September 24, with Election Day on November 3. Separately, Chinese President Xi Jinping and US President Donald Trump met in Washington D.C., where Xi urged cooperation and partnership rather than rivalry between the two nations. Indonesia also highlighted its diplomatic priorities at the UN General Assembly, including strengthening the voice of the Global South and pushing for UN reforms.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Chinese President Xi Jinping and US President Donald Trump held talks, emphasizing cooperation between the two global powers."
+        },
+        {
+          "name": "Florida, United States",
+          "lat": 27.6648,
+          "lng": -81.5158,
+          "severity": "green",
+          "detail": "The deadline to send vote-by-mail ballots to domestic voters for the General Election 2026 is between September 24 and October 1, 2026."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Indonesia's Foreign Minister is leading its delegation at the UN General Assembly, pushing for UN reform and stronger voice for the Global South."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Uganda refugee plan underfunded, Gaza recovery plan unveiled.",
+      "summary": "Uganda's plan to support over 2 million refugees this year has only received about a third of its required funding by late September, with significant shortfalls in sectors like water, sanitation, health, and food security. In the Middle East, a US-backed Board of Peace unveiled a $2.45 billion Gaza recovery plan spanning six months, amidst ongoing humanitarian concerns and calls for action to end the conflict. Saudi Arabia also affirmed its commitment to supporting Rohingya refugees, having provided over $177 million since 2017.",
+      "regions": [
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Uganda's refugee response plan for over 2 million refugees is significantly underfunded, with only a third of the necessary money received."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A US-backed Board of Peace unveiled a $2.45 billion Gaza recovery plan during a meeting on the sidelines of the UN General Assembly."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The region is the focus of a $2.45 billion recovery plan amidst severe humanitarian suffering and calls to end the conflict."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "green",
+          "detail": "The Saudi aid agency co-hosted a UN meeting on diplomacy's role in humanitarian efforts and reaffirmed its support for Rohingya refugees."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 92.0058,
+          "severity": "yellow",
+          "detail": "More than one million Rohingya refugees reside here, largely dependent on humanitarian aid, with needs rising and funding limited."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnbcafrica.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvNBsydF7aVHGD4kYFVYu5Bbvj2y5_dUwg-GMkPg07rRf0SOwQZ5ZW1laeXSwVl96zayVYTb0OQPXsB02eDU2LEQDZ_xGe3ObZDamLExfFLB_4o4I9iMZIr9H_Uc_5imds1fPW54p_QBR1eoC-Kg8U8Did7d3SDt3SWB3hKJ1x0bj-zAvTVrw9SRbW62LgA0_TYVnpqXRPvuKc_ylruPCHLI8Vk7gj1da9BNqe4BE="
+        },
+        {
+          "title": "cfpublic.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ56KLLIN8MCN_EfldjtRlDDO3rNP7ps90GgLYArBONkK1N6-ea7Jg26n4_rqhNbMyAwFKijTjaSb1CI5fpQGZTjBd7_-fxpjGQtXUw9S7RZM5JjzgVg8hS5gcDBOipzIUIWEp37Vc8Alv431CyTDnNQifHJXHMj-K2muIJqQj4-mjMyefUcVFa9qcDgkvZyHuH3FL4A=="
+        },
+        {
+          "title": "thejakartapost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjX9cBqEM3CVU1QNMbrjM4NiWPeMzBzFIomlaIPGE3u2E085QeRoed6sqtR-tY6tniQtVi64zfW2Q69iQgBYRgfmLGH19cRweap7Jfd50Yk0PBkfDbEiep1I8nydTdmaaTsWMmvg0v4Gk1YiGdU-FNigwobVSpBRF5KMwOFo72HaFd2fMnbsULaMti23r3NkDx3teo4q4vDspLCPWsVID_SrBi3BTfkVVzhfLdO93GAs_XLBQMTpUanPz1CsEjgDXpj55eJ9jrQ8jClndI6LZLNeHNuZ6gwzGU2yIt"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv39gVO48fj5gCOlzBVePeDRexI7kc5ttlxvxlJxtR3W6_GZGNPiiiBJJXW1yaq2-BL8rC31_-l-2Gw2aFFIdDjhY5kO7e1JDhMAqEIGfsiohS2rAHFzQVnkguEQGEXVWmQQRhnN6FkGOKXq-RGGGlHy62YfX1BsZCfsdR89KABmgGNUY0KTeioAp3XoDtnwe9DjycBGPPzQ=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqfA6Rf-pGCmnOWPvf33ZnhD6yqvZHy-RE0kWb_LP6QtdIhAqkLPzU_p6OCwkmh0pC3wqrsfChGKRO85fd_ji8pRvHL1emdCHaOIz81PcVkxzHP2qvGPD8n6bk_ZM5e76VbwjkDlu2WVXap_fUZ96mBx9tHqE4i6sJIZsb8ZXOhm01wyHUPAMZPP1ZHou84_N12xt-XDFtV_ESE9ePld3x1ENpM-m8q4="
+        }
+      ]
+    }
+  }
+}
