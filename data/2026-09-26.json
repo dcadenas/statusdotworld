@@ -1,0 +1,426 @@
+{
+  "date": "2026-09-26",
+  "timestamp": 1790402689368,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Regional conflicts persist, diplomatic efforts falter in the Middle East",
+      "summary": "Today, diplomatic efforts to secure peace in the Middle East faced a setback as a proposed Iranian peace deal for the Strait of Hormuz was reportedly rejected by the US. Concurrently, new drone attacks in Sudan's El Obeid caused civilian casualties, and renewed hostilities in Yemen led to significant displacement, exacerbating existing regional tensions.",
+      "regions": [
+        {
+          "name": "Abyan Governorate, Yemen",
+          "lat": 13.784,
+          "lng": 45.405,
+          "severity": "yellow",
+          "detail": "KSrelief distributed shelter aid in the governorate amidst ongoing humanitarian needs exacerbated by recent events."
+        },
+        {
+          "name": "El Obeid, Sudan",
+          "lat": 13.155,
+          "lng": 30.222,
+          "severity": "red",
+          "detail": "A drone attack by the Rapid Support Forces killed two civilians and wounded 20 at a displacement shelter."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.25,
+          "severity": "yellow",
+          "detail": "A proposed Iranian peace deal for the strategic waterway was reportedly rejected by the US, prolonging regional instability."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UN discussions addressed ongoing conflicts and the impact of the reported US rejection of Iran's peace proposal."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Widespread digital rights violations and AI safety concerns emerge globally",
+      "summary": "Today's news highlights significant human rights challenges, including severe digital rights and tech privacy violations across the US, with bipartisan senators questioning AI-driven surveillance. Furthermore, a regional court heard a landmark case against Peru for failing to protect isolated Indigenous peoples, while the UN blacklisted companies over alleged Palestinian rights violations.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US senators raised constitutional privacy concerns over AI-driven Flock surveillance cameras, and a bill was reintroduced to curb federal facial recognition use."
+        },
+        {
+          "name": "Santa Fe, New Mexico, USA",
+          "lat": 35.687,
+          "lng": -105.9378,
+          "severity": "red",
+          "detail": "A jury found Facebook liable for deceiving users about privacy protections in a landmark ruling."
+        },
+        {
+          "name": "Montevideo, Uruguay",
+          "lat": -34.9011,
+          "lng": -56.1645,
+          "severity": "yellow",
+          "detail": "The Inter-American Court of Human Rights held a final day hearing on Peru's alleged failure to protect isolated Amazonian Indigenous peoples."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN human rights office added 61 companies to a blacklist over alleged involvement in violating Palestinian human rights."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Pope Leo XIV warned against AI-driven 'paradise of machines,' emphasizing the need for ethical discernment in technology."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Experts at a UN forum warned about AI safety, discussing unintended goals and unauthorized access, while 26 US attorneys general urged federal AI regulation."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "red",
+          "detail": "A draft Cyber Protection Act was criticized for vague terms and severe penalties, posing a serious risk to freedom of expression."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Devastating climate impacts intensify globally, urgent action demanded",
+      "summary": "A record-breaking El Niño is forcing global culinary changes due to widespread droughts, floods, and heatwaves. In Nepal, the Foreign Minister urgently called for international climate finance and support following a 'Himalayan Tsunami' that killed hundreds and caused billions in economic damage a month ago, highlighting the immediate and severe human cost of climate change.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "One month after a devastating glacial collapse and floods, the Foreign Minister reiterated calls for international climate support due to immense loss of life and infrastructure."
+        },
+        {
+          "name": "Mexico's Caribbean Coast",
+          "lat": 20.6296,
+          "lng": -87.0739,
+          "severity": "yellow",
+          "detail": "Chefs are rethinking menus as a record-breaking El Niño impacts local food systems with altered weather patterns."
+        },
+        {
+          "name": "Denia, Spain",
+          "lat": 38.8407,
+          "lng": 0.1057,
+          "severity": "yellow",
+          "detail": "The Mediterranean region faces continued havoc from the climate crisis, including past torrential rains impacting agriculture and tourism."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Chefs express worry over water shortages and scarcity of ingredients due to El Niño's severe impacts on the region."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Nepal convened a high-level meeting at the UN, 'Sagarmatha to the Sea,' advocating for a united climate response from mountain and island nations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Yemen faces severe malnutrition crisis, global refugee health concerns rise",
+      "summary": "Yemen continues to grapple with a severe acute malnutrition crisis among children, prompting a new USD 1.55 million agreement between WHO and KSrelief for life-saving nutrition and medical care. Simultaneously, the UN refugee chief warned about the dire health implications of escalating displacement, particularly in Yemen, where renewed fighting has led to a new exodus and exacerbated humanitarian needs.",
+      "regions": [
+        {
+          "name": "Aden, Yemen",
+          "lat": 12.8276,
+          "lng": 45.036,
+          "severity": "red",
+          "detail": "WHO and KSrelief signed an agreement to provide life-saving nutrition and medical care for children suffering from severe acute malnutrition."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN refugee chief addressed the Security Council, highlighting the worsening public health conditions for displaced populations in Yemen and globally."
+        },
+        {
+          "name": "Djibouti City, Djibouti",
+          "lat": 11.5886,
+          "lng": 43.145,
+          "severity": "yellow",
+          "detail": "Thousands of Yemenis have sought safety here, straining public health and humanitarian resources as fighting displaces them."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East tensions escalate, impacting global oil and gas markets",
+      "summary": "Renewed hostilities between the US and Iran have disrupted cargo and energy supplies through the critical Strait of Hormuz, causing global oil and gas prices to rise. Nepal faces billions in economic devastation from a recent glacial collapse, underscoring the severe financial costs of climate-induced disasters.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.25,
+          "severity": "yellow",
+          "detail": "Disruptions to cargo and energy supplies due to renewed hostilities between the US and Iran have led to rising global oil and gas prices."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "The country faces an estimated $5 billion in economic devastation following a catastrophic glacial flood one month ago."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi-led coalition intercepted Houthi drones and ballistic missiles, indicating ongoing conflict affecting regional economic stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy at 50-year low amid global democratic decline",
+      "summary": "A new report from the International Institute for Democracy and Electoral Assistance indicates that US democracy has reached its lowest levels in 50 years, with declines in freedom of expression and credible elections. Globally, democratic decline continues to outpace advancements for the eleventh consecutive year, with weak democracies proving more vulnerable to conflicts.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A report finds US democracy at a 50-year low, citing concerns over freedom of expression and electoral integrity."
+        },
+        {
+          "name": "Stockholm, Sweden",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "severity": "yellow",
+          "detail": "International IDEA's 2026 Global State of Democracy Report, released from here, highlighted that democratic decline continues globally."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "The Africa and West Asia regional launch of the Global State of Democracy Report emphasized Africa's significant contribution to global democratic decline."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Multiple humanitarian crises worsen, millions displaced and underfunded aid efforts",
+      "summary": "Humanitarian crises are escalating globally, with the UN refugee chief warning that displacement is outpacing solutions as nearly 12 million people are displaced in Sudan, and over 130,000 Yemenis have been uprooted by renewed fighting. Aid efforts in Western Sahara for long-displaced Sahrawi refugees are critically underfunded, and Nepal faces increasing risks of child trafficking and violence following devastating floods.",
+      "regions": [
+        {
+          "name": "Abyan Governorate, Yemen",
+          "lat": 13.784,
+          "lng": 45.405,
+          "severity": "red",
+          "detail": "KSrelief distributed shelter aid benefiting nearly 900 people affected by recent events, amidst ongoing conflict and displacement."
+        },
+        {
+          "name": "North Darfur, Sudan",
+          "lat": 14,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Authorities reopened the Tina border crossing with Chad to expedite humanitarian assistance to various areas in North Darfur."
+        },
+        {
+          "name": "Tindouf, Algeria",
+          "lat": 27.67,
+          "lng": -8.14,
+          "severity": "yellow",
+          "detail": "The UN refugee chief warned that conditions for long-displaced Sahrawi refugees here are deteriorating and severely underfunded."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "One month after devastating floods, protection for girls needs to be intensified due to rising risks of trafficking, violence, and child marriage."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "The UN refugee chief urged the Security Council to prioritize political solutions for the over 117 million people forcibly displaced globally."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.35,
+          "lng": 34.34,
+          "severity": "red",
+          "detail": "The population faces displacement and urgent shelter needs due to continued Israeli attacks, as highlighted by the UN refugee chief."
+        }
+      ],
+      "sources": [
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zuveHOmy9YyshwAAThJdyL8oGgehvUXwKf7MwMUN7cc4_syS_bPfHtCQfzMFntov4jjKDTNW7SQIAK0s-GU4xPAc3TSsdPYEkxmYdHxOyehIdgOfCqC1uYLv0aZluCVW"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO2SvFIHuQtWLZyxGI2zlwYmfDveDOdcdaa_-4-Ibhoqamn93c20RGEMeeKQfjOC8MZGhaCT-loSv1f4d8Vk2yZlud2Xj3SCNPOCGFSpelJl49X7r6ZVvr9Jhko760ejam0EdLr4DukxIhudIqhmTEXooRoVoHlXz0p_C1KmH5Rvfjzuy9YkiJiCsD_vNq_mjLyFIg_-XHEoNgA=="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkqUcAHpO3FGYezrk2rTgFANjdL4ZDHxi82bVtsLo6ge39ERsjEESFgX7N4wj5Izag8hMOVCRvdtrAa7fg01V3nSbZ8kJ5T-SoWX1Qh_eyEqSj8055C3IYrt4sy8NC3mn4t-h5ajf3Ue-WaQRWaBUooOC2joJApdVOlzQfUYAKJDYdGq7zfFmDpuPa_b13Vss0D_dK6bWB3Qiw_GZepwKkVFC8PA="
+        },
+        {
+          "title": "spa.gov.sa",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUb8GpNHQLenNjrpeO-5NqopLq795mhwW0-2ADOY1uGkN2qihykMdA2doCJgg9eDKqnq13lIyQO2X8DM8vQGjxd60syJ0z6FICM3RFdvIZGeTUFxh3iaQRL2hMDg=="
+        },
+        {
+          "title": "glasgownews1.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU1BGGUGF4YtIEg-jGTWCmIcZaKDWIK4Q5k8QohT8NM_YVKKVEXHZ2PtjKPoKSLzjnWFk-r1563cvpHi0XWM-rVT0h-BWv0n3kypkidZ-Mh0fmMaYRowhS3AD-aFOBEOuO3pht5yfOJswhzlTZCHudQFBLgOz0qtDFAJz9OI5PWsuF3ZVlL4FyObxU-6G2_348YSEQ4zJQNAy0LsrZdg5L4BIrw5i5SDOwxyGemMPx__bpA=="
+        }
+      ]
+    }
+  }
+}
