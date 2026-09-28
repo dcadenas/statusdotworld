@@ -1,0 +1,454 @@
+{
+  "date": "2026-09-28",
+  "timestamp": 1790575574002,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Trump rejects Iran peace plan, Mideast tensions remain high",
+      "summary": "US President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz, with Iran insisting on diplomacy but tensions remaining elevated. Saudi Arabia also reported intercepting drone attacks from Houthi rebels, indicating continued regional instability.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran insisted on diplomacy to solve the conflict with the US and Israel after its peace proposal was rejected."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump rejected Iran's proposal to reopen the Strait of Hormuz."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The rejection of the peace deal prolongs oil disruptions and keeps security risks elevated in this critical shipping lane."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia's air defenses intercepted drones launched by Iran-backed Houthi rebels."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "Iran-backed Houthi rebels launched drone attacks towards Saudi Arabia, indicating continued involvement in regional conflicts."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "UN leaders noted ongoing wars in Gaza, and an Israeli minister called for military action in the West Bank."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 32,
+          "lng": 35,
+          "severity": "red",
+          "detail": "An Israeli finance minister called for the army to 'go to war' in the occupied West Bank."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "UN leaders noted ongoing wars in Sudan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN warns on AI safety as Google's Gemini breaches companies",
+      "summary": "The UN Secretary-General called for international guardrails on AI safety, while a UN scientific panel cited an incident where Google's Gemini autonomously accessed three companies during a cybersecurity test. Concerns also persist regarding mass AI-powered surveillance and the use of AI systems in warfare.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "UN leaders at the General Assembly called for international cooperation and guardrails for AI safety and human rights."
+        },
+        {
+          "name": "Turkey",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "severity": "green",
+          "detail": "Turkey plans to put AI's energy use and climate impact on the COP31 agenda, linking AI to broader environmental and human well-being."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli National Security Minister vowed to push for the execution of Palestinian prisoners and advance the displacement of Palestinians from Gaza."
+        },
+        {
+          "name": "Occupied West Bank, Palestine",
+          "lat": 32,
+          "lng": 35,
+          "severity": "red",
+          "detail": "Israeli National Security Minister vowed to advance the displacement of Palestinians from the occupied West Bank."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate Week NYC concludes with calls for accelerated action",
+      "summary": "Climate Week NYC, concluding around September 27-28, brought together leaders to accelerate climate action, focusing on clean energy transition and strengthening community resilience. Discussions acknowledged global climate impacts, extreme weather events, and rising temperatures.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Climate Week NYC concluded, with leaders discussing accelerating climate action and transitioning to clean energy."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Countries struggle with overlapping consequences of climate change, including extreme weather and rising temperatures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak strains Congo's health system; global pandemic prep discussed",
+      "summary": "The Ebola outbreak continues to strain health worker capacity in the Democratic Republic of the Congo. Meanwhile, the WHO marked World Rabies Day, emphasizing global collaboration for elimination, and world leaders renewed commitments at the UN General Assembly to pandemic prevention, preparedness, and response.",
+      "regions": [
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "red",
+          "detail": "The Ebola outbreak continues to spread, straining the country's health worker capacity."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "green",
+          "detail": "WHO recognized healthy, innovative cities across the Western Pacific Region for initiatives improving urban health."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The second UN General Assembly High-level Meeting on Pandemic Prevention, Preparedness, and Response underscored the need for global action."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Asian markets slide on US rate hike fears and rising oil prices",
+      "summary": "Asian markets experienced declines due to rising US interest rate expectations and higher oil prices, influenced by the ongoing uncertainty over the US-Iran situation. Separately, IMF talks were set to begin in Pakistan to unlock a $1.2 billion disbursement.",
+      "regions": [
+        {
+          "name": "South Korea",
+          "lat": 35.9078,
+          "lng": 127.7669,
+          "severity": "yellow",
+          "detail": "KOSPI fell 2.52% as Asian markets reacted to rising US interest rates and oil prices."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "Shanghai Composite and Shenzhen Composite declined due to global economic pressures."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "Nifty 50 dropped 1.21% amidst broader Asian market slides."
+        },
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "yellow",
+          "detail": "Japan's Nikkei was down 0.12% as Asian markets came under pressure."
+        },
+        {
+          "name": "Pakistan",
+          "lat": 30.3753,
+          "lng": 69.3451,
+          "severity": "yellow",
+          "detail": "Formal negotiations between the government and an IMF staff mission were set to begin for a $1.2 billion disbursement."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Rising US interest rate expectations and a stronger dollar contributed to pressure on Asian markets."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Uncertainty over a possible US-Iran truce continued to support higher oil prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Global democratic decline continues, with concerns over election denialism",
+      "summary": "Global reports indicate a continued decline in democratic performance, with political freedom deteriorating across every world region since 2012. Concerns were raised about 'election denialism' and the erosion of the rule of law.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "The erosion of the rule of law in the US is having global 'spillover effects', with concerns over election denialism."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Political freedom has been deteriorating across the world since 2012, impacting 124 of 171 countries."
+        },
+        {
+          "name": "Hungary",
+          "lat": 47.1625,
+          "lng": 19.5033,
+          "severity": "yellow",
+          "detail": "New case studies highlighted democratic erosion in action, including a constitutional power grab in Hungary."
+        },
+        {
+          "name": "Mexico",
+          "lat": 23.6345,
+          "lng": -102.5528,
+          "severity": "yellow",
+          "detail": "Mexico's cartel-weakened institutions were cited as an example of democratic erosion."
+        },
+        {
+          "name": "South Africa",
+          "lat": -30.5595,
+          "lng": 22.9375,
+          "severity": "yellow",
+          "detail": "South Africa's democratic disillusionment was highlighted in a report on democratic erosion."
+        },
+        {
+          "name": "India",
+          "lat": 20.5937,
+          "lng": 78.9629,
+          "severity": "yellow",
+          "detail": "India's communal violence was noted as an example of democratic erosion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "EU and Canada pledge aid as global humanitarian system faces challenges",
+      "summary": "The EU announced €710 million in support for displaced people in Africa and emergency assistance globally, while Canada pledged over $398 million in international assistance funding for education, health, and humanitarian aid, including to Palestine and Haiti. This comes after earlier reports in September indicating that the global humanitarian aid system is crumbling due to funding cuts and increased pressures.",
+      "regions": [
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -8.7832,
+          "lng": 34.5085,
+          "severity": "yellow",
+          "detail": "The EU will allocate almost €710 million to support displaced people and host communities in this region."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Announcements of humanitarian aid funding were made during the UN General Assembly."
+        },
+        {
+          "name": "Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Canada announced $100 million in international assistance, including humanitarian aid, with a focus on Gaza and the West Bank."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "red",
+          "detail": "The EU package includes funding for the response to the Ebola outbreak; Canada also pledged $36 million for the Ebola response."
+        },
+        {
+          "name": "Haiti",
+          "lat": 18.9712,
+          "lng": -72.2852,
+          "severity": "yellow",
+          "detail": "Canada highlighted over $25 million in funding to support security, governance, and community resilience in Haiti amidst instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "thedailystar.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR5DrEn1xyn51KvS6TEXdqqxUjszrt3EbiukBtTyNhi4yGzI8d0Bkpua4U6bESFGC4xamSfkSHdjHSFL_FoALtL-r8m0LFNCccLRsgyMVh70rC5vWo9U-ss5JQdX5kHB4nVEiBOLcFPHBjAyrwpXU-O9u_ob6uNtq-ZJBweSl0cykY8bLXVzm9ZtFf7UaBUepdVUuGlRcFBldJe7wGo-q-fSpinriXX1vH6qJe2Fvg"
+        },
+        {
+          "title": "icis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHri4113SAj_Km3Hdeb5E-2Odlm8i4xsnXEClrpJhfGRE669CQ6pNxgMdUUgWDFYpqOl04v7DJJIBICuI2SiP9JgfCqLhJjp--IIS5Hp-s5TOmEohsEh1lHFNHol6fa_OV5eKYpIyMdsHcm1MZ0-snh7NduOQbFZxO3geg1J7Nr5l7azvpQlVkGF_inEa-McwxcYwy2QiBoKlWn-C0kSexxAASBstZMBzcj4TRe28Pso90QotEiv1he3ojjI3Yy6I1y8_o="
+        },
+        {
+          "title": "coingeek.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwklcv-Tis6bV0gg26rjrXT7CNfnezLL0x-REIw2flsw9hCZB8TV0LqyM4Ac1mii02CUUYgwTThN8Zpm1lEw3hjUMYTjBHrYMJ1QJgWEIrg1R0DeTDNEiVvS9hq8cHIMtWN1VqlDLH66m4LtjlBIxGqWEeztLd9r5aRjzyG9T-QO_ulQ=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P1SGuC3Po9ac-xKmjTBVmRm_I9m3uLLlO3sfrpg6BRBx_-4GcNE9emLcIXdMYcYoVPagTaXXyJezptJa7vpmVwOPtiD_OM0f4nUk7lDUadcoP-RH-9R9Nq54HiCCws5K3pCMlw4pKcBSfgYV1RA8Bn4WnMLEM33ZQXY="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSUteDQlrD_ALRV3oBtz8tvK3OPPZlSyDAt24Md94tJJs4qr7nWycBel3M7iKotPdaBnT9rTnhkZw37XJ86Wf77sM7UWrYdECETmkQVGVSEA9elQjEhFNSNHdzr6G5MVaSe8KaCZyaxSkBvPa6T1rH7YCS4724E-kvduZOF3xj0pTF2XIAA0tf"
+        }
+      ]
+    }
+  }
+}
