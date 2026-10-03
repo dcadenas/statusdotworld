@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-03",
+  "timestamp": 1791007642653,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East engulfed in escalating conflicts; Gaza, Lebanon targeted.",
+      "summary": "An Israeli air attack in Gaza City killed at least five people, while Israeli forces continued attacks across southern Lebanon. Global energy security is further challenged by ongoing conflicts in the Middle East and Russia's aggression against Ukraine, leading to increased international tensions.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.46,
+          "severity": "red",
+          "detail": "An Israeli air attack on a residential apartment killed at least five people and severely wounded six others."
+        },
+        {
+          "name": "Southern Lebanon, Lebanon",
+          "lat": 33.3,
+          "lng": 35.5,
+          "severity": "red",
+          "detail": "Israeli occupation forces continued attacks across the region."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28.5,
+          "lng": 44,
+          "severity": "red",
+          "detail": "The region faces ongoing conflicts and escalating tensions, impacting global energy security."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.379433,
+          "lng": 31.16558,
+          "severity": "red",
+          "detail": "Russia's ongoing aggression contributes to global energy security challenges and international tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Major data breaches expose millions; AI safety and press freedom under fire.",
+      "summary": "A Pentagon personnel system exposed Social Security numbers for over three million people, while other significant data breaches impacted Millstone Medical Outsourcing and iRhythm Technologies. Concerns over AI safety intensified with OpenAI firing researchers and Meta laying off AI safety experts. Press freedom faced a severe blow as Egyptian journalists were detained, highlighting a crackdown on independent media.",
+      "regions": [
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "A Pentagon personnel system exposed Social Security numbers for over three million people."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "OpenAI fired three researchers for mishandling sensitive information amid debates on AI safety."
+        },
+        {
+          "name": "Dakar, Senegal",
+          "lat": 14.7167,
+          "lng": -17.4677,
+          "severity": "yellow",
+          "detail": "The Africa Business and Human Rights Forum concluded, addressing responsible business conduct and human rights across the continent."
+        },
+        {
+          "name": "Cairo, Egypt",
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "severity": "red",
+          "detail": "Egyptian authorities were urged to release six detained journalists, signaling an escalation against press freedom."
+        },
+        {
+          "name": "Utah, USA",
+          "lat": 40.7587,
+          "lng": -111.8906,
+          "severity": "green",
+          "detail": "A federal judge issued a preliminary injunction blocking the state's anti-VPN age verification law, a win for digital rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Super El Niño threatens Philippines, Pacific islands face rising seas, COP31 preparations intensify.",
+      "summary": "A Super El Niño is predicted to push Philippine temperatures above 45 degrees Celsius by early 2027, with up to 85 provinces facing drought conditions. Pacific island nations are experiencing sea-level rise at twice the global average, necessitating preliminary talks in Fiji for the upcoming COP31 climate summit in Turkey. The Philippines also reported a 25% increase in fossil carbon dioxide emissions since 2021.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "red",
+          "detail": "A Super El Niño is projected to cause temperatures exceeding 45 degrees Celsius by early 2027 and widespread drought."
+        },
+        {
+          "name": "Nadi, Fiji",
+          "lat": -17.8,
+          "lng": 177.4167,
+          "severity": "yellow",
+          "detail": "Delegates gathered for talks to address the plight of island nations affected by rising oceans, preparing for COP31."
+        },
+        {
+          "name": "Tuvalu",
+          "lat": -7.1095,
+          "lng": 177.6493,
+          "severity": "red",
+          "detail": "The low-lying island nation is facing imminent threats from sea-level rise, with two atolls largely swamped."
+        },
+        {
+          "name": "Trabzon, Turkey",
+          "lat": 41,
+          "lng": 39.7333,
+          "severity": "green",
+          "detail": "Türkiye's COP31 Presidency launched a new Marine Litter Action Platform to tackle ocean and sea pollution."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles outbreak in Pennsylvania; HIV research funding at risk.",
+      "summary": "Pennsylvania reported its fifth measles-related death as confirmed cases approached 1,000, indicating a significant outbreak. Funding delays for National Institutes of Health-supported HIV clinical trial networks threaten to disrupt critical research and erode infrastructure. Climate-related changes in skin disease prevalence or severity have been reported in over 40% of countries globally.",
+      "regions": [
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.5908,
+          "lng": -77.264,
+          "severity": "red",
+          "detail": "The state announced its fifth measles-related death as cases approached 1,000."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "HIV research funding delays threaten clinical trial infrastructure worldwide, and climate change impacts skin disease in over 40% of countries."
+        },
+        {
+          "name": "West Virginia, USA",
+          "lat": 38.4912,
+          "lng": -80.9544,
+          "severity": "green",
+          "detail": "More than $4 million in Rural Health Transformation awards were announced for Minnie Hamilton Health Care Center, including a new mobile health unit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "G7 releases oil to ease supply concerns; developing nations face debt, energy pressure.",
+      "summary": "G7 countries agreed to release 100 million barrels of diesel and crude oil to address global energy supply concerns, which have been exacerbated by Middle East conflicts and the war in Ukraine. This comes as energy prices surged in the Eurozone, driving inflation to a three-year high. Developing nations are particularly pressured by rising energy costs, the Super El Niño, and soaring borrowing costs, nearing conditions that previously led to debt payment suspensions.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "G7 nations agreed to release strategic oil reserves to stabilize global energy markets amidst surging prices and supply concerns."
+        },
+        {
+          "name": "Eurozone",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Energy prices surged in September, pushing inflation to 3.8%, the highest level in three years."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Global policymakers are expected to discuss challenges facing developing countries at upcoming IMF and World Bank meetings."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US voting rights protests intensify; Trump attacks media, far-right rises in Germany.",
+      "summary": "Protests erupted across several U.S. cities, calling on corporations to defend voting rights ahead of the 2026 midterm elections, amid concerns over challenges to mail-in voting and voter roll citizenship checks. Former President Trump continued to attack the media, labeling 'news as a threat to democracy' and banning outlets, while the rise of the far-right in Germany raised fears of broader crackdowns on migration.",
+      "regions": [
+        {
+          "name": "Culver City, USA",
+          "lat": 34.0211,
+          "lng": -118.3965,
+          "severity": "red",
+          "detail": "A march and demonstration called on major corporations to defend voting rights."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "red",
+          "detail": "Protesters marched to advocate for voting rights and corporate accountability."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "Events were scheduled as part of a nationwide 'Corporate Accountability Week of Action' for voting rights."
+        },
+        {
+          "name": "Washington, D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "Concerns intensified regarding mail-in voting and citizenship checks on voter rolls ahead of midterm elections."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "The rise of the far-right in the country generated fears of wider crackdowns on migration."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "UN allocates $160M for 12 crises; Gaza aid stalled; El Niño threatens food security.",
+      "summary": "The United Nations released $160 million in emergency funding to address severe humanitarian needs in 12 countries, including Afghanistan, Yemen, and the occupied Palestinian territory. Simultaneously, the World Health Organization decried persistent delays in getting crucial aid into Gaza, where the health situation remains dire with no fully functional hospitals. Furthermore, the intensifying El Niño phenomenon is expected to plunge an additional 49 million people into food insecurity by the end of 2027.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.4167,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "The WHO reported 'utterly dire' health conditions and chronic delays in humanitarian aid delivery."
+        },
+        {
+          "name": "Afghanistan",
+          "lat": 33.9391,
+          "lng": 67.7099,
+          "severity": "red",
+          "detail": "Received a significant portion of the UN's emergency humanitarian funding due to severe needs."
+        },
+        {
+          "name": "Al-Mahra, Yemen",
+          "lat": 17.5,
+          "lng": 51.5,
+          "severity": "yellow",
+          "detail": "The King Salman Humanitarian Aid and Relief Center inspected progress at a dialysis center, highlighting ongoing aid efforts."
+        },
+        {
+          "name": "Somalia",
+          "lat": 5.1521,
+          "lng": 46.1996,
+          "severity": "red",
+          "detail": "Among the 12 countries receiving UN emergency funding for life-saving assistance."
+        },
+        {
+          "name": "South Sudan",
+          "lat": 6.877,
+          "lng": 31.307,
+          "severity": "red",
+          "detail": "Received UN emergency funding to address severe humanitarian challenges."
+        },
+        {
+          "name": "Cuba",
+          "lat": 21.5218,
+          "lng": -77.7812,
+          "severity": "yellow",
+          "detail": "Included in the 12 countries receiving UN emergency humanitarian aid."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6wTBY5iYye0dki1Pb4izSTagLLh3h9RPsRw335gH3nqFnVcBa65Jz-y5xYDYyKbP_meVGh0FS6iqeQMSY2FIFEu092PikYd1gwQoAGS8k9zJF11nrreJpbOu0AX84KqZXNRiAvuQ_yJMHesbgExd8RRd3ME4fvIUGGDms3topt4-GT8S3zmM0JUtv5f3KMw3gP9I5S0NQNhZ0WYUs-Xn"
+        },
+        {
+          "title": "mofa.go.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5XifHA5-QgG1mn0FZxeLKnrquEP280H3n6d1VgyV4nDUrWvY1gnITa2EOmPshQStbDtei_RjN0vVuqP7UzzhFm0d-jJ7C2Dx1QhJhfyYvdqsugErLYKlGd4TD6RchKJgGBo5k8LCCEukKFEE89PVl6DAOiZqjQ2f"
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrfiJ087S51qHivFQwxr5QS4XwjOMAOMToa01MjyFolNSLqhEINJOxorZlJStZ6DUuWElLPPtRZ1ri4pjhZTcs2M6ePVxkwlkgIRQVJ1RvbeFdzuSQEIoCiSujufl-COaeMIblbl5f85datPu5U5IGeAm_VExLYrExb3L1ykahXt66kFkTSe0J5NSLHCqvw0VZM7euN3OJHnlCmts4rU-pxTZPhotAPFASFfu8tb-MQ=="
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYq-J_VQqBaWi6-yOkhJ1hQdRCtenYsNOsGNMsKx8v6Ib_Gu0JSxoQwPqN8Y0Vxg95Jv36-YILqqQg4-ghewSF6-N2rBIwSnt1TlvFJOU0uIsAHEV-iIx4eOlgjt03uwyJZuz_ZNWlA-MTd2MwSGMAj0KRzPVAP-a3YJib_ciuKDor207CRMcB9nlx7NGrewULkwewIVxzRcTRF7qKJrf08BEJxXhT1Q-I0H9WBWQU"
+        },
+        {
+          "title": "independent.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHs2_XH0zx57mMLHsQpW44bq1nU0BhK38vn5r10GRCTR2qQ4hRecy6_w3ojbetugQQf9HHIbUToUAGlUqWXw9N9TREBPaIFTurvjLNoPxl4kn3xG6xUx6HNrLCcYZkWXJHUGNfVu16N5T4vyqIf2RsKQrIFWSsCju7VyMZ1X6IevWe4pJGxT5au21kD2qadrwdwGOUyIslqJvxT-LClP_lZ12nVyD"
+        }
+      ]
+    }
+  }
+}
