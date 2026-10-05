@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-05",
+  "timestamp": 1791180615093,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple Global Conflicts See Intensified Fighting and Escalation",
+      "summary": "Today, renewed fighting was reported in Ethiopia's Tigray region as federal forces retook Mekelle, leading to fears of prolonged violence and a diplomatic rupture with Eritrea. In Yemen, the internationally recognized government launched a major military operation against Houthi rebels amidst ongoing Houthi attacks on Saudi oil facilities. Additionally, Russia continued its intensifying strike campaign against Ukrainian critical infrastructure, marking a brutal Fall-Winter 2026-2027 campaign.",
+      "regions": [
+        {
+          "name": "Mekelle, Ethiopia",
+          "lat": 13.496,
+          "lng": 39.475,
+          "severity": "red",
+          "detail": "Ethiopian federal forces and allied fighters retook Tigray's regional capital, reviving fears of prolonged conflict."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.006,
+          "lng": 38.763,
+          "severity": "yellow",
+          "detail": "Explosions were heard in parts of the capital, and diplomatic sources claimed drone strikes by an opposition alliance against military facilities."
+        },
+        {
+          "name": "Asmara, Eritrea",
+          "lat": 15.322,
+          "lng": 38.922,
+          "severity": "yellow",
+          "detail": "Eritrea severed diplomatic relations with Ethiopia following accusations of interference and the closure of Ethiopia's embassy."
+        },
+        {
+          "name": "Taiz, Yemen",
+          "lat": 13.578,
+          "lng": 44.021,
+          "severity": "red",
+          "detail": "Yemen's government announced a major military operation against Iran-backed Houthi rebels advancing on the city."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.689,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iranian Foreign Minister Abbas Araghchi warned of a 'much stronger' response against renewed military action while also expressing willingness for diplomacy."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.713,
+          "lng": 46.675,
+          "severity": "yellow",
+          "detail": "Houthi rebels claimed strikes using ballistic missiles and drones against an Aramco oil refinery."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.523,
+          "severity": "red",
+          "detail": "Russia intensified its strike campaign against critical infrastructure in Kyiv and other parts of Ukraine."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.755,
+          "lng": 37.617,
+          "severity": "yellow",
+          "detail": "The Russian Ministry of Defense presented its rhetorical framing to justify the brutal Fall-Winter 2026-2027 strike campaign against Ukrainian infrastructure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "ISIS Detainee Abuse Risks and AI Safety Concerns Highlighted",
+      "summary": "Human Rights Watch reported dire prospects for nearly 5,700 alleged ISIS-linked men and boys transferred to Iraq, facing risks of unfair trials and abuse, with many countries stalling on repatriation. Concurrently, the US administration appointed an AI czar to coordinate efforts on AI safety, while the New York City Council prepared for public testimony from major AI firms regarding potential dangers.",
+      "regions": [
+        {
+          "name": "Baghdad, Iraq",
+          "lat": 33.315,
+          "lng": 44.366,
+          "severity": "red",
+          "detail": "Nearly 5,700 alleged ISIS-linked men and boys transferred to Iraq face risks of abuse and unfair trials, with many countries stalling on repatriation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.907,
+          "lng": -77.037,
+          "severity": "yellow",
+          "detail": "U.S. President Donald Trump named Jay Clayton as the administration's artificial intelligence czar to coordinate government efforts on AI leadership and safety."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.713,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The City Council announced a hearing where major AI firms will publicly testify under oath regarding AI dangers and legislative solutions."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.966,
+          "lng": 32.583,
+          "severity": "yellow",
+          "detail": "Christian groups urged the Mozambican government to act on religious freedom, displacement, and sexual violence amidst an ongoing humanitarian crisis."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.756,
+          "lng": 100.501,
+          "severity": "yellow",
+          "detail": "The 8th UN Responsible Business and Human Rights Forum took place, highlighting Asia-Pacific's push for mandatory human rights due diligence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "El Niño Fuels Extreme Weather; UN Pre-COP Summit Underway",
+      "summary": "El Niño is driving extreme weather, with Tokyo experiencing a record 34 consecutive days of rain and Hurricane Rachel intensifying to a Category 3 storm off Mexico's Pacific coast. Meanwhile, a UN 'pre-COP' climate summit began in Fiji and Tuvalu, where Pacific leaders are highlighting the devastating impact of climate change, including the destruction of coral reefs.",
+      "regions": [
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.689,
+          "lng": 139.692,
+          "severity": "red",
+          "detail": "The city recorded 34 consecutive days of rainfall, its longest streak since 1886, attributed to El Niño."
+        },
+        {
+          "name": "Nadi, Fiji",
+          "lat": -17.801,
+          "lng": 177.382,
+          "severity": "yellow",
+          "detail": "The UN 'pre-COP' climate summit kicked off, focusing on the impacts of climate change on Pacific island nations."
+        },
+        {
+          "name": "Tuvalu",
+          "lat": -7.109,
+          "lng": 177.649,
+          "severity": "red",
+          "detail": "Leaders are visiting this low-lying atoll nation to witness firsthand the devastation caused by climate change, including the near-total destruction of coral reefs."
+        },
+        {
+          "name": "Pacific Coast, Mexico",
+          "lat": 23.634,
+          "lng": -102.553,
+          "severity": "yellow",
+          "detail": "Hurricane Rachel intensified into a Category 3 storm, illustrating El Niño's role in redistributing climate risks."
+        },
+        {
+          "name": "Boulder, Colorado, USA",
+          "lat": 40.015,
+          "lng": -105.271,
+          "severity": "yellow",
+          "detail": "The US Supreme Court began its new term with arguments in a lawsuit seeking to hold energy companies accountable for climate change effects."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Suspected Plague Outbreak in Siberia; Extreme Heat Health Risks",
+      "summary": "A lab worker in Siberia, Russia, died of suspected pneumonic plague, leading to the isolation of nearly 200 people under medical observation. Concurrently, the UN climate chief warned that extreme heat is increasingly putting pregnant women and newborns at risk, leading to complications like premature birth and stillbirth.",
+      "regions": [
+        {
+          "name": "Irkutsk, Siberia, Russia",
+          "lat": 52.287,
+          "lng": 104.291,
+          "severity": "red",
+          "detail": "A lab worker died of suspected pneumonic plague, prompting authorities to isolate nearly 200 contacts and quarantine medical facilities."
+        },
+        {
+          "name": "Nadi, Fiji",
+          "lat": -17.801,
+          "lng": 177.382,
+          "severity": "yellow",
+          "detail": "UN climate chief Simon Stiell warned that extreme heat is increasingly risking the health of pregnant women and newborns."
+        },
+        {
+          "name": "Chautauqua County, New York, USA",
+          "lat": 42.195,
+          "lng": -79.39,
+          "severity": "green",
+          "detail": "The Health Department alerted the community to potential measles exposures and scheduled immunization clinics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Markets Advance Amid US Economic Slowdown Concerns",
+      "summary": "Global stock markets advanced today, with Asian shares higher due to easing inflation worries and interest in AI-related stocks. However, signs of a slowing US economy have led to expectations of a Federal Reserve interest rate cut in December. The IMF is also releasing analytical chapters of its October 2026 World Economic Outlook, indicating global economic uncertainty and revised growth forecasts for various countries.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.907,
+          "lng": -77.037,
+          "severity": "yellow",
+          "detail": "The US Federal Reserve is expected to cut interest rates in December due to a slowing US economy, despite advancing global stocks."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.689,
+          "lng": 139.692,
+          "severity": "green",
+          "detail": "Japan's Nikkei 225 jumped 2.5%, reaching above 70,000 points for the first time in three months, driven by AI-related buying interest."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.878,
+          "severity": "green",
+          "detail": "Indian equity benchmarks were set to open higher, with GIFT Nifty futures indicating a positive start."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.756,
+          "lng": 100.501,
+          "severity": "yellow",
+          "detail": "The IMF is releasing analytical chapters of its October 2026 World Economic Outlook during its Annual Meetings, highlighting global economic uncertainty."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.352,
+          "lng": 103.819,
+          "severity": "yellow",
+          "detail": "AMRO raised its ASEAN+3 2027 growth forecast but anticipates higher inflation, despite less severe disruptions to energy supplies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Electoral Developments Globally Amidst Varying Concerns",
+      "summary": "Today saw several notable developments concerning democracy: Israel's Supreme Court overturned a ban on Arab parties in elections, while Thailand's Constitutional Court dismissed a challenge to its February 2026 general elections. In Latvia, the ruling United List alliance secured a historic election victory but with the lowest voter turnout since independence.",
+      "regions": [
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.768,
+          "lng": 35.214,
+          "severity": "green",
+          "detail": "The Supreme Court overturned the Central Elections Committee's ban on certain Arab parties participating in forthcoming elections."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.756,
+          "lng": 100.501,
+          "severity": "yellow",
+          "detail": "The Constitutional Court dismissed a petition challenging the general elections conducted in February 2026, finding ballot codes to be merely management tools."
+        },
+        {
+          "name": "Riga, Latvia",
+          "lat": 56.949,
+          "lng": 24.105,
+          "severity": "yellow",
+          "detail": "Latvia's ruling United List alliance secured a historic parliamentary election victory with 42 of 100 seats, but voter turnout was the lowest since independence."
+        },
+        {
+          "name": "Clayton County, Georgia, USA",
+          "lat": 33.525,
+          "lng": -84.341,
+          "severity": "green",
+          "detail": "The voter registration deadline for the November 3, 2026, General Election is approaching."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.907,
+          "lng": -77.037,
+          "severity": "yellow",
+          "detail": "The Supreme Court began its new term with significant cases on religious rights and President Trump's immigration crackdown."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Sudan Aid Trucks Seized; Crises Persist in Yemen and Mozambique",
+      "summary": "In a severe blow to aid efforts, a Sudanese official accused the Rapid Support Forces of seizing 32 World Food Programme aid trucks intended for famine-threatened civilians in North Darfur. Meanwhile, the war in Yemen continues to disrupt access to education for millions of children, and Mozambique is grappling with a serious humanitarian crisis driven by armed insurgency and displacement.",
+      "regions": [
+        {
+          "name": "North Darfur, Sudan",
+          "lat": 13.993,
+          "lng": 25.326,
+          "severity": "red",
+          "detail": "A Sudanese official accused the Rapid Support Forces of seizing 32 World Food Programme aid trucks, exacerbating famine risks."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.352,
+          "lng": 44.207,
+          "severity": "red",
+          "detail": "The ongoing war has disrupted access to education, leaving millions of children out of school and impacting their future."
+        },
+        {
+          "name": "Maputo, Mozambique",
+          "lat": -25.966,
+          "lng": 32.583,
+          "severity": "yellow",
+          "detail": "Mozambique continues to face a serious humanitarian crisis due to armed insurgency and displacement, particularly in its northern provinces."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.292,
+          "lng": 36.822,
+          "severity": "green",
+          "detail": "The King Salman Humanitarian Aid and Relief Center launched a volunteer medical program for pediatric open-heart surgery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8gr4pAEixEy-RLs0Clm58FoEGD8H1ZoHPWbYEillhpm7obiUqcwunHN64Hw3c__6MXxDj4ODfsTmmp9hmj2QXbq0_WZn7mcb0sZ94qQMNfWAEubfQwe6tEElFMkhKoieeUD1ZcwSc-0K5a4nevA9C9cOu0k0uJ05o9WivbC7F0MtrSvzqfy40uMAx-g3_pbV3YRycWfASmsswMrjYR3eXdm_MQWtZw2cJ3_kLpXGTv5diKRvOC_rSYiteAvgq-0ThdCV-qzIGvFFjrLhZRnh7_7kcEllUviy1e-yijnTK3MCZkLynp5x1hHf"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DL-qN0TAj-oFrsXYSEY990fLUut8NDWoWV4RidgPGBWLfLUs04ndVOtQtqUXHrGiupWKqXpExXeB7hJVWcLyKkdAnu1-9xg0NWkA7l1vbP8SguuyMfrQPy4jWHACi_g-JKpBSZy9aThHWx62VRYUrr5GqWK28x2GUrPO1pOE5IssB6XyWK-keZ8j2ofFvh-rfrQAp0r-XhKu8QyEmA8="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExEow7xQXkZmuEaIp45ls_LjwCOcMSGh_6pFsoLOCtlYJ5I-vLxvLbWKBUJPyzaGAS3G4rubWnE_eNafXOhy92yycflg0jRKisRFrtJjgZP3vCmZkxOjtclFEAyLApM3soF_ptcFHPP2uJ77vm9tZMWTSak0tgxa_Vu60njqOxW06Ej9XwTcytOc76IXCPw-jV0wCjzBJgbUbboYtERWdQx6o6yQ=="
+        },
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhGebDY21uqL_0d-BMgntC34ZJFicMb10ou-JkdggNmYXDXjsDbW71r0vFU5C5dSs8XDrzNGWU52eHDmVQv-lY4AX8Rh7onyaBG6Kyf7rZO6GP80UYZltNJDz4c-SawJdshNsRMHgnYNs7fqd7QhHOb0P4UG8sd3wHwVPZdOg3CgIWTCaDZPDk4hrB1W1V7A2l_l_ssQ5uZ-B-PFoZwINrwBkOYn7UZs9jlFuT5KngVxdeofrqpF8X5_80sgoULkp63XDzTALC3BLxibBZ-0="
+        },
+        {
+          "title": "mcigroup.my",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7u-RG5Vfbxwb83RCZ3TolJSN05_ncKJlNRaEpwU7gbHATGrKWCOdyNCyLz5FwYcwKKeOqLQTD5NuymrJbg5HJUg2jTtSdT3GRwo7LoFIWFS1Xtngq14CS02r6SWn-V1wJ6Gc7tYt72mj1xQya832uoLo-K8qO1VHdlCofeFl2cSChLHvNGcHcvFOLe7Jhhi8gk_BRdhRralgCXTG45WnQTqbhM-FljeQUZ5c="
+        }
+      ]
+    }
+  }
+}
