@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-09",
+  "timestamp": 1791525915381,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine, Gaza, Sudan, DRC see significant conflict and casualties.",
+      "summary": "Eastern Ukraine experienced a deadly Russian guided bomb attack in Kramatorsk, killing 30 people and wounding 18, prompting appeals for increased NATO defense support. In Gaza, a year after a ceasefire agreement, Israeli forces continue to kill Palestinians daily and restrict aid, with 1,400 deaths reported over the year and eight Palestinians killed on October 9 alone. Meanwhile, renewed fighting in the Democratic Republic of Congo has an African Union delegation working to save a ceasefire, and Sudan's conflict continues to cause tremendous humanitarian suffering.",
+      "regions": [
+        {
+          "name": "Kramatorsk, Ukraine",
+          "lat": 48.739,
+          "lng": 37.5849,
+          "severity": "red",
+          "detail": "A powerful Russian guided bomb explosion killed 30 people and wounded 18 near public buses."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Israeli forces killed eight Palestinians, including a child and two women, in drone strikes, shelling, and gunfire, continuing ceasefire violations."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The ongoing conflict in Sudan is highlighted for its tremendous humanitarian suffering, with African leaders calling for talks."
+        },
+        {
+          "name": "Goma, Democratic Republic of the Congo",
+          "lat": -1.6749,
+          "lng": 29.2272,
+          "severity": "yellow",
+          "detail": "An African Union delegation is working to salvage a ceasefire amidst renewed fighting in Masisi, near Goma."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "US President Donald Trump is reported to be 'waging a war against Iran,' reflecting ongoing significant tensions."
+        },
+        {
+          "name": "San Diego, USA",
+          "lat": 32.7157,
+          "lng": -117.1611,
+          "severity": "green",
+          "detail": "The USS Abraham Lincoln aircraft carrier returned home after a record deployment supporting Iran operations, highlighting the strain of prolonged military engagement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Violations persist globally; Venezuela indictments, Turkey crackdown, Gaza abuses.",
+      "summary": "Former Venezuelan President Nicolás Maduro and his wife, Cilia Flores, were indicted in New York on torture and other crimes committed during his presidency. Turkey's democratic erosion continues with politically motivated arrests and targeting of opposition mayors and officials, leading Freedom House to categorize the nation as 'not free' since 2018. In Gaza, over 100 organizations claim the ceasefire exists in name only, citing ongoing killings by Israeli forces and restrictions on aid, and reports emerged of Israeli forces assaulting Gaza prisoners in Ganot Prison.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Former Venezuelan President Nicolás Maduro and his wife, Cilia Flores, face new indictments for torture and other crimes."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "red",
+          "detail": "The former President and his wife were seized from their home in January to face charges, impacting the country's political landscape."
+        },
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "red",
+          "detail": "The government continues a crackdown on human rights and civil liberties, targeting opposition figures."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Humanitarian organizations report continued killings and aid restrictions by Israeli forces, with prisoners allegedly assaulted in Ganot Prison."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Over 1,400 migrants were deported to Myanmar, and over 50,000 refugees have been detained in 2026 amid ongoing raids."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "Migrants were deported here from Malaysia despite warnings of unsafe conditions for their return."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Trump administration's suspension of Microsoft from a green card program raised concerns about labor rights and discriminatory practices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "El Niño strengthens, Hurricane Isaias threatens Gulf Coast, Mediterranean shifts.",
+      "summary": "A strengthening El Niño event is forecast to drive sea-surface temperatures in the central and eastern tropical Pacific to record levels, increasing the global risk of drought and floods. Hurricane Isaias strengthened to Category 2 and is on a collision course with the U.S. Gulf Coast, threatening severe weather. The Mediterranean region is experiencing a poleward creep of the tropics, with measurable shifts in temperature, rainfall, and drought patterns.",
+      "regions": [
+        {
+          "name": "U.S. Gulf Coast, USA",
+          "lat": 29,
+          "lng": -90,
+          "severity": "red",
+          "detail": "Hurricane Isaias strengthened to a Category 2 and threatens the region with strong winds, heavy rains, and storm surges."
+        },
+        {
+          "name": "Mediterranean Sea",
+          "lat": 35,
+          "lng": 18,
+          "severity": "yellow",
+          "detail": "The region is undergoing a climate shift as the tropics expand poleward, leading to increased temperatures and decreased precipitation."
+        },
+        {
+          "name": "Eastern Tropical Pacific Ocean",
+          "lat": 0,
+          "lng": -120,
+          "severity": "red",
+          "detail": "Sea-surface temperatures are forecast to reach record levels due to a strengthening El Niño, impacting global weather patterns."
+        },
+        {
+          "name": "New South Wales, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "green",
+          "detail": "Australia's highest court blocked the expansion of a coal mine, citing its climate impact, a victory for climate litigation."
+        },
+        {
+          "name": "Southern U.S., USA",
+          "lat": 33,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "Drought conditions expanded to cover 89% of the South region in September 2026, the largest extent since October 2000."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Measles outbreak in US, health crisis in Gaza, food safety issues in Hawaii.",
+      "summary": "The U.S. is facing its worst measles outbreak in 35 years, with five related deaths reported in Pennsylvania in 2026, while the Health Secretary announced a new vaccine research center amidst criticism. In Gaza, over 18,500 patients require medical evacuation, and more than 1,000 have died waiting for care, with unsafe water contributing to disease spread. Additionally, a popular bake shop in Honolulu, Hawaii, was shut down due to significant food safety violations.",
+      "regions": [
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 40.979,
+          "lng": -77.6495,
+          "severity": "red",
+          "detail": "The state reported five measles-related deaths in 2026 as the US faces its worst outbreak in 35 years."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Health Secretary announced a new vaccine research center to study adverse effects, facing criticism from the WHO."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "A severe health crisis persists, with many patients needing evacuation and ongoing deaths due to lack of medical care and unsanitary conditions."
+        },
+        {
+          "name": "Honolulu, USA",
+          "lat": 21.3099,
+          "lng": -157.8581,
+          "severity": "red",
+          "detail": "A local bake shop received a red placard and was immediately shut down for multiple food safety violations."
+        },
+        {
+          "name": "Asheville, USA",
+          "lat": 35.5951,
+          "lng": -82.5515,
+          "severity": "yellow",
+          "detail": "Wildlife officials are dropping rabies vaccine baits in Western North Carolina following a significant rabies exposure earlier this summer."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Mixed global economic outlook; HK strong, Africa Energy Bank delayed.",
+      "summary": "Hong Kong leads the 2026 global economic freedom report, showcasing strong economic performance. The global travel and tourism sector is projected to grow by 2.5% in 2026, with Europe's sector notably outperforming the wider economy at 3.1% growth. However, the launch of the Africa Energy Bank has been delayed again due to global lenders' retreat from fossil fuel investments, posing challenges for the continent's energy sector.",
+      "regions": [
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "green",
+          "detail": "The city ranked first in the 2026 global economic freedom report."
+        },
+        {
+          "name": "Valletta, Malta",
+          "lat": 35.8989,
+          "lng": 14.5146,
+          "severity": "green",
+          "detail": "The WTTC Global Summit, held here, highlighted strong growth forecasts for Europe's travel and tourism sector."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "The delayed launch of the Africa Energy Bank raises doubts about financing fossil fuel projects amidst climate concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US consumer sentiment is low, and inflation expectations have risen, contributing to ongoing economic uncertainty."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "green",
+          "detail": "Honda announced the official name for its next-generation hybrid system, 'Honda Hybrid,' signaling investment in green technology."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy concerns in Turkey, Taiwan deadlock, and US political divisions.",
+      "summary": "Turkey continues to experience democratic erosion with politically motivated arrests and targeting of opposition figures, leading to its classification as 'not free' since 2018. Taiwan's high-quality democracy is facing a 'deadlocked' situation due to divided government and a constitution built for single-party rule, with Beijing closely observing. In the United States, the 2026 midterm elections are marked by deep public dissatisfaction, low presidential approval ratings, and heightened political polarization, as seen in a contentious Georgia Senate debate.",
+      "regions": [
+        {
+          "name": "Ankara, Turkey",
+          "lat": 39.9334,
+          "lng": 32.8597,
+          "severity": "red",
+          "detail": "The government's crackdown on human rights and civil liberties, including arrests of opposition mayors, signifies continued democratic erosion."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan's democracy is described as 'deadlocked' due to divided government, with high stakes given Beijing's observation."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "A Georgia U.S. Senate debate highlighted deep political divisions and accusations of extremism in the lead-up to the midterms."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Discussions emerged on how AI surveillance could threaten bureaucratic autonomy, a critical aspect of democratic checks and balances."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis worsens, Sudan suffering, migrant challenges in Malaysia/Myanmar.",
+      "summary": "Gaza faces a severe humanitarian crisis, with over 100 organizations reporting that the ceasefire 'exists in name only' due to ongoing Israeli actions and severe restrictions on aid, leaving nearly two million needing shelter and 1.4 million facing hunger. The conflict in Sudan continues to cause immense human suffering, drawing attention from Nobel Peace Prize discussions. Additionally, Malaysia deported over 1,400 migrants to unsafe conditions in Myanmar, and over 50,000 refugees have been detained in Malaysia in 2026.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Ongoing conflict and aid restrictions have left nearly two million needing shelter, 1.4 million facing hunger, and a devastated healthcare system."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The conflict here has resulted in tremendous humanitarian suffering, recognized in international discussions."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "red",
+          "detail": "Over 1,400 migrants were deported to Myanmar, and raids have led to over 50,000 refugee detentions this year."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "Migrants were deported here from Malaysia despite warnings that conditions in the country were unsafe."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "yellow",
+          "detail": "Restrictions by de facto authorities on female aid workers have created significant coverage gaps for humanitarian efforts."
+        },
+        {
+          "name": "Monrovia, Liberia",
+          "lat": 6.3,
+          "lng": -10.8,
+          "severity": "yellow",
+          "detail": "A trial is underway concerning the alleged misappropriation of Saudi-donated rice intended for vulnerable Liberians."
+        },
+        {
+          "name": "Mediterranean Sea",
+          "lat": 35,
+          "lng": 18,
+          "severity": "yellow",
+          "detail": "An NGO raised concerns about states' willingness to assist people on the move after a fatal incident in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tribtoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNM2_Vwm2RXJxZ7QJOW8WoNBBv9hQrgMm4NmF_pjBlnOtxoRR_53KNyAsvpdbOX_3UfmDv-dAFHSUqO8jeYUox69k8McklcdMZ4_uFSp-aKNCFQFQnxuSh0MliUIg0IDGHjkGcYvFATv1HAhxRQze6_SBKZhlr19whicY_TLHyeyFThLU2qiTyPHxIZlBoVsuEYCz88Z-Iuf01qk9H3UTHmU="
+        },
+        {
+          "title": "nrc.no",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Kkcnh8FiAgs-xAzNprDiiwGlAOqeK--DS9-w-sG4Z6pnOCWrZNluR9QDpYKN7CV-g-MttwByJoc0SfICYBSs-4e08_01e3iWkvTr87QtjNZPci8qwdMnl1dFoqcYu9cc-BGrMReOUPPnWJo3WXpcarzqt78BuiRKgj0clOvLSgRlL5gXVlX5cx1KfpyMfrZuPP8K5xkZzW7EohtK7mOmhfsK-2d6LJtNakI7i6HHWIKBbunDXRJnEoGicGCC0_FAK1HSt9WcoAEkk8rdQU_Hd_4q6iE2"
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7K6KdxSjv2PbwYnWaDBJqj2j5cbf_xPWH0wSJhaC7UoXKnnJlQtXuLQN5nEmaoIyIJnBArdMs6KPLHmuwDhw4qKFLKRkbrnCadJRxjzAMBNi6mA7DhkpbIRIeO2pFzD-XSnqmnD4Oq6DRdeotT_XSqTFqZ45Ssbr4_3DGslfI54vB4QfJ"
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGdqB3z3cFfaMMcp5JXE14_Uj6t1ZOY3WPRfX4guwgSwkY-1qvVtw45VHbAwz7b6dTe9KHn0pHq-8kbJsv11J3ddnG3DtTBOr4pYF0IbWUiFz_t5yhczjmJ6pq-lRGRB93I3tSc6lFV_veLM0AeeETaTHVw=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0Pit8rJ85e3kvjuPu6n180y1swixjNsdiiKS1JRmCSb5Y3AJL0WeNHuB0EfeKkyOZZK-mFfTkh88es787xO8YrDLxiOhG_fMv73iGzHVax51bYtptKv_xkWUbxdc3wAoXZyOwKbPpVBWjQ_qnClgor8XxZrYUUz_coAr3h0BV7_evU0="
+        }
+      ]
+    }
+  }
+}
