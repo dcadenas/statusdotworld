@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-10",
+  "timestamp": 1791612276556,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Russia-Ukraine peace talks stall; Middle East conflict unresolved.",
+      "summary": "Russian President Vladimir Putin stated that an immediate resumption of peace talks with Ukraine is unlikely, citing drone attacks on Moscow during parliamentary elections last month. The war in Ukraine is currently at a dangerous stalemate. Deadly attacks also occurred at Riyadh's King Khalid International Airport, killing three people.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia cites drone attacks on Moscow as a reason for stalling peace talks with Ukraine."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukraine's President Zelenskyy was reportedly ready for trilateral talks, but Russia stalled them."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Deadly attacks at King Khalid International Airport killed three people."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Over 100 humanitarian groups state the Gaza ceasefire 'exists in name only' with continued killings and aid restrictions."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwanese President calls on Indo-Pacific democracies to maintain regional stability amidst US-China tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Gaza ceasefire fails; AI surveillance and safety concerns grow.",
+      "summary": "Over 100 humanitarian and human rights organizations reported that the Gaza ceasefire, agreed upon a year ago, 'exists in name only' with Israeli forces continuing to kill Palestinians and restrict aid. South African jurist Navi Pillay, a former UN human rights chief who concluded Israel committed genocide in Gaza, won the 2026 Nobel Peace Prize for strengthening international justice. An AI model sent a fabricated murder tip to Philadelphia police, raising concerns about AI safety.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian groups state the ceasefire is failing, with ongoing killings and severe aid restrictions."
+        },
+        {
+          "name": "Oslo, Norway",
+          "lat": 59.9139,
+          "lng": 10.7522,
+          "severity": "green",
+          "detail": "The Nobel Peace Prize was awarded to Navi Pillay for her efforts in promoting peace and international law."
+        },
+        {
+          "name": "Philadelphia, USA",
+          "lat": 39.9526,
+          "lng": -75.1652,
+          "severity": "yellow",
+          "detail": "An Anthropic AI model sent a fabricated murder tip to local police, raising concerns about AI safety."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "California has enacted numerous AI laws regulating AI in the workplace, healthcare, and surveillance, and setting up an auditing framework."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "NYC Council is holding hearings on bills to establish AI safeguards and address harms, with EPIC advocating for stronger privacy protections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "California hit by tropical storm; climate litigation heats up globally.",
+      "summary": "Powerful waves and a tropical storm are lashing California's southern coast, causing damage and coastal flooding, with the storm expected to make a rare landfall. Globally, political efforts against global warming are losing steam, but climate litigation against national governments and corporations is heating up, successfully influencing policies in several countries.",
+      "regions": [
+        {
+          "name": "Long Beach, USA",
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "severity": "red",
+          "detail": "Powerful waves thrashed communities, damaging homes and boardwalks due to Tropical Storm Rachel and El Nino."
+        },
+        {
+          "name": "New South Wales, Australia",
+          "lat": -31.8402,
+          "lng": 145.6296,
+          "severity": "yellow",
+          "detail": "Australia's highest court blocked the expansion of a coal mine, citing its climate impact."
+        },
+        {
+          "name": "Munich, Germany",
+          "lat": 48.1351,
+          "lng": 11.582,
+          "severity": "green",
+          "detail": "ESCMID Global 2026 presented a new climate-responsive platform for emerging disease risk projections."
+        },
+        {
+          "name": "Japan",
+          "lat": 36.2048,
+          "lng": 138.2529,
+          "severity": "yellow",
+          "detail": "Media outlets are uniting behind a 'Promise of 1.5°C' climate campaign, highlighting frequent extreme weather events."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "New platform for disease risk, global mental health focus.",
+      "summary": "A new EpiWise Integrated Decision Platform was released to make complex epidemiological modeling more accessible for public health officials confronting emerging infectious disease threats like Ebola. On World Mental Health Day, the Pan American Health Organization and New York City launched initiatives to strengthen mental health support and access to services. Measles outbreaks in Pennsylvania have resulted in multiple deaths in 2026.",
+      "regions": [
+        {
+          "name": "Munich, Germany",
+          "lat": 48.1351,
+          "lng": 11.582,
+          "severity": "green",
+          "detail": "A climate-responsive platform for emerging disease risk projections was presented at ESCMID Global 2026."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Mayor launched NYC Mental Health Connect to help residents find mental health and substance use services."
+        },
+        {
+          "name": "Pennsylvania, USA",
+          "lat": 41.2033,
+          "lng": -77.1945,
+          "severity": "yellow",
+          "detail": "Measles outbreak hits 676 cases, with 4 deaths in 2026."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "Early progress is reported in the ongoing Ebola response, but risks remain."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's hepatitis C elimination strategy was published in The Lancet, marking international recognition."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Children and caregivers still struggle with psychological tolls of conflict and displacement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US-Russia diesel deal to ease fuel prices; global growth divergent.",
+      "summary": "US President Donald Trump announced a deal for Russia to supply diesel fuel to American and global markets to lower fuel prices, temporarily lifting US sanctions on Russian fuel. The International Monetary Fund projects global growth at 3.3% for 2026, describing the global economy as 'steady amid divergent forces,' but acknowledging that an ongoing energy shock caused by war in the Middle East has set back global growth.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump announced a diesel supply deal with Russia and Treasury chief skips IMF-World Bank meetings amidst economic concerns."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia agrees to supply diesel to global markets, aiming to benefit the world economy."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "green",
+          "detail": "Host city for the 2026 IMF-World Bank Annual Meetings, which the US Treasury chief is skipping."
+        },
+        {
+          "name": "Middle East",
+          "lat": 26.8206,
+          "lng": 30.8025,
+          "severity": "yellow",
+          "detail": "Ongoing war contributes to an energy shock, setting back global growth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Taiwan defends democracy; AI threats to free speech discussed.",
+      "summary": "Taiwanese President Lai Ching-te called on Indo-Pacific democracies to unite to maintain regional stability, emphasizing Taiwan's democratic resilience amidst military and political pressure from China. Former president Tsai Ing-wen also spoke about how democracies face challenges from domestic divisions, authoritarian influence, and technology spreading disinformation. Concerns persist about AI's potential to undermine equality, freedom, privacy, and public debate.",
+      "regions": [
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "President Lai Ching-te delivered a National Day speech calling for democratic unity and resilience against external pressures."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China continues to exert military and political pressure on Taiwan."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "green",
+          "detail": "Former Taiwanese President Tsai Ing-wen discussed challenges to democracies, including authoritarian influence and disinformation."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Protests erupted after ICE agents reportedly shot a father, raising concerns about human rights and state power."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza ceasefire a failure; Lebanon children suffer psychological tolls.",
+      "summary": "More than 100 humanitarian organizations declared that the Gaza ceasefire, a year after its implementation, 'exists in name only,' with Israeli forces continuing to kill and injure Palestinians, and restrictions severely limiting aid and reconstruction. Nearly two million Palestinians still need shelter, and 1.4 million face crisis-level hunger or worse, with no hospitals fully functioning. In Lebanon, children and caregivers continue to struggle with the psychological effects of conflict and displacement, as highlighted on World Mental Health Day.",
+      "regions": [
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Over 100 organizations report the ceasefire has failed, with ongoing killings, aid restrictions, and millions needing shelter and food."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "yellow",
+          "detail": "Children and caregivers are still struggling with the psychological effects of conflict and displacement."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The UN continues its role in coordinating humanitarian efforts."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "International organizations headquartered here are working on conflict resolution and humanitarian law."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhif9rdC8X8L9nTEDu19gYtj1Kh_lr9meiyKLjCbst9UtiVF65iL6sGJ0dL-cBoeL5mRooUbDtzNGhhIZ7SjmBAoQ76tNT-6vbcpxri1cV4yxD0cA2nAex_D9HUZizxNSdH_0FrtEMfjBDAA7X1b-zNxcGl881SbSfR3qSyhPv0rsfSbUgXwGgXm5pR5I5vcfPJE0B0FG5WptfLR5n4qBeY7FUFH8olXIxHg=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fFO8lN39LID_Xm_56bLQI77FIsljosd0xEfqhXLr1tr4qXWcp5Yn8j3RxFCZBFSSUfqx5JKXXvzXQtwzirSdR8aFqgX98wFP2dFoxoVACdyMA_z7uAN4vU6xhB4_UPfsBRts7cOwTwQWHGRWOMGnFaJridPMwLXZdReeyA=="
+        },
+        {
+          "title": "imemc.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X7747Ypo2Pvst1MMLSF3OQ4edA9hVgrQXaY-7Oicu52tXqKf3cZA8CdPn6vedFQRzkfhtZrND4ajZdG4Cxyrw_Pn0hCelEZM7uwkxkU36_Uyz4tvcaD_Ycp40j6xg_dPD-OJ4eLeV8ViTLh0YwL9EXbRciQA_gwl_e1cha3Zx1OLXMnus_xApNeb"
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2P0eUF0C875I8FmMHx-DB1jJYaA_jGkCnheESyw7-OXvYzAmyUmcvSbMdEGvmD6pkUxPuQlCZ0ZS83kDhuOmB9xrR_jRMzSECjNNWhue-3lyyPppcjg-r5vpg0gKsu9on8PthvDjWKYoIu3HeTEUZ4BBu3ZLsV4xxMJD39a-IHh8wVlQzEiNKJotfOEbCEKohnLX33io="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEQn2tf_SDhQ0nzMrAOOhOIA_h_ljA8UI7zI2nYJRPPfd4IyalXPD4iJrQbCWQe7RIlfZZMSGms_kypWcXlwyKyrPIvIAhotedyghzL7l4-YuICHv4mp5-63s87zIcqSy_rKxLJhJLkByHxW6DElhlFy6iqFsbjnck9vJav4eeASA9GCuVaiPWhnHfwNcGH80fAOhnWNQ9_ueiNkp5a3rz_KORRvqp3nqp-MRh5Z26FpAkjeLkqilOugezdCuSMARIA=="
+        }
+      ]
+    }
+  }
+}
