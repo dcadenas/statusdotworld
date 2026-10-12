@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-12",
+  "timestamp": 1791785392263,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Iran War, Gaza killings escalate; Riyadh airport attacked",
+      "summary": "The ongoing US-Iran war is causing a global energy shock and rising oil prices, with a recent projectile attack on Riyadh airport in Saudi Arabia claimed by Houthis. In Gaza, killings persist one year after a ceasefire announcement, resulting in over 1,400 Palestinian deaths and raising concerns about civilian targeting.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The US-Iran war continues, impacting global energy markets and raising oil prices."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "The airport was hit by a projectile, with Houthi rebels claiming responsibility."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Killings continue one year after a ceasefire, with over 1,400 Palestinians dead, raising civilian targeting concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US involvement in the Iran war and a deal to buy Russian diesel are affecting global dynamics."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "US President Trump's statements about the ongoing war with Russia drew attention."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "A survey reveals growing unease over US unpredictability and a potential Taiwan contingency."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi rebels claimed responsibility for attacks, contributing to regional instability."
+        },
+        {
+          "name": "Muscat, Oman",
+          "lat": 23.5859,
+          "lng": 58.4059,
+          "severity": "red",
+          "detail": "Two Indian sailors are missing after a vessel was attacked off the coast of Oman."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Burundi on HR Council despite abuses; US sanctions ICC; AI risks grow",
+      "summary": "Burundi is set to win re-election to the UN Human Rights Council despite not improving its abusive human rights conditions, drawing criticism from Human Rights Watch. The US has imposed sanctions on the International Criminal Court, an action Amnesty International describes as an attempt to undermine global justice. Meanwhile, Senegal has intensified its crackdown on LGBT people with mass arrests and increased prison terms, and growing concerns about AI safety include reports of AI agents exhibiting concerning behavior, leading to calls for increased regulation.",
+      "regions": [
+        {
+          "name": "Bujumbura, Burundi",
+          "lat": 3.3732,
+          "lng": 29.3629,
+          "severity": "red",
+          "detail": "The country is set to win a UN Human Rights Council seat despite ongoing human rights abuses."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US imposed sanctions on the International Criminal Court and continues an indefinite refugee ban."
+        },
+        {
+          "name": "Dakar, Senegal",
+          "lat": 14.7167,
+          "lng": -17.4677,
+          "severity": "red",
+          "detail": "An intensifying crackdown on LGBT people includes mass arrests and harsher penalties."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0787,
+          "lng": 4.2831,
+          "severity": "red",
+          "detail": "The International Criminal Court is under attack from US sanctions, threatening international justice."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK's AI minister called for increased AI safety efforts amid growing global concerns."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "UNHCR faces unprecedented weakness due to funding cuts and US policies impacting refugees globally."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "The government will seek court guidance on an asylum ruling and introduce a new registration system."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "India is consulting on its AI regulation roadmap, focusing on deepfakes and safety."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Record El Nino intensifies; Hurricanes hit US, threaten Mexico",
+      "summary": "An intensifying El Nino broke a temperature record in the Pacific in September, reaching an all-time high of 29.70C in a key monitoring region, raising concerns it could lead to new global temperature records in 2027. Hurricane Isaias made landfall in Florida, causing deaths, widespread power outages, storm surge, and flash flooding across the Gulf Coast and Southeast US. Additionally, Hurricane Simon strengthened to Category 4 and is threatening Mexico's west coast with life-threatening floods.",
+      "regions": [
+        {
+          "name": "Destin, Florida, USA",
+          "lat": 30.3935,
+          "lng": -86.495,
+          "severity": "red",
+          "detail": "Hurricane Isaias made landfall as a Category 2 storm, causing deaths and widespread damage."
+        },
+        {
+          "name": "Birmingham, Alabama, USA",
+          "lat": 33.5207,
+          "lng": -86.8025,
+          "severity": "red",
+          "detail": "The region sustained significant impact from Hurricane Isaias, including power outages and flash flooding."
+        },
+        {
+          "name": "Mexico City, Mexico",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "severity": "red",
+          "detail": "Hurricane Simon, a Category 4 storm, threatens Mexico's west coast with life-threatening floods and mudslides."
+        },
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "yellow",
+          "detail": "Dozens of aftershocks rattled the city after a powerful magnitude 7.7 earthquake."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "The EU's climate monitor reported record-breaking El Nino temperatures in the Pacific."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU plans to push for a 'mitigation package' at COP31 to accelerate CO2 cuts."
+        },
+        {
+          "name": "Jackson, Mississippi, USA",
+          "lat": 32.3023,
+          "lng": -90.2163,
+          "severity": "yellow",
+          "detail": "The state declared Fall Severe Weather Preparedness Week due to the risk of severe weather."
+        },
+        {
+          "name": "Los Angeles, California, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "Tropical Storm Rachel is bringing high tides and surf to the California coastline."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Measles at 30-year high in US; Ebola outbreak continues; Plague case in Russia",
+      "summary": "The United States is experiencing a 30-year high in measles cases, with over 4,000 infections this year, prompting New York to declare a disaster emergency and raising concerns about the US losing its measles elimination status. The Ebola (Bundibugyo virus) outbreak in the Democratic Republic of Congo remains a public health emergency, with over 8,600 confirmed cases and 4,100 deaths, and has seen cases imported to Europe and Kenya. Additionally, a suspected fatal case of pneumonic plague was reported in the Irkutsk region of Russia.",
+      "regions": [
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "A disaster emergency was declared due to a severe measles resurgence."
+        },
+        {
+          "name": "Lancaster County, Pennsylvania, USA",
+          "lat": 40.0381,
+          "lng": -76.3073,
+          "severity": "red",
+          "detail": "This region is a hotspot for the measles outbreak, reporting over 1,000 infections and five deaths."
+        },
+        {
+          "name": "Kinshasa, DRC",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The Ebola outbreak, declared a public health emergency, continues with over 8,600 cases."
+        },
+        {
+          "name": "Irkutsk, Russia",
+          "lat": 52.2869,
+          "lng": 104.2907,
+          "severity": "red",
+          "detail": "A suspected fatal case of pneumonic plague was reported in the region."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "red",
+          "detail": "The Ebola outbreak, first declared in DRC and Uganda, continues to be a concern."
+        },
+        {
+          "name": "Leiden, Netherlands",
+          "lat": 52.1601,
+          "lng": 4.497,
+          "severity": "yellow",
+          "detail": "A confirmed Bundibugyo virus disease (BVD) case, imported from DRC, is being treated here."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "The first confirmed case of BVD imported from DRC was reported in Kenya."
+        },
+        {
+          "name": "Boston, Massachusetts, USA",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "A multistate hepatitis A outbreak linked to imported clams, which affected Massachusetts, is now closed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF/World Bank tackle energy shock, AI boom; Markets mixed",
+      "summary": "The IMF and World Bank annual meetings in Bangkok are addressing a global economy buffeted by the US-Iran war's energy shock, rising debt pressures, and the AI boom. While AI investment is helping sustain global economic growth near 3%, stock markets are showing mixed signals, with US equities rising to record highs despite inflation, but Indian markets slipping into the red.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Hosting the IMF and World Bank annual meetings, focusing on global economic challenges."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US equity markets posted weekly gains to record highs despite persistent inflation pressures."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "yellow",
+          "detail": "Indian stock markets opened higher but later slipped into the red, with crude oil prices falling."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The ongoing US-Iran war is a major factor in the global energy shock and rising oil prices."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "Asian shares were mixed, with South Korea's Kospi experiencing significant losses."
+        },
+        {
+          "name": "Shanghai, China",
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "severity": "yellow",
+          "detail": "Asian markets showed mixed performance, with the Shanghai Composite index slipping."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "The S&P/ASX 200 surged, contributing to mixed Asian market performance."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan's Taiex gave up ground, reflecting the mixed trend in Asian markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Pakistan faces political instability; US voter investigations; Japan concerned by Trump",
+      "summary": "Pakistan is experiencing significant political instability due to ongoing conflicts between the government and opposition, leading to an emergency declaration in one province and concerns about economic impact and democratic erosion. In the US, investigations into voter-supporting organizations raise questions about electoral processes. A survey in Japan indicates widespread public unease over the unpredictability and perceived negative global impact of US President Donald Trump.",
+      "regions": [
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "The capital is at the center of ongoing political instability, with the government and opposition at odds."
+        },
+        {
+          "name": "Peshawar, Pakistan",
+          "lat": 34,
+          "lng": 71.5,
+          "severity": "red",
+          "detail": "Khyber Pakhtunkhwa province is under federal control after an emergency declaration amidst political confrontation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The administration is investigating over 150 voter-supporting organizations for alleged fraud."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "A survey showed significant public concern over US President Trump's global impact and unpredictability."
+        },
+        {
+          "name": "Arusha, Tanzania",
+          "lat": -3.386,
+          "lng": 36.683,
+          "severity": "green",
+          "detail": "Zimbabwe's Parliament addressed the Inter-Parliamentary Union Assembly on strengthening governance and peace."
+        },
+        {
+          "name": "Harare, Zimbabwe",
+          "lat": -17.8252,
+          "lng": 31.053,
+          "severity": "green",
+          "detail": "Zimbabwe pledged commitment to strengthening the UN's role in international peace and security."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "UNHCR faces crisis amid funding cuts; US refugee ban continues; South Africa migrant violence",
+      "summary": "The UN Refugee Agency (UNHCR) faces an unprecedented weakness due to substantial funding cuts and efforts by the US administration to dismantle the 1951 UN Refugee Convention and maintain an indefinite refugee ban. In South Africa, anti-migrant violence has erupted in Durban and Johannesburg, resulting in torched vehicles and looted shops, leading to the withdrawal of an asylum directive. Meanwhile, ongoing killings in Gaza continue to cause recurrent displacement and severe humanitarian suffering.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "UNHCR is facing an unprecedented weakness due to significant funding cuts from major donors."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The administration's indefinite refugee ban and targeting of resettled refugees continue to raise concerns."
+        },
+        {
+          "name": "Durban, South Africa",
+          "lat": -29.8587,
+          "lng": 31.0218,
+          "severity": "red",
+          "detail": "Anti-migrant violence, including torched vehicles and looted shops, has erupted in the city."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "red",
+          "detail": "The city experienced anti-migrant violence, including torched vehicles and looted shops."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "Ongoing killings despite a ceasefire continue to cause recurrent displacement and severe humanitarian suffering."
+        },
+        {
+          "name": "Pretoria, South Africa",
+          "lat": -25.7479,
+          "lng": 28.2293,
+          "severity": "yellow",
+          "detail": "The government will seek court guidance on an asylum ruling and introduce a registration system."
+        },
+        {
+          "name": "Minneapolis, Minnesota, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "yellow",
+          "detail": "Documents confirmed 'Operation PARRIS' targeting refugees in Minnesota, raising fears of mass revetting."
+        }
+      ],
+      "sources": [
+        {
+          "title": "malaymail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX3c6NlAWs1K6wF0NORXRox0y7rZYxmkNmPz3g4dQ97gkdWN_juCgsx6JJ1RtkGY9RZeFNLwEAO7eKkR79E4AtIN9qzoqH0lGuCqXTK5tCdplCXq4W9V9aNDiyvUhTeyTLoLhh2KNOvgGL-SGSIIYeSxewDGdSywxf2C_o_GSeMWzWbXWb0GjuWn2negqjhw9KNMar86Oit06UToHDVNGxsazr1sRU3sWs_EiwvWbDVWznY_cbVGQkJoLOuM3iSizQPg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZGAka60clI0UfirEaeTmDXM0Bn4xJxiQ6u7i40lqrI5GNPaVlm874CTLySPMniAytCpP5bTxkG3bDJSh1lOef4iXi3MJVSSWNiODFWeaIZxWL_V45aP_nXHOiK0ENZWgv0XQKoqECbtEoEwN9bHg1ZIA3vBgz7e_jlraahjB0SIvJGLiWCz5z9_Db11BlaXR34AF-Ga7SWoYwPxDYSVRY_xscCuoxYPQpZlxMUXjUecXOLC6K3K7VuKqsfBQPZTh0eRAXR_L"
+        },
+        {
+          "title": "cyprus-mail.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWsE8SySgFM7LPx6yvIxZ3DPpeY1AX7sDgp88yynFkvOaTV6UbqbW3chKz55tHyfTgm0v-gsbcIIuCB5AbSB-2zN0TlC0JQCDFko7P9-0PS2HFw6iqfVVco9A6lvlVtmyjnawK3_Ykf757leukz7ZLfcLbM4RP-MHohZP9UPnK6pbHReXBWKqkZOIf2P8ESCDmToZI48="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcI1em3cxnWC9N65sSm1o4TXQT3uCZajBLfB0pBCS3jqWGPA1dpUcuAMdc0X1RgyK2U4EaXf0wU0e2_Q1mazbFhz5wqux5UKkyQd_c75qgghU05oDLx8BJjIkEOoTB1DymD6_kP_KIyrJHAdSx3i28phL2bqGM42gSwNXDw3gADBd0dSiAyS-wEWXE3oYEM1f1g7-RVZMvDE2wUW2ywXrRw=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiJx0yQeRXdaFZwzMnZo14suiwZr5sAgbvPrfuP122VVhX4uCuoUpCXuggQJc2iOBtwlaSnVVofzm4ABWtvr7gmpDL6PjskMK99tb8edUgvLJgfHOzXlz5zAuuIU-_ygr3I1L5D89h1CV1Pq5kQhBDLhHLGv2Nj4SJzbGN4UemFIshlyDlOyxVtBQ-Zkilp1E3ypF7hDPY0tYYJe4nM3rEryMU-6_bWpy7YEi0izH6bvAp3oO6AH_GERZFDiSd_NBW_6je-lLrmwL0_wV0uZmRApQpykEbcg=="
+        }
+      ]
+    }
+  }
+}
