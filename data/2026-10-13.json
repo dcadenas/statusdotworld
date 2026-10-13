@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-13",
+  "timestamp": 1791871611705,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Ukraine conflict continues; Middle East war impacts global economy.",
+      "summary": "On October 13, 2026, the conflict in Ukraine saw continued Russian military action and casualties, with discussions around a proposed ceasefire on energy infrastructure that Russia has not fully honored. Meanwhile, the ongoing Middle East conflict continued to exert an influence on the global economy, notably affecting oil prices.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "A Russian strike on a 25-storey apartment building killed two people and injured at least nine."
+        },
+        {
+          "name": "Kharkiv, Ukraine",
+          "lat": 49.9935,
+          "lng": 36.2304,
+          "severity": "red",
+          "detail": "Russian forces struck Naftogaz's gas production infrastructure, and serious shelling of city districts injured five people."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Donald Trump downplayed questions over Russian strikes and insisted on a ceasefire, despite lack of full confirmation from both governments."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia continues its military operations in Ukraine, with its Deputy Prime Minister claiming diesel exports could return to past levels after a Trump deal."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU announced its largest single round of sanctions, adding 1,569 individuals and entities linked to Russia's military-industrial complex."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Activist crackdowns, re-election of abusive state to UN rights council.",
+      "summary": "Türkiye faced criticism from Human Rights Watch for arbitrary arrests and prosecution of environmental activists ahead of COP31. Burundi was set for re-election to the UN Human Rights Council without competition, despite documented human rights abuses. Concerns were also raised in Queensland, Australia, over proposed laws bypassing human rights assessments for prison officers.",
+      "regions": [
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported arbitrary arrests and prosecution of environmental and other activists, part of a wider crackdown on civic space."
+        },
+        {
+          "name": "Bujumbura, Burundi",
+          "lat": -3.3722,
+          "lng": 29.3622,
+          "severity": "yellow",
+          "detail": "Burundi was set to be re-elected to the UN Human Rights Council without competition, despite a lack of improvement in its abusive human rights conditions."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "yellow",
+          "detail": "New laws introduced in Queensland would allow prison officers to bypass human rights assessments, drawing condemnation from human rights groups."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "green",
+          "detail": "Bangladesh Police is stepping up training on human rights, professional ethics, and use of force to improve accountability."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Events were held across the world on World Day Against the Death Penalty, drawing attention to executions in Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "\"Super El Niño\" fuels global extreme weather, causing fires and floods.",
+      "summary": "A \"Super El Niño\" was intensifying, causing widespread extreme weather events globally, including record sea-surface temperatures. This led to forest fires and haze crises in Southeast Asia and Brazil, heatwaves in Myanmar, and floods in Thailand and parts of the US, while Mexico was impacted by deadly hurricanes.",
+      "regions": [
+        {
+          "name": "Manaus, Brazil",
+          "lat": -3.119,
+          "lng": -60.0217,
+          "severity": "red",
+          "detail": "Haze from forest fires, nearly four times more frequent than the previous year, blanketed the city, leading to school closures."
+        },
+        {
+          "name": "Palangkaraya, Indonesia",
+          "lat": -2.2151,
+          "lng": 113.9149,
+          "severity": "red",
+          "detail": "Strong drought associated with El Niño led to ongoing forest fires in Borneo, causing regional haze."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "yellow",
+          "detail": "Myanmar warned of power outages due to an unseasonal heatwave blamed on El Niño, straining the electricity grid."
+        },
+        {
+          "name": "Puerto Vallarta, Mexico",
+          "lat": 20.6534,
+          "lng": -105.2253,
+          "severity": "red",
+          "detail": "Hurricane Simon and Tropical Storm Rachel caused five deaths and widespread damage along Mexico's Pacific coast."
+        },
+        {
+          "name": "Las Vegas, USA",
+          "lat": 36.1699,
+          "lng": -115.1398,
+          "severity": "yellow",
+          "detail": "The remnants of Tropical Storm Rachel caused severe flooding, with the city tying an all-time daily rainfall record for October."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Thailand experienced floods that had claimed 71 lives since mid-September, an impact of the strong El Niño."
+        },
+        {
+          "name": "Funafuti, Tuvalu",
+          "lat": -8.61,
+          "lng": 179.22,
+          "severity": "red",
+          "detail": "Pacific leaders issued The Taku Pakasoa Declaration, calling for urgent global action on climate change as their islands face existential threats."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "A climate protester interrupted the New South Wales parliament, criticizing the government's inaction on the climate crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "WHO welcomes UN declaration on pandemic preparedness.",
+      "summary": "The World Health Organization welcomed the adoption of a United Nations political declaration on pandemic prevention, preparedness, and response, aimed at strengthening global health security and ensuring a more equitable and coordinated response to future threats. There were no reports of new major global disease outbreaks on this date.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization (WHO) headquartered here, welcomed a new UN declaration to enhance global pandemic preparedness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF upgrades growth forecast but warns of risks from debt, AI, and conflict.",
+      "summary": "The International Monetary Fund (IMF) slightly upgraded its 2026 global growth forecast to 3.1% but issued warnings about rising risks from debt, potential AI market corrections, and the ongoing Middle East conflict. Global inflation is projected to rise to 4.7% this year, primarily due to higher commodity prices. Separately, global smartphone shipments experienced a 20% decline to a 14-year low in Q3 2026, primarily due to a squeeze on memory chips.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "green",
+          "detail": "The IMF and World Bank held their fall meetings, where the IMF released its updated World Economic Outlook."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve is expected to cut interest rates due to a slowing job market, while the US economy shows signs of slowing retail sales."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China's economy is expected to expand 4.5% this year, down from 5% in 2025."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India is forecast to be the world's fastest-growing major economy, advancing at a 7% clip in 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "India faces protests over voter list changes; Burundi re-elected to UN rights council.",
+      "summary": "In India, mass protests erupted in New Delhi over controversial revisions to voter lists, with opposition parties demanding the resignation of the chief election commissioner amidst allegations of manipulation. Additionally, Burundi was poised for re-election to the UN Human Rights Council without competition, raising concerns about the integrity of the election process given its poor human rights record.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Thousands of opposition demonstrators marched to the Supreme Court protesting voter list revisions, which critics claim benefit the ruling party."
+        },
+        {
+          "name": "Bujumbura, Burundi",
+          "lat": -3.3722,
+          "lng": 29.3622,
+          "severity": "yellow",
+          "detail": "Burundi's uncontested re-election to the UN Human Rights Council despite ongoing human rights abuses raises concerns about democratic accountability in the region."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Analysts noted Russia is exploiting Ukraine's wartime inability to hold elections to influence peace negotiations and prolong the conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Panama earthquake sparks major aid needs; UNHCR faces critical funding shortage.",
+      "summary": "Following a 7.5-magnitude earthquake on October 9, UNICEF estimated 38,000 people, including 8,300 children, were in need of humanitarian assistance in Panama due to damaged homes, schools, and infrastructure. Simultaneously, the UNHCR warned of a severe global funding shortage for its humanitarian missions, having secured only 35% of its required 2026 budget, leading to drastic financial cuts and staff reductions.",
+      "regions": [
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "red",
+          "detail": "A recent 7.5-magnitude earthquake left 38,000 people, including 8,300 children, in need of humanitarian assistance."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UNHCR warned of a severe funding shortage, having secured only 35% of its 2026 budget, forcing cuts to humanitarian missions globally."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "The government announced plans to register 26,000 refugees by end of 2027 and is considering allowing them to work in sectors with labor shortages."
+        },
+        {
+          "name": "Charlotte, North Carolina, USA",
+          "lat": 35.2271,
+          "lng": -80.8431,
+          "severity": "green",
+          "detail": "USCIS opened a new asylum office to handle asylum applications for residents of North and South Carolina."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmdEyK0Grs-BhUPDs9ZcJIlUgLRx4uGS3qYGF0ElJPjTHsattu5jzlm7HqrocR20R3QCsG45mhx-Jz150k0EDpurreffitrqxjhdvBCmXDsEquXuiDptElRjaDZwizpfW44C-socsYtr0D2v4vwkhVQ7YdBOVoQL3jLBg-tahnGpmpoQ=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDzIUmOQSMkjdQwplb1Uh9dnQdaqKiuAIUmu4ssQ9n6YtjcSzxYLEc8EtXuDeSwr5Z23Rpggo2bfC1cO6Ou2Bjc_37ObXSXa7O4IqK589qbabLU2eActsYf3KjQQK7gDlZnTVG0W0nMnqvMZc4r4jhDqtfJJF1Kes32crNCARPs9eMX5XP03NLhRXvlCIayM9tC6Rmb6gYFgeBorF7th_fiC9ZJh7akMDCw=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdI24gjjaHasB4NQkbEU35VyvgmD2v9ea5NO69hGY1gkkop1nbjO4CIUmG1FyUxDkxQLPa494ECSqmaBJvFxBeIG71g9f1sRMaB5T5acqIhJoiruxn2JwcK-DXIxGfJYZ6gNXY2Bhh5_8sW7zTk2n6RY08CUapfJnDAab5-4I3qO1P9guhVKX_0SPgPwmI83mqPntNUO_bg8y8oC6m32O_dIInSa925PKYIRDpxeYqIqDgbB5Gpwg74MbhsLoc3dnPFkV43JqEwtBLPFJ_8aFj"
+        },
+        {
+          "title": "rbc.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG47aS-Lbt6dv9TXtbObZ4DpgfEY8MRpjtWdYuKa_SH_C4OCtujMY8lHqcAzEa1PB6o_o9l8fx_iMmuq9zfWvXnMIZVPKcVsti8mDNy2eRfmWudjR45LW63tRLsww8zO7Ka7QCICOvpkTh4erR_yrIJaR55YsBFa_t9av3cpHMHJWdQE65LaWIesMmmjHTZVgXPkTA="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYUL63hnWrYABL4qDfWK_7VLKy7tyz5NdfbgRdBQNm9SFrGnJBTGztYuUX4hvvjBcY5oqE3ay2ZMezyKuYsHG5sJ6WLmeSkUD2mFVHzb3iW6e_H37FxrvjcWIRYG5ZmxVTGdptos="
+        }
+      ]
+    }
+  }
+}
