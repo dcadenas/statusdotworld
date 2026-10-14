@@ -1,0 +1,412 @@
+{
+  "date": "2026-10-14",
+  "timestamp": 1791957894984,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Yemen conflict escalates; Ukraine and Gaza tensions persist.",
+      "summary": "Saudi-led coalition strikes intensified in Yemen's Houthi-held capital Sanaa, causing explosions and prompting civilian evacuations. Meanwhile, claims of an 'energy ceasefire' between Ukraine and Russia were contradicted by continued Russian targeting of Ukraine's power grid. In Gaza, US-led reconstruction plans are being prepared amidst an 'enormous gap' with Hamas's actual conduct, one year after a ceasefire.",
+      "regions": [
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Saudi-led coalition strikes hit the Houthi-held capital, triggering powerful explosions and civilian evacuation orders."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian authorities reported continued Russian targeting of the power grid, despite US claims of an 'energy ceasefire'."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "yellow",
+          "detail": "US officials are preparing for weapon handover surveys in Gaza, highlighting a gap between peace plans and local realities."
+        },
+        {
+          "name": "Strait of Hormuz, Middle East",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Geopolitical conflicts in the Middle East, including the US-Iran-Israel conflict, led to the Strait's closure earlier this year, impacting global oil trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN Human Rights Council election criticized; India rejects scrutiny.",
+      "summary": "Human rights groups sharply criticized the uncontested election of 15 members to the UN Human Rights body, arguing that countries with poor rights records secured seats, making a 'mockery of the word 'election''. India expressed strong objection to a UN report referencing it and urged human rights mechanisms to avoid 'politicisation'.",
+      "regions": [
+        {
+          "name": "New York, USA (UN Headquarters)",
+          "lat": 40.7488,
+          "lng": -73.968,
+          "severity": "yellow",
+          "detail": "The uncontested election of 15 members to the UN Human Rights Council was criticized by rights groups for allowing countries with poor records to win seats."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India urged UN human rights mechanisms to avoid politicisation and rejected external scrutiny of its internal affairs."
+        },
+        {
+          "name": "Brasilia, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Human Rights Watch highlighted that Brazil needs to investigate and curb police abuse, despite its election to the UNHRC."
+        },
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0787,
+          "lng": 4.2887,
+          "severity": "yellow",
+          "detail": "Nobel Peace Prize laureate Navi Pillay urged the US to resume its role as a human rights defender, criticizing its campaign against the ICC."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Pacific faces centuries of warming; Nepal devastated by floods.",
+      "summary": "New research indicates the Pacific Ocean could experience global warming effects for centuries, potentially causing persistent El Niño-like conditions, even after net-zero emissions. Meanwhile, Nepal is still grappling with the aftermath of August 2026 floods that killed over 1,400 people and caused billions in damage. Global climate finance efforts are significantly behind targets, further hindering adaptation and mitigation.",
+      "regions": [
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "The country is recovering from extensive August 2026 floods that killed over 1,400 people and caused an estimated $2.7 billion in damages."
+        },
+        {
+          "name": "Tropical Pacific Ocean",
+          "lat": 0,
+          "lng": 180,
+          "severity": "red",
+          "detail": "A study found the region could experience global warming effects for centuries, leading to persistent El Niño-like conditions."
+        },
+        {
+          "name": "Phoenix, Arizona, USA",
+          "lat": 33.4484,
+          "lng": -112.074,
+          "severity": "yellow",
+          "detail": "Southern California is experiencing an October heatwave, with faith-based groups working to mitigate El Niño effects."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The World Bank dropped its 45% climate finance target under pressure from the US administration, impacting global climate efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "DRC Ebola outbreak surpasses 9,000 cases; Florida battles dengue.",
+      "summary": "The Democratic Republic of Congo is facing its worst Ebola outbreak, with over 9,000 cases and 4,000 deaths since early October, spreading across seven provinces. In the US, Hillsborough County, Florida, is conducting aerial mosquito treatments due to dengue fever virus activity, highlighting an active local public health threat.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country is experiencing its worst Ebola outbreak, with over 9,000 cases and 4,000 deaths reported, spreading across several provinces."
+        },
+        {
+          "name": "Hillsborough County, Florida, USA",
+          "lat": 27.9901,
+          "lng": -82.3507,
+          "severity": "red",
+          "detail": "Aerial insecticide applications are underway to combat dengue fever virus activity in the mosquito population."
+        },
+        {
+          "name": "Winnipeg, Manitoba, Canada",
+          "lat": 49.8954,
+          "lng": -97.1385,
+          "severity": "green",
+          "detail": "The Canadian government announced support for international medical graduates to boost the healthcare system and access to care."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "green",
+          "detail": "The Vatican announced Pope Leo XIV had successful surgery for lung cancer, with no complications reported."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF raises growth forecast but warns of AI risks, debt, and energy shock.",
+      "summary": "The IMF slightly upgraded its 2026 global growth forecast to 3.1% but issued warnings about increasing risks from rising debt and the 'financial frenzy' around artificial intelligence, whose benefits are unevenly distributed. An 'energy shock' stemming from the US-Iran-Israel conflict and the closure of the Strait of Hormuz has contributed to higher oil prices and stalled disinflation.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The IMF and World Bank meetings highlighted upgraded global growth forecasts but also warned of risks from debt and AI."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Singapore's economy grew over 5% in the most recent quarter, driven by an AI-fueled boom in the semiconductor sector."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Energy-importing economies face difficult combinations of higher import costs and exchange rate pressures due to global energy shocks."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "IMF chief warned that attacks on Saudi Arabia could have negative economic spillover 'everywhere' due to conflict in the energy-rich region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "UN rights election sparks criticism; US Democrats plan agenda.",
+      "summary": "The uncontested election of 15 members to the UN Human Rights Council, including countries with poor human rights records, drew sharp criticism from rights groups. In the United States, House Democrats are preparing an ambitious 100-day agenda if they win midterm elections, aiming to address affordability and conduct oversight of the Trump administration, amid ongoing debates about the power balance between executive and legislative branches.",
+      "regions": [
+        {
+          "name": "New York, USA (UN Headquarters)",
+          "lat": 40.7488,
+          "lng": -73.968,
+          "severity": "yellow",
+          "detail": "Human rights groups criticized the uncontested election of UNHRC members, noting a 'mockery of the word election'."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "House Democrats are preparing an agenda for potential majority control, focusing on policy and oversight amidst discussions on checks and balances."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Protesters claimed India's democracy is 'rotten' due to government actions like voter roll purges and arrests."
+        },
+        {
+          "name": "Johannesburg, South Africa",
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "severity": "yellow",
+          "detail": "International IDEA is briefing SADC parliamentarians on the Global State of Democracy report findings, addressing democratic challenges in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Panama earthquake survivors need aid; Sudan faces hunger crisis.",
+      "summary": "A recent 7.5-magnitude earthquake in Panama left 38,000 people, including 8,300 children, in need of humanitarian assistance, with widespread damage and ongoing aftershocks. Sudan is grappling with a severe humanitarian crisis, with 33.7 million people requiring aid and 19.5 million facing acute hunger, alongside critical shortages for returning displaced populations. In Gaza, humanitarian aid distribution faces significant funding shortfalls.",
+      "regions": [
+        {
+          "name": "Panama City, Panama",
+          "lat": 8.9824,
+          "lng": -79.5199,
+          "severity": "red",
+          "detail": "An earthquake on October 9 left 38,000 people, including 8,300 children, in need of humanitarian assistance."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5596,
+          "severity": "red",
+          "detail": "Sudan faces a severe humanitarian crisis with 33.7 million people needing aid and 19.5 million acutely hungry, compounded by infrastructure destruction."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.466,
+          "severity": "red",
+          "detail": "Funding shortfalls are significantly reducing food aid and other essential distributions for the population."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Following devastating floods in August, government support for Nepal is being debated, indicating ongoing recovery and aid needs."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The worst Ebola outbreak, with over 9,000 cases and 4,000 deaths, demands urgent humanitarian health interventions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyUT4pwxr7xCpKGQNrF6DbrA0fyDDnoYjA2DRHoKntk6YcDF0TzZcjKN4hbx7r8XFYmZcFTLtLTjb-WpdB8GJ4804DjeZQrPMY_qSVeYSm76mtyo3thZBbwC3ilaZ6siw1msDI-QSWkTf3HG8Ce5FppwIamMj9sTcOflda6_wRSfKRyA=="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jsE4LRQh5iA6P8O544EtoU08VzCxLdtdRuhFFIeLxmjcyb4kEP_YxWM9Go0fOp9tKhbg7Kb4TpXEClpRJ4HPNK0-Hty5lbg023Uob458abqiYSGiA4GibUOcrgK8BDiKOFOguiNKAB0s0S3Sgkw6vO7bMuAz1n5vtSrM-s4XMevujAva36Q7mPKfyiiofZIS06lP1yzl"
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcazsQTrce7v9TK47IRl80fYRC4p7lGxCvhsmjPH63xqKX2815Gs1WaLMnZdTglTctQoJvOxOx4oy2XBgSgiZhuoQO4SHme1X8wHASqCAMr4TrgdS5ZuZmX4h7ci7ld-OynoBqUF8EaRqJA=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_8hTjH9TTIJdiaduc0v-Q7PSzNtm9pMD0VytBc7ConbiDSMgH9wHtOA_QpaRdcFipeylRW1gBLECi39M68eDR2F0YXMepgUsVCtptpr3I7TaGHhUdfgcSv2F7cRuNHCTFDvg4Hk="
+        },
+        {
+          "title": "convera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOeUKOZIhzMXhqV2Zc_u3R4i_VFEkZ0ZvEpLznAXfBpQpsTqBpC1rM9Vpg3snvBxBSYEfDmTUnEFbgVT_nmmak811Z2HqcNh0K3HRnpmzFIRAQSC_fY2DIM9Sj7YZhCAtd5LApTtFCgjjYVsznxGgY_z39wLt7OrS0AxEqtDgJ7eVK6iugJAz4kCSoDdh"
+        }
+      ]
+    }
+  }
+}
