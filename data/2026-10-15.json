@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-15",
+  "timestamp": 1792044300244,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East conflicts escalate; Ukraine reports gains",
+      "summary": "Intense fighting continues in Yemen, with Houthi attacks on Saudi Arabia and naval incidents in the Strait of Hormuz involving Iran. Ukraine has reported significant gains in a counteroffensive against Russia, particularly near Lyman.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3472,
+          "lng": 44.2067,
+          "severity": "red",
+          "detail": "Escalating fighting is blocking humanitarian aid and impacting civilians."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Houthi attacks on airports have caused significant civilian harm and casualties."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Two vessels sank, and attacks on commercial vessels surged amidst Iran's increased surveillance."
+        },
+        {
+          "name": "Lyman, Ukraine",
+          "lat": 48.91,
+          "lng": 37.81,
+          "severity": "yellow",
+          "detail": "Ukraine announced a successful counteroffensive, Operation Vivaldi, retaking territory and disrupting a Russian advance."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran vows to continue fighting until the US accepts its demands, deploying new naval units."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is implicitly involved in Middle East tensions and considering potential strikes in response to Houthi actions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety concerns rise amid lawsuits; Meta breach, press freedom issues",
+      "summary": "Eight US states have sued OpenAI over ChatGPT's child safety, while Nvidia pledged funds for AI safety research in the UK, highlighting growing concerns about AI's potential for harm. Additionally, Meta experienced a GitHub data breach, and various regions continue to face challenges related to press freedom and general human rights.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Eight states filed lawsuits against OpenAI over ChatGPT's child safety claims, and the White House ordered AI companies to report incidents immediately."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Nvidia pledged $250 million to UK AI safety research, aiming to bolster the country's AI governance and security ambitions."
+        },
+        {
+          "name": "Menlo Park, California, USA",
+          "lat": 37.4593,
+          "lng": -122.1553,
+          "severity": "yellow",
+          "detail": "Meta confirmed a GitHub breach exposing source code and personal information of approximately 1,500 people."
+        },
+        {
+          "name": "Jammu and Kashmir, India",
+          "lat": 33.7782,
+          "lng": 76.5762,
+          "severity": "yellow",
+          "detail": "India asked the UN human rights body for a report on human rights concerns in Pakistan-occupied Kashmir."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "green",
+          "detail": "Nepal committed to human rights and justice, with recent compensation provided to 153 victims."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "A Taiwanese democracy advocate met with the European Parliament, calling for greater protection for human rights activists against China's repression."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Concerns were raised over practices undermining press freedom ahead of President Prabowo Subianto's second anniversary."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Amazon fires escalate; Earth's climate \"vital signs\" at record extremes",
+      "summary": "The Amazon rainforest is experiencing an uptick in fires due to El Niño and drought, while a new report indicates that Earth's climate \"vital signs\" have reached record extremes in 2026, pushing the planet beyond stable limits. Discussions around a potential \"hothouse Earth\" trajectory underscore the urgent need for climate action and disaster preparedness.",
+      "regions": [
+        {
+          "name": "Amazon Rainforest, Brazil",
+          "lat": -3.4653,
+          "lng": -62.2159,
+          "severity": "red",
+          "detail": "A significant increase in fire activity and smoke emissions has been detected due to drought and El Niño conditions."
+        },
+        {
+          "name": "Baja California Sur, Mexico",
+          "lat": 25,
+          "lng": -111.5,
+          "severity": "yellow",
+          "detail": "Hurricane Polo made landfall as a Category 2 hurricane, causing flooding and damage after rapid intensification."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "Former and current governors marked the anniversary of landmark climate legislation, debating its economic impact."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "green",
+          "detail": "Nepal partnered with the World Bank to explore catastrophe bonds for earthquake risk preparedness."
+        },
+        {
+          "name": "Seattle, Washington, USA",
+          "lat": 47.6062,
+          "lng": -122.3321,
+          "severity": "green",
+          "detail": "Millions participated in the annual Great ShakeOut earthquake drill to practice emergency safety measures."
+        },
+        {
+          "name": "Hagåtña, Guam",
+          "lat": 13.475,
+          "lng": 144.75,
+          "severity": "green",
+          "detail": "The Great Guam ShakeOut encouraged residents to practice earthquake preparedness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "World Health Summit concludes with key commitments; AI in healthcare",
+      "summary": "The World Health Summit 2026 in Berlin concluded with new commitments to prevent stillbirths and improve maternal and child health, while also highlighting the potential of AI in healthcare to fight epidemics and support medical staff. The Lancet Commission identified malicious AI use and nuclear conflict as potential 21st-century global threats to health.",
+      "regions": [
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "The World Health Summit 2026 concluded with new funding commitments for global health initiatives."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "green",
+          "detail": "The Government of Bangladesh and the European Investment Bank outlined plans for a €250 million Women's Health Initiative."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO formalized a partnership with the American Society of Clinical Oncology to elevate quality in the global cancer agenda."
+        },
+        {
+          "name": "Lyon, France",
+          "lat": 45.7578,
+          "lng": 4.832,
+          "severity": "green",
+          "detail": "The Director of the WHO Academy discussed the role of artificial intelligence in supporting healthcare staff and fighting epidemics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "IMF warns on global debt and inflation; markets show volatility",
+      "summary": "The IMF-World Bank annual meetings in Bangkok addressed concerns about rising global debt, persistent inflation, and the impact of the Iran war on energy costs, urging wealthy nations to take action. Stock markets showed mixed signals, with some Asian markets gaining while others experienced sell-offs due to inflation reports and AI jitters.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The IMF-World Bank annual meetings discussed global economic challenges, including debt and inflation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF urged the US and other wealthy nations to tackle mounting global debt levels."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Indian stock market indices traded higher after opening, despite negative global cues."
+        },
+        {
+          "name": "Europe",
+          "lat": 48,
+          "lng": 14,
+          "severity": "yellow",
+          "detail": "European stock futures were lower following a tech selloff and concerns over US CPI inflation."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing Iran war is contributing to high energy costs and global inflation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Press freedom concerns in Indonesia; Taiwan advocates against repression",
+      "summary": "Concerns about press freedom in Indonesia were raised ahead of President Prabowo Subianto's second anniversary, with reports of violence and legal threats against journalists. In Europe, a Taiwanese advocate urged protection for human rights activists facing China's transnational repression, underscoring ongoing challenges to democratic practices and freedoms globally.",
+      "regions": [
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "The Committee to Protect Journalists and CIVICUS urged the government to end practices that undermine press freedom."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Taiwanese democracy advocate Lee Ming-che met with the European Parliament, calling for greater protection for human rights advocates against China's repression."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China is implicated in transnational repression against human rights advocates, as highlighted by a Taiwanese activist."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "green",
+          "detail": "Nepal's recent election to the UN Human Rights Council offers hope for its human rights sector and democratic practices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Yemen faces severe humanitarian crisis as fighting blocks aid; Haiti receives aid",
+      "summary": "An escalating conflict in Yemen is causing a severe humanitarian crisis, with intensified fighting blocking aid delivery to 800,000 people and exacerbating acute food insecurity and malnutrition for millions. Separately, the UN allocated an additional $75 million to assist over 500,000 people in Haiti amidst ongoing violence and displacement.",
+      "regions": [
+        {
+          "name": "Taiz, Yemen",
+          "lat": 13.5772,
+          "lng": 44.0247,
+          "severity": "red",
+          "detail": "Intensifying fighting has cut off life-saving assistance to 800,000 people, exacerbating a severe humanitarian crisis."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3472,
+          "lng": 44.2067,
+          "severity": "red",
+          "detail": "The conflict has led to air strikes and further displacement, deepening the humanitarian emergency."
+        },
+        {
+          "name": "Port-au-Prince, Haiti",
+          "lat": 18.5333,
+          "lng": -72.3333,
+          "severity": "yellow",
+          "detail": "The UN allocated an additional US$75 million to assist 507,000 people amid escalating violence, displacement, and food insecurity."
+        },
+        {
+          "name": "Tegucigalpa, Honduras",
+          "lat": 14.0818,
+          "lng": -87.2068,
+          "severity": "green",
+          "detail": "The Republic of Korea provided USD 500,000 in humanitarian assistance to support the country's response to an ongoing drought."
+        }
+      ],
+      "sources": [
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeo7VOFDFTdbU0O5WXXQc_uw9LXigBTeUzmfZ-5fdM9BWrDSwzVgeXr2bpWgBxqYnRu7c07gh8ZQiAmEiu236F2VMVcIeucF0D_UXmVSMfcRVhmoP9efTjhHxc9FUpTgT7INIjxikrn0PDkUK6up03KgzC_2O_swpByvBhTl9K_-PjjJ62fm1_fiit9cL0B3x5uk3Lt_8rHIeCYTcBaeVeh4s="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzs3grupcwz-bxidwxPVlFYT8QmqXKmE-UdfJaXbqvGlf8GwVmSSJ4tq00BlC7o106shJaO4t0AddTAgSwPNA04A1Z_yWsJIi9fTtKuRMnJUrJ93VhRIct5PlUpogfZT79GqzEt8k_SdZSpCEARMmF6HXn3brOluUOiDgSpbXjowvIAyokPMILIujqeZiEpw_BQvHrUCOIIzXosud4vTEyhzXi3VOR6DPLScQlsO5paqC9-guNW90="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhqXdsgI2O_cTqBEWNj9HF5Xgjbr42aRp1nA4kJoLo-vx85ZEeRX-mH5WyGVkaSRoXO8aN7AZjVDCRTvL2WO-hm1XCcsWYEeBKBjw_sYd82kqfrbSgRKlZZdILf-TJU-ix2r-KlX7Bwjg711waO_5gkPJ-x-wyQbp_VybSIs6UPMqiiM9_DVzHeBfr5dJmeDiLwGgUtT4aZWGIgIi1p7JybYNKVRhc9ayvsFxr8JgoSNLoYt36pRx3hwkI21TSRHI="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG8PI-CP2ajepx_CZxSh6TfYU0NRf4A6qvWoqsCMr4hGrNk5QrAN3o_PL45ZSBzAT-faNKoeaXih6ymVOdUaL4L0vbnFrQ8WP-8zNXtrwU5zbR2UXYmk5j0Xwwi5RZgCzOYbmaowdCECtkg-JdGYy3Sn8ohlGk5mSqujb5iMe_8_2-CFmg"
+        },
+        {
+          "title": "asiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbtpnDsZoszifZaJUzPdaslUrgewXuZNPC_1AyqUxPzyzD4OIl4gA9nhBZOXRAeIHL4wajY4BWD1dcGqoibxc5w-jNV7R7ZMPxhJbt701s99zG-S8x2lFWjEvCTDcURlt57tUiX87mRp-9CMypaBZvD1RDkMpIfXPleSDwArufVp9kBLz5vClDF1dq3oPVRPLGcztmS79M"
+        }
+      ]
+    }
+  }
+}
