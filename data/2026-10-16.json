@@ -1,0 +1,475 @@
+{
+  "date": "2026-10-16",
+  "timestamp": 1792130687584,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Violence Persists in DRC and Sudan Amidst Peace Efforts",
+      "summary": "Ongoing violence in the Democratic Republic of the Congo and Sudan continues to cause significant humanitarian concern, despite international and regional peace initiatives. In Sudan, an anti-war coalition discussed a peace framework, while doctors reported thousands of detainees held by the RSF and an army airstrike killed five children. The African Union persists with peace efforts in the DRC, holding talks in Kigali with further engagements planned in Kinshasa to address violence.",
+      "regions": [
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "yellow",
+          "detail": "The African Union held talks here to progress the peace process amidst ongoing violence in the Democratic Republic of the Congo."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "yellow",
+          "detail": "Further engagements are planned in Kinshasa by the African Union to support dialogue and advance the peace process in the country's eastern region."
+        },
+        {
+          "name": "El Geneina, Sudan",
+          "lat": 13.45,
+          "lng": 22.45,
+          "severity": "red",
+          "detail": "Doctors reported over 6,500 military personnel and civilians, including women and children, are being held by the Rapid Support Forces, raising severe humanitarian concerns."
+        },
+        {
+          "name": "North Kordofan, Sudan",
+          "lat": 13.15,
+          "lng": 30.2167,
+          "severity": "red",
+          "detail": "An airstrike by the Sudanese army in this region tragically killed five children and injured their mother."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "green",
+          "detail": "Archbishop Paul Richard Gallagher of the Holy See emphasized the importance of dialogue and international law for global peace."
+        },
+        {
+          "name": "Nuremberg, Germany",
+          "lat": 49.4521,
+          "lng": 11.0767,
+          "severity": "green",
+          "detail": "Former UN rights chief Navi Pillay was informed of her Nobel Peace Prize win while attending a seminar in this city."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety Concerns Rise, Indonesia Defends West Papua Record",
+      "summary": "AI safety is a growing concern globally, with lawsuits against OpenAI for chatbot behavior and government mandates for incident reporting. Meanwhile, Indonesia defended its human rights monitoring in West Papua at the UN, amid calls for independent assessments and investigations into alleged abuses. Human rights abuses were also highlighted in the farmed fish industry.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The White House ordered AI companies to immediately report incidents involving unauthorized or fraudulent use of government systems."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The City Council secured a commitment from Elon Musk's SpaceXAI to testify on AI safety following a subpoena."
+        },
+        {
+          "name": "West Papua, Indonesia",
+          "lat": -2.5333,
+          "lng": 140.7,
+          "severity": "yellow",
+          "detail": "Indonesia defended its human rights monitoring to the UN General Assembly amidst calls for independent assessments into alleged abuses."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "The UK strengthened human rights-related sanctions to address the issue of Israeli settlements in occupied Palestinian territory."
+        },
+        {
+          "name": "Florida, USA",
+          "lat": 27.6648,
+          "lng": -81.5158,
+          "severity": "yellow",
+          "detail": "Florida's attorney general filed a lawsuit against OpenAI, alleging its chatbot harmed children."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The IMF meeting included discussions on AI's economic and social risks, implicitly touching on human rights aspects like labor markets."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Earth at its Limits: Climate Vital Signs Reach Record Extremes",
+      "summary": "A new global report indicates that climate change pushed Earth to its limits in 2026, with seven out of 16 'planetary vital signs' reaching record extremes. The report warns of accelerating warming trends and the potential for crossing irreversible tipping points, stressing that extreme weather is now a defining feature of a changing planet. Despite some progress in corporate decarbonization reported by the Climate Pledge, the toughest emissions remain challenging to cut.",
+      "regions": [
+        {
+          "name": "Boulder County, USA",
+          "lat": 40.0939,
+          "lng": -105.3401,
+          "severity": "yellow",
+          "detail": "The US Supreme Court heard a case where the county contended oil companies should be financially responsible for climate change harms."
+        },
+        {
+          "name": "Kansas City, USA",
+          "lat": 39.0997,
+          "lng": -94.5786,
+          "severity": "green",
+          "detail": "Climate Weekend 2026 featured impact-focused workshops and a day of action for climate initiatives."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "The Global Tipping Points Conference 2026 concluded here, emphasizing the urgency of tackling the climate crisis."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "Columbia University's Center for Science and Society hosted a Climate Change Conference focused on governmental and collaborative solutions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola Outbreak Worsens, Global Threats Mapped by Lancet",
+      "summary": "An Ebola Bundibugyo virus outbreak in the Democratic Republic of the Congo continues to be a public health emergency, with cases also confirmed in Kenya. A new Lancet Commission report identified 17 interlinked catastrophic threats to human health through 2100, including future pandemics, antimicrobial resistance, and malicious AI use. Reports of a suspected pneumonic plague death in Russia also raised concerns, though no secondary cases were confirmed.",
+      "regions": [
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "red",
+          "detail": "The Ebola Bundibugyo virus outbreak remains a public health emergency of international concern with over 9,000 confirmed cases."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya reported its first confirmed case of Ebola, imported from the DRC, followed by a second case in a family member."
+        },
+        {
+          "name": "Irkutsk, Russia",
+          "lat": 52.2869,
+          "lng": 104.2912,
+          "severity": "yellow",
+          "detail": "Conflicting reports and unanswered questions surrounding a suspected pneumonic plague death near a research lab led to scrutiny."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "The World Health Summit hosted the launch of a new Lancet Commission report on interlinked catastrophic health threats."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO launched a five-year strategy to detect emerging health threats within 24 hours through its Hub for Pandemic and Epidemic Intelligence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Economy on 'Fragile Foundation' Amid AI Boom and Debt",
+      "summary": "The International Monetary Fund warned that global economic growth, projected at 3.1% for 2026, rests on 'fragile foundations' due to high debt, persistent inflation, and rising energy costs. While AI investment is a crucial growth driver, it also contributes to uneven economic development and poses risks if expectations are unrealistic. The IMF urged Latin American governments to address public debt and low productivity despite favorable global conditions.",
+      "regions": [
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The IMF-World Bank Annual Meetings addressed global economic growth, AI's uneven impact, and the challenges of high debt and inflation."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF's forecast indicated the US cannot grow its way out of its substantial interest bill on public debt."
+        },
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "yellow",
+          "detail": "IMF officials urged Latin American governments to cut public debt and boost productivity while global tailwinds persist."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China was highlighted as one of the economies benefiting from AI production, contributing to uneven global growth patterns."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The 'Iran war' was cited as contributing to rising energy costs and impacting global economic stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Midterms Fuel Democracy Debate, Disinformation Concerns",
+      "summary": "The lead-up to the US midterm elections in November 2026 sees heightened political activity, with improved Democratic candidate recruitment reducing uncontested state legislative races. However, concerns persist about the impact of social media on news consumption and the prevalence of paid political promotion, challenging democratic discourse. Economists also highlight how extreme inequality and corporate concentration globally are becoming incompatible with democratic principles.",
+      "regions": [
+        {
+          "name": "Michigan, USA",
+          "lat": 44.3148,
+          "lng": -85.6024,
+          "severity": "yellow",
+          "detail": "Democratic U.S. Senate candidate Abdul El-Sayed campaigned with Alexandria Ocasio-Cortez, drawing significant crowds in key areas."
+        },
+        {
+          "name": "Maryland, USA",
+          "lat": 38.9784,
+          "lng": -76.4922,
+          "severity": "green",
+          "detail": "Democrats are contesting every legislative district in the state, indicating increased electoral competitiveness."
+        },
+        {
+          "name": "South Carolina, USA",
+          "lat": 34.0007,
+          "lng": -81.0348,
+          "severity": "green",
+          "detail": "Democrats are contesting every legislative district, leading to more competitive state legislative elections."
+        },
+        {
+          "name": "Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "green",
+          "detail": "Democrats are contesting every legislative district in this state as well, marking a notable increase in electoral engagement."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A report highlighted the national crisis in journalism and its implications for democratic health, especially concerning social media's influence."
+        },
+        {
+          "name": "Atlanta, Georgia, USA",
+          "lat": 33.7488,
+          "lng": -84.3877,
+          "severity": "yellow",
+          "detail": "Democratic Senator Jon Ossoff's re-election campaign is heavily focusing on President Trump in its advertising, reflecting national political polarization."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Severe Crises in Sudan, DRC Drive Aid Needs; Lancet Warns of Aid Collapse",
+      "summary": "Humanitarian crises in Sudan and the Democratic Republic of the Congo remain severe, with reports of mass detentions, civilian casualties from airstrikes, and large-scale displacement. A new Lancet Commission report warns that low-income regions are increasingly vulnerable to childhood malnutrition and the collapse of international aid, exacerbating existing challenges. Aid efforts are complicated by ongoing violence and political instability in conflict zones.",
+      "regions": [
+        {
+          "name": "El Geneina, Sudan",
+          "lat": 13.45,
+          "lng": 22.45,
+          "severity": "red",
+          "detail": "Over 6,500 military and civilian detainees, including women and children, are reportedly held by the RSF, facing dire conditions with food shortages and deteriorating health."
+        },
+        {
+          "name": "North Kordofan, Sudan",
+          "lat": 13.15,
+          "lng": 30.2167,
+          "severity": "red",
+          "detail": "An airstrike by the Sudanese army killed five children and injured their mother, highlighting the severe impact on civilians."
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "yellow",
+          "detail": "The African Union's peace efforts include humanitarian consultations focused on the protection of refugees and returnees and the need for sustained international support."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 29.8739,
+          "severity": "yellow",
+          "detail": "AU talks here addressed the humanitarian crisis in the DRC, focusing on refugee protection and aid requirements."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO continues to monitor global health threats that could lead to humanitarian crises, including the impact on low-income regions."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Many low-income regions globally, including parts of South Asia, face warnings from the Lancet Commission about potential childhood malnutrition and aid collapse."
+        }
+      ],
+      "sources": [
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMlqVdudH1ldhvabpdPyit2ujlQgCcZ_fkCNA2f0oJA7eMXZfuXtzCgZU4OFsxyEmzFhdVtXm_FIkn2z_7Ni_J6_7Mwgr-4Z5uOqosPZjD_8sCWbu_3VDEn1d_uKGk1zdcI7bghw-ZVAc-NYhOTewrvmy"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKE7i4X9PDxSjeF_NEfnt2x2nhkePXZGwCXFikQIchRapPMYrl6KKepDZPrWaPBFQXTix9P6XHGXg9WpMRSndsPXCWOP2uifcxMrpYwHIibHYeGAe-ukqReXu9oj4VbyUeUA=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2jj2lPRnW7YIitlsBzFg64MwTsxvWneczw3HI5EijquC7b6a2AynK8ILGK0gbPd3F5jyd9KaVTP0pVbcU6nOLh8a3Nam0AnfasAxwO-CSg9e1VdHl_lYX66fWko16Fy7NQ=="
+        },
+        {
+          "title": "heraldmalaysia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErf9IX213N1xsSIcc2Iv50LtdR51YypdU_cr2v_gTRxUy_GzOd1xPL03LOd_2YOtftc5MKKDgoQaCz5YwthP7gyboNW1mHQbBokCavhtMkCXfyIYlhhPkmKuM4gsFGnZawuAR2uvVV5svVJWU43LaeuK4omHlay3MBhQb61n3kXvIhUl9fKzOHfTfOi3vysDj1mk68dWa8qjpJmGDd3k8_cn0HPWhHGq58J2zg67o="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNJufN7kj9qWvMO9GTgm4QA9YXoUpllUJRbYXGcHmN19edC8GdrTuCfCD6L6Uw_2GCjil4xg5fmVyqlmnOlHyE2yLIqpaNz72gxVKP8porDf5HqhvSouOugC-_jP_1C3RmVukkX4oXcxLQBSRv7vG8fsO8bGF3Q=="
+        }
+      ]
+    }
+  }
+}
