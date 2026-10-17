@@ -1,0 +1,573 @@
+{
+  "date": "2026-10-17",
+  "timestamp": 1792217072280,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Global Peace at Record Low Amid Escalating Conflicts.",
+      "summary": "The 2026 Global Peace Index reports a significant deterioration in global peacefulness, marking the lowest level since the index began with a record number of conflicts. Deaths from violence remain at historic highs, and the global security landscape is characterized by widespread armed conflict and geopolitical fragmentation.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan faces the world's largest humanitarian crisis with over 33 million people in need, and over 19 million facing acute food insecurity."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ongoing conflict in Ukraine continues to impact global geopolitics and contributes to the overall rise in conflicts."
+        },
+        {
+          "name": "Middle East",
+          "lat": 30,
+          "lng": 40,
+          "severity": "red",
+          "detail": "War in the Middle East is driving sharp energy price increases and disrupting the global economy."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7632,
+          "lng": 96.0772,
+          "severity": "red",
+          "detail": "Myanmar continues to experience a long-standing civil war contributing to global instability."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0054,
+          "lng": 38.7636,
+          "severity": "yellow",
+          "detail": "Tensions between Ethiopia and Eritrea remain a concern, related to Ethiopia's sea access."
+        },
+        {
+          "name": "Asmara, Eritrea",
+          "lat": 15.3229,
+          "lng": 38.925,
+          "severity": "yellow",
+          "detail": "Eritrea's demand for the respect of its territorial sovereignty is a source of tension with Ethiopia."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9977,
+          "severity": "red",
+          "detail": "Mali experiences ongoing conflict and violence, identified as a setting where conflict dynamics are acute."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5553,
+          "lng": 69.2075,
+          "severity": "red",
+          "detail": "Afghanistan has an estimated 21.9 million people requiring humanitarian assistance amidst ongoing instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human Rights Under Severe Strain as Digital Freedoms Decline.",
+      "summary": "Global human rights are facing severe challenges in 2026, marked by record levels of attacks against human rights defenders and a continuous decline in global freedom for the 11th consecutive year. Digital rights are also under significant pressure, with global internet freedoms declining for fifteen consecutive years, as surveillance powers expand and privacy norms loosen.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Attacks against human rights defenders, journalists, and trade unionists have reached record levels globally."
+        },
+        {
+          "name": "Latin America and the Caribbean",
+          "lat": -8.7832,
+          "lng": -55.4915,
+          "severity": "red",
+          "detail": "This region remains the deadliest for human rights defenders, accounting for approximately 60% of killings over the past decade."
+        },
+        {
+          "name": "Europe",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "The EU's GDPR remains a global model for data protection, yet rising populism and polarization are eroding institutional trust."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "A patchwork of federal and state AI and privacy laws creates complex compliance challenges for businesses."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8822,
+          "severity": "yellow",
+          "detail": "Brazil's data protection agency has suspended Meta from developing AI using Brazilian users' data."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "New AI and data privacy regulations are taking effect, including consumer opt-out platforms for data brokers."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The US-China AI and geopolitical power race influences commodity markets and global tech developments."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Regulatory scrutiny of individual rights requests is increasing under the new Data Use and Access Act."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate Crisis Worsens; 1.5°C Target No Longer Plausible.",
+      "summary": "The global climate crisis is accelerating in 2026, with reports confirming that limiting temperature rise to 1.5°C is no longer a plausible goal. Seven of nine planetary boundaries have been transgressed, and multiple climate-related indicators are at record extremes. Global efforts to cut greenhouse gas emissions have been insufficient, necessitating urgent action from international conferences like COP31.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Seven out of nine planetary boundaries have been transgressed, and climate-related indicators are at record extremes."
+        },
+        {
+          "name": "Antalya, Türkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The UN Climate Change Conference (COP31) is convening in November to discuss urgent and ambitious climate action."
+        },
+        {
+          "name": "Great Britain",
+          "lat": 54,
+          "lng": -2,
+          "severity": "yellow",
+          "detail": "The government has set a target to cut emissions by about 87% by 2040 from 1990 levels."
+        },
+        {
+          "name": "Asia-Pacific/Southeast Asia",
+          "lat": 8.7832,
+          "lng": 117.7665,
+          "severity": "red",
+          "detail": "Oceans and marine areas in these regions have experienced some of the largest extreme heat and temperature anomalies."
+        },
+        {
+          "name": "Bogota, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "Colombia's President has highlighted the 'suicidal' model of capitalism tied to fossil fuels, urging adaptation to non-fossil energy."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "Geneva hosted a World Environment Day Dialogue building momentum towards the UN Climate Change Conference COP31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global Health Goals Off Track; Uneven Progress and New Threats.",
+      "summary": "Global health is facing significant challenges in 2026, with the World Health Organization reporting that the world is off track to meet its health-related Sustainable Development Goals by 2030 due to uneven and slowing progress. Despite some improvements in areas like HIV and neglected tropical diseases, issues such as malaria incidence increases, persistent anemia among women, and childhood vaccination gaps remain critical. Health systems are also impacted by rising conflict and displacement, particularly in vulnerable regions.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The world is falling short on health targets and remains off track to achieve health-related Sustainable Development Goals by 2030."
+        },
+        {
+          "name": "WHO African Region",
+          "lat": 0,
+          "lng": 20,
+          "severity": "green",
+          "detail": "This region has achieved faster-than-global reductions in new HIV infections and tuberculosis incidence."
+        },
+        {
+          "name": "South-East Asia Region",
+          "lat": 0,
+          "lng": 100,
+          "severity": "green",
+          "detail": "This region is on track to meet its 2025 milestone for malaria reduction."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0628,
+          "lng": 45.3182,
+          "severity": "red",
+          "detail": "Low vaccination coverage, poor WASH conditions, and gender barriers to healthcare are driving epidemics and communicable diseases."
+        },
+        {
+          "name": "Low- and Middle-Income Countries",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "These countries bear a disproportionate burden of health issues, with progress vulnerable to systemic shocks and data gaps persisting."
+        },
+        {
+          "name": "Regions of the Americas",
+          "lat": 40,
+          "lng": -100,
+          "severity": "yellow",
+          "detail": "Gaps remain in healthy life expectancy among certain groups in the Americas."
+        },
+        {
+          "name": "European Region",
+          "lat": 50,
+          "lng": 10,
+          "severity": "yellow",
+          "detail": "Gaps remain in healthy life expectancy among certain groups in the European Region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global Economy Resilient Yet Strained by Conflicts and Inflation.",
+      "summary": "The global economy in 2026 exhibits resilience but is under considerable strain due to ongoing conflicts and rising inflation. Global growth is projected to slow to 3.1%, while headline inflation is expected to reach 4.7%. Downside risks include escalating conflicts, particularly in the Middle East, and renewed trade tensions, with energy-importing economies facing a difficult outlook.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global growth is projected to slow to 3.1% in 2026, and global headline inflation is projected to rise to 4.7%."
+        },
+        {
+          "name": "Middle East",
+          "lat": 31.7917,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "The war in the Middle East is driving sharp energy price increases, causing economic disruptions and increasing global growth risks."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "green",
+          "detail": "The US is expected to outperform substantially in growth due to reduced tariff drag, tax cuts, and easier financial conditions."
+        },
+        {
+          "name": "Energy-Importing Economies",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "These economies outside the technology value chain face the most difficult economic outlook due to higher import bills and weaker demand."
+        },
+        {
+          "name": "Emerging Market and Developing Economies",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "These economies are facing the weakest per capita income growth since the pandemic, with pressures concentrated among commodity importers."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The US-China AI and geopolitical power race influences commodity markets and global economic strategies."
+        },
+        {
+          "name": "Europe",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "Global military expenditure, led by Europe, reached a record US$2.9 trillion in 2025, reflecting significant economic allocation to defense."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Global Democracy in Retreat; Autocracies Outnumber Democracies.",
+      "summary": "Global democracy is in a significant recession in 2026, with the Global State of Democracy Report indicating a continuous decline in democratic performance for the 11th consecutive year. Autocracies now outnumber democracies worldwide for the first time in over two decades, and nearly 72% of the world's population lives under autocratic rule. There is widespread erosion in the credibility of elections, effectiveness of legislatures, and respect for freedoms of expression and the press.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "More countries declined in democratic performance than advanced for the 11th consecutive year, with autocracies now outnumbering democracies."
+        },
+        {
+          "name": "Asia-Pacific",
+          "lat": 8.7832,
+          "lng": 117.7665,
+          "severity": "red",
+          "detail": "This region has seen significant declines in democracy indices, including tightening control over media and civil society."
+        },
+        {
+          "name": "Europe",
+          "lat": 51.1657,
+          "lng": 10.4515,
+          "severity": "yellow",
+          "detail": "While democratic resilience remains higher, rising populism and polarization are eroding institutional trust."
+        },
+        {
+          "name": "Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "Democratic backsliding continues amid corruption scandals and contested elections."
+        },
+        {
+          "name": "Latin America",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "yellow",
+          "detail": "Democratic backsliding continues amid corruption scandals and contested elections."
+        },
+        {
+          "name": "Middle East",
+          "lat": 31.7917,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "This region remains the least democratic globally, with minimal signs of reform."
+        },
+        {
+          "name": "Washington, D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States has declined in its freedom score over the last 20 years."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Hungary has been downgraded from 'Free' to 'Partly Free' in global freedom assessments."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian Crisis Deepens as Funding Hits Decade Low.",
+      "summary": "The global humanitarian situation is critical in 2026, with a quarter of a billion people in urgent need of assistance and humanitarian funding falling to its lowest level in a decade. This has resulted in food budget cuts, surging hunger, health system breakdowns, and increased disease outbreaks. Over 117 million people are forcibly displaced globally, with specific crises deepening in regions affected by conflict and climate shocks.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "A quarter of a billion people are in urgent need of humanitarian help, and funding has fallen to its lowest level in a decade."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan faces the world's largest humanitarian crisis with over 33 million people in need and over 19 million facing high levels of acute food insecurity."
+        },
+        {
+          "name": "Occupied Palestinian Territories",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "$4 billion is needed to assist three million people in the occupied Palestinian territories."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7632,
+          "lng": 96.0772,
+          "severity": "red",
+          "detail": "$1.4 billion is needed to reach 4.9 million people affected by the crisis in Myanmar."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5553,
+          "lng": 69.2075,
+          "severity": "red",
+          "detail": "An estimated 21.9 million people, 45% of Afghanistan's population, require humanitarian assistance, with over 17 million facing acute food insecurity."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0628,
+          "lng": 45.3182,
+          "severity": "red",
+          "detail": "Climate-related shocks and a fragile security environment will likely leave an estimated 3 million children in need of humanitarian assistance."
+        },
+        {
+          "name": "Latin America and the Caribbean",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "red",
+          "detail": "Almost 4 million children and adolescents in this region will need humanitarian assistance due to armed violence and unsafe migration."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5138,
+          "lng": 36.2765,
+          "severity": "red",
+          "detail": "Water, sanitation, and hygiene partners have suspended or decreased their response in over 350 camps, affecting more than 250,000 internally displaced people."
+        }
+      ],
+      "sources": [
+        {
+          "title": "visionofhumanity.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qUosf4gJMGKEYmR_9JLDu44jEf_fs2p52G6bgeR35VBgM_r5q-m5CTikXvDSjspTHMEfgnUfvEgw7BvCTE6pB8GVEj5N_XW2phT8wyNESilpHMJtUz_GzJUdDB8W24el"
+        },
+        {
+          "title": "georgetown.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOldzSETAZZP07pxpbQQpNsQtA36rqJ-SA9SrIr9irfDZrhUeBac6BM6QgnC-qqZ6y_cf0zV4EYeykWai68htdHsaPqoWaWXxyvZqLlUs2SRP47YAJuB0Q-QYlszoZfJ0DPAFAXDmd9VsTSGCg2SRvrmBp2dWRnsKI2oEs6lR9W_pGs06WBM="
+        },
+        {
+          "title": "refugees.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5hx2lOGdb1_PUnRlSEwlMjhQJhQHqXGxB27D0i6xJnVw1FFOelvxCNp2ezmMAKYkYTxoskQ3DmR5DTATq2LVzvWdTeJ9xQ1yDBdD8JKBnSU3eBg7hZN1P0t0GPQ18x9sS69cK2uV9An8FRU4="
+        },
+        {
+          "title": "imf.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVhrdwQVbfZ2zr0vCieKtkxbNlThN0c1QhkxVezhKdONznqFk9BpKQHTj2VIyGFMNgBAGYQQ5FMhMACePLOJgbqHxtaXE_K33DD4J2xdsf2eYINN_QHR4YFH3kUEUxy9TqotttehXzdeB3avIwZXfrHVi82ypPQm5zjjg-3IL-bUoKMRypWgbbEdQFSyhs7gFsoy9H0Q="
+        },
+        {
+          "title": "worldpopulationreview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYa1XHr4QBpsUC3TGzNCNgF9MJB5fQfZh2Nyj-TJ53d-a5qRQjR68dqAorAUnbNvyvlGi2vPsxSSs0wr6SFjrcE40P6lnUHhl-1nGLGdXAVI0XQSs60jGiEpted2ZEv54sErP0mYpWRxF6QZRj1LflkYbyeErV7IEor3yhJM6UW8aP_UrVm8nM"
+        }
+      ]
+    }
+  }
+}
