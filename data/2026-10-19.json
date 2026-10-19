@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-19",
+  "timestamp": 1792389959962,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Middle East tensions escalate, Mali conflict abuses reported, Russia-Ukraine talks continue.",
+      "summary": "An oil tanker was reportedly struck by a naval mine in the Strait of Hormuz amidst rising tensions between Iran, Israel, and the US, with Iran's IRGC issuing warnings. Meanwhile, US President Trump commented on ongoing Russia-Ukraine peace negotiations while criticizing Ukrainian attacks on Russian oil infrastructure. Abusive counterinsurgency operations by Malian forces and their allies, as well as insurgent abuses, continue in Mali, and civilians in Mozambique's Cabo Delgado face increasing attacks from Islamic State Mozambique.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.3,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "An oil tanker reportedly hit a naval mine amidst escalating regional tensions."
+        },
+        {
+          "name": "Bandar Abbas, Iran",
+          "lat": 27.1809,
+          "lng": 56.275,
+          "severity": "red",
+          "detail": "Iran's Islamic Revolutionary Guard Corps issued warnings amid rising tensions in the Persian Gulf."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian attacks on Russian oil infrastructure drew criticism from the US President amidst peace talks."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "US President Trump announced 'great progress' in peace negotiations between Russia and Ukraine."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9976,
+          "severity": "red",
+          "detail": "Malian armed forces and their allies are reportedly conducting abusive counterinsurgency operations against Islamist and separatist groups."
+        },
+        {
+          "name": "Cabo Delgado, Mozambique",
+          "lat": -12.5,
+          "lng": 39.5,
+          "severity": "red",
+          "detail": "Islamic State Mozambique has increasingly targeted civilians in the region, affecting humanitarian activity."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Attacks by Iran-backed Houthi rebels on Saudi Arabia intensified, contributing to regional instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Kenya cracks down on protests; Mali, Myanmar, US, Australia face rights issues.",
+      "summary": "Kenyan authorities have increasingly used authoritarian tactics, including arbitrary arrests and surveillance, to suppress protests against economic hardship. Human Rights Watch reported abuses by Malian armed forces and allied groups, including killings and torture of civilians. Additionally, the Myanmar National Human Rights Commission was disqualified from a regional forum due to compliance concerns. In India, the Supreme Court affirmed internet access as a fundamental right for children, while in the US, a Florida court upheld restrictions on social media for minors.",
+      "regions": [
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "red",
+          "detail": "Authorities are using repressive tactics against protesters demonstrating against economic grievances."
+        },
+        {
+          "name": "Bamako, Mali",
+          "lat": 12.6392,
+          "lng": -7.9976,
+          "severity": "red",
+          "detail": "Human Rights Watch reported abuses by Malian armed forces and their allies, including killings and torture of civilians."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.743,
+          "lng": 96.1105,
+          "severity": "yellow",
+          "detail": "The Myanmar National Human Rights Commission was disqualified from a regional human rights forum."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The Supreme Court recognized internet access as a fundamental right for children, but an advisory to Meta raised digital censorship concerns."
+        },
+        {
+          "name": "St. Paul, Minnesota, USA",
+          "lat": 44.9537,
+          "lng": -93.09,
+          "severity": "yellow",
+          "detail": "Two Minnesota businesses were found to have discriminated against Native Americans by refusing tribal identification."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "yellow",
+          "detail": "A federal appellate court ruled that a state law restricting social media for minors likely does not violate the First Amendment."
+        },
+        {
+          "name": "Darwin, Australia",
+          "lat": -12.4634,
+          "lng": 130.8456,
+          "severity": "yellow",
+          "detail": "Human rights safeguards are being sought following the criticized closure of a homeless shelter."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Strong El Niño, European summer extremes, and global biodiversity conference in Armenia.",
+      "summary": "A very strong El Niño event is ongoing, with some agencies projecting it to be the strongest on record, potentially causing significant global weather impacts. Europe experienced its warmest summer ever recorded in 2026, marked by severe droughts, devastating wildfires, and water scarcity. Meanwhile, the UN Biodiversity Conference (COP17) began in Yerevan, Armenia, emphasizing global nature conservation and climate action.",
+      "regions": [
+        {
+          "name": "Pacific Ocean",
+          "lat": 0,
+          "lng": -160,
+          "severity": "red",
+          "detail": "A very strong El Niño event is underway, with potential for record-breaking intensity and global weather impacts."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The European Central Bank highlighted Europe's warmest summer on record in 2026, marked by severe climate impacts."
+        },
+        {
+          "name": "Yerevan, Armenia",
+          "lat": 40.1792,
+          "lng": 44.4991,
+          "severity": "yellow",
+          "detail": "The UN Biodiversity Conference (COP17) commenced, focusing on accelerating global biodiversity framework implementation."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Climate pressures are threatening millions of livelihoods, potentially leading to a 'climate exodus'."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "yellow",
+          "detail": "The country is facing climate pressures, contributing to internal migration and social tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola crisis in DR Congo, dengue outbreak in Florida, and Guam services disrupted.",
+      "summary": "An ongoing Ebola outbreak in the Democratic Republic of Congo is deepening a mental health crisis amidst conflict and stigma. In Florida, St. Petersburg and surrounding counties are experiencing a dengue outbreak, leading to local states of emergency and increased mosquito control efforts. Additionally, public health services in Guam are temporarily suspended or limited due to post-typhoon conditions.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola outbreak is exacerbating a mental health crisis amidst conflict and displacement."
+        },
+        {
+          "name": "St. Petersburg, Florida, USA",
+          "lat": 27.7676,
+          "lng": -82.6403,
+          "severity": "yellow",
+          "detail": "The city is grappling with a dengue outbreak, leading to emergency declarations and intensified mosquito control."
+        },
+        {
+          "name": "Hagåtña, Guam, USA",
+          "lat": 13.4716,
+          "lng": 144.7502,
+          "severity": "yellow",
+          "detail": "Public health services are disrupted or limited due to post-Typhoon Champi conditions."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The WHO Regional Committee for the Western Pacific is meeting to discuss immunization, hypertension, tobacco control, and AI in public health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "Iran war impacts energy, China growth slows, AI debt risk emerges amid global sluggishness.",
+      "summary": "The global economy is facing sluggish growth rates, with major developed economies stalling below 3% and inflation remaining persistently high in many regions. The ongoing Iran war is significantly impacting energy prices, leading to steep diesel price hikes that are affecting the US economy and contributing to cost-of-living concerns. Furthermore, intense competition among AI companies for semiconductors is driving massive borrowings and accumulating risks of default in the financial market, signaling a potential 'AI Debt Investment' crisis.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's GDP growth in Q3 2026 is expected to miss targets due to global energy shock and weak domestic demand."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The impact of the Iran war on energy prices is filtering into the US economy, leading to cost-of-living worries."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The Eurozone is experiencing persistent inflation, hitting 3.8% annually, well above central bank targets."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK's consumer price index reached 3.1% in August, indicating sustained inflationary pressures."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.3,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "An oil tanker incident and escalating tensions are threatening maritime security and energy supplies."
+        },
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "AI companies like Anthropic, based here, are engaging in massive borrowings for semiconductor acquisition, creating financial market risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Kenya cracking down on dissent; authoritarian tactics intensify.",
+      "summary": "Kenyan authorities have increasingly resorted to authoritarian tactics, including arbitrary arrests, abductions, surveillance, and media repression. These actions are being used to suppress protests against deepening economic hardship and the government's fiscal policies.",
+      "regions": [
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "red",
+          "detail": "Authorities are utilizing authoritarian tactics to crack down on protests, raising concerns about democratic erosion."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Acute hunger doubles globally; Gaza, Yemen crises worsen as aid declines.",
+      "summary": "Acute hunger has doubled over the past decade, now affecting 266 million people across 47 countries, while humanitarian aid for food in crisis contexts saw a significant decline between 2022 and 2025. In Gaza, humanitarian aid continues to be delivered by the UAE amidst an ongoing crisis, but needs remain severe. Meanwhile, escalating conflict in Yemen is threatening life-saving humanitarian aid, cutting off access to approximately 800,000 people due to restricted access.",
+      "regions": [
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Humanitarian aid deliveries continue amidst a severe and ongoing crisis, highlighting persistent critical needs."
+        },
+        {
+          "name": "Taizz, Yemen",
+          "lat": 13.5786,
+          "lng": 44.0264,
+          "severity": "red",
+          "detail": "Escalating conflict is threatening humanitarian aid access to approximately 800,000 people in the city and surrounding areas."
+        },
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country is listed among those with concentrated acute hunger, contributing to the doubling of global hunger."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "red",
+          "detail": "Nigeria is identified as one of the ten countries with the largest global food crises."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Afghanistan is among the countries with the most acute hunger, where funding shortfalls are limiting aid."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.743,
+          "lng": 96.1105,
+          "severity": "red",
+          "detail": "Myanmar is experiencing concentrated acute hunger, facing challenges in aid delivery."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0z5mQj-DVhz2jbpty9UD8-CvnvRKtotmPw2KuXTn0LbiSUjqedIGNlCrXuc6K3_bumzzZSH51vmvghIe-7J99BBNtaMQr-oN5-8M0ZlQbYvIcRP_QdhVWAq5BFRrRLd_mBolXYNj33EOnuTdHLP2I9pXLxXVIAEM3fsmDAU7Wu7utL4PrWcnrdm8nUwKoUXuTnknNioVefB7h8ZdVHqB7_I9WqkzxARgJKE20P6IrSpdOhwRf4uEintXruDhLPrzpEwv3dBPlqFG9KZGxQa6hroj-W4mDC3Kpk5U5fcjr9EzhYdxRL0tLH8O3Tb6lo9okHM="
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRHryzrS9wzMSR39M9a16howRAFsZjDZVsNYqh0B5j6hdnu8fitJLLtR0rFhpZMxrBXBg-3yBbob6omvvTNP6Tttqk3QsLpPJWJ8Oy6C1-i1lWeDgULkT-27u0CjAOSxzvLFyJhMb5m23cHyM6kqBx1ZhqkiDAt_CFJvHJD6s7TCRz"
+        },
+        {
+          "title": "trend.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYCO67Pvb7Sybk094x8mALEg_KmjlzT-su-cSwf-K6BvAYTjCr2zx6tqERbh72RWPsy-4XJJDtE2oiO8mU5pM_dgXPg8bvjAOFEEqIEjVM7osM4MD3fjJV5q4ZKH1uodoPShgLA=="
+        },
+        {
+          "title": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzORlbGaR3sAASMAV-f_26VLUudP5Akzcon-nB7nVMt0PO_8nHB2Q6qpWe-J9w7J9LKul45L1gKwVdUbsGtOqA2uLxDWtMFX5q1nfdKN8MerT_VmBWQYK3U-RgxxtVX4Il0h9I-dQpzAE4pvgqQajaGJR-Xypi7s9Wjm1uA8hNdx5Q0du5Jgt0wtDmOVKkFZEBToZ23-YgbdR1GCxHMZKltx5m3MbzCQ3JUZftp59GmrqGSBRyg38LWI-I-mkzA=="
+        },
+        {
+          "title": "bernama.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgNL4TkDpj_osOteeGc1h32xM3-nrB2rsTIRfAN-7wdSWoWurCocY312XZims7vB8I8SBjjbfJQfcIlXtXHBmtwwNmIof371tDJWFa2EeQLHD4lL791AnT7kSI3obahayDRb3TJBZ2hDOdOEKERY="
+        }
+      ]
+    }
+  }
+}
