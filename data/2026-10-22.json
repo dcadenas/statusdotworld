@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-22",
+  "timestamp": 1792649091210,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple global conflicts escalate, with new offensives and increased casualties",
+      "summary": "Global peace has deteriorated to its lowest level since the index's inception, with 195 separate armed conflicts recorded in 2025 and 63 active state-based conflicts in 2025. Major conflicts persist in Ukraine, the Middle East, and Sudan, while a new offensive has begun in Yemen.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ukraine faces its deadliest months since the full-scale war began, with intensifying attacks widening beyond the front lines as of October 21, 2026."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The Iran war, which began with US-Israeli strikes in February 2026, has left the Strait of Hormuz largely closed and peace talks stalled."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The war in Yemen has restarted, with Houthis claiming strikes on Saudi Aramco and the Yemeni government launching a major offensive."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Peace efforts resumed on October 21, 2026, to halt the ongoing 'drone war' that is fueling a humanitarian crisis in Sudan."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia's war in Ukraine is in its fifth year with heavy strikes on cities, and Russian submarines were tracked near NATO countries' undersea cables."
+        },
+        {
+          "name": "Orange County, California, United States",
+          "lat": 33.7042,
+          "lng": -117.7735,
+          "severity": "yellow",
+          "detail": "The US and Israel were involved in strikes on Iran, contributing to heightened geopolitical tensions in the Middle East."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.1309,
+          "severity": "red",
+          "detail": "Myanmar continues to experience a long-standing civil war with an estimated 15,420 casualties in 2025."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Human rights under unprecedented attack, amplified by technology misuse",
+      "summary": "Human rights are facing unprecedented attacks globally, with authoritarians unlikely to be held accountable internationally. Misuse of advanced technologies, including armed drones, in conflicts is creating new risks for civilians and eroding international humanitarian law.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "Talks on October 21, 2026, addressed the protection of civilians and humanitarian access in Sudan, highlighting ongoing violations of international law."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US states are aggressively regulating AI, with nearly 100 chatbot-specific bills introduced across 34 states and at the federal level, focusing on data privacy and bias prevention."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU AI Act is in force, imposing risk-based obligations on high-impact AI models, contributing to global regulatory efforts."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Famine-like conditions persist amidst ongoing conflict, with drone attacks disproportionately affecting civilians."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Attacks on civilian infrastructure and populated areas continue to widen, exacerbating human rights concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global temperatures set to exceed 1.5°C; severe weather events plague nations",
+      "summary": "Global temperature rise is projected to exceed 1.5°C above pre-industrial levels, with 2026 likely to be the fourth consecutive year surpassing 1.4°C in warming. Urgent emissions cuts are needed as humanity loses ground in the fight against climate change, while deadly floods, heatwaves, and wildfires have affected many nations this year.",
+      "regions": [
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "red",
+          "detail": "The city experienced its worst flooding in 80 years, with 8 deaths and damage to at least 20,000 buildings in the days leading up to October 15, 2026."
+        },
+        {
+          "name": "Orange County, California, United States",
+          "lat": 33.7042,
+          "lng": -117.7735,
+          "severity": "yellow",
+          "detail": "The Norte Fire ignited on October 16, 2026, burning 570 acres and damaging homes due to extreme wind conditions."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "red",
+          "detail": "Storm Adam brought torrential rain to the eastern Mediterranean coast on October 18, 2026, resulting in at least three deaths and 2,000 evacuations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Health systems strained by conflict and crises, medical costs on the rise",
+      "summary": "Health systems worldwide are under unprecedented strain due to conflict, displacement, and disease, with medical costs projected to rise by 10.3% in 2026. Key global health shifts include UN restructuring impacting international cooperation and ongoing efforts to prepare for the next pandemic.",
+      "regions": [
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "Cuba faces daily blackouts of up to 20 hours due to an energy crisis, disrupting healthcare services and leaving over 100,000 patients awaiting surgeries."
+        },
+        {
+          "name": "Taiz, Yemen",
+          "lat": 13.578,
+          "lng": 44.0207,
+          "severity": "red",
+          "detail": "Hospitals are running out of oxygen and medicines, and cholera cases are increasing amidst intensified fighting."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Access to health services and medicines remains a major unmet need as winter approaches, with humanitarian aid shrinking."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Famine-like conditions persist, and 8 million children are out of school, exacerbating long-term health and development issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth slows to 3.1%, inflation rises amid persistent conflicts",
+      "summary": "Global economic growth is projected to slow to 3.1% in 2026, with headline inflation rising to 4.7%, according to October 2026 reports. Ongoing conflicts, particularly in the Middle East and the closure of the Strait of Hormuz, are driving sharp energy price increases and contributing to global economic instability.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US economy is expected to outperform due to factors like reduced tariff drag and tax cuts."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The largely closed Strait of Hormuz, resulting from the Iran war, has significantly impacted global oil and gas trade."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The ongoing war contributes to Europe's biggest security threat and affects energy and grain markets globally."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "The restarting Yemen war poses a threat to Saudi oil sites and Red Sea shipping."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "Democracy regresses globally to 1978 levels, with accelerating autocratization",
+      "summary": "Global democracy has regressed to 1978 levels, with 74% of the world's population living under autocracy in 2025 and 44 countries currently on an 'autocratisation' path. Reports from October 2026 confirm continued democratic stagnation and declines in electoral credibility and press freedom.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is listed among countries experiencing a decline in democratic performance, with an accelerating 'redistricting arms race' for partisan advantage."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK is noted as a 'new case' of countries on an autocratization path in 2025."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italy is also identified as a country entering a path of autocratization."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Youth-led movements in 2025 held the government accountable for rights violations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian needs soar to 418 million people amidst severe funding cuts",
+      "summary": "Humanitarian crises are escalating rapidly, driven by conflicts and climate shocks, with an estimated 418 million people exposed to protection risks by October 2026 and 139 million in need. Despite surging needs, humanitarian funding fell over 30% between 2024 and 2025, leading to severe cuts in aid delivery.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Almost 34 million people require humanitarian support, and 8 million children are out of school due to the ongoing conflict and famine-like conditions."
+        },
+        {
+          "name": "Taiz, Yemen",
+          "lat": 13.578,
+          "lng": 44.0207,
+          "severity": "red",
+          "detail": "Intensified fighting has displaced over 233,000 people since June 2026, with hospitals facing critical shortages of medical supplies."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Humanitarian assistance is shrinking despite growing needs, with financial aid and access to health services being major unmet requirements as winter approaches."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "red",
+          "detail": "An energy crisis is causing widespread blackouts, disrupting essential services and jeopardizing vaccinations for 70,000 children."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5553,
+          "lng": 69.2075,
+          "severity": "red",
+          "detail": "Only 1 million of the most vulnerable people are expected to receive food assistance during the lean season in 2026, a significant reduction from previous years."
+        }
+      ],
+      "sources": [
+        {
+          "title": "weforum.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjDcjfiLeaQD-QTLpnAFT0IIQxsBBljPOSmNt32N7bgunhSLMRzcKMS5Pwj9hSYHWe1fYu3Bza2kWu8wpgkwjteWR-mpEIO-xMKoQU7tRdEEajWK50xH3MOfsWyoJVZ7paiQ7QPglrD4IaG2B3-XzN2TPPtMm4XnKqRFoxTIEqESseDbhYJhuu4g="
+        },
+        {
+          "title": "peacenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-NS23l71XdP3gXePjv9yod_LlEYLkzuJNGZpelZa4d3TJw_vaqOyBnG1fcfg483n7HwkpH46R4EyN3p6DejADLiVA6arljiZtA7P9EGM9HpVyK-TaP3vBtZBCKA03ptrvYDDvljEw6HmVxq5RrwboxcwsoxwdWub64vsqV97-cwfGkJ2_ilx8m-O6ZRr"
+        },
+        {
+          "title": "quews.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfaFYXBv0MswzkXxpbBMxvREZ1BQCDbnv5zbUa-lk_3Ku9bFh1v34g-DpilA-MeOxRDKaWA6gOag3EeBz3KEKWDzgdQ6aKcXXW65qC6pjD6uQQa08Mtt16LSIlnxk8RVOL5Ko7ZpMXnmXUgcvo-V6ItF2ZWJwqWT9jgHf9bCHH2LGEy9QAPQqzpX7U_98uSDmKvC9ACBE8PbU-9Vq87WRXQ=="
+        },
+        {
+          "title": "vaticannews.va",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlG4DX0UIoEuS9uvKj7q9hhOyWRdL-ZdYS768459K9NMdILmFUYQjhbZ1nefkDlh-GqvtFhKYrsVPIT5owvRcQxiBg2UF45xFdp7c2zNcSxTRPi3DTu_2HDeVrYVDt0S8_hrQf3lCNWeeXZgk-qog9JIfLTIeBwuelKGAFO6Cc6xgDz6INvFwJWA0J4DPHwT-tn_DlycPVrUjWNsj4r5OGcllLVqM8N8Q_Ss8rKQ=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDV1ehzWAM8TIM-ErrWrhHCzPYhi5fkNiNbYJZVFaz3imZ8cdtrpMzySr8NwVHuh8mm2sllZn6q3jumVfeGbEwSgxyUsSy2oBavFVUaDkHxw1CTpOS-7w9OCpDchjHNZ10S0dK2MLDyrz5FP8vVoOOZPONOV5Fm8tNlq12PaJ3KpMfkekTGouJ-6xp_48jPsivP1vTJHuwUhDhdhNnWWFjyIwX"
+        }
+      ]
+    }
+  }
+}
