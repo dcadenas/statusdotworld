@@ -1,0 +1,349 @@
+{
+  "date": "2026-10-24",
+  "timestamp": 1792821874663,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Russia-Ukraine truce pending, Israel-Palestine violence escalates, protests in France and Italy.",
+      "summary": "A humanitarian truce is scheduled to begin on October 29 in Oleshky, Ukraine, a city severely impacted by ongoing conflict. Meanwhile, violence flared in the West Bank as Israeli forces killed two Palestinians following alleged attacks on settlers. France is deploying 70,000 police to manage widespread protests over the weekend, and anti-war demonstrations are anticipated in Italy.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6119,
+          "lng": 32.7297,
+          "severity": "red",
+          "detail": "A humanitarian truce is set to begin on October 29 in this front-line city, which faces a dire situation."
+        },
+        {
+          "name": "Hebron, West Bank",
+          "lat": 31.5321,
+          "lng": 35.097,
+          "severity": "red",
+          "detail": "Israeli forces shot and killed two Palestinians in the city following allegations of them opening fire at Israeli settlers."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The French government is deploying 70,000 police to manage fresh weekend protests sparked by learning conditions and the cost of living."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Demonstrations and protests, including an anti-war march, are anticipated throughout Rome and other major Italian cities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN Day highlights rights; digital literacy and AI ethics debated globally.",
+      "summary": "United Nations Day on October 24 emphasizes international cooperation and the protection of human rights globally. Global Media and Information Literacy Week is being observed, addressing the digital divide and the need for factual and accessible information, with UNESCO proposing five laws for media literacy as a 'nexus of human rights'. Discussions around AI safety continue, with Bill Gates noting its potential to perform much physical labor while suggesting societies might reserve certain activities for humans.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "United Nations Day is celebrated globally, with the UN's founding principles on human rights highlighted."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "UNESCO-led Global Media and Information Literacy Week focuses on addressing information access and the digital divide."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "Singapore supports phased access for children to social media, indicating ongoing discussions on digital rights for youth."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "\"Super El Niño\" threatens Australia; climate migration impacts Bangladesh.",
+      "summary": "Australia faces a dire outlook with a 'super El Niño' expected to bring record-breaking droughts, extreme heatwaves, and severe bushfires in 2026-2027, severely impacting macropod populations. Bangladesh is struggling with its cities being unprepared for the influx of climate migrants, highlighting the escalating human cost of environmental change. October 24 also marks the International Day Against Climate Change, underscoring the urgent need for global action.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "red",
+          "detail": "A 'super El Niño' threatens to bring record droughts, heatwaves, and bushfires, impacting local wildlife like kangaroos."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Cities are unprepared for the growing number of climate migrants seeking refuge from environmental changes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Polio eradication continues; Oleshky faces dire health crisis; Breast Cancer Awareness ongoing.",
+      "summary": "World Polio Day on October 24 highlights ongoing global efforts to eradicate the disease, celebrating the contributions of those working to make the world polio-free. In Oleshky, Ukraine, the remaining population, primarily elderly residents, is in urgent need of medical attention, medicine, food, and clean water amidst the dire situation. Breast Cancer Awareness Month continues with events like the Ironman GNCC promoting health and early detection.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6119,
+          "lng": 32.7297,
+          "severity": "red",
+          "detail": "The city's remaining elderly population is in urgent need of medical attention, medicine, food, and clean water."
+        },
+        {
+          "name": "Indianapolis, USA",
+          "lat": 39.7684,
+          "lng": -86.1581,
+          "severity": "green",
+          "detail": "The Ironman GNCC event is turning pink to support Breast Cancer Awareness Month."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices surge on Mideast tensions; AI jitters hit US stocks; France protests rising costs.",
+      "summary": "Global oil prices surged to their highest since June 2022, with Brent crude reaching $116.20 per barrel, driven by fears of renewed US strikes on Iran and escalating regional tensions. US stock markets closed sharply lower due to deepening concerns about the artificial intelligence trade. In France, widespread protests fueled by broader anger over the rising cost of living continue to challenge the government.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Fears of renewed US strikes on Iran contribute to rising global oil prices."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "US major indices closed sharply lower amidst ongoing concerns about the artificial intelligence trade."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Protests fueled by the rising cost of living have spread nationwide, adding pressure to the government."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "French government faces pre-election protests; BC Conservatives lead Canadian provincial election.",
+      "summary": "France is at a critical political moment with widespread protests related to learning conditions and the cost of living ahead of presidential elections, where Marine Le Pen is polling as a frontrunner. The French government is accusing 'ultra-left' groups of trying to 'bring down the republic'. In Canada, British Columbia is holding an election, with final polls showing the BC Conservatives leading with 44% and potentially securing a majority government.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Widespread protests and political tensions are escalating ahead of presidential elections."
+        },
+        {
+          "name": "Victoria, British Columbia, Canada",
+          "lat": 48.4284,
+          "lng": -123.3656,
+          "severity": "yellow",
+          "detail": "Final polls ahead of the provincial election indicate the BC Conservatives as frontrunners for a majority government."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Planned demonstrations and protests, including an 'Italy Out of the War' march, highlight political discontent."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Dire humanitarian needs in Oleshky, Ukraine; climate migrants strain Bangladesh cities.",
+      "summary": "Oleshky, Ukraine, faces a dire humanitarian crisis, with its remaining elderly population in urgent need of medical attention, food, and clean water; an evacuation is being prepared. Bangladesh is grappling with its cities being unprepared to protect and integrate climate migrants, exacerbating existing humanitarian challenges. United Nations Day on October 24 serves as a reminder of the importance of international cooperation and humanitarian efforts globally.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6119,
+          "lng": 32.7297,
+          "severity": "red",
+          "detail": "The city's remaining elderly residents are in urgent need of medical attention, food, and clean water."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Cities are struggling to cope with the influx of climate migrants, lacking adequate infrastructure and resources."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "United Nations Day emphasizes the importance of international cooperation and humanitarian aid efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXN2W6Sxo7_RM56C9jM8VMZQ6yW4WY5RL99FzGdK--TT_oB-muX1D8ehs1Rrn9xYboo3R4SehokLyC0UwORPYyv0bg8sIMAY8k1udMBtjXs1unPzMLb7jfK_bF0P_SHv2K2AgIvWWQ5abm36N36OAgT2WAaHZAJ9esVClL0qk="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIESthswqhcFVDUDkDq5OOwXl25kJnMlo1dk57AZ0EtZso16vTQoFz4rTyXjUHueiamopFOGxnqqwU1tabJsgPQkscTftHHhgH5zofg9dpft9g8A7hz3M8LnbU9BZfT0JKoDn_C0kWgKPBW35RPmTBl22hdGwFsXDAAiUhKaWblrybUg=="
+        },
+        {
+          "title": "usembassy.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzi0WfsqHq1zNvvZnoh3nKqYA2znE6s0AZtwKwrvVoHz0O2rWO3fgnlNHVtEKCSuMCFzYaHNuLY1R4_HWiD1vX7LeDiZbO12dGrgO8mbc9xE3CRo10SCWOgOUAYxJEWkT6bvNShk41-0-KsNo4jIuDfIQpc5T23PLCEpq7mbshsXzDN-tenzonfsohW3azQ=="
+        },
+        {
+          "title": "ua.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6b-qIJYaL7MXVTLIaa-Xqgi3S4wfVUModeiVywIEoUnbyAG367wLD5Kji00mRKetxUWoFrCzB0YsLBsP_96s8OdR5Osg6Wqje_gjvbmdC9BAmPk1oazXycNIatmsKsP9ORwZ9bc2PBm1FHrhf6FnkZ0CU8aQ-DZVsc-llAwG2ywwNzFwhsdIDWBd_yBoiVlUXdkNWrV5zrz1ujcc1VSL537w3QMTWFM="
+        },
+        {
+          "title": "jurist.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTPUKsi3H35BDLK4F5V3060RALXfUg0gziMrH3VpmPn6Lm6wwd4MzxWo2s2kpg7WU-jjnRjauOzpf31q6lRi9R2c6Ow9-BLurMVL7773AgMyCAFAFsAq54t-iF1jJALZJxXTvDoCLluiIHFw9KA5XfMMhMeZUp_VDfLg0IFNjn2cnxxDMX5bm_kiuxnPeaDjTy-74spdq4Tf7OJzVXoBse1jDPunuSg=="
+        }
+      ]
+    }
+  }
+}
