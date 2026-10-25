@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-25",
+  "timestamp": 1792908263385,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran strike threat, Sudan drone deaths, Israel-Palestine tensions escalate.",
+      "summary": "On October 25, 2026, the US President hinted at possible strikes on Iran, signaling a potential escalation in the ongoing conflict, while Iran sends conflicting signals on a peace deal. In Sudan, UN Human Rights Chief condemned drone strikes that killed at least 306 civilians in the first three weeks of October, exacerbating the humanitarian crisis. Tensions are also high in the Middle East with Israel closing West Bank crossings and deploying troops after Palestinian attacks, coinciding with upcoming elections.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Potential US strikes threatened by President Trump amidst an elusive peace deal."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "US President hints at possible strikes on Iran, signaling a potential escalation."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.62,
+          "lng": 32.72,
+          "severity": "yellow",
+          "detail": "A humanitarian truce has been agreed to allow aid and civilian evacuation."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Drone strikes by SAF and RSF killed hundreds of civilians in October."
+        },
+        {
+          "name": "Hebron, Palestinian Territories",
+          "lat": 31.5333,
+          "lng": 35.0999,
+          "severity": "red",
+          "detail": "Israel imposed widespread closures and displaced residents after Palestinian attacks."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel raises alert level and deploys troops ahead of elections and potential missile launches."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Fighting continues in Taiz, deepening a humanitarian crisis and obstructing aid."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Civilian casualties high in Sudan; Israel displaces Hebron residents.",
+      "summary": "UN experts began a visit to Paraguay to assess anti-torture safeguards, marking a constructive step for human rights. However, in Sudan, drone strikes have killed hundreds of civilians, constituting severe human rights violations. In the West Bank, Israel's imposition of closures in Hebron and displacement of residents following attacks raises significant human rights concerns.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Drone strikes by warring factions resulted in hundreds of civilian deaths and injuries."
+        },
+        {
+          "name": "Hebron, Palestinian Territories",
+          "lat": 31.5333,
+          "lng": 35.0999,
+          "severity": "red",
+          "detail": "Israeli forces displaced around 2,000 residents and imposed widespread closures."
+        },
+        {
+          "name": "Asunción, Paraguay",
+          "lat": -25.2637,
+          "lng": -57.5759,
+          "severity": "green",
+          "detail": "UN torture prevention experts visit to assess anti-torture measures."
+        },
+        {
+          "name": "Bridgetown, Barbados",
+          "lat": 13.1099,
+          "lng": -59.6179,
+          "severity": "yellow",
+          "detail": "Caribbean nations continue campaigns for slavery reparations with support from British descendants."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Europe heatwaves kill 50,000; UN warns 1.5°C target will be breached.",
+      "summary": "A new study revealed Europe's summer heatwaves in 2026 caused an estimated 50,000 deaths and a €17 billion GDP hit, with most fatalities linked to climate change. The UN Environment Programme's 'Emissions Gap Report 2026' indicated that global temperature rise is set to exceed 1.5°C, emphasizing the urgent need for deep emission cuts. Meanwhile, California's climate assessment projected significant temperature increases and sea-level rise by mid-century, highlighting regional vulnerabilities.",
+      "regions": [
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "red",
+          "detail": "Imperial College London study reported 50,000 heat-related deaths in European cities during summer 2026."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Europe experienced significant heatwave-related mortality and economic impact."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "red",
+          "detail": "The UN Environment Programme (UNEP) released a report on exceeding global warming targets."
+        },
+        {
+          "name": "Sacramento, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California's climate assessment projects significant temperature increases and sea-level rise."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "US measles cases double; Ebola outbreaks persist in Africa.",
+      "summary": "The US CDC reported 4,588 measles cases in the United States as of October 22, 2026, more than double the previous year, with major outbreaks in Pennsylvania, South Carolina, and Utah. Meanwhile, an Ebola outbreak caused by the Bundibugyo virus continues in the Democratic Republic of the Congo, with new cases also reported in Kenya and Nigeria in October. A new study also raised concerns about the habit-forming potential of CBN, a cannabis-derived ingredient in popular sleep gummies.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.442,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "Ongoing Ebola outbreak with thousands of confirmed cases and deaths since May 2026."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "New Ebola cases reported in October, linked to the ongoing outbreak."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "New Ebola cases reported in October, linked to travel history to Uganda."
+        },
+        {
+          "name": "Harrisburg, USA",
+          "lat": 40.2732,
+          "lng": -76.8837,
+          "severity": "red",
+          "detail": "Pennsylvania reported 1,338 measles cases amid a significant US outbreak."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.7488,
+          "lng": -84.3877,
+          "severity": "yellow",
+          "detail": "The US CDC reported a significant increase in measles cases across the country."
+        },
+        {
+          "name": "Storrs, USA",
+          "lat": 41.808,
+          "lng": -72.2519,
+          "severity": "yellow",
+          "detail": "University of Connecticut research warns about potential dependence risks of CBN sleep aids."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces rising inflation, looming debt crisis.",
+      "summary": "The IMF's October 2026 World Economic Outlook indicates that the global economy remains resilient with projected growth at 3.1% for 2026, despite ongoing conflicts. However, global headline inflation is expected to rise to 4.7% this year, driven by higher commodity prices, and risks are skewed to the downside from escalating conflicts and fiscal vulnerabilities. There is also a looming global debt crisis, particularly impacting developing nations, exacerbated by rising interest rates and ongoing conflicts.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF released its World Economic Outlook, highlighting global economic resilience and challenges."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "The Edge Malaysia reported on a looming global debt crisis, especially for developing countries."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UNCTAD report shows rising FDI in developed economies but a decline in sustainable development projects in developing countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Tense elections in Brazil, Israel; US midterms campaigning heats up.",
+      "summary": "Brazil is preparing for a tense presidential runoff election between Lula and Bolsonaro, with the race expected to be very close and reflecting deep political polarization. In the United States, former President Barack Obama campaigned aggressively for Democratic candidates in Ohio and Michigan, criticizing the Trump administration ahead of the November 3 midterm elections. Israel is also gearing up for parliamentary elections on October 27 amidst heightened security concerns and political campaigning.",
+      "regions": [
+        {
+          "name": "São Paulo, Brazil",
+          "lat": -23.5505,
+          "lng": -46.6333,
+          "severity": "yellow",
+          "detail": "Brazil faces a tense presidential runoff election with deep political polarization."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Former President Obama campaigned for Democrats in crucial swing states."
+        },
+        {
+          "name": "Cleveland, USA",
+          "lat": 41.4993,
+          "lng": -81.6944,
+          "severity": "yellow",
+          "detail": "Barack Obama rallied for Democratic candidates in Ohio for the upcoming midterm elections."
+        },
+        {
+          "name": "Detroit, USA",
+          "lat": 42.3314,
+          "lng": -83.0458,
+          "severity": "yellow",
+          "detail": "Barack Obama rallied for Democratic candidates in Michigan for the upcoming midterm elections."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Parliamentary elections are scheduled for October 27 amidst security alerts."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7872,
+          "lng": 20.4573,
+          "severity": "yellow",
+          "detail": "150,000 people rally in student-led protests ahead of Sunday's election."
+        },
+        {
+          "name": "Victoria, Canada",
+          "lat": 48.4284,
+          "lng": -123.3656,
+          "severity": "green",
+          "detail": "The BC Conservative Party is projected to form a majority government after a snap election."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Famine warnings in Sudan; Yemen aid access critical amid conflict.",
+      "summary": "Western countries are warning of looming famine in Sudan, where 19.5 million people face high levels of acute food insecurity, and lawyers are proposing relief centers amidst ongoing conflict and aid obstructions. In Yemen, the EU announced additional humanitarian aid, but renewed fighting in Taiz is deepening needs and obstructing aid delivery, with the UN warning of a severe health crisis due to siege and supply closures. A humanitarian truce was agreed for Oleshky, Ukraine, enabling aid delivery and civilian evacuation, offering a positive development in that conflict zone.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Western countries warn of famine, with millions facing acute food insecurity and aid obstructions."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Renewed fighting and siege in Taiz are severely impeding humanitarian aid delivery and causing a health crisis."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.62,
+          "lng": 32.72,
+          "severity": "yellow",
+          "detail": "A humanitarian truce has been announced to facilitate aid and civilian evacuation."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The EU announced additional humanitarian assistance for Yemen amidst deepening crisis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatvnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sGnma279L7Q07BIPRDejBgFXL5dH9lcdLd2oQmcHV6IUSoFi45-SLTbKW3TNMXgf813YBWcPhAefOzDgTETMouJcidHOp1idSZY5kKLMH0dfdskfnBFubMn4kLY8KCjq15yV17P5__B5TWmFKqgPnoyKUHgVnsMMu-HyGIz4Bx9IcSB_EZRC82Hry3h8FpNhNkfW6DrOSA0O5ZrWUZQ3ZcBo4cneqk16pMLCJKYSxRntPKL4bhwg8vKjyAJtRwrpuv4rG7_qC9Ym2MDU9kkYJj25vLEqM5F_sypIYNNlg5HgdVq"
+        },
+        {
+          "title": "iranintl.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMTbCmUKn-Qb0wGh3UV4Xt-OYPlJFYHzopub0CnwVZ6O7trSJ2IIZl0t57_DrQMrBniWwZ_3tigK4haVJ6qDUB-2uLqjXk0d-fdtoH-TOjOBACkYDhwX_RLZ1xOIiUrGNfZI="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDj_65fSdaXowY6ERC9FvMFinLj3kuOtQDXD-XNCfXoNXwm_tvvWStJo2_YCOGR9CUMCpzkTg9GxXWsjbYtD5C6-_6Rzq2CSDov6w1gTdYyJH-oDr5giPvWYfOB-gaMnzDsQ=="
+        },
+        {
+          "title": "ohchr.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGr5hrTCqGtNPqD9KCtxJ4RBilZvqa_jN_oqDRLRbmAkw7a6UkEB7GMoW_6BmfDfEs8UdaMIK4W0y9_1hSxWnuK_lhDh2NMRpUFpRWKes4aASSJfEOMmXjM41f-rU_CwP5j-8CmagaKdA7U6vmUgmOS0R0Imnxqfpu7EtX2bU3bHNnfdzIC-j722mcSJqW20Zms-ccEet45sOPwlpfu36f2sir3Cnw8Ai3iw=="
+        },
+        {
+          "title": "un.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBF5KX09bj0WkPaMSusUkZAHOnsV1jR-w0SCPXmLfVl38tKZlZCUqcgWPDxxhtizKd0HTGcjKUz8J_YcY4C5mQ1_nHzHYdXCTibyP0PCNwz3warLE3_JK9WIRJp-rDRvhPqn4q5zlK"
+        }
+      ]
+    }
+  }
+}
