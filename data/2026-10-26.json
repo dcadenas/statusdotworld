@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-26",
+  "timestamp": 1792994742000,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Tensions heighten in Middle East; US-Iran conflict speculation rises.",
+      "summary": "Tensions in the Middle East have intensified, with reports of military operations and exchanged warnings between the United States, Israel, Saudi Arabia, Yemen, and Iran. Saudi-led coalition forces launched operations against Houthi targets in Yemen, while US President Trump and Israeli Prime Minister Netanyahu made statements regarding actions against Iran. The Pentagon is also reportedly preparing a 'doomsday plan' to ensure US military bases can operate independently during a major global conflict.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's foreign ministry stated they are open to diplomacy but the U.S. persists in unilateral demands, with concerns rising about an all-out war."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Prime Minister Netanyahu has instructed Israel's Mossad and military to overthrow Iran's government, ahead of an election on October 27."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6877,
+          "severity": "red",
+          "detail": "The Saudi-led coalition claimed strikes on Houthi tunnels and missile launchers and intercepted a ballistic missile towards Riyadh."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi forces claimed ballistic missile attacks on Aden and Lahij, and alleged Saudi forces carried out dozens of strikes in Yemen."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Pentagon is developing a 'doomsday plan' for military bases to operate independently in case of global multi-front conflict."
+        },
+        {
+          "name": "Alabuga, Russia",
+          "lat": 55.7725,
+          "lng": 52.0163,
+          "severity": "yellow",
+          "detail": "A report highlights human rights abuses and trafficking in the Alabuga drone factory, which manufactures Iranian-designed Shahed drones for use in Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Concerns over AI safety and tech privacy, with new immunity proposals in Fiji.",
+      "summary": "AI safety evaluators have raised concerns regarding Anthropic's testing methods for catastrophic AI risk and vulnerabilities in OpenAI's internal systems, alongside a newly disclosed flaw in a widely used data compression tool. In Fiji, the UN Human Rights office expressed grave concerns over proposed constitutional changes that could expand immunity for state officials, potentially undermining accountability for human rights violations. Furthermore, a report highlights human rights abuses and human trafficking in Russia's Alabuga drone factory.",
+      "regions": [
+        {
+          "name": "Fiji",
+          "lat": -17.7134,
+          "lng": 178.065,
+          "severity": "yellow",
+          "detail": "The UN Human Rights office raised concerns over proposed constitutional changes expanding immunity for state officials, potentially undermining accountability."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "UN experts expressed alarm over heavy-handed police responses to youth-led demonstrations and reported human rights violations."
+        },
+        {
+          "name": "Alabuga, Russia",
+          "lat": 55.7725,
+          "lng": 52.0163,
+          "severity": "yellow",
+          "detail": "A report by CSIS and the George W. Bush Institute details gross human rights abuses and human trafficking at the Alabuga drone factory."
+        },
+        {
+          "name": "California, United States",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "yellow",
+          "detail": "OpenAI urged California's Governor to strengthen the state's AI safety law with additional safeguards."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate change pushes Earth's systems to limits; US data centers strain water supplies.",
+      "summary": "A UN Environment Programme report from October 2026 warns that global temperature rise is set to exceed 1.5°C, with Earth's life-support systems being pushed beyond stable limits and extreme weather events becoming more common. In the US, a growing number of data centers, vital for the AI industry, are being built in areas where water supplies are already strained, exacerbating environmental pressure. Connecticut residents are protesting a new methane gas pipeline due to environmental concerns and climate impact.",
+      "regions": [
+        {
+          "name": "Newport, Oregon, United States",
+          "lat": 44.6207,
+          "lng": -124.0538,
+          "severity": "yellow",
+          "detail": "A fire at a seafood plant raised concerns about an ammonia leak, and caused a partial building collapse."
+        },
+        {
+          "name": "Connecticut, United States",
+          "lat": 41.6032,
+          "lng": -73.0877,
+          "severity": "yellow",
+          "detail": "Residents are protesting a proposed new methane gas pipeline due to environmental and climate impact concerns."
+        },
+        {
+          "name": "Texas, United States",
+          "lat": 31.9686,
+          "lng": -99.9018,
+          "severity": "yellow",
+          "detail": "Survivors of extreme weather are advocating for urgent action on climate change after floods killed 136 people last year."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.69096,
+          "lng": 14.28821,
+          "severity": "yellow",
+          "detail": "Europe's killer heat this summer claimed 50,000 lives, with climate change blamed for two-thirds of the deaths."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Global health community focuses on strengthening infrastructure and innovation.",
+      "summary": "The Global Conference on Public Health & Epidemiology (PHE 2026) concluded recently in Boston, focusing on strengthening health infrastructure, data-driven decision-making, and integrating equity and sustainability into global health governance. No new major global public health emergencies or widespread disease outbreaks have been reported today. International initiatives continue to focus on long-term preparedness and resilience.",
+      "regions": [
+        {
+          "name": "Boston, United States",
+          "lat": 42.3601,
+          "lng": -71.0589,
+          "severity": "green",
+          "detail": "The Global Conference on Public Health & Epidemiology recently concluded, emphasizing strengthening health infrastructure and innovation."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Public health authorities continue to monitor general health trends with no major new outbreaks reported."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economic resilience strained by Middle East conflict, AI investment boom continues.",
+      "summary": "The global economy shows resilience but is under strain due to the war in the Middle East, which has caused sharp energy price increases and disrupted shipping, notably impacting Gulf economies. Despite this, an AI-driven investment boom continues to support global activity and trade, with some regions like India and parts of East Africa projected for significant growth. Elon Musk has warned of a potential 'AI lending crunch' impacting companies reliant solely on AI data centers, despite SpaceX securing significant financing for AI chips.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 28.6019,
+          "lng": 44.6026,
+          "severity": "red",
+          "detail": "The region faces soaring inflation (projected at 16.3% in 2026) and economic contraction in parts of the Gulf due to ongoing conflict and disrupted shipping."
+        },
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Global financial markets are reacting to geopolitical tensions and AI-related investment trends, with Elon Musk warning of an 'AI lending crunch'."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "green",
+          "detail": "The Crown Prince of Abu Dhabi is visiting Ottawa to strengthen economic and security partnerships with Canada."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "Canada is engaging with the UAE to deepen economic ties, including in AI and critical minerals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy faces global decline; elections test norms in key nations.",
+      "summary": "Democracy continues its global decline for the 11th consecutive year, with a particular vulnerability in the Rule of Law due to authoritarian populism and weakened international law. Key elections in Israel, Brazil, and Serbia this week are pivotal, testing democratic norms against the rise of current or aspiring autocrats. The US also continues to see democratic backsliding, with concerns over legislative dysfunction and executive dominance.",
+      "regions": [
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7942,
+          "lng": -47.8825,
+          "severity": "yellow",
+          "detail": "Brazil is holding runoff presidential elections, with a far-right candidate threatening constitutional changes if he wins."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Parliamentary elections on October 27 will challenge Benjamin Netanyahu's far-right coalition, which has overseen democratic backsliding."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7866,
+          "lng": 20.4489,
+          "severity": "yellow",
+          "detail": "The semi-autocratic rule of Aleksandar Vučić faces its stiffest challenge from a student-led protest movement."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US has seen a decline in democratic freedoms, with concerns over legislative dysfunction and executive dominance."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "The EU Court of Justice held that Hungary failed in its obligations regarding the right of access to a lawyer in criminal proceedings."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Somalia faces severe decline in aid; Sudan crisis continues with dynamic population movements.",
+      "summary": "Humanitarian aid to Somalia has severely declined by 70% over the past two years, with fears it could cease entirely, prompting discussions on strengthening self-reliance. The humanitarian crisis in Sudan continues more than three years after conflict erupted, marked by severe consequences including conflict, displacement, food insecurity, and disease outbreaks, with over 5 million returnees reported. Meanwhile, UAE convoys continue to deliver substantial aid to Gaza, with total shipments nearing 140,000 tonnes since the start of Operation Gallant Knight 3.",
+      "regions": [
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0678,
+          "lng": 45.3172,
+          "severity": "red",
+          "detail": "Humanitarian aid to Somalia has dropped by 70% in two years, raising concerns about potential cessation."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The conflict continues to result in significant displacement, food insecurity, and disease outbreaks, with 5 million returnees reported."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "Two UAE aid convoys delivered 260 tonnes of food supplies, bringing total aid shipments under Operation Gallant Knight 3 to nearly 140,000 tonnes."
+        },
+        {
+          "name": "Al Arish, Egypt",
+          "lat": 31.1329,
+          "lng": 33.7987,
+          "severity": "green",
+          "detail": "The UAE Humanitarian Aid Logistics Centre in Al Arish continues to manage and dispatch aid to Gaza."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0392,
+          "lng": 125.7625,
+          "severity": "yellow",
+          "detail": "A report on humanitarian efforts highlights the challenges of providing aid amid government restrictions, focusing on development work."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh375oI2zn2tYRcX1wEw4icP8LG7ut3GzRi_j0qawWCXnrRxIBIpFZen25OUMUi_LmGLB0HWxYkFtlJRZX0kKuMqMcEdnL9dQ6a1MVYPhrGp0rSAHP_U-wvO2G3WROAZbEAzS9ezBb2_hx0JdyWYrQO70VeqWmraRJqsvnUgwvDwnZCTFPKiIwixaACpeSl3MqRJUv0z2rl8x-gPnRymIf4_KfDtnlkGEPNgaJ0dE4wUt-bSqiQcPKZsQuDyhQVXY20VgneAc3Lsk8UQzoGgrwK1f-k25SPvkq-oGFF4Rh63c-x-Ywg851jx8Ph1GckxO-C_j6dpysBL4jdUndLt3evg=="
+        },
+        {
+          "title": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_UPkXC8CvA2vEuOgVXu1PCBUT1GCnPjyPH5wripVIMBw9MdDxZp9lIl45BMsAdNFPneQtYMdlrqc8vJqjRompPSU2RnnDv4aXRuDRu-bxL0WfZw2x9HI0I7ZiQPIQ2JCKzeutGrtYSIQxc2QwhvSp0MZjoKJlKT7dmhC_oAHdxv7k_8-Qwmzpt428FT5oN-KKmcp5Zo_HJSHojs-IRJyfyFclpNoGmGu4aloggkT25imKQYfeB-J-tglok0u3iA_glE-EyBIaw=="
+        },
+        {
+          "title": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFpjUM6KLwUQYc8l0EnlU22C-zfvKpQfCxffa2lU_S97GLQg6Lg49kYVcZMdHVSFbJoACvK7AzUMocKLIkdHojanAXzSSPQO2focuwakA4OIE5zaXfdJ28ey_75vW2j6foZyZNZuh1YxNwaLPDNlmByvimmLqU4Go7vaZ1zS15Nv0cIxhlXpkN4ysoHqUpPaKtqrwA3hSIe7QHeWmi-KxG3kFPFxKvoxeUBRRhok6KBWp4oflS0o5_3B8HG9zflgsVmUVm5NSeq6Z-ZL5kiVogJpB044vP4d-HiJTNDA_Erlyh_GHIRTGc7H-ugIrw2yGxW1_Q2DWDcPpZQ=="
+        },
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EfiX7rAzSH8lek-ao9QjqhUUalNYpqPXDLigA8mqfWHDr2w1lzIB4-aP8kOdhgtlIuxw9yNylfOf0pJEoE3yC_fTXubT0nJAIhdRanm0qeLDXEDJtCUaQdmnHEQlozPaBYj4mabzEfKopNW7gu7mD4oDkb-YQ_TnjRdlhcIIjMj2dkZm50hE"
+        },
+        {
+          "title": "csis.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuDbl8aq7i483yFq6z1oWRnZ3D_t8zQEoLSzm_8TEB3_vm8yUbZYjX0lpd6ivOqjI5THim6kxmclnJYyDRMcSVvwlESAm-nTkKVP4JG4qxIrHP_9ICcz977z-Q270a3YM0grEW5a2fIVqAbUjPHrpRTmh8f62Xk3B0zgRR91A3CFO_L-2EbQ=="
+        }
+      ]
+    }
+  }
+}
