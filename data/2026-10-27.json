@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-27",
+  "timestamp": 1793081084392,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine, Middle East conflicts escalate; Oleshky ceasefire offers brief relief.",
+      "summary": "While a localized US-brokered ceasefire took effect in Oleshky, Ukraine, for humanitarian aid and evacuations, overall military activity in the Russia-Ukraine conflict continued with missile strikes towards Kyiv and Russia asserting ongoing military operations despite peace talks. Simultaneously, the Middle East faces severe tensions, with UN warnings of potential ethnic cleansing in Hebron and ongoing Israeli actions in Lebanon, alongside Houthi attacks in Saudi Arabia and a broader risk of Iran-Gulf escalation.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ballistic missiles were reportedly launched towards the city on October 27, 2026."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6219,
+          "lng": 32.7233,
+          "severity": "yellow",
+          "detail": "A US-brokered ceasefire for humanitarian aid and civilian evacuation took effect, offering temporary respite amid dire conditions."
+        },
+        {
+          "name": "Voronezh, Russia",
+          "lat": 51.672,
+          "lng": 39.1843,
+          "severity": "yellow",
+          "detail": "Russia reported a Ukrainian attack on its region, prompting a statement that peace talks would not restrict military actions."
+        },
+        {
+          "name": "Hebron, Palestine",
+          "lat": 31.5322,
+          "lng": 35.0945,
+          "severity": "red",
+          "detail": "The UN human rights chief called for an end to Israel's military operation, warning of possible ethnic cleansing."
+        },
+        {
+          "name": "Southern Lebanon",
+          "lat": 33.3,
+          "lng": 35.3,
+          "severity": "red",
+          "detail": "Israeli artillery reportedly hit several towns in the region."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "The US reissued a security alert for its citizens due to ongoing Iranian-supported Houthi missile and drone attacks."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "UN Chief Guterres warned of devastating consequences from any military escalation involving Iran and Gulf nations."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI privacy concerns rise as UK Home Office deploys covert tech.",
+      "summary": "Concerns over digital rights and privacy escalated with a report alleging the UK Home Office is secretly embedding AI across its operations, impacting immigration processes and potentially reinforcing bias. Human rights organizations urged the EU to strengthen export controls on surveillance technologies, citing risks of human rights violations globally. The UN also highlighted significant risks to human dignity, autonomy, and privacy from data-intensive AI technologies without proper safeguards.",
+      "regions": [
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "A report by Open Rights Group detailed the covert embedding of AI across the UK Home Office, raising concerns about its impact on immigration and human rights."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Human rights groups called on the European Commission to tighten export controls on digital surveillance technologies to prevent their misuse."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN highlighted significant risks to privacy and human rights from data-intensive AI applications, emphasizing the need for effective safeguards."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Reports indicate that age checks, AI regulation, and censorship are putting internet freedom under pressure, potentially affecting privacy and anonymity."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Unprecedented El Niño, inadequate climate pledges, and climate inequality hit globe.",
+      "summary": "An 'unprecedented' El Niño event is causing severe global impacts, including floods in Argentina and Peru, drought in French Guiana, and mass displacement threats in Somalia, prompting UN calls for urgent action. Concurrently, a UN report revealed that national climate pledges fall drastically short, projected to cut emissions by only 6% by 2035 instead of the 60% needed, worsened by the US withdrawal from the Paris Agreement. An Oxfam report further highlighted how the super-rich profit from both the causes and consequences of climate breakdown, exacerbating global inequality.",
+      "regions": [
+        {
+          "name": "Buenos Aires, Argentina",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "severity": "red",
+          "detail": "The region is experiencing significant flooding linked to the 'unprecedented' El Niño event."
+        },
+        {
+          "name": "Lima, Peru",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "severity": "red",
+          "detail": "Deadly fires are occurring in Peru, attributed to hot, dry air resulting from El Niño."
+        },
+        {
+          "name": "Cayenne, French Guiana",
+          "lat": 4.9348,
+          "lng": -52.3333,
+          "severity": "yellow",
+          "detail": "The region is experiencing drought conditions as a result of the strong El Niño."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0371,
+          "lng": 45.3438,
+          "severity": "red",
+          "detail": "The IOM warns that 874,000 people could be forced to leave their homes in the next three months due to expected El Niño-strengthened flooding."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A UN report published from Paris highlighted the severe inadequacy of global climate pledges to meet emission reduction targets."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7132,
+          "severity": "green",
+          "detail": "The upcoming COP31 climate conference in November will address the significant gaps in climate action."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak intensifies in DRC, spreads to Kenya and Nigeria.",
+      "summary": "A severe Ebola (Bundibugyo virus) outbreak continues to escalate in the Democratic Republic of Congo, with nearly 10,000 confirmed cases and over 4,800 deaths as of October 25, 2026. The outbreak has spread, with Kenya reporting nine cases and two deaths linked to a traveler from the DRC, and Nigeria confirming one imported case with travel history to Uganda. Other disease alerts include scrub typhus in India and Nepal, Japanese encephalitis in Vietnam, and cholera in Zambia.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country continues to battle a severe and widespread Ebola outbreak with nearly 10,000 cases and over 4,800 deaths reported."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Nine confirmed Ebola cases and two deaths, all linked to an imported case from the DRC, have been reported."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "One imported Ebola case was confirmed in a person with recent travel history to Uganda."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "green",
+          "detail": "Uganda's Ebola outbreak has officially ended, though it was a point of origin for the Nigerian imported case."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Scrub typhus and dengue cases continue to be reported across India in 2026."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3221,
+          "severity": "yellow",
+          "detail": "A cholera outbreak has resulted in over 1,200 cases and 25 deaths since July 2026."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth slows, inflation rises, China's economy faces significant challenges.",
+      "summary": "The IMF's October 2026 outlook projects global growth to decelerate to 3.1% this year, with headline inflation notably rising to 4.7%, driven by geopolitical disruptions and higher energy costs. China's economy faces significant challenges, including weak consumer demand, a property sector downturn, and high youth unemployment, even as its surging exports lead to international pushback. Central banks are making difficult choices between supporting growth and controlling inflation amidst these pressures.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The IMF released its World Economic Outlook, highlighting slowing global growth and rising inflation influenced by geopolitical factors."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's economy is experiencing a slowdown due to weak domestic demand, a property crisis, and high youth unemployment."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European central banks are among those facing difficult choices to combat renewed inflationary pressures caused by higher energy prices."
+        },
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "yellow",
+          "detail": "Instability in the region continues to contribute to elevated energy prices and global inflationary pressures."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterms approach amid trust erosion; Israel votes on post-war leadership.",
+      "summary": "The United States is preparing for its 2026 midterm elections amid ongoing concerns about the erosion of trust in electoral systems, significantly influenced by political rhetoric and the impact of new technologies. In Israel, elections are being held today, October 27, 2026, marking a critical moment for the country as voters assess leadership and security policies in the aftermath of recent conflicts. Globally, digital tools are being used to mobilize pro-democracy movements, though often met with state resistance.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The approaching 2026 midterm elections highlight ongoing concerns about the undermining of trust in American democratic processes."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Voters are heading to the polls today, October 27, 2026, in an election seen as a referendum on leadership and future strategic direction following recent wars."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Pro-democracy movements are utilizing digital tools for mobilization, often facing state violence and retaliation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Sudan famine looms, Ukraine ceasefire aids Oleshky, El Niño threatens millions.",
+      "summary": "Sudan faces an alarming risk of famine, with 19.5 million people experiencing high levels of acute food insecurity and calls for urgent action to lift aid impediments. A US-brokered ceasefire in Oleshky, Ukraine, has taken effect to deliver critical humanitarian aid and evacuate civilians from dire conditions. The UN warns that the 'unprecedented' El Niño could push tens of millions into humanitarian need across Latin America, Africa, and Asia, with Somalia facing mass displacement due to flooding.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "Sudan is experiencing an alarming deterioration in food security, with millions facing emergency levels of food insecurity and risk of famine."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6219,
+          "lng": 32.7233,
+          "severity": "yellow",
+          "detail": "A ceasefire began today to facilitate humanitarian aid deliveries and the evacuation of civilians facing severe shortages."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0371,
+          "lng": 45.3438,
+          "severity": "red",
+          "detail": "The country is expected to see above-normal precipitation due to El Niño, threatening to displace 874,000 people due to flooding."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Humanitarian crises persist, with ongoing famine risk and displacement affecting millions."
+        },
+        {
+          "name": "Taiz, Yemen",
+          "lat": 13.5683,
+          "lng": 44.0207,
+          "severity": "red",
+          "detail": "The city faces severe shortages due to a Houthi blockade, with nearly 260,000 people displaced and hospitals on the brink of collapse."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "UN aid chief Tom Fletcher issued a joint call for urgent anticipatory action to protect communities vulnerable to El Niño's impacts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "hellenicshippingnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzFSmEOAGc2aI2TQby6dBehTXvqbtm0_AaNSSoYJSGUuy6Xt7yPMFRIX8O7y5OPD3K5oS2tCEPdN-Qkoqs_R-g1hgLbiwqyBksC_V0fuQO5j1N_296xZ7ea45PlbPo9JahIob-eoHfMI0fGHVJBywtNijiPj7dJRlNgK0tnbWBhfpn8QwFUA2mt8o_wT5hVDAemay"
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTJf3S4_qJhiRUpUjbWlPIC4Dg5XN4Esi5hRHtgr4eFkEV1-YdRT1_SYCt_2dKPd7EttMgermzdzxDmrGkY9rsUUauZ5hiyeTopIjf1xNwHxsI_00z499NlSJyR2BzoQYPIyPeXWbXyvEnWNw-jEZ9ANDvHNlLyW4OQNhfb377JYmHVbQwATLlwGwi4wJE5BrmMFnk73WgvfP_06zfwXfEe6AwcDIEXLMsAhiY5NPF0Gy0SX_vw=="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxnXeSsy51dR0xxxOtlvcfJkG2Dh6oIvtBkWSLBGPE7-AtzRXog-utwIEFP0L4l6GvCux-m2fYRg6v2YSyLiu4yYzAhME34u_NHaASHYiZf6U89L1Pzq2dKt_JVZFFPkSuRfLyykTJuWKXEwebYDh7021k2H7V5Bbgnda4wh1aoyddNisdQoIXKJkMqxqArnVyZ3-WXOyZamvCPN0zIL-n6-IDl1M4UBYxA=="
+        },
+        {
+          "title": "euronews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx8YXDaVmr9-228wNTZBKGl9RJjBfC1IusOOJx76S5_deBrjV-dT_MA8RN_-0oaQ9Lu79TvUXQyT2RwoSvuN9lxN9-r6HmV3x-Uf3Ww3BMmBb9SrkuoEZtcWbMXNSf9-fnCFBVBkjruinZmO-eexfYI15S27Y6lT1n_SAFuWh12qv5-kRj7zcLbpyCPaX671uh98Pu-iZ-jFXyECsS5CVTsfm477wqv98_omw="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q2rdzVXrg7goBf1pG-OJJW-2bor5ZjULxwYjiNzuIQvas8U3TYhIZOkICxu7M32R2KuQh5xXgbn93yV9K33p_3yyA8B5UNiO-1OEdwzO_ZNGKV3d45lkzf7DdiAI6JIrihwu7F1TkqW4WT7bjxKGlU0KwhT3cRxUasIbEAoFhzCauqi4K2zJRgJjH3AvwMMPGD7-R9CY1VrQCCFbiVpR3LdOLi9uRXnFPT-zvcjiItNR4w=="
+        }
+      ]
+    }
+  }
+}
