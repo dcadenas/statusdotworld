@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-28",
+  "timestamp": 1793167451868,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "New peace talks proposed for Ukraine; Middle East conflicts persist.",
+      "summary": "On October 28, 2026, Russian President Putin reportedly expressed openness to direct peace talks with Ukrainian President Zelensky in Moscow, with assurances of security. Meanwhile, the Middle East continues to experience significant unrest, with Gulf states working on a peace deal to avert a renewed US-Iran war and reports of ongoing hostilities between Saudi Arabia and Yemen's Houthis. Separately, seven people were killed as Jordan bombed Syria following a church attack, and Israel held elections amid an ongoing conflict and a UN report citing war crimes in Gaza.",
+      "regions": [
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "President Putin reportedly indicated readiness for direct peace talks with Ukraine, proposing Moscow as the venue."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ukrainian President Zelensky is being urged to consider direct peace talks in Moscow."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran is a key party in Gulf states' efforts to avert a renewed war, with discussions on sanctions relief and Strait of Hormuz."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "Ongoing hostilities involving Yemen's Iran-aligned Houthis contribute to Middle East conflict and rising oil prices."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel held elections without a clear winner amidst an ongoing conflict and a UN report finding war crimes in Gaza."
+        },
+        {
+          "name": "Amman, Jordan",
+          "lat": 31.9454,
+          "lng": 35.9284,
+          "severity": "yellow",
+          "detail": "Jordan bombed targets in Syria, resulting in seven deaths, following a deadly church attack."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.5138,
+          "lng": 36.2765,
+          "severity": "yellow",
+          "detail": "Syria was the target of bombings by Jordan, adding to regional instability."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "A U.N. Commission of Inquiry found Israel committed genocide in Gaza and war crimes in the West Bank."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights for children debated; UN highlights rising conflict-related sexual violence.",
+      "summary": "Experts in the Philippines discussed balancing online protection for children with their digital rights and privacy, amidst proposals for new legislation. Concurrently, the UN Secretary-General reported a sharp increase in conflict-related sexual violence, with over 9,700 verified cases last year, and noted restrictions on women's rights and education in several conflict zones. Debates around AI regulation and internet freedom continue globally, particularly concerning age verification systems and content labeling.",
+      "regions": [
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Legal experts debated proposed legislation to protect children online while safeguarding their digital rights and privacy."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General highlighted a significant increase in conflict-related sexual violence and restrictions on women's rights globally."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5201,
+          "lng": 69.1347,
+          "severity": "red",
+          "detail": "Women and girls continue to face severe restrictions on their fundamental rights, including education, in conflict settings."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India introduced rules requiring prominent labels on AI-generated content and shortened content removal deadlines, raising internet freedom concerns."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "The government is exploring ways to compensate creators whose work is used to train AI models."
+        },
+        {
+          "name": "Taguig City, Philippines",
+          "lat": 14.5176,
+          "lng": 121.0509,
+          "severity": "green",
+          "detail": "Justice Marvic Leonen emphasized legal aid and support for marginalized communities alongside technology for justice access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate change declared 'global health emergency'; US ends methane restrictions.",
+      "summary": "The Lancet Countdown report, published today, declared climate change a 'global health emergency,' revealing accelerating health harms, a record 710,000 heat-related deaths in 2023, and 3 million deaths from 2016-2023, with over 70% linked to human-caused warming. Meanwhile, US President Donald Trump announced an end to Biden-era restrictions on climate-warming methane from oil and gas drilling, aiming to save companies billions. Furthermore, scientists in New Zealand noted massive wildfires are measurably changing Earth's methane emissions, as global greenhouse gas concentrations reached unprecedented levels in 2025.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "The Lancet Countdown report, released in anticipation of COP31, declared climate change a 'global health emergency'."
+        },
+        {
+          "name": "Lubbock, United States",
+          "lat": 33.5779,
+          "lng": -101.8552,
+          "severity": "red",
+          "detail": "President Trump announced the termination of a Biden-era rule aimed at cutting methane emissions from oil and gas drilling."
+        },
+        {
+          "name": "Wellington, New Zealand",
+          "lat": -41.2865,
+          "lng": 174.7762,
+          "severity": "yellow",
+          "detail": "Scientists revealed massive wildfires are altering Earth's methane emissions and that greenhouse gases hit record highs in 2025."
+        },
+        {
+          "name": "Southeast Asia",
+          "lat": 0,
+          "lng": 100,
+          "severity": "red",
+          "detail": "This region, along with Africa, was identified as among the hardest hit by climate change's economic costs due to reduced worker productivity."
+        },
+        {
+          "name": "Africa",
+          "lat": -8.7832,
+          "lng": 34.5085,
+          "severity": "red",
+          "detail": "This continent experienced significant economic losses from warming and has an Ebola outbreak."
+        },
+        {
+          "name": "Bonn, Germany",
+          "lat": 50.7374,
+          "lng": 7.0982,
+          "severity": "yellow",
+          "detail": "Delegates discussed trade and climate change, with tensions expected to flare at the upcoming COP31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak in DRC surpasses 10,000 cases, spreads to neighboring countries.",
+      "summary": "The Democratic Republic of Congo is grappling with its deadliest Ebola outbreak on record, with confirmed cases exceeding 10,000 and 4,887 deaths as of October 27, 2026. The Bundibugyo strain of the virus has spread across borders, with cases confirmed in Kenya, Nigeria, and Uganda enacting strict quarantine measures. Efforts to contain the virus are hampered by public mistrust and attacks on health workers, while the Lancet report simultaneously highlights the severity of climate change as a 'global health emergency' due to heat-related deaths.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "The country recorded over 10,000 Ebola cases and nearly 5,000 deaths, marking its deadliest outbreak."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "red",
+          "detail": "Kenya reported nine cases and two deaths from the Ebola outbreak, with most infected having traveled from DRC."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Nigeria confirmed an Ebola infection linked to the wider epidemic, prompting investigations into the virus's spread."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Uganda requires returning citizens from Congo to undergo a 21-day quarantine to prevent further Ebola transmission."
+        },
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.767,
+          "lng": 29.8,
+          "severity": "red",
+          "detail": "The Ebola virus was first detected in this northeastern province, initiating the DRC's 17th outbreak."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "The Lancet report, published here, called for climate change to be declared a 'global health emergency' due to rising heat-related deaths."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Inflation rises globally; Fed decision looms; AI fuels stock market gains.",
+      "summary": "Global stock markets, particularly in the US and Asia, experienced gains driven by continued investor bets on Artificial Intelligence, with global AI investment forecast to hit $2.7 trillion in 2026. However, inflation remained a significant concern, with Australia's headline inflation at 3.9% and increases reported across major advanced economies due to higher oil prices and tariffs. The US Federal Reserve was set to announce its interest rate decision today, with expectations to hold steady despite September's CPI rising to 3.7%, partly due to the US-Israel war on Iran and the AI investment boom.",
+      "regions": [
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street saw stock market gains, particularly in AI-related tech, but awaited the Federal Reserve's interest rate decision amidst inflation concerns."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The Federal Reserve's Open Market Committee announced its decision on interest rates, with inflation influenced by the US-Israel war on Iran."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Australia's headline inflation remained at 3.9%, with underlying inflation exceeding forecasts, sparking debate on government spending."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European markets showed mixed trends, with Germany's DAX up, but inflation increased in major advanced economies like France and Italy."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Stock markets in Japan, South Korea, Taiwan, and Australia climbed, following gains on Wall Street."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Oil prices remained elevated and rose 1% due to the ongoing US-Israel war on Iran, impacting global inflation."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US democracy concerns persist; Israel faces post-election coalition challenges.",
+      "summary": "Concerns about the resilience of American democracy were highlighted by discussions on political violence and voter integrity, particularly in light of former President Trump's rhetoric regarding upcoming midterm election results and past actions. In Israel, elections concluded without a clear winner, with Prime Minister Netanyahu's party leading but no bloc securing a majority, setting the stage for complex coalition negotiations and continued political instability. The US Department of Justice also intervened in the Alaska Senate election, raising further concerns about electoral processes.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Concerns were raised about the integrity of US elections and former President Trump's statements regarding potential midterm results."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Elections concluded with no clear winner, indicating political instability and challenges in forming a governing coalition."
+        },
+        {
+          "name": "Lehigh Valley, United States",
+          "lat": 40.6033,
+          "lng": -75.4746,
+          "severity": "green",
+          "detail": "Former US Representatives discussed the resilience of American democracy and launched an initiative to strengthen civic trust."
+        },
+        {
+          "name": "Alaska, United States",
+          "lat": 64.2008,
+          "lng": -149.4937,
+          "severity": "yellow",
+          "detail": "The US Department of Justice intervened in the Alaska Senate election, raising questions about electoral fairness."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid deployed to Yemen and Myanmar; Ukraine truce for aid begins; Gaza kits distributed.",
+      "summary": "The European Union allocated €9.5 million for a new humanitarian response in Yemen to support over 321,000 displaced people and host communities affected by conflict escalations. The Philippines led an ASEAN humanitarian mission in Myanmar to provide aid to more than 11,000 households following a 2025 earthquake. A US-brokered truce also began in Oleshky, Ukraine, aimed at allowing humanitarian aid into the Russian-occupied city. Meanwhile, students in Abu Dhabi packed 10,000 winter relief kits for needy Gazans.",
+      "regions": [
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "yellow",
+          "detail": "The EU allocated €9.5 million for humanitarian aid to 321,000 displaced people and host communities due to ongoing conflict."
+        },
+        {
+          "name": "Taunggyi, Myanmar",
+          "lat": 20.7816,
+          "lng": 97.0253,
+          "severity": "yellow",
+          "detail": "The Philippines led an ASEAN mission to provide rice, family, and hygiene kits to over 11,000 households."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6212,
+          "lng": 32.7092,
+          "severity": "yellow",
+          "detail": "A US-brokered truce came into force to allow humanitarian aid deliveries to the Russian-occupied city."
+        },
+        {
+          "name": "Abu Dhabi, United Arab Emirates",
+          "lat": 24.4539,
+          "lng": 54.3773,
+          "severity": "green",
+          "detail": "Students helped pack 10,000 winter relief kits to be sent to civilians in Gaza."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Winter relief kits were being prepared for distribution to civilians in need."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN highlighted plummeting foreign aid despite rising conflicts and urged protection for women humanitarian workers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "express.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjsOjAt9UsBUi7_vl_zdXU3no9Dlxb35VyUhOkG5CwjHdwMffedde4Nv3f79-uDKT_GgbsgUkhvemLUz7kJ7-fmQmd2sd0C57XpqsJbQCbkmPy1VB7_IVpO9qrlOXBViMoRVU_VJn_vKctH9VhZBtE2oVcl4kavYmYJ2PBj1BFHxtNVpuD_-vkA=="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAwL7c_9JxMhQoZ0IFkIJA-eeeUsy-D3hEB-Vn9z93vIIKP63wGuUBnPNrGZUGx-_6mk92elb6tqGi-wOLNssHBQnMLO6g-EOuFDpxprbJi62QIQDvBj7jSUBEfSfJ3AoEvzNV_8H63wmbM5Huc9rMq7GdypLGH9ZaTPnVjqoXLEvB_0IcXbIa3nFeutkTKe4Vj-LpuasTmtaDEqUlp9i1z9X"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUt17XrjeIBwpKfldV6haFXMoryJsKhjjYtRBTIFgwxZQzv90nSNTSsn9pnHl9SPtxiwc7yOcNBUft2Cv6SJgGynUCcXT9Y7GsFVBAXRr0QlF6zy4-G3D_QOEYWu_BJnwk6dZSLPVIslzscD4jN50MiquO3lkrBPduDmO5NgDC3r08wpihIqChuU4MrP-4Qp14JoGXAnTC-lSOZqhBgDpa3Q=="
+        },
+        {
+          "title": "democracynow.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtguz9-k3q4_oqUhpm9_QKWa7JC93KNJeH0G8jEEn46865h6SYAaatR-nkcBzFih-G8YX_sJsQ2bqfUtSa5ttP4F4NqsPYst-RQKJvPtsxiWiyri3uNNih"
+        },
+        {
+          "title": "hindustantimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFslZHJmjjWpRPlPN_MwcuhBkjzHxG1YJ7VQijgGzWt2vc9ez2mRMPE7L3c77dS4MQWNsbV2LbkxML0KKahWV1UqkXg9P-rH3ydJHSV6yKsjcU_WgK0BCODEXMbDSaL0mQG8tpIbVUNV_2T-TrlJikT9L0uR0UjA7afg-EhxFSmC0psDGFrT_OVpHFz-sR0aVHkvMuEv8mQT6_NCe-CSJLCwFafA9lGGmX1KHbyD98YZCISaxOGfNRkSn4nJ6jBwFMoUb9Zd6XWhtTaFYL1YvFgSrO1wokvDF8L1XFd5OvcC5JXCzmQR3tkbA=="
+        }
+      ]
+    }
+  }
+}
