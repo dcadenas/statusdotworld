@@ -1,0 +1,489 @@
+{
+  "date": "2026-10-29",
+  "timestamp": 1793253837521,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran war, Korean tensions, Houthi missile attack escalate global unrest.",
+      "summary": "The ongoing war involving the US, Israel, and Iran continues, with threats of renewed American strikes and an Iranian blockade of the Strait of Hormuz causing global economic fallout. A Houthi ballistic missile strike on Saudi Arabia underscored heightened regional instability. Tensions also rose significantly on the Korean Peninsula following a landmine explosion in the Demilitarized Zone and mutual accusations between North and South Korea, while fighting persisted in Ukraine despite a localized ceasefire for humanitarian aid in Oleshky.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "US Vice President Vance contacted Iranian security chief to restart peace talks amidst ongoing war and threats of new strikes."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9047,
+          "lng": -77.0164,
+          "severity": "red",
+          "detail": "The US is weighing fresh strikes on Iran and has been involved in the ongoing conflict."
+        },
+        {
+          "name": "Pyongyang, North Korea",
+          "lat": 39.0333,
+          "lng": 125.75,
+          "severity": "yellow",
+          "detail": "North Korea was accused by South Korea of planting a landmine in the DMZ, increasing cross-border tensions."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "South Korea accused North Korea of violating the armistice agreement following a landmine incident."
+        },
+        {
+          "name": "Dammam, Saudi Arabia",
+          "lat": 26.3927,
+          "lng": 50.1983,
+          "severity": "red",
+          "detail": "A ballistic missile fired by Yemen's Houthis was intercepted over Saudi Arabia's Eastern Province."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The Houthi armed group launched a ballistic missile towards Saudi Arabia."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6214,
+          "lng": 32.7099,
+          "severity": "yellow",
+          "detail": "A localized ceasefire for humanitarian aid began in this southern Ukrainian city, though fighting continued elsewhere in Ukraine."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is a party to the ongoing war against Iran."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI regulation, Yemen crisis, and surveillance raise rights concerns.",
+      "summary": "New York enacted a law restricting minors' use of companion AI chatbots, while Anthropic proposed judicial oversight for high-risk AI models, reflecting growing attention to AI safety. Concurrently, a Chinese AI model demonstrated cyberattack capabilities, raising security concerns. In Yemen, the Houthi siege of Taizz has drastically worsened humanitarian conditions, causing severe shortages and potentially amounting to a war crime. Sri Lanka introduced a bill threatening arbitrary detention and free expression, and US opioid settlement funds are controversially being used for surveillance technologies. A data leak impacting US Homeland Security employees and the blocking of Chinese genomics firms linked to forced labor also underscored ongoing privacy and rights issues.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New law passed restricting children's use of AI chatbots acting as companions."
+        },
+        {
+          "name": "Sacramento, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "Anthropic proposed to California Governor Newsom a system for courts to block high-risk AI models."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Chinese firm Z.AI's model demonstrated complex cyberattack capabilities, raising AI safety concerns."
+        },
+        {
+          "name": "Colombo, Sri Lanka",
+          "lat": 6.9271,
+          "lng": 79.8612,
+          "severity": "yellow",
+          "detail": "Sri Lanka's new Prevention of Organised Crimes Bill is criticized for risking arbitrary detention and rights violations."
+        },
+        {
+          "name": "Taizz, Yemen",
+          "lat": 13.5794,
+          "lng": 44.02,
+          "severity": "red",
+          "detail": "The Houthi siege has drastically worsened humanitarian conditions, raising war crime concerns."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9047,
+          "lng": -77.0164,
+          "severity": "yellow",
+          "detail": "Opioid settlement funds are controversially funding surveillance, and DHS data on employees was leaked."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Deputy Minister of Human Rights discussed the Asset Seizure Bill's need to balance crime fighting and human rights protection."
+        },
+        {
+          "name": "Xinjiang, China",
+          "lat": 43.79,
+          "lng": 87.6,
+          "severity": "yellow",
+          "detail": "DHS blocked Chinese genomics companies linked to forced labor and surveillance in this region from entering the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "El Niño and coastal erosion remain concerns; no new major events.",
+      "summary": "No new major extreme weather events were reported globally on this date. However, previous projections indicated that the El Niño weather phenomenon could register its strongest impact since 1950, potentially keeping food prices elevated. The Council of Europe Congress is also currently addressing coastal erosion due to rising sea levels, highlighting ongoing climate challenges. Additionally, in Indonesia, over 333,000 cases of acute respiratory infections from forest and land fires were reported, indicating ongoing public health impacts of climate-related issues.",
+      "regions": [
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "yellow",
+          "detail": "The Council of Europe Congress is debating coastal erosion due to rising sea levels."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "The government is urged to establish a health safety net for communities affected by forest and land fires (karhutla), which caused numerous respiratory infections."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Medicaid cuts hit New York; Indonesia fires cause ISPA; trust erodes.",
+      "summary": "In New York, 900,000 residents are at risk of losing Medicaid benefits by early 2027 due to federal policy changes. Indonesia's government is urged to provide a health safety net for communities suffering acute respiratory infections from forest and land fires, with over 333,000 cases reported. Globally, public trust in health institutions and scientists has declined, and the US is experiencing its highest number of measles cases since 1991.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "900,000 residents are at risk of losing Medicaid benefits due to federal policy changes."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Government urged to establish a health safety net for communities affected by forest and land fires, which caused over 333,000 ISPA cases."
+        },
+        {
+          "name": "Hanover, Jamaica",
+          "lat": 18.4167,
+          "lng": -78.1167,
+          "severity": "green",
+          "detail": "Public health inspectors expressed frustration over delayed fringe benefits talks, highlighting local public health workforce issues."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The US experiences a resurgence of measles with over 3,100 cases in 2026, the highest since 1991, amidst declining trust in public health."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global growth slows; Mideast conflict fuels energy price surge.",
+      "summary": "Global economic growth is projected to slow to 2.6% in 2026, largely attributed to energy shocks stemming from the ongoing conflict in the Middle East. The World Bank forecasts a 32% increase in global energy prices and significant rises in overall commodity prices, exacerbated by shipping disruptions and the Iran war. Trade between China and the US has notably declined, and the IMF warns of risks from the Iran war, trade fragmentation, and AI-related market corrections.",
+      "regions": [
+        {
+          "name": "Middle East",
+          "lat": 28,
+          "lng": 45,
+          "severity": "red",
+          "detail": "Ongoing conflict is a primary driver of global energy price surges and economic slowdown."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9047,
+          "lng": -77.0164,
+          "severity": "yellow",
+          "detail": "World Bank projects significant increases in energy and commodity prices due to global conflicts."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UNCTAD reported a projected global economic slowdown due to the Middle East crisis."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "Trade with the US has fallen significantly, impacting global economic dynamics."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "War has severely disrupted energy shipments and impacted Iran's economy, leading to citizens cutting essentials."
+        },
+        {
+          "name": "California, USA",
+          "lat": 36.7783,
+          "lng": -119.4179,
+          "severity": "green",
+          "detail": "OpenAI's plans to buy Google's AI chips indicate significant tech industry shifts and market dynamics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US voting rights erosion; Israel election concerns; global debates.",
+      "summary": "An op-ed highlighted the 'quiet erosion of voting rights' in the US through targeted restrictions and gerrymandering, particularly affecting Black communities. The Council of Europe Congress is actively debating early-warning instruments against democratic backsliding in local and regional governance. Meanwhile, Israel held an election where Prime Minister Netanyahu, facing war crimes accusations and overseeing democratic backsliding, sought re-election.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "An op-ed highlights ongoing 'quiet erosion of voting rights' through targeted restrictions and gerrymandering."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5734,
+          "lng": 7.7521,
+          "severity": "yellow",
+          "detail": "Council of Europe Congress debates early-warning instruments against democratic backsliding."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Prime Minister Netanyahu faces a pivotal election amid concerns about democratic backsliding and war crimes accusations."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Rahul Gandhi called for a November 1 march against 'Vote Chori', indicating concerns about electoral integrity."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "An analysis suggests a Democratic win in US midterms could induce complacency in Europe regarding far-right movements and pressure on Ukraine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ukraine, Myanmar aid efforts underway; Yemen crisis severe.",
+      "summary": "The UN commenced its substantial winter assistance program for 2.1 million Ukrainians, with a localized ceasefire in Oleshky specifically allowing humanitarian access and evacuation. Concurrently, an ASEAN mission is underway in Myanmar to expand aid access in conflict-affected regions. However, the humanitarian crisis in Yemen's Taizz city has drastically worsened due to the Houthi siege, leading to severe shortages of essential supplies and raising concerns about starvation as a war crime.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "UN plans winter assistance for 2.1 million Ukrainians, addressing ongoing humanitarian needs."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6214,
+          "lng": 32.7099,
+          "severity": "yellow",
+          "detail": "A localized ceasefire started to facilitate humanitarian aid and civilian evacuation."
+        },
+        {
+          "name": "Taizz, Yemen",
+          "lat": 13.5794,
+          "lng": 44.02,
+          "severity": "red",
+          "detail": "The Houthi siege has drastically worsened the humanitarian situation, causing severe shortages of food and medicine."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The Houthi armed group's actions are causing a severe humanitarian crisis in Taizz."
+        },
+        {
+          "name": "Nay Pyi Taw, Myanmar",
+          "lat": 19.7423,
+          "lng": 96.0969,
+          "severity": "yellow",
+          "detail": "ASEAN's special envoy is leading a humanitarian mission to expand aid access."
+        },
+        {
+          "name": "Shan State, Myanmar",
+          "lat": 22,
+          "lng": 98,
+          "severity": "yellow",
+          "detail": "This region is a target for the ASEAN humanitarian mission due to conflict."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Department of Foreign Affairs Secretary is leading the ASEAN humanitarian mission to Myanmar."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cgtn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEEN_G_jrWcj0EbjDmVBHZZmO7XFP_KUXBly4ngY3XffZVO8tV5pxYBBegnI2Q5bN_-k-Q8pOA1StogcdobIaKlhW6sbpOz_XfFeDH9dILUBqeulqezV1r8aX-ioDW8dTRHcb9x6p8n91Vy-tHH2XymU4nc03ZfIw1MCggR2ZJWNTVme2ZA7O3hBE27FOUwA4_veUkIzEFfLhzDfkX6dCwO03oOgeR8PlhJfPh15RDQ=="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6VCfr6OUMp5kMK389QGayzk_Za1EBGzVG4uzCwo1cOBK8rwKUUMEd-3sFHhSIKC4zYmKBDHCFvxhAImiyHLJ4sYfqk_DwN_ueAZlivC_S4uqGQXh2KFklCoNExbuLVAP2ZRxYksNSBdGFjSiSs1CtRcIIN2T2sL2-MbWvI7bgspsHF4wY8Gc764HdFwPiITf-eNvZ0NNRZ8Tg"
+        },
+        {
+          "title": "whitehouse.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWiXMPu6POmHtotzK5EALv9wU7_6cd6JZuDFlJncN6fezkXUTfAijFvZ-2TVBNJv_UAG7Skl472C24G9p_96NLFURGzqgldQgQJDVmdDIYfw-D-kglKBT21RkLr7YhPLDbCe0vYNBP9sOv0Y_MHZth_7DILsATOnQvg0oSGcQbiytw0izKLxuZXJkqh65l5HtlawKhCMw8JpTogTYcOSdbhInJdy00mvVnw1ir4lXeNW8pZrTPwgGJMOxP_aszpO7l614llZLJxIvddLsX4IY="
+        },
+        {
+          "title": "nation.com.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNLp4TiFFb6M6_hhykvMfyKQHiFMRxhvOusQBv0-e0xeeYTjnTd5R1kbwwnqgUgaArz5ibsyQ0ZDcWoBHgZ9i8DVWtD0sC7xs9MkToQd10ckgjYTSE04bgzpDNaJ_pF4kzI4KIqBnsx7aMzSLkTBt3aSHQkmMrAglyzSrCizbNanaq1cksbkByHaKzI3a_zNl8gMi5A=="
+        },
+        {
+          "title": "wsws.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5b6do4PGtGkAVar9gHlIBilIvWXLEnrXHENOCVwDNMoWG0KE-xwM-7DZv4XOcYmyCiZEZ-NmEvzOHNyPEXioC0mA38eviYoAhNDapHpDzqGkiRThI5NT0nvHmhATFEfnlwOoU6ONBK1z-BrGGeMtoh8gLw=="
+        }
+      ]
+    }
+  }
+}
