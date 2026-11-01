@@ -1,0 +1,482 @@
+{
+  "date": "2026-11-01",
+  "timestamp": 1793513001046,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East tensions high, Ukraine ceasefire holds for now",
+      "summary": "Geopolitical tensions remain elevated, particularly in the Middle East, where Iran's Supreme Leader issued warnings against renewed US and Israeli attacks, with the US President hinting at potential military action. In Ukraine, a humanitarian ceasefire in Oleshky was extended, with some evacuations occurring, though attacks on aid vehicles were reported elsewhere in the country. G20 foreign ministers met to discuss global conflicts but reached no consensus on major issues.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran's Supreme Leader warned of 'zero limits' retaliation against renewed US or Israeli attacks."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US President Trump hinted at new military action against Iran while Secretary of State Rubio discussed diplomatic solutions."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel's Prime Minister Benjamin Netanyahu discussed potential military action with President Trump amidst high tensions with Iran."
+        },
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6212,
+          "lng": 32.7237,
+          "severity": "yellow",
+          "detail": "A humanitarian ceasefire is in effect and was extended until November 1, facilitating aid and evacuations."
+        },
+        {
+          "name": "Al-Jawf Governorate, Yemen",
+          "lat": 16.7118,
+          "lng": 45.4216,
+          "severity": "red",
+          "detail": "The Yemeni army captured a strategic mountain range from Houthi forces."
+        },
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "G20 foreign ministers met here to discuss global conflicts, energy security, and supply chains without reaching major consensus."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI data privacy standards emerge, UN demands Yemen detention probe",
+      "summary": "Major steps were taken in digital rights as Microsoft's AI safety standard, prohibiting student data training and mandating human oversight, became enforceable in US schools. Globally, the UN human rights chief called for an independent investigation into the death of a UN staff member in Houthi custody in Yemen, highlighting grave concerns over detentions. In the Philippines, the Commission on Human Rights advocated for child-centered emergency responses, building on recent progress in protecting children from armed conflict.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Microsoft's new AI safety and privacy standard for schools became enforceable, setting a precedent for digital rights and AI safety."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Chief demanded an independent investigation into the death of a staff member in Houthi custody."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "A UN human rights staff member died in Houthi custody, raising severe concerns about arbitrary detentions."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Commission on Human Rights called for child-centered emergency preparedness, noting the country's recent removal from a UN list for child violations in armed conflict."
+        },
+        {
+          "name": "Batticaloa, Sri Lanka",
+          "lat": 7.7289,
+          "lng": 81.6933,
+          "severity": "yellow",
+          "detail": "War widows continued protests for justice and information on missing persons from the civil war."
+        },
+        {
+          "name": "Sacramento, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California Governor Newsom ordered state agencies to develop new AI safety plans, including 'kill switch' capabilities, after AI incidents."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "A discrepancy was noted in the EU AI Act's Portuguese and Croatian texts regarding a key threshold for AI systemic risk."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Bolivia declares El Niño emergency, mountain warming a COP31 focus",
+      "summary": "Bolivia declared a nationwide state of emergency due to severe impacts from the El Niño weather pattern, causing widespread drought and flooding affecting thousands of families. Nepal and Bhutan jointly proposed a critical agenda item for COP31 on '1.5°C Warming in Mountains,' underscoring the urgent threats to the Hindu Kush Himalaya region. Meanwhile, Delhi implemented strict measures to combat winter air pollution, including vehicle bans and construction halts.",
+      "regions": [
+        {
+          "name": "La Paz, Bolivia",
+          "lat": -16.4993,
+          "lng": -68.12,
+          "severity": "red",
+          "detail": "A nationwide state of emergency was declared due to severe drought and floods caused by the El Niño phenomenon."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Nepal and Bhutan jointly proposed a dedicated agenda item for COP31 on '1.5°C Warming in Mountains.'"
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "Strict winter pollution curbs, including vehicle bans and construction halts, began to combat severe air quality issues."
+        },
+        {
+          "name": "Antalya, Türkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The city is set to host COP31 where a critical proposal on mountain warming will be discussed."
+        },
+        {
+          "name": "Alba, Italy",
+          "lat": 44.6983,
+          "lng": 8.0336,
+          "severity": "yellow",
+          "detail": "White truffle harvests are increasingly threatened by climate change-induced heat and drought."
+        },
+        {
+          "name": "Singapore City, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Singapore is actively exploring alternative cooling technologies to reduce high energy consumption from air conditioning."
+        },
+        {
+          "name": "Vientiane, Laos",
+          "lat": 17.9748,
+          "lng": 102.6308,
+          "severity": "green",
+          "detail": "Laos is making progress in renewable energy, with wind power projects contributing to regional energy needs."
+        },
+        {
+          "name": "Denver, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "yellow",
+          "detail": "The Colorado Department of Public Health and Environment issued an Action Day Alert for poor visibility due to stagnant weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "Global public health remains stable; seasonal health measures in focus",
+      "summary": "No new global public health crises or widespread disease outbreaks have been reported on November 1, 2026. Public health efforts largely focus on ongoing seasonal health concerns and preventative measures. Discussions continue around broader health-related policies and environmental factors impacting well-being.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The World Health Organization continues its work on global health initiatives and disease prevention."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "Strict winter pollution controls implemented to mitigate severe air quality's impact on public health."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Commission on Human Rights called for child-centered emergency preparedness, which indirectly supports child health and well-being."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Geopolitical tensions weigh on trade; China's export role expands",
+      "summary": "The global economy faces ongoing challenges from geopolitical tensions, with G20 and Quad ministers expressing concerns about disruptions to supply chains and 'economic coercion' affecting trade and energy security. However, the International Monetary Fund projects global growth at 3.3% for 2026, supported by technology investment and policy measures. China's role as a 'super seller' continues to expand, with significant export growth and the Canton Fair showcasing innovative products benefiting global consumers and businesses.",
+      "regions": [
+        {
+          "name": "Atlanta, USA",
+          "lat": 33.749,
+          "lng": -84.388,
+          "severity": "yellow",
+          "detail": "G20 foreign ministers discussed global economic challenges, energy security, and supply chain resilience."
+        },
+        {
+          "name": "Guangzhou, China",
+          "lat": 23.1291,
+          "lng": 113.2644,
+          "severity": "green",
+          "detail": "The Canton Fair showcased China's expanding export role, offering affordable goods and technology globally, driving economic benefits."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26,
+          "lng": 56,
+          "severity": "red",
+          "detail": "Geopolitical tensions threaten vital maritime trade routes, impacting global energy and food security."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "Canada and the EU concluded digital trade agreement talks, potentially boosting economic ties."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Quad ministers, including Japan, expressed concerns over economic coercion and emphasized building resilient supply chains."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterms approach with legal challenges; India faces election integrity claims",
+      "summary": "The United States is two days away from its midterm elections, with nearly 50 million early votes cast, but concerns linger over ballot counting challenges in California and allegations of voter fraud. In India, the INDIA bloc initiated a mock impeachment against the Chief Election Commissioner, citing allegations of electoral manipulation and voter deletion. Meanwhile, France experienced clashes between protesters and police during nationwide demonstrations, indicating ongoing social and political unrest.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is preparing for midterm elections with legal challenges concerning ballot integrity and high early voter turnout."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "The INDIA bloc accused the Chief Election Commissioner of electoral manipulation, holding a mock impeachment."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Clashes between protesters and police were reported during nationwide demonstrations."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Election results leave government formation uncertain after Netanyahu's bloc fell to 53 seats."
+        },
+        {
+          "name": "Sacramento, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "A California judge issued a temporary restraining order against federal demands for separating certain ballots, impacting election processes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Ukraine ceasefire enables aid; Bolivia declares El Niño emergency",
+      "summary": "A humanitarian ceasefire in Oleshky, Ukraine, facilitated aid deliveries and civilian evacuations, though attacks on aid vehicles in other regions posed threats to relief efforts. Bolivia declared a nationwide state of emergency in response to the severe drought and flooding caused by El Niño, impacting thousands and requiring humanitarian assistance. Additionally, the UN human rights chief called for an investigation into the death of a humanitarian staff member in Houthi custody in Yemen, underscoring risks to aid workers.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6212,
+          "lng": 32.7237,
+          "severity": "yellow",
+          "detail": "A humanitarian ceasefire is in effect, allowing for aid deliveries and evacuations despite broader conflict."
+        },
+        {
+          "name": "La Paz, Bolivia",
+          "lat": -16.4993,
+          "lng": -68.12,
+          "severity": "red",
+          "detail": "A nationwide state of emergency was declared due to El Niño-induced drought and floods, creating a significant humanitarian need."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The death of a UN humanitarian staff member in Houthi custody highlighted severe risks for aid workers in the region."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "yellow",
+          "detail": "Egypt called for guaranteed humanitarian aid access amidst ongoing conflict and drone attacks."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8388,
+          "lng": 35.1395,
+          "severity": "red",
+          "detail": "Humanitarian vehicles came under drone attack, resulting in casualties and disruptions to aid services."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4z_dlWTpbpLkiDPW0UPddNlcLgezV-I54mAFdfrLieRNp0QAIfxzHsVtluISw_1rQ_LKa7Q5C9SQPWleeYA_jco4fmtd4RgPUL-vCnFiwPoNcLmTk1T8cARBRqRjgJadVIlnhhlUjAwdmdqGW9glqAMRtJ8YHXCh7BwS-Dw=="
+        },
+        {
+          "title": "thevibes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo7CYH6D5e-XYbhzc63o9xQBHPOcjIBLXHzbKoaB_1_c2bC7edvirpB_ry-fNJBugmmuAzfRqSSnGdkpM73iKsWgOFgVE1sO76onptysmL9VCBOt7xVPBW5L3WPBmW_y0Xf4YtHeRlP-aQ0GBDqBbesC5W9ELTje9AtIBA7vAk4bNnZ0uge_6lSfH3mVKYL4RKOMADUqNs0qcYXAAupOgWUVr9ZRe"
+        },
+        {
+          "title": "thestatesman.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aE78dTG8BJq1VGewYwFwSAnTVwQX3NWyC31XyshbOrrCRrQTG3GcUArUwpjH7o1mM-CZ8WYgbHSUWNTEVhE7jmXdJTazvX6zGluEMYgu6uu8JmUGxRjGpYv-jRC5JW_UJGGu509VpmZ0oTNVJxSkxhb3qUd4iQ1xQ8cYnNkyXd6ypei7iBdS4_50jdUcmmPNxtePYFNl2bJEqZgpIfO-6qnVgMkgYJ2E1WySHyJjPwo="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fqbYjktn23qb0dQqnjVe0s5EoIn2lqG3YjcDETuZiLHR6fBpRylMdRpwpn5adiyDfsb_4DA6_MBwBB5YK0VnCsufkFwczITMIGSJnLJcCNF18-N-CJL0tOXA6R-EFibcJHPFbPiCZZ_xWdV49xC5YDShfhfBAVRpR-vzEXKu0Ow8sUCqVJY8-uuBAVPLr-Fcx22Mt-ErCcgNJPauDzFUKaB_pAGGRtBF-wUhrth-AHDtbvDCd44="
+        },
+        {
+          "title": "news.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3T_kmRVkjmpJ2iWmx4wudJHL3_-qciU-1GOMVZVFYXEh4z_xsLH1pGXq-E5FhdO6QDCWk1UILC_-wg3HjTT9sf1_-W6sKSNx5ufBKdDKV819nFqMriw9ZRH67xomI9Zbwp-HBwWKhZsh2pKahODjc2b7pNAT9-c5bKAIJh-MPEgWxcJYvKLxVWpw="
+        }
+      ]
+    }
+  }
+}
