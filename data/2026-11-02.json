@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-02",
+  "timestamp": 1793599433927,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Ukraine ceasefire ends, US-Iran tensions high, Yemen crisis deepens",
+      "summary": "A humanitarian ceasefire in Oleshky, Ukraine, successfully concluded on November 1, allowing aid delivery and evacuation of nearly 800 civilians, though Russia refused an extension. Meanwhile, Nobel Peace laureate Mohamed ElBaradei warned against further US strikes on Iran amid rising tensions and past military actions. The UN Secretary-General condemned the death of a second UN staff member in Houthi detention in Yemen, where conflict continues to fuel a severe humanitarian crisis.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6231,
+          "lng": 32.7233,
+          "severity": "green",
+          "detail": "A humanitarian ceasefire successfully concluded, allowing aid delivery and the evacuation of nearly 800 people."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The UN Secretary-General condemned the death of a second UN staff member in Houthi detention, highlighting the ongoing severe conflict and humanitarian crisis."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Nobel Peace laureate warned against further US military strikes, following past aggression and continued threats."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US first lady Melania Trump coordinated the Oleshky ceasefire, while the US is also involved in high tensions with Iran."
+        },
+        {
+          "name": "Antigua and Barbuda",
+          "lat": 17.0608,
+          "lng": -61.7964,
+          "severity": "green",
+          "detail": "Leaders representing nearly a third of the world's population are meeting to strengthen ties during global political upheaval."
+        },
+        {
+          "name": "Western Sahara",
+          "lat": 24.2155,
+          "lng": -12.8858,
+          "severity": "yellow",
+          "detail": "The UN peacekeeping mission (MINURSO) ended after the Security Council failed to agree on its future, but the UN remains committed to a peaceful solution."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "UN to review human rights records of 14 states, Yemen detention deaths noted",
+      "summary": "The UN Human Rights Council's Universal Periodic Review Working Group began its session in Geneva, examining the human rights records of 14 states, including Greece and Suriname. This ongoing process highlights global scrutiny of national human rights situations. Concurrently, the death of a second UN staff member in Houthi detention in Yemen underscores severe human rights concerns in conflict zones.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council's Universal Periodic Review Working Group commenced its session to examine the human rights records of 14 states."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The UN Secretary-General condemned the death of a second UN staff member in Houthi detention, raising serious human rights concerns."
+        },
+        {
+          "name": "Dodoma, Tanzania",
+          "lat": -6.1732,
+          "lng": 35.7419,
+          "severity": "yellow",
+          "detail": "Tanzania is reportedly 'playing for time' with the UN and Commonwealth regarding its human rights record."
+        },
+        {
+          "name": "Athens, Greece",
+          "lat": 37.9838,
+          "lng": 23.7275,
+          "severity": "yellow",
+          "detail": "Greece's human rights record is being examined for the fourth time by the UN's Universal Periodic Review."
+        },
+        {
+          "name": "Paramaribo, Suriname",
+          "lat": 5.852,
+          "lng": -55.2038,
+          "severity": "yellow",
+          "detail": "Suriname's human rights record is under review by the UN's Universal Periodic Review Working Group."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Indonesia wildfires rage, COP31 approaches, extreme weather impacts UK and Kenya",
+      "summary": "Indonesia is grappling with a severe ecological crisis, including surging wildfire emissions and past deadly floods, ahead of the COP31 climate summit in Turkey. Kenya is bracing for above-average rainfall leading to potential flooding and disease risk. The UK's public services and infrastructure are increasingly impacted by extreme heat and floods, with concerns about inadequate government disclosures.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The city is preparing to host the 31st UN Climate Change Conference (COP 31) starting November 9, with critical negotiations on the Paris Agreement implementation."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "red",
+          "detail": "Indonesia faces calls for bolder climate action amidst surging wildfire emissions, prolonged dry seasons, and past devastating floods and landslides."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Most parts of Kenya are predicted to receive above-average rainfall, risking widespread flooding, road damage, and increased disease transmission."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Extreme weather, including intense heat and flash floods, is having a measurable impact on public services and infrastructure, with government departments struggling to provide full risk disclosures."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7293,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "The country's health system is urged to integrate climate exposure into patient care as heat-related illnesses contribute to significant mortality."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health talks on pandemic agreement and AI tools, US costs rise",
+      "summary": "The ninth session of the Intergovernmental Working Group on the WHO Pandemic Agreement began in Geneva to strengthen global pandemic prevention and response. The WHO is also rolling out new AI-powered tools to improve community engagement and response during health emergencies, particularly in the Western Pacific Region. In the United States, public health professionals convened in San Antonio to discuss challenges like funding cuts and misinformation, while older adults express significant concerns over rising healthcare costs and changes to Medicare plans.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The Intergovernmental Working Group on the WHO Pandemic Agreement commenced its ninth session to draft an annex on pathogen access and benefit sharing."
+        },
+        {
+          "name": "San Antonio, United States",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "yellow",
+          "detail": "The APHA 2026 Annual Meeting is discussing challenges in public health, including funding cuts and policy decisions impacting Americans' well-being."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "The WHO, with Tsinghua University, is rolling out AI-powered tools to enhance community engagement in health emergency responses across the Western Pacific Region."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Increased rainfall is predicted to raise the risk of diseases such as malaria, cholera, and typhoid."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "green",
+          "detail": "New research from the University of Queensland advocates for size-inclusive health promotion to combat weight stigma."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Oil prices volatile amid Middle East tensions, US midterms loom, Binance hacked",
+      "summary": "Global crude oil prices are volatile, hovering near $130 per barrel due to Middle East tensions and supply fears, though some reports indicate a dip amid US-Iran peace talks. The US midterm elections are expected to have significant economic consequences, with public disapproval of the current administration's handling of the economy. In the crypto market, Binance suffered a major $6.3 billion cyber heist, leading to transaction suspensions and regulatory scrutiny.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The upcoming midterm elections are poised to influence economic policy and market sentiment, with public concern over inflation and the economy."
+        },
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "India saw a 22.9% jump in GST collections for October, and the Nifty reached a 6-month high, despite foreign investor outflows."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's private-sector manufacturing PMI is expected to show continued but slower growth in October."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.55,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Prolonged closure of this vital waterway is pushing up global energy costs."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Tensions with the US continue to impact crude oil prices and global economic stability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterms highlight political divisions, Taiwan elections heating up",
+      "summary": "The US midterm elections are dominating political news, with Republicans making a final push against a predicted Democratic wave in Congress. Significant internal Democratic party divisions have emerged, particularly in Michigan's key Senate race. Meanwhile, Taiwan's Democratic Progressive Party (DPP) is campaigning to expand its control in upcoming local elections.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The nation is focused on the critical midterm elections, which are expected to reshape political power and reflect public sentiment."
+        },
+        {
+          "name": "Lansing, Michigan, United States",
+          "lat": 42.7325,
+          "lng": -84.5555,
+          "severity": "yellow",
+          "detail": "A Democratic congresswoman's endorsement of a Republican candidate has highlighted significant party divisions in a key Senate race."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "The Democratic Progressive Party is actively campaigning to expand its control in the upcoming nine-in-one local elections."
+        },
+        {
+          "name": "Dubuque, Iowa, United States",
+          "lat": 42.5006,
+          "lng": -90.6644,
+          "severity": "yellow",
+          "detail": "President Trump held a campaign rally here in a final push for Republican candidates ahead of the midterms."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Oleshky ceasefire aids Ukraine, Yemen crisis remains severe",
+      "summary": "A humanitarian ceasefire in Oleshky, Ukraine, successfully concluded on November 1, enabling the delivery of aid and the evacuation of nearly 800 people, providing a temporary relief in the region. However, the ongoing conflict in Yemen continues to cause one of the world's worst humanitarian crises, leaving millions reliant on assistance. The World Health Organization is also rolling out new AI-powered tools to improve community engagement and response during health emergencies globally.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6231,
+          "lng": 32.7233,
+          "severity": "green",
+          "detail": "The successful conclusion of a humanitarian ceasefire allowed for the delivery of critical aid and the evacuation of civilians."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "The country remains mired in one of the world's worst humanitarian crises, with millions dependent on assistance and UN staff facing arbitrary detention."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "The WHO is collaborating with Tsinghua University to implement AI-powered tools to enhance community-centered responses during health emergencies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe24T5VZMazzX7HZ7AU7LFxDU1C0wfEGvVMVwXemVf0TanRmT6lXlEtdPwehOASoZXaQnSBE9a9w-dObe-g6Y-Sj22prKliC49JYDMRQND6MvlWR5VSMZCMTKL8g-WvLYTUx1PCvb-hnFNJuu9tlFwEN4P7O5ZKbavxiCXy-gbywLVzYsxqNxBAC9BI9OZ53qEvW1FLYANQitpqL6UDfsnl6g8PgJkOFQPGTlmfOMFjAuX-NhFTARqEiEbUZsO6rq3yrLZVzyrdrLoG7dd5O4hSsBLmg=="
+        },
+        {
+          "title": "yenisafak.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw-gfSQCbfBevkHd1GEa9jER75C5UqTMujz30y6_K_Z7J9P1_jGV9GeuJBsW4XtXaZOTe-OQ_2qGwO8GDkVBV-4nfx073HSokttpAs68gQ1tbAIy_4jZ0A5sfR5Sz1FR0MBBJMEjHwmzOKLGp8DzqQzUxITzaYSM_5XiyaMvCE9TNg8buSx4dAaV_MQFf4XUXlnjSspZxyeFrH9uDzrvM0hUpf91gr"
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0YjSXpHMDZmVta2Qdyrb2f5SkuyBdBc6x0j3NWekwR2ai5IwrrOeEcaOJiKpKb-GU5HNpIi01hOAH1qnCdChkrcxnDjadnwKEAFAZ_a2viG9eS62TFzUeNubq3_l4KSYREGUWmQkezMm_R2mELjwZwSpX0vyYUBGeX7xWclFFzMyADRmnC3R2jKnp6HZf4GfmYIs6Udjh3zQr7hLAb2BpDqrodtAOdWYOF6J20R4="
+        },
+        {
+          "title": "ukrinform.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHab4XdWJpGGJDC4QMpv9yIxN3oYCrc8eaAOjN5wpLYjqH8Xf9PK4wyJZzltg_2te2EIt3L8vZW5fj0n2VHq305xMdo_ewIWDfiZNRF7nU7RVlzyGniq7sDbavBTL3oKygoM-GyDHo8fzFWXe0zVFYfqFDShPYtijWwgRteyeviPy6Mu6wSm7pzwIHVu2JFTfsGFa9voCBwgbK-iIol9Osl2YDZKULoL_O_tHxYnFEnovowLirY8yzLJDv5c5x-clRYQUWDvYl_nolaJT___f8="
+        },
+        {
+          "title": "presstv.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oC2Mto1_iP0MaEngKQbuDZuENEMdqKFynl_dUe-UXBtUSeDgwGJIPXbCLY0aBm0SPTrKn9wX0aW6taGHHXzJCtwmxoPoHTe-8EMrFL2onVwwSmNI82Yf7HNSlP-lS6jN8fpB5oxM3RXr6oiqOhMRLq6vwvsuPF6Za1bbDKUvgUJRXOMSlUH82dAVfWj2Is5UULh_JegG8d7brW5HEw-3NJMPzcoXSFFNDLftgDP7jvu2BndnsD4igrdCjJrK"
+        }
+      ]
+    }
+  }
+}
