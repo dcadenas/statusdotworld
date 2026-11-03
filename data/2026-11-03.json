@@ -1,0 +1,482 @@
+{
+  "date": "2026-11-03",
+  "timestamp": 1793685842148,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Russia attacks Ukrainian aid center; US strikes Iran amid regional escalation.",
+      "summary": "Russia launched a deadly strike on an aid distribution center and shelter in Komyshuvakha, Ukraine, killing at least 26 civilians. Meanwhile, the U.S. conducted defensive strikes on Iran's Qeshm Island, adding to heightened tensions in the Middle East where a Houthi missile also killed five in Yemen.",
+      "regions": [
+        {
+          "name": "Komyshuvakha, Ukraine",
+          "lat": 47.7833,
+          "lng": 35.85,
+          "severity": "red",
+          "detail": "Russian forces bombed an aid distribution center and shelter, killing at least 26 people."
+        },
+        {
+          "name": "Qeshm Island, Iran",
+          "lat": 26.9167,
+          "lng": 56.25,
+          "severity": "red",
+          "detail": "The US carried out defensive strikes on Qeshm Island amid escalating tensions."
+        },
+        {
+          "name": "Lahj, Yemen",
+          "lat": 13.05,
+          "lng": 44.8833,
+          "severity": "red",
+          "detail": "A Houthi ballistic missile struck a health center, killing five people and wounding 15."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "The US will mediate Ukraine-Russia peace talks here on November 10-11, focusing on post-war security and de-escalation."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8333,
+          "lng": 35.1667,
+          "severity": "red",
+          "detail": "Ukrainian officials reported multiple Russian drone attacks injuring at least 17 people in other areas of the region."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is mediating peace talks and involved in military actions in the Middle East."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6176,
+          "severity": "red",
+          "detail": "Russia conducted deadly strikes in Ukraine and is involved in upcoming peace talks."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "President Zelenskyy warned of a fresh massive Russian assault targeting energy and logistics infrastructure."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI safety and digital rights a key focus for regulators and tech.",
+      "summary": "Major discussions around AI safety and digital rights were prominent, with an OpenAI executive warning about AI distillation risks in US-China talks and a New York ban on AI chatbots posing as children's friends. A workshop also highlighted the need for age-appropriate AI safeguards for teenagers, while Anthropic proposed a draft bill for AI safety regulation.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US lawmakers are receiving proposals for AI regulation, and OpenAI made a key appointment for national security AI."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China is involved in ongoing AI cooperation discussions with the US, with security risks being a focus."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "New York banned AI chatbots from posing as children's friends."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "green",
+          "detail": "King's College London co-hosted a workshop on AI safeguards for teenagers."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Pacific storm season intensifies; climate change impacting ice age onset.",
+      "summary": "The Pacific is experiencing a busy storm season with Super Typhoon In-fa near the Mariana Islands and Typhoon Champi's remnants nearing Alaska. A new study suggests human-driven climate change might have prevented a new ice age. Globally, climate change continues to push Earth's vital signs to record extremes.",
+      "regions": [
+        {
+          "name": "Mariana Islands",
+          "lat": 15.2,
+          "lng": 145.75,
+          "severity": "yellow",
+          "detail": "Super Typhoon In-fa churned near these islands as part of an active storm season."
+        },
+        {
+          "name": "Alaska, USA",
+          "lat": 64.2008,
+          "lng": -149.4937,
+          "severity": "yellow",
+          "detail": "Remnants of Typhoon Champi approached Alaska amidst a parade of storms."
+        },
+        {
+          "name": "Brazil",
+          "lat": -14.235,
+          "lng": -51.9253,
+          "severity": "green",
+          "detail": "Brazil is preparing roadmaps for COP30, focusing on barriers and priority actions."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "green",
+          "detail": "Turkey is scheduled to host COP31 in November 2026."
+        },
+        {
+          "name": "Mexico",
+          "lat": 23.6345,
+          "lng": -102.5528,
+          "severity": "yellow",
+          "detail": "Monarch butterfly migration, affected by climate change, is being tracked to Mexico."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "A study suggests human-driven climate change may have halted the onset of a new ice age."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola crisis in DRC escalates; global respiratory illnesses rise.",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 5,300 deaths and spread to neighboring countries, prompting new US travel restrictions. Concurrently, influenza hospitalizations have reached a 15-year high in the US due to a mutated H1N1 strain, and Europe is grappling with the spread of Shamonda virus and increased Mpox cases.",
+      "regions": [
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -4.0383,
+          "lng": 21.7587,
+          "severity": "red",
+          "detail": "The epicenter of a large Ebola outbreak has recorded over 5,300 deaths."
+        },
+        {
+          "name": "Kenya",
+          "lat": -1.286389,
+          "lng": 36.817223,
+          "severity": "red",
+          "detail": "Ebola deaths and infections were recorded, with cases linked to travel from the DRC."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "red",
+          "detail": "Ebola cases were reported, mostly involving people who had traveled from the DRC."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "red",
+          "detail": "New travel restrictions were implemented for DRC travelers, and flu hospitalizations hit a 15-year high."
+        },
+        {
+          "name": "Lyon, France",
+          "lat": 45.75,
+          "lng": 4.85,
+          "severity": "yellow",
+          "detail": "The first documented human infection with Shamonda virus, potentially fatal, was reported here."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.69096,
+          "lng": 9.14062,
+          "severity": "yellow",
+          "detail": "Widespread West Nile virus transmission and increased Mpox cases are reported across the continent."
+        },
+        {
+          "name": "England, UK",
+          "lat": 52.3555,
+          "lng": -1.1743,
+          "severity": "green",
+          "detail": "The NHS is increasing diagnostic capacity with new scanners and AI technology, improving cancer diagnosis."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "European bond markets in turmoil amid inflation, Middle East war.",
+      "summary": "European bond markets are experiencing turmoil, with speculative-grade corporate bonds plunging due to prolonged high interest rates and France's fiscal troubles. Globally, financial markets remain fragile under the weight of wars and sovereign debt, while the US-Iran conflict and President Trump's trade policies contribute to worldwide inflation and economic uncertainty.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "France's fiscal troubles are fueling market anxiety and instability in European bond markets."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "yellow",
+          "detail": "European bond markets are experiencing turmoil amid high interest rates and credit risks."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Global markets are fragile, impacted by US policies, AI investments, and inflation concerns."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "green",
+          "detail": "Global crude oil prices plunged as hopes for a diplomatic resolution to the US-Iran conflict eased fears over the Strait."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterm elections underway with concerns over voting rights.",
+      "summary": "The 2026 United States midterm elections are taking place today, November 3, with all 435 House seats and 35 Senate seats being contested, alongside numerous state and local elections. These elections are occurring amidst concerns over the Supreme Court's ruling on the Voting Rights Act and reported use of taxpayer funds for campaign advertisements.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US midterm elections are being held, determining the composition of the 120th United States Congress."
+        },
+        {
+          "name": "North Carolina, USA",
+          "lat": 35.7596,
+          "lng": -79.0193,
+          "severity": "yellow",
+          "detail": "The statewide general election is being held, contesting one U.S. Senate seat and 14 U.S. House seats."
+        },
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Nationwide midterm elections are taking place, with significant stakes for all House and 35 Senate seats."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Russian attack on Ukraine aid hub, famine threat in Sudan.",
+      "summary": "A Russian bombing on an aid distribution center in Komyshuvakha, Ukraine, resulted in at least 26 deaths, severely disrupting humanitarian efforts. Simultaneously, famine is looming in South Darfur's Kalma camp, Sudan, due to a severe lack of food and medicine. The Emirates Red Crescent launched a major winter aid campaign across 17 countries.",
+      "regions": [
+        {
+          "name": "Komyshuvakha, Ukraine",
+          "lat": 47.7833,
+          "lng": 35.85,
+          "severity": "red",
+          "detail": "Russian forces bombed an aid distribution center and shelter, killing at least 26 people."
+        },
+        {
+          "name": "Kalma camp, South Darfur, Sudan",
+          "lat": 12,
+          "lng": 24.5,
+          "severity": "red",
+          "detail": "Famine is looming due to halted humanitarian aid and an almost complete lack of food and medicine."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "Upcoming peace talks between Ukraine and Russia will discuss humanitarian efforts."
+        },
+        {
+          "name": "Dubai, UAE",
+          "lat": 25.2048,
+          "lng": 55.2708,
+          "severity": "green",
+          "detail": "Emirates Red Crescent launched a $3.4 million winter aid campaign to support over 300,000 vulnerable people."
+        },
+        {
+          "name": "Gaza",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "yellow",
+          "detail": "The UAE sent 10,000 winter aid bags to Gaza as part of Operation Gallant Knight 3."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "red",
+          "detail": "A major humanitarian aid center was attacked by Russian forces, hindering relief efforts."
+        },
+        {
+          "name": "Russia",
+          "lat": 61.524,
+          "lng": 105.3188,
+          "severity": "red",
+          "detail": "Russian forces attacked a humanitarian aid center in Ukraine, causing multiple casualties."
+        }
+      ],
+      "sources": [
+        {
+          "title": "goskagit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQs8RS71VvgPlTo4xETHWAojWWBta1bbWC4opHm2scI9uM_bm0X3jEU5TUQwJPrFW5WQKfdHSZ5zcnk0cWoiZXpE-PCvwCcXQZrTtnVHPEO22lK_BKCLKmjesknp9F_MUMK0LJrLmxco7Qj6lwVSgklbcVuCfhWdmu_VIhXkeeJRSsE3bJZoDPYn8KHPYpEM3Ed1fX7Pw6MwlLXgXqa6COjRfNR_9fLzyptTHyBXz2dBHzb2sI-RuOLG9a6-rB-PstJXMOUbndm_HVy-YfrrQCKf3JObzV44yt0f97EBGkQqB"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5-HBSpQj_QNCW6iDY3yRseiSTQ44QcENdPwowEx5offuSpWoxWU8yc-lOMN18-JZWHoO9gMYlLKuz7GTl4jJ5RnguvuC1CIPnHDKRRG8v348iuQk7jXF2Zl_7GHA9dQJ9F_DvKfyldv8_GsE3wvAUd8NAEG30Bk70Z-mPPUCcPjewtX06QcvEWhwApsCYssVRswSC5SIj"
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMFHYS49nhtwMNJtfL0p79LhuY9kN9Y2xDz8HjriNQto5NHr-mgWEyt7x66j--oP4ztidlVNj9uYTET8DHGfb79Z7GgzKQMYxNpeztbiAMySA4Ndu6ALexfGoYCrksT6rq8e5e-q1rJlMBGi31rCNg8_biqFMOuAxCv_rnHa61XagZEEIylDAQZvyz5NltQ=="
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QYknBvTeFFKzUviNESTuIOKC5gsYddkB02kOgUadQM_Tk73LV4xpRQv80IJN5P8-C0L5ZOnPeFMsEV-yulfzWhsPc0YdpRJYufZLefqrStzd1tvD6hue-D6zwo9q1b4N5GyfalY_0_UUrGjljJrC-8SGWWSgV8fJkfdWBR1tSdhKokVVdLTKy2bPPVJI_P2yupak_nGUsFvJ9qmr1Xh-imZoow1QDfuE5ZDPoC12dl7Z-kkGFw8Q5-82R9AzSvzoHjsCnRFunGRBe-uCs_5QVnM-5AQKN9IFKtIwtQ4="
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtzPaNTOJSNP-fWbHtetj2A7qBw4U8-IIRUWVgNUqNdYNQYr3A7B0UnXR0TIfsX86wuYX2ZqNg6-6XlMn3gZZHBGgHH3nQj_osuS89e08ddIcekIebcF5GUtc3XX74ebbcSyOcoLc3EM7OUoISC3DP4gKcPq7TwdllQmuKWu6EOblC2t9EFQaWaisNSlSRITjE-YO4nKkxvL8ue90aZHr"
+        }
+      ]
+    }
+  }
+}
