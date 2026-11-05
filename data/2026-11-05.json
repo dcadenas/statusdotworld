@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-05",
+  "timestamp": 1793858623834,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate globally as ceasefires expire and new violence emerges",
+      "summary": "Geopolitical tensions are high with ongoing conflicts and emerging crises. A ceasefire in Ukraine's Oleshky region is drawing to an end, leading to civilian evacuations. Renewed violence in Yemen and the expiration of the MINURSO mandate in Western Sahara further highlight a volatile global peace landscape.",
+      "regions": [
+        {
+          "name": "Oleshky, Ukraine",
+          "lat": 46.6212,
+          "lng": 32.7099,
+          "severity": "red",
+          "detail": "Civilians were evacuated as a temporary ceasefire brokered by the U.S. First Lady and Pope Leo XIV was nearing its end."
+        },
+        {
+          "name": "Shabwa province, Yemen",
+          "lat": 14.5385,
+          "lng": 46.8335,
+          "severity": "red",
+          "detail": "Renewed violence saw 73 soldiers killed in an attack, raising concerns over regional escalation."
+        },
+        {
+          "name": "Laayoune, Western Sahara",
+          "lat": 27.15,
+          "lng": -14.4667,
+          "severity": "yellow",
+          "detail": "The expiration of the MINURSO mandate after rival vetoes at the UN Security Council heightened regional tensions."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9,
+          "lng": 38.75,
+          "severity": "yellow",
+          "detail": "Ethiopia and Eritrea severed diplomatic ties, threatening regional peace in the Horn of Africa."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing 'Iran war' was acknowledged by President Trump as a key factor in U.S. midterm election losses."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US was involved in brokering a ceasefire in Ukraine and is noted to have traded rival vetoes in the UN Security Council regarding Western Sahara."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Global human rights erode amid authoritarian rise, tech repression, and judicial setbacks",
+      "summary": "Fundamental rights are eroding globally, with the United States no longer classified as a full liberal democracy. Judicial actions in Pakistan saw human rights lawyers sentenced to prison, while a death in a Georgia ICE detention center amid a hunger strike raised concerns. Reports highlighted failures in human rights policies during the 2026 Men's World Cup.",
+      "regions": [
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "severity": "red",
+          "detail": "Two leading human rights lawyers were sentenced to 10 years in prison by an anti-terrorism court."
+        },
+        {
+          "name": "Folkston, United States",
+          "lat": 30.7305,
+          "lng": -82.0003,
+          "severity": "red",
+          "detail": "A man died at an ICE detention center where detainees were on a hunger strike protesting conditions."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The United States is no longer classified as a full liberal democracy and sits at its lowest-ever point on Freedom House's global ranking."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "A report exposed FIFA's failure to implement human rights policies during the 2026 Men's World Cup, with concerns over mass detentions and discrimination."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China, along with Russia, is noted for persistently undermining the rules-based international human rights order."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Hungary is mentioned as a country where democratic institutions are being undermined, impacting rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Earth faces record climate shocks; Europe hit by extreme weather and economic losses",
+      "summary": "Countries worldwide are grappling with record-breaking climate shocks, with 2026 projected to be one of the warmest years on record. Europe experienced extreme heat, drought, wildfires, and storms, leading to significant economic losses. The planet's life-support systems are being pushed beyond stable limits.",
+      "regions": [
+        {
+          "name": "Brussels, Belgium (Europe)",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "Extreme heat, drought, wildfires, and storms disrupted critical infrastructure and cost the EU at least 1% of its GDP."
+        },
+        {
+          "name": "Global Oceans",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Global ocean temperatures reached new heights in July, and ocean heat content in 2025 reached a new record for nine consecutive years."
+        },
+        {
+          "name": "Contiguous United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "red",
+          "detail": "July 2026 broke records as the warmest month ever, contributing to the hottest summer experienced."
+        },
+        {
+          "name": "Global Arctic",
+          "lat": 90,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Amplified sea ice loss contributes to self-perpetuating feedback loops pushing global warming past human control."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Ebola outbreak in East Africa persists; climate change impacts global health",
+      "summary": "An Ebola outbreak continues in the Democratic Republic of Congo, with cases spreading to Kenya and Nigeria in October. Global health is also increasingly impacted by climate change, with record-breaking climate shocks posing serious harms to human health worldwide. Efforts to prevent pandemics and address health system fragmentation remain critical.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An outbreak of Ebola disease caused by the Bundibugyo virus has been ongoing since May 2026, with community transmission."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Nine confirmed Ebola cases, including two deaths, were reported in October 2026, linked to the initial outbreak."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "An Ebola case was reported in October 2026, with follow-up on 62 contacts and experts deployed to provide support."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "WHO calls for climate and health actions as countries face record-breaking climate shocks, bringing serious harms to human health."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": -8.7832,
+          "lng": 34.5085,
+          "severity": "yellow",
+          "detail": "The Gates Foundation and Wellcome Leap launched a program to halve stillbirth rates in select countries over the next decade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy resilient but faces inflation, trade tensions, and AI regulation concerns",
+      "summary": "The global economy maintains solid growth, buoyed by the AI boom, but faces persistent inflation and trade tensions. The Canadian government is set to release its 2026 budget, outlining plans for a stronger economy. In the US, midterm election results eased political uncertainty, but raised fears of tighter AI regulation in tech markets.",
+      "regions": [
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "The Government of Canada is releasing its 2026 budget today, focusing on economic growth, affordability, and resilience."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Midterm election results eased political uncertainty, boosting markets, but also introduced concerns over potential AI regulation."
+        },
+        {
+          "name": "Frankfurt, Germany (Euro Area)",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "Growth in the euro area is expected to pick up modestly in 2027, with a further rebound in Germany."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Japan is likely to continue its above-trend growth, supported by strong microchip exports and fiscal expansion."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "Economic momentum is holding up as technology investment cushions the energy shock."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Global headline inflation is projected to rise to 4.7% in 2026 before easing, with high asset valuations in AI-related sectors posing risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "red",
+      "headline": "US democracy downgraded; global democratic retreat accelerates amidst rising autocracy",
+      "summary": "Democracy is in retreat worldwide, with the United States no longer classified as a full liberal democracy. Global freedom has declined for 20 consecutive years, and a majority of the world's population now lives under autocratic rule. The recent US midterm elections, while a democratic exercise, occurred within this broader context of democratic erosion.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US has been downgraded to an 'electoral democracy' by V-Dem and is at its lowest point on Freedom House's global ranking."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia is cited as a country less free than 20 years ago, undermining the rules-based international order and democratic norms."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "red",
+          "detail": "China is noted for persistently undermining the international order and has become less free over the past two decades."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "India is listed among countries where democracy has been undermined, leading to a decline in rights."
+        },
+        {
+          "name": "Budapest, Hungary",
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "severity": "yellow",
+          "detail": "Hungary is an example of a nation where democratic institutions have been undermined, impacting freedoms."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Hopeful signs of democratic revival are appearing in some places, including Venezuela, driven by popular disgust with authoritarian rule."
+        },
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Brazil is cited as a country showing signs of a democratic revival."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Humanitarian aid faces unprecedented funding cuts amidst soaring global needs",
+      "summary": "The global humanitarian situation is critical, with over 252 million people requiring aid in 2026, an increase of 13 million. This comes amidst unprecedented funding cuts, largely led by the United States and Germany, which have destabilized the aid ecosystem. Thousands are fleeing clashes in Ethiopia to Kenya, creating urgent needs for food, water, and shelter.",
+      "regions": [
+        {
+          "name": "Moyale, Kenya",
+          "lat": 3.5238,
+          "lng": 39.0649,
+          "severity": "red",
+          "detail": "Thousands of people have fled ongoing clashes in Ethiopia into Kenya, creating urgent humanitarian needs for food, water, and shelter."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia (Moyale region)",
+          "lat": 3.5186,
+          "lng": 39.0664,
+          "severity": "red",
+          "detail": "Ongoing clashes in Ethiopia have forced up to 50,000 people to flee across the border into Kenya since October 22."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5006,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Sudan faces the world's largest humanitarian crisis with over 33 million people in need and 19 million facing acute food insecurity."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1758,
+          "severity": "red",
+          "detail": "An estimated 21.9 million people require humanitarian assistance, with over 17 million facing acute food insecurity."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The UN Refugee Agency is seeking $50 million to help 9 million people in Ukraine and other regions survive the harsh winter."
+        },
+        {
+          "name": "Damascus, Syria",
+          "lat": 33.513,
+          "lng": 36.2916,
+          "severity": "red",
+          "detail": "Millions in Syria are among those needing urgent winter aid as humanitarian funds are thinned."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "red",
+          "detail": "Lebanon is included in the UN Refugee Agency's appeal for winter aid for 9 million people facing harsh conditions."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "red",
+          "detail": "Germany is cited as a key donor state whose deep funding cuts have destabilized the global humanitarian aid ecosystem."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theowp.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy8CAPKll1kGT4Lam-4UUuWtoawa3JJ-k-B6yJysqNryB4a7Zyto0qsxQy3o8FSoO4IitQI6pjsfvvBQ00Cc6dSq1zs1zqaFjJO0MhnUI3He3BVWmvSzCYXwr_XpITEJ-UWV3e1-4="
+        },
+        {
+          "title": "wttw.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKnHSx32xh6s15Dv2hG3tKRRj0LvjCa7hqn6z45ju1Sy_BIyhHBZ9FnIwAQ_7nmwhxelQon2mG7RDoGLEh8aMM9SafkFpkV4Du1wd3ZWwHfLJ8bVohVytiqlsqI2QcKRXuyu2VbJEBpLpdellTWzcbuin-sVNzA7Hfl7DTnRsl65SFCQxyBxAxpYmY5tAM4mvTGH6AbD0xwnnMIZmM1ng6Pzx45ais7Q=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNuyg0XLZ1cJf35FoRow52YfsJxiC0IAZ90bfRDcaSef3zzixDRgsT4NZS7_c_x5dl1ezuW1mtqmoQFI1-xvfLOrUGfUQWFmWq3Asa4CKBVMdRvAWNELNNhmb21QzzaRkMgclzw1G8jd1MBcz_08Yxw0oqUMfLi1wdgvHXkO1XT-IBjRLD92HV7nAu"
+        },
+        {
+          "title": "pbs.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JeMxSBZkXfsWu2Dzut51H-NqOr37yAMTdb4BI_wbf4P89bXCFt2xyjCiRP4u5iV5DbkZ4VxdmlSd9ooT2zZN-FztVzB817wLDvOX17jGZ72vHv1pxFXG_CFwZ13rG_1d6p3qu-61Lxw41QJXp7hRgUsBHtW0riQByd59_KRncnPcRtgjKMk="
+        },
+        {
+          "title": "trust.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MMp6m6XZ5SOurrV0OqAIanXc8TfwZ4D1vfkB8O1SEUblDAS6sgXZdBwcVgGIuesIsYd3RLFJRnzP0tgL-KLlDp-A_Fw3Zpxhtm3ASHnrOiNJr_tZDgfAy6mR59vd1lZYCUdDd_RVBwwPFPpqo7Orbn7gfsTd6WPNYRcqITSzYFswchMCdyw="
+        }
+      ]
+    }
+  }
+}
