@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-07",
+  "timestamp": 1794031411587,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran-US tensions escalate; conflicts persist in Gaza, Sudan, Yemen, Nigeria.",
+      "summary": "Geopolitical tensions are high with reports of US military airstrikes on Iranian targets and Iranian attacks on American aircraft in the Strait of Hormuz. Ongoing conflicts continue to cause significant concern, including the Gaza war, a lockdown in the West Bank, and internal conflicts in Sudan, Yemen, and Nigeria.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "US military carried out airstrikes on Iranian targets, and Iranian missiles attacked American aircraft."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Implied involvement in Strait of Hormuz incidents and prior strikes in March 2026."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US military actions in the Strait of Hormuz."
+        },
+        {
+          "name": "Hebron, Palestine",
+          "lat": 31.5326,
+          "lng": 35.0945,
+          "severity": "red",
+          "detail": "Israeli forces withdrew from areas after operations following the killing of two Israeli soldiers."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Ongoing Gaza war and humanitarian crisis."
+        },
+        {
+          "name": "Ed Damazin, Sudan",
+          "lat": 11.7767,
+          "lng": 34.3317,
+          "severity": "red",
+          "detail": "Rapid Support Forces (RSF) strikes reported, exacerbating a humanitarian crisis."
+        },
+        {
+          "name": "Yemen",
+          "lat": 15.5527,
+          "lng": 48.5164,
+          "severity": "red",
+          "detail": "Houthi sources claim 20 killed in Saudi-Led Coalition Airstrikes."
+        },
+        {
+          "name": "Zamfara State, Nigeria",
+          "lat": 12.1667,
+          "lng": 6.1667,
+          "severity": "red",
+          "detail": "Unidentified attackers ambushed a police convoy, killing officers and abducting personnel."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Afghanistan, Macao, Yemen face severe human rights abuses.",
+      "summary": "Afghanistan is experiencing a worsening humanitarian crisis, marked by widespread restrictions on the rights of women and girls, with millions denied education. In Macao, a former pro-democracy lawmaker received a lengthy prison sentence in a national security case, raising concerns about fundamental freedoms. Additionally, the UN has demanded the Houthis in Yemen return the body of a human rights worker who died in custody.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Widespread restrictions on rights for women and girls, deepening humanitarian crisis."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "UN demanded Houthis return the body of a human rights office worker who died in their custody."
+        },
+        {
+          "name": "Macao, China",
+          "lat": 22.1987,
+          "lng": 113.5439,
+          "severity": "red",
+          "detail": "Pro-democracy lawmaker sentenced to 12½ years in national security case."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Federal court temporarily blocked deportation of Afghan citizens due to human rights concerns."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Rising congenital anomaly cases and calls for investigation into health crisis due to aid restrictions and conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2026 projected as second-hottest year; 90 million displaced at climate risk.",
+      "summary": "The year 2026 is projected to be the second-hottest on record, exacerbated by an exceptionally strong El Niño and human-driven global warming. A UN refugee agency report warns that nearly 90 million forcibly displaced people live in countries highly exposed to climate-related droughts, floods, and extreme heat, highlighting a critical funding gap for adaptation. The N.W.T. government released a new energy and climate change strategy in response to warming four times the global rate, including historic flooding and wildfire seasons.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "2026 is on track to be the second-hottest year on record, with global temperatures virtually certain to exceed 1.5 degrees Celsius above preindustrial levels."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "Host of the COP31 climate summit, where increased funding for climate adaptation is being urged."
+        },
+        {
+          "name": "Northwest Territories, Canada",
+          "lat": 64.8255,
+          "lng": -124.8457,
+          "severity": "red",
+          "detail": "Government released a new energy and climate change strategy as the region warms at four times the global rate."
+        },
+        {
+          "name": "Somalia",
+          "lat": 2.0469,
+          "lng": 45.3182,
+          "severity": "red",
+          "detail": "East Africa faces severe flooding, potentially displacing millions by year-end."
+        },
+        {
+          "name": "Bangladesh",
+          "lat": 23.685,
+          "lng": 90.3563,
+          "severity": "red",
+          "detail": "Nearly three-quarters of the world's forcibly displaced people live in climate-vulnerable countries like Bangladesh."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The Paris Agreement's 1.5°C limit is expected to be exceeded."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles surge in US; Ebola outbreak continues in DRC, Kenya, Nigeria.",
+      "summary": "The United States has reported over 5,000 cases of measles in 2026, the highest in 35 years, with eight related deaths, underscoring a preventable public health challenge. An Ebola outbreak caused by the Bundibugyo virus is ongoing in the Democratic Republic of Congo with over 10,700 confirmed cases and 5,200 deaths, with cases also reported in Kenya and Nigeria. Additionally, Gaza's Health Ministry has called for an international investigation into a rising number of congenital anomaly cases among newborns, attributing it to aid restrictions and conflict.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "Highest number of measles cases in 35 years reported, with over 5,000 cases and eight deaths."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": 0.228,
+          "lng": 22.92,
+          "severity": "red",
+          "detail": "Ongoing Ebola outbreak with over 10,700 confirmed cases and 5,200 related deaths."
+        },
+        {
+          "name": "Kenya",
+          "lat": 1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Reported Ebola cases linked to the ongoing outbreak."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "yellow",
+          "detail": "Reported Ebola cases linked to the ongoing outbreak, with one case medically evacuated to Switzerland."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Rising congenital anomaly cases among newborns, prompting calls for investigation into health crisis."
+        },
+        {
+          "name": "Switzerland",
+          "lat": 46.8182,
+          "lng": 8.2275,
+          "severity": "green",
+          "detail": "An Ebola case was medically evacuated here from Nigeria for treatment."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy faces AI investment uncertainty, high energy costs, and trade tensions.",
+      "summary": "The global economy is experiencing mixed signals, with US technology stocks facing selling pressure due to concerns about AI infrastructure investments, though some markets saw recovery. International oil prices declined but remain significantly higher than at the start of the year, contributing to energy market uncertainty and inflation. The IMF warns of risks from rising debt and the AI boom, describing the global economy as resilient but uneven in its ability to withstand external shocks, further complicated by trade tensions and ongoing conflicts like the Iran war.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "yellow",
+          "detail": "US technology stocks (AI, semiconductors, cloud computing) facing selling pressure, but job market strengthened."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "General concerns about the AI boom, rising debt, and uneven economic resilience."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European Central Bank and broader eurozone economy face projected slowdown."
+        },
+        {
+          "name": "Strait of Hormuz, Persian Gulf",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Oil prices are volatile due to reported oil tanker attacks and the Iran war, impacting energy costs."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "A Dutch lawmaker warned that a potential Taiwan conflict could severely impact the global economy."
+        },
+        {
+          "name": "Busan, South Korea",
+          "lat": 35.1796,
+          "lng": 129.0756,
+          "severity": "green",
+          "detail": "Busan Port Authority received an international award for pioneering rope safety management system."
+        },
+        {
+          "name": "Gwangju, South Korea",
+          "lat": 35.16,
+          "lng": 126.8514,
+          "severity": "green",
+          "detail": "Kia plans to invest 3 trillion KRW to transform its Gwangju plant into a future vehicle hub."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterms proceed without major disputes; Israel, France face democratic challenges.",
+      "summary": "In the United States, the 2026 midterm elections saw a significant reduction in disputes over results, with both houses of Congress flipping to the Democratic Party. However, Israel's democracy is reportedly facing an 'existential threat' as a political leader warns amidst efforts to form a new government. Europe is observing cracks in the populist right, but France's Marine Le Pen still presents a challenge, and in Macao, a former pro-democracy lawmaker was sentenced to a long prison term in a national security case.",
+      "regions": [
+        {
+          "name": "United States",
+          "lat": 37.0902,
+          "lng": -95.7129,
+          "severity": "green",
+          "detail": "Midterm elections held, with a smooth transfer of congressional control and minimal disputes over results."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "A political leader warned that Israeli democracy faces an 'existential threat' during government formation efforts."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "Europe sees cracks in the populist right, but France's Le Pen remains a challenge."
+        },
+        {
+          "name": "Macao, China",
+          "lat": 22.1987,
+          "lng": 113.5439,
+          "severity": "red",
+          "detail": "Former pro-democracy lawmaker sentenced to 12½ years in Macao's first national security case, raising concerns about democratic erosion."
+        },
+        {
+          "name": "Andhra Pradesh, India",
+          "lat": 15.9129,
+          "lng": 79.74,
+          "severity": "green",
+          "detail": "Vote counting and declaration of results for ZPTC and MPTC elections are taking place."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Worsening humanitarian crises in Afghanistan, Gaza, Sudan amid funding shortfalls.",
+      "summary": "Afghanistan is facing a worsening humanitarian crisis with needs expected to rise sharply in 2027 due to returnees, regional instability, and a severe El Niño, while funding has significantly fallen. In Gaza, approximately 94% of the population requires urgent humanitarian assistance, particularly shelter and non-food items, with many emergency shelters deemed unsafe. Sudan is experiencing a severe humanitarian crisis in Darfur due to hunger, crop failure, and war, displacing thousands, and millions across the country risk losing shelter due to critical funding shortages. UNHCR warns that 90 million displaced people are at risk from climate threats globally, urging increased funding for adaptation.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.5228,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "Worsening humanitarian crisis with increasing needs and declining funding."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "94% of the population needs urgent humanitarian aid, with many unsafe shelters."
+        },
+        {
+          "name": "Tawila, Sudan",
+          "lat": 13.6826,
+          "lng": 24.5828,
+          "severity": "red",
+          "detail": "Thousands displaced due to hunger, crop failure, and war in Darfur, seeking refuge in camps."
+        },
+        {
+          "name": "Ed Damazin, Sudan",
+          "lat": 11.7767,
+          "lng": 34.3317,
+          "severity": "red",
+          "detail": "Ongoing conflict exacerbating a severe humanitarian crisis with new temporary shelters appearing."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UN agencies are appealing for more funding and reporting on humanitarian crises."
+        },
+        {
+          "name": "Dhaka, Bangladesh",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "severity": "yellow",
+          "detail": "Bangladesh needs continued humanitarian aid for Rohingya refugees, as it is a climate-vulnerable country hosting displaced populations."
+        },
+        {
+          "name": "Farchana, Chad",
+          "lat": 12.3333,
+          "lng": 21.9,
+          "severity": "red",
+          "detail": "Sudanese refugees fleeing conflict and climate hazards are seeking refuge here."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "Saudi Arabia announced over $145 billion in humanitarian aid to 175 countries, with KSrelief implementing projects globally."
+        }
+      ],
+      "sources": [
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfByeEB-5ln_m-ToSXBBY8j8FriKCesddrzDNUJTc-kIQbQ_ib_3zipqdBMqKwe4lqKIAFyOP9VHgc1FF0RU2QXyPOW7BRq0z76rihkGCR5zHLAtKu4AtoCDrufFDPyeLcsmWxCOgtiikdFZv4-QUWng7kDbKpFdCq7j0C"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBFx-XXM97PHq5Jd2724pVogZrW0ymsunMh0-wDZvt204QM0JEcDVK2PRufDXiZrnGGm7y6dYStJIBIeNZ3octdMCMgwcgapRL4MVh7EfOxQ9n2OcinEIjEZSWPllBzLXGn1qPTdfQNtZ966w7uN78V95ZxJb3wmdRJvF6Ce6SLR4IrKDBlgEbUi5oVOSVrhlbz_DcK7Kcqo4uAsKjOCBEKJEsO3kIAG5lrGuT5B_DdHWelUqnFY2Gz4gDuHSp5Z_bA=="
+        },
+        {
+          "title": "clickorlando.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3Fmucqs1XdkGyQ461i7EQuj-1ZVk_AlNi4-D0XXsQ8ZTwiuUW3huswAFoO794Zrf8Qwak8ORV9OALFReIuTl9Ruh2v5AO5VhkRRPbKGEmzgdZv-jqQaOaCBmSoXYr7ayKa-Xmxq75JZVxuB2g8uDNMLwC8H5aLeE2kLzBBjJmGz_hxwJwcWQ9CAqvT1IsD8pxySO9IGv-EBDMPq5mg64gv4HXCd9wuFXlSbNno25Nn2GKhWbdiZl5-Iy7w55jq9_45A="
+        },
+        {
+          "title": "8am.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTGJKtY4a4cKUMRgbXr-JxH3ERJCv7QpsPikgHKZ7s8tCaR51GNkhq3LIdLYichMkzfO2E2xWeLt7zbTTk2sFtDcON_ddYYjFCHx-xEUBYz8vzGETVqMqX7MKBV1bDmrWdHcoDlndT0_bJQzTNV6WNh0cKK0E1LdToOCFRPDgIaeDXu8wm"
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQqgH32GDyGv3UbzNuB_U5CUz1hS1YdwxHJDD3TQLuOhGNEdhDxJSN0t7U1-py5DQd7c25AGPCTnj2QFYS3Z7Cm9WBC7DvRMoi1LqQpHmgQhaT-u8CPRUDix4DNhZcImNBEg=="
+        }
+      ]
+    }
+  }
+}
