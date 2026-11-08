@@ -1,0 +1,454 @@
+{
+  "date": "2026-11-08",
+  "timestamp": 1794117839689,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine war escalates; Israel-Iran conflict, Sudan crisis persist",
+      "summary": "Russia intensified attacks on Ukraine's energy infrastructure and civilian targets, leading to a high civilian death toll in 2026, including 55 killed in a Zaporizhzhia school bombing. Tensions remain high between Iran and the US, with Turkey urging diplomacy. Meanwhile, the conflict in Sudan continues to cause widespread displacement and humanitarian suffering.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian missile and drone attacks continue to target energy infrastructure and civilian areas."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8388,
+          "lng": 35.1395,
+          "severity": "red",
+          "detail": "A school building used as a shelter and aid center was bombed, killing at least 55 civilians."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia continues its aggressive military campaign against Ukraine, escalating attacks on civilian infrastructure."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Tensions with the US remain high, with calls for diplomacy to resolve outstanding issues."
+        },
+        {
+          "name": "Gaza, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "The region is impacted by Israel's military campaign and the ongoing conflict with Iran."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The capital and other parts of Sudan face severe humanitarian crises due to ongoing conflict and displacement."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Global lawmakers at the IPAC summit prioritized peace and stability in the Taiwan Strait amidst regional security concerns."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Philippine Coast Guard reported Chinese Coast Guard vessels operating near several Southeast Asian countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI & surveillance raise human rights concerns globally",
+      "summary": "A report highlighted China's extensive overseas contact points for surveillance of Chinese communities. Protests in Amsterdam against a Microsoft data center raised alarms about AI's potential for warfare and surveillance. Concerns about government use of commercial spyware, with European companies reportedly selling to regimes with poor human rights records, continue to be a significant issue.",
+      "regions": [
+        {
+          "name": "The Hague, Netherlands",
+          "lat": 52.0705,
+          "lng": 4.3007,
+          "severity": "yellow",
+          "detail": "A report by Safeguard Defenders detailed Chinese overseas contact points potentially used for surveillance."
+        },
+        {
+          "name": "Amsterdam, Netherlands",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "severity": "yellow",
+          "detail": "Protesters stormed a Microsoft data center site, highlighting concerns over AI's impact on privacy and potential for misuse."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "A judge blocked a voter-list scheme, indicating ongoing legal battles over digital rights and privacy in elections."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China is implicated in operating an extensive network of overseas contact points for potential surveillance of its diaspora."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU is criticized for not effectively controlling the export of surveillance technology to countries with poor human rights records."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Severe climate shocks continue; COP31 approaches",
+      "summary": "The World Health Organization highlighted that countries are experiencing severe climate-related shocks in 2026, emphasizing the urgent need for climate and health interventions ahead of the COP31 summit. Discussions around climate action are intensifying, with a focus on making health systems climate-resilient and reducing emissions.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The UN Climate Conference (COP31) is set to open, bringing together global leaders to discuss climate commitments and solutions."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO is actively involved in advocating for climate and health measures, releasing reports ahead of COP31."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Countries worldwide are facing severe climate-related shocks and the unequally distributed impacts of climate change."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Climate-health nexus and tech for monitoring vital",
+      "summary": "The WHO continues to emphasize the critical link between climate change and public health, advocating for climate-resilient health systems and investments in interventions to save lives. New research highlighted the positive impact of clean cooking access on reducing lung disease globally. The WHO also launched a consultation on wearable devices for population health monitoring, indicating a push for technological solutions in health surveillance.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The WHO is at the forefront of global health initiatives, releasing reports, inviting feedback on new technologies, and emphasizing climate-health links."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Research on clean cooking access has global implications for reducing interstitial lung disease."
+        },
+        {
+          "name": "Sub-Saharan Africa",
+          "lat": 0,
+          "lng": 20,
+          "severity": "yellow",
+          "detail": "The region continues to bear the greatest malaria burden, though vaccine price reductions offer hope."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US jobs surge; Brazil fiscal woes; China trade impact",
+      "summary": "The US economy showed strength with job growth topping forecasts following the midterm elections, which also saw Democrats potentially curbing previous economic policies. However, Brazil faces significant economic challenges with precarious public finances and rising public-sector debt. Globally, concerns about Chinese economic coercion and the impact of its exports ('China Shock 2.0') on worldwide jobs persist.",
+      "regions": [
+        {
+          "name": "Brasília, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "yellow",
+          "detail": "Brazil's economy faces a potential 'crash landing' due to precarious public finances and rising public-sector debt."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The US reported stronger-than-expected job growth, and the outcome of midterm elections may influence future economic policies."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's economic policies and exports are creating global concerns, with warnings of a 'China Shock 2.0' impacting jobs worldwide."
+        },
+        {
+          "name": "Dublin, Ireland",
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "severity": "yellow",
+          "detail": "Irish companies invested in the US AI boom and audiovisual production could be impacted by shifting US policies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterm results signal democratic shift",
+      "summary": "The US midterm elections saw a 'blue wave' giving Democrats comfortable control of Congress and key statewide offices, including a significant shift in Texas, signaling a strong democratic repudiation of former President Trump's influence. World leaders and younger generations hailed this as a victory for democracy and an opportunity for renewed global engagement. In Israel, the process of forming a new government is underway after elections where neither major bloc secured a clear majority.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Democrats gained control of both houses of Congress in the midterm elections, indicating a significant shift in US politics."
+        },
+        {
+          "name": "Austin, Texas, USA",
+          "lat": 30.2672,
+          "lng": -97.7431,
+          "severity": "green",
+          "detail": "Democrats swept statewide offices in Texas, a historically Republican state, demonstrating a notable democratic shift."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "The Israeli President has tasked Gadi Eisenkot with forming a new government following elections where no clear majority emerged."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Global lawmakers convened at the IPAC summit, working to bolster democratic resilience against external influences."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Urgent aid needed for Sudan & Ukraine; Myanmar crisis",
+      "summary": "Humanitarian crises are escalating severely in Sudan and Ukraine, with both countries facing massive displacement, relentless attacks on civilians and infrastructure, and critically underfunded aid appeals. Sudan's 2026 Humanitarian Needs and Response Plan is only 47% funded, exacerbating suffering and driving migration to Europe. Meanwhile, the EU allocated additional aid for Myanmar and Rohingya refugees in Bangladesh, where millions remain displaced by ongoing conflict.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The country faces the world's largest displacement crisis, with severe underfunding for humanitarian aid and exhausted emergency stocks."
+        },
+        {
+          "name": "Umbaru, North Darfur, Sudan",
+          "lat": 13.75,
+          "lng": 25.4,
+          "severity": "red",
+          "detail": "Activists launched an appeal for displaced families after attacks by the Rapid Support Forces caused widespread abuses and shortages."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The nation is entering its fifth year of war with a severe humanitarian crisis, driven by attacks on civilians and infrastructure, requiring significant aid."
+        },
+        {
+          "name": "Zaporizhzhia, Ukraine",
+          "lat": 47.8388,
+          "lng": 35.1395,
+          "severity": "red",
+          "detail": "Civilian areas, including a school used as a shelter, have been targeted, worsening the humanitarian situation ahead of winter."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7635,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "Escalating conflict is causing increased needs and driving displacement of millions within the country."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 91.9634,
+          "severity": "red",
+          "detail": "Rohingya refugees and host communities continue to rely on humanitarian aid amidst precarious living conditions and new arrivals."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "The Canadian government's 2026 budget was criticized for its silence on international humanitarian assistance despite global needs."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU is providing additional humanitarian aid for Myanmar and Rohingya refugees in Bangladesh to address escalating crises."
+        }
+      ],
+      "sources": [
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22xE1ccoW2mXswSusSEMJpXw16JB1S-ZjOmM993V3cAGCuVr7tzADV9Ke5xWGLTmBpxcXOQWmq6-HfcMdLmza86lM2FHdUgLzCUPQctH5jJh0rIEfjLjddhJzbSJYiqJPiDdhBA-60pTTx5PafS8ECOt6LtlRRKqXNU_tXdyZZhAkCAvBx711Lt23c42i2WjUL7ta8Ll8FUY="
+        },
+        {
+          "title": "pajhwok.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrPiOtKScYpl5_C2zgtQ1T02dDuYWiV6xfFoIbR0ZiKI7mMY3HKCnXHkat5hjS5icfU5OLRNZPk08qg5Xwby6RP9ecXrf2asfoAbNb_t_tL7e6unFomDlORgFLezWc_dJ0Rk6ebgidlsce22jwbZT_Z1rGFncpiq3e0s1bZDUAqjgIKbZGrsmXRQgBcjn2Hf0oX_PkzCng4RQeXW7"
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOuVWP-dJFImdRKM-J8ptPEOJKxjKryXAE1jzGYuLA7Y8kY5VLhDDsPK38Iss-AdIzD-Ik86bbK3HwQNLrVQ2KMDCVuFXNGCptDZ8KI7h9Y31AUi2T12yy_kYGNiQkr82V9GnsLCceO8TMuhkYXyleQEwt4ktWuDSk-UaLV6g6KttHIyhJHlSzRu7uAA-DAwE5hpNj5b7uK7sQ0FK0BRUGezHgB-mD5knqmFpa_OA-OsEf7qhfNHCQnJ_GiW3URnP44oURfwk9L7Xu_uoux7R4O7bQH3bgqPuypzkysMz-QKncIYoSlG2sCaBAcTJx5CcDw3gZ"
+        },
+        {
+          "title": "eurasiareview.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWszT_Ui8rtqc7JtjP7erIfnrCH0lPOANSZXuD3C-ya08wkELIDsgtI8MncKOxSGXAhh8bH49UIuI6ulxJC6nWKJv_q0wNkRnneW_LJsyUlCCRojurmh5at2PWCCq7OT45p0GPvbxsMEUSjLws9pHqWUXA_BTTftYHWXatYqYsCB2aS3ngFr4PDiAvFCT6QU8q4um1XPHYIC3O1qQB1q-UYF65mZrBvJVOo1I9jLzgNw=="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuiXlM1j37MATzqCLZf4WM_jdCcbFzgWZ0drlVAdJ-dzTTEwzySQStDTh7LpER8Z4RrJw3rK-AWKwQ5o4mGMJYHxsvqs1Z9tR3hnKU6ggZwi9i1ssRweul3bsjV3texkH"
+        }
+      ]
+    }
+  }
+}
