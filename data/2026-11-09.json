@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-09",
+  "timestamp": 1794204270628,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Iran-US tensions high, Ukraine peace talks, Gaza crisis deepens",
+      "summary": "Tensions remain critically high with reports of the US weighing new attacks on Iran, and President Trump noting he is unlikely to order strikes if talks progress. Meanwhile, peace talks are scheduled in Abu Dhabi for the nearly five-year-long war in Ukraine, though fierce fighting continues. The humanitarian crisis in Gaza deepens as the death toll from Israeli attacks surpasses 74,000, and President Trump urges action on a peace plan.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Fierce fighting continues along the front lines despite scheduled peace talks in Abu Dhabi."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The US is reportedly weighing new attacks, and discussions continue regarding the US-Iran conflict."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US officials are involved in peace talks for Ukraine and are considering military options regarding Iran."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.3088,
+          "severity": "red",
+          "detail": "The death toll from Israeli attacks in Gaza has surpassed 74,000."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Hostilities persist between Saudi Arabia and Yemen's Iran-aligned Houthis, with loud booms reported in the capital."
+        },
+        {
+          "name": "Abu Dhabi, United Arab Emirates",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "Peace talks involving Russian, Ukrainian, and US officials are scheduled to begin here."
+        },
+        {
+          "name": "Tel Aviv, Israel",
+          "lat": 32.0853,
+          "lng": 34.7818,
+          "severity": "yellow",
+          "detail": "President Trump urged Israeli Prime Minister Netanyahu to move forward on a Gaza peace plan."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Indigenous rights cases persist, AI safety concerns debated",
+      "summary": "Guatemala faces a human rights court over the violent eviction of Indigenous communities for sugarcane plantations. In Brazil, the long-awaited trial for the killing of an Indigenous forest guardian in the Amazon has been delayed again. Environmental human rights defenders continue to face intimidation and exclusion from climate decision-making, a concern highlighted at COP31.",
+      "regions": [
+        {
+          "name": "Alta Verapaz, Guatemala",
+          "lat": 15.5,
+          "lng": -90,
+          "severity": "yellow",
+          "detail": "Guatemala faces a human rights court for the violent eviction of Indigenous communities from their ancestral land."
+        },
+        {
+          "name": "Brazilian Amazon, Brazil",
+          "lat": -3.4653,
+          "lng": -56.024,
+          "severity": "yellow",
+          "detail": "The trial for the 2019 killing of an Indigenous forest guardian has been delayed again, sparking outrage."
+        },
+        {
+          "name": "Antalya, Turkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "A briefing for COP31 highlights ongoing challenges faced by environmental human rights defenders globally."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "green",
+          "detail": "An AI and Public Health conference is discussing the opportunities and risks of artificial intelligence, including potential impacts on privacy and safety."
+        },
+        {
+          "name": "Toronto, Canada",
+          "lat": 43.6532,
+          "lng": -79.3832,
+          "severity": "yellow",
+          "detail": "A woman was arrested at a demonstration for failing to comply with an undertaking, raising concerns about freedom of assembly."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "COP31 opens amid extreme weather and critical climate warnings",
+      "summary": "The 31st UN Climate Change Conference (COP31) begins in Antalya, Turkiye, with a focus on food, agriculture, and health, following a 'disastrous year of extreme weather'. Warnings persist that global temperatures are on course to exceed the 1.5°C threshold, underscoring the urgency for action. Discussions at the summit aim to accelerate global electrification and reduce fossil fuel dependence amidst geopolitical tensions.",
+      "regions": [
+        {
+          "name": "Antalya, Turkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "red",
+          "detail": "COP31 begins, focusing on food, agriculture, and health amid rising temperatures and extreme weather."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "A glacier collapse triggered catastrophic flooding, killing over 1,450 people, highlighting severe climate impacts."
+        },
+        {
+          "name": "Europe (General)",
+          "lat": 48,
+          "lng": 10,
+          "severity": "red",
+          "detail": "Western Europe experienced a series of severe heatwaves in 2026, contributing to the urgency of climate action."
+        },
+        {
+          "name": "Strait of Hormuz, Middle East",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "yellow",
+          "detail": "Disruptions to oil shipments through the Strait of Hormuz due to conflict have complicated climate negotiations."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US withdrawal from international climate cooperation is noted as a complicating factor for global efforts."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China experienced USD 113.5 billion in damages from international shipping emissions between 1990 and 2020."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles resurgence in US, climate-health link at COP31",
+      "summary": "The United States is experiencing a concerning resurgence of measles, with eight associated deaths reported in 2026, reversing decades of progress. Public health is a central theme on the opening day of COP31, with discussions on strengthening health systems against climate-related risks. Meanwhile, South Korea is providing a $12 million grant to the Philippines to enhance diagnostic and treatment services.",
+      "regions": [
+        {
+          "name": "Pennsylvania, United States",
+          "lat": 40.5908,
+          "lng": -77.2098,
+          "severity": "red",
+          "detail": "Six measles-associated deaths in 2026 highlight a significant public health reversal in the state."
+        },
+        {
+          "name": "Antalya, Turkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "Public health is a key focus on Day 1 of COP31, addressing climate change's impact on well-being."
+        },
+        {
+          "name": "Luzon, Philippines",
+          "lat": 16,
+          "lng": 121,
+          "severity": "green",
+          "detail": "A $12 million grant from South Korea aims to strengthen diagnostic and treatment services for tuberculosis and influenza surveillance."
+        },
+        {
+          "name": "Colombo, Sri Lanka",
+          "lat": 6.9271,
+          "lng": 79.8612,
+          "severity": "green",
+          "detail": "World Immunization Day highlights Sri Lanka's strong childhood immunization program."
+        },
+        {
+          "name": "Kunming, China",
+          "lat": 25.04,
+          "lng": 102.71,
+          "severity": "yellow",
+          "detail": "A study details the shifting dynamics and pathogen spectrum of infectious diarrhea from 2011-2025, highlighting ongoing epidemiological challenges."
+        },
+        {
+          "name": "Brisbane, Australia",
+          "lat": -27.4698,
+          "lng": 153.0251,
+          "severity": "green",
+          "detail": "Australia's first AI and Public Health conference is set to discuss opportunities and risks of AI in improving public health outcomes."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Iran conflict disrupts oil, global economy faces challenges",
+      "summary": "The US war with Iran has significantly disrupted global oil supplies by closing the Strait of Hormuz, driving up prices of gasoline, oil, and related products. The Philippine GDP grew at its weakest rate since the pandemic in Q3, and its dollar reserves fell to a near 4-year low. A study also revealed that emissions from international shipping cost the global economy nearly $1 trillion between 1990 and 2020.",
+      "regions": [
+        {
+          "name": "Strait of Hormuz, Middle East",
+          "lat": 26,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The conflict-induced closure of the strait has significantly disrupted global oil supplies and pushed up prices."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "The Philippine GDP growth in Q3 was the weakest since the pandemic, and dollar reserves fell to a near 4-year low."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India shows strong economic growth but faces challenges due to its significant dependence on crude oil imports."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Investors are closely monitoring the October non-farm payrolls report for insights into the US job market."
+        },
+        {
+          "name": "Abu Dhabi, United Arab Emirates",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "The UAE experienced a 0.35% reduction in its 2020 GDP due to international shipping emissions, and opposes stricter regulations."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia's 2020 GDP was reduced by 0.34% due to international shipping emissions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "US midterms bolster democracy, global elections defy autocrats",
+      "summary": "Recent elections in the United States, Brazil, Serbia, and Israel have inflicted setbacks on authoritarian leaders, renewing faith in the resilience of democracy. The US midterms saw a historic sweep for Democrats, gaining control of both chambers of Congress and several governorships, driven by domestic economic issues. The International Foundation for Electoral Systems will honor Congressman Steny Hoyer, with discussions on challenges facing democracy worldwide.",
+      "regions": [
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Democrats achieved a historic sweep in the US midterms, securing comfortable control of Congress."
+        },
+        {
+          "name": "Brasilia, Brazil",
+          "lat": -15.7801,
+          "lng": -47.9292,
+          "severity": "green",
+          "detail": "Luiz Inácio Lula da Silva's comeback victory is seen as a pushback against the far right."
+        },
+        {
+          "name": "Belgrade, Serbia",
+          "lat": 44.7872,
+          "lng": 20.4573,
+          "severity": "green",
+          "detail": "Recent elections in Serbia were cited as a setback for authoritarian leaders."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "green",
+          "detail": "Israel's election saw increased representation for Arab-Israeli parties, with plans to repeal judicial overhaul."
+        },
+        {
+          "name": "Guatemala City, Guatemala",
+          "lat": 14.6284,
+          "lng": -90.5228,
+          "severity": "green",
+          "detail": "Guatemala faces a human rights court, demonstrating a democratic mechanism for accountability."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "green",
+          "detail": "World Freedom Day is observed, commemorating the opening of the Berlin Wall in 1989 as a symbol of democratic progress."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid shortfalls in Afghanistan, Myanmar, Madagascar crisis",
+      "summary": "The UN OCHA reports a significant $1.2 billion funding shortfall for humanitarian aid in Afghanistan, where 9.3 million people received assistance in the first eight months of 2026. The EU has released €16 million in aid for Myanmar due to escalating conflict and a deteriorating food crisis, alongside support for Rohingya refugees in Bangladesh. A prolonged food security crisis is also expected in the Grand South of Madagascar, affecting millions.",
+      "regions": [
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "A $1.2 billion funding shortfall threatens continued humanitarian assistance for 9.3 million people."
+        },
+        {
+          "name": "Myanmar (General)",
+          "lat": 21.9139,
+          "lng": 95.9562,
+          "severity": "red",
+          "detail": "The EU allocated €16 million in aid due to escalating conflict, displacement of over 4 million people, and a food crisis."
+        },
+        {
+          "name": "Cox's Bazar, Bangladesh",
+          "lat": 21.4271,
+          "lng": 91.9778,
+          "severity": "red",
+          "detail": "1.2 million Rohingya refugees remain dependent on humanitarian aid for survival, receiving EU support."
+        },
+        {
+          "name": "Grand South, Madagascar",
+          "lat": -22.5,
+          "lng": 45,
+          "severity": "red",
+          "detail": "A prolonged food security crisis is expected, with 2.0-2.49 million people needing assistance due to poor harvests."
+        },
+        {
+          "name": "Malabon City, Philippines",
+          "lat": 14.6687,
+          "lng": 120.9634,
+          "severity": "yellow",
+          "detail": "The Philippine Red Cross provided immediate humanitarian assistance to over 100 individuals displaced by a fire."
+        },
+        {
+          "name": "Banten Province, Indonesia",
+          "lat": -6.4,
+          "lng": 106,
+          "severity": "green",
+          "detail": "A multinational military medicine exercise simulated complex humanitarian assistance and disaster relief scenarios for natural disasters."
+        }
+      ],
+      "sources": [
+        {
+          "title": "azernews.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_PxsCWL_olrq4npvZfq5KJ23z_wHWa6bm4pUqu1y2Aa12OUU3zEhSwmzDGLtLANuydAgCMr7Znlwv9qy5rDUmebSBivaH44iWpu_j2wzfZroAd23AYEMZ3ltrp6fe8dtF0zqLiA=="
+        },
+        {
+          "title": "thestandard.com.hk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnptr7MTzvamarobYPQ-CzfprFLFBh02RXJVmiIfFfSQYoCzGE-LhaBxVc3B3_qkjNnSnz6fDuPm-CYIxoH7EXPxtIRZxiCTIm6QBOYvCG9vcBa0C-4yC8s6CrSRS-fwXpnMYrS2b5QSY5GdSgbfr_POCJcZ-xjdYbF2dZQfQ3geQH3mCUMZ-UomMC"
+        },
+        {
+          "title": "report.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHZJmc513a8do9dFt_tE_GAmhc7L0pJzqYaOsEpnCerZ8VI05v8f8BC6KE-f2L0Ke0wSyK5-0VI9nkktlxV6k6xljSHg6eI4YpgIHNtQLpg2gC_7EI6hbN8wfVh-V62M6hYL1FPX5fd2A0og1aU7nbEvrnPZ0JvP5M0A5eU-_Sw-NHOck5hn_ZEX_BdFhZrg5UldgQXMiAzOvaC8wJwa-VDhqdOVt0Oc="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDSqe8GqjQJsUoA1MFQPCGcYk1ckqgDFNzse1sXKirB9VnTP9rzXuaczaoVQa1TnFEdD_IIPodRFtVyUdTmc8Nr4HfqEB2tOh1FYLzClCMHM4Z7JnCfrZmNbIq7PvUQrLGmso-WhUEtibn1AErOeiA8iySUEswIAOPeMzXsH7vFk28vxuQvonsxxZIW8aBmIDvmHfWFEi7upfHl9PhrfdDDVXuQvcEApd0DAIOfvEQLKlhfg=="
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbZZMFvgrNG6QhBCXBgM5cTKQ3vITDG6n-ir_UiJhAitaWAOlgfte1MPsTyabGFC_KMP0UqvEDaoAHMsd65UFJBq1R1ZlPj-B79hLoLE-7q1Cjz4BuKTQ66pPg4gssoHCAFTtohocKTT9eBxf0yRDeL-yocmT_kIljg7K1UqJqK8PtF-VX-koY9bvKZKRmymK4i-J9YY-_JbvbKIim3G4XpWFEx2Q81DAZUjyi8Ehi7OeTyfBEvqR6dUK3v3TtupUNU3IXw=="
+        }
+      ]
+    }
+  }
+}
