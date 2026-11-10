@@ -1,0 +1,454 @@
+{
+  "date": "2026-11-10",
+  "timestamp": 1794290600831,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine, Russia, US begin peace talks amid escalating fighting.",
+      "summary": "US-mediated talks involving Ukraine, Russia, and the United States commenced in Abu Dhabi today, aiming to find a resolution for the war. Meanwhile, Russia is intensifying strikes on Ukrainian energy infrastructure ahead of winter, and Ukraine's President Zelenskyy asserts that battlefield successes strengthen Kyiv's negotiating position.",
+      "regions": [
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "US-mediated peace talks between Ukraine, Russia, and the United States began here, with European representatives also present."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia is intensifying strikes on Ukraine's energy infrastructure and a Russian drone attack reportedly killed 55 people queuing for humanitarian aid in a frontline village."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russia continues its military operations in Ukraine, with leaked data indicating over 400,000 Russian deaths in the conflict."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Saudi Arabia reported interception of missiles and drones launched by Houthi rebels, experiencing near-daily attacks."
+        },
+        {
+          "name": "Sanaa, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Houthi health authorities reported 44 deaths, mostly women and children, from airstrikes near the capital."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "G7 foreign ministers are meeting to discuss unresolved global crises, including the Iran conflict and the Russia-Ukraine war."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The US has a naval blockade, Task Force Iron Gate, in effect and is signalling progress towards ending the conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Australia mandates AI safety; UN reviews rights records; UK plans HRDD.",
+      "summary": "Australia introduced mandatory AI safeguards following a government website hack, including an AI safety regulator and mandatory reporting of security breaches. The UN Human Rights Council's Universal Periodic Review is examining the human rights records of 14 states, while the UK government plans mandatory Human Rights Due Diligence legislation for businesses.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Prime Minister Anthony Albanese announced mandatory AI safeguards, including an AI safety regulator, in response to growing concerns over AI security."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council's Universal Periodic Review Working Group is examining the human rights records of 14 Member States, including the United States."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The UK Government announced plans to introduce mandatory Human Rights Due Diligence legislation for large businesses operating within their supply chains."
+        },
+        {
+          "name": "Honolulu, USA",
+          "lat": 21.3069,
+          "lng": -157.8583,
+          "severity": "yellow",
+          "detail": "The Hawai'i Supreme Court heard oral arguments on whether elephants in the Honolulu Zoo have human rights, specifically the right to habeas corpus."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "yellow",
+          "detail": "A verdict in a sex-trafficking case linked to a 2022 disappearance was delayed, raising concerns about impunity and state corruption."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "2026 forecast hottest year; ocean risks threaten global economy.",
+      "summary": "Scientists predict 2026 will be the hottest year on record, with global heating almost certain to exceed 1.5°C above pre-industrial levels, potentially leading to a sustained breach by 2030. Furthermore, a report warns that severe ocean risks could significantly impact food prices, pensions, and global economic resilience. COP31 climate talks are ongoing in Turkey, addressing these critical issues.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "COP31 climate talks are underway, where discussions include efforts to keep the 1.5°C target within reach and address climate finance for developing nations."
+        },
+        {
+          "name": "Global Ocean",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "A new report highlights severe ocean risks threatening food prices, pensions, and global economic resilience, urging recognition of ocean health as critical economic infrastructure."
+        },
+        {
+          "name": "South-East Asia",
+          "lat": 0,
+          "lng": 105,
+          "severity": "red",
+          "detail": "Increased emissions from deforestation and land use change, including major fires, are offsetting slight reductions in fossil fuel emissions."
+        },
+        {
+          "name": "Iran",
+          "lat": 32.4279,
+          "lng": 53.688,
+          "severity": "green",
+          "detail": "The ongoing conflict in Iran is cited as a factor driving a slight fall in global carbon emissions from oil as countries seek alternative energy sources."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak in DRC, Kenya, Nigeria; zoonotic disease risk rises.",
+      "summary": "A multi-country Ebola outbreak, caused by the Bundibugyo virus, continues to be a severe concern, with over 10,000 cases and 5,000 deaths reported in the Democratic Republic of Congo as of November 5, 2026, and additional cases in Kenya and Nigeria. Meanwhile, new research indicates a heightened risk of zoonotic emerging infectious diseases linked to increased wildlife imports.",
+      "regions": [
+        {
+          "name": "Kinshasa, Democratic Republic of the Congo",
+          "lat": -4.3225,
+          "lng": 15.3222,
+          "severity": "red",
+          "detail": "An ongoing Ebola outbreak has reported over 10,000 confirmed cases and 5,000 deaths as of November 5, 2026."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "severity": "red",
+          "detail": "Nine confirmed Ebola cases and two deaths have been reported, linked to the wider regional outbreak."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "red",
+          "detail": "An Ebola case was reported, with 62 contacts under follow-up, and an ongoing dengue fever outbreak is also present."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Two cVDPV2-positive environmental samples have been reported, indicating an ongoing polio concern."
+        },
+        {
+          "name": "Ticino, Switzerland",
+          "lat": 46.1833,
+          "lng": 8.85,
+          "severity": "yellow",
+          "detail": "Four locally acquired cases of Chikungunya have been reported."
+        },
+        {
+          "name": "Assaba Region, Mauritania",
+          "lat": 16.5,
+          "lng": -11,
+          "severity": "yellow",
+          "detail": "One new fatal case of Crimean-Congo haemorrhagic fever (CCHF) has been reported, bringing the total to three cases with two deaths in 2026."
+        },
+        {
+          "name": "Wisconsin, USA",
+          "lat": 44.5,
+          "lng": -89.5,
+          "severity": "yellow",
+          "detail": "A death in an infant linked to an ongoing measles outbreak has been reported, with 431 cases across 13 counties."
+        },
+        {
+          "name": "Minneapolis, USA",
+          "lat": 44.9778,
+          "lng": -93.265,
+          "severity": "green",
+          "detail": "The CDC declared an end to a dual E. coli and Salmonella outbreak traced to sprouts from Minneapolis and Millersburg, Ohio, causing 77 illnesses."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "China's trade surplus soars; ocean risks threaten global stability.",
+      "summary": "China's trade surplus has exceeded $1 trillion in the first 10 months of 2026, largely driven by surging exports of high-tech products fueling the global AI infrastructure boom, a trend likely to exacerbate trade tensions. Simultaneously, a report warns that severe ocean risks could lead to food-price shocks and wider inflationary pressures, threatening global economic resilience. The global economy is also seeing a shift towards prioritizing resilience and strategic autonomy over efficiency.",
+      "regions": [
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China's trade surplus surpassed $1 trillion due to strong AI-related tech exports, potentially increasing trade tensions with major partners."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "The AI boom is significantly boosting South Korea's economy, with a surge in semiconductor shipments and overall exports."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "The global economy is shifting from prioritizing efficiency to resilience and strategic autonomy due to geopolitical tensions impacting trade and supply chains."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democrats gain state control, eyeing Electoral College reform.",
+      "summary": "Following significant Democratic gains in the US midterm elections on November 3, 2026, there is momentum to potentially change the presidential election process by joining a national popular vote interstate compact. Concurrently, US Defense Secretary Pete Hegseth faces a possible impeachment effort a day after a Republican lawmaker filed a resolution, linked to his handling of the Iran war.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The aftermath of the midterm elections sees discussions on potential Electoral College reform and the US Defense Secretary facing a possible impeachment effort."
+        },
+        {
+          "name": "Milwaukee, USA",
+          "lat": 43.0389,
+          "lng": -87.9065,
+          "severity": "green",
+          "detail": "Wisconsin Democratic gubernatorial candidate David Crowley spoke at an election night event, as Democrats gained control in more states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis worsens with floods; Darfur displacement escalates.",
+      "summary": "The humanitarian situation in the Gaza Strip has severely deteriorated due to heavy rains and flooding, damaging shelters, causing fatalities, and exhausting aid supplies, with UN and Palestinian authorities warning of a worsening winter crisis. Concurrently, thousands are fleeing Darfur, Sudan, to Chad due to ongoing war, failed agriculture, and severe food insecurity, escalating an already dire humanitarian situation.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "Heavy rains and flooding have exacerbated the humanitarian crisis, causing an infant drowning and five deaths, damaging shelters, and exhausting aid supplies."
+        },
+        {
+          "name": "Ramallah, Palestine",
+          "lat": 31.9037,
+          "lng": 35.2037,
+          "severity": "red",
+          "detail": "UN and Palestinian authorities warned that the coming winter will exacerbate the humanitarian crisis in Gaza, with preparations hampered by Israeli import restrictions."
+        },
+        {
+          "name": "Darfur, Sudan",
+          "lat": 13,
+          "lng": 25,
+          "severity": "red",
+          "detail": "Thousands of people are fleeing to Chad due to worsening living conditions, a failed agricultural season, ongoing war, and food insecurity."
+        },
+        {
+          "name": "Chad",
+          "lat": 15,
+          "lng": 19,
+          "severity": "red",
+          "detail": "Chad is receiving thousands of displaced individuals from the Darfur region of Sudan, indicating a significant regional humanitarian impact."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49,
+          "lng": 32,
+          "severity": "red",
+          "detail": "Russian drone attacks are endangering civilians, including a strike that killed 55 people queuing for humanitarian aid in a frontline village."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "yellow",
+          "detail": "Humanitarian assistance is being provided to vulnerable families following recent floods, focusing on food, hygiene, and shelter."
+        }
+      ],
+      "sources": [
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNB05Ko3iH20KVzcMjRZvI_RdvAIGBBva62fAHqqxmiEl0C-a16x8Xc8iCjzvOkmdk_--E1Y_VIB4NwbNt_6GUZiIy1NjCPi8Gwm188UH4MR25zZ8HZ1gh54qZ5Xjn2I2XMipqQ4pVpGlXIi5KWLbPzSbagiag9Pk1vjvcXwF27ZnWfkbIA=="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3yL5UvOgk8oArqJMOKbCTegiykbUSzB9nFCBFmE0Yfyle1PymurGB_MxfFCK4hF4bF09_kUctrWr7kdyqwRIG96tVgWebfRczZL4ay3EA1hVkE1DwC2wUdJnn020qXxYCZFQ4IWVCyYjACHwgBdUafIQ2oDr3uyDs2KrUYoBnejNxUif3gdzcSjvj2jGQjUTbJByiBzqqZ2ERtX6sIWMfoW2DFPGCsKyhDHE05r7VpBERFmR8Vl0Ung=="
+        },
+        {
+          "title": "thenationalnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaY6aq84WPQ3dAvRZViIDVUtIX1784mZnEpUlbywBsI2aAi382QXIDk4zMfR-h4b_suAEX3YFCZAfPGziHqzUnyLz0_IrQYCS1sbrghiryuUi8bDOYJH1K4NKOI1oiZsxqPvIPISErpGyakQyA89jp9crvgGPmqWm_mNaUdwVMKdmF7nsXzj1jim4fINAYEBu30nrDHWBWeUhS6thcQMtQrDWsK7qD2v9"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnjN-O4BFv-4R_CFdc7GAjj1-9oszY_zqML5LwsVE2XdiZ0Fz6RwK6duMFYC83ET2-2F9LtekTwR6HAZVg0Vuzky1xVq-m5mtDhrOyoou6tXU4CgslyZvDI-3cDkS22phRNMId2t-5L0A1kQ-eod-oaalEib2uDHkHhxY3A1oxnWUJRP0gZqVJQhVkq8H7pOMqID-4bhCwoSJKJynxfHpf2EvlyfG2FvWRnJcn6PDJrN-38Yf-43qiatBjnauslmT2HJyuCyqA3a1Bg=="
+        },
+        {
+          "title": "wsls.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlka_mtWVVb0HjxVfUxwynS0OXqvgSwOjyvCkvP0QRHgHaDyQSCqFTIvwhrU6nu4kWhZM0h9esNPt6iSOxeaUrkxps8NgJ8qcuCZf5G9PnsNFDzL_7jE9avWFR1FC7ilKAoCn1MVP6rwhyLx7g3DNAwp4l7Lh5nEfIPKsu2T7d8ixzhbwiPSmqpX8QiAl9XK-IjiZ1N7LdQ2FioZOpeHE5JMf64AWqnW3UufhZFTF9wox2-6u5GJqSJH4aA=="
+        }
+      ]
+    }
+  }
+}
