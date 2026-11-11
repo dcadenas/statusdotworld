@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-11",
+  "timestamp": 1794377008836,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "US-Russia-Ukraine talks begin amid ongoing Iran, Ukraine conflicts",
+      "summary": "US-mediated talks between Russia and Ukraine have commenced in Abu Dhabi, aiming to de-escalate Europe's largest conflict, yet preceding these talks, Russia launched a deadly strike in Ukraine killing 55. Separately, the ongoing US-Israeli war against Iran continues to escalate global oil prices and has led to impeachment efforts against the US Defense Secretary.",
+      "regions": [
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "US-mediated talks between Ukraine and Russia are underway here to find a resolution to the ongoing conflict."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russia carried out one of its deadliest strikes in a frontline village, killing 55 people queueing for humanitarian aid."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "The President of Russia is holding a CSTO Collective Security Council meeting to discuss regional security, while also being a party in the Ukraine conflict."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iran is involved in an ongoing conflict with the US and Israel, which has impacted global oil prices and led to cyberattack accusations."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US is a party to the ongoing conflict with Iran, and its Defense Secretary faces impeachment efforts related to the war."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is involved in an ongoing conflict with Iran alongside the US."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Iran accused of cyberattacks on French supermarkets",
+      "summary": "France has accused Iran's Islamic Revolutionary Guard Corp of cyberattacks on its supermarkets last month, which caused temperatures in fridges to rise and forced the discarding of perishable food. This incident highlights concerns over state-sponsored digital interference impacting civilian infrastructure and daily life.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "French officials reported cyberattacks on supermarkets, attributed to Iran, impacting food supply infrastructure."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's Islamic Revolutionary Guard Corp is accused by France of carrying out cyberattacks on French supermarkets."
+        },
+        {
+          "name": "San Antonio, TX, USA",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "green",
+          "detail": "An event highlighting Cuba's role against apartheid in South Africa, Palestine, and the United States is taking place."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "COP31 opens in Turkey with criticism and methane pledge",
+      "summary": "World leaders are commencing formal discussions at the UN Climate Change Conference (COP31) in Antalya, Turkey, amidst concerns that global actions are inadequate and slow. Swedish activist Greta Thunberg has notably criticized the talks as hypocritical, while a Global Methane Pledge Ministerial meeting is scheduled for today.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The UN Climate Change Conference (COP31) is taking place here, where world leaders are addressing climate priorities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "green",
+      "headline": "California funds psychedelic research for veterans' health",
+      "summary": "California has announced funding for psychedelic treatment research aimed at improving veterans' health, representing a notable development in public health initiatives. Separately, local reports include a sewer spill near Interstate 10 in San Antonio, Texas.",
+      "regions": [
+        {
+          "name": "Sacramento, CA, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "California announced funding for psychedelic treatment research to improve veterans' health."
+        },
+        {
+          "name": "San Antonio, TX, USA",
+          "lat": 29.4241,
+          "lng": -98.4936,
+          "severity": "green",
+          "detail": "A sewer spill was reported near Interstate 10 after heavy rains caused a main to collapse."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Spain hit by general strike; Iran war impacts global oil prices",
+      "summary": "A general strike is underway across Spain today, with workers from various sectors participating, impacting transportation and other services. Concurrently, the ongoing US-Israeli war against Iran continues to exert pressure on global gasoline and oil prices.",
+      "regions": [
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "A general strike is causing widespread disruption across various sectors, including transport, with picket lines formed."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "The ongoing conflict involving Iran is cited as a factor in increased global gasoline and oil prices."
+        },
+        {
+          "name": "Auckland, New Zealand",
+          "lat": -36.8485,
+          "lng": 174.7633,
+          "severity": "green",
+          "detail": "Emergency staff at Auckland Airport are threatening strike action over pay and training."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Defense Secretary faces impeachment calls; Spain general strike",
+      "summary": "Calls are growing for the removal of US Secretary of Defense Pete Hegseth, who is facing impeachment proceedings in the House of Representatives, largely due to his involvement in the Iran war. Meanwhile, Spain is experiencing a nationwide general strike, with political figures like Podemos candidates participating in picketing ahead of upcoming elections.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "US Secretary of Defense Pete Hegseth is facing growing calls for his removal and impeachment proceedings related to the Iran war."
+        },
+        {
+          "name": "Madrid, Spain",
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "severity": "yellow",
+          "detail": "A general strike is taking place with participation from political figures, reflecting democratic expression and tension."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "green",
+          "detail": "Israel's new parliament is scheduled to be sworn in today, a key democratic process."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Russian strike kills 55 queuing for aid in Ukraine",
+      "summary": "In a severe humanitarian crisis, 55 people were killed in a frontline village in Ukraine while queuing for humanitarian aid due to a deadly Russian strike, intensifying the human cost of the conflict. This act of violence directly targeted vulnerable civilians seeking assistance.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "A Russian strike killed 55 people in a frontline village as they waited for humanitarian aid, exacerbating the humanitarian crisis."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia's actions in Ukraine, including deadly strikes, have led to a severe humanitarian situation for Ukrainian civilians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "ksat.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGybl18hnqf5PbnVwhPyiPq-STzXDvLFyE4MMtRTSWVm8hbuuoFYT5RDI1l_Oh-FMZv5MtaFCKi86gzvJy68VrbWV4GRv1vIXy_fQDII8f3V9wT_igdwTo09JIVkswwFk3O-ew_S8cWZ9kCEEtLgdl6JvKnIPzWishYPpeZbbEXuRzs4D3JKw59965eTbbIyXjr7UXo3E6OaHdNmDVmJoSEYIeHIKRL8KS21DLCNwlqgjNRpSJEV-jw6ou0bCK4SZ0QMg9_CeaaQ=="
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIAvWttQZHoBtfKWkeo7stiAl1sPaVa-0MZg0XSvGiPutvI4j1t8m5C5GjFCrXljq8S1W49XBeLfvmrYs2O0X2vUhAVH7tlbaH_OyVVFH0w--KjptVUzZyuD0u1cLQIPdalYXmgx_OjbuSPtETsTt3QmqSlVi3TiW9X89NDIo"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnCnY2At94y7DuX2YyyUis3Lcl9axCrnjBGz1Bwx2oEkwoBS1OdC48QxsCmd1VAZ60aqmRUaP-7iTEt9abkaHPX9yuNcWAJJxqM6O9YQfFu8BzYNsvsANXO65LstqSVRYI-5AeklFDk3swzeXtNSTRFJziqE5lI5CLbPLlxns"
+        },
+        {
+          "title": "kremlin.ru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSJwWhYXv4UKcHoX6e6zlSk2owJV71oKuFywCG9pqy97Aed1f2UZNhFIJGm4qTxBbwL6j5rx2s3o-kCaaToAxKJQkIxM2PUac5dh_ing9hHUMJ3FIS7PFIzq0-8-Q8wKtKNDANa3aUcs6"
+        },
+        {
+          "title": "taipeitimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFigsWKMEBMMbxL0G9HTI6LSD7izDCSNPKY0d3etHrX7RzeHHitBMCovwIJKvhGmk71PQpZmnRH2EVg4Zh7hXkqsoSdoUM2R13vzF_2D0JdgIkq9xyDQESedncKmDfIEnvOw75ON2CKd93T9PfYutPvDVryd9GGlQUuJahez3D"
+        }
+      ]
+    }
+  }
+}
