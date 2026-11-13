@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-13",
+  "timestamp": 1794549828342,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Humanitarian Crises Intensify in Gaza, Ukraine, and Sudan",
+      "summary": "Severe humanitarian situations persist in multiple conflict zones globally. Over 50 nations called for unhindered aid into Gaza, where restrictions on supplies continue amidst a fragile ceasefire. Ukraine faces a critically underfunded winter response with attacks damaging vital infrastructure, while 900,000 people in Sudan lack food aid due to ongoing violence and funding cuts.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4673,
+          "severity": "red",
+          "detail": "53 countries urged unhindered humanitarian aid and restoration of access to essential supplies for the displaced population."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Ongoing attacks continue to disrupt power and heating across multiple regions, impacting hundreds of thousands."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "The WFP chief called for an end to fighting as funding cuts left 900,000 people without food assistance in the world's largest humanitarian crisis."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "The UN was a focal point for international calls regarding humanitarian access and protection of civilians in Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Protest Rights Threatened in France, US Snubs UN Human Rights Review",
+      "summary": "Human rights concerns are prominent today, with a sweeping bill threatening peaceful protest rights under debate in France's National Assembly. The UN Human Rights Council expressed regret over the United States' continued non-cooperation with its universal periodic review mechanism. Debates also continue on digital rights and AI safety, with a Democratic group pushing for regulations amidst warnings of AI risks.",
+      "regions": [
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A sweeping bill threatening peaceful protest rights is currently under consideration by the National Assembly."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The UN Human Rights Council criticized the United States for its continued non-cooperation with the universal periodic review mechanism."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Discussions on AI regulation and digital rights are ongoing, with a Democratic group pushing for a new agenda."
+        },
+        {
+          "name": "Sacramento, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "green",
+          "detail": "Amnesty International highlighted California Governor Newsom's commutation of over 500 death row sentences."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Climate Leaders Urge Action at COP31 Amid Warming and Wildfires",
+      "summary": "Global climate talks at COP31 in Turkey underscore the urgency of action as a new report states the world has failed to slow warming trends. Leaders from climate-vulnerable nations called for stronger commitments, while human-induced climate change intensified devastating wildfires in Indonesia. The EU is also stepping up Arctic preparedness due to increasing natural hazards from global warming.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "Leaders of countries hardest hit by climate change called for urgent action at the UN climate conference (COP31)."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "red",
+          "detail": "Human-induced climate change significantly intensified devastating wildfires, impacting millions of hectares."
+        },
+        {
+          "name": "Nuuk, Greenland",
+          "lat": 64.1833,
+          "lng": -51.7214,
+          "severity": "yellow",
+          "detail": "EU Commissioner visited to strengthen cooperation on resilience and preparedness for escalating natural hazards."
+        },
+        {
+          "name": "Seychelles",
+          "lat": -4.6796,
+          "lng": 55.4513,
+          "severity": "red",
+          "detail": "The Vice President of Seychelles stressed the life-or-death issue of global warming for his island nation at COP31."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola Outbreak Worsens, Measles Spreads, South Sudan at High Risk",
+      "summary": "A multi-country Ebola outbreak in the Democratic Republic of Congo has reported over 11,000 cases and 5,400 deaths, with cases also in Kenya and Nigeria. Six embassies warned of a high risk of an Ebola outbreak in South Sudan, urging increased health funding. In the United States, concerns were raised over vaccine misinformation and the handling of a nationwide measles outbreak and a summer Cyclospora outbreak.",
+      "regions": [
+        {
+          "name": "Kinshasa, DR Congo",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "severity": "red",
+          "detail": "An Ebola outbreak caused by Bundibugyo virus has resulted in thousands of confirmed cases and deaths since May 2026."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Six diplomatic missions warned of a high risk of an Ebola outbreak, urging increased public health funding and humanitarian access."
+        },
+        {
+          "name": "Frankfort, Kentucky, USA",
+          "lat": 38.2007,
+          "lng": -84.7282,
+          "severity": "yellow",
+          "detail": "The state's governor called for the removal of the HHS Secretary due to concerns over vaccine policies and ongoing outbreaks."
+        },
+        {
+          "name": "Sennar State, Sudan",
+          "lat": 13.5667,
+          "lng": 33.65,
+          "severity": "green",
+          "detail": "Dengue fever cases were reported to be declining in the region."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "US Wealth Gap Widens, Concerns for Asia's Export Economies",
+      "summary": "The global economy sees key discussions at the Citi China Conference in Shanghai, focusing on China's role and opportunities. However, significant concerns arise from the widening wealth gap in the United States, where inflation and stagnant wages are squeezing consumers. This trend poses a risk to Asia's export-dependent economies, as the top 1% now holds 31.6% of US wealth.",
+      "regions": [
+        {
+          "name": "Shanghai, China",
+          "lat": 31.2304,
+          "lng": 121.4737,
+          "severity": "green",
+          "detail": "Citi hosted its 21st Annual China Conference, discussing key forces shaping China and the global economy."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street thrives while Main Street struggles, highlighting a widening wealth gap affecting global economic stability."
+        },
+        {
+          "name": "Shenzhen, China",
+          "lat": 22.5431,
+          "lng": 114.0579,
+          "severity": "green",
+          "detail": "The city is preparing to host the APEC Economic Leaders' Meeting, with major global leaders expected to discuss economic cooperation."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Asian economies are closely watching US consumer spending trends due to their reliance on exports."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US Democrats Eye New Leadership Post-Midterms; France Considers Protest Bill",
+      "summary": "In the United States, the Democratic Party is seeing a bid for new Senate leadership following a significant win in recent midterm elections, signaling internal political shifts. Discussions are also advancing on shaping the AI agenda, with Democratic groups advocating for regulation against President Trump's stance. Concurrently, France's National Assembly is debating a bill that raises concerns about peaceful protest rights.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "US Senator Chris Van Hollen launched a bid for Senate majority leader after Democratic midterm election successes."
+        },
+        {
+          "name": "Denver, Colorado, USA",
+          "lat": 39.7392,
+          "lng": -104.9903,
+          "severity": "green",
+          "detail": "A Democratic conference discussed future party leadership and strategies, including shaping the AI agenda."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "A sweeping bill potentially threatening peaceful protest rights is under debate in the National Assembly."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza, Ukraine, Sudan Face Severe Aid Shortfalls and Access Issues",
+      "summary": "Humanitarian aid efforts are critically strained in several regions, with 53 countries urging Israel to allow unhindered access to Gaza amidst severe shortages and winter conditions. Ukraine's winter humanitarian response remains significantly underfunded, as attacks disrupt essential services for millions. In Sudan, funding cuts have left 900,000 people without food aid, exacerbating the world's largest humanitarian crisis, while South Sudan faces a high risk of an Ebola outbreak, demanding unrestricted aid access.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4673,
+          "severity": "red",
+          "detail": "International calls were made for unhindered humanitarian assistance and restoration of access for essential supplies."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "The winter humanitarian response is 24.5% underfunded, with attacks disrupting power and heating systems for millions."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5007,
+          "lng": 32.5599,
+          "severity": "red",
+          "detail": "Funding cuts have left 900,000 people without food aid, worsening the world's largest humanitarian crisis."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.8517,
+          "lng": 31.5825,
+          "severity": "red",
+          "detail": "Embassies warned of a high Ebola outbreak risk and urged for increased health funding and unrestricted humanitarian access."
+        }
+      ],
+      "sources": [
+        {
+          "title": "freemalaysiatoday.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-rq1qj9iF4JnTQZbYFyh8VhLDsAHaVzI8A91qkUIZskaJIMWGy8-ApsZlbjr5nreHbHgzJOHP31ffzoGMW5f_lxrxpGPYFisel6i75P0wA-28zmxEfkplj-QHpAHSKZG_lF0E3HeYHUTh_PuwWtvMzglzjfvkBBhIWwkicEVt3GmefzEsxd1Wdk2z0B7Sp4oyM5M418UzlsLnbC9fDrr0oCmOxsOBkMmJo92gbaEiTZj-RG6DFD6Fdvxy_A="
+        },
+        {
+          "title": "arabnews.pk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNDf_xJCz-8ldUNaLo0n60Xtpc7pLz_rUgzrvgDJOu6yXfi9nR93fxJ5_LsCx62if4MlEyQbSRfItQPumb4qa_ODG3PohuXf0KuaQ35Hu6m0iIEat7LrZKm5wGd8WALtgnywFpH6yfAlt9a0jBheGn7JA6vlDlTVnp12vgynbH0WKoCLS0pMIEGoXGIx4DajkBaQedlVKVolcA2JdV1f5hvR0Rbg-llAjT7tACutKsgHYObcm_FigeCe8KrcqVkg=="
+        },
+        {
+          "title": "fundsforngos.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJcFPf5guw9pBnHFW1IPHKDPk7Cc065lTXabYrYDP6XWuXtd9oTdcp6_srhn3bExQlrKmf4YdFqo94vTFyaZza3hWyow6fW_phkf7MTL7t_Kvj0nV-tMrCKbDm_ECO0XnmeHCxN8nGlXHCg-bND9DCuquuRQICLjwLp4ekUhcfhlPmF4MzdznAxGG_egE7sPpQqAF-G_1TPng7GGzXJ_h5CThsh8="
+        },
+        {
+          "title": "sudantribune.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITEfsKQzLTgm669PqFUKpBLQR1z7AkiG6Xly_CKdba7ASwzPQlENpxF0qJmJiZT5JA2coAOEt_-jqkEpU80wyANFO0ScLObCtbIGhCz4urLlNW73ToYKZg6338mdWAiF6GQ=="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOdn37U9J4yRJ5XWbJOuo6bM1cUO2Fl5HkYgyfBK-neNI31qoqmJJGly1zPUsr5sfepv-mJeaD6m6R2TLuzfIfR48WpNQjYlQRSkLO4O-RXFOK9sVJRCG_eRz-s0Oc4zcV_5QdydIIp-kjhZtoL85ZW_xOjf02hUQqUMas8KNEEzUJ6aBgM-FNEDJjNN1COeiE7TDaA=="
+        }
+      ]
+    }
+  }
+}
