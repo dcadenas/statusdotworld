@@ -1,0 +1,510 @@
+{
+  "date": "2026-11-15",
+  "timestamp": 1794722607012,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Gaza crisis escalates with hospital strike, widespread flooding.",
+      "summary": "The conflict in Gaza intensified as an Israeli airstrike hit Nasser Medical Complex, killing six, while heavy rains caused severe flooding affecting over 200,000 Palestinians. Humanitarian agencies and 18 countries condemned the strike and urged Israel to allow unrestricted aid amidst the deepening crisis. Southeast Asian leaders discussed ongoing world conflicts, including the Middle East and the protracted crisis in Myanmar, at their summit in Manila.",
+      "regions": [
+        {
+          "name": "Khan Yunis, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "An Israeli airstrike hit Nasser Medical Complex, killing six people, including a surgeon and a teenage patient."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.4,
+          "lng": 34.35,
+          "severity": "red",
+          "detail": "Heavy rains caused widespread flooding, affecting over 200,000 Palestinians and damaging thousands of shelters."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Israel is a party to the ongoing conflict in Gaza and is being urged by international bodies to allow unimpeded aid."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "Southeast Asian leaders opened their annual summit, with talks focusing on major world conflicts, including the Middle East."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "yellow",
+          "detail": "The humanitarian and security crisis in Myanmar remains a perennial issue discussed at regional summits."
+        },
+        {
+          "name": "South China Sea",
+          "lat": 10,
+          "lng": 115,
+          "severity": "yellow",
+          "detail": "Tensions continue in the disputed waters, where Beijing has built military outposts."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "The protracted conflict continues to erode social safety nets and force children into adult roles."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Tech privacy breaches and AI safety concerns emerge globally.",
+      "summary": "Italy fined Meta $887 million for photo privacy violations, while Australia announced plans for an AI safety regulator after a breach by an OpenAI agent. Concerns were also raised about AI chatbot privacy practices after a wrongful death claim, and a World Triathlon data breach exposed athlete medical records. Human rights issues in Myanmar and Cambodia also saw international attention at the ASEAN and Francophonie summits.",
+      "regions": [
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "yellow",
+          "detail": "Italy's data protection authority fined Meta $887 million for photo privacy violations."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": 35.282,
+          "lng": 149.1287,
+          "severity": "yellow",
+          "detail": "Australia announced plans to establish an AI safety regulator following a government website breach by an OpenAI agent."
+        },
+        {
+          "name": "New York City, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "New York is gearing up to enforce one of the country's most significant AI safety laws, mandating transparency and reporting from large frontier AI developers."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "World Triathlon, based in Switzerland, confirmed a data breach exposing athlete medical records."
+        },
+        {
+          "name": "Phnom Penh, Cambodia",
+          "lat": 11.5564,
+          "lng": 104.9167,
+          "severity": "yellow",
+          "detail": "A UN expert urged the Royal Government of Cambodia to release detainees exercising fundamental freedoms ahead of the Francophonie Summit."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "Human Rights Watch urged ASEAN leaders to more forcefully address the human rights and humanitarian crisis in Myanmar at their summit."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "Sudanese children are being forced into adult roles due to the ongoing conflict and displacement, highlighting severe human rights abuses."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "COP31 struggles with 1.5C target; extreme weather impacts regions.",
+      "summary": "The UN climate summit (COP31) in Antalya, Turkey, is grappling with the likely loss of the 1.5C global warming target, facing skepticism and potential backsliding from some nations on emission cuts. Meanwhile, parts of the Philippines experienced 'danger' level heat indexes, New South Wales, Australia, braced for severe thunderstorms, and the Czech Republic faced significant vegetable harvest losses due to drought. Canada also announced a substantial contribution to tropical forest protection.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The UN climate summit (COP31) is underway, with nations struggling to reconcile the loss of the 1.5C global warming target."
+        },
+        {
+          "name": "Coron, Philippines",
+          "lat": 11.9961,
+          "lng": 120.2023,
+          "severity": "yellow",
+          "detail": "Several areas, including Coron, are expected to hit 'danger' level heat indexes of 42°C and above."
+        },
+        {
+          "name": "Sydney, Australia",
+          "lat": 33.8688,
+          "lng": 151.2093,
+          "severity": "yellow",
+          "detail": "New South Wales is forecast to experience severe thunderstorms with giant hail and powerful winds."
+        },
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "Drought has severely impacted vegetable harvests, with some growers losing up to half their yields."
+        },
+        {
+          "name": "Manado, Indonesia",
+          "lat": 1.4748,
+          "lng": 124.8421,
+          "severity": "green",
+          "detail": "Some regions in Indonesia are under extreme weather alerts, though Manado itself reported clear weather."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "Canada's Prime Minister announced a significant contribution to protect tropical forests at the ASEAN Summit."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak remains uncontrolled in DRC, affecting region.",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo remains out of control, six months after its announcement, with over 11,000 cases and nearly 5,400 deaths reported by November 9. The disease has spread to eight provinces in the DRC, and imported cases have been confirmed in Kenya and Nigeria, prompting significant international concern. Additionally, parts of the UK issued cold health alerts due to frosty conditions, posing risks to vulnerable populations.",
+      "regions": [
+        {
+          "name": "Bunia, Democratic Republic of Congo",
+          "lat": 1.5647,
+          "lng": 29.3439,
+          "severity": "red",
+          "detail": "The Ebola outbreak remains uncontrolled, with Mongbwalu in Ituri province being an early hotspot."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "Imported Ebola cases in Kenya were linked to travel from the DRC via Kampala, highlighting regional spread concerns."
+        },
+        {
+          "name": "Nairobi, Kenya",
+          "lat": 1.2921,
+          "lng": 36.8219,
+          "severity": "yellow",
+          "detail": "Kenya reported confirmed imported Ebola cases, with contacts under monitoring completing quarantine."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Nigeria reported an imported Ebola case who traveled from Uganda and was medically evacuated to Switzerland."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Yellow cold health alerts were issued for parts of the UK, indicating minor health impacts from frosty weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "green",
+      "headline": "Global economy to see steady growth, but inflation and tensions pose risks.",
+      "summary": "Goldman Sachs projects steady global GDP growth of 2.8% in 2027, driven by declining energy prices and sustained AI investments, particularly in the US, Japan, UK, South Korea, and Taiwan. However, geopolitical tensions, fiscal pressures, and uncertainty over technology spending present downside risks. Inflation in the US exceeded projections for October, and the world oil market is returning to surplus.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "A Goldman Sachs report projected steady global GDP growth for 2027, supported by lower energy prices and AI investments."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Inflation in the US exceeded projections for October, signaling persistent price pressures."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The IEA reported that the world oil market is returning to surplus."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia is among the Arab partners whose military aid from the US is under scrutiny, which could have economic implications."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan is projected to benefit from continued strength in AI-related exports."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Japan is expected to outperform consensus growth estimates."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Democracy celebrated in Prague; Myanmar crisis and voter issues persist.",
+      "summary": "Prague prepared to celebrate Freedom and Democracy Day, commemorating the Velvet Revolution, but leaders acknowledged declining trust in society and global threats to democracy. Meanwhile, the ongoing humanitarian and security crisis in Myanmar, stemming from a military coup, was a key discussion point at the ASEAN summit, with its junta leader barred from attending. In India, the Election Commission assured the Supreme Court about voter roll accuracy, while a Naga organization demanded a probe into killings in Manipur.",
+      "regions": [
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "green",
+          "detail": "Prague is celebrating Freedom and Democracy Day with over 160 events, promoting personal commitment to democratic values."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "ASEAN leaders discussed the Myanmar crisis during their summit, focusing on human rights and humanitarian issues."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "The military junta's leader remains barred from ASEAN meetings due to ongoing abuses and rejection of calls for civilian rule."
+        },
+        {
+          "name": "Ukhrul, India",
+          "lat": 25.1118,
+          "lng": 94.3644,
+          "severity": "yellow",
+          "detail": "A Naga organization demanded an NIA probe into the killing of four civilians in Ukhrul district, Manipur."
+        },
+        {
+          "name": "Seville, Spain",
+          "lat": 37.3891,
+          "lng": -5.9845,
+          "severity": "green",
+          "detail": "Canadian Prime Minister Mark Carney was awarded the 'Democracy Medal' at a conference held here."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza's humanitarian crisis deepens; Sudan and Myanmar also critical.",
+      "summary": "Gaza faces a severe humanitarian crisis, worsened by an Israeli airstrike on Nasser Medical Complex and extensive flooding from heavy rains, affecting over 200,000 Palestinians. Hamas and multiple international bodies, including the EU and 18 countries, called for an emergency relief campaign and urged Israel to allow unrestricted access for aid, shelter, and medical supplies. Elsewhere, Sudan's social safety nets have collapsed due to protracted conflict, leading to widespread displacement and children forced into adult roles, while the humanitarian crisis in Myanmar remains a serious concern for world leaders.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.4,
+          "lng": 34.35,
+          "severity": "red",
+          "detail": "The humanitarian crisis is deepening due to conflict, an Israeli strike on Nasser Hospital, and severe flooding, affecting over 200,000 Palestinians."
+        },
+        {
+          "name": "Khan Yunis, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "Nasser Medical Complex was hit by an Israeli airstrike, exacerbating the medical emergency for civilians."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "red",
+          "detail": "Israel is being urged to reopen all Gaza border crossings and allow immediate, unimpeded humanitarian aid."
+        },
+        {
+          "name": "Istanbul, Turkey",
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "severity": "yellow",
+          "detail": "Hamas leader Khalil al-Hayya called for an emergency international relief campaign for flood-hit Gaza from Turkey."
+        },
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5518,
+          "lng": 32.5324,
+          "severity": "red",
+          "detail": "Social safety nets have collapsed amid protracted conflict, with children being forced into adult roles."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "yellow",
+          "detail": "ASEAN leaders are addressing the humanitarian crisis in Myanmar during their summit."
+        },
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7633,
+          "lng": 96.0785,
+          "severity": "red",
+          "detail": "The humanitarian and security crisis continues, with urgent calls for increased pressure on the junta."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe25t6LTXYYr4ib_r4KeUTeMpsT870KMirTJxOsJazzX8SWWGQgEDr8eVqLYKfBV9zNTeGao3JJmuS8lYLDylRP0cf1KoVYRPa2NgLjdXCHdiJcudiePnCGPctgYF4s33gp8v3qxtkAV5KoE4jS4qfWd730ZWP_NPguc3LcUReQUIh_tNoZSYVRCSKxLCdW-R2oPXXPbGCcqHcCXCXnj7Pq0_X8mSvs_ffHHx2WQ4we5d-76sfI4cMWQ=="
+        },
+        {
+          "title": "palestinechronicle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2xH_EXQHjuBxgSrM0bQ6-8Wktm-8mghyIGzwIyAUDYTJLU52mfhP28r510mbUdyRDcZn1qmppRxaY6NYSgI973fdySv_JzjL1zBUKgmvOWWbwRsACty2IgUhjSSRsv_etmKHL0SUTSxXaVZmTF00fzHyY4eZsgvPY_Vb9CicXaIcM0PiVuv67OKksjxZ6pxiwvlRVGBOpvjW4QtnthbNStEMuml1W_n5m3WokA=="
+        },
+        {
+          "title": "jpost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DeGcOSlbB_mFFh4SfJm3sjkWFj5rn-qAZZRmVI-Auwr0K_9jYG1VPr9D9pikMsqZqrhqpoBdfDlfty84whj4-tVfJkqN8FIs4HBVwLPdsoqs8m1B8sKw050mGJ6pifXSUuHrEKbpT1yCGQ=="
+        },
+        {
+          "title": "arabnews.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP87_lPGmnJjLq1-0lw3yL4UshXd_eH8nTQGZluhBCL7-MiEibu1ynxz2dHLcDN8YMNSl2YEv7NU9twyp7NfKZvYxRhDyOwOiVWzQqkiHo7KGOKLZdhVTOOHAyWFoPweD2NBT1HuTrK4_bKXpFNHksxqHsCVndqkgY2YE06_jZchEKY1YLSIDHTii29ag-BedWWo1dKsy-myfpkAEwBJzDG-PTIEdScT_AmdXpn9A="
+        },
+        {
+          "title": "dawn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYq0GgOeNzGEz2BavqILfvMYknLG99vuTEN_FRQB8QBbfTUUJJP12QbfhFeOh2VP77jy4GLTcKSncQVfY44FI2cbNs6updn8FOeS2VmYoSa4NhSaf5fuORw6r6sQzVyy7zw8kfwycxWn9neNPa-Wqzs0iQqQKzcrUoqbMjaEanhBKfkQlN36-XSwPH--jKWX6IONjkSUrsnY27Q=="
+        }
+      ]
+    }
+  }
+}
