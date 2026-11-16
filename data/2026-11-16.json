@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-16",
+  "timestamp": 1794809066274,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Ukraine peace talks ongoing, Middle East tensions escalate",
+      "summary": "Negotiations are underway to resolve the Russia-Ukraine conflict, with the US proposing NATO membership for Ukraine if it withdraws from Donbas, a suggestion Russia has countered with threats of achieving its goals by force. Meanwhile, tensions in the Middle East have escalated following an Iranian drone strike on a US-used air base in Bahrain and reports of attacks on tankers in the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "Ongoing discussions about Ukraine's potential NATO membership in exchange for a Donbas withdrawal are being considered amidst the conflict."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia has indicated it will achieve its goals by force if a security agreement with Europe is not reached."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "An Iranian drone strike targeted a US-used air base, increasing regional tensions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran has renewed direct attacks in the Gulf while maintaining that a path to ending its conflict with Washington remains open."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "UN talks on regulating autonomous weapons systems, dubbed 'killer robots,' are set to begin with major powers expected to oppose binding rules."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital rights in focus; labor exploitation and arbitrary arrests continue",
+      "summary": "Amnesty International has highlighted ongoing exploitation of Amazon warehouse workers in Saudi Arabia and Human Rights Watch reported arbitrary arrests in the UAE. Globally, digital rights are seeing significant developments, with India opening registration for consent managers under its new data protection act, while the EU debates its Digital Fairness Act to protect consumers from manipulative online practices.",
+      "regions": [
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6877,
+          "severity": "yellow",
+          "detail": "Amazon warehouse workers are reportedly still facing exploitation despite company efforts to improve conditions."
+        },
+        {
+          "name": "Abu Dhabi, UAE",
+          "lat": 24.4667,
+          "lng": 54.3667,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported the arbitrary arrest of five Shia residents, citing religious affiliation amid regional conflict."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India has opened applications for companies to register as consent managers under the Digital Personal Data Protection Act, enhancing data privacy."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The EU's Digital Fairness Act is under debate, aiming to strengthen consumer protection against manipulative online practices and AI agents."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "Authorities ordered a review of national qualification exams after an AI-assisted cheating admission, raising concerns about assessment integrity."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "Ofcom has tightened online safety rules, requiring tech giants to use automated tools to detect illegal content, with AI accelerating its spread."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "The Personal Data Protection Commission is monitoring a series of recent data breaches affecting well-known organizations due to opportunistic cyberattacks."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "green",
+          "detail": "Japan's Defense Ministry plans to release new AI guidelines, emphasizing human decision-making and responsibility in AI use."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "COP31 climate talks in final week, finance disputes unresolved",
+      "summary": "The 31st United Nations Climate Change Conference (COP31) is in its final week in Antalya, Türkiye, marked by unresolved disputes over climate finance and warnings from scientists about potential delays to the Intergovernmental Panel on Climate Change (IPCC) reports. Canada is facing scrutiny over its climate commitments, with questions about the effectiveness of its clean energy investments amidst continued fossil fuel development.",
+      "regions": [
+        {
+          "name": "Antalya, Türkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "COP31 enters its final week with critical discussions on emissions reductions, clean energy expansion, and international climate cooperation."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "yellow",
+          "detail": "Canada's climate commitments are under scrutiny at COP31, with environmental advocates questioning the efficacy of current policies."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "Scientists have raised concerns at COP31 about potential delays to the Intergovernmental Panel on Climate Change's (IPCC) next assessment cycle."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola outbreak in Congo remains uncontrolled; measles warning in Brunei",
+      "summary": "The Africa CDC has reported that the Ebola outbreak in the Democratic Republic of Congo remains out of control, six months after it was declared, hindered by attacks on health workers and insufficient resources. Meanwhile, Brunei's Ministry of Health issued a public reminder on measles prevention, emphasizing vaccination and precautionary measures to curb the spread of the highly contagious viral infection.",
+      "regions": [
+        {
+          "name": "Goma, DR Congo",
+          "lat": -1.6781,
+          "lng": 29.229,
+          "severity": "red",
+          "detail": "The Ebola outbreak in the region is still not under control, with over 11,200 infections and 5,500 deaths reported."
+        },
+        {
+          "name": "Bandar Seri Begawan, Brunei",
+          "lat": 4.8903,
+          "lng": 114.9427,
+          "severity": "green",
+          "detail": "The Ministry of Health issued a public reminder on measles prevention, urging citizens to get vaccinated."
+        },
+        {
+          "name": "Cupertino, USA",
+          "lat": 37.323,
+          "lng": -122.0322,
+          "severity": "green",
+          "detail": "Apple has launched an AI health research study in partnership with OpenEvidence to assess user trust and comprehension of conversational health AI."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economy shows resilience, but Japan shrinks; AI boosts specific regions",
+      "summary": "Global GDP growth is forecast to be steady in 2027, driven by strong capital expenditures in artificial intelligence (AI) and lower energy prices, with the APEC region also projecting growth. However, Japan's economy experienced its first contraction in a year due to bad weather impacting consumption, and inflation concerns persist in European economies like Italy.",
+      "regions": [
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "severity": "yellow",
+          "detail": "Japan's economy contracted for the first time in a year due to a decline in consumer spending caused by inclement weather."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Goldman Sachs Research forecasts steady global economic growth in 2027, with the US projected to grow faster than consensus estimates."
+        },
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "green",
+          "detail": "South Korea is expected to see continued robust economic expansion, reflecting another year of strong AI exports."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's economy is forecast for continued robust expansion, benefiting from strong AI exports."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European growth outlook remains downbeat amid tighter financial conditions and expectations of higher energy prices impacting the winter."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "The APEC region's economic growth is projected to reach 3.4% in 2026, supported by robust technology investment and trade."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Election interference allegations in Israel; media freedom concerns in Czech Republic",
+      "summary": "In Israel, the leader of the Arab Joint List parliamentary faction has called for a criminal investigation into Prime Minister Benjamin Netanyahu over alleged interference in the country's elections. Concurrently, thousands in the Czech Republic are protesting proposed changes to state media funding, fearing the moves will compromise media freedom and increase reliance on the state.",
+      "regions": [
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "A criminal probe is sought against Prime Minister Benjamin Netanyahu for alleged interference in Israel's parliamentary elections."
+        },
+        {
+          "name": "Prague, Czech Republic",
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "severity": "yellow",
+          "detail": "Thousands are rallying against government plans to change state media funding, raising concerns about media independence."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Freedom House launched a new US Democracy Tracker, identifying government accountability and media freedom as areas of serious concern."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Urgent calls for Gaza aid as floods worsen dire humanitarian situation",
+      "summary": "Australia, Canada, Italy, and the United Kingdom have jointly urged Israel to allow immediate and unimpeded humanitarian access throughout Gaza, emphasizing the dire situation exacerbated by recent floods. An estimated 150,000 tents and other vital supplies remain held at the border, preventing desperately needed aid from reaching the displaced population as winter sets in.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The humanitarian situation is dire due to recent floods and essential aid, including 150,000 tents, is being held at the border."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "International pressure is mounting on the Israeli government to facilitate the immediate entry of humanitarian aid into Gaza."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "Australia's foreign minister joined a joint statement urging Israel to allow humanitarian aid into Gaza."
+        },
+        {
+          "name": "Ottawa, Canada",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "severity": "green",
+          "detail": "Canada's foreign minister participated in a joint appeal for unimpeded humanitarian access to Gaza."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "green",
+          "detail": "Italy's foreign minister co-signed a statement calling for rapid aid delivery to Gaza."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "green",
+          "detail": "The UK's foreign minister was part of a group of countries urging Israel to permit aid into Gaza."
+        }
+      ],
+      "sources": [
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJfRlDfYPvDdl5XAiOOLI8SKbKMu9nx7AfzvDIRuw6Nc-594proM7iFXZWCviILAzQwd9d9m5H2bxHRtfijXr2y2XLf8F1pVJrAUWmhwJaHBnYwy4SMso28cOeTpInT1FtFp_umSEEghuIfw1m8F9pak4p8zfQu-za0Gt-qluWFZTTALKAsaw4LO0OyZiLmyWYhxns2J1_iffkEl-0T77gGZwp1HKO4vXW8Sc76YzmWw-c"
+        },
+        {
+          "title": "chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG631FxPlWQuEl4QfWf1TEMmce-mei8ujVNmI3bxs6iyVOTs_j6bgGqTQlRbxgDlsKHJ0s5coIhRZxb7ZumHZ3EVVUYaUzu5hEp_-7OsalEdlmFmwN3OaBw2LlHcPL_sQqCbEVbZ7-4dBje87hcaqJLHV2P3H1H879V7Z9QHaxk5M3uGNmJWvk="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tUUIK3G8jhiNASbvlwBYnS1sdPQqC4BqlBMlYBhCMCl8G1nv0YSA9aiu4XyRpc57XYnDpn1yNpKj2Jp4_jzlZAhGZBRUn5tZwcfRkMw7AwXvGH4X3gA9ApHsVG_yqzmTeX1FlDYhjBjop1NmaXLXgJMfA38z_IJcSA=="
+        },
+        {
+          "title": "thesoufancenter.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk7AWyn41215p8SsxagC4xATm970Xx6D6Jx1U-0HeLs9qPmnlBbcvkViUbGVcuNN3bECO0KrxDD57PTeyxo8ezII8lLM0Q_IE-7gdaSmtUWt1yOuewOzfRzL64niJ4-f4w1mzn68jKnp74OCg1g1DR1i9"
+        },
+        {
+          "title": "mlq.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG0mZPvkL53XmgRcTb_oSCk-kuXKy6lAC9er_UnwvKm4JTSaTuNbwGxmbyEQabmCv1HvAzlTEZZE61zzWGtjR7v91DSQA4Tp1NdpGi4OJK4OzBpUHUVEL-g0a7Nm9xMBfVzeABzmSSYk0ziJ2zmn0ieysytYiFmP-0n6nJpQqIcqGFoWKUIFYHzYZtho1A74V_OfxxeLqBlhsz0ghQ8NHpihSNH8VgzJLudM1L"
+        }
+      ]
+    }
+  }
+}
