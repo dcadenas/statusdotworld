@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-18",
+  "timestamp": 1794981821766,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate; Gaza ceasefire precarious, US-Iran exchange strikes.",
+      "summary": "The Gaza ceasefire deal faces imminent collapse amid continued fighting and delays in implementation. Meanwhile, the US and Iran have exchanged strikes in the Gulf, signaling a dangerous escalation in regional tensions. Fighting also persists in eastern DR Congo despite diplomatic efforts.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "A US-backed Board of Peace warned the UN Security Council that the year-old truce between Israel and Hamas is on the brink of collapse due to continued fighting."
+        },
+        {
+          "name": "Qeshm Island, Iran",
+          "lat": 26.85,
+          "lng": 56,
+          "severity": "red",
+          "detail": "The United States conducted strikes on Qeshm Island after Iranian drones reportedly targeted a US radar site in Bahrain."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2285,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Iranian drones targeted a US radar system in Bahrain, leading to retaliatory strikes by the US."
+        },
+        {
+          "name": "Kuwait City, Kuwait",
+          "lat": 29.3759,
+          "lng": 47.9774,
+          "severity": "red",
+          "detail": "Kuwait reported hostile drone attacks, indicating a spread of Gulf attacks."
+        },
+        {
+          "name": "Bukavu, DR Congo",
+          "lat": -2.5,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Fighting between the Congolese army and the Front for the Refoundation of the Nation (FRN) continued in North and South Kivu provinces despite diplomatic initiatives."
+        },
+        {
+          "name": "Kigali, Rwanda",
+          "lat": -1.9403,
+          "lng": 30.0597,
+          "severity": "yellow",
+          "detail": "Rwanda denies supporting armed groups in eastern DRC, citing the presence of the FDLR as a security threat, contributing to regional tensions."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Philippines police detain hundreds of protesters; Indonesia eyes stricter human rights laws.",
+      "summary": "Philippine police detained hundreds of protesters, including journalists and indigenous people, during demonstrations against a US presidential visit, raising concerns about peaceful assembly. In Indonesia, new legislative proposals seek to impose tougher penalties for businesses involved in human rights and environmental violations.",
+      "regions": [
+        {
+          "name": "Metro Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "red",
+          "detail": "Police detained 236 people, including farmers, journalists, and human rights workers, who were protesting a presidential visit, with reports of police misconduct."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "yellow",
+          "detail": "Indonesia's Human Rights Minister proposed amendments to human rights legislation to include tougher penalties for businesses violating human rights or causing environmental damage."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Displaced Palestinians face severe humanitarian conditions, including freezing temperatures, deteriorating sanitation, and acute food shortages, amidst restricted aid access."
+        },
+        {
+          "name": "Bunyakiri, DR Congo",
+          "lat": -1.9567,
+          "lng": 28.5376,
+          "severity": "red",
+          "detail": "Civilians in eastern DR Congo are exposed to attacks, displacement, and disruption of essential services due to ongoing conflict, with aid organizations reducing staff presence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "Island nations demand urgent climate action at COP31; UK warned on ZEV mandate.",
+      "summary": "Small island nations at the COP31 talks in Antalya, Turkey, urgently demanded 'more action' as global climate goals are dangerously off track, with oceans hitting record temperatures. Concurrently, the UK's climate advisor warned the government that weakening the Zero-Emission Vehicle Mandate risks missing legal climate targets and increasing living costs.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The COP31 climate conference is underway, with island nations demanding greater commitment and action as global climate goals remain off track."
+        },
+        {
+          "name": "Malé, Maldives",
+          "lat": 4.175,
+          "lng": 73.5093,
+          "severity": "red",
+          "detail": "As representatives of small island developing states, the Maldives faces an existential climate crisis and calls for more assertive action to cap global warming."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The Climate Change Committee warned the UK government that weakening the Zero-Emission Vehicle Mandate would jeopardize the country's legal climate targets."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "NGOs are urging the UN Shipping Body to adopt the Net-Zero Framework to reduce shipping emissions, a crucial step for global climate goals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "US loses measles elimination status; DR Congo battles ongoing Ebola outbreak.",
+      "summary": "The United States has lost its measles elimination status amidst its worst outbreak in decades, with over 5,000 cases reported in 2026. Simultaneously, the Democratic Republic of Congo continues to battle a severe Bundibugyo virus disease (Ebola) outbreak, recording over 11,000 cases and more than 5,000 deaths.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "red",
+          "detail": "The US has officially lost its measles elimination status from the Pan American Health Organization due to a significant surge in cases."
+        },
+        {
+          "name": "Harrisburg, Pennsylvania, USA",
+          "lat": 40.2732,
+          "lng": -76.8837,
+          "severity": "red",
+          "detail": "Pennsylvania alone has reported over 1,500 measles cases in 2026, contributing to the national public health crisis."
+        },
+        {
+          "name": "Ituri, DR Congo",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "The province of Ituri accounts for a large number of the 11,432 confirmed cases and 5,593 deaths from Bundibugyo virus disease across DR Congo."
+        },
+        {
+          "name": "Nord-Kivu, DR Congo",
+          "lat": -0.5,
+          "lng": 28.5,
+          "severity": "red",
+          "detail": "Nord-Kivu also reported a high number of Bundibugyo virus disease cases and deaths, with a high case fatality rate."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Health Organization (WHO) and Pan American Health Organization (PAHO) are involved in monitoring and responding to global health threats like measles and Ebola."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global GDP growth eases; US economy leads, China stalls; APEC discusses open trade.",
+      "summary": "Global GDP growth is projected to ease to 2.7% in 2026, down from 3% in 2025, with Moody's Analytics indicating downside risks. While the US economy shows strong growth, China's market capitalization has stalled. APEC leaders meeting in Shenzhen emphasized the need for open trade and equitable growth to maintain regional stability.",
+      "regions": [
+        {
+          "name": "Shenzhen, China",
+          "lat": 22.5428,
+          "lng": 114.0579,
+          "severity": "yellow",
+          "detail": "Chinese President Xi Jinping and other APEC leaders met for the APEC CEO Summit, advocating for open trade and equitable growth in the Asia-Pacific region."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "yellow",
+          "detail": "Moody's Analytics released a report forecasting global GDP growth to ease to 2.7% in 2026, noting uncertainties and downside risks."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "The European Commission's Autumn 2026 Economic Forecast projects EU real GDP growth at 1.4% amid higher inflation pressures."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "The US economy continues to show strong performance, with its market capitalization rising to $75.04 trillion in 2026, making it a magnet for global capital."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Alaska Senate race sparks fraud claims; US Supreme Court addresses religious freedom.",
+      "summary": "The Alaska Senate race, where Democrat Mary Peltola flipped a seat, is facing accusations of cheating and likely legal challenges, highlighting concerns about election integrity. Concurrently, the US Supreme Court is deliberating cases that impact the balance of pluralist democracy and religious difference.",
+      "regions": [
+        {
+          "name": "Anchorage, Alaska, USA",
+          "lat": 61.2181,
+          "lng": -149.9003,
+          "severity": "yellow",
+          "detail": "Democrat Mary Peltola's victory in the Alaska Senate race is subject to accusations of cheating and is expected to face legal challenges."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "The US Supreme Court is considering cases related to religious preschools receiving public funding, raising questions about the coexistence of diverse citizens under shared institutions."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Legal scholar Bruce Ackerman discussed challenges facing democracy, including the use of the internet to enhance citizen engagement with governance, at the Tang Prize forum."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis deepens with winter rains; Afghanistan faces severe aid funding shortfalls.",
+      "summary": "Winter rains have severely worsened the humanitarian crisis in the Gaza Strip, with displaced Palestinians facing freezing temperatures and acute food shortages amidst restricted aid access. In Afghanistan, the UN has allocated $18 million in emergency funding, but the 2026 Humanitarian Response Plan faces a severe funding shortfall, impacting 21.9 million people.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Relentless winter rains have exacerbated the humanitarian crisis, flooding makeshift tents and worsening sanitation and food shortages, with aid access severely restricted."
+        },
+        {
+          "name": "Kabul, Afghanistan",
+          "lat": 34.526,
+          "lng": 69.1776,
+          "severity": "red",
+          "detail": "The UN allocated $18 million in emergency funding to assist 824,000 people, but the country's humanitarian response plan for 2026 is critically underfunded, affecting 21.9 million people."
+        },
+        {
+          "name": "Bukavu, DR Congo",
+          "lat": -2.5,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Continued violence in eastern DR Congo is driving displacement and disrupting essential services, making it harder for humanitarian organizations to operate."
+        },
+        {
+          "name": "Mae Sot, Thailand",
+          "lat": 16.7118,
+          "lng": 98.5831,
+          "severity": "yellow",
+          "detail": "Japan and the ILO signed a document to support the employment of Myanmar refugees in Thailand, who are displaced due to worsening humanitarian conditions in their home country."
+        }
+      ],
+      "sources": [
+        {
+          "title": "bastillepost.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDLDNqdOwFQHl12unGX4CUb3CIb9FSxBJ40-GMeykNkB3WjwZJNNqqFyetphAxvQIJq1o1VehwxwOOPCmSmLu7clneVb5PpqdTbAfDklOp_D1kmuF47aabIdt1vQp0Ok09eGoXN83Dc0f7VXzg3oW_ygT63hrqm7ab9CrCaCmkAWEUpiY348zlOVxT0N487oEeRQmkv7ITLGJ1k8sPiwWF6dRTZa0oxVNnce4k3GcFe5v_z0OgTO0Hz0oP8LESxdyvz_E="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtL88kUhP9D5Bm-vV5eSWCbj2VRsWPfk_vRN7e5H5RMXXQpNqb5_4sG5Njmtxp4gbdKdGu0ufouRv4IgdX00ayGPVFExbkXSXGOUSPEkAX2Ju0iKL64YlbWp7IexEpDMEOxzTOVufzHvrUShZ-nzvVuvOhTLZrS5sRtUhTtlPUmWLpZPqQv9bpzoGIR2m2yfKJCtPnz1-20eKU-Q5epHtcFAqPhfO-JkUSENz3nvY"
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ImjM_Qcsv8DGyAOOa0ftEROYehWSB95Ch19sP5AinnN0iAPzuftlcksp_xRfs1V1_6nsEu3D_TXiJNdRO9C0YNdEZEx_eZqgMKufSQfcBeiwZ4mwH76N3Var5GXxWhfm7GlDeRR3SJJ6kn-KfuDz176SdcKN64hbBDdzSWLuoWUND17aZ3aF4vI8rD9kfQVAGo4Op6e8szSrp3c-0EKZChmLvA=="
+        },
+        {
+          "title": "10things.news",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAGglBHn_k7M3fT7iKqNNQKTHfcFU9OjrO-0VuprZpp0nc0z_Dys2xKhkIV2dXkh2R289WQksH1-qUjcmRC5awdwehKRtW7OChnbb-PEEm1YQaVEIQkBQFjDqXIkrICWl8atOqunBkzAVeW3X3GHRf1QEAscihFP_7SLVPPNM="
+        },
+        {
+          "title": "hrw.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyz0G-X4vurwCHoEI5bgNQvLueR7wi5AjtuATvW4AEvdr9VlD5L5h-dAJRrFYVFcPE4-_XKvsZcAUVvDeC19G-COYQdnglNCGRez_yavPBhf1Q3Pq2sEYXnY3maLhaDOT0TialRCbI3AncgRDaiGcWo25X69hUg5-nitIVhfxBz5nyiDuOlVCfxcaqX6K2rT5N7XSaozl-"
+        }
+      ]
+    }
+  }
+}
