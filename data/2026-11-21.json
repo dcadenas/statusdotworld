@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-21",
+  "timestamp": 1795240984191,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Russia-Ukraine war spills into Poland; Middle East conflicts escalate.",
+      "summary": "Russian missiles and a drone crashed in Poland during NATO military exercises, which Polish authorities termed a 'provocation.' Meanwhile, the US-Iran conflict saw an Iranian claim of downing a US drone, and intensified fighting continued in Yemen, Gaza, and the West Bank with significant casualties and Saudi-led coalition strikes.",
+      "regions": [
+        {
+          "name": "Nowa Deba, Poland",
+          "lat": 50.4167,
+          "lng": 21.75,
+          "severity": "red",
+          "detail": "Russian missiles and a jet-powered drone crashed near the site of ongoing NATO military exercises, prompting an air raid alert."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian forces launched missile and drone strikes targeting critical infrastructure and bridges in the capital."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Saudi air defenses intercepted three ballistic missiles launched by Iran-backed Houthi rebels, marking the third consecutive night of alerts."
+        },
+        {
+          "name": "Hodeidah, Yemen",
+          "lat": 14.8077,
+          "lng": 42.9463,
+          "severity": "red",
+          "detail": "The Saudi-led coalition carried out a 'special operation' targeting military capabilities at the Houthi-held Red Sea port."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israeli strikes killed six people, and the region faces severe food insecurity as displaced families endure a fourth winter in tents."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Israeli soldiers and illegal paramilitary colonizers continued attacks, resulting in one Palestinian killed, others injured, and numerous abductions and home demolitions."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran claimed to have shot down a 58th US MQ-9 drone over the Strait of Hormuz amid ongoing US-Iran tensions and nuclear program concerns."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "ICJ rules Myanmar committed Rohingya genocide; AI used in Gaza targeting.",
+      "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya population, urging reparations and prosecution. Separately, reports indicate the use of advanced AI technology by the genocidal Zionist entity in Gaza to target families, raising significant digital rights and AI safety concerns.",
+      "regions": [
+        {
+          "name": "Naypyidaw, Myanmar",
+          "lat": 19.7635,
+          "lng": 96.1307,
+          "severity": "red",
+          "detail": "The International Court of Justice issued a binding ruling that Myanmar committed genocide against the Rohingya, with rights groups urging sanctions."
+        },
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Reports indicate the use of advanced AI technology, such as 'Lavender' and 'Where's Daddy,' to target families in the ongoing conflict."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "Ongoing Israeli violations include killings, injuries, abductions, and home demolitions against Palestinians."
+        },
+        {
+          "name": "Nigeria",
+          "lat": 9.082,
+          "lng": 8.6753,
+          "severity": "yellow",
+          "detail": "Christians face severe persecution from extremist organizations affiliated with Al-Qaeda and the Islamic State, operating with alleged government assistance."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "A US congressional hearing discussed the global persecution of Christians."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate talks extended with little progress; extreme weather persists globally.",
+      "summary": "UN climate negotiators at COP31 in Antalya, Turkey, extended talks but showed little progress on commitments to cut fossil fuels. Meanwhile, 2026 is confirmed as one of the warmest years on record with intensifying El Niño effects, leading to increasingly destructive extreme weather events worldwide, including heatwaves in Europe and severe flooding in Nepal.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "red",
+          "detail": "COP31 climate summit extended amid disagreements over fossil fuel cuts, with slim hopes for concrete commitments."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "red",
+          "detail": "Heatwaves across the continent contributed to 2026 being one of the warmest years on record."
+        },
+        {
+          "name": "Nepal",
+          "lat": 28.3949,
+          "lng": 84.124,
+          "severity": "red",
+          "detail": "Severe flooding this year highlights increasing destructive extreme weather events."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "red",
+          "detail": "A drought affected 233 municipalities, requiring a Flash Appeal for humanitarian assistance."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "2026 is poised to be one of the warmest years in history, with record sea levels and ocean heat due to a strong El Niño."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Global health surveillance gaps and ongoing disease threats noted.",
+      "summary": "World Health Organization digital influenza surveillance records revealed gaps in local epidemic forecasting, highlighting challenges in translating data into actionable insights. Tuberculosis remains a significant global infectious disease threat, particularly for HIV-positive individuals, with discussions ongoing for expanded prevention and care measures.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "yellow",
+          "detail": "The World Health Organization's digital influenza surveillance records revealed gaps in local epidemic forecasting capabilities."
+        },
+        {
+          "name": "China",
+          "lat": 35.8617,
+          "lng": 104.1954,
+          "severity": "yellow",
+          "detail": "China has proposed expanding export controls to include technologies used to develop advanced medicines."
+        },
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "yellow",
+          "detail": "Tuberculosis continues to be a leading infectious disease threat worldwide, particularly in high-burden countries."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "red",
+      "headline": "AI bubble fears trigger global market rout; Iran war impacts economy.",
+      "summary": "Global financial markets experienced a significant rout, with nearly $9 trillion wiped off world stocks since August, fueled by worries over AI and US interest rates. The tech-heavy Nasdaq index plummeted, signaling an end to the AI industry's 'honeymoon' on Wall Street amid concerns about spending and profitability. The ongoing US-Iran war has also incurred over $200 billion in damages for Gulf countries and continues to affect global trade and commodity prices.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "red",
+          "detail": "The Nasdaq index plummeted 5.28% on Friday, reflecting significant concerns over the AI industry's profitability and spending."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": 0.1278,
+          "severity": "red",
+          "detail": "A global financial market rout worsened this week, with selling across stocks, copper, and gold."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "The yen strengthened as carry trades came under threat amid global market turbulence."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "The ongoing US-Iran war has cost Gulf countries over $200 billion and continues to impact regional and global economic stability."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Trump secured new trade deals and discussed economic security with India, amidst ongoing global economic shifts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "US midterms affirm democracy; Botswana faces declining public satisfaction.",
+      "summary": "The 2026 US midterm elections were widely reported as 'safe, secure, and noncontroversial,' seen as a rebuke to President Trump's attempts to challenge election integrity, with Democrats making gains. However, in Botswana, despite a recent Global Forum on Direct Democracy, Afrobarometer data indicates a declining preference for and satisfaction with democratic governance.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The 2026 US midterm elections were deemed 'safe, secure and noncontroversial,' and a 'rebuke to Trump's election denial claims."
+        },
+        {
+          "name": "Gaborone, Botswana",
+          "lat": -24.6282,
+          "lng": 25.9231,
+          "severity": "yellow",
+          "detail": "Public satisfaction with democracy has declined, and fewer citizens prefer democracy to other forms of government."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "yellow",
+          "detail": "US lawmakers are warned about potentially halting SpaceX funding due to Starshield service slowdowns impacting Ukraine's defense capabilities."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza crisis deepens with funding cuts; global aid access severely denied.",
+      "summary": "The humanitarian crisis in Gaza is worsening, with 1.4 million people facing acute food insecurity and WFP forced to cut food assistance due to funding shortfalls, as displaced families face a fourth winter in tents. Globally, humanitarian access to children is being denied almost hourly, with a 16-fold increase in incidents over the past decade, largely due to ongoing conflicts and administrative impediments.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Displaced families face a fourth winter in tents, and 1.4 million people are acutely food insecure amidst severe funding cuts for food assistance."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 31.9522,
+          "lng": 35.2332,
+          "severity": "red",
+          "detail": "WFP was forced to cut monthly food assistance by half due to funding shortfalls, exacerbating existing vulnerabilities."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "red",
+          "detail": "The World Food Programme announced it would require $12.1 billion to assist 91 million people in 2027, warning millions more will go hungry due to funding shortfalls."
+        },
+        {
+          "name": "Honduras",
+          "lat": 15.2,
+          "lng": -86.2419,
+          "severity": "yellow",
+          "detail": "A drought affected 233 municipalities, leading to an increase in global humanitarian overview requirements and a Flash Appeal for assistance."
+        },
+        {
+          "name": "Libya",
+          "lat": 32.8872,
+          "lng": 13.1801,
+          "severity": "yellow",
+          "detail": "Libya saw 1,084 UN-verified incidents of denied humanitarian access to children in 2025, contributing to a global surge."
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.3794,
+          "lng": 31.1656,
+          "severity": "yellow",
+          "detail": "Ukraine experienced 473 UN-verified incidents of denied humanitarian access to children in 2025."
+        }
+      ],
+      "sources": [
+        {
+          "title": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXksSFvPxQMrXzusIty2Bztopq2LU11Yt13WzjVLt0kpgEP-mmjDnDjPMuKES-mtx2lRpiUjUxRD4p13DU7CVLM0vWpzn60DDBCFvvItCF7QbJ5a3R6QF7_3YhiiGoC2NiHFygj7JVqLINed09cv_Q4WF5QMzLsdqsfmUass0vg-ywooQioZTQAUHw0AXFf5Z86-Xyk96fKyX8Qk0zYjwZkE12GUZm4cUVUTCdYtKkejo11tOoO85rMh7Mulk6GZQ8WXmYc6hfpz8VNKvpmZp6VmZ1jAlxgEmBDhcwiCxKumwA8_P-dXskuQ="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MXr7stZJYHzQZhBozeHX3tW60TT3pSFGOEE72d7Znt4H8GB81Zd_1O5kca-LzmUTH6c-FykXeIcRtkt0wF3D7pwhqczr3ae3Gzzv5h4yOff5b9WEnOB5ZLhJ1HZTfxTzj4Vsiq_d-tMeSEyb1YPBdlzTufdd2STmEx7ieaAyWgKFqrM="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9smhNJIR-dtTqco-ZrRxwhn6TanL2yADHUPbT1clq3SQIsLpXGcAInASr_2qA-oFmHNTRLXt7FILY2P7ElEcbyIpWcmG7ZN7TmVZmWZrANRHec0KVt_T-QaXnDqBudzUP7KWXpUKxXrAkWg0dqg96en3k5kpxliCCgtzmGRXvyjfsUnlwXBZRmqqxchznevVrMGIB180yqH6pP4AZ8ArgSXxeOr9Mlw=="
+        },
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSqCMuSlbLUkg7QrCz0Fdff7gzEnnKGjTlqRK7QFhEMqqI9uX3WMCVs4k30WPSWuUtXbJtcMwPA9VOPZOTIHbalFzUORne63RFDwhVwQtmpXuhX9ZgQXgmnEdQ0VHg3zSh8-ZwLHCwYN5Fbn98wyQxNi6iezyFHmof-sQuUU0RSgzGLNP8vUxTrQRX3lzP1Zp0FzI-pHFRPLqfvIiXLG0vrXLO8DC2N0mB3k="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gcHbDa-Y55YaTZx7fWLkPdTiPXO9mWvZbM652aTW0yAQVDN4ubkBiDw6L1uSGFl4AolQ7GWjjBghYX6SZNtonp_oO_83UfZEACRzsIXu3tQeo4lFreSE68K8ggHRd4Uan7vbB75h7A54xE2E9XZD0-_CMJoL_N7JaTmxaQHu5Oichybfya2bxWrGeZ6dzqZWy8A0d20z6-ahfXSIZlO6O3TWwF4DRs5gh-1vENL7-4liFHYvtFAR3VkTtu0Z4momu93EXDDX8D7NesuGRmXQNg=="
+        }
+      ]
+    }
+  }
+}
