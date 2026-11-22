@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-22",
+  "timestamp": 1795327392950,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Baltic Sea, Middle East Conflicts Escalate; NATO to Meet",
+      "summary": "Tensions intensified with a Ukrainian drone strike on a Russian cargo ship in the Baltic Sea, prompting concerns from Finland and accusations from Poland ahead of a NATO meeting. Simultaneously, the Middle East saw continued clashes, with Bahrain accusing Iran of striking an industrial facility and Iran preparing to challenge a US naval blockade in the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Gulf of Finland",
+          "lat": 60,
+          "lng": 26,
+          "severity": "red",
+          "detail": "A Russian cargo ship was hit by a Ukrainian drone and caught fire, marking an escalation in the Baltic Sea."
+        },
+        {
+          "name": "St. Petersburg, Russia",
+          "lat": 59.93,
+          "lng": 30.31,
+          "severity": "yellow",
+          "detail": "The Sparta II, a Russian cargo ship suspected of transporting weapons, departed from St. Petersburg before being struck by a Ukrainian drone."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.45,
+          "lng": 30.52,
+          "severity": "yellow",
+          "detail": "Ukrainian forces were implied to be responsible for the drone strike in the Baltic Sea, as Finland's PM affirmed Ukraine's right to fight back."
+        },
+        {
+          "name": "Helsinki, Finland",
+          "lat": 60.17,
+          "lng": 24.94,
+          "severity": "yellow",
+          "detail": "Finland's Prime Minister stated that the Ukraine war is 'spilling over' into their immediate vicinity following the Baltic Sea incident."
+        },
+        {
+          "name": "Warsaw, Poland",
+          "lat": 52.2298,
+          "lng": 21.0118,
+          "severity": "yellow",
+          "detail": "Poland accused the Kremlin of 'intentional provocation' after the incident near where European troops were holding training exercises."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "Iran is preparing to send 14 oil tankers through the US naval blockade, raising the prospect of dangerous confrontation."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "Bahrain accused Iran of striking a civilian industrial facility, while Iran claimed it hit US Patriot air defense radars in Bahrain."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran's Revolutionary Guards claimed responsibility for striking US Patriot radars in Bahrain, and Iran is preparing to challenge naval blockades."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety Concerns Rise as Data Breaches Continue",
+      "summary": "Concerns over AI safety and regulation escalated with a major AI company's CEO highlighting future safety challenges, California initiating independent AI enforcement, and a new US congressional caucus forming. Simultaneously, several data breaches were reported, and security researchers found evidence of data compromise by AI inference providers, raising tech privacy alarms.",
+      "regions": [
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Anthropic, an AI company, had a significant IPO on Wall Street, with its CEO acknowledging that the most challenging safety work lies ahead."
+        },
+        {
+          "name": "Bridgetown, Barbados",
+          "lat": 13.1073,
+          "lng": -59.6201,
+          "severity": "green",
+          "detail": "Barbados and the United Nations are set to co-host a special summit on AI Safety on November 23rd, focusing on international cooperation."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California's Attorney General announced independent state-level enforcement of antitrust laws and AI safety regulations."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "A bipartisan AI Safety and Innovation Caucus was launched in the US House to address the security risks posed by evolving AI models."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Two Iranian political prisoners were moved to solitary confinement, raising fears of execution on separate security-related charges."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Advocacy Forum-Nepal reported that impunity still undermines the rule of law 20 years after the Comprehensive Peace Agreement, failing victims of human rights violations."
+        },
+        {
+          "name": "Rawalpindi, Pakistan",
+          "lat": 33.6007,
+          "lng": 73.0679,
+          "severity": "yellow",
+          "detail": "Discrimination against religious minorities runs deep in Pakistan, with escalating hate speech and attacks reported."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "COP31 Struggles on Fossil Fuels; Extreme Weather Hits Globally",
+      "summary": "Negotiators at COP31 in Antalya, Turkey, are in overtime, facing significant disagreements over phasing out fossil fuels, with civil society groups criticizing the lack of ambition in the latest draft deal. Meanwhile, the UN Secretary-General warned of climate threats to the Banaue rice terraces in the Philippines, and parts of the US experienced coastal flooding, river flooding, and freezing temperatures.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "COP31 climate talks are in a second day of overtime, struggling to reach a consensus on the future of fossil fuels."
+        },
+        {
+          "name": "Banaue, Philippines",
+          "lat": 16.92,
+          "lng": 121.06,
+          "severity": "yellow",
+          "detail": "UN Secretary-General Antonio Guterres warned that typhoons, landslides, and drought threaten the centuries-old rice terraces due to climate change."
+        },
+        {
+          "name": "Jacksonville, Florida, USA",
+          "lat": 30.3322,
+          "lng": -81.6556,
+          "severity": "yellow",
+          "detail": "Coastal and river flooding warnings are in effect for parts of Florida, with risks to low-lying properties and road closures."
+        },
+        {
+          "name": "Tucson, Arizona, USA",
+          "lat": 32.2226,
+          "lng": -110.9747,
+          "severity": "yellow",
+          "detail": "Freeze warnings were issued for several areas in Arizona, with temperatures expected to drop significantly."
+        },
+        {
+          "name": "South Texas, USA",
+          "lat": 27.75,
+          "lng": -98,
+          "severity": "green",
+          "detail": "Scattered thunderstorms and isolated severe storms are possible, with a marginal risk of severe weather."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "War Worsens TB Crisis; Measles Returns to US",
+      "summary": "Armed conflicts are exacerbating the global drug-resistant tuberculosis crisis, leaving millions undiagnosed and untreated in humanitarian emergencies. The United States officially lost its measles elimination status, while African leaders convened in Addis Ababa to discuss advancing health security and pandemic preparedness.",
+      "regions": [
+        {
+          "name": "Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "Ongoing conflict and humanitarian emergencies are contributing to an worsening drug-resistant TB crisis, with many cases going untreated."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.03,
+          "lng": 38.74,
+          "severity": "green",
+          "detail": "African leaders gathered for CPHIA 2026 to advance health security, sovereignty, and pandemic preparedness, with a focus on youth and women."
+        },
+        {
+          "name": "United States",
+          "lat": 39.8283,
+          "lng": -98.5795,
+          "severity": "yellow",
+          "detail": "The US lost its measles elimination status amidst signs of congressional support for global health programs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Middle East Conflict Burdens Global Economy; AI Investment Risks",
+      "summary": "The ongoing US-Israel war on Iran has created a significant 'economic burden' globally, with a Turkish official calling for a ceasefire to avert broader financial crises. Concurrently, the IMF chief warned that the global economy's increasing reliance on AI investment could threaten financial stability. The conflict also exposed vulnerabilities in Gulf economies dependent on the Strait of Hormuz.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "The US-Israel war on Iran is causing an 'economic burden' and threatening international markets."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5,
+          "lng": 56.5,
+          "severity": "red",
+          "detail": "The blockade of the Strait of Hormuz has exposed the vulnerability of Gulf economies to geopolitical instability and maritime trade disruptions."
+        },
+        {
+          "name": "Manama, Bahrain",
+          "lat": 26.2283,
+          "lng": 50.586,
+          "severity": "red",
+          "detail": "The ongoing conflict and attacks in the region contribute to the instability of Gulf economies and trade routes."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Democrats in Congress plan to address the high cost of living and potentially curb military actions affecting gasoline prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "South Korea's Judiciary Under Strain Amid Impeachment Push",
+      "summary": "South Korea's conservative opposition condemned the Democratic Party's move to impeach Chief Justice Jo Hee-de, alleging it undermines the separation of powers and targets the president's trial. This internal political struggle highlights notable developments in democratic governance. In contrast, the European Citizens' Panel in Brussels concluded its session on strengthening EU democracies.",
+      "regions": [
+        {
+          "name": "Seoul, South Korea",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "severity": "yellow",
+          "detail": "The Democratic Party's push to impeach the Chief Justice was condemned by the opposition as an attempt to control the judiciary."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "green",
+          "detail": "The European Citizens' Panel on Democratic Resilience held its final session to finalize recommendations for strengthening EU democracies."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Aid Workers Killed in Gaza; Yemen Faces Airstrike Threats",
+      "summary": "In the Gaza Strip, four Palestinians, including three aid workers, were killed in Israeli attacks while transporting food for displaced people, amid continued violations of a ceasefire. In Yemen, a Saudi-led coalition warned civilians to evacuate areas around Hodeidah port, indicating imminent airstrikes, following accusations of an attack on a civilian boat. The ongoing armed conflicts are also worsening the drug-resistant tuberculosis crisis, leaving millions in humanitarian emergency settings without diagnosis or treatment.",
+      "regions": [
+        {
+          "name": "Gaza City, Gaza Strip",
+          "lat": 31.5,
+          "lng": 34.47,
+          "severity": "red",
+          "detail": "Four Palestinians, including three aid workers transporting food, were killed in Israeli attacks despite a ceasefire."
+        },
+        {
+          "name": "Hodeidah, Yemen",
+          "lat": 14.8,
+          "lng": 42.95,
+          "severity": "red",
+          "detail": "Civilians were warned to evacuate the area around the port due to potential imminent Saudi airstrikes, escalating the humanitarian crisis."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia intercepted Houthi missiles, indicating ongoing conflict that impacts civilian areas and contributes to regional instability."
+        },
+        {
+          "name": "Banaue, Philippines",
+          "lat": 16.92,
+          "lng": 121.06,
+          "severity": "yellow",
+          "detail": "UN Secretary-General Guterres warned that climate change-induced landslides and drought threaten food security and livelihoods for communities dependent on rice terraces."
+        }
+      ],
+      "sources": [
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVkhHBVXSO9RSqVnddVb-yYFj3LnaP1uRJLObVMOdaormyzbPArL7kpg8MOLhhT592k0zgwv_LzfWaEhK1HWukvARlUnv0I4NJKQJXAVf_yFhjKBfCIYrClxkxh78APuYN5SBfPtksB78Yo2sbC5Ps8nIv6qQvVyhyuLETqjbi8IxihZBepqP7k_Ua6sVqp10tcOKQGoN0LT6dPMWn0_w6uR-SBGw6P_07My2cxN_ppa9u2v_oZS_erFhKhjoKdJj5vZ59L5yfqwDknyUIrjezhprT-ib"
+        },
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsR9SomJN6fS_vW-coCBlQaN_jfkccemK8P963-Nvhy8Rd7J58mHrRgrL6JVTxmdm65L0g_Ph_r_ShkvYiypKE_Iw2zuQsEFw8HP9P9bcEDwtBWOyLcYVvoQnfb52ByinL5ImWra1-ArrkpFRr4rWqZvCCTOOs39x_RoUMrLGpDhIiYxyMtWhcit8ERrrrDYdfqfprvYK5dR45E-u7Mx5onAfbJpBO7ux9QFk7Lj_uXFfGpDhQ_oPs0Bb6UU0FAxwGreSQBmuqiap9qf_Y-KEpjHuCJT1InURdmqSnSQ=="
+        },
+        {
+          "title": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5z9iLP7CCGx1EVaTwTX79hSWofIOhp7sFCxmujB7rGQDH3zTfiQnOmbVz5Ae_1seUNjczqtV8TDxtsqxFlAlpzkApvOyKhbFKvFiLppOeowRaDSULrtcvasv5xyxqqXzx16olQ53wZHZBo_zBtUTchdHUpDhAeo_pXtikFxSOr5ZBEpam_jM57EIDe9m63OvmqRCkXZruZbulVq0poWSxPL3rcCevB-VjCAa95XSorMVA8WId5CMjbhv62qkKvlgfhxjws6EJAVWIRhjxd13MqV0fwQlhBq0McZLcv5tCzktfYOfBY9NuiQ4="
+        },
+        {
+          "title": "afp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1hj8Vs0z3jXR7y7uWSz_Cv55Lwj0UuKYdxi5AJoOAbXaJGVJ6xUHDxapvObiVWKyAuA9liPPd4M9iPknGrlSNU_OVluT-2bCKr1k9vY0hw0oP_u-HnZ-Ha1KGBeCBDUPBB0ilNbY1GEBEPDfROnM5pg1LlMHHZ0cgf1Pwd7AD9UZuG71QCwCIzupHEE="
+        },
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEep_ZkCk1L8ZTpwMgZZ4r-ThGMRq2ZCuzHdqgdi_jig_-_Mkjy8qq4f5rKPYuCobHAxfDx3-FGQ00M98Aai2yQ9L7tr3L8cJUNkWaw89XxDMP00NtlR0OtDLQmrTRmVSl148iqO3fN_PTkLymzf_yTsv8oYl04LPg16dGulzxcxaBpv6HJhzaVDGwfXtJmhI1d0u2D9pRsSS8="
+        }
+      ]
+    }
+  }
+}
