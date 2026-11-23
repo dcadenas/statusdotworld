@@ -1,0 +1,531 @@
+{
+  "date": "2026-11-23",
+  "timestamp": 1795413845291,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Intensified fighting in DRC and Ukraine, missile incidents in Poland",
+      "summary": "Heavy fighting in the Democratic Republic of Congo's Ituri and North Kivu provinces has disrupted Ebola response efforts, with the WHO chief calling for peace amid ongoing violence involving the M23 armed group and ISIL-affiliated groups. Concurrently, Russian strikes in Ukraine killed civilians and hit infrastructure, while a Russian warship was struck in Libya, and Russian missiles were found in Poland, escalating regional tensions.",
+      "regions": [
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Heavy fighting near a hospital in Ituri disrupted Ebola response efforts, forcing health workers to shelter."
+        },
+        {
+          "name": "North Kivu, DRC",
+          "lat": -0.8,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Armed groups, including those linked to ISIL, raided villages, causing displacement of Ebola patients and making healthcare transport difficult."
+        },
+        {
+          "name": "Kyiv region, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "Russian overnight strikes on the Kyiv region killed at least 12 people, including a strike on a residential building in Dymer."
+        },
+        {
+          "name": "Benghazi, Libya",
+          "lat": 32.1167,
+          "lng": 20.1333,
+          "severity": "red",
+          "detail": "A Russian warship docked in the port was struck in a suspected Ukrainian drone attack, causing an explosion and sinking the vessel."
+        },
+        {
+          "name": "Nowy Lipowiec, Poland",
+          "lat": 50.3167,
+          "lng": 23.0833,
+          "severity": "yellow",
+          "detail": "Debris from Russian Kh-101 cruise missiles was recovered from this site, following an airspace incursion."
+        },
+        {
+          "name": "Rudnik, Poland",
+          "lat": 50.6053,
+          "lng": 22.1819,
+          "severity": "yellow",
+          "detail": "Russian Kh-101 cruise missile debris was discovered here, prompting an investigation into the incident."
+        },
+        {
+          "name": "Molodycz, Poland",
+          "lat": 50.0461,
+          "lng": 23.6397,
+          "severity": "yellow",
+          "detail": "Investigations are concluding regarding Russian Kh-101 cruise missile debris found at this location."
+        },
+        {
+          "name": "Strait of Hormuz, Iran",
+          "lat": 26.5667,
+          "lng": 56.55,
+          "severity": "yellow",
+          "detail": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "Gaza deemed toxic wasteland; AI safety and digital rights concerns rise",
+      "summary": "Oxfam reported that Israel's military assault has turned Gaza into a toxic wasteland, threatening human survival and constituting environmental war crimes. Globally, the UN and Barbados are co-hosting a summit on AI safety, while a major Microsoft data breach and new Australian defence laws raise significant digital rights, surveillance, and privacy concerns.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "Israel's military assault has created a toxic wasteland, degrading environmental conditions necessary for human safety and survival, with over 74,000 Palestinians killed."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35,
+          "severity": "red",
+          "detail": "Physicians for Human Rights Israel reports systematic abuse, obstruction, and violence against medics by Israeli troops and settlers."
+        },
+        {
+          "name": "Bridgetown, Barbados",
+          "lat": 13.1073,
+          "lng": -59.6201,
+          "severity": "yellow",
+          "detail": "Barbados and the UN are co-hosting a special summit on AI safety to discuss risks associated with powerful AI systems."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Australia is elevating AI to a national security challenge, with concerns about its use by foreign actors to disrupt democracies and new defence laws threatening protest rights."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "CISA urged federal agencies to patch critical vulnerabilities in VMware, Cisco, and Apache products by today, amid emerging cyber espionage attacks."
+        },
+        {
+          "name": "Singapore, Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "yellow",
+          "detail": "An online portal for community projects was breached, compromising personal details of over 13,000 people, amidst a spike in cyberincidents."
+        },
+        {
+          "name": "Tokyo, Japan",
+          "lat": 35.6895,
+          "lng": 139.6917,
+          "severity": "yellow",
+          "detail": "Tower Records is the latest Japanese retailer hit by a data breach, exposing login information for about 10.2 million accounts."
+        },
+        {
+          "name": "York, Maine, USA",
+          "lat": 43.1506,
+          "lng": -70.6406,
+          "severity": "green",
+          "detail": "Voters rejected the use of Automated License Plate Readers (ALPRs) and surveillance technology, requiring existing cameras to be removed."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "COP31 ends in failure amid fossil fuel dispute; Gaza faces environmental crisis",
+      "summary": "The COP31 climate talks in Antalya, Türkiye, ended without an overarching political agreement, as countries, including the EU and island nations, opposed a draft text that lacked a pledge to phase out fossil fuels. This failure, coupled with Oxfam's report on Gaza becoming a toxic wasteland due to military assault, highlights a severe global climate and environmental crisis.",
+      "regions": [
+        {
+          "name": "Antalya, Türkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "red",
+          "detail": "COP31 climate talks concluded without an agreement, as nations failed to reach consensus on fossil fuel phase-out commitments."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "Israel's military assault has resulted in a toxic wasteland, with widespread contamination and destruction threatening human survival."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "red",
+          "detail": "The European Union, represented by Ireland's Minister for Climate, Energy and the Environment, rejected the COP31 outcome document due to the absence of fossil fuel language."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "red",
+          "detail": "Australia, which co-chaired the COP31 negotiations, is accused of abandoning Indigenous rights and removing fossil fuel references from the draft text."
+        },
+        {
+          "name": "Los Angeles County, USA",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "A rain advisory is in effect for all beaches until today, cautioning against water contact due to potentially higher bacteria levels from runoff."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "red",
+      "headline": "Ebola crisis in DRC exacerbated by conflict; youth mental health worsening",
+      "summary": "Heavy fighting in the Democratic Republic of Congo's Ituri and North Kivu provinces is severely disrupting Ebola response efforts, putting patients and health workers at grave risk. Meanwhile, a new study indicates a global trend of worsening youth mental health, with emotional difficulties rising despite decreases in some risky behaviors.",
+      "regions": [
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Heavy fighting near a hospital has disrupted Ebola response efforts, forcing medical personnel to shelter."
+        },
+        {
+          "name": "North Kivu, DRC",
+          "lat": -0.8,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Violence by armed groups has caused confirmed and suspected Ebola patients to flee, making healthcare difficult to deliver."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0249,
+          "lng": 38.7468,
+          "severity": "green",
+          "detail": "The 5th International Conference on Public Health in Africa (CPHIA 2026) is scheduled to begin today, focusing on health challenges and innovations."
+        },
+        {
+          "name": "Manchester, UK",
+          "lat": 53.4808,
+          "lng": -2.2426,
+          "severity": "yellow",
+          "detail": "Scientists from the University of Manchester contributed to research showing an increase in emotional difficulties among adolescents."
+        },
+        {
+          "name": "London, UK",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "University College London researchers participated in a study highlighting worsening youth mental health trends."
+        },
+        {
+          "name": "Cambridge, UK",
+          "lat": 52.2053,
+          "lng": 0.1218,
+          "severity": "yellow",
+          "detail": "The University of Cambridge was part of the research team that found increasing emotional problems in adolescents."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Global economic uncertainty persists amid geopolitical tensions",
+      "summary": "The global economy continues to face uncertainty, influenced by ongoing geopolitical tensions, such as wars and energy insecurity, which are complicating climate negotiations and supply chains. Amidst these challenges, the recent US midterm elections also highlighted voter discontent over high prices linked to tariffs and the Iran war.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Voter discontent over high prices tied to tariffs and the Iran war was a factor in the recent US midterm elections."
+        },
+        {
+          "name": "Antalya, Türkiye",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "COP31 climate talks collapsed, partly due to countries prioritizing energy affordability and industrial competitiveness amid economic uncertainty."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Belgium's airports are set to shut down due to an anti-austerity strike, indicating domestic economic pressures."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Saudi Arabia's power as a fossil fuel producer influenced the COP31 negotiations and global energy market dynamics."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "China, along with Russia and the US, held a summit aimed at maintaining strategic stability amidst global turbulence and economic uncertainty."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia participated in a trilateral summit with China and the US, discussing strategic stability in a time of global economic and geopolitical challenges."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "AI threats to democracy discussed; Australia's new defence laws raise concerns",
+      "summary": "Australia is elevating AI to a national security challenge, with concerns about its use by foreign actors to disrupt democracies, while new defence laws criminalizing photography near defence sites are criticized as a 'war against democracy'. Separately, Zambia's government has ruled out proposals to change presidential term limits, reinforcing democratic norms.",
+      "regions": [
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "New defence laws, expected to pass parliament, criminalize photographing defence sites and allow detention, raising fears of overreach against protesters and civil rights."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "green",
+          "detail": "President Tinubu congratulated a human rights activist for his contributions to advancing democratic values and strengthening democratic institutions."
+        },
+        {
+          "name": "Lusaka, Zambia",
+          "lat": -15.3875,
+          "lng": 28.3228,
+          "severity": "green",
+          "detail": "The Zambian government publicly ruled out any proposals to change presidential term limits, upholding constitutionalism."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Beijing hailed Election Committee polls as a showcase of high-quality democracy, reinforcing confidence in advancing democratic development tailored to the city's conditions."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Democratic victories in state attorney general races have brought a new dynamic to federalism disputes and immigration enforcement."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "DRC Ebola response disrupted by conflict; Gaza faces dire toxic crisis",
+      "summary": "Humanitarian efforts in the Democratic Republic of Congo's Ituri and North Kivu provinces are severely hampered by heavy fighting, putting Ebola patients and health workers at 'grave risk'. Concurrently, Oxfam reports that Israel's military assault has rendered Gaza a toxic wasteland, profoundly degrading environmental conditions and posing long-term threats to human survival.",
+      "regions": [
+        {
+          "name": "Ituri Province, DRC",
+          "lat": 1.5,
+          "lng": 29.5,
+          "severity": "red",
+          "detail": "Fighting near a hospital has disrupted Ebola response efforts, forcing health workers and aid partners to seek shelter."
+        },
+        {
+          "name": "North Kivu, DRC",
+          "lat": -0.8,
+          "lng": 29,
+          "severity": "red",
+          "detail": "Armed groups' raids and ongoing conflict have forced Ebola patients to flee and hindered the transport of healthcare resources."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.33,
+          "severity": "red",
+          "detail": "The region has been turned into a toxic wasteland by military assault, with widespread destruction and contamination severely impacting human safety and survival."
+        },
+        {
+          "name": "West Bank, Palestine",
+          "lat": 32,
+          "lng": 35,
+          "severity": "red",
+          "detail": "Medics face systematic abuse and obstruction by Israeli troops and settlers, hindering the delivery of essential healthcare."
+        },
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9.0249,
+          "lng": 38.7468,
+          "severity": "green",
+          "detail": "The 5th International Conference on Public Health in Africa is being held to discuss critical health issues and innovations on the continent."
+        },
+        {
+          "name": "Beirut, Lebanon",
+          "lat": 33.8938,
+          "lng": 35.5018,
+          "severity": "green",
+          "detail": "The Internal Security Forces, with associations, organized a recreational activity for juveniles at a rehabilitation center to promote reintegration into society."
+        },
+        {
+          "name": "Geelong, Australia",
+          "lat": -38.1499,
+          "lng": 144.3617,
+          "severity": "yellow",
+          "detail": "A walk was held to call for an end to violence against women and girls as part of the 16 Days of Activism against Gender-Based Violence campaign."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Twenty years after the Comprehensive Peace Accord, thousands of conflict victims are still awaiting justice to complete the peace process."
+        }
+      ],
+      "sources": [
+        {
+          "title": "aljazeera.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOkHBcYa1tFCBRzzIjFEGi5Rh91qHeeEuN3YU2AiHIHj89xwAFdt-t0Gn1sJQ4jVbA39c8zl5ca1C5vhpb6Bl_VcV8tZF0I1nU37-NXF1XKE3wPPTrMtKoD44GQOzQnJNbCxcr0zMRwJmDRnPN-SsDQX0CaaQmPfYKbxqpTxeG7TnOT6zFuZIdp0uYhz0O-tlGRVc23aRV6rBkbnIDH-cmNk3zd-ZSaPDp6wIPh4="
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cSXKKaVxlMffVKPfvAdOnAjvV8maPq_uN4AJJtU1FVKzBUjzNBOW_5hby67hzsHQVl0oPg0suW1MLtgERRRSzUHrFNQxuLAQjDTyVkB0_eoWU9cffS_mg4SoxGtndaZTNSirrf6GR_b-wFZ8r3rBhB9gMRnpao9UB7eOrqQQfnQvkB2TAMB_j5TxNZWhzejxsH3e97nrwtwiIRBFI5j0QaB0-W3wwrdMFDZb4BAekGvez-r3-N5EJ0-9TCqKbzObkqGXHwTHsOD5Q5gr_dng"
+        },
+        {
+          "title": "kyivindependent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVqsH8Uhr3xdDi0YWk252VtPqnlMNIdEvmorjdTXy0bYj70X1pn_1yGoytv4V4AgtnODt7Jw2c6Ckly5vFCNcVrR50zf15V-XKpoLUIpqqD2mixDeVm3FJpjf-aPxn0RWCKmdXxA63LRADDmNKz_U9jTRQ9w-696Lz69_e2in30kHD7lgGXI7Nl23tnT-nFp7B5NV3uuk7aHod_U-9sOlT59gM3rk8IyRuvSRYWutOfJO"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfBc5F_Hb82dcaLE5wWLnPhyqDbcNA-MSqMrTY7-Wg-6TUoifgAh1q5yTbYk_dyY9HSXNaHSgVPJf_oaRuTtoFSf89ZquxArWFE6AxwvJuW_mrzp_I0Cw2aU7IXAHLp4jjFnOoUTkO2hrz8W2pF8R4jiqau3DZZnUiewOe6JR6MW9nIZpg54aeioPMA_BnAU="
+        },
+        {
+          "title": "reliefweb.int",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpF6zkJdTxLtvj9G-UJGTq6eRRxG5271WUboBFwwk7R9vFQZgCl4auFsb37J4zrhyC-_SuXTiUCrBXIh8BKuTSxQJ_ItP-4e45brFswF_WD8z7osR4ECE5TWdtrRwEK2DzVeTjNhis3uA0kT12bIdBT3X7FeIrIqn4XT2E9H7pYKD3H-uZsD0sRjQlTC9HKlQkiQ1bwXuc87Nt1aREsVlze1JueUFZBWvrh3WY6kx2OOQJaLCk9HkZgSutmrBQSyklDAq_Sd8ken4kk2ofBxO9uoOunuTfYM3_WkmYu_6R7bUpb9wMseFVjpnHcOb2DzPF6fMiQ=="
+        }
+      ]
+    }
+  }
+}
