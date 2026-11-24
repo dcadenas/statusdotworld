@@ -1,0 +1,461 @@
+{
+  "date": "2026-11-24",
+  "timestamp": 1795500215877,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Multiple conflicts escalate, threaten peace and aid delivery.",
+      "summary": "Regional tensions in the Middle East persist, with Iran accusing the US of maintaining a 'no war, no peace' stalemate and escalating conflict with Israel. In Ethiopia's Tigray region, Amnesty International reported lethal artillery strikes on civilian neighborhoods, warranting war crime investigations. The ongoing war in Ukraine continues to disrupt vital Black Sea grain shipments, increasing food aid costs globally.",
+      "regions": [
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "red",
+          "detail": "Iranian Parliament Speaker accused the US of imposing a 'no war, no peace' stalemate, following escalated regional tensions with the US and Israel."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN Deputy Secretary-General stated that Palestinians in Gaza are not receiving safety or assistance despite a ceasefire, and the conflict has undone 77 years of human development."
+        },
+        {
+          "name": "Alamata, Ethiopia",
+          "lat": 12.4045,
+          "lng": 39.5516,
+          "severity": "red",
+          "detail": "Amnesty International reported lethal artillery strikes by Ethiopia's military and allied Tigray Peace Forces between September 26-28, killing dozens of civilians."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "The conflict with Russia continues to disrupt Black Sea grain shipments, threatening global food aid and raising operational costs for humanitarian organizations."
+        },
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "German Chancellor Friedrich Merz announced that Europe is ready for adviser-level peace talks involving Ukraine, Russia, Europe, and the United States."
+        },
+        {
+          "name": "Bogotá, Colombia",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "severity": "yellow",
+          "detail": "The UN Secretary-General marked the 10th anniversary of Colombia's peace agreement but expressed deep concern about ongoing violence in regions still affected by conflict."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "red",
+      "headline": "AI risks, systemic abuses, and surveillance concerns dominate news.",
+      "summary": "UN Secretary-General António Guterres called for a multilateral framework to manage AI risks, warning of a 'historic shift in power' and fragmented protections. Human Rights Watch criticized Croatia for routinely pushing back migrants, including children, at its borders. Additionally, Human Rights Watch reported that India's government has systematically weakened institutions protecting human rights and democratic freedoms.",
+      "regions": [
+        {
+          "name": "Bridgetown, Barbados",
+          "lat": 13.1132,
+          "lng": -59.5988,
+          "severity": "yellow",
+          "detail": "UN Secretary-General António Guterres called for a multilateral framework on AI safety at the Bridgetown Special Summit on AI Safety."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "Human Rights Watch reported that the Modi government has systematically weakened institutions protecting human rights and democratic freedoms, including through arbitrary voter roll removals."
+        },
+        {
+          "name": "Brussels, Belgium",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "severity": "yellow",
+          "detail": "Human Rights Watch released a report in Brussels detailing Croatia's routine pushbacks of migrants at its borders, including vulnerable individuals."
+        },
+        {
+          "name": "Strasbourg, France",
+          "lat": 48.5831,
+          "lng": 7.748,
+          "severity": "yellow",
+          "detail": "The European Court of Human Rights is delivering a Grand Chamber ruling on November 24, 2026, concerning summary returns at Belarusian borders by Poland, Latvia, and Lithuania."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7132,
+          "severity": "yellow",
+          "detail": "Amidst global discussions on AI safety, concerns about the impact of unchecked digital technology and autonomous weapons were highlighted."
+        },
+        {
+          "name": "Yangon, Myanmar",
+          "lat": 16.8661,
+          "lng": 96.1951,
+          "severity": "red",
+          "detail": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Climate talks fail amidst intensifying disasters and deadly heatwaves.",
+      "summary": "The COP31 U.N. climate talks in Antalya, Turkey, concluded without consensus on confronting climate change, particularly regarding fossil fuels, despite warnings from experts. This failure comes after a year of devastating natural disasters, including deadly flooding in Nepal, widespread wildfires in Canada affecting U.S. air quality, and a summer heatwave in Europe that killed over 50,000 people. Israel's conflict in Gaza has also severely impacted the environment, with over 99% of the territory at risk of contamination.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7132,
+          "severity": "red",
+          "detail": "The COP31 U.N. climate talks failed to reach a consensus on addressing fossil fuels and global warming."
+        },
+        {
+          "name": "Nuwakot, Nepal",
+          "lat": 27.9333,
+          "lng": 85.1667,
+          "severity": "red",
+          "detail": "A partially collapsed Himalayan glacier triggered catastrophic flooding, washing away entire villages and leaving thousands dead or missing."
+        },
+        {
+          "name": "Europe",
+          "lat": 48.6909,
+          "lng": 9.1406,
+          "severity": "red",
+          "detail": "A summer heatwave across the continent killed more than 50,000 people, with nearly two-thirds of the deaths attributed to human-caused climate change."
+        },
+        {
+          "name": "Canada",
+          "lat": 56.1304,
+          "lng": -106.3468,
+          "severity": "yellow",
+          "detail": "Wildfires raged across the globe, including in Canada, with smoke causing severe air quality issues in several U.S. cities."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Israel's war on Gaza has left more than 99% of the territory at risk of environmental contamination, threatening human survival."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Polio outbreak in Syria, dire health conditions in Sudan and Gaza.",
+      "summary": "A polio outbreak was reported in October 2026 in Syria's Deir ez-Zor Governorate, prompting a swift response from health authorities. In Sudan's West Kordofan state, doctors urged aid agencies to rehabilitate Al-Khuwai Hospital after extensive damage and looting, crippling its services. The UN highlighted the staggering devastation in Gaza, with tens of thousands killed and critical infrastructure destroyed, and air quality in US cities was severely impacted by Canadian wildfires.",
+      "regions": [
+        {
+          "name": "Deir ez-Zor, Syria",
+          "lat": 35.3188,
+          "lng": 40.1652,
+          "severity": "red",
+          "detail": "A polio outbreak was reported in October 2026, leading to an urgent public health response."
+        },
+        {
+          "name": "Al-Khuwai, Sudan",
+          "lat": 11.1333,
+          "lng": 27.7667,
+          "severity": "red",
+          "detail": "Doctors urged aid agencies to rehabilitate Al-Khuwai Hospital in West Kordofan after it suffered extensive damage and looting by Rapid Support Forces."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "Tens of thousands have been killed and homes, schools, and hospitals reduced to rubble, with another winter setting in amid dire conditions."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wildfire smoke from Canada caused air quality in several U.S. cities, including New York, to be among the worst in the world, posing health risks."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "AI sector boosts markets; trade restrictions and energy crisis pose risks.",
+      "summary": "Global stock markets, particularly the tech sector, saw a significant rally following the reinstatement of Jensen Huang as Nvidia's CEO, fueled by renewed AI euphoria. Singapore raised its 2026 GDP growth forecast due to robust AI-related demand. However, a WTO report highlighted a sharp rise in G20 trade restrictions, though these were offset by trade-facilitating measures and resilient global trade driven by AI-enabling goods. The global energy crisis, exacerbated by the Strait of Hormuz situation, continues to distort energy consumption patterns.",
+      "regions": [
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Singapore raised its 2026 GDP growth forecast to approximately 6% due to strong demand in the AI sector."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "yellow",
+          "detail": "European markets, influenced by global tech rallies, continued to navigate economic trends amid discussions on trade and protectionism with China."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "yellow",
+          "detail": "The 17th China-EU Economic and Financial Dialogue addressed macroeconomic conditions, G20 cooperation, and warnings against protectionism."
+        },
+        {
+          "name": "New York City, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street experienced a significant rally, with the S&P 500 and Nasdaq surging due to Nvidia's news, although broader economic uncertainties persist."
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Discussions with MSCI CEO eased concerns over Indonesian assets, providing a near-term positive catalyst for the Rupiah and domestic markets."
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lng": 56.1667,
+          "severity": "yellow",
+          "detail": "The Strait of Hormuz crisis contributed to the global energy crisis, disrupting energy supplies and pushing up prices."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "India's democracy under strain; US midterms scrutinize institutions.",
+      "summary": "Human Rights Watch reported that India's government has systematically weakened democratic institutions, including undermining parliamentary procedures, suppressing opposition, and interfering in the judiciary. In the United States, the aftermath of the 2026 midterm elections continues to highlight concerns over economic unease, partisan polarization, and the condition of democratic institutions, with a new Democracy Tracker identifying serious concerns in government accountability and media freedom.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "red",
+          "detail": "Human Rights Watch reported systematic weakening of democratic institutions, suppression of political opposition, and arbitrary removal of over 130 million names from electoral rolls."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Discussions surrounding the 2026 midterms and a new Democracy Tracker highlighted concerns over government accountability and media freedom in the United States."
+        },
+        {
+          "name": "Jerusalem, Israel",
+          "lat": 31.7683,
+          "lng": 35.2137,
+          "severity": "yellow",
+          "detail": "Unity government talks resumed between Gadi Eisenkot's Yashar party and Prime Minister Benjamin Netanyahu's Likud following the 2026 election."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The Housing, Communities and Local Government Committee held an evidence session on political donations and preventing foreign financial interference in UK politics."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Gaza aid crisis deepens; WFP warns of rising costs and millions at risk.",
+      "summary": "The humanitarian crisis in Gaza deepened, with the UN stating Palestinians are not receiving adequate safety or assistance, and US senators urging Israel to allow critical winter aid. The World Food Program warned that wars in the Middle East and Ukraine, combined with climate shocks, could raise its costs by $727 million, threatening food aid for 7.3 million more people globally. In Sudan, doctors called for the rehabilitation of Al-Khuwai Hospital, severely damaged and looted, jeopardizing healthcare for residents.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.3547,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "The UN highlighted that Palestinians are not receiving the safety, assistance, or recovery needed, and US senators urged Israel to allow critical winter supplies amidst flooded tents."
+        },
+        {
+          "name": "Rome, Italy",
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "severity": "red",
+          "detail": "The World Food Program, headquartered in Rome, warned that wars and climate shocks could significantly increase its operational costs, jeopardizing aid for millions."
+        },
+        {
+          "name": "Al-Khuwai, Sudan",
+          "lat": 11.1333,
+          "lng": 27.7667,
+          "severity": "red",
+          "detail": "Doctors urged aid agencies to rehabilitate Al-Khuwai Hospital in West Kordofan after it suffered extensive damage and looting by Rapid Support Forces, crippling local healthcare."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "red",
+          "detail": "Catastrophic flash flooding from a collapsed glacier in northern Nepal devastated communities, killing thousands and severely impacting infrastructure for recovery."
+        },
+        {
+          "name": "Deir ez-Zor, Syria",
+          "lat": 35.3188,
+          "lng": 40.1652,
+          "severity": "red",
+          "detail": "A polio outbreak in October 2026 is an additional humanitarian concern requiring a rapid response."
+        }
+      ],
+      "sources": [
+        {
+          "title": "amnesty.org.au",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3qtsJxWg0TICo7QrtLUA1UhYajVyPN1DFEwd_NtGmhjlbe-tva6Ovp2zO4DNSgVJN67mDwf0wSN6TrAT9c6QgOFI_liIoMLBUyQ7T5z6lvriWHDANeN7p1jk-5qxRJv8obdytR7qYXVDfYPftLYTd-RXL6YdguCRcm2nemZL1pJGEs-LDGlg51tKSs7VFzpiOEDEOkLDtln_tNj8PXqGnBBjKt9pNihIlL5vGw1U_VJbfYZlw9ZNOGPa1a6_pxlZJnQdaJ4x2LXGQ4O-KJgo="
+        },
+        {
+          "title": "anews.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DdCmo4QIb7W_0RENjYC4JEj1NFM3kQ59seHRbnMUtgtL9ho7aPp6xwVB_enbNaKN2sYIMGnXS-4oaV9i0MrY0zIZwWk_tXbnPTV-rph9PccQXOWflOJekD7BwgDzKOb0t9B9cSahXS0fVkpGWfOFEQOSAXh_4c_-RJ2HwG85vzyQkGWQwlPnYQ6OOXoddrBlvCVDYjWzfGpeasGIJc-Dtne3sYbQSFscYPcwBkbq_V0TWYNpFWr1pdgEqgFarasxCFs3TrsJ4Hy7piGj"
+        },
+        {
+          "title": "japantimes.co.jp",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtcBAsbWJLjtxDjxxvaiImKMb_vb-Ysx8ymNh3ShrVXHfoINOXnk5c3P6Rn-Dj5Qo6DHqF57QbBKErUyIkyAQIYSmQ2GAlMZmBibz2eTGwe4xYjYZAM-iZC9FqNFeMxMFBfS9eUWabt02evH5nT9mrwys-OX9C7BVshw-gRAoBHLuBMG34Pnd0i_TUi2Ur4mW-xs5EkoxxfpE="
+        },
+        {
+          "title": "wam.ae",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZw6AMgqU8du9aOHKc790aQ-UHeeLfN-Pah9s30BqgwYCXwcIdj4TtyaLk_pmOcvpDvZa74gjSBK7r-elv19a65c5LwQ2AnIe-pjr4xg96tJ-ojAFfw-O5d3sqkEO1uiyaAE07F21kRfNaxOBZqugQn8s-JEjIiP24RLp6uReVRdqUI0dmipVTI3Mq7w="
+        },
+        {
+          "title": "aa.com.tr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpF4ZUO2tVJKGkT7SAWwGC8PjDg-Z0Ywp2cX2yv8Mbxw6IigkFrqdBvaDJ-P-6SLlEcemKPxGLtq7zNuiPZRKFwb1ft0ruV-iCKoqkWuUOEjds5OeA3SdcZKTfVkojyG0FbN6ItjBmcvuFxNdWidsuqUMlirUoUo6SZSw7dwbGOdSXU_hQpVYH49VI-rJyviaazGqRmyzSkglfLC7BHGXlGVFED2ef3_MX9nyiw=="
+        }
+      ]
+    }
+  }
+}
