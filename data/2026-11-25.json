@@ -1,0 +1,475 @@
+{
+  "date": "2026-11-25",
+  "timestamp": 1795586621066,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Middle East Tensions Escalate with Saudi-Yemen Strikes",
+      "summary": "On November 25, 2026, the Saudi-led coalition launched strikes on Yemen's Hodeidah port and other Houthi targets, following Houthi threats to Saudi Red Sea ports. This escalation comes amidst ongoing concerns about regional stability and a broader US-Israel-Iran conflict.",
+      "regions": [
+        {
+          "name": "Hodeidah, Yemen",
+          "lat": 14.8,
+          "lng": 42.95,
+          "severity": "red",
+          "detail": "Saudi-led coalition reportedly struck operational capabilities at Hodeidah port and other targets."
+        },
+        {
+          "name": "Ras Tanura, Saudi Arabia",
+          "lat": 26.7099,
+          "lng": 50.1165,
+          "severity": "yellow",
+          "detail": "Saudi air defenses intercepted and destroyed four drones over Ras Tanura."
+        },
+        {
+          "name": "Saada, Yemen",
+          "lat": 16.95,
+          "lng": 43.75,
+          "severity": "yellow",
+          "detail": "The Saudi-led coalition also struck targets in the northern governorate of Saada."
+        },
+        {
+          "name": "Tehran, Iran",
+          "lat": 35.6892,
+          "lng": 51.389,
+          "severity": "yellow",
+          "detail": "Iran remains a central party in the regional tensions, with discussions on the broader US-Israel-Iran conflict."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. President Donald Trump commented on funding for the Iran war, highlighting U.S. involvement in regional dynamics."
+        },
+        {
+          "name": "Manila, Philippines",
+          "lat": 14.5995,
+          "lng": 120.9842,
+          "severity": "green",
+          "detail": "The Philippine government reaffirmed its support for a two-state solution between Israel and Palestine amidst regional instability."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "AI Safety, Digital Rights, and Surveillance Are Key Concerns",
+      "summary": "On November 25, 2026, employees at OpenAI and Anthropic raised alarms over AI safety and control, while Fox News host Will Cain warned about the risk of an AI oligarchy. UNESCO hosted an event on AI and Human Rights, and Australia moved to pass stronger digital safety laws.",
+      "regions": [
+        {
+          "name": "San Francisco, USA",
+          "lat": 37.7749,
+          "lng": -122.4194,
+          "severity": "yellow",
+          "detail": "Employees at AI companies like OpenAI (based near San Francisco) expressed concerns about AI safety and control."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "Fox News host Will Cain warned of an AI oligarchy risk under closed models, a debate gaining mainstream attention."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "UNESCO, in collaboration with the EU and Jordan, held a high-level event on AI and Human Rights."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Australia is moving towards stronger digital safety laws, including a 'Digital Duty of Care' Bill to protect individuals online."
+        },
+        {
+          "name": "Lagos, Nigeria",
+          "lat": 6.5244,
+          "lng": 3.3792,
+          "severity": "yellow",
+          "detail": "Stakeholders in West Africa called for a rights-based approach to digital transformation to prevent inequality and abuse."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Human Rights Watch reported on growing repression in Hong Kong following the one-year anniversary of a devastating fire, noting suppression of peaceful criticism."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "yellow",
+      "headline": "COP31 Fails on Fossil Fuels, Antarctica Tech Deployed",
+      "summary": "The COP31 climate talks in Turkey ended without an overarching agreement on phasing out fossil fuels, leading to widespread disappointment. Meanwhile, COVID-era technology is being deployed in Antarctica to better track climate change and its impacts on the polar region.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "yellow",
+          "detail": "The COP31 climate talks concluded in Turkey without a consensus document, particularly on the phasing out of fossil fuels."
+        },
+        {
+          "name": "Western Antarctica",
+          "lat": -79.7925,
+          "lng": -83.583,
+          "severity": "yellow",
+          "detail": "Scientists are deploying COVID-era technology to capture airborne microbes and understand climate change effects."
+        },
+        {
+          "name": "Hong Kong, China",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "severity": "yellow",
+          "detail": "Researchers from City University of Hong Kong are leading an expedition to Antarctica to study climate patterns."
+        },
+        {
+          "name": "England, UK",
+          "lat": 52.3555,
+          "lng": -1.1743,
+          "severity": "yellow",
+          "detail": "Coastal areas in England received £11m in new funding to adapt to erosion and rising seas, accelerated by climate change."
+        },
+        {
+          "name": "Vanuatu",
+          "lat": -15.3767,
+          "lng": 166.9592,
+          "severity": "green",
+          "detail": "Vanuatu launched legal proceedings against France over disputed islands, a territorial battle unrelated to climate events on this specific date, but reflecting broader Pacific geopolitical dynamics."
+        },
+        {
+          "name": "Islamabad, Pakistan",
+          "lat": 33.7298,
+          "lng": 73.0931,
+          "severity": "yellow",
+          "detail": "Pakistan, a vulnerable developing country, faces significant climate risks including heatwaves, floods, and droughts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles Spreads in US, Thailand Battles Air Pollution",
+      "summary": "On November 25, 2026, measles continued to spread in the mainland United States, prompting health officials to urge vaccination. In Thailand, a Clean Air Bill faced a crucial parliamentary vote amidst rising PM2.5 pollution levels in several areas.",
+      "regions": [
+        {
+          "name": "U.S. Virgin Islands, USA",
+          "lat": 18.3358,
+          "lng": -64.8963,
+          "severity": "yellow",
+          "detail": "The V.I. Health Commissioner urged residents to check vaccination records due to a resurgence of measles in the mainland U.S."
+        },
+        {
+          "name": "Middletown, Iowa, USA",
+          "lat": 40.8525,
+          "lng": -91.2612,
+          "severity": "yellow",
+          "detail": "The U.S. Army planned controlled detonations at an ammunition plant, raising potential public health concerns about lead dust."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "Thailand's Clean Air Bill faced a decisive parliamentary vote as PM2.5 pollution renewed public health concerns."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "The WHO chief urged an end to the U.S. fuel blockade on Cuba, citing critical shortages impacting healthcare and endangering children."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO hosted a webinar on safeguarding communities in all-hazards emergencies, reflecting ongoing global health preparedness efforts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "green",
+      "headline": "US Economic Data Released, Global Markets Stable",
+      "summary": "On November 25, 2026, the U.S. saw the release of key economic data, including GDP, Core PCE Price Index, and jobless claims. Global financial markets remained generally stable, with ongoing monitoring of inflation and supply chain dynamics.",
+      "regions": [
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "The U.S. released key economic indicators including GDP, Personal Income & Outlays, and Durable Goods Orders."
+        },
+        {
+          "name": "Frankfurt, Germany",
+          "lat": 50.1109,
+          "lng": 8.6821,
+          "severity": "green",
+          "detail": "Germany's GDP data was scheduled for release, contributing to the European economic picture."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "green",
+          "detail": "France's Consumer Confidence data was released, providing insight into the Eurozone's economic sentiment."
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "severity": "green",
+          "detail": "Singapore released its Current Account and GDP Growth Rate figures for Q3."
+        },
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "green",
+          "detail": "India has been active in discussions about inclusive AI governance, reflecting its growing role in the global tech economy."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "India Delimitation Concerns, US Midterm Reflections Continue",
+      "summary": "In India, a Rajya Sabha member raised concerns about potential manipulation of democratic processes through delimitation. Meanwhile, in the U.S., reflections continued on the recent midterm elections, which saw a record number of women winning state legislative seats, largely driven by Democratic gains.",
+      "regions": [
+        {
+          "name": "New Delhi, India",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "severity": "yellow",
+          "detail": "A Rajya Sabha member warned that democracy in India might not survive if proposed delimitation changes are enacted."
+        },
+        {
+          "name": "Tarrant County, Texas, USA",
+          "lat": 32.7555,
+          "lng": -97.3308,
+          "severity": "green",
+          "detail": "Young Republicans in Tarrant County reflected on the party's setbacks in the recent midterm elections."
+        },
+        {
+          "name": "Rutgers University, New Jersey, USA",
+          "lat": 40.5,
+          "lng": -74.45,
+          "severity": "green",
+          "detail": "An analysis from Rutgers University highlighted a record number of women in state legislatures following the U.S. midterms."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "green",
+          "detail": "Solomon Islands signed a security pact with Australia, limiting ties with China, which impacts regional geopolitical dynamics."
+        },
+        {
+          "name": "Beijing, China",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "severity": "green",
+          "detail": "China and the UK held discussions on bilateral relations and global peace, amidst ongoing geopolitical shifts."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Gaza Aid Urged, Humanitarian Transitions Discussed",
+      "summary": "U.S. senators urged the Trump administration to pressure Israel to allow winter aid into the Gaza Strip, where humanitarian conditions are worsening. Separately, the Inter-Agency Standing Committee discussed principles for responsible humanitarian transitions amid shrinking resources and acute needs in various crises.",
+      "regions": [
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3,
+          "severity": "red",
+          "detail": "U.S. senators urged the allowance of winter humanitarian aid, including tents and blankets, due to worsening conditions and recent flooding."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "U.S. Senators appealed to the Trump administration to intervene and facilitate aid delivery to Gaza."
+        },
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The Inter-Agency Standing Committee discussed principles for responsible humanitarian transitions, relevant to global aid efforts."
+        },
+        {
+          "name": "San José del Palmar, Colombia",
+          "lat": 4.9658,
+          "lng": -76.2443,
+          "severity": "yellow",
+          "detail": "Colombia continues to face humanitarian challenges from armed conflict and climate hazards, exacerbated by an August 2026 earthquake."
+        },
+        {
+          "name": "Havana, Cuba",
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "severity": "yellow",
+          "detail": "The WHO chief called for an end to the U.S. fuel blockade, noting critical shortages impacting Cuba's healthcare system."
+        }
+      ],
+      "sources": [
+        {
+          "title": "gulfnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrVb4WVnPOhN8Jf6XiRUe7FSTb-KkGPFL6SZurMZBzxiuMwhLD7XIadEAtcm2iqaZF8HZmZSq56PwbNJAD6mEkvHugFzWeV6R0dSPDMUrJoCH3ZkM78j396wj1OHaEz1jNpMCN24A3iuYjzJjxZJTSlNvLAL4xcK56-6Trd5XZDL8dkgqHNq4MUM2qSSd79x8gf9CklQeQy8vBOtuhxllqQvRQbr4-IyqDUvaSC9OEsIJdwJHK2jaR5FbHX-L76G6Hp3Q="
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISE4voqIBuyt1Avq7XosmOH0pFeeGjQ470V-s_Ut3E10qN4_MlBzovQvDE-_fhAwoqSFEWVxvc8FkzdOhdyQeOsZ3Y2yHQ-8Go6I8i0_MGOcRasAYkt8DxACoH8PYM7FCTiCVtO8IJEY-W--TfprwJGYlN4E4qvnhJUjmLD2WqsHv5aGwz9xc-p00zhQ65cx14bhZF00f5wM="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvltaQ-AXFH0T292QmD8fFkLAVUi0lsirqxJpagERe8-m_q-EuYZYGVeGrXy7rxrNnNYixaeJ73NoynUiI7iq3qUkp_7h4JYpa2eDM1QLpYuJK_aCfvbL5ZINzCg4a7V2Li8084EthoabhNjK0X-Ex0CZiC0uD-xZHWHvZj--egCuZrI0ITLyrPXMhSeZG27Hkehm6BMB9ZMnclfBGiIjB_jAJrfYEuCdrndq1mMMJXQe72F5vPKRFTJRvL0FrM8="
+        },
+        {
+          "title": "thehindu.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xsYJSWm-W_SVnIw3o-kudZnP_10TmKwY4TJdv_9SK-iRTtiDl4RU2Y2bRfXX6kUkKT-oKMeOlsavVjtZGZ67uQlTWoQ-DaCgwcZ9lSaAqYeGV4YuPsfgujJiC0F9SHYY4_8KuV2fN9AdEFE4J-HibB3Kv-wrPjiDSmsCehFtIbrJLBivgD9GQ2myyaaDMwjUW2HF2pd6P-5Gm6b9tcfhT4MOVrIuJe37-AR-6jqnGqfAyOflGQ9s-RdwoGwCSkyX7w=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySMVg9-HLiT_IaV0zKU8R6JyzcBz-hgvpFFP54IsUvYl4XIE-nXULF-cARSPf-99SXNEYwKqzx7uO9CgrDLyJHYSU2_dB6qepNS5wkKgieDVfozWiHdhz-4FCUPGBtkqFRw07Lz0YzuK1G_H_wm2rJuFF-LheuU_ekNnl3ciK1beeAUwIE5KLxGA="
+        }
+      ]
+    }
+  }
+}
