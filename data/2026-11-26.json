@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-26",
+  "timestamp": 1795673021012,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "yellow",
+      "headline": "Yemeni Missile Attack on Riyadh; Ukraine Peace Talks Stalled",
+      "summary": "Powerful explosions were reported in Riyadh, Saudi Arabia, following a missile attack by Yemeni armed forces, though Saudi Arabia claimed to have intercepted the missiles. Meanwhile, US envoy Jared Kushner indicated that peace talks between Russia and Ukraine were at an impasse over territorial issues, blaming Ukraine's 2025 attack on Putin's residence for delays. A trilateral declaration of peace signed by the US, China, and Russia in Shenzhen on November 19 was noted for its contradictions with ongoing global conflicts.",
+      "regions": [
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "red",
+          "detail": "Powerful explosions were reported in the capital following a missile attack by Yemeni armed forces, which Saudi Arabia claimed to have intercepted."
+        },
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "yellow",
+          "detail": "US envoy Jared Kushner stated that peace negotiations with Russia were at a deadlock over territorial issues and that a 2025 Ukrainian attack had caused delays."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "yellow",
+          "detail": "Russia's position in peace talks with Ukraine remains focused on territorial concessions for Donbas as a precondition for negotiations."
+        },
+        {
+          "name": "Shenzhen, China",
+          "lat": 22.5431,
+          "lng": 114.0579,
+          "severity": "green",
+          "detail": "A declaration of peace was signed here on November 19 by the US, China, and Russia, though critics highlight its contrast with ongoing conflicts and nuclear arsenals."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Digital Rights, Discrimination, and Indigenous Justice Concerns Globally",
+      "summary": "Germany's government faces criticism for funding cuts threatening anti-discrimination efforts and civil society projects. In Australia, a new Digital Duty of Care Act was passed, imposing significant fines on tech companies for foreseeable harms and establishing a private right of action. Meanwhile, in Uganda, the ICT ministry is investigating telecommunication companies over 'fast depletion of data bundles' amidst concerns from digital rights groups about internet costs.",
+      "regions": [
+        {
+          "name": "Berlin, Germany",
+          "lat": 52.52,
+          "lng": 13.405,
+          "severity": "yellow",
+          "detail": "Funding cuts to civil society projects are threatening anti-discrimination efforts and human rights protection."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "The Parliament passed the Digital Duty of Care Act, holding tech companies accountable for foreseeable harms and user privacy."
+        },
+        {
+          "name": "Kampala, Uganda",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "severity": "yellow",
+          "detail": "The ICT ministry is investigating telecom companies regarding the rapid depletion of internet data bundles, addressing digital rights concerns."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Citizens are demanding greater accountability from tech platforms regarding data privacy, online harassment, and AI's influence ahead of the 2027 elections."
+        },
+        {
+          "name": "Sacramento, California, USA",
+          "lat": 38.5816,
+          "lng": -121.4944,
+          "severity": "yellow",
+          "detail": "California faces ongoing challenges in accurately reporting and addressing the crisis of missing or murdered Native Americans and Alaska Native people."
+        },
+        {
+          "name": "Guatemala City, Guatemala",
+          "lat": 14.6349,
+          "lng": -90.5069,
+          "severity": "yellow",
+          "detail": "PAHO is launching a virtual course to strengthen health services' response to violence against women and girls in the Americas."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "Global Temperatures Hit Record 2C Above Pre-Industrial Levels for Six Days; COP31 Fails",
+      "summary": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels for the first time, a striking indication of accelerating global heating. This alarming record comes as the COP31 climate summit collapsed without agreement, with OPEC blaming the EU for rejecting a deal that did not mention moving away from fossil fuels. Australia also reported it is projected to significantly miss its 2035 emissions target without substantial new climate policies.",
+      "regions": [
+        {
+          "name": "Global",
+          "lat": 0,
+          "lng": 0,
+          "severity": "red",
+          "detail": "Global surface temperatures recorded six consecutive days of 2C above pre-industrial levels, the highest and longest such streak to date."
+        },
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "red",
+          "detail": "The COP31 climate summit concluded without agreement, as nations failed to reach consensus on phasing out fossil fuels."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "New official projections indicate Australia will fall significantly short of its 2035 emissions reduction target under current policies."
+        },
+        {
+          "name": "Eastern Africa",
+          "lat": 5,
+          "lng": 40,
+          "severity": "yellow",
+          "detail": "A large part of the region, including South Sudan and northern Uganda, faces persistent dryness and deteriorated vegetation conditions due to below-average rainfall."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -25,
+          "lng": 30,
+          "severity": "yellow",
+          "detail": "High risks of flooding linger in parts of Southern Africa, including South Africa, Mozambique, and Zimbabwe."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "Measles Outbreak in US, HIV Funding Crisis, and New Gonorrhea Treatment",
+      "summary": "The World Health Organization (WHO) has conditionally recommended a new oral antibiotic, zoliflodacin, for gonorrhoea treatment amidst ongoing antimicrobial resistance concerns. In the US, health workers are addressing a measles outbreak in Pennsylvania's Amish communities, following the country's loss of its measles elimination status. UNAIDS also warned that decades of progress in combating HIV are threatened by funding cuts and challenges to access, despite new generic prevention options becoming available in countries like Zambia and Uganda.",
+      "regions": [
+        {
+          "name": "Geneva, Switzerland",
+          "lat": 46.2044,
+          "lng": 6.1432,
+          "severity": "green",
+          "detail": "The WHO recommended a new oral antibiotic for gonorrhea and released data on antimicrobial resistance."
+        },
+        {
+          "name": "Chester County, Pennsylvania, USA",
+          "lat": 39.9598,
+          "lng": -75.6045,
+          "severity": "red",
+          "detail": "Health authorities are conducting door-to-door vaccination campaigns in Amish communities to combat a significant measles outbreak."
+        },
+        {
+          "name": "Zambia",
+          "lat": -13.1339,
+          "lng": 27.8493,
+          "severity": "yellow",
+          "detail": "Zambia received the world's first deliveries of generic lenacapavir, a twice-yearly injectable for HIV prevention, amidst warnings of funding cuts to HIV responses."
+        },
+        {
+          "name": "Uganda",
+          "lat": 1.3733,
+          "lng": 32.2903,
+          "severity": "yellow",
+          "detail": "Uganda is expecting deliveries of generic lenacapavir for HIV prevention, as UNAIDS warns of a global crisis threatening HIV progress due to funding shortfalls."
+        },
+        {
+          "name": "Canberra, Australia",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "severity": "yellow",
+          "detail": "Experts launched a handbook highlighting Australia's housing crisis as a health crisis, linking poor housing to various health issues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "Asian Markets Rebound Amidst Saudi Oil Attack Fears; US Markets Closed",
+      "summary": "Asian stock markets, including India's Sensex and Nifty, rebounded in early trade, showing increased risk appetite. However, fresh supply fears emerged as Brent crude hovered near $94 following reported Saudi oil attacks. US stock markets were closed for Thanksgiving Day, with shortened trading sessions expected on Friday.",
+      "regions": [
+        {
+          "name": "Mumbai, India",
+          "lat": 19.076,
+          "lng": 72.8777,
+          "severity": "green",
+          "detail": "Indian stock market indices (Sensex and Nifty) opened and traded higher, with foreign fund inflows and buying in IT shares."
+        },
+        {
+          "name": "Riyadh, Saudi Arabia",
+          "lat": 24.7136,
+          "lng": 46.6753,
+          "severity": "yellow",
+          "detail": "Reported missile attacks on Riyadh contributed to fresh oil supply fears, impacting global market sentiments."
+        },
+        {
+          "name": "New York, USA",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "green",
+          "detail": "US stock exchanges (NYSE and Nasdaq) remained closed for the Thanksgiving holiday."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "green",
+      "headline": "Taiwan Prepares for Local Elections; US Midterms Show Democratic Gains",
+      "summary": "In Taiwan, political parties began their final election blitz ahead of local elections scheduled for Saturday, mobilizing voters and holding rallies. Meanwhile, post-election analyses of the US midterm elections (held November 3, 2026) revealed that Democrats gained control of the U.S. House with a net gain of 45 seats and swept many down-ballot statewide races, flipping numerous Republican-held positions.",
+      "regions": [
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Major political parties are conducting final campaign rallies and stumps ahead of Saturday's local elections."
+        },
+        {
+          "name": "Washington D.C., USA",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "green",
+          "detail": "Analysis of the November 3, 2026, midterm elections confirmed Democrats gained control of the US House and secured significant down-ballot victories nationwide."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "yellow",
+      "headline": "Aid Dispersed for Australian Bushfires and Florida Flooding; Global Weather Hazards Persist",
+      "summary": "Australian and Victorian governments announced a $17 million disaster assistance package to support communities impacted by bushfires earlier this year, with additional emergency grants activated for Flinders Island. In the US, federal disaster assistance was approved for Florida following severe storms and flooding that began in late October. A global weather hazards summary for the upcoming week indicates persistent dryness in Eastern Africa and high risks of flooding across several regions in Southern Africa and the Democratic Republic of Congo, suggesting ongoing humanitarian needs.",
+      "regions": [
+        {
+          "name": "Melbourne, Victoria, Australia",
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "severity": "green",
+          "detail": "The Victorian government, in conjunction with the Australian government, committed an additional $17 million in disaster aid for communities affected by January 2026 bushfires."
+        },
+        {
+          "name": "Flinders Island, Tasmania, Australia",
+          "lat": -40,
+          "lng": 148,
+          "severity": "green",
+          "detail": "Emergency Assistance Grants were activated by the Tasmanian Government to support individuals impacted by a bushfire on the island."
+        },
+        {
+          "name": "Tallahassee, Florida, USA",
+          "lat": 30.4383,
+          "lng": -84.2807,
+          "severity": "green",
+          "detail": "President Donald J. Trump approved a major disaster declaration for Florida due to severe storms and flooding impacting several counties since October 31."
+        },
+        {
+          "name": "Eastern Africa",
+          "lat": 5,
+          "lng": 40,
+          "severity": "yellow",
+          "detail": "The region continues to face dryness due to below-average rainfall, leading to deteriorated vegetation conditions and potential humanitarian concerns."
+        },
+        {
+          "name": "Southern Africa",
+          "lat": -25,
+          "lng": 30,
+          "severity": "yellow",
+          "detail": "Several areas across Southern Africa face high risks of flooding in the coming week, indicating ongoing humanitarian challenges."
+        },
+        {
+          "name": "Democratic Republic of Congo",
+          "lat": -2.8066,
+          "lng": 23.6841,
+          "severity": "yellow",
+          "detail": "Flooding is likely to continue in parts of the Democratic Republic of Congo, exacerbating existing humanitarian needs."
+        }
+      ],
+      "sources": [
+        {
+          "title": "tasnimnews.ir",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ErWAL08mDBNxq9JS8rWcRtO2u5mskuNvH4GIRfmVMhmifeTqSwoUVWp0i4X1hZAtmm0_PWqZCOsNw7bJRqP1K-dLzx-YvbV_Oh0to4S8N2Bqca5HN9luovAa25-Vx8_A3Ule3JQYMJn9YUUKuPfKB6sfY1jkBj9JRHSMp0Egpii_udG_CEJejgrG9mEuhOjUg7FuHHHr5xxefjesqY7S0tk-63YXOtpsoyz1rM2pis0505z7zQ=="
+        },
+        {
+          "title": "pravda.com.ua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhgNnDiDGtbguUkzmDwN1W0oTFinFqaK9E2hnl8beG5LHH8EN3k9u0QHs-CEPXnUH0E0JS5HiLDdK6vfwmamumorsISuUXNmNwyXW5pFCnt8xbO_UtxWUYEVLWBNPTXoaxugTP8e_JkfOix9ytolnZw=="
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqdIYZv-5oWsxHMStf2ylh68U_UuN84_zUEU9qHApaIbMuWny4NduSAharDYKUC2hBgfoMSIIkDIDks-WpkSNNw92f2c7uUats711z7jqKZj74kt79Hxx5OVGBOlbiHfpBrd_2xNpSZ3koQ_7xvtFrzgnQbPmI-ymsKOs4hH8sEoxEgyNCiZ9pBG2w_1ALaSKACXqzE__fzT-P8hme9ixfd_o09vgRQ=="
+        },
+        {
+          "title": "moderndiplomacy.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3KzCYMVj4te3F2mpNo7gqrHahJ7t0xHL8Z7hrVmiAPF9QbzkD6YEv8DDzRtyxsw-9qrkUUrape07hjr76kSd_7mJnQD536ewdB23bMf0UmboE16zRaDW6So30NdP8VxrPNEnwHZRnR5b3e0rt_hzHDNVB2ytaQondYy6hIP86JpkalekZ7ubJWAxGi45y1X_9txEZ-6DzfVgeIiJCijV4CRoyCc="
+        },
+        {
+          "title": "newnationalstar.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhJtSPm_nX9HCF9x_vOYRo1Uann2ALcu_Mt4pt_VE4tEnP_HSgNOlTUgmoGfTlCO5tJpHHQ6RttFR_rcRv9kaBt-2xMplgEdj-4HCw0LKkSM8j5cW27V_85XjrJv75T3KZ4HcQ-0eCN2pG1yDen91lhIZCbonziPbfoaEv9zqlXtVFUAQsdCkZjj0zx9e3PRtEL6Q5Qoemm1i"
+        }
+      ]
+    }
+  }
+}
