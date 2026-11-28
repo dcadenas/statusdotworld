@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-28",
+  "timestamp": 1795845802073,
+  "categories": {
+    "armed-conflicts": {
+      "severity": "red",
+      "headline": "Ukraine war grinds on amidst peace talks, Gaza ceasefire fragile",
+      "summary": "The conflict in Ukraine continues with ongoing aerial attacks from Russia and drone strikes from Ukraine, while President Zelensky expressed frustration over the US stance toward Russian leader Putin. In the Middle East, an Israeli strike on a Doctors Without Borders clinic in Gaza killed two employees, indicating the fragility of the year-old ceasefire and raising concerns for humanitarian workers.",
+      "regions": [
+        {
+          "name": "Kyiv, Ukraine",
+          "lat": 50.4501,
+          "lng": 30.5234,
+          "severity": "red",
+          "detail": "President Zelensky voiced frustration regarding the US stance on Putin and the ongoing Russian aggression against Ukrainian civilian infrastructure."
+        },
+        {
+          "name": "Moscow, Russia",
+          "lat": 55.7558,
+          "lng": 37.6173,
+          "severity": "red",
+          "detail": "Russian forces continued aerial attacks on Ukraine, while Russian regions and Crimea were targeted by Ukrainian drones."
+        },
+        {
+          "name": "Gaza City, Palestine",
+          "lat": 31.5,
+          "lng": 34.4667,
+          "severity": "red",
+          "detail": "An Israeli strike on a Doctors Without Borders clinic killed two employees, and at least seven Palestinians were killed in Israeli attacks despite a ceasefire."
+        },
+        {
+          "name": "Shenzhen, China",
+          "lat": 22.5431,
+          "lng": 114.0579,
+          "severity": "yellow",
+          "detail": "A trilateral meeting between Trump, Xi, and Putin resulted in a 'peace declaration' that notably omitted direct mention of the Ukraine or Iran wars."
+        },
+        {
+          "name": "Washington D.C., United States",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "severity": "yellow",
+          "detail": "President Zelensky expressed frustration with the US stance on the Ukraine conflict, particularly President Trump's friendly remarks towards Putin."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "human-rights": {
+      "severity": "yellow",
+      "headline": "Costa Rica bars UN expert; AI evidence concerns in Nepal",
+      "summary": "Costa Rica denied entry to UN Special Rapporteur Francesca Albanese on human rights in Palestinian territories, citing national security, drawing international criticism. Meanwhile, in Nepal, an individual sought human rights protection, alleging coercion, torture, and the fabrication of evidence using AI during police detention.",
+      "regions": [
+        {
+          "name": "San José, Costa Rica",
+          "lat": 9.9281,
+          "lng": -84.0907,
+          "severity": "yellow",
+          "detail": "The country barred UN Special Rapporteur Francesca Albanese, who focuses on human rights in Palestinian territories, from entering on national security grounds."
+        },
+        {
+          "name": "Kathmandu, Nepal",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "severity": "yellow",
+          "detail": "Inam Sapkota sought protection from the human rights commission, alleging coercion, torture, and fabrication of evidence, including AI-generated documents, during police custody."
+        },
+        {
+          "name": "Minsk, Belarus",
+          "lat": 53.9045,
+          "lng": 27.5615,
+          "severity": "green",
+          "detail": "The Human Rights Commission of the Commonwealth of Independent States (CIS) met to discuss cooperation in protecting human rights, particularly for migrant workers, women, and persons with disabilities."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "green",
+          "detail": "The Human Rights Writers Association of Nigeria (HURIWA) named the DSS DG 'Human Rights Man of the Year 2026' for institutional reforms and promoting human rights."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "climate-events": {
+      "severity": "red",
+      "headline": "COP31 fails on fossil fuels, strong El Niño fuels record warmth",
+      "summary": "COP31 in Antalya concluded without a major agreement, specifically failing to address fossil fuels due to finance disagreements between developed and developing nations. Meanwhile, the World Meteorological Organization reported 2026 as one of the warmest years on record, exacerbated by an intensifying El Niño expected to bring more extreme weather.",
+      "regions": [
+        {
+          "name": "Antalya, Turkey",
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "severity": "red",
+          "detail": "COP31 concluded without an overarching decision, failing to agree on addressing fossil fuels, with the main cause cited as a breakdown in climate finance commitments."
+        },
+        {
+          "name": "London, United Kingdom",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "severity": "yellow",
+          "detail": "The International Maritime Organization (IMO) held technical negotiations on a Net-Zero Framework for global shipping, facing resistance from some nations."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "A severe weather system threatens a humanitarian disaster for 1.3 million Palestinians living in deteriorating tents and shelters, with risks of flooding and collapsing buildings."
+        },
+        {
+          "name": "East Coast, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "A Thanksgiving storm brought heavy winds, rain, and snow, causing power outages and localized flooding in several states."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "public-health": {
+      "severity": "yellow",
+      "headline": "African HIV funding urged, measles immunity gaps persist, PFAS-liver cancer link found",
+      "summary": "Health experts urged African nations to integrate HIV financing into national budgets as international funding declined, affecting millions. The WHO reported persistent measles immunity gaps in its South-East Asia Region, accounting for almost half of global cases despite high vaccination rates. Additionally, new research linked 'forever chemicals' (PFAS) to an increased risk of liver cancer.",
+      "regions": [
+        {
+          "name": "Addis Ababa, Ethiopia",
+          "lat": 9,
+          "lng": 38.75,
+          "severity": "yellow",
+          "detail": "Health experts appealed for African countries to integrate HIV financing into national budgets due to significant cuts in international funding for HIV response."
+        },
+        {
+          "name": "Bangkok, Thailand",
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "severity": "yellow",
+          "detail": "The WHO South-East Asia Region reported 47% of global measles cases in 2025 despite high immunization coverage, indicating persistent immunity gaps."
+        },
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "The WHO chief visited, pledging support for domestic drug and vaccine production and to strengthen the public health system amid shortages."
+        },
+        {
+          "name": "Los Angeles, United States",
+          "lat": 34.0522,
+          "lng": -118.2437,
+          "severity": "yellow",
+          "detail": "University of Southern California researchers linked two 'forever chemicals' (PFAS) to a significantly higher risk of liver cancer."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "economic-crises": {
+      "severity": "yellow",
+      "headline": "AI rally lifts Wall Street, France in recession, Taiwan growth soars",
+      "summary": "Wall Street ended a turbulent week positively, driven by a rally in AI shares, though concerns about inflation and interest rates persist. In contrast, the French economy officially entered a recession with three consecutive quarters of contraction and weak exports. However, Taiwan saw its 2026 economic growth forecast raised significantly due to strong global demand for AI applications.",
+      "regions": [
+        {
+          "name": "New York, United States",
+          "lat": 40.7128,
+          "lng": -74.006,
+          "severity": "yellow",
+          "detail": "Wall Street rallied on renewed AI share interest, though concerns about inflation and potential rate hikes remained."
+        },
+        {
+          "name": "Paris, France",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "severity": "yellow",
+          "detail": "The French economy contracted for three consecutive quarters, officially entering a recession due to weak domestic demand and declining exports."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "green",
+          "detail": "Taiwan's 2026 economic growth forecast was raised to 13.28%, the fastest in 48 years, driven by strong global demand for AI applications."
+        },
+        {
+          "name": "Kuala Lumpur, Malaysia",
+          "lat": 3.139,
+          "lng": 101.6869,
+          "severity": "green",
+          "detail": "Bursa Malaysia is expected to trade cautiously, awaiting China's manufacturing PMI and US employment data for global economic outlook clues."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "democratic-erosion": {
+      "severity": "yellow",
+      "headline": "Venezuela pushes reform, Taiwan holds local elections amid China pressure",
+      "summary": "In Venezuela, opposition leader Maria Corina Machado initiated consultations for democratic reform, seeking proposals for elections in early 2027 after the interim president's delays. Taiwan held competitive local elections, including the Taipei mayoral race, amidst significant pressure from China, which denounced a candidate as a 'separatist.'",
+      "regions": [
+        {
+          "name": "Caracas, Venezuela",
+          "lat": 10.4806,
+          "lng": -66.9036,
+          "severity": "yellow",
+          "detail": "Opposition leader Maria Corina Machado launched an initiative to gather proposals for democratic reform, including calls for elections in the first half of 2027."
+        },
+        {
+          "name": "Taipei, Taiwan",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "severity": "yellow",
+          "detail": "Taiwan held local elections, including a competitive mayoral race in Taipei, while facing pressure from China over a candidate denounced as a 'separatist.'"
+        },
+        {
+          "name": "Jakarta, Indonesia",
+          "lat": -6.2088,
+          "lng": 106.8456,
+          "severity": "green",
+          "detail": "Coordinating Minister Dudung Abdurachman spoke on the importance of trust in government and addressed challenges to democracy from misinformation and polarization."
+        },
+        {
+          "name": "Quito, Ecuador",
+          "lat": -0.1807,
+          "lng": -78.4678,
+          "severity": "green",
+          "detail": "The OAS Electoral Observation Mission is monitoring local elections, urging peaceful and democratic processes following a complex pre-electoral phase with violence."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    },
+    "humanitarian": {
+      "severity": "red",
+      "headline": "Global hunger crisis deepens amid aid cuts, Gaza faces weather disaster",
+      "summary": "UN food agencies warned that hunger is set to worsen in 16 global hotspots, with Sudan, Yemen, South Sudan, Somalia, and northern Nigeria facing severe famine risks due to conflict and steep cuts in humanitarian funding. In Gaza, a looming severe weather system threatens 1.3 million displaced Palestinians living in inadequate shelters, risking widespread flooding and building collapses.",
+      "regions": [
+        {
+          "name": "Khartoum, Sudan",
+          "lat": 15.5,
+          "lng": 32.55,
+          "severity": "red",
+          "detail": "The country faces a persistent risk of famine, particularly in North Darfur and South Kordofan, with 41% of the population facing crisis-level hunger."
+        },
+        {
+          "name": "Sana'a, Yemen",
+          "lat": 15.3694,
+          "lng": 44.191,
+          "severity": "red",
+          "detail": "Resumed fighting displaced over 300,000 people, and civilians in Taiz face severe supply disruptions, leading to increased emergency levels of hunger."
+        },
+        {
+          "name": "Gaza Strip, Palestine",
+          "lat": 31.35,
+          "lng": 34.3333,
+          "severity": "red",
+          "detail": "A severe weather system threatens a humanitarian disaster for 1.3 million Palestinians, who are living in deteriorating tents and shelters at risk of flooding and collapse."
+        },
+        {
+          "name": "Mogadishu, Somalia",
+          "lat": 2.0371,
+          "lng": 45.3438,
+          "severity": "yellow",
+          "detail": "Somalia remains on the list of countries facing the gravest risk of worsening hunger, exacerbated by conflict and aid cuts."
+        },
+        {
+          "name": "Juba, South Sudan",
+          "lat": 4.85,
+          "lng": 31.6,
+          "severity": "yellow",
+          "detail": "South Sudan is identified as one of the nations at the highest level of concern for escalating hunger and famine risks."
+        },
+        {
+          "name": "Abuja, Nigeria",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "severity": "yellow",
+          "detail": "Northern Nigeria is listed among the regions facing the gravest threats of worsening hunger and potential famine."
+        }
+      ],
+      "sources": [
+        {
+          "title": "1news.co.nz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8BItR6CWSPFd1R5vWaYJsCNXgYzOH792_7cZoXZbG77hj2tePUIXKGXDlwAu2_VxP89xVtqQ9eHHhAPezAYhbPByKYpwya3TW0a_Ejf61qCpRNX0xcSABQ6_k70qStFPZKYyNgAlZ7c83yWNM_81Sfu4bAqPr81-It1z2BGlJ0hJsvF_He5GSzJ0NLbpX6bZWdKlZgdTsJowlmpzjvKsBg=="
+        },
+        {
+          "title": "bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhalqQxJbEaydP1hgp9fOFk8uz7uaqo31mOzWLxZslzEF2yGq90aLtoq49VvriMNt9yOKsLL1P7M73wm6SFs4gfi-OM6gCkx2vJ-JJoezxKKFoS_qJUrnV94eTmcwDPFifeOSg1pmjUHHCoDM="
+        },
+        {
+          "title": "tbsnews.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMsc02JhlL2FIvGv-UWqeaxx--khwDWlNTMUpOOat8EIr9zzXiKpW6HWKfepXojxrpVXdfaWJxpGdZFhsR_ijXw5tEv7jRwKMAHEPu9Y_pwpBq4ZB5fSh6V8tiKpd24KyYC5FsqvkiPeskxlsZMDRi4Oit8I3n-EAt2WliLPx9e8nU-grJ1krUaymjNHDjmMtTOqAnNBAnfk1dzWF-CX6dgPV_-BNy-c="
+        },
+        {
+          "title": "miragenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_UsjOu0a9IKG8ISUlpWOLgwj3ZiwRQL_WwjEU08mhgAQ5PwRD5scY9NvOkCwx-B_Jz3WcAVm7EN02l-q_xyfJYrP2dcCMTJz71poVez3SjbKpRAOx6NJMbWBSH2m4WYCKzmNlT7RIkZUyVie1DtmNGuSaCaq787p7sz5QtpqvhkV5Q7S0pL6pJHxRAZ0="
+        },
+        {
+          "title": "batimes.com.ar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGcNYby9NlgQTJ0tQcGy9jSe1Du0cJ5WZcLFo579efddIaFyArJFa0Fn7jR8ime1f6-qzhCzNUrNehtedAbD9ctNQkO6Xv_RywZ-bzbxL5udAizIqXq_SScfKCS6GH2D-aOWtoKiF_d1PuMjHoPKgShpUw4aRW-62ppyfLX4MH3_5sGwG8nt07ndUQ1sQQuFfpIZH8bSoeEaMNElgvpT4Kw=="
+        }
+      ]
+    }
+  }
+}
